@@ -1,0 +1,13 @@
+{
+  "name": "ibexa/i18n",
+  "description": "Ibexa translations",
+  "license": "(GPL-2.0-only or proprietary)",
+  "require": {
+    "ibexa/core": "^4.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+project_identifier: ibexa-dxp
+files:
+  - source: /**/*.xlf
+    translation: >-
+      /translations/%locale_with_underscore%/**/%file_name%.%locale%.%file_extension%
+    languages_mapping:
+      locale:
+        de: de
+        el: el
+        en-US: en_US
+        es-ES: es
+        fi: fi
+        fr: fr
+        hi: hi
+        hr: hr
+        hu: hu
+        it: it
+        ja: ja
+        nb: nb
+        nl: nl
+        pl: pl
+        pt-PT: pt
+        ru: ru
+        zh-HK: zh_HK
+        uk: uk
+    ignore:
+      - /translations
+      - /bin
+      - /docs
