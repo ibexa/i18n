@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="hr" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit id="c785ac4e96f9f1f9e88912335e6ef301e2db797e" resname="ibexa.attribute_definition.identifier.unique">
+        <source>Attribute Definition identifier must be unique</source>
+        <target state="needs-translation">Attribute Definition identifier must be unique</target>
+        <note>key: ibexa.attribute_definition.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="f923a5074eec47f76ac1d051b718045f4b6876a3" resname="ibexa.product.attribute_definition.options.valid">
+        <source>Attribute Definition options are invalid</source>
+        <target state="needs-translation">Attribute Definition options are invalid</target>
+        <note>key: ibexa.product.attribute_definition.options.valid</note>
+      </trans-unit>
+      <trans-unit id="c2ebc4ec76defca3dfe069021bbe7c296945eff2" resname="ibexa.attribute_group.identifier.unique">
+        <source>Attribute Group identifier must be unique</source>
+        <target state="needs-translation">Attribute Group identifier must be unique</target>
+        <note>key: ibexa.attribute_group.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="fc2b245e380123c3be66f40d0cf4c72be7bbd4e7" resname="ibexa.currency.code.unique">
+        <source>Currency code must be unique</source>
+        <target state="needs-translation">Currency code must be unique</target>
+        <note>key: ibexa.currency.code.unique</note>
+      </trans-unit>
+      <trans-unit id="ec0dd000c49ba57ac7dc76e89ac453022bce9fee" resname="ibexa.customer_group.identifier.unique">
+        <source>Customer Group identifier must be unique</source>
+        <target state="needs-translation">Customer Group identifier must be unique</target>
+        <note>key: ibexa.customer_group.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="16d9e936b98169fea81f682f22f9d4010393cbdc" resname="ibexa.product.identifier.unique">
+        <source>Product code must be unique</source>
+        <target state="needs-translation">Product code must be unique</target>
+        <note>key: ibexa.product.identifier.unique</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
