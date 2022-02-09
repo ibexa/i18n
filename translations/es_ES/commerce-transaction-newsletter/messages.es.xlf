@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="15b238a0faf5132c5b792643a3151c5ed09ac6a1" resname="common.doi_newsletter_email_subject">
+        <source>Subscribe newsletter </source>
+        <target state="translated">Suscribirse al boletín </target>
+        <note>key: common.doi_newsletter_email_subject</note>
+      </trans-unit>
+      <trans-unit id="15ecf56af6e5d18b4c513f6c3a2904226edef9d5" resname="common.update_newsletter">
+        <source>Update newsletter details</source>
+        <target state="translated">Actualizar los detalles del boletín</target>
+        <note>key: common.update_newsletter</note>
+      </trans-unit>
+      <trans-unit id="5c0d425156405bbda003193df216e7b62a596c6c" resname="msg.email_required">
+        <source>You have to specify the email address</source>
+        <target state="translated">Tiene que especificar la dirección de correo electrónico</target>
+        <note>key: msg.email_required</note>
+      </trans-unit>
+      <trans-unit id="0f7ae080c3f1f5d1474a912dad59072e11e4eac3" resname="msg.newsletter_doi_success">
+        <source>You will get an confirmation email to subscribe to our newsletter</source>
+        <target state="translated">Recibirá un correo electrónico de confirmación para suscribirte a nuestro boletín</target>
+        <note>key: msg.newsletter_doi_success</note>
+      </trans-unit>
+      <trans-unit id="880e3b4cb887080aa6b36e5c34a56a6714eb25e6" resname="msg.newsletter_subscribed">
+        <source>You have been subscribed to the newsletter: %id%</source>
+        <target state="translated">Se ha suscrito al boletín: %id%</target>
+        <note>key: msg.newsletter_subscribed</note>
+      </trans-unit>
+      <trans-unit id="79e28d04b6b241cc2149c05d199cba9d278ac060" resname="msg.newsletter_subscribed_error">
+        <source>Error occured when subscribing to the newsletter: %id%</source>
+        <target state="translated">Se produjo un error al suscribirse al boletín: %id%</target>
+        <note>key: msg.newsletter_subscribed_error</note>
+      </trans-unit>
+      <trans-unit id="1c8c7a8af9492d9ecb597e30b33569faca1eff44" resname="msg.newsletter_unsubscribed">
+        <source>You have been unsubscribed from the newsletter: %id%</source>
+        <target state="translated">Se le ha dado de baja del boletín: %id%</target>
+        <note>key: msg.newsletter_unsubscribed</note>
+      </trans-unit>
+      <trans-unit id="06dd481a95b42b805dd86fc07ea5ccf342032a69" resname="msg.newsletter_unsubscribed_globally">
+        <source>You have been globally unsubscribed from all newsletters</source>
+        <target state="translated">Se le ha dado de baja de todos los boletines.</target>
+        <note>key: msg.newsletter_unsubscribed_globally</note>
+      </trans-unit>
+      <trans-unit id="8570c0ac3eee0a4a286fcd94f9bc08cb20c25ae4" resname="msg.newsletter_unsubscribed_globally_error">
+        <source>Error occured when globally unsubscribing</source>
+        <target state="translated">Se produjo un error al cancelar todas las suscripciones</target>
+        <note>key: msg.newsletter_unsubscribed_globally_error</note>
+      </trans-unit>
+      <trans-unit id="808f86332c2740bc75d158f1895a87108e241a0e" resname="msg.newsletter_updated_globally">
+        <source>Newsletter details updated</source>
+        <target state="translated">Detalles del boletín actualizados</target>
+        <note>key: msg.newsletter_updated_globally</note>
+      </trans-unit>
+      <trans-unit id="072b51baf857d3acb017b17a2e2e7a7bcfab07ed" resname="msg.newsletter_updated_globally_error">
+        <source>Error occured when updating newsletter detail</source>
+        <target state="translated">Se produjo un error al actualizar los detalles del boletín.</target>
+        <note>key: msg.newsletter_updated_globally_error</note>
+      </trans-unit>
+      <trans-unit id="2dbc5c908191202f045332876006baa6edfdb996" resname="msg.technical_issues_error">
+        <source>Due to technical problems, the process can not be completed. Please contact your administrator.</source>
+        <target state="translated">Debido a problemas técnicos, el proceso no se ha podido completar. Contacte con su administrador.</target>
+        <note>key: msg.technical_issues_error</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
