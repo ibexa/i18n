@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="8c61cfa34565ff704950cc228bee5b98e700d156" resname="price_management.save">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: price_management.save</note>
+      </trans-unit>
+      <trans-unit id="fb5172f9fa8bc95cad3fdbb634e84eaa443383ee" resname="product.price.management">
+        <source>Price management</source>
+        <target state="new">Price management</target>
+        <note>key: product.price.management</note>
+      </trans-unit>
+      <trans-unit id="b4c8b7e79a47e10b206bfe41d38c1edae8eac7cd" resname="product.stock.management">
+        <source>Stock management</source>
+        <target state="new">Stock management</target>
+        <note>key: product.stock.management</note>
+      </trans-unit>
+      <trans-unit id="c647ca835347673e015c0fa527ba0a40bf7946f7" resname="stock_management.save">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: stock_management.save</note>
+      </trans-unit>
+      <trans-unit id="1872750f3d4e86864f8314d8f10d243e6d856fd3" resname="user_tab.orders">
+        <source>Orders</source>
+        <target state="new">Orders</target>
+        <note>key: user_tab.orders</note>
+      </trans-unit>
+      <trans-unit id="debdb931b75062a9e311208d7509a3a635b4586a" resname="user_tab.orders.and.baskets">
+        <source>Orders and active baskets</source>
+        <target state="new">Orders and active baskets</target>
+        <note>key: user_tab.orders.and.baskets</note>
+      </trans-unit>
+      <trans-unit id="31f4706d09caae6a678c7fe593d362fe24d3de33" resname="user_tab.overview">
+        <source>Overview</source>
+        <target state="new">Overview</target>
+        <note>key: user_tab.overview</note>
+      </trans-unit>
+      <trans-unit id="16b915fc22c9f071c31743b5c45f17f81a70e447" resname="user_tab.table.date">
+        <source>Date/Payment</source>
+        <target state="new">Date/Payment</target>
+        <note>key: user_tab.table.date</note>
+      </trans-unit>
+      <trans-unit id="0a8977dc7611e3728aa03ec159e7846b6e0265c8" resname="user_tab.table.delivery.address">
+        <source>Delivery Address</source>
+        <target state="new">Delivery Address</target>
+        <note>key: user_tab.table.delivery.address</note>
+      </trans-unit>
+      <trans-unit id="f2f8ffef1525b3962e2d97b2aff53f6ee35926e2" resname="user_tab.table.erp_order_id">
+        <source>ERP Order ID</source>
+        <target state="new">ERP Order ID</target>
+        <note>key: user_tab.table.erp_order_id</note>
+      </trans-unit>
+      <trans-unit id="f11c5820b4aff1881d49f09ec32cd316e792934f" resname="user_tab.table.id">
+        <source>Id</source>
+        <target state="new">Id</target>
+        <note>key: user_tab.table.id</note>
+      </trans-unit>
+      <trans-unit id="1ff09532ee1a0e5eb300900fe460931abdfaff8d" resname="user_tab.table.invoice.address">
+        <source>Invoice Address</source>
+        <target state="new">Invoice Address</target>
+        <note>key: user_tab.table.invoice.address</note>
+      </trans-unit>
+      <trans-unit id="b8571cf663d1cd40cb311f92a50d5d272d90caa9" resname="user_tab.table.products">
+        <source>Products</source>
+        <target state="new">Products</target>
+        <note>key: user_tab.table.products</note>
+      </trans-unit>
+      <trans-unit id="4aaec5e900eebb8e8e98c251657b9f77eb102dc9" resname="user_tab.table.shop_order_id">
+        <source>Shop Order ID</source>
+        <target state="new">Shop Order ID</target>
+        <note>key: user_tab.table.shop_order_id</note>
+      </trans-unit>
+      <trans-unit id="52a1a39a642503fb6dca5a822ddd3ef635ee572f" resname="user_tab.table.total">
+        <source>Total</source>
+        <target state="new">Total</target>
+        <note>key: user_tab.table.total</note>
+      </trans-unit>
+      <trans-unit id="17ff74a532babbfa9647310db1431c85de3e978e" resname="user_tab.total_amount">
+        <source>Total amount</source>
+        <target state="new">Total amount</target>
+        <note>key: user_tab.total_amount</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

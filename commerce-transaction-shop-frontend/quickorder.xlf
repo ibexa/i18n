@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="325293ba820408288abc8aadc0b77888c2246722" resname="accordion_info">
+        <source>You can use .csv file to fill your quickorder.</source>
+        <target state="new">You can use .csv file to fill your quickorder.</target>
+        <note>key: accordion_info</note>
+      </trans-unit>
+      <trans-unit id="6c8a8ec4c48f4606b8d73b65efeaa1d814aee20b" resname="add_to_basket">
+        <source>Add to basket</source>
+        <target state="new">Add to basket</target>
+        <note>key: add_to_basket</note>
+      </trans-unit>
+      <trans-unit id="a39415f64d3f42a5bcaa38835c361a36efc15e47" resname="common.more_information">
+        <source>More information</source>
+        <target state="new">More information</target>
+        <note>key: common.more_information</note>
+      </trans-unit>
+      <trans-unit id="8db3d8101fd7f3b99d5c05cf309b2afb801d3d78" resname="delete_quickorder">
+        <source>Delete quickorder</source>
+        <target state="new">Delete quickorder</target>
+        <note>key: delete_quickorder</note>
+      </trans-unit>
+      <trans-unit id="b95fd60012e6fed442601fe58df327125bc9092d" resname="enter_csv_input">
+        <source>Enter CSV file input</source>
+        <target state="new">Enter CSV file input</target>
+        <note>key: enter_csv_input</note>
+      </trans-unit>
+      <trans-unit id="0273bc2c2952daf5ba47a03e680559a7b893304c" resname="enter_per_line_csv">
+        <source>Enter %params% per line. After every line press enter.</source>
+        <target state="new">Enter %params% per line. After every line press enter.</target>
+        <note>key: enter_per_line_csv</note>
+      </trans-unit>
+      <trans-unit id="f3acce247faff36de39e9ee2f7d244c87ceed765" resname="exclude">
+        <source>Excl.</source>
+        <target state="new">Excl.</target>
+        <note>key: exclude</note>
+      </trans-unit>
+      <trans-unit id="7aec9744ba1554e4d38febae4278e74a5e764414" resname="fill">
+        <source>Fill quickorder</source>
+        <target state="new">Fill quickorder</target>
+        <note>key: fill</note>
+      </trans-unit>
+      <trans-unit id="00f554d678f26112aad9d51d7a8d2d590eb74801" resname="included">
+        <source>Inc.</source>
+        <target state="new">Inc.</target>
+        <note>key: included</note>
+      </trans-unit>
+      <trans-unit id="59bd0a3ff43b32849b319e645d4798d8a5d1e889" resname="info">
+        <source>Info</source>
+        <target state="new">Info</target>
+        <note>key: info</note>
+      </trans-unit>
+      <trans-unit id="ff05f40f450321b7790345aa8aea2e26b8faef16" resname="introtext">
+        <source><![CDATA[
+                    <p>If you know the skus of the products you want to order, you can use quickorder to add these products to the basket.</p>
+                    <p>You can search for</p>
+                    <ul>
+                        <li>a product name</li>
+                        <li>a sku</li>
+                        <li>a sku and variant code or a variant name</li>
+                    </ul>  
+                    <p>The shop will display suggestions and you can choose one of the list.</p>
+                    <p>A csv file containing a list of skus, variant codes and quantity can be imported by drag & drop. Instead of uploading a file you can paste the content into the textbox s well.</p>
+                    <p>Please click on "Refresh quickorder" if you want to see your individual prices and the updated stock information.</p>
+                    <p>You can use .csv file to fill your quickorder.</p>
+                    ]]></source>
+        <target state="new"><![CDATA[
+                    <p>If you know the skus of the products you want to order, you can use quickorder to add these products to the basket.</p>
+                    <p>You can search for</p>
+                    <ul>
+                        <li>a product name</li>
+                        <li>a sku</li>
+                        <li>a sku and variant code or a variant name</li>
+                    </ul>  
+                    <p>The shop will display suggestions and you can choose one of the list.</p>
+                    <p>A csv file containing a list of skus, variant codes and quantity can be imported by drag & drop. Instead of uploading a file you can paste the content into the textbox s well.</p>
+                    <p>Please click on "Refresh quickorder" if you want to see your individual prices and the updated stock information.</p>
+                    <p>You can use .csv file to fill your quickorder.</p>
+                    ]]></target>
+        <note>key: introtext</note>
+      </trans-unit>
+      <trans-unit id="b29439f90a1f1fdef8df8a91d4096649c4ac445b" resname="msg.no_order_permissions">
+        <source>You don't have the permission(s) to order.</source>
+        <target state="new">You don't have the permission(s) to order.</target>
+        <note>key: msg.no_order_permissions</note>
+      </trans-unit>
+      <trans-unit id="6a4060f4d918aedaae3c50700276eefc61720dad" resname="quantity">
+        <source>Quantity</source>
+        <target state="new">Quantity</target>
+        <note>key: quantity</note>
+      </trans-unit>
+      <trans-unit id="81b3ec0e30556261e8995691390484deca05a563" resname="quantity_of_products">
+        <source>Quantity of products you want to purchase</source>
+        <target state="new">Quantity of products you want to purchase</target>
+        <note>key: quantity_of_products</note>
+      </trans-unit>
+      <trans-unit id="f28d96093e67137df7aeca595d32438cf48a11f7" resname="quickorder">
+        <source>Quickorder</source>
+        <target state="new">Quickorder</target>
+        <note>key: quickorder</note>
+      </trans-unit>
+      <trans-unit id="db4ec56a10b4d33dae20faf0091920af84e27494" resname="quickorder.add_line">
+        <source>Add lines</source>
+        <target state="new">Add lines</target>
+        <note>key: quickorder.add_line</note>
+      </trans-unit>
+      <trans-unit id="040a6cea6c420f716c12c4f8a329e4ab30579d8b" resname="quickorder.add_to_basket">
+        <source>Add to basket</source>
+        <target state="new">Add to basket</target>
+        <note>key: quickorder.add_to_basket</note>
+      </trans-unit>
+      <trans-unit id="0fe563f5cfaece5e33410ffb4eaeab4ca04b49e6" resname="quickorder.csv_info">
+        <source>Every line must contain sku, variant code and quantity. You can upload only one .csv file</source>
+        <target state="new">Every line must contain sku, variant code and quantity. You can upload only one .csv file</target>
+        <note>key: quickorder.csv_info</note>
+      </trans-unit>
+      <trans-unit id="702d532b498851d2e190ba585a9238f126a75734" resname="quickorder.delete_quickorder">
+        <source>Delete quickorder</source>
+        <target state="new">Delete quickorder</target>
+        <note>key: quickorder.delete_quickorder</note>
+      </trans-unit>
+      <trans-unit id="1e7ba758a6023c9ebd45eb22c632d3673df33998" resname="quickorder.refresh">
+        <source>Refresh quickorder</source>
+        <target state="new">Refresh quickorder</target>
+        <note>key: quickorder.refresh</note>
+      </trans-unit>
+      <trans-unit id="26b56c1bdfb048c3e46419fde332bab76deb2cd3" resname="refresh">
+        <source>Refresh quickorder</source>
+        <target state="new">Refresh quickorder</target>
+        <note>key: refresh</note>
+      </trans-unit>
+      <trans-unit id="cf559ae3526e08d2bf8526eb199d6a7115abe2d2" resname="sku">
+        <source>SKU</source>
+        <target state="new">SKU</target>
+        <note>key: sku</note>
+      </trans-unit>
+      <trans-unit id="05090afb2cc702f3b4119fe1c661f825bbda4d60" resname="total_price">
+        <source>Total price</source>
+        <target state="new">Total price</target>
+        <note>key: total_price</note>
+      </trans-unit>
+      <trans-unit id="134748a492d7319945a51c75366ebc37be0c19d3" resname="unit_price">
+        <source>Unit price Inc. VAT</source>
+        <target state="new">Unit price Inc. VAT</target>
+        <note>key: unit_price</note>
+      </trans-unit>
+      <trans-unit id="daa15febc9ad679d80f519bd0a88c27d0dd60537" resname="upload_csv_info">
+        <source>Upload csv file</source>
+        <target state="new">Upload csv file</target>
+        <note>key: upload_csv_info</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
