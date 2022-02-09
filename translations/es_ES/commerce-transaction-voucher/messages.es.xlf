@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="15e82444cfe7a9b9957df14dd352a19211e57ab3" resname="msg.voucher_already_used">
+        <source>This voucher has already been added to the basket</source>
+        <target state="translated">Este cupón ya se ha añadido a la cesta.</target>
+        <note>key: msg.voucher_already_used</note>
+      </trans-unit>
+      <trans-unit id="966d904c3356d9fcc6ce25a74c91705f95dc00e5" resname="msg.voucher_invalid">
+        <source>The validation of this voucher was not successful.</source>
+        <target state="translated">La validación de este cupón no se realizó correctamente.</target>
+        <note>key: msg.voucher_invalid</note>
+      </trans-unit>
+      <trans-unit id="b4fc5b00d15cddbbf01e35f571aa9d361dbe8ab0" resname="msg.voucher_removed_success">
+        <source>The voucher was removed from your basket.</source>
+        <target state="translated">El cupón fue retirado de la cesta.</target>
+        <note>key: msg.voucher_removed_success</note>
+      </trans-unit>
+      <trans-unit id="acf33bef906d84d651a1e4a9782aec8c070cb3bb" resname="msg.voucher_success">
+        <source>The voucher was added successfully.</source>
+        <target state="translated">El cupón se agregó correctamente.</target>
+        <note>key: msg.voucher_success</note>
+      </trans-unit>
+      <trans-unit id="412f55caf83c7ce63a068bdefc1a38ad61121552" resname="msg.vouchers_removed_success">
+        <source>The vouchers were removed from your basket.</source>
+        <target state="translated">Los cupones se eliminaron de la cesta.</target>
+        <note>key: msg.vouchers_removed_success</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
