@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="6ce4b03fab140f5c9675c5e56c4b363c3d854157" resname="price.not_saved">
+        <source>Couldn't save the prices</source>
+        <target state="translated">No se pudieron guardar los precios</target>
+        <note>key: price.not_saved</note>
+      </trans-unit>
+      <trans-unit id="62dc9e3f91a4ad309d3e1054834007a2159b4b1e" resname="price.saved">
+        <source>Prices saved successfully</source>
+        <target state="translated">Los precios se han guardado correctamente</target>
+        <note>key: price.saved</note>
+      </trans-unit>
+      <trans-unit id="a846154e17c5f91dbda951052d9055d4595bbe71" resname="price.table.header">
+        <source>Prices for %contentName%, List price %price%</source>
+        <target state="translated">Precios para %contentName%, lista de precio %price%</target>
+        <note>key: price.table.header</note>
+      </trans-unit>
+      <trans-unit id="9bc29a8f2d0572814b18e74af9bb5a11f9bdbafd" resname="product.not_found">
+        <source>Product not found</source>
+        <target state="translated">No se ha encontrado el producto</target>
+        <note>key: product.not_found</note>
+      </trans-unit>
+      <trans-unit id="7c16714b8224da90928da5a81818f69d19af8aa1" resname="shipping_management.not_saved">
+        <source>Couldn't save shipping costs</source>
+        <target state="translated">No se pudieron guardar los gastos de envío</target>
+        <note>key: shipping_management.not_saved</note>
+      </trans-unit>
+      <trans-unit id="97295bc48d5c285d9b7e0ec1c13c44f696de1067" resname="shipping_management.saved">
+        <source>Shipping costs saved successfully</source>
+        <target state="translated">Los gastos de envío se han guardado correctamente</target>
+        <note>key: shipping_management.saved</note>
+      </trans-unit>
+      <trans-unit id="db32a5144ba4d5c90cedecf2c6a129069f848344" resname="stock.not_saved">
+        <source>Couldn't save stock</source>
+        <target state="translated">No se pudieron guardar las existencias</target>
+        <note>key: stock.not_saved</note>
+      </trans-unit>
+      <trans-unit id="fe822447e521b21276a1c4cc0441ffc12fbdcdfd" resname="stock.saved">
+        <source>Stock saved successfully</source>
+        <target state="translated">Existencias guardadas correctamente</target>
+        <note>key: stock.saved</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
