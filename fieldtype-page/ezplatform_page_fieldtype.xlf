@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="e709525d3616f6a7d78ded79d7dfaf9c9df025cf" resname="blocks.select_blocks">
+        <source>Select blocks</source>
+        <target state="new">Select blocks</target>
+        <note>key: blocks.select_blocks</note>
+      </trans-unit>
+      <trans-unit id="99cd4cdb8f35ab90854987053d6b21504cb9bcfd" resname="blocks.select_blocks_warning">
+        <source>Deselecting a block will hide any related block(s) included in the Landing page during next edit. The user will have to delete the block(s) in order to publish the page</source>
+        <target state="new">Deselecting a block will hide any related block(s) included in the Landing page during next edit. The user will have to delete the block(s) in order to publish the page</target>
+        <note>key: blocks.select_blocks_warning</note>
+      </trans-unit>
+      <trans-unit id="3caffd18afafbb2669cd72c21ba488d8119920f7" resname="editor_mode.select_editor_launch_mode">
+        <source>Select Editor launch mode</source>
+        <target state="new">Select Editor launch mode</target>
+        <note>key: editor_mode.select_editor_launch_mode</note>
+      </trans-unit>
+      <trans-unit id="fdd142fc2e5c77d28fea2e33ff339237b28c77a7" resname="item.select_all">
+        <source>Select all</source>
+        <target state="new">Select all</target>
+        <note>key: item.select_all</note>
+      </trans-unit>
+      <trans-unit id="a076902011701514e528979b37c43de1874ed0be" resname="item.unselect_all">
+        <source>Unselect all</source>
+        <target state="new">Unselect all</target>
+        <note>key: item.unselect_all</note>
+      </trans-unit>
+      <trans-unit id="c4e31f9ecf2ec3e3387e0f0e39e0bf6da6119d72" resname="landing_page_ft.block_id_fetch.failed">
+        <source>Unable to fetch block with ID "%blockId%"</source>
+        <target state="new">Unable to fetch block with ID "%blockId%"</target>
+        <note>key: landing_page_ft.block_id_fetch.failed</note>
+      </trans-unit>
+      <trans-unit id="4e6b467aeed03b748276c99091952733f2ab538c" resname="layouts.select_layouts">
+        <source>Select layouts</source>
+        <target state="new">Select layouts</target>
+        <note>key: layouts.select_layouts</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
