@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
         <source>This Field Type is not editable</source>
-        <target state="needs-translation">This Field Type is not editable</target>
+        <target state="translated">To pole nie jest edytowalne</target>
         <note>key: content.field.non_editable</note>
       </trans-unit>
       <trans-unit id="6b30d19b65dca42c92ef8eeecb2f6cd33cd5ff34" resname="product_type.edit.section.content_field_definitions">
         <source>Field definitions</source>
-        <target state="needs-translation">Field definitions</target>
+        <target state="translated">Definicje pól</target>
         <note>key: product_type.edit.section.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="b633ec421894bb6c2b08c15654f76ce47ae493ac" resname="product_type.edit.section.global_properties">
         <source>Global properties</source>
-        <target state="needs-translation">Global properties</target>
+        <target state="translated">Globalne właściwości</target>
         <note>key: product_type.edit.section.global_properties</note>
       </trans-unit>
-      <trans-unit id="1fa51d408c818f031ec3496632a61c3841279f73" resname="product_type.name_schema">
+      <trans-unit id="1fa51d408c818f031ec3496632a61c3841279f73" resname="product_type.name_schema" approved="yes">
         <source>Product name pattern</source>
-        <target state="needs-translation">Product name pattern</target>
+        <target state="final">Schemat budowania nazw dla produktu</target>
         <note>key: product_type.name_schema</note>
       </trans-unit>
     </body>
