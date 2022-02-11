@@ -6,9 +6,9 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="af73694f5c5e5868af7948fb04f0d6bfe7ee6ad4" resname="policy.limitation.identifier.producttype">
+      <trans-unit id="af73694f5c5e5868af7948fb04f0d6bfe7ee6ad4" resname="policy.limitation.identifier.producttype" approved="yes">
         <source>Product Type</source>
-        <target state="needs-translation">Product Type</target>
+        <target state="final">Typ produktu</target>
         <note>key: policy.limitation.identifier.producttype</note>
       </trans-unit>
     </body>
