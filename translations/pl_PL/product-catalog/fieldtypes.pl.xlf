@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="05ae076fe86789c977a7e538963ae756e8e07157" resname="ibexa_customer_group.name">
         <source>Customer group</source>
-        <target state="needs-translation">Customer group</target>
+        <target state="translated">Grupa klientów</target>
         <note>key: ibexa_customer_group.name</note>
       </trans-unit>
-      <trans-unit id="177d055e9fd989f6ebd2fbdd14d533175d9f032d" resname="ibexa_product_specification.name">
+      <trans-unit id="177d055e9fd989f6ebd2fbdd14d533175d9f032d" resname="ibexa_product_specification.name" approved="yes">
         <source>Product specification</source>
-        <target state="needs-translation">Product specification</target>
+        <target state="final">Specyfikacja produktu</target>
         <note>key: ibexa_product_specification.name</note>
       </trans-unit>
     </body>
