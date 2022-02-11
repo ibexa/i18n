@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="b8eb59aad2688d5e7bf7381acf19be52" resname="checkbox.name">
         <source>Checkbox</source>
-        <target state="needs-translation">Checkbox</target>
+        <target state="translated">Pole wyboru</target>
         <note>key: checkbox.name</note>
       </trans-unit>
       <trans-unit id="a704c9c67a3f60a04de50fc537213e85" resname="float.name">
         <source>Float</source>
-        <target state="needs-translation">Float</target>
+        <target state="translated">Liczba zmiennoprzecinkowa</target>
         <note>key: float.name</note>
       </trans-unit>
       <trans-unit id="d8ccc1d0169ff6ed9b7a51c83a15972f" resname="integer.name">
         <source>Integer</source>
-        <target state="needs-translation">Integer</target>
+        <target state="translated">Liczba całkowita</target>
         <note>key: integer.name</note>
       </trans-unit>
       <trans-unit id="a458acd756494af1235f2a18e754deda" resname="selection.name">
         <source>Selection</source>
-        <target state="needs-translation">Selection</target>
+        <target state="translated">Wybór</target>
         <note>key: selection.name</note>
       </trans-unit>
     </body>
