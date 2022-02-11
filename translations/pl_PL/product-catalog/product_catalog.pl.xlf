@@ -8,607 +8,607 @@
     <body>
       <trans-unit id="147df925ba44f0c3046cd517469211786cda66f4" resname="attribute.selection_options.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: attribute.selection_options.add</note>
       </trans-unit>
       <trans-unit id="540b55c6ac0c808e15ca17fad5a6b0fb7cf1d6d5" resname="attribute.selection_options.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: attribute.selection_options.delete</note>
       </trans-unit>
       <trans-unit id="c97aa46afd6639590505473f4743227e7f68c242" resname="attribute.selection_options.list__label.label">
         <source>Label</source>
-        <target state="needs-translation">Label</target>
+        <target state="translated">Etykieta</target>
         <note>key: attribute.selection_options.list__label.label</note>
       </trans-unit>
       <trans-unit id="b82cacd874891bc80ad0df214310166f8dc9ea9d" resname="attribute.selection_options.list__label.value">
         <source>Value</source>
-        <target state="needs-translation">Value</target>
+        <target state="translated">Wartość</target>
         <note>key: attribute.selection_options.list__label.value</note>
       </trans-unit>
       <trans-unit id="87f662916d3c87c71f8feb07fda51f2885ccc1d9" resname="attribute.selection_options.title">
         <source>List of options</source>
-        <target state="needs-translation">List of options</target>
+        <target state="translated">Lista opcji</target>
         <note>key: attribute.selection_options.title</note>
       </trans-unit>
       <trans-unit id="8b71654474e718dd23bc5cd4b8a82369c4352241" resname="attribute_definition.breadcrumb.list">
         <source>Attributes</source>
-        <target state="needs-translation">Attributes</target>
+        <target state="translated">Atrybuty</target>
         <note>key: attribute_definition.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="52d7a9a1752e1e23d81169f6dedf3db33b37e6eb" resname="attribute_definition.breadcrumb.view">
         <source>%attribute_definition_name%</source>
-        <target state="needs-translation">%attribute_definition_name%</target>
+        <target state="translated">%attribute_definition_name%</target>
         <note>key: attribute_definition.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="eca037ad44c8b86e42b72c5d61758d73039e9060" resname="attribute_definition.create.success">
         <source>Attribute '%name%' created.</source>
-        <target state="needs-translation">Attribute '%name%' created.</target>
+        <target state="translated">Utworzono atrybut %name%'.</target>
         <note>key: attribute_definition.create.success</note>
       </trans-unit>
       <trans-unit id="08ae9074d21b7726ff67b6b311f7acc400f9036f" resname="attribute_definition.creating">
         <source>Creating %attribute_type_name%</source>
-        <target state="needs-translation">Creating %attribute_type_name%</target>
+        <target state="translated">Tworzenie %attribute_type_name%</target>
         <note>key: attribute_definition.creating</note>
       </trans-unit>
       <trans-unit id="602ac1f23f3c2306d2fbf1dec9821b97ed4f2ebb" resname="attribute_definition.edit.subtitle">
         <source>in %language_name%</source>
-        <target state="needs-translation">in %language_name%</target>
+        <target state="translated">w języku %language_name%</target>
         <note>key: attribute_definition.edit.subtitle</note>
       </trans-unit>
       <trans-unit id="7398a278ad9bb63a32fe5ef90315cf8d6cf97a0c" resname="attribute_definition.edit.updating">
         <source>Updating</source>
-        <target state="needs-translation">Updating</target>
+        <target state="translated">Aktualizacja</target>
         <note>key: attribute_definition.edit.updating</note>
       </trans-unit>
       <trans-unit id="bc2737678d63d615bbee3b5eb0f28716734cf12c" resname="attribute_definition.information.headline">
         <source>Attribute information</source>
-        <target state="needs-translation">Attribute information</target>
+        <target state="translated">Informacje o atrybucie</target>
         <note>key: attribute_definition.information.headline</note>
       </trans-unit>
       <trans-unit id="5cf8cb97f4af2ecbec7ca4e7c868775ca8388887" resname="attribute_definition.list.column.attribute_group">
         <source>Attribute Group</source>
-        <target state="needs-translation">Attribute Group</target>
+        <target state="translated">Grupa atrybutów</target>
         <note>key: attribute_definition.list.column.attribute_group</note>
       </trans-unit>
       <trans-unit id="2147df5bf8c3356ef8cfe196ebd40984b8e72f6c" resname="attribute_definition.list.column.attribute_type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Typ</target>
         <note>key: attribute_definition.list.column.attribute_type</note>
       </trans-unit>
       <trans-unit id="ca1ef7ad45f0c2fa70abd4b0ef24e47a551a4dc2" resname="attribute_definition.list.column.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: attribute_definition.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="ffa0c6d02e35c3a39917710550a79632338debd0" resname="attribute_definition.list.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: attribute_definition.list.column.name</note>
       </trans-unit>
       <trans-unit id="a1cec4bdf687750b84989eab8b3f82e55724da7f" resname="attribute_definition.list.column.position">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Pozycja</target>
         <note>key: attribute_definition.list.column.position</note>
       </trans-unit>
       <trans-unit id="cb5f9f215ccd69315935656a89c7e408b89f0cc6" resname="attribute_definition.list.count_results">
         <source>%count% Results</source>
-        <target state="needs-translation">%count% Results</target>
+        <target state="translated">%count% wyników</target>
         <note>key: attribute_definition.list.count_results</note>
       </trans-unit>
       <trans-unit id="2748c3e607a4ee0656295cb6c88fad797eef100b" resname="attribute_definition.list.title">
         <source>Attributes</source>
-        <target state="needs-translation">Attributes</target>
+        <target state="translated">Atrybuty</target>
         <note>key: attribute_definition.list.title</note>
       </trans-unit>
       <trans-unit id="5ee589f128187a30f2430809e09d2deefc97dbce" resname="attribute_definition.new.subtitle">
         <source>in %language_name%</source>
-        <target state="needs-translation">in %language_name%</target>
+        <target state="translated">w języku %language_name%</target>
         <note>key: attribute_definition.new.subtitle</note>
       </trans-unit>
       <trans-unit id="bfb7cfe3a160ec277b879e5510e51c257ce82dcc" resname="attribute_definition.new.title">
         <source>Creating a new attribute</source>
-        <target state="needs-translation">Creating a new attribute</target>
+        <target state="translated">Tworzenie nowego atrybutu</target>
         <note>key: attribute_definition.new.title</note>
       </trans-unit>
       <trans-unit id="cfbf370cf0dde5c5b8082f2e3ee6ea9e9705eec0" resname="attribute_definition.no_attributes.action_text">
         <source>Content item(s) you or your User group can review will show up here.</source>
-        <target state="needs-translation">Content item(s) you or your User group can review will show up here.</target>
+        <target state="translated">Treści które możesz przejrzeć Ty lub twoja grupy użytkowników pojawią się tutaj.</target>
         <note>key: attribute_definition.no_attributes.action_text</note>
       </trans-unit>
       <trans-unit id="4cadd1754fa5ec14fc96ce0f73bf5c64236db77c" resname="attribute_definition.no_attributes.info_text">
         <source>Add your first attribute</source>
-        <target state="needs-translation">Add your first attribute</target>
+        <target state="translated">Dodaj swój pierwszy atrybut</target>
         <note>key: attribute_definition.no_attributes.info_text</note>
       </trans-unit>
       <trans-unit id="a74705c3e96786a7886017e4b9b6908c16c4de88" resname="attribute_definition.no_attributes_group.action_text">
         <source>To create attributes, you need to have at least one attribute group.</source>
-        <target state="needs-translation">To create attributes, you need to have at least one attribute group.</target>
+        <target state="translated">Aby utworzyć atrybuty, musisz mieć co najmniej jedną grupę atrybutów.</target>
         <note>key: attribute_definition.no_attributes_group.action_text</note>
       </trans-unit>
       <trans-unit id="62dc1da724099b82bc901faac52f6ac0e9090873" resname="attribute_definition.no_attributes_group.info_text">
         <source>Add your first attribute</source>
-        <target state="needs-translation">Add your first attribute</target>
+        <target state="translated">Dodaj swój pierwszy atrybut</target>
         <note>key: attribute_definition.no_attributes_group.info_text</note>
       </trans-unit>
       <trans-unit id="690c5b6ad0efe8f8f6191b143d580e82b16f18d4" resname="attribute_definition.no_attributes_group.link_label">
         <source>Go to attribute groups</source>
-        <target state="needs-translation">Go to attribute groups</target>
+        <target state="translated">Przejdź do grup atrybutów</target>
         <note>key: attribute_definition.no_attributes_group.link_label</note>
       </trans-unit>
       <trans-unit id="ef677424268316f7330f727d606c939e1f1d29fc" resname="attribute_definition.no_search_results.action_text">
         <source>Try again with new search criteria</source>
-        <target state="needs-translation">Try again with new search criteria</target>
+        <target state="translated">Spróbuj ponownie, podając nowe kryteria wyszukiwania</target>
         <note>key: attribute_definition.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="fc69f9842a9aa6138f30efe6c758a15246ddc77a" resname="attribute_definition.no_search_results.info_text">
         <source>Sorry, there are no attributes for your search</source>
-        <target state="needs-translation">Sorry, there are no attributes for your search</target>
+        <target state="translated">Przepraszamy, nie ma atrybutów dla Twojego wyszukiwania</target>
         <note>key: attribute_definition.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="9cbd920f83ef0b74bf3b8a29a855485a36fbcff2" resname="attribute_definition.pre_create.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: attribute_definition.pre_create.add</note>
       </trans-unit>
       <trans-unit id="2addd3db0aebc0606627d60ce51e66448d26b592" resname="attribute_definition.pre_create.add_attribute_definition">
         <source>Add attribute definition</source>
-        <target state="needs-translation">Add attribute definition</target>
+        <target state="translated">Dodaj definicję atrybutu</target>
         <note>key: attribute_definition.pre_create.add_attribute_definition</note>
       </trans-unit>
       <trans-unit id="c01193d8561769321dc5f8effe9aed85d3c2965f" resname="attribute_definition.pre_create.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Anuluj</target>
         <note>key: attribute_definition.pre_create.cancel</note>
       </trans-unit>
       <trans-unit id="8291d22b53db4caceba195ce3e05ca4240235a09" resname="attribute_definition.update.success">
         <source>Attribute '%name%' updated.</source>
-        <target state="needs-translation">Attribute '%name%' updated.</target>
+        <target state="translated">Zaktualizowany atrybut '%name%'.</target>
         <note>key: attribute_definition.update.success</note>
       </trans-unit>
       <trans-unit id="d8a741f53d8fb247e8e15a9b887acc4a547cd4de" resname="attribute_definition.view.group">
         <source>Group</source>
-        <target state="needs-translation">Group</target>
+        <target state="translated">Grupa</target>
         <note>key: attribute_definition.view.group</note>
       </trans-unit>
       <trans-unit id="6d5120764e67191cf9929e8a1c123ae93de5bd43" resname="attribute_definition.view.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: attribute_definition.view.identifier</note>
       </trans-unit>
       <trans-unit id="bded04b07c65841ffd8cdd82f4d4b8c145d370d8" resname="attribute_definition.view.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: attribute_definition.view.name</note>
       </trans-unit>
       <trans-unit id="1c774eee6bf6efc09398d2fe326338e04fb0e231" resname="attribute_definition.view.position">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Pozycja</target>
         <note>key: attribute_definition.view.position</note>
       </trans-unit>
       <trans-unit id="4e44d30e3e498d62684574296893ce8f2508c49b" resname="attribute_definition.view.title">
         <source>Attribute definition "%attribute_definition_name%"</source>
-        <target state="needs-translation">Attribute definition "%attribute_definition_name%"</target>
+        <target state="translated">Definicja atrybutu "%attribute_definition_name%"</target>
         <note>key: attribute_definition.view.title</note>
       </trans-unit>
       <trans-unit id="bdfc82742cf2507682615b5efd4466162ef34619" resname="attribute_definition.view.title.header">
         <source>Attribute definition "%attribute_definition_name%"</source>
-        <target state="needs-translation">Attribute definition "%attribute_definition_name%"</target>
+        <target state="translated">Definicja atrybutu "%attribute_definition_name%"</target>
         <note>key: attribute_definition.view.title.header</note>
       </trans-unit>
       <trans-unit id="a0bf7a1bd571dc8b6e65a919a1d4cc4038994bc4" resname="attribute_definition.view.type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Typ</target>
         <note>key: attribute_definition.view.type</note>
       </trans-unit>
       <trans-unit id="419d847735cabb6bdae740f140d7fda77c23beb1" resname="attribute_definition_translation_add_form.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: attribute_definition_translation_add_form.add</note>
       </trans-unit>
       <trans-unit id="67d3744156c0d39132649408d73c6ec72587453f" resname="attribute_definition_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="needs-translation">Remove translation</target>
+        <target state="translated">Usuń tłumaczenie</target>
         <note>key: attribute_definition_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="ef198a76186df8b1d52f5062698715d6130932fe" resname="attribute_group.breadcrumb.list">
         <source>Attribute groups</source>
-        <target state="needs-translation">Attribute groups</target>
+        <target state="translated">Grupy Atrybutów</target>
         <note>key: attribute_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="d706859ada946c49c4ad12e42f83ecb88f465717" resname="attribute_group.breadcrumb.view">
         <source>%name%</source>
-        <target state="needs-translation">%name%</target>
+        <target state="translated">%name%</target>
         <note>key: attribute_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="d8d14d9801453b819beb66e64b9efc9a681e21a4" resname="attribute_group.create.success">
         <source>Attribute Group '%name%' created.</source>
-        <target state="needs-translation">Attribute Group '%name%' created.</target>
+        <target state="translated">Utworzono grupę atrybutów '%name%'.</target>
         <note>key: attribute_group.create.success</note>
       </trans-unit>
       <trans-unit id="696427b1e0a11374523b5c7002e13b0ef7f366d9" resname="attribute_group.creating.action_name">
         <source>Creating new attribute group</source>
-        <target state="needs-translation">Creating new attribute group</target>
+        <target state="translated">Tworzenie nowej grupy atrybutów</target>
         <note>key: attribute_group.creating.action_name</note>
       </trans-unit>
       <trans-unit id="539f0637977b5749c5da6525d83fa4588faab52f" resname="attribute_group.creating.title">
         <source>New attribute group</source>
-        <target state="needs-translation">New attribute group</target>
+        <target state="translated">Nowa grupa atrybutów</target>
         <note>key: attribute_group.creating.title</note>
       </trans-unit>
       <trans-unit id="27b6abd5e76b68ca068f0910008d8b8940d221e5" resname="attribute_group.edit.action_name">
         <source>Editing attribute group</source>
-        <target state="needs-translation">Editing attribute group</target>
+        <target state="translated">Edycja grupy atrybutów</target>
         <note>key: attribute_group.edit.action_name</note>
       </trans-unit>
       <trans-unit id="0a80df990a32610836d692351deb745c57492653" resname="attribute_group.information.headline">
         <source>Attribute group information</source>
-        <target state="needs-translation">Attribute group information</target>
+        <target state="translated">Informacje o grupie atrybutów</target>
         <note>key: attribute_group.information.headline</note>
       </trans-unit>
       <trans-unit id="6b3254aaa47032105920c16b2bbe6365f19e197b" resname="attribute_group.list.action.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: attribute_group.list.action.create</note>
       </trans-unit>
       <trans-unit id="30312f90a8509d0f1768ceff1d2cfe8e9a03129d" resname="attribute_group.list.column.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: attribute_group.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="57cef6a5c587f7a9e3887a0ef3ad21ab2f669d24" resname="attribute_group.list.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: attribute_group.list.column.name</note>
       </trans-unit>
       <trans-unit id="e9b6984aa83a1ccd4ce040f59e2ff1d3f67a29c7" resname="attribute_group.list.column.position">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Pozycja</target>
         <note>key: attribute_group.list.column.position</note>
       </trans-unit>
       <trans-unit id="2358230344910f644235f963ebb304115dd88d20" resname="attribute_group.list.number_of_results">
         <source>%number_of_results% Results</source>
-        <target state="needs-translation">%number_of_results% Results</target>
+        <target state="translated">%number_of_results% wyniki</target>
         <note>key: attribute_group.list.number_of_results</note>
       </trans-unit>
       <trans-unit id="99eb3af4dc09dcb2883296ac4187137c858ddfe1" resname="attribute_group.list.title">
         <source>Attribute groups</source>
-        <target state="needs-translation">Attribute groups</target>
+        <target state="translated">Grupy Atrybutów</target>
         <note>key: attribute_group.list.title</note>
       </trans-unit>
       <trans-unit id="358c7debce239a8a4f9c956204c7cda965b2142f" resname="attribute_group.no_attributes_group.action_text">
         <source>Content item(s) you or your User group can review will show up here.</source>
-        <target state="needs-translation">Content item(s) you or your User group can review will show up here.</target>
+        <target state="translated">Treści które możesz przejrzeć Ty lub twoja grupy użytkowników pojawią się tutaj.</target>
         <note>key: attribute_group.no_attributes_group.action_text</note>
       </trans-unit>
       <trans-unit id="4b6c5dfd16839e4273f72551101f81d1336e1a4a" resname="attribute_group.no_attributes_group.info_text">
         <source>Add your first attribute group</source>
-        <target state="needs-translation">Add your first attribute group</target>
+        <target state="translated">Dodaj swoją pierwszą grupę atrybutów</target>
         <note>key: attribute_group.no_attributes_group.info_text</note>
       </trans-unit>
       <trans-unit id="d5308d391de5aad3682768b97bb68f280bfe43f3" resname="attribute_group.no_search_results.action_text">
         <source>Try again with new search criteria</source>
-        <target state="needs-translation">Try again with new search criteria</target>
+        <target state="translated">Spróbuj ponownie, podając nowe kryteria wyszukiwania</target>
         <note>key: attribute_group.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="16bf539c61720387fa41396be436aa74c5430821" resname="attribute_group.no_search_results.info_text">
         <source>Sorry, there are no attribute groups for your search</source>
-        <target state="needs-translation">Sorry, there are no attribute groups for your search</target>
+        <target state="translated">Przepraszamy, nie ma grup atrybutów dla Twojego wyszukiwania</target>
         <note>key: attribute_group.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="051bdbce431120cade38fce50d608d2d82446044" resname="attribute_group.update.success">
         <source>Attribute Group '%name%' updated.</source>
-        <target state="needs-translation">Attribute Group '%name%' updated.</target>
+        <target state="translated">Zaktualizowano grupę atrybutów '%name%'.</target>
         <note>key: attribute_group.update.success</note>
       </trans-unit>
       <trans-unit id="489e900a6b4a75d87e8b575dd624049a309bbafd" resname="attribute_group.view.add_attribute">
         <source>Add attribute</source>
-        <target state="needs-translation">Add attribute</target>
+        <target state="translated">Dodaj atrybut</target>
         <note>key: attribute_group.view.add_attribute</note>
       </trans-unit>
       <trans-unit id="ee269203b159d409b131dd61d512a625c94d6eff" resname="attribute_group.view.attributes_group">
         <source>Attribute group</source>
-        <target state="needs-translation">Attribute group</target>
+        <target state="translated">Grupa atrybutów</target>
         <note>key: attribute_group.view.attributes_group</note>
       </trans-unit>
       <trans-unit id="592b7f7b39973e8d577fb8ceddf3002be195af8d" resname="attribute_group.view.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: attribute_group.view.delete</note>
       </trans-unit>
       <trans-unit id="d8b7b9089b8352da099325a822eb6a63154d810a" resname="attribute_group.view.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: attribute_group.view.edit</note>
       </trans-unit>
       <trans-unit id="52d704c7032af7334debbf6bffacaf015cdea7b8" resname="attribute_group.view.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: attribute_group.view.identifier</note>
       </trans-unit>
       <trans-unit id="0c7a61a8376f871c3ac93ac580cf3a2c39d3b0d0" resname="attribute_group.view.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: attribute_group.view.name</note>
       </trans-unit>
       <trans-unit id="14864666c347a98cf1f2984abe7cdec9d1374b00" resname="attribute_group.view.position">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Pozycja</target>
         <note>key: attribute_group.view.position</note>
       </trans-unit>
       <trans-unit id="cc8c59b97e382065f7ad2d4054c722fa06e962af" resname="attribute_group.view.title">
         <source>%name%</source>
-        <target state="needs-translation">%name%</target>
+        <target state="translated">%name%</target>
         <note>key: attribute_group.view.title</note>
       </trans-unit>
       <trans-unit id="cc850a1061ddedb8e8be9deea26660f1b97fe731" resname="attribute_group_translation_add_form.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: attribute_group_translation_add_form.add</note>
       </trans-unit>
       <trans-unit id="73c94795f6aea4c968427b19b9070448350992df" resname="attribute_group_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="needs-translation">Remove translation</target>
+        <target state="translated">Usuń tłumaczenie</target>
         <note>key: attribute_group_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
         <source>This Field Type is not editable</source>
-        <target state="needs-translation">This Field Type is not editable</target>
+        <target state="translated">Ten typ pola nie jest edytowalny</target>
         <note>key: content.field.non_editable</note>
       </trans-unit>
       <trans-unit id="2da3a62682c9985ab10302dcfc2451954ed3cfd8" resname="currencies.list.title">
         <source>Currencies</source>
-        <target state="needs-translation">Currencies</target>
+        <target state="translated">Waluty</target>
         <note>key: currencies.list.title</note>
       </trans-unit>
       <trans-unit id="e0599aae4ca54ac7f5c94b436908fa7291e1782c" resname="currency.creating.action_name">
         <source>Creating new currency</source>
-        <target state="needs-translation">Creating new currency</target>
+        <target state="translated">Tworzenie nowej waluty</target>
         <note>key: currency.creating.action_name</note>
       </trans-unit>
       <trans-unit id="579d803cb65fc830655353d738f751dd81afc5c3" resname="currency.creating.title">
         <source>New currency</source>
-        <target state="needs-translation">New currency</target>
+        <target state="translated">Nowa waluta</target>
         <note>key: currency.creating.title</note>
       </trans-unit>
       <trans-unit id="9ecb5118c32cc5c08ed8b3164afb8cd627fe8c6a" resname="currency.delete.success">
         <source>{1}Currency %deletedCodes% removed|]1,Inf[ Currencies %deletedCodes% removed</source>
-        <target state="needs-translation">{1}Currency %deletedCodes% removed|]1,Inf[ Currencies %deletedCodes% removed</target>
+        <target state="translated">{1}Waluta %deletedCodes% usunięta|]1,Inf[ Waluty %deletedCodes% usunięte</target>
         <note>key: currency.delete.success</note>
       </trans-unit>
       <trans-unit id="dfe4b9dd5b1891fcaa0a82feddfaaa1d0c8198f4" resname="currency.edit.action_name">
         <source>Editing currency</source>
-        <target state="needs-translation">Editing currency</target>
+        <target state="translated">Edycja waluty</target>
         <note>key: currency.edit.action_name</note>
       </trans-unit>
       <trans-unit id="47c4ea1fc2aa2df69669f94fee15132794d895c8" resname="currency.list.column.code">
         <source>Code</source>
-        <target state="needs-translation">Code</target>
+        <target state="translated">Kod waluty</target>
         <note>key: currency.list.column.code</note>
       </trans-unit>
       <trans-unit id="fa6dcaa63ea388da6642da4d8f5c4a31208af991" resname="currency.list.column.enabled">
         <source>Enabled</source>
-        <target state="needs-translation">Enabled</target>
+        <target state="translated">Włączony</target>
         <note>key: currency.list.column.enabled</note>
       </trans-unit>
       <trans-unit id="30e43043a4c5177ef5bb6973d1302d65a39c2a36" resname="currency.list.column.name">
         <source>Code</source>
-        <target state="needs-translation">Code</target>
+        <target state="translated">Nazwa</target>
         <note>key: currency.list.column.name</note>
       </trans-unit>
       <trans-unit id="88250082cc8fea91e65918d2d0c8a79fbfd000a2" resname="currency.list.column.subunits">
         <source>Number of fractional digits</source>
-        <target state="needs-translation">Number of fractional digits</target>
+        <target state="translated">Liczba cyfr po symbolu dziesiętnym</target>
         <note>key: currency.list.column.subunits</note>
       </trans-unit>
       <trans-unit id="143068b7805a7e54f1a04ccc1e5aec1b072363a2" resname="currency.list.column.symbol">
         <source>Symbol</source>
-        <target state="needs-translation">Symbol</target>
+        <target state="translated">Symbol waluty</target>
         <note>key: currency.list.column.symbol</note>
       </trans-unit>
       <trans-unit id="d12fbab0d2773a982b0e1cd0c62723ff31d88f72" resname="currency.list.number_of_results">
         <source>%number_of_results% Results</source>
-        <target state="needs-translation">%number_of_results% Results</target>
+        <target state="translated">%number_of_results% wyniki</target>
         <note>key: currency.list.number_of_results</note>
       </trans-unit>
       <trans-unit id="dc4350a333918edfe4527d71857a144a5ee95a38" resname="customer_group.breadcrumb.list">
         <source>Customer Groups</source>
-        <target state="needs-translation">Customer Groups</target>
+        <target state="translated">Grupy klientów</target>
         <note>key: customer_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="a16e0a414916ec9c2c3e5d5dcfb6f56604bd88a3" resname="customer_group.create.success">
         <source>Customer Group '%name%' created.</source>
-        <target state="needs-translation">Customer Group '%name%' created.</target>
+        <target state="translated">Utworzono grupę klientów '%name%'.</target>
         <note>key: customer_group.create.success</note>
       </trans-unit>
       <trans-unit id="19cb8f1b277f8718cf1fbf14be054a0d504dbf39" resname="customer_group.creating.action_name">
         <source>Creating new customers group</source>
-        <target state="needs-translation">Creating new customers group</target>
+        <target state="translated">Tworzenie nowej grupy klientów</target>
         <note>key: customer_group.creating.action_name</note>
       </trans-unit>
       <trans-unit id="4088f91f92755f4d64e366096670578595d5a461" resname="customer_group.creating.title">
         <source>New customers group</source>
-        <target state="needs-translation">New customers group</target>
+        <target state="translated">Nowa grupa klientów</target>
         <note>key: customer_group.creating.title</note>
       </trans-unit>
       <trans-unit id="cf436582d9a2ff9ea033739e860ac4dc50aa6332" resname="customer_group.delete.success">
         <source>Customer Group '%name%' removed.</source>
-        <target state="needs-translation">Customer Group '%name%' removed.</target>
+        <target state="translated">Grupa klientów '%name%' usunięta.</target>
         <note>key: customer_group.delete.success</note>
       </trans-unit>
       <trans-unit id="5a7ec3bf1ed386484e7d01021cbbbb9996ac98e5" resname="customer_group.details.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: customer_group.details.column.name</note>
       </trans-unit>
       <trans-unit id="80c465841426071cd87fff0e6e3746043c76f577" resname="customer_group.details.header">
         <source>Customer group information</source>
-        <target state="needs-translation">Customer group information</target>
+        <target state="translated">Informacje o grupie klientów</target>
         <note>key: customer_group.details.header</note>
       </trans-unit>
       <trans-unit id="8d218ca013d84b2eb778a88002a745cd993898a3" resname="customer_group.edit.action_name">
         <source>Editing customers group</source>
-        <target state="needs-translation">Editing customers group</target>
+        <target state="translated">Edycja grupy klientów</target>
         <note>key: customer_group.edit.action_name</note>
       </trans-unit>
       <trans-unit id="88b0ded0263a770e2da2d428a3ad6b50732033b7" resname="customer_group.edit.price_rate_description">
         <source>Percentage decrease (-) or increase (+) to the base price. Applies to this customer group</source>
-        <target state="needs-translation">Percentage decrease (-) or increase (+) to the base price. Applies to this customer group</target>
+        <target state="translated">Procentowy spadek (-) lub wzrost (+) do ceny bazowej. Dotyczy tej grupy klientów</target>
         <note>key: customer_group.edit.price_rate_description</note>
       </trans-unit>
       <trans-unit id="a7ea212747545f09b9863e250a93815869a32c34" resname="customer_group.list.column.description">
         <source>Description</source>
-        <target state="needs-translation">Description</target>
+        <target state="translated">Opis</target>
         <note>key: customer_group.list.column.description</note>
       </trans-unit>
       <trans-unit id="584c1c114c8eed0277f63cb30023f6ba6c8e956c" resname="customer_group.list.column.global_price_rate">
         <source>Global price rate</source>
-        <target state="needs-translation">Global price rate</target>
+        <target state="translated">Cena globalna</target>
         <note>key: customer_group.list.column.global_price_rate</note>
       </trans-unit>
       <trans-unit id="32c377baea64f4dcc8130bd887cef0bc2db47363" resname="customer_group.list.column.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: customer_group.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="125c735de4901ed74714a4311354cb92a74f4a28" resname="customer_group.list.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: customer_group.list.column.name</note>
       </trans-unit>
       <trans-unit id="4121913e7e6ce7cf2a4d3726fece6567511a0fd6" resname="customer_group.list.details.description">
         <source>Description</source>
-        <target state="needs-translation">Description</target>
+        <target state="translated">Opis</target>
         <note>key: customer_group.list.details.description</note>
       </trans-unit>
       <trans-unit id="cd43cec057addba97820c5fcabc2872384fdab42" resname="customer_group.list.details.global_price_rate">
         <source>Global price rate</source>
-        <target state="needs-translation">Global price rate</target>
+        <target state="translated">Cena globalna</target>
         <note>key: customer_group.list.details.global_price_rate</note>
       </trans-unit>
       <trans-unit id="09c8939c1a7c26b1185ffcc3fd0ef58336ad7e1e" resname="customer_group.list.details.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: customer_group.list.details.identifier</note>
       </trans-unit>
       <trans-unit id="b4c96595c2a0502ff05e00c80d4b491722ae9163" resname="customer_group.list.empty">
         <source>No content to show.</source>
-        <target state="needs-translation">No content to show.</target>
+        <target state="translated">Brak treści do wyświetlenia.</target>
         <note>key: customer_group.list.empty</note>
       </trans-unit>
       <trans-unit id="e00716680694f1775f484ee49c9755ea66b5f028" resname="customer_group.list.number_of_results">
         <source>%number_of_results% Results</source>
-        <target state="needs-translation">%number_of_results% Results</target>
+        <target state="translated">%number_of_results% wyniki</target>
         <note>key: customer_group.list.number_of_results</note>
       </trans-unit>
       <trans-unit id="47b9971f3154eb3bdca67e18b6e5d7b4af3902c6" resname="customer_group.list.title">
         <source>Customer Groups</source>
-        <target state="needs-translation">Customer Groups</target>
+        <target state="translated">Grupy klientów</target>
         <note>key: customer_group.list.title</note>
       </trans-unit>
       <trans-unit id="78c5b3b2f9000a454faf2354813d17c48bd6b1fc" resname="customer_group.list.user.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: customer_group.list.user.column.name</note>
       </trans-unit>
       <trans-unit id="a2766334af7fe036bc63671532a4838c020a1de0" resname="customer_group.list.user.empty">
         <source>There is no users in group</source>
-        <target state="needs-translation">There is no users in group</target>
+        <target state="translated">Brak użytkowników w grupie</target>
         <note>key: customer_group.list.user.empty</note>
       </trans-unit>
       <trans-unit id="ced1505feeab441e98b7888bf6a73a841b6d624b" resname="customer_group.list.user.header">
         <source>Users in '%group_name%'</source>
-        <target state="needs-translation">Users in '%group_name%'</target>
+        <target state="translated">Użytkownicy w grupie '%group_name%'</target>
         <note>key: customer_group.list.user.header</note>
       </trans-unit>
       <trans-unit id="b1ff344d52a655babce6e149baddf66eaf986344" resname="customer_group.update.success">
         <source>Customer Group '%name%' updated.</source>
-        <target state="needs-translation">Customer Group '%name%' updated.</target>
+        <target state="translated">Zaktualizowano grupę klientów '%name%'.</target>
         <note>key: customer_group.update.success</note>
       </trans-unit>
       <trans-unit id="4296f9ef795218850ffe573d8dd91449071c0da6" resname="customer_group.view.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: customer_group.view.edit</note>
       </trans-unit>
       <trans-unit id="707b515afda7ba8fd703e77108c2ba783467c64d" resname="customer_group.view.identifier">
         <source>%customer_group%</source>
-        <target state="needs-translation">%customer_group%</target>
+        <target state="translated">%customer_group%</target>
         <note>key: customer_group.view.identifier</note>
       </trans-unit>
       <trans-unit id="dd3af6247f433e2dffa073b64a03cd6faf5d9cbc" resname="customer_group.view.title.header">
         <source>Customer Group "%customer_group%"</source>
-        <target state="needs-translation">Customer Group "%customer_group%"</target>
+        <target state="translated">Grupa klientów "%customer_group%"</target>
         <note>key: customer_group.view.title.header</note>
       </trans-unit>
       <trans-unit id="62d262c1dd4f2d6824942975502cb065cb1d7814" resname="customer_group.view.title.identifier">
         <source>Customer Group "%customer_group%"</source>
-        <target state="needs-translation">Customer Group "%customer_group%"</target>
+        <target state="translated">Grupa klientów "%customer_group%"</target>
         <note>key: customer_group.view.title.identifier</note>
       </trans-unit>
       <trans-unit id="e9ea8f509e6eb27d7bec162133c54b7481a8063b" resname="customer_group_translation_add_form.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: customer_group_translation_add_form.add</note>
       </trans-unit>
       <trans-unit id="94a0f4a83d85d4b590ca636da689e11a323914f8" resname="customer_group_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="needs-translation">Remove translation</target>
+        <target state="translated">Usuń tłumaczenie</target>
         <note>key: customer_group_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="fec8270453451fdd353b4a9c8f6e459908355a73" resname="field_definition.ibexa_product_specification.attributes_definitions">
         <source>Attributes</source>
-        <target state="needs-translation">Attributes</target>
+        <target state="translated">Atrybuty</target>
         <note>key: field_definition.ibexa_product_specification.attributes_definitions</note>
       </trans-unit>
       <trans-unit id="b530a073c368d83e3bdc04e76b9bc48e61057f6c" resname="form.currency.subunits">
         <source>Number of fractional digits</source>
-        <target state="needs-translation">Number of fractional digits</target>
+        <target state="translated">Liczba cyfr po symbolu dziesiętnym</target>
         <note>key: form.currency.subunits</note>
       </trans-unit>
       <trans-unit id="fe39d4b263a82fed2b4589d6b48d97a58807936b" resname="ibexa_product_catalog.attribute.float.option.max_value">
         <source>Maximum Value</source>
-        <target state="needs-translation">Maximum Value</target>
+        <target state="translated">Wartość maksymalna</target>
         <note>key: ibexa_product_catalog.attribute.float.option.max_value</note>
       </trans-unit>
       <trans-unit id="eec34c0345f29a4d31d3061866c96eaa98040b4b" resname="ibexa_product_catalog.attribute.float.option.min_value">
         <source>Minimum Value</source>
-        <target state="needs-translation">Minimum Value</target>
+        <target state="translated">Wartość minimalna</target>
         <note>key: ibexa_product_catalog.attribute.float.option.min_value</note>
       </trans-unit>
       <trans-unit id="bccbbf83c3c972f30a0778eab78db9c7000c0ba0" resname="ibexa_product_catalog.attribute.integer.option.max_value">
         <source>Maximum Value</source>
-        <target state="needs-translation">Maximum Value</target>
+        <target state="translated">Wartość maksymalna</target>
         <note>key: ibexa_product_catalog.attribute.integer.option.max_value</note>
       </trans-unit>
       <trans-unit id="0b900abdaa43411440961af9bdf0bd3c33e3307e" resname="ibexa_product_catalog.attribute.integer.option.min_value">
         <source>Minimum Value</source>
-        <target state="needs-translation">Minimum Value</target>
+        <target state="translated">Wartość minimalna</target>
         <note>key: ibexa_product_catalog.attribute.integer.option.min_value</note>
       </trans-unit>
       <trans-unit id="f5ed38e3d1150c3a4b944ec43fd79e07ef7583bb" resname="ibexa_product_catalog.attribute.selection.option.choices">
         <source>Options</source>
-        <target state="needs-translation">Options</target>
+        <target state="translated">Opcje</target>
         <note>key: ibexa_product_catalog.attribute.selection.option.choices</note>
       </trans-unit>
       <trans-unit id="3bdf637be6198badcdcf3f6234997c849451de5c" resname="ibexa_product_catalog.product_create_form.submit">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: ibexa_product_catalog.product_create_form.submit</note>
       </trans-unit>
       <trans-unit id="a081c8e6ebc3b4da038c7bde40d6776ac89b17aa" resname="ibexa_product_catalog.product_create_form.title">
         <source>Create product</source>
-        <target state="needs-translation">Create product</target>
+        <target state="translated">Utwórz produkt</target>
         <note>key: ibexa_product_catalog.product_create_form.title</note>
       </trans-unit>
       <trans-unit id="19ac5b46de12ced1aef77fb3ccb142676f4ea027" resname="ibexa_product_catalog.vat_category.choices">
         <source>VAT category</source>
-        <target state="needs-translation">VAT category</target>
+        <target state="translated">Kategoria VAT</target>
         <note>key: ibexa_product_catalog.vat_category.choices</note>
       </trans-unit>
       <trans-unit id="05ac6bd0badf7c95db6f444e62cc0ff4a363c6a9" resname="list.action.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: list.action.create</note>
       </trans-unit>
       <trans-unit id="f36bb43216bd9e954b65b575c423aff27f96e758" resname="list.delete">
@@ -618,137 +618,137 @@
       </trans-unit>
       <trans-unit id="7db019697b22bcd666e14fb5d800dbef3e5454ff" resname="price.delete.success">
         <source>Price for product '%product_name%' in currency '%currency_code%' removed.</source>
-        <target state="needs-translation">Price for product '%product_name%' in currency '%currency_code%' removed.</target>
+        <target state="translated">Cena produktu '%product_name%' w walucie '%currency_code%' usunięta.</target>
         <note>key: price.delete.success</note>
       </trans-unit>
       <trans-unit id="3858f772710dcbfe2474e0d684386ae3a5a0f0d9" resname="product.Availability.update.success">
         <source>Availability for Product '%product_name%' (%product_code%) updated.</source>
-        <target state="needs-translation">Availability for Product '%product_name%' (%product_code%) updated.</target>
+        <target state="translated">Dostępność dla produktu '%product_name%' (%product_code%) zaktualizowana.</target>
         <note>key: product.Availability.update.success</note>
       </trans-unit>
       <trans-unit id="5b68b0af24e8e3a8c607b05d13bf5d92dd1024e1" resname="product.anchor_navigation_item.attributes">
         <source>Attributes</source>
-        <target state="needs-translation">Attributes</target>
+        <target state="translated">Atrybuty</target>
         <note>key: product.anchor_navigation_item.attributes</note>
       </trans-unit>
       <trans-unit id="670796a4435dbb09eaff63f91d6b22c3e210f73a" resname="product.anchor_navigation_item.content">
         <source>Content</source>
-        <target state="needs-translation">Content</target>
+        <target state="translated">Treść</target>
         <note>key: product.anchor_navigation_item.content</note>
       </trans-unit>
       <trans-unit id="ed4b78a9b00310cbd7774f9412f1ee4716f501a8" resname="product.availability.create.success">
         <source>Availability for Product '%product_name%' (%product_code%) created.</source>
-        <target state="needs-translation">Availability for Product '%product_name%' (%product_code%) created.</target>
+        <target state="translated">Dostępność dla produktu '%product_name%' (%product_code%) została utworzona.</target>
         <note>key: product.availability.create.success</note>
       </trans-unit>
       <trans-unit id="e5614bead5f20e67428a1d4f79919098ddc6b2cf" resname="product.availability.creating.action_name">
         <source>Creating new availability</source>
-        <target state="needs-translation">Creating new availability</target>
+        <target state="translated">Tworzenie nowej dostępności</target>
         <note>key: product.availability.creating.action_name</note>
       </trans-unit>
       <trans-unit id="988bdf15d51941dbfb3b4562297da96cbe5ed6fa" resname="product.availability.creating.title">
         <source>New availability</source>
-        <target state="needs-translation">New availability</target>
+        <target state="translated">Nowa dostępność</target>
         <note>key: product.availability.creating.title</note>
       </trans-unit>
       <trans-unit id="b478d20c06fe22c4e76cb35e47f8591298655f09" resname="product.availability.edit.action_name">
         <source>Editing availability</source>
-        <target state="needs-translation">Editing availability</target>
+        <target state="translated">Edycja dostępności</target>
         <note>key: product.availability.edit.action_name</note>
       </trans-unit>
       <trans-unit id="4e575d6e9721d47ceab8d44f1a57ecfba9585178" resname="product.availability.edit.title">
         <source>Product "%product_name%"</source>
-        <target state="needs-translation">Product "%product_name%"</target>
+        <target state="translated">Produkt "%product_name%"</target>
         <note>key: product.availability.edit.title</note>
       </trans-unit>
       <trans-unit id="6ef9b8e0989ad419459211a3a175ac95f7d9cdfd" resname="product.breadcrumb.list">
         <source>Products</source>
-        <target state="needs-translation">Products</target>
+        <target state="translated">Produkty</target>
         <note>key: product.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="80ccab9939865f6d2610a24817aab5dc1075db36" resname="product.creating">
         <source>Creating %product_type_name%</source>
-        <target state="needs-translation">Creating %product_type_name%</target>
+        <target state="translated">Tworzenie %product_type_name%</target>
         <note>key: product.creating</note>
       </trans-unit>
       <trans-unit id="d6e2b764c5b3b95dfa533e97d2a0d75f05f1903c" resname="product.currency.create.success">
         <source>Currency %currency_code% created.</source>
-        <target state="needs-translation">Currency %currency_code% created.</target>
+        <target state="translated">Waluta %currency_code% została utworzona.</target>
         <note>key: product.currency.create.success</note>
       </trans-unit>
       <trans-unit id="70aadde96ec7f4679b0b2a564c9fbe10c75f581e" resname="product.currency.update.success">
         <source>Currency %currency_code% updated.</source>
-        <target state="needs-translation">Currency %currency_code% updated.</target>
+        <target state="translated">Waluta %currency_code% zaktualizowana.</target>
         <note>key: product.currency.update.success</note>
       </trans-unit>
       <trans-unit id="102e51981d5b04b219eb667bf3e25e339e7782e9" resname="product.delete.success">
         <source>Product '%name%' removed.</source>
-        <target state="needs-translation">Product '%name%' removed.</target>
+        <target state="translated">Produkt '%name%' usunięty.</target>
         <note>key: product.delete.success</note>
       </trans-unit>
       <trans-unit id="4ee4af717f710065d8ca05798beb379be3c70a99" resname="product.edit.action_name">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Edycja</target>
         <note>key: product.edit.action_name</note>
       </trans-unit>
       <trans-unit id="bb26bd02d68f785d6610a8bc790162a6e9725877" resname="product.list.column.available">
         <source>Available</source>
-        <target state="needs-translation">Available</target>
+        <target state="translated">Dostępny</target>
         <note>key: product.list.column.available</note>
       </trans-unit>
       <trans-unit id="a05d02097c6ee7323ffde5e6cff861bb7c01684e" resname="product.list.column.code">
         <source>Code</source>
-        <target state="needs-translation">Code</target>
+        <target state="translated">Kod produktu</target>
         <note>key: product.list.column.code</note>
       </trans-unit>
       <trans-unit id="ac368d0e83ee48a978fb38a8f1e5a3984ace2f73" resname="product.list.column.created">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Utworzono</target>
         <note>key: product.list.column.created</note>
       </trans-unit>
       <trans-unit id="d872b993dc21de914d252986a5b3c0a82eed2fef" resname="product.list.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: product.list.column.name</note>
       </trans-unit>
       <trans-unit id="0083f7ca13823b98b4d897eb240f9e20b6c225de" resname="product.list.column.stock">
         <source>Stock</source>
-        <target state="needs-translation">Stock</target>
+        <target state="translated">Stan</target>
         <note>key: product.list.column.stock</note>
       </trans-unit>
       <trans-unit id="720ae63f9212041323bbb86921ace93d372baea9" resname="product.list.column.thumbnail">
         <source>Image</source>
-        <target state="needs-translation">Image</target>
+        <target state="translated">Obraz</target>
         <note>key: product.list.column.thumbnail</note>
       </trans-unit>
       <trans-unit id="3fbbf89e766241bc2ddeb242a97963c12295617b" resname="product.list.column.type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Typ produktu</target>
         <note>key: product.list.column.type</note>
       </trans-unit>
       <trans-unit id="84f1de3dd39d21912ba5cd3ed7ce10c3377503fd" resname="product.list.column.variant">
         <source>Variant</source>
-        <target state="needs-translation">Variant</target>
+        <target state="translated">Wariant</target>
         <note>key: product.list.column.variant</note>
       </trans-unit>
       <trans-unit id="76d57c00bb0c04dd1431aa80630d7d3ea135840e" resname="product.list.number_of_results">
         <source>%number_of_results% Results</source>
-        <target state="needs-translation">%number_of_results% Results</target>
+        <target state="translated">%number_of_results% wyniki</target>
         <note>key: product.list.number_of_results</note>
       </trans-unit>
       <trans-unit id="6f63b5a574abd55dc76e4600e7bb7969f24e1e1e" resname="product.list.title">
         <source>Products</source>
-        <target state="needs-translation">Products</target>
+        <target state="translated">Produkty</target>
         <note>key: product.list.title</note>
       </trans-unit>
       <trans-unit id="b98d238fed9574a2aeb5d5df670326fcb6c3ed75" resname="product.list.unlimited">
         <source>Unlimited</source>
-        <target state="needs-translation">Unlimited</target>
+        <target state="translated">Nieograniczona</target>
         <note>key: product.list.unlimited</note>
       </trans-unit>
       <trans-unit id="f567995c3fa691bcbfb5a420dbc3d61ae43ea6cb" resname="product.new.subtitle">
         <source>in %language_name%</source>
-        <target state="needs-translation">in %language_name%</target>
+        <target state="translated">w języku %language_name%</target>
         <note>key: product.new.subtitle</note>
       </trans-unit>
       <trans-unit id="24961d1b141d562745966622b03dd57679cecd6c" resname="product.new.title">
@@ -998,12 +998,12 @@
       </trans-unit>
       <trans-unit id="9a3e334d070d2a47b3ec39063bfa42d062d07ad8" resname="product_price.creating.title">
         <source>New product price</source>
-        <target state="needs-translation">New product price</target>
+        <target state="translated">Nowa cena produktu</target>
         <note>key: product_price.creating.title</note>
       </trans-unit>
       <trans-unit id="e75fd7fcccddc9d6a265329df77cf38a024470ff" resname="product_price.custom_price">
         <source>Custom price</source>
-        <target state="needs-translation">Custom price</target>
+        <target state="translated">Cena niestandardowa</target>
         <note>key: product_price.custom_price</note>
       </trans-unit>
       <trans-unit id="447ec18dad7ac7dfc8f3c54c528545e5aa9acdd7" resname="product_price.custom_price_rule">
