@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
         <source>This Field Type is not editable</source>
-        <target state="needs-translation">This Field Type is not editable</target>
+        <target state="translated">Ten typ pola nie jest edytowalny</target>
         <note>key: content.field.non_editable</note>
       </trans-unit>
       <trans-unit id="07d6fb7c02b8730592a3bb68a315caa63031d44e" resname="content.published.success" approved="yes">
@@ -23,27 +23,27 @@
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Edycja</target>
         <note>key: editing</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
         <source>under %location_name% in %language%</source>
-        <target state="needs-translation">under %location_name% in %language%</target>
+        <target state="translated">w lokalizacji %location_name% w języku %language%</target>
         <note>key: editing_details</note>
       </trans-unit>
       <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">
         <source>Translating the %fieldName% Field is disabled. See Content Type definition for details.</source>
-        <target state="needs-translation">Translating the %fieldName% Field is disabled. See Content Type definition for details.</target>
+        <target state="translated">Tłumaczenie pola %fieldName% jest wyłączone. Zobacz definicję typu treści, aby uzyskać szczegóły.</target>
         <note>key: fieldtype.translation_is_disabled</note>
       </trans-unit>
       <trans-unit id="39b4081643351e2a41c1b3b811b6dc78fb528520" resname="on_the_fly.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Anuluj</target>
         <note>key: on_the_fly.cancel</note>
       </trans-unit>
       <trans-unit id="d466f97702d045f02d8b55379a9c6ea5270ecfef" resname="on_the_fly.confirm">
         <source>Confirm</source>
-        <target state="needs-translation">Confirm</target>
+        <target state="translated">Zatwierdź</target>
         <note>key: on_the_fly.confirm</note>
       </trans-unit>
     </body>

@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="e4b8188e898e654dae14fc6b18133958f8e56084" resname="translation.remove.success">
         <source>Removed '%languageCode%' translation from '%name%'.</source>
-        <target state="needs-translation">Removed '%languageCode%' translation from '%name%'.</target>
+        <target state="translated">Usunięto tłumaczenie '%languageCode%' z '%name%'.</target>
         <note>key: translation.remove.success</note>
       </trans-unit>
     </body>
