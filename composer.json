@@ -5,6 +5,7 @@
   "require": {
     "ibexa/core": "^4.0"
   },
+  "require-dev": {},
   "extra": {
     "branch-alias": {
       "dev-main": "4.0.x-dev"
