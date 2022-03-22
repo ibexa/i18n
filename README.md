@@ -6,11 +6,11 @@
 
 This is a meta repository that centralizes Ibexa translations to ease synchronization with Crowdin.
 
-This repository is supposed to be used on a production project. There is a integration configured between Crowdin and Github.
+This repository is supposed to be used on a production project. There is an integration configured between Crowdin and Github.
 When the translator provides a new translation message in the Crowdin UI then it will be automatically transferred to the l10n_main branch of ibexa/i18 package.
-As the last step of synchronization new PR will be created with new translations or, if PR is already open, it will be updated with a new commit. Then PR should be merged to the main branch with squash and tagged if needed.
+As the last step of synchronization, a new PR will be created with new translations or, if a PR is already open, it will be updated with a new commit. Then the PR should be merged to the main branch with squashed commits and tagged if needed.
 
-All translations will be available as a part of the product. To enable them translations, use the following configuration:
+All translations will be available as a part of the product. To enable them, use the following configuration:
 
 ``` yaml
 ibexa:
