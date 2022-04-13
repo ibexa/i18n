@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
-        <target state="needs-translation">Container</target>
+        <target state="translated">Container</target>
         <note>key: content_type.container</note>
       </trans-unit>
       <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="bafafe330e90f8d93a41e93801984fed4c79512e" resname="content_type.edit.error.no_added_fields_definition">
         <source>You have to add at least one field definition</source>
-        <target state="needs-translation">You have to add at least one field definition</target>
+        <target state="translated">Sie müssen mindestens eine Felddefinition hinzufügen</target>
         <note>key: content_type.edit.error.no_added_fields_definition</note>
       </trans-unit>
       <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="043e7766417bd9d21fe58de76fcaee35eb7d2fb0" resname="content_type.group.identifier">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: content_type.group.identifier</note>
       </trans-unit>
       <trans-unit id="c657344d0bf6b6203b1b9eaf4e44f7a6261dfe1d" resname="content_type.group.save">
@@ -158,12 +158,12 @@
       </trans-unit>
       <trans-unit id="338e462a91906d03e5e6b8c00528a38d482a3c9e" resname="content_type.is_container">
         <source>Container</source>
-        <target state="needs-translation">Container</target>
+        <target state="translated">Container</target>
         <note>key: content_type.is_container</note>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: content_type.name</note>
       </trans-unit>
       <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>key: content_type.publish</note>
       </trans-unit>
       <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="f75919a228809d6de255e3fd535c4eaaf8789241" resname="content_type.sort_field.6">
         <source>Content Type identifier</source>
-        <target state="needs-translation">Content Type identifier</target>
+        <target state="translated">Content Type Bezeichner</target>
         <note>key: content_type.sort_field.6</note>
       </trans-unit>
       <trans-unit id="f4bd88a45172f3cf7e268c40cfc27b0c5336bc9b" resname="content_type.sort_field.7">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
         <source>Content ID</source>
-        <target state="needs-translation">Content ID</target>
+        <target state="translated">Content ID</target>
         <note>key: content_type.sort_field.content_id</note>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
         <source>Location ID</source>
-        <target state="needs-translation">Location ID</target>
+        <target state="translated">Location ID</target>
         <note>key: content_type.sort_field.location_id</note>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: content_type.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="5a5fe831f20f47949b0a54d76cfa897898794b77" resname="content_type.view.list.column.identifier">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="288545756241beae1bdb8aa600b829506bb7acaf" resname="content_type.view.list.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: content_type.view.list.column.name</note>
       </trans-unit>
       <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
         <source>%name%</source>
-        <target state="needs-translation">%name%</target>
+        <target state="translated">%name%</target>
         <note>key: content_type.view.view.title</note>
       </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
@@ -363,12 +363,12 @@
       </trans-unit>
       <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: content_type_group.create.name</note>
       </trans-unit>
       <trans-unit id="b04a9c80f0219d1a12813a8aa4bc532e97653b28" resname="content_type_group.create.submit">
@@ -383,7 +383,7 @@
       </trans-unit>
       <trans-unit id="59f3d7c7674d76f2854970e9c63a8db856b1229f" resname="content_type_group.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Erstellen</target>
         <note>key: content_type_group.creating</note>
       </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
@@ -398,7 +398,7 @@
       </trans-unit>
       <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: content_type_group.update.name</note>
       </trans-unit>
       <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
@@ -423,7 +423,7 @@
       </trans-unit>
       <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Erstellen</target>
         <note>key: content_type_group.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
@@ -438,12 +438,12 @@
       </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: content_type_group.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="37d17dd014cd573541f83d4b5b0c4909b66ac7be" resname="content_type_group.view.list.column.identifier">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: content_type_group.view.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="9522e89ad894375dcf878ae282bdd793946fc375" resname="content_type_group.view.list.title">
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type_group.view.view.title</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
@@ -563,7 +563,7 @@
       </trans-unit>
       <trans-unit id="5e8015fbf9269d3ee1bbb99b09005cf6b165ab53" resname="field_definition.ezimage.is_alternative_text_required">
         <source>Alternative text is required</source>
-        <target state="needs-translation">Alternative text is required</target>
+        <target state="translated">Alt-Text muss ausgefüllt werden</target>
         <note>key: field_definition.ezimage.is_alternative_text_required</note>
       </trans-unit>
       <trans-unit id="5b275c762831def3c6ea393e3e0c25762e0844b3" resname="field_definition.ezimage.max_file_size">
@@ -638,7 +638,7 @@
       </trans-unit>
       <trans-unit id="57951280ffe27b8afe3f6c65f8cda4696267d64a" resname="field_definition.ezmedia.type_windows_media_player">
         <source>Windows Media Player</source>
-        <target state="needs-translation">Windows Media Player</target>
+        <target state="translated">Windows Media Player</target>
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
       </trans-unit>
       <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="fde392a84bc4f5ab5afef425e9e3bb353313e9d6" resname="field_definition.ezobjectrelation.selection_root_reset_title">
         <source>Reset starting location</source>
-        <target state="needs-translation">Reset starting location</target>
+        <target state="translated">Wählen Sie den Einstiegspunkt</target>
         <note>key: field_definition.ezobjectrelation.selection_root_reset_title</note>
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
@@ -833,12 +833,12 @@
       </trans-unit>
       <trans-unit id="9a02e329edf4c1e41c97c8be922137c284c249c4" resname="field_definition.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: field_definition.name</note>
       </trans-unit>
       <trans-unit id="f6d7350ade5162400b0848796720fe586392fa46" resname="field_definition.position">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Position</target>
         <note>key: field_definition.position</note>
       </trans-unit>
       <trans-unit id="62ac918fce5389cd868b988e65b4ab96477a1344" resname="location_update_form.sort_field">
