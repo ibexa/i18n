@@ -93,12 +93,12 @@
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: dashboard.table.name</note>
       </trans-unit>
       <trans-unit id="783d5adc52cea6b0cc80c2083158297f31a8d59d" resname="dashboard.table.version">
         <source>Version</source>
-        <target state="needs-translation">Version</target>
+        <target state="translated">Version</target>
         <note>key: dashboard.table.version</note>
       </trans-unit>
       <trans-unit id="a49a78f944bf1f73f3f7ff9672463bb1abd4a402" resname="everyone">
