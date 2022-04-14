@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="d24f4fdc1a193e1526c297e5e30b61bdb396b3bb" resname="content_type.sort_field.9">
         <source>Content name</source>
-        <target state="needs-translation">Content name</target>
+        <target state="translated">コンテンツ名</target>
         <note>key: content_type.sort_field.9</note>
       </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
         <source>Content ID</source>
-        <target state="needs-translation">Content ID</target>
+        <target state="translated">コンテンツ ID</target>
         <note>key: content_type.sort_field.content_id</note>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
         <source>Location ID</source>
-        <target state="needs-translation">Location ID</target>
+        <target state="translated">ロケーション ID</target>
         <note>key: content_type.sort_field.location_id</note>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
@@ -288,17 +288,17 @@
       </trans-unit>
       <trans-unit id="18f4f0dcdd6a1f1a9f7a5c301cc378167f403836" resname="content_type.sort_order.0">
         <source>Descending</source>
-        <target state="needs-translation">Descending</target>
+        <target state="translated">降順</target>
         <note>key: content_type.sort_order.0</note>
       </trans-unit>
       <trans-unit id="b411f25ded028ccb2ef56a55d69bd2e3f1da4cd5" resname="content_type.sort_order.1">
         <source>Ascending</source>
-        <target state="needs-translation">Ascending</target>
+        <target state="translated">昇順</target>
         <note>key: content_type.sort_order.1</note>
       </trans-unit>
       <trans-unit id="48d3eb66c0f8928777189eab11eae254866852b2" resname="content_type.update.success">
         <source>Content Type '%name%' updated.</source>
-        <target state="needs-translation">Content Type '%name%' updated.</target>
+        <target state="translated">コンテンツタイプ '%name%' が更新されました。</target>
         <note>key: content_type.update.success</note>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
