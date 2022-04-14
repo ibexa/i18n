@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
@@ -38,17 +38,17 @@
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
         <source>Error occoured while copying the '%name%' Content Type.</source>
-        <target state="needs-translation">Error occoured while copying the '%name%' Content Type.</target>
+        <target state="translated">'%name%' コンテンツタイプのコピー中にエラーが発生しました。</target>
         <note>key: content_type.copy.error</note>
       </trans-unit>
       <trans-unit id="31674753c7d944af06b98387a96ce93f36f6adb4" resname="content_type.copy.success">
         <source>Content Type '%name%' successfully copied.</source>
-        <target state="needs-translation">Content Type '%name%' successfully copied.</target>
+        <target state="translated">コンテンツタイプ '%name%' が正常にコピーされました。</target>
         <note>key: content_type.copy.success</note>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
         <source>Create a Content Type</source>
-        <target state="needs-translation">Create a Content Type</target>
+        <target state="translated">コンテンツタイプの作成</target>
         <note>key: content_type.create</note>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
@@ -93,12 +93,12 @@
       </trans-unit>
       <trans-unit id="be2f64eb4557a3af16a2f32f5e0185c591d3ca8f" resname="content_type.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: content_type.delete</note>
       </trans-unit>
       <trans-unit id="5ecc210ad42274409db7ec4e56ba286b487639c6" resname="content_type.delete.success">
         <source>Content Type '%name%' deleted.</source>
-        <target state="needs-translation">Content Type '%name%' deleted.</target>
+        <target state="translated">コンテンツタイプ '%name%' が削除されました。</target>
         <note>key: content_type.delete.success</note>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
@@ -138,17 +138,17 @@
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: content_type.group.delete</note>
       </trans-unit>
       <trans-unit id="043e7766417bd9d21fe58de76fcaee35eb7d2fb0" resname="content_type.group.identifier">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">名前</target>
         <note>key: content_type.group.identifier</note>
       </trans-unit>
       <trans-unit id="c657344d0bf6b6203b1b9eaf4e44f7a6261dfe1d" resname="content_type.group.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">保存</target>
         <note>key: content_type.group.save</note>
       </trans-unit>
       <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier">
@@ -173,37 +173,37 @@
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>key: content_type.publish</note>
       </trans-unit>
       <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: content_type.remove_draft</note>
       </trans-unit>
       <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save">
         <source>Apply</source>
-        <target state="needs-translation">Apply</target>
+        <target state="translated">適用</target>
         <note>key: content_type.save</note>
       </trans-unit>
       <trans-unit id="c625b80940dd9f13842e38446a97391248d0f709" resname="content_type.sort_field.1">
         <source>Location path</source>
-        <target state="needs-translation">Location path</target>
+        <target state="translated">ロケーションパス</target>
         <note>key: content_type.sort_field.1</note>
       </trans-unit>
       <trans-unit id="4cdfd30bdc30f263b30713d22f714ad46beb120b" resname="content_type.sort_field.2">
         <source>Publication date</source>
-        <target state="needs-translation">Publication date</target>
+        <target state="translated">公開日時</target>
         <note>key: content_type.sort_field.2</note>
       </trans-unit>
       <trans-unit id="3b367aa1610d6332d66b2113a1b1ed287e0310a6" resname="content_type.sort_field.3">
         <source>Modification date</source>
-        <target state="needs-translation">Modification date</target>
+        <target state="translated">更新日時</target>
         <note>key: content_type.sort_field.3</note>
       </trans-unit>
       <trans-unit id="f0dba52962ff2fceb7ab0de72427b4deb55ffbbc" resname="content_type.sort_field.4">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">セクション</target>
         <note>key: content_type.sort_field.4</note>
       </trans-unit>
       <trans-unit id="08c573b0f90eddd499911819f24a58632ceec79b" resname="content_type.sort_field.5">
@@ -213,12 +213,12 @@
       </trans-unit>
       <trans-unit id="f75919a228809d6de255e3fd535c4eaaf8789241" resname="content_type.sort_field.6">
         <source>Content Type identifier</source>
-        <target state="needs-translation">Content Type identifier</target>
+        <target state="translated">コンテンツタイプの識別子</target>
         <note>key: content_type.sort_field.6</note>
       </trans-unit>
       <trans-unit id="f4bd88a45172f3cf7e268c40cfc27b0c5336bc9b" resname="content_type.sort_field.7">
         <source>Content Type name</source>
-        <target state="needs-translation">Content Type name</target>
+        <target state="translated">コンテンツタイプ名</target>
         <note>key: content_type.sort_field.7</note>
       </trans-unit>
       <trans-unit id="d605ada5b53c58b7d08df3379cdc8c9ffc619a3f" resname="content_type.sort_field.8">
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: content_type.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="5a5fe831f20f47949b0a54d76cfa897898794b77" resname="content_type.view.list.column.identifier">
@@ -353,17 +353,17 @@
       </trans-unit>
       <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
         <source>%name%</source>
-        <target state="needs-translation">%name%</target>
+        <target state="translated">%name%</target>
         <note>key: content_type.view.view.title</note>
       </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
         <source>Content Types</source>
-        <target state="needs-translation">Content Types</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: content_type_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
@@ -393,7 +393,7 @@
       </trans-unit>
       <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success">
         <source>Deleted Content Type group '%name%'.</source>
-        <target state="needs-translation">Deleted Content Type group '%name%'.</target>
+        <target state="translated">コンテンツタイプグループ '%name%' が削除されました。</target>
         <note>key: content_type_group.delete.success</note>
       </trans-unit>
       <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
@@ -403,12 +403,12 @@
       </trans-unit>
       <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">更新</target>
         <note>key: content_type_group.update.submit</note>
       </trans-unit>
       <trans-unit id="ff50d4b8d26d81f538b0ebabc392cbb05b6da162" resname="content_type_group.update.success">
         <source>Updated Content Type group '%name%'.</source>
-        <target state="needs-translation">Updated Content Type group '%name%'.</target>
+        <target state="translated">コンテンツタイプグループ '%name%' が更新されました。</target>
         <note>key: content_type_group.update.success</note>
       </trans-unit>
       <trans-unit id="1bd4c745d76ae79ef7e95baea27281fff04e77f6" resname="content_type_group.view.add.title">
@@ -423,7 +423,7 @@
       </trans-unit>
       <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">作成</target>
         <note>key: content_type_group.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: content_type_group.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="37d17dd014cd573541f83d4b5b0c4909b66ac7be" resname="content_type_group.view.list.column.identifier">
@@ -448,12 +448,12 @@
       </trans-unit>
       <trans-unit id="9522e89ad894375dcf878ae282bdd793946fc375" resname="content_type_group.view.list.title">
         <source>Content Type groups</source>
-        <target state="needs-translation">Content Type groups</target>
+        <target state="translated">コンテンツタイプグループ</target>
         <note>key: content_type_group.view.list.title</note>
       </trans-unit>
       <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type_group.view.view.title</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
