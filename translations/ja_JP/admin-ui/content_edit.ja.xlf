@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="cd6fb4cd7385ecdb31009da852c23fb5038b9c72" resname="content.draft_saved.success">
         <source>Content draft saved.</source>
-        <target state="needs-translation">Content draft saved.</target>
+        <target state="translated">コンテンツの下書きを保存しました。</target>
         <note>key: content.draft_saved.success</note>
       </trans-unit>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
         <source>This Field Type is not editable</source>
-        <target state="needs-translation">This Field Type is not editable</target>
+        <target state="translated">このフィールドタイプは編集できません</target>
         <note>key: content.field.non_editable</note>
       </trans-unit>
       <trans-unit id="07d6fb7c02b8730592a3bb68a315caa63031d44e" resname="content.published.success">
         <source>Content published.</source>
-        <target state="needs-translation">Content published.</target>
+        <target state="translated">コンテンツを公開しました。</target>
         <note>key: content.published.success</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="39b4081643351e2a41c1b3b811b6dc78fb528520" resname="on_the_fly.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: on_the_fly.cancel</note>
       </trans-unit>
       <trans-unit id="d466f97702d045f02d8b55379a9c6ea5270ecfef" resname="on_the_fly.confirm">
         <source>Confirm</source>
-        <target state="needs-translation">Confirm</target>
+        <target state="translated">確認</target>
         <note>key: on_the_fly.confirm</note>
       </trans-unit>
     </body>

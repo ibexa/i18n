@@ -38,17 +38,17 @@
       </trans-unit>
       <trans-unit id="749d4759e304735bcec6ef6ec10af43e70f1f289" resname="dashboard.table.all.content.edit">
         <source>Edit Content</source>
-        <target state="needs-translation">Edit Content</target>
+        <target state="translated">コンテンツを編集</target>
         <note>key: dashboard.table.all.content.edit</note>
       </trans-unit>
       <trans-unit id="d55b4e897f7b7f5748c600e865a61eae6c9fe3da" resname="dashboard.table.all.media.edit">
         <source>Edit Media</source>
-        <target state="needs-translation">Edit Media</target>
+        <target state="translated">メディアを編集</target>
         <note>key: dashboard.table.all.media.edit</note>
       </trans-unit>
       <trans-unit id="f0adf5df30310686ce6864bef32325c9a6988b49" resname="dashboard.table.content.edit">
         <source>Edit Content</source>
-        <target state="needs-translation">Edit Content</target>
+        <target state="translated">コンテンツを編集</target>
         <note>key: dashboard.table.content.edit</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
         <source>Edit Draft</source>
-        <target state="needs-translation">Edit Draft</target>
+        <target state="translated">下書きを編集</target>
         <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
         <source>Last Saved</source>
-        <target state="needs-translation">Last Saved</target>
+        <target state="translated">更新日時</target>
         <note>key: dashboard.table.last_saved</note>
       </trans-unit>
       <trans-unit id="ec988391649c3e25028a629b4e38dc426f4c4615" resname="dashboard.table.media.edit">
         <source>Edit Media</source>
-        <target state="needs-translation">Edit Media</target>
+        <target state="translated">メディアを編集</target>
         <note>key: dashboard.table.media.edit</note>
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="013cb5f0c7391fd9db25ef277f72bd0d3b62a0e3" resname="my.dashboard">
         <source>My dashboard</source>
-        <target state="needs-translation">My dashboard</target>
+        <target state="translated">ダッシュボード</target>
         <note>key: my.dashboard</note>
       </trans-unit>
       <trans-unit id="c4d3f17636317e532c589f3008d82c263ab5c39d" resname="tab.name.everyone_content">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="30243b16511a7800e3b72f9cd60854548a2cfe1b" resname="tab.name.my_drafts">
         <source>Drafts</source>
-        <target state="needs-translation">Drafts</target>
+        <target state="translated">下書き</target>
         <note>key: tab.name.my_drafts</note>
       </trans-unit>
       <trans-unit id="3cd97096c4d5ea83d5591467ab43021b86c65f27" resname="tab.name.my_media">

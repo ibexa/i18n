@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success">
         <source>Created a new draft for '%name%'.</source>
-        <target state="needs-translation">Created a new draft for '%name%'.</target>
+        <target state="translated">'%name% ' の新しい下書きを作成しました。</target>
         <note>key: content.create_draft.success</note>
       </trans-unit>
       <trans-unit id="1ea2690f8ebd8fc99115a6f94ac56b8b93e46afe" resname="content.draft.conflict.error">
@@ -18,17 +18,17 @@
       </trans-unit>
       <trans-unit id="7b7f768e446eae09c01c831807e246e293f65349" resname="content.edit.permission.error">
         <source>You don't have permission to edit this Content item</source>
-        <target state="needs-translation">You don't have permission to edit this Content item</target>
+        <target state="translated">このコンテンツアイテムを編集する権限がありません</target>
         <note>key: content.edit.permission.error</note>
       </trans-unit>
       <trans-unit id="fbc24757e92f52997d730762e004765425845995" resname="content.hide.already_hidden">
         <source>Content item '%name%' is already hidden.</source>
-        <target state="needs-translation">Content item '%name%' is already hidden.</target>
+        <target state="translated">コンテンツアイテム '%name%' は既に非表示になっています。</target>
         <note>key: content.hide.already_hidden</note>
       </trans-unit>
       <trans-unit id="7a80db58ea3f3bef5b9f07c4565d715efdacda99" resname="content.hide.success">
         <source>Content item '%name%' hidden.</source>
-        <target state="needs-translation">Content item '%name%' hidden.</target>
+        <target state="translated">コンテンツアイテム '%name%' を非表示にしました。</target>
         <note>key: content.hide.success</note>
       </trans-unit>
       <trans-unit id="d773dd487e4e5467fd20fc4fc4987eba33eaf1b7" resname="content.main_language_update.success">
@@ -68,12 +68,12 @@
       </trans-unit>
       <trans-unit id="f6ae7078e77f584ad00c8003405ca11dc57c4d56" resname="preview_header.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">戻る</target>
         <note>key: preview_header.back</note>
       </trans-unit>
       <trans-unit id="583285bb674e4f29b273ceb4b19dc700e44c4130" resname="tooltip.close_label">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">閉じる</target>
         <note>key: tooltip.close_label</note>
       </trans-unit>
       <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
