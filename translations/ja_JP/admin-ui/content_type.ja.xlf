@@ -868,12 +868,12 @@
       </trans-unit>
       <trans-unit id="fd1286353570c5703799ba76999323b7c7447b06" resname="no">
         <source>No</source>
-        <target state="needs-translation">No</target>
+        <target state="translated">いいえ</target>
         <note>key: no</note>
       </trans-unit>
       <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
         <source>Translations</source>
-        <target state="needs-translation">Translations</target>
+        <target state="translated">翻訳</target>
         <note>key: tab.name.translations</note>
       </trans-unit>
       <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
@@ -883,7 +883,7 @@
       </trans-unit>
       <trans-unit id="fb360f9c09ac8c5edb2f18be5de4e80ea4c430d0" resname="yes">
         <source>Yes</source>
-        <target state="needs-translation">Yes</target>
+        <target state="translated">はい</target>
         <note>key: yes</note>
       </trans-unit>
     </body>
