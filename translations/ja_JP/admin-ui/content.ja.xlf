@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
         <source>Are you sure you want to send this Content item to Trash?</source>
-        <target state="needs-translation">Are you sure you want to send this Content item to Trash?</target>
+        <target state="translated">このコンテンツアイテムをごみ箱に送信してもよろしいですか？</target>
         <note>key: trash.modal.message</note>
       </trans-unit>
       <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
