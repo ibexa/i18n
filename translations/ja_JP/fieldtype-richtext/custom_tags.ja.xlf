@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="48fc0ce4ff40934d1fff06a56055c9ad73f634f4" resname="ezrichtext.custom_tags.ezfacebook.label">
         <source>Facebook</source>
-        <target state="needs-translation">Facebook</target>
+        <target state="translated">Facebook</target>
         <note>key: ezrichtext.custom_tags.ezfacebook.label</note>
       </trans-unit>
       <trans-unit id="b7ef5c07f5cbc982f23e547bc1e1326752853018" resname="ezrichtext.custom_tags.eztwitter.attributes.cards.label">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="38dcf6fd48a4264ead1cce0e8e69f71211fa7670" resname="ezrichtext.custom_tags.eztwitter.attributes.theme.label">
         <source>Theme</source>
-        <target state="needs-translation">Theme</target>
+        <target state="translated">テーマ</target>
         <note>key: ezrichtext.custom_tags.eztwitter.attributes.theme.label</note>
       </trans-unit>
       <trans-unit id="4c8cbac4f038c15c7e71194a1af3726117d28279" resname="ezrichtext.custom_tags.eztwitter.attributes.tweet_url.label">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="3d7387b1935640d467dc4070c0a9fe4c35d81e52" resname="ezrichtext.custom_tags.eztwitter.label">
         <source>Twitter</source>
-        <target state="needs-translation">Twitter</target>
+        <target state="translated">Twitter</target>
         <note>key: ezrichtext.custom_tags.eztwitter.label</note>
       </trans-unit>
       <trans-unit id="605cb001f1553455c945e45234d73b47cf1417b1" resname="ezrichtext.custom_tags.ezyoutube.attributes.autoplay.label">
