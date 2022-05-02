@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="13cd849924dc9b21defaf1d6905241a4eb74e71a" resname="image_btn.label">
         <source>Image</source>
-        <target state="needs-translation">Image</target>
+        <target state="translated">画像</target>
         <note>key: image_btn.label</note>
       </trans-unit>
       <trans-unit id="111f9659ed2bb03c3009baafc54a24b0a8cab5c4" resname="link_btn.label">
