@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="e118e7860d87eb61153d31f9b9aa62fd371f074c" resname="content_type_econtent|search">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: content_type_econtent|search</note>
       </trans-unit>
       <trans-unit id="df5f33387acdb1350aaab6a50889edce98639913" resname="content|search">
