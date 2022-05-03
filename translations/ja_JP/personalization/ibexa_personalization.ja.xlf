@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="01cfdca28f4437b0df9af3a5bd854bd92d6f7bab" resname="import.language">
         <source>Language</source>
-        <target state="needs-translation">Language</target>
+        <target state="translated">言語</target>
         <note>key: import.language</note>
       </trans-unit>
       <trans-unit id="5ed492920853d62272f044a731b64dffb486c73e" resname="import.last_update">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="5d2ff97e544ffec3511aff38904969ab634b77b3" resname="model.edit.actino_name">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: model.edit.actino_name</note>
       </trans-unit>
       <trans-unit id="9fca83cee965c85c1d9952bb6f394dbb42a65527" resname="model.edit.anchor_navigation.segments">
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="c6c09cc40d11ab92207f295720712bf55f19087b" resname="model.edit_short">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: model.edit_short</note>
       </trans-unit>
       <trans-unit id="cf1abce1343ae4d0d9480a7102d7e89c63ed52ed" resname="model.quantifier.day">
@@ -1863,7 +1863,7 @@
       </trans-unit>
       <trans-unit id="dce8df8eaece9028ee5a31effe545aecff79de6f" resname="models.segments.group.delete_btn.label">
         <source>Delete group</source>
-        <target state="needs-translation">Delete group</target>
+        <target state="translated">グループを削除</target>
         <note>key: models.segments.group.delete_btn.label</note>
       </trans-unit>
       <trans-unit id="5c701556dc21f0b151f5328fad45197b55f16fa2" resname="models.segments.segment.status.active">
@@ -1908,7 +1908,7 @@
       </trans-unit>
       <trans-unit id="050c6688ca4e5f2cae7d305410e973e7dfad2a50" resname="models.submodel.delete_group">
         <source>Delete group</source>
-        <target state="needs-translation">Delete group</target>
+        <target state="translated">グループを削除</target>
         <note>key: models.submodel.delete_group</note>
       </trans-unit>
       <trans-unit id="e0aa8b751c057afd0361ec03ae85fec591a4d68a" resname="models.submodel.existing_groups">
@@ -1953,7 +1953,7 @@
       </trans-unit>
       <trans-unit id="0b3b381fddf5d4385b1b19455d33120f6553fd7b" resname="scenario.action_name.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: scenario.action_name.editing</note>
       </trans-unit>
       <trans-unit id="a29477d90934cf3d031f1e4b60c123d940c33903" resname="scenario.add_scenario">
@@ -2283,7 +2283,7 @@
       </trans-unit>
       <trans-unit id="16a1e110c8c7ac7d3d806178b042706b3bd79af3" resname="welcome.terms.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: welcome.terms.cancel</note>
       </trans-unit>
       <trans-unit id="099ebf8b2b9aa235a7dbcfb79fc0d522be42eb7d" resname="welcome.terms.download_pdf">
