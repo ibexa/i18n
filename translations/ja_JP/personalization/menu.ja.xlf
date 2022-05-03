@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="6bc82f75a31450fd71f04991c30b832ffadcc00d" resname="model_edit__sidebar_right__save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">保存</target>
         <note>key: model_edit__sidebar_right__save</note>
       </trans-unit>
       <trans-unit id="ff2272b1d250c9040b35a76ff7396a956ec3339e" resname="model_edit__sidebar_right__save_and_close">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="4e22a0aa9b06911cc8c7ac281fa43061ee6ab827" resname="scenario_edit__sidebar_right__save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">保存</target>
         <note>key: scenario_edit__sidebar_right__save</note>
       </trans-unit>
       <trans-unit id="3127a9cb816f7ddfb33494e0ab080410fe374a18" resname="scenario_edit__sidebar_right__save_and_close">
