@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="3816282a6673a4a07c0e56585b7c4215816951a9" resname="delete.form.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: delete.form.cancel</note>
       </trans-unit>
       <trans-unit id="bd2693d22f74954ebfeec334da5b3a4816ea6c11" resname="delete.modal.message">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: modal.cancel</note>
       </trans-unit>
       <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
