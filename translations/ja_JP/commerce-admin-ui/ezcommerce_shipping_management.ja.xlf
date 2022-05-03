@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="77b74c11e52aea191d71dca583c6c66a5b3843f7" resname="shipping.table.zip">
         <source>ZIP</source>
-        <target state="needs-translation">ZIP</target>
+        <target state="translated">郵便番号</target>
         <note>key: shipping.table.zip</note>
       </trans-unit>
       <trans-unit id="0e6c8682bafe463f2f16a55e30b4c419277434e2" resname="shipping_management.table.title">
