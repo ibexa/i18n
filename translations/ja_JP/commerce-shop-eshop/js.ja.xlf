@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="bcc269b16846070b6f830342b622edd9b8b0fbdf" resname="js.msgs.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: js.msgs.remove</note>
       </trans-unit>
       <trans-unit id="a2b43f0e2b66ad12911a87a9778ab47bc4a2b2a4" resname="js.rwd.menu_toggle">
