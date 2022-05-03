@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="2e98310eea1179ef208c32219ee39697a872756f" resname="Login / Register">
         <source>Login / Register</source>
-        <target state="needs-translation">Login / Register</target>
+        <target state="translated">ログイン / 登録</target>
         <note>key: Login / Register</note>
       </trans-unit>
       <trans-unit id="b51b2b0d62c7e20b8d8a956fed9a940fed0677d6" resname="My Account">
