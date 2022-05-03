@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="2f4cf33e7c53128e6d383a08d5220819e2f95a3c" resname="bulk_action.failed.modal.content_type_name">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: bulk_action.failed.modal.content_type_name</note>
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">コンテンツを作成</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
         <source>Select a Content Type:</source>
-        <target state="needs-translation">Select a Content Type:</target>
+        <target state="translated">コンテンツタイプを選択:</target>
         <note>key: content.create.select_content_type</note>
       </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="4fd9a40170cf4bc5acff719c14eaf2d15fc9942d" resname="tab.details.change_section ">
         <source>Change Section</source>
-        <target state="needs-translation">Change Section</target>
+        <target state="translated">セクションを変更</target>
         <note>key: tab.details.change_section </note>
       </trans-unit>
       <trans-unit id="5c08278a7b80c4aae97e5683688b5b55b5f5b37e" resname="tab.details.change_state">
@@ -93,12 +93,12 @@
       </trans-unit>
       <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
         <source>Content ID</source>
-        <target state="needs-translation">Content ID</target>
+        <target state="translated">コンテンツ ID</target>
         <note>key: tab.details.content_id</note>
       </trans-unit>
       <trans-unit id="d5236d13b41dc38ee965599754a05e3283b55ae2" resname="tab.details.content_remote_id">
         <source>Content remote ID</source>
-        <target state="needs-translation">Content remote ID</target>
+        <target state="translated">コンテンツリモート ID</target>
         <note>key: tab.details.content_remote_id</note>
       </trans-unit>
       <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator">
@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
         <source>Location ID</source>
-        <target state="needs-translation">Location ID</target>
+        <target state="translated">ロケーション ID</target>
         <note>key: tab.details.location_id</note>
       </trans-unit>
       <trans-unit id="c391debe9105c6823145ca6c5ec76a252ba5538c" resname="tab.details.location_remote_id">
         <source>Location remote ID</source>
-        <target state="needs-translation">Location remote ID</target>
+        <target state="translated">ロケーションリモート ID</target>
         <note>key: tab.details.location_remote_id</note>
       </trans-unit>
       <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
@@ -193,12 +193,12 @@
       </trans-unit>
       <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: tab.locations.action.delete</note>
       </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
         <source>Content Locations</source>
-        <target state="needs-translation">Content Locations</target>
+        <target state="translated">コンテンツロケーション</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
       <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
@@ -338,7 +338,7 @@
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: tab.translations.action.delete</note>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
@@ -378,7 +378,7 @@
       </trans-unit>
       <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
         <source>Delete version</source>
-        <target state="needs-translation">Delete version</target>
+        <target state="translated">バージョンを削除</target>
         <note>key: tab.versions.action.delete</note>
       </trans-unit>
       <trans-unit id="699b5bf627b908f8d270984ab9a4734a48b28abe" resname="tab.versions.archived_versions">
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
         <source>Open drafts</source>
-        <target state="needs-translation">Open drafts</target>
+        <target state="translated">下書きを開く</target>
         <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
       <trans-unit id="134ac8f9b086171dcda7931b3bb7acc0042bb1c9" resname="tab.versions.modal.message">
@@ -418,7 +418,7 @@
       </trans-unit>
       <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">言語</target>
         <note>key: tab.versions.table.modified_language</note>
       </trans-unit>
       <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">
@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="c285bc654712e44ed56cd6f18262a2d6485f4fb9" resname="user.edit.select_language">
         <source>Select a language:</source>
-        <target state="needs-translation">Select a language:</target>
+        <target state="translated">言語を選択:</target>
         <note>key: user.edit.select_language</note>
       </trans-unit>
     </body>
