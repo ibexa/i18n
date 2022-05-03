@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="2457c173119f72384e0f665687acf67de93c5692" resname="content.reveal.modal.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: content.reveal.modal.cancel</note>
       </trans-unit>
       <trans-unit id="49dc9cd191676888376564d941c066297f82e95b" resname="content.reveal.modal.close">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="a6747a32fb851855b9fa7689ab2bc2d27d10c60f" resname="content.scheduled_hide.action.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: content.scheduled_hide.action.cancel</note>
       </trans-unit>
       <trans-unit id="f88139c0f922b2779c403149c9fd1febc793d5ea" resname="content.scheduled_hide.message">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="376d5063e9ae1c8d520f8cf514d736970ddbf0dc" resname="dashboard.scheduling.modal.content_type">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: dashboard.scheduling.modal.content_type</note>
       </trans-unit>
       <trans-unit id="83603383d2345f88c862846db22f099a5b096d63" resname="dashboard.scheduling.modal.creation_date">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="ef0c9403395c8c3dd7da090a9e9be97b774c18d1" resname="dashboard.table.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: dashboard.table.edit</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="26f482fde81774ad7fcaa8bc2626f6bf64eae9f7" resname="modal.scheduling.button.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: modal.scheduling.button.cancel.label</note>
       </trans-unit>
       <trans-unit id="c48bd427a263f448c5f9abe59519564ecc7eb434" resname="modal.scheduling.button.confirm.label">
