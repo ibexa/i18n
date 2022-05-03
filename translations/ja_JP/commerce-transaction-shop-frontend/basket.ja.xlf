@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="2e3282618806683267e314868a1a8acbe3402733" resname="table_remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: table_remove</note>
       </trans-unit>
       <trans-unit id="05090afb2cc702f3b4119fe1c661f825bbda4d60" resname="total_price">
