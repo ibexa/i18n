@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="a0e5e0f0d39b0d4d58cb089d09414a0b8bcf7e2e" resname="content__sidebar_right__copy">
         <source>Copy</source>
-        <target state="translated">複製</target>
+        <target state="translated">コピー</target>
         <note>key: content__sidebar_right__copy</note>
       </trans-unit>
       <trans-unit id="0d5f60093de3b822740abad95d1f8cb2195869c9" resname="content__sidebar_right__copy_subtree">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">コンテンツを作成</target>
         <note>key: content__sidebar_right__create</note>
       </trans-unit>
       <trans-unit id="b3937ec2d3ae4980f8ae00ed20818d92bfab3407" resname="content__sidebar_right__delete">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
         <source>URL Management</source>
-        <target state="translated">URL管理</target>
+        <target state="translated">URL 管理</target>
         <note>key: main__admin__url_management</note>
       </trans-unit>
       <trans-unit id="975e43875a74d509e3e0cedd926de1223d09cdf4" resname="main__admin__users">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="17346107dfddb344b04c455b071d001dadf80d6f" resname="main__content__group_settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">設定</target>
         <note>key: main__content__group_settings</note>
       </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
