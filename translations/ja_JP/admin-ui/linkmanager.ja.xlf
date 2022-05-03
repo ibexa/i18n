@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="44ab49e25d0037a06f7c26582462d2d876e9546c" resname="url.action.edit">
         <source>Edit URL</source>
-        <target state="needs-translation">Edit URL</target>
+        <target state="translated">URLを編集</target>
         <note>key: url.action.edit</note>
       </trans-unit>
       <trans-unit id="f561064964d324f7697c98336f2e4ef5a247e7db" resname="url.action.item.edit">
         <source>Edit content</source>
-        <target state="needs-translation">Edit content</target>
+        <target state="translated">コンテンツを編集</target>
         <note>key: url.action.item.edit</note>
       </trans-unit>
       <trans-unit id="a53272ba95dfff73c2fbab9fd4517d466b1753c2" resname="url.breadcrumb.detail">
@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="67f94fa41322d4fd15518686d51fca4892ad0e7c" resname="url.breadcrumb.list">
         <source>URL management</source>
-        <target state="needs-translation">URL management</target>
+        <target state="translated">URL 管理</target>
         <note>key: url.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="e890168e1ef7753c250affa3fcdfb21074c35c6f" resname="url.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: url.editing</note>
       </trans-unit>
       <trans-unit id="51af0ce5242ede206403aac1116ee36ed8887d44" resname="url.editing.title">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="9ff98d02d294a164470b9491cabfa3526f2f63f6" resname="url.update.success">
         <source>URL updated</source>
-        <target state="needs-translation">URL updated</target>
+        <target state="translated">URL が更新されました</target>
         <note>key: url.update.success</note>
       </trans-unit>
       <trans-unit id="8fe54f2938f83a529ad5d7aa94d4e2fc9934bac1" resname="url.usages.column.name">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="e7ae589ed6ce535328c6561f41bc0171f8fabeb8" resname="url.usages.content_status.draft">
         <source>Draft</source>
-        <target state="needs-translation">Draft</target>
+        <target state="translated">下書き</target>
         <note>key: url.usages.content_status.draft</note>
       </trans-unit>
       <trans-unit id="d831a1a74184672a12e3b9ae099692d1b4fd55b1" resname="url.usages.content_status.published">
