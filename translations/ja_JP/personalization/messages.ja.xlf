@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="94104f5f11945854392d47db58284a39437bdc85" resname="ibexa_personalization.scenario.edit_short">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: ibexa_personalization.scenario.edit_short</note>
       </trans-unit>
       <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="836be051596f7132ce48db43b554e00455255fe9" resname="ibexa_personalization.scenario.trash.cancel">
         <source>No</source>
-        <target state="needs-translation">No</target>
+        <target state="translated">いいえ</target>
         <note>key: ibexa_personalization.scenario.trash.cancel</note>
       </trans-unit>
       <trans-unit id="c9b3d0815397004b0e39e31da4f14f8981963e62" resname="ibexa_personalization.scenario.trash.close">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="1be5d7e1d40f3ae00359dd6e06aa5124a37edfc8" resname="model.edit.relevant_history.btn.label">
         <source>Apply</source>
-        <target state="needs-translation">Apply</target>
+        <target state="translated">適用</target>
         <note>key: model.edit.relevant_history.btn.label</note>
       </trans-unit>
       <trans-unit id="0a1edadd261d980d2b77d4e9c5a316e5d0b71a76" resname="preview.recommendation_response_description">
