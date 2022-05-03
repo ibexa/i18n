@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="4eb81bfd61541fc302852a9551f10a21d095cc06" resname="image_editor.actions.focal_point.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: image_editor.actions.focal_point.remove</note>
       </trans-unit>
       <trans-unit id="da83bd9dc2bb70378a6d992e1ec5afb537d6c0f1" resname="image_editor.actions.focal_point.settings.title">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="36dcd9173d6cb34a3395ddccfcb707c548d52f36" resname="image_editor.save_as.sub_warning">
         <source>If you click 'Apply changes to all' you will modify this image which is used in other Content items.</source>
-        <target state="needs-translation">If you click 'Apply changes to all' you will modify this image which is used in other Content items.</target>
+        <target state="translated">「すべてに変更を適用」をクリックすると、他のコンテンツアイテムで使用されているこの画像が変更されます。</target>
         <note>key: image_editor.save_as.sub_warning</note>
       </trans-unit>
       <trans-unit id="953559e538accd59edc2e1bc4087dbdd15f4bdf4" resname="image_editor.save_as.warning">
