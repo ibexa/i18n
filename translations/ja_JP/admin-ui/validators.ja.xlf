@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="3923eef870a213df547b7792f8ae52af887fd165" resname="js.error.not_same_passwords">
         <source>Passwords do not match</source>
-        <target state="needs-translation">Passwords do not match</target>
+        <target state="translated">パスワードが一致しません</target>
         <note>key: js.error.not_same_passwords</note>
       </trans-unit>
       <trans-unit id="0d56229ac397e8c67aca29ec21ce771a67e04a9c" resname="js.error.out_of_range_value">
