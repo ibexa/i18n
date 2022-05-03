@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="a70aa15d1cda488f82acf9c626bca931a53d01a2" resname="error.preview">
         <source>Cannot save content draft.</source>
-        <target state="translated">下書きを保存できません。</target>
+        <target state="translated">コンテンツの下書きを保存できません。</target>
         <note>key: error.preview</note>
       </trans-unit>
       <trans-unit id="1aa787fe0cfb373575fc2c0f6f826e7c6dc9fd41" resname="preview">
