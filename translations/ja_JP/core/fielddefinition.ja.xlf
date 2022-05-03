@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="70d065216b588dd0cf8c624132941a29f1c1459f" resname="fielddefinition.allowed-content-types.label">
         <source>Allowed content types:</source>
-        <target state="needs-translation">Allowed content types:</target>
+        <target state="translated">許可されるコンテンツタイプ:</target>
         <note>key: fielddefinition.allowed-content-types.label</note>
         <jms:reference-file line="251">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
