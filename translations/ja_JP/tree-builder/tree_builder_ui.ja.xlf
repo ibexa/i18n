@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="86114ef28488e072f5328f84470b17ea4cd68e1d" resname="actions.copy">
         <source>Copy</source>
-        <target state="needs-translation">Copy</target>
+        <target state="translated">コピー</target>
         <note>key: actions.copy</note>
       </trans-unit>
       <trans-unit id="00fe7ffd5db35a8d23c9ec48e9c21f3ceff5ee45" resname="actions.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: actions.delete</note>
       </trans-unit>
       <trans-unit id="b23db0c5218f2b4a0835d677393004842532e537" resname="actions.move">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="57ddf7e57d58eb3f4a79c0893f869acfece3de09" resname="modal.delete.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: modal.delete.cancel</note>
       </trans-unit>
       <trans-unit id="c8846d7052d30b9787688b3474629c586bc61f09" resname="modal.delete.confirm">
