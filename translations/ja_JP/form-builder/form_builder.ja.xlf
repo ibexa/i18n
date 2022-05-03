@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: field.remove</note>
       </trans-unit>
       <trans-unit id="b2df64a559c6f9166c782a24eee835d78f4f402b" resname="field.settings">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="a928b07ca6312a18de68c5813e52d48f10e375fd" resname="form.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: form.edit</note>
       </trans-unit>
       <trans-unit id="99c07fbdbe0c40a68138652eb91532d9737ed7b2" resname="form.no_preview">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="8803c513c5b29257e5e622f1d74b7b32007ab42c" resname="form.remove">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: form.remove</note>
       </trans-unit>
       <trans-unit id="9d9a3840f5ab21538b5df82ff8dc176cc9d8a06e" resname="form_builder.attribute.action.message.label">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="a794978c8a73ee98bb2b7499d370b4c057dd6da8" resname="remove.item">
         <source>Remove item</source>
-        <target state="needs-translation">Remove item</target>
+        <target state="translated">アイテムを削除</target>
         <note>key: remove.item</note>
       </trans-unit>
       <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
