@@ -13,22 +13,22 @@
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">コンテンツを作成</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
         <source>Select a Content Type:</source>
-        <target state="needs-translation">Select a Content Type:</target>
+        <target state="translated">コンテンツタイプを選択:</target>
         <note>key: content.create.select_content_type</note>
       </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
         <source>Select a language:</source>
-        <target state="needs-translation">Select a language:</target>
+        <target state="translated">言語を選択:</target>
         <note>key: content.create.select_language</note>
       </trans-unit>
       <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language">
         <source>Select language</source>
-        <target state="needs-translation">Select language</target>
+        <target state="translated">言語を選択</target>
         <note>key: content.edit.select_language</note>
       </trans-unit>
       <trans-unit id="9f897e0a8684c5fcf61d4d121bd7122a12f99c32" resname="infobar.author.name">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="b8a74ee93a78609c69343a3667b60bac64dc1d04" resname="infobar.mode.preview_language">
         <source>Language</source>
-        <target state="needs-translation">Language</target>
+        <target state="translated">言語</target>
         <note>key: infobar.mode.preview_language</note>
       </trans-unit>
       <trans-unit id="8187f29c44b9b28df27456f5667aa9d0c26bb1cb" resname="infobar.mode.viewing">
@@ -78,17 +78,17 @@
       </trans-unit>
       <trans-unit id="ba23b906c7f7068de467f6b8c2c5f5f35e2b6a83" resname="versions.draft">
         <source>Draft</source>
-        <target state="needs-translation">Draft</target>
+        <target state="translated">下書き</target>
         <note>key: versions.draft</note>
       </trans-unit>
       <trans-unit id="fd0a77b133d6b13b9b52fd32a4c97d82d6090845" resname="versions.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: versions.edit</note>
       </trans-unit>
       <trans-unit id="4cee4ab324127a55bbad1f6f278243b5f4d6d5fe" resname="versions.modified.language">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">言語</target>
         <note>key: versions.modified.language</note>
       </trans-unit>
       <trans-unit id="c5da841c5cfb95ad344560906b3704a2761fc9e8" resname="versions.owner">
