@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="a31bc2d766bef988d3d4e2e0892c79b64d2aadd9" resname="anchor_btn.error.unique">
         <source>Anchor name must be unique.</source>
-        <target state="needs-translation">Anchor name must be unique.</target>
+        <target state="translated">アンカー名は一意でなければなりません。</target>
         <note>key: anchor_btn.error.unique</note>
       </trans-unit>
       <trans-unit id="88d893050d5eea476d9559abba8b7cdda519154a" resname="anchor_btn.error.valid">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="e51c80180acbd8d90c95344dbdfb0f6a3ada456e" resname="table_btn.label">
         <source>Table</source>
-        <target state="needs-translation">Table</target>
+        <target state="translated">表</target>
         <note>key: table_btn.label</note>
       </trans-unit>
       <trans-unit id="0c10a4feb5cd5308daca6d6528a12cc7be825def" resname="toolbar_config_base.formatted_label">
