@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="745e494cf948637a3eb9f3a3d43454da0f063fbc" resname="anchor_navigation.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">戻る</target>
         <note>key: anchor_navigation.back</note>
       </trans-unit>
       <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="2b3f00f63c14c6dc9300d54b42159218f6b5f260" resname="authentication.credentials_expired.reset_password">
         <source>Reset password</source>
-        <target state="needs-translation">Reset password</target>
+        <target state="translated">パスワードをリセット</target>
         <note>key: authentication.credentials_expired.reset_password</note>
       </trans-unit>
       <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password">
         <source>Forgot your password?</source>
-        <target state="needs-translation">Forgot your password?</target>
+        <target state="translated">パスワードをお忘れですか？</target>
         <note>key: authentication.forgot_password</note>
       </trans-unit>
       <trans-unit id="a56a6630cc335b8a63f8632263aef6625f731929" resname="authentication.login">
@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="7a3631c8f70b8b52f902530ad052c71609eb7177" resname="authentication.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">パスワードをリセットする</target>
         <note>key: authentication.reset_your_password</note>
       </trans-unit>
       <trans-unit id="f7771b5d011f529e37d3b4c94319f52e709256c3" resname="authentication.reset_your_password.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">戻る</target>
         <note>key: authentication.reset_your_password.back</note>
       </trans-unit>
       <trans-unit id="930de05604c9de549497278656b63f7721e65ce5" resname="authentication.reset_your_password.back_to_sign_in">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="0c103b4bcaaca67202176e8f5be544eb4c307e8e" resname="content.autosave.turn_off.message">
         <source>You can turn autosave off in your user settings</source>
-        <target state="needs-translation">You can turn autosave off in your user settings</target>
+        <target state="translated">ユーザー設定で自動保存を無効にすることができます</target>
         <note>key: content.autosave.turn_off.message</note>
       </trans-unit>
       <trans-unit id="21e7545fc420d95a59a713437d9dc28d85d82ceb" resname="content.details.content_id">
         <source>Content ID: %contentId%</source>
-        <target state="needs-translation">Content ID: %contentId%</target>
+        <target state="translated">コンテンツ ID: %contentId%</target>
         <note>key: content.details.content_id</note>
       </trans-unit>
       <trans-unit id="fbf8f503b8af11a779316ffa7e12085401212748" resname="content.details.created_by">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="b703ce905c39239f607ffa395acf83d2dd6046f0" resname="content.details.location_id">
         <source>Location ID: %locationId%</source>
-        <target state="needs-translation">Location ID: %locationId%</target>
+        <target state="translated">ロケーションID: %locationId%</target>
         <note>key: content.details.location_id</note>
       </trans-unit>
       <trans-unit id="fc543140fe88431b31013a20fbceef4ecf9e7430" resname="content.details.parent_location_id">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: content.hide.modal.cancel</note>
       </trans-unit>
       <trans-unit id="0d905b86763ff15a40c8c15f0960d6038bdfd008" resname="content.hide.modal.confirm">
@@ -173,42 +173,42 @@
       </trans-unit>
       <trans-unit id="6048a32d88dbcdd5a62e232ed092a8efd11ed375" resname="content_edit.autosave.status_error.message">
         <source>Saving error</source>
-        <target state="needs-translation">Saving error</target>
+        <target state="translated">保存エラー</target>
         <note>key: content_edit.autosave.status_error.message</note>
       </trans-unit>
       <trans-unit id="d364f97b275523fe571da0da612fdbc4a1064550" resname="content_edit.autosave.status_off.message">
         <source>Autosave is off</source>
-        <target state="needs-translation">Autosave is off</target>
+        <target state="translated">自動保存が無効</target>
         <note>key: content_edit.autosave.status_off.message</note>
       </trans-unit>
       <trans-unit id="93f0a5980aa14af989f4106ffda244ba02db1c32" resname="content_edit.autosave.status_on.message">
         <source>Autosave is on</source>
-        <target state="needs-translation">Autosave is on</target>
+        <target state="translated">自動保存が有効</target>
         <note>key: content_edit.autosave.status_on.message</note>
       </trans-unit>
       <trans-unit id="da43c85269df161b340e92296642e18ec6af033e" resname="content_edit.autosave.status_saving.message">
         <source>Saving</source>
-        <target state="needs-translation">Saving</target>
+        <target state="translated">保存中</target>
         <note>key: content_edit.autosave.status_saving.message</note>
       </trans-unit>
       <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
         <source>Do you want to delete the Content Type?</source>
-        <target state="needs-translation">Do you want to delete the Content Type?</target>
+        <target state="translated">このコンテンツタイプを削除しますか？</target>
         <note>key: content_type.modal.message</note>
       </trans-unit>
       <trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">追加</target>
         <note>key: content_type.view.edit.add</note>
       </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Field definitions</source>
-        <target state="needs-translation">Field definitions</target>
+        <target state="translated">フィールド定義</target>
         <note>key: content_type.view.edit.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="3e0b70d6f624782a5deaa55de446878855231ebb" resname="content_type.view.edit.content_field_types">
         <source>Field types</source>
-        <target state="needs-translation">Field types</target>
+        <target state="translated">フィールドタイプ</target>
         <note>key: content_type.view.edit.content_field_types</note>
       </trans-unit>
       <trans-unit id="cdc87bbe1a58b07964472f9d1285cbedf7e8cfa4" resname="content_type.view.edit.empty_group_content">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="10fcf7db63ceaf2a8ffb2b8e2b20e664d18701d5" resname="content_type.view.edit.empty_group_label">
         <source>Your section is empty</source>
-        <target state="needs-translation">Your section is empty</target>
+        <target state="translated">セクションが空です</target>
         <note>key: content_type.view.edit.empty_group_label</note>
       </trans-unit>
       <trans-unit id="199485ac12697819a72f2b71cd4222df19864419" resname="content_type.view.edit.empty_group_title">
@@ -238,17 +238,17 @@
       </trans-unit>
       <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
         <source>Do you want to delete the Content Type group?</source>
-        <target state="needs-translation">Do you want to delete the Content Type group?</target>
+        <target state="translated">このコンテンツタイプグループを削除しますか？</target>
         <note>key: content_type_group.modal.message</note>
       </trans-unit>
       <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: content_type_group.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="4bbd55638dc95b087b2c020f64f29ffed12b0688" resname="content_type_selector.list.show_more">
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="3e8769270428f8e66f5880d772f45e09d2c88aa0" resname="creating.title">
         <source>New Content type</source>
-        <target state="needs-translation">New Content type</target>
+        <target state="translated">新しいコンテンツタイプ</target>
         <note>key: creating.title</note>
       </trans-unit>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
@@ -293,12 +293,12 @@
       </trans-unit>
       <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">検索...</target>
         <note>key: dropdown.search</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: editing</note>
       </trans-unit>
       <trans-unit id="3103e1aed613987a16236d0f603f22ae48aa417b" resname="editing.title">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="2c7f89a37db43b829ff76f40565020c5bd4c2dae" resname="ezauthor.Email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">メールアドレス</target>
         <note>key: ezauthor.Email</note>
       </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: ezauthor.action.delete</note>
       </trans-unit>
       <trans-unit id="06a34ac23ac86f7c4368380203e3dd4d91489fa0" resname="ezauthor.name">
@@ -393,7 +393,7 @@
       </trans-unit>
       <trans-unit id="85874e8811087f9c2169915345cdf71d5243182e" resname="ezobjectrelationlist.delete_selected_relations">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: ezobjectrelationlist.delete_selected_relations</note>
       </trans-unit>
       <trans-unit id="8c3f0606ebb870dd8113cca42da7510414c5a0a8" resname="ezplatform.forgot_password.reset_your_password.reason.migration">
@@ -430,12 +430,12 @@
       </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">パスワードをリセットする</target>
         <note>key: ezplatform.forgot_user_password.reset_your_password</note>
       </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
         <source>Change password</source>
-        <target state="needs-translation">Change password</target>
+        <target state="translated">パスワードを変更</target>
         <note>key: ezplatform.reset_user_password.change_password</note>
       </trans-unit>
       <trans-unit id="8359e9b6409139537d0eaeeacaedbc4d0912a105" resname="ezplatform.reset_user_password.link_is_not_valid">
@@ -460,12 +460,12 @@
       </trans-unit>
       <trans-unit id="98ec0f718367b011625843a7ebdd12e8185c53ce" resname="footer.ibexa_dxp">
         <source>Ibexa DXP</source>
-        <target state="needs-translation">Ibexa DXP</target>
+        <target state="translated">Ibexa DXP</target>
         <note>key: footer.ibexa_dxp</note>
       </trans-unit>
       <trans-unit id="d62f840248f2507f4299133fe259bc4c091f31a8" resname="footer.ibexa_support">
         <source>Support</source>
-        <target state="needs-translation">Support</target>
+        <target state="translated">サポート</target>
         <note>key: footer.ibexa_support</note>
       </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
@@ -475,12 +475,12 @@
       </trans-unit>
       <trans-unit id="7100bfb6741e032fcfcc681f3eceef78650e4672" resname="header.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">検索...</target>
         <note>key: header.search</note>
       </trans-unit>
       <trans-unit id="1c83b9fb831b59adffc151e074e3940afb422d59" resname="ibexa.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">パスワードをリセットする</target>
         <note>key: ibexa.forgot_user_password.reset_your_password</note>
       </trans-unit>
       <trans-unit id="621bf74d73c79b7c57b8a0ce6f46e3069e237ba6" resname="ibexa.forgot_user_password.success">
@@ -495,22 +495,22 @@
       </trans-unit>
       <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: language.delete</note>
       </trans-unit>
       <trans-unit id="71ec7cf0f6cecec112438059bf15066f4ccb5ba1" resname="language.delete_language">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: language.delete_language</note>
       </trans-unit>
       <trans-unit id="2a52961302ce7dfa4a21c5e0bcc239f5a9a36cfe" resname="language.modal.message">
         <source>Do you want to delete the language(s)?</source>
-        <target state="needs-translation">Do you want to delete the language(s)?</target>
+        <target state="translated">この言語を削除しますか？</target>
         <note>key: language.modal.message</note>
       </trans-unit>
       <trans-unit id="fb1d64fdeabb5f2fe1671d4f3fb72ccca7722ed3" resname="list.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: list.action.edit</note>
       </trans-unit>
       <trans-unit id="1ada7c495c1592fd70ef48759574e764787bf969" resname="location_trash_form.confirm_label">
@@ -525,7 +525,7 @@
       </trans-unit>
       <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">閉じる</target>
         <note>key: modal.close</note>
       </trans-unit>
       <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete">
@@ -535,12 +535,12 @@
       </trans-unit>
       <trans-unit id="0b3e3c43abe2511b50431eb05045a7e5dbd7a36c" resname="my_account_settings.password.action.edit">
         <source>Change password</source>
-        <target state="needs-translation">Change password</target>
+        <target state="translated">パスワードを変更</target>
         <note>key: my_account_settings.password.action.edit</note>
       </trans-unit>
       <trans-unit id="2273b0c5061ff374bd0d5a75e9301721f7312b65" resname="my_account_settings.password.title">
         <source>Password</source>
-        <target state="needs-translation">Password</target>
+        <target state="translated">パスワード</target>
         <note>key: my_account_settings.password.title</note>
       </trans-unit>
       <trans-unit id="5b03625b8de51d296ad7f4bc980e631c964185d8" resname="notification.no_longer_available">
@@ -555,7 +555,7 @@
       </trans-unit>
       <trans-unit id="0480844e257807b48dbf75fa7a374ceb7649ec5c" resname="object_state.delete.bulk_delete.submit">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: object_state.delete.bulk_delete.submit</note>
       </trans-unit>
       <trans-unit id="2331731a1072a77f20ceef81614545768fc1d446" resname="object_state.modal.message">
@@ -570,7 +570,7 @@
       </trans-unit>
       <trans-unit id="0f857d4dff9c8232ede300a39010d289d31c2937" resname="object_state_group.delete.bulk_delete.submit">
         <source>Delete Object</source>
-        <target state="needs-translation">Delete Object</target>
+        <target state="translated">オブジェクトを削除</target>
         <note>key: object_state_group.delete.bulk_delete.submit</note>
       </trans-unit>
       <trans-unit id="5696f8cad271e56ef0e2661b314fa31b70a81bb3" resname="object_state_group.modal.message">
@@ -590,7 +590,7 @@
       </trans-unit>
       <trans-unit id="abf42b328e259dc5ec851e70dad234636d0134fe" resname="policy.view.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: policy.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="b8faa90fed74479d8cdb01dc2c0e1af8a79cf9b1" resname="role.modal.message">
@@ -600,7 +600,7 @@
       </trans-unit>
       <trans-unit id="e0b49df6c6b235f7eb4d03019d1f9505dd77a135" resname="role.view.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: role.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="a21a7a13956cadf2256095fbdd062f1b33dd05a8" resname="role_assignment.view.list.action.add">
@@ -630,17 +630,17 @@
       </trans-unit>
       <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: section.delete</note>
       </trans-unit>
       <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
         <source>Do you want to delete the Section(s)?</source>
-        <target state="needs-translation">Do you want to delete the Section(s)?</target>
+        <target state="translated">このセクションを削除しますか？</target>
         <note>key: section.modal.message</note>
       </trans-unit>
       <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
         <source>Swap Locations</source>
-        <target state="needs-translation">Swap Locations</target>
+        <target state="translated">ロケーションを入れ替え</target>
         <note>key: tab.locations.location_content_swap</note>
       </trans-unit>
       <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another">
@@ -655,7 +655,7 @@
       </trans-unit>
       <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
         <source>Edit draft</source>
-        <target state="needs-translation">Edit draft</target>
+        <target state="translated">下書きを編集</target>
         <note>key: tab.versions.table.action.draft.edit</note>
       </trans-unit>
       <trans-unit id="a602612589c6e902caaf8acf1fd51fcd215955f1" resname="tab.versions.table.author.not_found">
@@ -685,7 +685,7 @@
       </trans-unit>
       <trans-unit id="7c1fd46c63208f07c7483fe8c332b13a404f39fa" resname="tag_view_select.info">
         <source>Select location</source>
-        <target state="needs-translation">Select location</target>
+        <target state="translated">ロケーションを選択</target>
         <note>key: tag_view_select.info</note>
       </trans-unit>
       <trans-unit id="0b84a57c1ad7cdb9faf22abbc3e03a0d2285b699" resname="tag_view_select.select">
@@ -695,17 +695,17 @@
       </trans-unit>
       <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
         <source>Off</source>
-        <target state="needs-translation">Off</target>
+        <target state="translated">オフ</target>
         <note>key: toggle_widget.label.off</note>
       </trans-unit>
       <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
         <source>On</source>
-        <target state="needs-translation">On</target>
+        <target state="translated">オン</target>
         <note>key: toggle_widget.label.on</note>
       </trans-unit>
       <trans-unit id="7ffaa1444a83e959f8de3c2410bb65acdd3e3ff0" resname="trash.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: trash.delete</note>
       </trans-unit>
       <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm">
@@ -730,7 +730,7 @@
       </trans-unit>
       <trans-unit id="7f37e5f732ee7101a696a881cf22045bcd11359c" resname="trash.modal.close">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">閉じる</target>
         <note>key: trash.modal.close</note>
       </trans-unit>
       <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
@@ -785,12 +785,12 @@
       </trans-unit>
       <trans-unit id="3f12e58e0ba64a84239826e8fec1ebe129595cc3" resname="url_wildcard.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: url_wildcard.list.action.delete</note>
       </trans-unit>
       <trans-unit id="d2253195c705f704065c20c1b3cfd5775d7b139f" resname="url_wildcard.list.action.delete_url_wildcards">
         <source>Delete URL wildcards</source>
-        <target state="needs-translation">Delete URL wildcards</target>
+        <target state="translated">URL ワイルドカードを削除</target>
         <note>key: url_wildcard.list.action.delete_url_wildcards</note>
       </trans-unit>
       <trans-unit id="b33b3b1380dda4782c33124620ac87c596acb020" resname="url_wildcard.modal.message">
