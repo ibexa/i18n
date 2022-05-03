@@ -218,12 +218,12 @@
       </trans-unit>
       <trans-unit id="77dfd2135f4db726c47299bb55be26f7f4525a46" resname="Cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: Cancel</note>
       </trans-unit>
       <trans-unit id="319aaae4dec46a75861fd10bcf8d182f4a77298d" resname="Cancellation">
         <source>Cancellation</source>
-        <target state="needs-translation">Cancellation</target>
+        <target state="translated">キャンセル</target>
         <note>key: Cancellation</note>
       </trans-unit>
       <trans-unit id="5df6eb23103361c79b45f2c3cb7bd307a9fb5fea" resname="Category|search">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="8c684290ce0b8a8e6cee79a145e17554064a4760" resname="Change password">
         <source>Change password</source>
-        <target state="needs-translation">Change password</target>
+        <target state="translated">パスワードを変更</target>
         <note>key: Change password</note>
       </trans-unit>
       <trans-unit id="b265c8e28d18e7db9c4334c6e0313d68be6168fe" resname="Change product selection">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="9a4c73cdd885b4ded1abd87179c44c5461c4916a" resname="Contact E-Mail">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">メールアドレス</target>
         <note>key: Contact E-Mail</note>
       </trans-unit>
       <trans-unit id="4115664f5d1b58bfa211013da6d77bf364b9e740" resname="Contact Fax">
@@ -568,7 +568,7 @@
       </trans-unit>
       <trans-unit id="f6fdbe48dc54dd86f63097a03bd24094dedd713a" resname="Delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: Delete</note>
       </trans-unit>
       <trans-unit id="5a7cedc7897ed405bb334baa453dc25024a569b2" resname="Delete quickorder">
@@ -628,7 +628,7 @@
       </trans-unit>
       <trans-unit id="5301648dcf6b53cefc9ed52999aaa92d4603cae0" resname="Edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: Edit</note>
       </trans-unit>
       <trans-unit id="31195ecdec76239bab0cbb8ece0b7721a20d70d5" resname="Edit buyer address">
@@ -648,12 +648,12 @@
       </trans-unit>
       <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">メールアドレス</target>
         <note>key: Email</note>
       </trans-unit>
       <trans-unit id="c94d3175a6560565410511df2cebab9cda96027e" resname="Email address">
         <source>Email address</source>
-        <target state="needs-translation">Email address</target>
+        <target state="translated">メールアドレス</target>
         <note>key: Email address</note>
       </trans-unit>
       <trans-unit id="307419414c00251c1a4fff21f1d23baebaacecb0" resname="Enter csv file input">
@@ -788,12 +788,12 @@
       </trans-unit>
       <trans-unit id="4c29f7f0335807c2524d8c36d531496aee23f473" resname="Forgot password?">
         <source>Forgot password?</source>
-        <target state="needs-translation">Forgot password?</target>
+        <target state="translated">パスワードをお忘れですか?</target>
         <note>key: Forgot password?</note>
       </trans-unit>
       <trans-unit id="a2f060b7363f54c9f80d62805d36636dd7ebc33c" resname="Forgot your password?">
         <source>Forgot your password?</source>
-        <target state="needs-translation">Forgot your password?</target>
+        <target state="translated">パスワードをお忘れですか？</target>
         <note>key: Forgot your password?</note>
       </trans-unit>
       <trans-unit id="9bb003116945043787f5046fffa0e6a522c4167d" resname="Function: %function%">
@@ -978,12 +978,12 @@
       </trans-unit>
       <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login">
         <source>Login</source>
-        <target state="needs-translation">Login</target>
+        <target state="translated">ログイン</target>
         <note>key: Login</note>
       </trans-unit>
       <trans-unit id="2e98310eea1179ef208c32219ee39697a872756f" resname="Login / Register">
         <source>Login / Register</source>
-        <target state="needs-translation">Login / Register</target>
+        <target state="translated">ログイン / 登録</target>
         <note>key: Login / Register</note>
       </trans-unit>
       <trans-unit id="e43d612e11f1568f2373e719d4c4b08dcecdc7cc" resname="Logout">
@@ -1148,12 +1148,12 @@
       </trans-unit>
       <trans-unit id="8be3c943b1609fffbfc51aad666d0a04adf83c9d" resname="Password">
         <source>Password</source>
-        <target state="needs-translation">Password</target>
+        <target state="translated">パスワード</target>
         <note>key: Password</note>
       </trans-unit>
       <trans-unit id="6640bb48d9541086a4de3d3c0fd0144f775a9695" resname="Password Change">
         <source>Password Change</source>
-        <target state="needs-translation">Password Change</target>
+        <target state="translated">パスワードの変更</target>
         <note>key: Password Change</note>
       </trans-unit>
       <trans-unit id="b41a92bed03261664717a6afdad4edf3d5d6ef6e" resname="Payment">
@@ -1328,7 +1328,7 @@
       </trans-unit>
       <trans-unit id="e963907dac5cd5c017869b4c96c18021c9bd058b" resname="Remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: Remove</note>
       </trans-unit>
       <trans-unit id="7793e0f29c04f80d5a52a1294d49ea858bcada53" resname="Remove product from basket">
@@ -1698,7 +1698,7 @@
       </trans-unit>
       <trans-unit id="691b9f875c7cdd86155787a1b22e7cf0af565f7d" resname="Username / Email">
         <source>Username / Email</source>
-        <target state="needs-translation">Username / Email</target>
+        <target state="translated">ユーザー名 / メールアドレス</target>
         <note>key: Username / Email</note>
       </trans-unit>
       <trans-unit id="5f54ad7bf78bfc644706e5476b2bd927ca5322a9" resname="VAT">
@@ -1853,12 +1853,12 @@
       </trans-unit>
       <trans-unit id="d9d220ab2925c9b97a98a9d9b35059f864dbe73a" resname="ZIP">
         <source>ZIP</source>
-        <target state="needs-translation">ZIP</target>
+        <target state="translated">郵便番号</target>
         <note>key: ZIP</note>
       </trans-unit>
       <trans-unit id="1ed01e7c71996c604337478270c81704193265d0" resname="ZIP code">
         <source>ZIP code</source>
-        <target state="needs-translation">ZIP code</target>
+        <target state="translated">郵便番号</target>
         <note>key: ZIP code</note>
       </trans-unit>
       <trans-unit id="0b5351ada9d86b9b68449a983095e3deee465050" resname="admin.translations_onesky_intro">
@@ -1958,7 +1958,7 @@
       </trans-unit>
       <trans-unit id="12a42294eda8e8c98d17b87a5ed187a1ccd2b864" resname="common.cancellation_header">
         <source>Cancellation Policy</source>
-        <target state="needs-translation">Cancellation Policy</target>
+        <target state="translated">キャンセルポリシー</target>
         <note>key: common.cancellation_header</note>
       </trans-unit>
       <trans-unit id="88ddcc083f7fcb5282fdd76ae8967db7b132a3bc" resname="common.download_pdf">
@@ -2043,12 +2043,12 @@
       </trans-unit>
       <trans-unit id="8d2895d6f4375c83314d92f0d5f56c583e31bca8" resname="common.silver_forms.my_account">
         <source>Update My Account</source>
-        <target state="needs-translation">Update My Account</target>
+        <target state="translated">アカウントを更新</target>
         <note>key: common.silver_forms.my_account</note>
       </trans-unit>
       <trans-unit id="8db5e0299f24bc70fc45164c1e946c02dcddd5a6" resname="common.silver_forms.password_change">
         <source>Password Change</source>
-        <target state="needs-translation">Password Change</target>
+        <target state="translated">パスワードの変更</target>
         <note>key: common.silver_forms.password_change</note>
       </trans-unit>
       <trans-unit id="54b50fd34694a7db25eb1f3720421da1ebc0fd6c" resname="common.silver_forms.private">
@@ -2443,12 +2443,12 @@
       </trans-unit>
       <trans-unit id="d9221e2ef86f0d3b7f192cb98b38c923e32a353c" resname="link.edit_user">
         <source>Edit user</source>
-        <target state="needs-translation">Edit user</target>
+        <target state="translated">ユーザーを編集</target>
         <note>key: link.edit_user</note>
       </trans-unit>
       <trans-unit id="9417c58415a125e3c995649e611ec0a46c8eef82" resname="login|breadcrumb">
         <source>Login</source>
-        <target state="needs-translation">Login</target>
+        <target state="translated">ログイン</target>
         <note>key: login|breadcrumb</note>
       </trans-unit>
       <trans-unit id="56c8ef357798e6cbae6f9f94ff26cb4967a4a28e" resname="logout|breadcrumb">
@@ -2748,7 +2748,7 @@
       </trans-unit>
       <trans-unit id="220e2047061f2c3f64304253476d89f791d6a08b" resname="profile.data.address.zip.code">
         <source>ZIP code</source>
-        <target state="needs-translation">ZIP code</target>
+        <target state="translated">郵便番号</target>
         <note>key: profile.data.address.zip.code</note>
       </trans-unit>
       <trans-unit id="63f8d285fcb7adee4bf53870667b4121acfe8aee" resname="profile.data.button.trash">
@@ -2813,7 +2813,7 @@
       </trans-unit>
       <trans-unit id="9279df85b1c0eafb49689998ec243f66f8d241b9" resname="silversolutions_password_change|breadcrumb">
         <source>Change password</source>
-        <target state="needs-translation">Change password</target>
+        <target state="translated">パスワードを変更</target>
         <note>key: silversolutions_password_change|breadcrumb</note>
       </trans-unit>
       <trans-unit id="57974f7e8d28b4ec5884e6b4a5070c59ecadbe6f" resname="silversolutions_password_reminder|breadcrumb">
