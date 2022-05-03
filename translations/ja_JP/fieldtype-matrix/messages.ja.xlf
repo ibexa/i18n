@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="ba5b5f28d4530d7374b45639acfe2b7ed6277497" resname="field.column.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: field.column.delete</note>
       </trans-unit>
     </body>
