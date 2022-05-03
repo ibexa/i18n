@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="e6d711b654cc77e353dd44ec2ac0403cc6363379" resname="create_form__sidebar_right__cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: create_form__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="a4bbf87eeab7a1d31fdf3f517b5240ba1d8dd573" resname="create_form__sidebar_right__create">
@@ -58,22 +58,22 @@
       </trans-unit>
       <trans-unit id="839462b9790f2fe459657f31503b235cf1f6795b" resname="product_view__context_menu__delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: product_view__context_menu__delete</note>
       </trans-unit>
       <trans-unit id="a989cc770922763914d6ecc90c4ac470d8aa101b" resname="product_view__context_menu__edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: product_view__context_menu__edit</note>
       </trans-unit>
       <trans-unit id="b450183446de8118e16cebbd17b065bf55767c35" resname="update_form__sidebar_right__cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: update_form__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="e64b83da92e68d70aa32dd8bf1dedaf154d39a7d" resname="update_form__sidebar_right__update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">更新</target>
         <note>key: update_form__sidebar_right__update</note>
       </trans-unit>
     </body>
