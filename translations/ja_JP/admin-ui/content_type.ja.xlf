@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
         <source>Create a Content Type</source>
-        <target state="translated">コンテンツタイプの作成</target>
+        <target state="translated">コンテンツタイプを作成</target>
         <note>key: content_type.create</note>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
