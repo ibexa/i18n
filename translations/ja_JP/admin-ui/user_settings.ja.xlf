@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="9f3b1a45a0ce10a940f96bdba73bba914cc78bb6" resname="list.title">
         <source>User Settings</source>
-        <target state="needs-translation">User Settings</target>
+        <target state="translated">ユーザー設定</target>
         <note>key: list.title</note>
       </trans-unit>
       <trans-unit id="ecbb0cf3b32660e173d0b1e4af6a5c8470045128" resname="section.my_account_settings">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="6e582329e8e54377b58d547389fda8ac2dd2cf5c" resname="settings.autosave.value.title">
         <source>Autosave draft</source>
-        <target state="needs-translation">Autosave draft</target>
+        <target state="translated">下書きを自動保存</target>
         <note>key: settings.autosave.value.title</note>
       </trans-unit>
       <trans-unit id="16b6d2224d9bf8a8ce12e0540d3528adc39315a0" resname="settings.autosave_interval.value.description">
