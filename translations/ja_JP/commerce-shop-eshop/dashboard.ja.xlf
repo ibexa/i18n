@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="093f458f6576d84b13b6d7c2aa93cff05cc96619" resname="label.copy_clipboard">
         <source>Copy to clipboard</source>
-        <target state="needs-translation">Copy to clipboard</target>
+        <target state="translated">クリップボードにコピー</target>
         <note>key: label.copy_clipboard</note>
       </trans-unit>
       <trans-unit id="ceebd9518420d997259cd49a213f6f647e3bebf3" resname="label.export_csv">
