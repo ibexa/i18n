@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="a644965219fc4d129dd4a5ef1cdb6eb073003702" resname="trash.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: trash.content_type</note>
       </trans-unit>
       <trans-unit id="937a500a6ede32aeaf33dcc2bfc7233578c8e48c" resname="trash.creator">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="02b7fe2ffdf670f9d5e2dadd3cd1be5109a22b49" resname="trash.item.deleted_user">
         <source>Deleted user</source>
-        <target state="needs-translation">Deleted user</target>
+        <target state="translated">削除されたユーザー</target>
         <note>key: trash.item.deleted_user</note>
       </trans-unit>
       <trans-unit id="34525fc5da381111c2104d20a55021eb8b698c7c" resname="trash.name">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="8b64a1510f907791766cbccffcff7898bda76bde" resname="trash.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">セクション</target>
         <note>key: trash.section</note>
       </trans-unit>
       <trans-unit id="06b530d8c8b3d7af7b3f2df9f5102927e7275de4" resname="trash.table.header">
