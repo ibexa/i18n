@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="9a04c1252a90155788d459f44b624d895993a151" resname="block.no_availability.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: block.no_availability.delete</note>
       </trans-unit>
       <trans-unit id="0158828df9fbd639bd687854ed04a7df932fb90d" resname="block.no_availability.title">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="abad744958b567e0ff5f5d26144e3701b8a0f823" resname="layout_selector.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: layout_selector.cancel.label</note>
       </trans-unit>
       <trans-unit id="d261894808d96929e7ff95449a433021cb9476ec" resname="layout_selector.create.confirm.label">
         <source>Create draft</source>
-        <target state="needs-translation">Create draft</target>
+        <target state="translated">下書きを作成</target>
         <note>key: layout_selector.create.confirm.label</note>
       </trans-unit>
       <trans-unit id="cacca78c6c00e60e652f42e41b6c404d76548a59" resname="layout_selector.create.title">
