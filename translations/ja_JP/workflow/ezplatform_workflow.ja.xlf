@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
         <source>Edit draft</source>
-        <target state="needs-translation">Edit draft</target>
+        <target state="translated">下書きを編集</target>
         <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">言語</target>
         <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="c712d6d1fad65a495b837720601dd7b2f6732d8a" resname="matcher.content_type">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: matcher.content_type</note>
       </trans-unit>
       <trans-unit id="d397c8abb0ffe2c4dda1ff9faea015d9c99f9f8d" resname="matcher.none">
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: workflow.view.content_list.table.content_type</note>
       </trans-unit>
       <trans-unit id="0ce5b99c4ebf3a06b4291b9cc7587a01c0c54a73" resname="workflow.view.content_list.table.empty">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">言語</target>
         <note>key: workflow.view.content_list.table.modified_language</note>
       </trans-unit>
       <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">
