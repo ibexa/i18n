@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="e148b89b813361c04859d8cb2297a078591f3b08" resname="preview.copy_btn.message">
         <source>Copied!</source>
-        <target state="needs-translation">Copied!</target>
+        <target state="translated">コピーされました</target>
         <note>key: preview.copy_btn.message</note>
       </trans-unit>
       <trans-unit id="625f527678ea5c31afdaf96e4d79d4fbff7da961" resname="preview.generated_url">
