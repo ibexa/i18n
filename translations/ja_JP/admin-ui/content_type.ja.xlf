@@ -63,12 +63,12 @@
       </trans-unit>
       <trans-unit id="944e509cd754c05d24aea116e6b307a350da42ea" resname="content_type.default_availability.available">
         <source>Available</source>
-        <target state="needs-translation">Available</target>
+        <target state="translated">利用可</target>
         <note>key: content_type.default_availability.available</note>
       </trans-unit>
       <trans-unit id="da6afb475bbd2efbe3929af770d0fc17e6e86132" resname="content_type.default_availability.not_available">
         <source>Not available</source>
-        <target state="needs-translation">Not available</target>
+        <target state="translated">利用不可</target>
         <note>key: content_type.default_availability.not_available</note>
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="36fb0205d165f72c996205435b5a06ba42695bb6" resname="content_type.view.edit.notranslatable_fields_disabled">
         <source>Some of the Fields are disabled when translating a Content Type. To modify them, edit the Content Type in the main language.</source>
-        <target state="needs-translation">Some of the Fields are disabled when translating a Content Type. To modify them, edit the Content Type in the main language.</target>
+        <target state="translated">一部のフィールドは、コンテンツタイプの翻訳時に無効になっています。それらを変更するには、メイン言語でコンテンツタイプを編集します。</target>
         <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
@@ -493,12 +493,12 @@
       </trans-unit>
       <trans-unit id="3ef6598f8cd7d60095784845bb24852ac531e47c" resname="field_definition.ezcountry.default_value">
         <source>Default country</source>
-        <target state="translated">デフォルトの国</target>
+        <target state="translated">初期値</target>
         <note>key: field_definition.ezcountry.default_value</note>
       </trans-unit>
       <trans-unit id="027f35cf66e5ea571cc7b600dad0ab5ceea20cd6" resname="field_definition.ezcountry.is_multiple">
         <source>Multiple choice</source>
-        <target state="needs-translation">Multiple choice</target>
+        <target state="translated">複数選択</target>
         <note>key: field_definition.ezcountry.is_multiple</note>
       </trans-unit>
       <trans-unit id="18a5846deb7a3d7dcc9fbd0a2de28d609c2a55c2" resname="field_definition.ezdate.default_type">
