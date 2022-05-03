@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="785ea96b442ac54b8a25423b3edd36dcc574a8a4" resname="version_info.status.draft">
         <source>Draft</source>
-        <target state="needs-translation">Draft</target>
+        <target state="translated">下書き</target>
         <note>key: version_info.status.draft</note>
       </trans-unit>
       <trans-unit id="8d33e24a1a15c90ea3eac14dd7888a14eec26f87" resname="version_info.status.published">
