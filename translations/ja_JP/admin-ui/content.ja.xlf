@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="1ea2690f8ebd8fc99115a6f94ac56b8b93e46afe" resname="content.draft.conflict.error">
         <source>Cannot check if the draft has conflicts with other drafts. %error%.</source>
-        <target state="needs-translation">Cannot check if the draft has conflicts with other drafts. %error%.</target>
+        <target state="translated">この下書きが他と競合しているかどうかを確認できません。 %error%</target>
         <note>key: content.draft.conflict.error</note>
       </trans-unit>
       <trans-unit id="7b7f768e446eae09c01c831807e246e293f65349" resname="content.edit.permission.error">
