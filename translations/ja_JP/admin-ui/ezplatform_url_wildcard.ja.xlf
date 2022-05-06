@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="8fe44f043fa71a16c618cde88dd0e1098e5479bb" resname="url_wildcard.disabled">
         <source>URL wildcards are disabled. Contact your Administrator.</source>
-        <target state="needs-translation">URL wildcards are disabled. Contact your Administrator.</target>
+        <target state="translated">URL ワイルドカードは無効になっています。管理者に連絡してください。</target>
         <note>key: url_wildcard.disabled</note>
       </trans-unit>
       <trans-unit id="96a90dc2272bef795abed845ba2a8b4c24615371" resname="url_wildcard.editing">
         <source>Editing URL wildcard: %url%</source>
-        <target state="needs-translation">Editing URL wildcard: %url%</target>
+        <target state="translated">URL ワイルドカードの編集: %url%</target>
         <note>key: url_wildcard.editing</note>
       </trans-unit>
       <trans-unit id="88cbad5f7fda2954c1ee100f5ba1e15f761cbbde" resname="url_wildcard.empty">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="921c295cb79d59f1703cfdfae6f1fcdb581451cf" resname="url_wildcard.label.alias">
         <source>URL alias wildcard</source>
-        <target state="needs-translation">URL alias wildcard</target>
+        <target state="translated">URL エイリアスワイルドカード</target>
         <note>key: url_wildcard.label.alias</note>
       </trans-unit>
       <trans-unit id="906de07fde9ac052d30b57ea68d7c3ffa70375aa" resname="url_wildcard.label.destination">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="697d3a96a811b4d511ecd8366e0da5a3b9b0ca73" resname="url_wildcard.modal.create.title">
         <source>Create a new URL wildcard</source>
-        <target state="needs-translation">Create a new URL wildcard</target>
+        <target state="translated">新しい URL ワイルドカードを作成</target>
         <note>key: url_wildcard.modal.create.title</note>
       </trans-unit>
       <trans-unit id="18581091634e767b0fda027d72e003df647a6a95" resname="url_wildcard.modal.create.url.destintion">
