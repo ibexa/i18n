@@ -118,17 +118,17 @@
       </trans-unit>
       <trans-unit id="3a8fe14b551e382f3f1f20f7aed2e5de9804f619" resname="bulk_hide.error.modal.table_title">
         <source>%itemsCount% Content item(s) cannot be hidden</source>
-        <target state="needs-translation">%itemsCount% Content item(s) cannot be hidden</target>
+        <target state="translated">%itemsCount%件のコンテンツアイテムを非表示にすることができません</target>
         <note>key: bulk_hide.error.modal.table_title</note>
       </trans-unit>
       <trans-unit id="540d45bd030bab3e5bec8b9c1433ff4d9998c73e" resname="bulk_hide.popup.confirm">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">非表示</target>
         <note>key: bulk_hide.popup.confirm</note>
       </trans-unit>
       <trans-unit id="d2ab57f08d00c6f0d714b26aa81a44c8a1867903" resname="bulk_hide.popup.message">
         <source>Are you sure you want to hide the selected Location(s)?</source>
-        <target state="needs-translation">Are you sure you want to hide the selected Location(s)?</target>
+        <target state="translated">選択したロケーションを非表示にしてもよろしいですか？</target>
         <note>key: bulk_hide.popup.message</note>
       </trans-unit>
       <trans-unit id="9157594a9c2f44581165ee5e73c89bc5985a7fc9" resname="bulk_hide.success.message">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="16c240de3cfc07b8e56d008357706abefad3e3ae" resname="bulk_unhide.popup.confirm">
         <source>Reveal</source>
-        <target state="needs-translation">Reveal</target>
+        <target state="translated">表示</target>
         <note>key: bulk_unhide.popup.confirm</note>
       </trans-unit>
       <trans-unit id="99b9c21ff0ed8b33521c0b8c07410f1f10e5f879" resname="bulk_unhide.popup.message">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="0f2106150fc552b94658eee2125a4c4680f3564c" resname="hide_locations_btn.label">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">非表示</target>
         <note>key: hide_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="2f2de7291ed87063841f5d65e5d73c1c50eaa3be" resname="instant.filter.placeholder">
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="8518fc267b3ab3f637351ddbd8ad08e1312d822c" resname="unhide_locations_btn.label">
         <source>Reveal</source>
-        <target state="needs-translation">Reveal</target>
+        <target state="translated">表示</target>
         <note>key: unhide_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="5ae5a511a5c344781ad0caa53efe7b33429c6132" resname="viewing_message">
