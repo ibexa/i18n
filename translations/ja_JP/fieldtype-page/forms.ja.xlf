@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="5f165ef2e938f6710b56e2e8ee416414e430b77c" resname="role.policy.setting">
         <source>Setting</source>
-        <target state="needs-translation">Setting</target>
+        <target state="translated">設定</target>
         <note>key: role.policy.setting</note>
       </trans-unit>
       <trans-unit id="8775d52b987252ee1ad0867fe4f9e23dec668b5b" resname="role.policy.setting.all_functions">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="686f427740ca0cf4df247266b8a1300d747cf3a4" resname="role.policy.setting.create">
         <source>Setting / Create</source>
-        <target state="needs-translation">Setting / Create</target>
+        <target state="translated">設定 / 作成</target>
         <note>key: role.policy.setting.create</note>
       </trans-unit>
       <trans-unit id="d41141e8fa3c214bc546a6925304c15ee9a28022" resname="role.policy.setting.remove">
