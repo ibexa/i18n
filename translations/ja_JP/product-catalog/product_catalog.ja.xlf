@@ -668,7 +668,7 @@
       </trans-unit>
       <trans-unit id="80ccab9939865f6d2610a24817aab5dc1075db36" resname="product.creating">
         <source>Creating %product_type_name%</source>
-        <target state="needs-translation">Creating %product_type_name%</target>
+        <target state="translated">%product_type_name% の作成</target>
         <note>key: product.creating</note>
       </trans-unit>
       <trans-unit id="d6e2b764c5b3b95dfa533e97d2a0d75f05f1903c" resname="product.currency.create.success">
@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="4ee4af717f710065d8ca05798beb379be3c70a99" resname="product.edit.action_name">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: product.edit.action_name</note>
       </trans-unit>
       <trans-unit id="bb26bd02d68f785d6610a8bc790162a6e9725877" resname="product.list.column.available">
