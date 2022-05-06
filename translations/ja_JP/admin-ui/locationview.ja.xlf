@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="c5d8ba580b9dd86b38986590b338816e3193c857" resname="tab.translations.main_language">
         <source>Main language</source>
-        <target state="needs-translation">Main language</target>
+        <target state="translated">基本言語</target>
         <note>key: tab.translations.main_language</note>
       </trans-unit>
       <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
