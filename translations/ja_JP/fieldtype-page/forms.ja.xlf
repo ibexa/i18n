@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="1049e14eb7fec2dc053571f607e0eb044a06e455" resname="role.policy.content.hide">
         <source>Content / Hide</source>
-        <target state="needs-translation">Content / Hide</target>
+        <target state="translated">コンテンツ / 非表示</target>
         <note>key: role.policy.content.hide</note>
       </trans-unit>
       <trans-unit id="d05f0b35c91f7d444c466871ff02886d74dc8f55" resname="role.policy.content.manage_locations">
