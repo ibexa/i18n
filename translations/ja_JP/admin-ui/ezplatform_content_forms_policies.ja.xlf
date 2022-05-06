@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="57f04cb9d7b09f4314ca3855ee020325d3195ab3" resname="policy.limitation.identifier.fieldgroup">
         <source>FieldGroup</source>
-        <target state="needs-translation">FieldGroup</target>
+        <target state="translated">フィールドグループ</target>
         <note>key: policy.limitation.identifier.fieldgroup</note>
       </trans-unit>
       <trans-unit id="76adf2a27f1ae0ab14b623729cd3f281a6e2c285" resname="policy.limitation.identifier.group">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="2291e238752ad3c4d20ef08253f5d5736f6382d2" resname="policy.limitation.identifier.subtree">
         <source>Subtree</source>
-        <target state="needs-translation">Subtree</target>
+        <target state="translated">サブツリー</target>
         <note>key: policy.limitation.identifier.subtree</note>
       </trans-unit>
       <trans-unit id="ae8d9836b92dd7d303929104953d877fa9c14fed" resname="policy.limitation.identifier.versionlock">
