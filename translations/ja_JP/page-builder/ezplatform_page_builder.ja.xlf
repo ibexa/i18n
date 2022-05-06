@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
         <source>Creating %content_type_name%</source>
-        <target state="needs-translation">Creating %content_type_name%</target>
+        <target state="translated">%content_type_name% の作成</target>
         <note>key: creating</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing %content_type_name%</source>
-        <target state="needs-translation">Editing %content_type_name%</target>
+        <target state="translated">%content_type_name% の編集</target>
         <note>key: editing</note>
       </trans-unit>
       <trans-unit id="bae55c4f6b57464225cfd31dbd0394aee5325786" resname="fields_editing_details">
