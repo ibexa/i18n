@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
         <source>Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</source>
-        <target state="needs-translation">Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</target>
+        <target state="translated">現在のパスワードは%days%日後に期限切れになります。ユーザー設定&gt;アカウント設定からパスワードを変更できます。</target>
         <note>key: authentication.credentials_expire_in.warning</note>
       </trans-unit>
       <trans-unit id="e524fb7941a99d5c26d355dbf015226241e807a7" resname="authentication.credentials_expire_today.warning">
         <source>Your current password will expire today. You can change it in User Settings/My Account Settings.</source>
-        <target state="needs-translation">Your current password will expire today. You can change it in User Settings/My Account Settings.</target>
+        <target state="translated">現在のパスワードは本日期限切れになります。ユーザー設定&gt;アカウント設定からパスワードを変更できます。</target>
         <note>key: authentication.credentials_expire_today.warning</note>
       </trans-unit>
       <trans-unit id="c9a7a0dd7518550634ea6873dcc815d4ec30c1e2" resname="authentication.credentials_expired">
@@ -770,7 +770,7 @@
       </trans-unit>
       <trans-unit id="49fd0694e9c8815a1231505dc9bec3c6e1406616" resname="ui.component.tab.tabs_toggler.hide">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">非表示</target>
         <note>key: ui.component.tab.tabs_toggler.hide</note>
       </trans-unit>
       <trans-unit id="0ed434897428bef25462fa8751260c74d7233091" resname="ui.component.tab.tabs_toggler.show">
@@ -800,7 +800,7 @@
       </trans-unit>
       <trans-unit id="cc411f80de934035a8572d79cb383398775f3cde" resname="user_menu.popup_menu.title">
         <source>Logged as %userName%</source>
-        <target state="needs-translation">Logged as %userName%</target>
+        <target state="translated">ログイン済み (%userName%)</target>
         <note>key: user_menu.popup_menu.title</note>
       </trans-unit>
     </body>
