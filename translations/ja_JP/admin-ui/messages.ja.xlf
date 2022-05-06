@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
         <source>Creating Content type</source>
-        <target state="needs-translation">Creating Content type</target>
+        <target state="translated">コンテンツタイプの作成</target>
         <note>key: creating</note>
       </trans-unit>
       <trans-unit id="3e8769270428f8e66f5880d772f45e09d2c88aa0" resname="creating.title">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="3103e1aed613987a16236d0f603f22ae48aa417b" resname="editing.title">
         <source>Editing Content type %identifier%</source>
-        <target state="needs-translation">Editing Content type %identifier%</target>
+        <target state="translated">コンテンツタイプ %identifier% の編集</target>
         <note>key: editing.title</note>
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
