@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="2e615a5fd6dfb27060236fbda119f04a58b5fcc0" resname="site.label.main_languages">
         <source>Main languages</source>
-        <target state="needs-translation">Main languages</target>
+        <target state="translated">基本言語</target>
         <note>key: site.label.main_languages</note>
       </trans-unit>
       <trans-unit id="28f4324b209c4a68dd684a336b5efc5e38119262" resname="site.label.name">
