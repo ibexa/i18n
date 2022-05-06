@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="1ac24fa007363b4280663fba53f7a3b436ed4c8f" resname="policy.view.add.title">
         <source>Adding a new Policy</source>
-        <target state="needs-translation">Adding a new Policy</target>
+        <target state="translated">新しいポリシーの追加</target>
         <note>key: policy.view.add.title</note>
       </trans-unit>
       <trans-unit id="aefaf3a17b8493e63c82678611eb6eacbcc45d19" resname="policy.view.edit.title">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="43008c999ece1587436507732b3c1166c393f05c" resname="role.breadcrumb.add">
         <source>Creating a new Role</source>
-        <target state="needs-translation">Creating a new Role</target>
+        <target state="translated">新しいロールの作成</target>
         <note>key: role.breadcrumb.add</note>
       </trans-unit>
       <trans-unit id="03e72944d22126b885a65f885ebf8f1b8e2f8579" resname="role.breadcrumb.list">
@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="5a488931e506d7caf51b870aabd070c2df885afc" resname="role.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">作成中</target>
         <note>key: role.creating</note>
       </trans-unit>
       <trans-unit id="20c6318c88508393b9cb8413a6d7e61649f80ab3" resname="role.delete.success">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="d3938c40d50b4d6e972248900f2d43cda1fe02a3" resname="role.view.edit.title">
         <source>Editing Role '%identifier%'</source>
-        <target state="needs-translation">Editing Role '%identifier%'</target>
+        <target state="translated">ロール '%identifier% ' の編集</target>
         <note>key: role.view.edit.title</note>
       </trans-unit>
       <trans-unit id="88d7426f344cc9d85b90903dad013d5806b82faa" resname="role.view.list.action.add">
