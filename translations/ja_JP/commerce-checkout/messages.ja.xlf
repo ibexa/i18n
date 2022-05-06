@@ -178,12 +178,12 @@
       </trans-unit>
       <trans-unit id="0e55fb3b04e225d83af1a64ec1cedc121fb61c32" resname="Payment method">
         <source>Payment method</source>
-        <target state="needs-translation">Payment method</target>
+        <target state="translated">支払方法</target>
         <note>key: Payment method</note>
       </trans-unit>
       <trans-unit id="8961d3bf56ef1c18ef5c831ba0838e8b1f85e5de" resname="Phone number">
         <source>Phone number</source>
-        <target state="needs-translation">Phone number</target>
+        <target state="translated">電話番号</target>
         <note>key: Phone number</note>
       </trans-unit>
       <trans-unit id="c3cb27ea83980effb04b04bed4eff2585b48468b" resname="Please choose a variant">
@@ -798,7 +798,7 @@
       </trans-unit>
       <trans-unit id="c8e2b9b26e37cfda958e280278c76d0fae73b655" resname="checkout.summary.add_a_comment">
         <source>Add a comment</source>
-        <target state="needs-translation">Add a comment</target>
+        <target state="translated">コメントを追加</target>
         <note>key: checkout.summary.add_a_comment</note>
       </trans-unit>
       <trans-unit id="3e890021ae43c5bc7bcc31b9e7f55ca808cdc118" resname="checkout.summary.header">
