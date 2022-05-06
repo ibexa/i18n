@@ -1948,7 +1948,7 @@
       </trans-unit>
       <trans-unit id="77d50e6fd072bffae00aa1c7ae530489c2002697" resname="scenario.action_name.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">作成中</target>
         <note>key: scenario.action_name.creating</note>
       </trans-unit>
       <trans-unit id="0b3b381fddf5d4385b1b19455d33120f6553fd7b" resname="scenario.action_name.editing">
