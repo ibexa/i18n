@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="38022a4ef42d878eb38c71537fdc4c72b5fbb989" resname="ezgmaplocation.location_properties">
         <source>Location properties</source>
-        <target state="needs-translation">Location properties</target>
+        <target state="translated">ロケーションのプロパティ</target>
         <note>key: ezgmaplocation.location_properties</note>
       </trans-unit>
       <trans-unit id="ba4a253dc02df12654dabc50ef81b428ee888bcf" resname="ezgmaplocation.longitude">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="504719a5dc2e1c7d5c59a159e3d96e767d6b8ae2" resname="ezimage.alternative_text">
         <source>Alternative text</source>
-        <target state="needs-translation">Alternative text</target>
+        <target state="translated">代替テキスト</target>
         <note>key: ezimage.alternative_text</note>
       </trans-unit>
       <trans-unit id="80978f6269fb07d09667395cd32f6ebd6281ff25" resname="ezimage.file_name">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="d21adcec4365478ce3f618a65ae4ddfdbb94e457" resname="ezimage.image_file_properties">
         <source>Image file properties</source>
-        <target state="needs-translation">Image file properties</target>
+        <target state="translated">画像ファイルのプロパティ</target>
         <note>key: ezimage.image_file_properties</note>
       </trans-unit>
       <trans-unit id="504042c3fda41a357db1614358fd3c8dc94e301f" resname="ezimage.master_dimensions">
@@ -63,32 +63,32 @@
       </trans-unit>
       <trans-unit id="55cfda30a4255cffac54e4c644dc6033720c28f6" resname="ezimage.ratio">
         <source>Ratio</source>
-        <target state="needs-translation">Ratio</target>
+        <target state="translated">比率</target>
         <note>key: ezimage.ratio</note>
       </trans-unit>
       <trans-unit id="ac1f7c0bca124e29b9e6b09eaa0bb58334c62327" resname="ezimage.size">
         <source>Size</source>
-        <target state="needs-translation">Size</target>
+        <target state="translated">サイズ</target>
         <note>key: ezimage.size</note>
       </trans-unit>
       <trans-unit id="d34002f3e81ae0592b02f40872388e0adea41279" resname="ezimage.width_and_height">
         <source>Width: %width%px height: %height%px</source>
-        <target state="needs-translation">Width: %width%px height: %height%px</target>
+        <target state="translated">幅: %width%px 高さ: %height%px</target>
         <note>key: ezimage.width_and_height</note>
       </trans-unit>
       <trans-unit id="85038ddf9e38bbf3da26c38adff609012d65a53a" resname="ezimageasset.alternative_text">
         <source>Alternative text</source>
-        <target state="needs-translation">Alternative text</target>
+        <target state="translated">代替テキスト</target>
         <note>key: ezimageasset.alternative_text</note>
       </trans-unit>
       <trans-unit id="6ccdfa3f93ea5a6c0c17a7a9f6fe8fac4d5b6926" resname="ezimageasset.file_name">
         <source>File name</source>
-        <target state="needs-translation">File name</target>
+        <target state="translated">ファイル名</target>
         <note>key: ezimageasset.file_name</note>
       </trans-unit>
       <trans-unit id="776e01f9a87ec54ddd743494a906d859643aca68" resname="ezimageasset.image_file_properties">
         <source>Image file properties</source>
-        <target state="needs-translation">Image file properties</target>
+        <target state="translated">画像ファイルのプロパティ</target>
         <note>key: ezimageasset.image_file_properties</note>
       </trans-unit>
       <trans-unit id="dd0de6b207b703b96d015f309ffa8d53d32f64bf" resname="ezimageasset.master_dimensions">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="9d8611731543740ff64e9e1a69f9c18812301879" resname="ezimageasset.ratio">
         <source>Ratio</source>
-        <target state="needs-translation">Ratio</target>
+        <target state="translated">比率</target>
         <note>key: ezimageasset.ratio</note>
       </trans-unit>
       <trans-unit id="b79e2f923b29d82c28e5eaff5475d2edee6d7826" resname="ezimageasset.size">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="06c54d9e5476af34defb52323b7b1ebacce6a38c" resname="ezimageasset.width_and_height">
         <source>Width: %width%px height: %height%px</source>
-        <target state="needs-translation">Width: %width%px height: %height%px</target>
+        <target state="translated">幅: %width%px 高さ: %height%px</target>
         <note>key: ezimageasset.width_and_height</note>
       </trans-unit>
       <trans-unit id="e371d4573dda857ef4a58cebd2420f87992b8864" resname="ezmedia.auto_play">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="84c1e46564bf281d22c3b554a0af412a8bbbdacc" resname="ezmedia.browser_does_not_support_html5_video">
         <source>Your browser does not support HTML5 video</source>
-        <target state="needs-translation">Your browser does not support HTML5 video</target>
+        <target state="translated">お使いのブラウザーは HTML5 動画をサポートしていません</target>
         <note>key: ezmedia.browser_does_not_support_html5_video</note>
       </trans-unit>
       <trans-unit id="8f298e16cc3766b185e4e45db13e4f84f03f5d89" resname="ezmedia.display_controls">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="207f2af6642a19b3e2ee254f82bd71ae2351d6f0" resname="ezmedia.video_file_properties">
         <source>Video file properties</source>
-        <target state="needs-translation">Video file properties</target>
+        <target state="translated">ビデオファイルのプロパティ</target>
         <note>key: ezmedia.video_file_properties</note>
       </trans-unit>
       <trans-unit id="2f9f973623d548ff2cac08afcd1de234bd2493c8" resname="ezmedia.yes">
@@ -228,12 +228,12 @@
       </trans-unit>
       <trans-unit id="dbfe48152c3022f68affdb8798eaa36f07dcb147" resname="ezuser.password_expires_in">
         <source><![CDATA[Current password <b>expires in %count% days</b>]]></source>
-        <target state="needs-translation"><![CDATA[Current password <b>expires in %count% days</b>]]></target>
+        <target state="translated"><![CDATA[現在のパスワードの <b>有効期限はあと%count%日</b> です。]]></target>
         <note>key: ezuser.password_expires_in</note>
       </trans-unit>
       <trans-unit id="7771c9e2b90e9636e8fbb858cf7e5204ada687e9" resname="ezuser.password_expires_today">
         <source><![CDATA[Current password <b>expires today</b>]]></source>
-        <target state="needs-translation"><![CDATA[Current password <b>expires today</b>]]></target>
+        <target state="translated"><![CDATA[現在のパスワードの <b>有効期限は今日</b> です。]]></target>
         <note>key: ezuser.password_expires_today</note>
       </trans-unit>
       <trans-unit id="fc4b6b718b2cee2f8a91703c070fd69756d5c4cd" resname="ezuser.username">
