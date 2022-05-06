@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="36fb0205d165f72c996205435b5a06ba42695bb6" resname="content_type.view.edit.notranslatable_fields_disabled">
         <source>Some of the Fields are disabled when translating a Content Type. To modify them, edit the Content Type in the main language.</source>
-        <target state="translated">一部のフィールドは、コンテンツタイプの翻訳時に無効になっています。それらを変更するには、メイン言語でコンテンツタイプを編集します。</target>
+        <target state="translated">一部のフィールドは、コンテンツタイプの翻訳時に無効になっています。それらを変更するには、基本言語でコンテンツタイプを編集します。</target>
         <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
@@ -663,7 +663,7 @@
       </trans-unit>
       <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
         <source>Select where to start browsing for a Relation</source>
-        <target state="needs-translation">Select where to start browsing for a Relation</target>
+        <target state="translated">リレーションの参照を開始する場所を選択してください</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_title</note>
       </trans-unit>
       <trans-unit id="7e061dc7c88fe38c11714695d4034f935788efb3" resname="field_definition.ezobjectrelationlist.selection_content_types">
@@ -673,12 +673,12 @@
       </trans-unit>
       <trans-unit id="b08d97ea9175eef7352c7e9c5c8ee0516798bdfa" resname="field_definition.ezobjectrelationlist.selection_default_location">
         <source>Default Location</source>
-        <target state="needs-translation">Default Location</target>
+        <target state="translated">デフォルトロケーション</target>
         <note>key: field_definition.ezobjectrelationlist.selection_default_location</note>
       </trans-unit>
       <trans-unit id="14274feead6c1e1a98261c8df42d6e2e2210cb6f" resname="field_definition.ezobjectrelationlist.selection_limit">
         <source>Selection limit</source>
-        <target state="needs-translation">Selection limit</target>
+        <target state="translated">選択上限</target>
         <note>key: field_definition.ezobjectrelationlist.selection_limit</note>
       </trans-unit>
       <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
         <source>Select where to start browsing for Relations</source>
-        <target state="needs-translation">Select where to start browsing for Relations</target>
+        <target state="translated">リレーションの参照を開始する場所を選択してください</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_title</note>
       </trans-unit>
       <trans-unit id="14a95e986cd6b94301e0f44fd5ef2d5e7cdf90a4" resname="field_definition.ezselection.add_option">
@@ -698,7 +698,7 @@
       </trans-unit>
       <trans-unit id="e9e5a43d734719bf6ca42940c1cf5bc78b234e2b" resname="field_definition.ezselection.is_multiple">
         <source>Multiple choice</source>
-        <target state="needs-translation">Multiple choice</target>
+        <target state="translated">複数選択</target>
         <note>key: field_definition.ezselection.is_multiple</note>
       </trans-unit>
       <trans-unit id="ac85420bb89c319433f4d0e8e988b6fa8363e8b9" resname="field_definition.ezselection.options">
@@ -823,7 +823,7 @@
       </trans-unit>
       <trans-unit id="84eed8c69d2ed1727569c36cda88c9781d37dd92" resname="field_definition.is_thumbnail">
         <source>Can be a thumbnail</source>
-        <target state="needs-translation">Can be a thumbnail</target>
+        <target state="translated">サムネイルに設定可</target>
         <note>key: field_definition.is_thumbnail</note>
       </trans-unit>
       <trans-unit id="83aba8c0c4c654d481c4520feb76e789fbc64c22" resname="field_definition.is_translatable">
