@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="da514a07b30cee2d7ce54a546cb5ffb04c03d06b" resname="preview.settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">設定</target>
         <note>key: preview.settings</note>
       </trans-unit>
     </body>
