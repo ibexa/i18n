@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="12f7c467aa956e11af390f81d26d0f7f44c3649a" resname="new_site_title">
         <source>Creating New Site</source>
-        <target state="needs-translation">Creating New Site</target>
+        <target state="translated">新しいサイトの作成</target>
         <note>key: new_site_title</note>
       </trans-unit>
       <trans-unit id="6fa93ef4dfbce97076a254427bb30bf7c5819c5d" resname="search.perform">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="12e7cbd67a7e40e130bbce5c3a199fe521190084" resname="site.action.settings">
         <source>Site settings</source>
-        <target state="needs-translation">Site settings</target>
+        <target state="translated">サイト設定</target>
         <note>key: site.action.settings</note>
       </trans-unit>
       <trans-unit id="ae3390c07e2efcc430398fdd9ebf4035f95c5e11" resname="site.breadcrumb.list">
