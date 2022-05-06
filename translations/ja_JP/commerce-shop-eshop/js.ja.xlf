@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="1701cee53aabb8e3cfad99fc37532c798176d922" resname="js.cookie.btn_change">
         <source>Change Settings</source>
-        <target state="needs-translation">Change Settings</target>
+        <target state="translated">設定を変更</target>
         <note>key: js.cookie.btn_change</note>
       </trans-unit>
       <trans-unit id="d3834250d96a34401299138e4f8e4abc792f8a21" resname="js.cookie.btn_click">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="71d73e8f63ebaba8cd718303f80b30b1a1e180b7" resname="js.cookie.btn_save">
         <source>Save my cookie settings</source>
-        <target state="needs-translation">Save my cookie settings</target>
+        <target state="translated">Cookie の設定を保存</target>
         <note>key: js.cookie.btn_save</note>
       </trans-unit>
       <trans-unit id="9fa104c76942e4dc3664bdd3a09f268f3c6ca773" resname="js.cookie.change_settings">
         <source>Change your cookie settings</source>
-        <target state="needs-translation">Change your cookie settings</target>
+        <target state="translated">Cookie の設定を変更</target>
         <note>key: js.cookie.change_settings</note>
       </trans-unit>
       <trans-unit id="a4a4babce7071703f74b80b5c6d459a3737507c2" resname="js.cookie.cookie_notice">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="3fb0c551111ef7854e376e1cdd2ec25beff257e5" resname="js.cookie.cookies_removed">
         <source>Cookie settings has been removed from your computer</source>
-        <target state="needs-translation">Cookie settings has been removed from your computer</target>
+        <target state="translated">Cookie の設定がコンピュータから削除されました</target>
         <note>key: js.cookie.cookies_removed</note>
       </trans-unit>
       <trans-unit id="2ffc5d1e8fcb1d3fa60aefb7ee78322fc7e61b24" resname="js.cookie.current_settings">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="d8951aa363008a87cf2dbd6bf0ea26b7d80eea75" resname="js.cookie.link_clear">
         <source>Clear cookies settings</source>
-        <target state="needs-translation">Clear cookies settings</target>
+        <target state="translated">Cookie の設定を消去</target>
         <note>key: js.cookie.link_clear</note>
       </trans-unit>
       <trans-unit id="b3671a74c693c508644158fe2a0a52433ba98faa" resname="js.cookie.lvl_first_policy_allowed">
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="66042d3f43237d5a3f9332116fd230211d0c0cdc" resname="js.social.settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">設定</target>
         <note>key: js.social.settings</note>
       </trans-unit>
       <trans-unit id="8d201d0a89d02bef5cf2cfe4903178d465181106" resname="js.social.twitter_alt">
