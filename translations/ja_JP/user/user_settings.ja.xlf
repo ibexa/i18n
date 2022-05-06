@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="f69442f4afc8feed51643e408862c6a83f715560" resname="settings.group.browsing.description">
         <source>settings.group.browsing.description</source>
-        <target state="needs-translation">settings.group.browsing.description</target>
+        <target state="translated">settings.group.browsing.description</target>
         <note>key: settings.group.browsing.description</note>
         <jms:reference-file line="37">/../../.././vendor/ibexa/user/src/lib/UserSetting/Group/BrowsingGroup.php</jms:reference-file>
       </trans-unit>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="377f69d650dee0a54486fea8f8a89b82203b7755" resname="settings.group.generic.description">
         <source>settings.group.generic.description</source>
-        <target state="needs-translation">settings.group.generic.description</target>
+        <target state="translated">settings.group.generic.description</target>
         <note>key: settings.group.generic.description</note>
         <jms:reference-file line="37">/../../.././vendor/ibexa/user/src/lib/UserSetting/Group/CustomGroup.php</jms:reference-file>
       </trans-unit>
@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="7f90e23e086f56c5f7b4a82c6e4b8f40732e6e6a" resname="user_setting.update.success">
         <source>User setting '%identifier%' updated.</source>
-        <target state="needs-translation">User setting '%identifier%' updated.</target>
+        <target state="translated">ユーザー設定 '%identifier%' が更新されました。</target>
         <note>key: user_setting.update.success</note>
       </trans-unit>
     </body>
