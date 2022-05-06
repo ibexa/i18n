@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
         <source>Content Field definitions</source>
-        <target state="translated">コンテンツフィールドの定義</target>
+        <target state="translated">コンテンツのフィールド定義</target>
         <note>key: content_type.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
         <source>Content Field definitions</source>
-        <target state="translated">コンテンツフィールドの定義</target>
+        <target state="translated">コンテンツのフィールド定義</target>
         <note>key: content_type.field_definitions_data</note>
       </trans-unit>
       <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Field definitions</source>
-        <target state="translated">フィールドの定義</target>
+        <target state="translated">フィールド定義</target>
         <note>key: content_type.view.edit.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
