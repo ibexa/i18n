@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2a37dc0a3f4494d945e4e83be3986e5d3c64039f" resname="content__sidebar_right__schedule_hide">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">非表示</target>
         <note>key: content__sidebar_right__schedule_hide</note>
       </trans-unit>
     </body>

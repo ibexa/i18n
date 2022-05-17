@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2c3c910b20b0f0aaee90ce7f6c0b34dc20c10256" resname="&quot;{{ value }}&quot; is not a valid ZIP code.">
         <source>"{{ value }}" is not a valid ZIP code.</source>
-        <target state="needs-translation">"{{ value }}" is not a valid ZIP code.</target>
+        <target state="translated">"{{ value }}" は有効な郵便番号ではありません。</target>
         <note>key: "{{ value }}" is not a valid ZIP code.</note>
       </trans-unit>
       <trans-unit id="377e816eb528bc1eb370321034ea1e0eaa1500cb" resname="&quot;{{ value }}&quot; is not a valid phone or fax number.">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="ae7c5937e443b191818fa3ed2643de9ed51bba82" resname="Please enter a valid ZIP">
         <source>Please enter a valid ZIP</source>
-        <target state="needs-translation">Please enter a valid ZIP</target>
+        <target state="translated">正しい郵便番号を入力してください</target>
         <note>key: Please enter a valid ZIP</note>
       </trans-unit>
       <trans-unit id="47f5d4a681fc0a196a59ab2cb50cf8fd554695df" resname="Please enter an id">

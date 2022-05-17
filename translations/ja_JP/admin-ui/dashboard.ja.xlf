@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="b9b7f78038b71a27e7b4c2d2978a3946bb48c90b" resname="dashboard.create">
         <source>Create content</source>
-        <target state="translated">新規作成</target>
+        <target state="translated">コンテンツを作成</target>
         <note>key: dashboard.create</note>
       </trans-unit>
       <trans-unit id="8f2d000c044a9f04c457499e57f6fbbb8360e23f" resname="dashboard.tab.all_content.empty">
         <source>No content. Content items you create will show up here</source>
-        <target state="needs-translation">No content. Content items you create will show up here</target>
+        <target state="translated">コンテンツがありません。作成したコンテンツアイテムがここに表示されます。</target>
         <note>key: dashboard.tab.all_content.empty</note>
       </trans-unit>
       <trans-unit id="50e7fa5609748dabc694245d5a54a77e9d5c7c1f" resname="dashboard.tab.all_media.empty">
         <source>No content. Media you create will show up here</source>
-        <target state="needs-translation">No content. Media you create will show up here</target>
+        <target state="translated">コンテンツがありません。作成したメディアがここに表示されます。</target>
         <note>key: dashboard.tab.all_media.empty</note>
       </trans-unit>
       <trans-unit id="9c6f10545440752bc7bc2e8142cbea5d265403cd" resname="dashboard.tab.my_content.empty">
         <source>No content. Content items you create will show up here</source>
-        <target state="needs-translation">No content. Content items you create will show up here</target>
+        <target state="translated">コンテンツがありません。作成したコンテンツアイテムがここに表示されます。</target>
         <note>key: dashboard.tab.my_content.empty</note>
       </trans-unit>
       <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
         <source>No content. Drafts you create will show up here</source>
-        <target state="needs-translation">No content. Drafts you create will show up here</target>
+        <target state="translated">コンテンツがありません。作成した下書きがここに表示されます。</target>
         <note>key: dashboard.tab.my_drafts.empty</note>
       </trans-unit>
       <trans-unit id="9ef83b3497fae569ba56b6a8ab96004f359ae918" resname="dashboard.tab.my_media.empty">
         <source>No content. Media you create will show up here</source>
-        <target state="needs-translation">No content. Media you create will show up here</target>
+        <target state="translated">コンテンツがありません。作成したメディアがここに表示されます。</target>
         <note>key: dashboard.tab.my_media.empty</note>
       </trans-unit>
       <trans-unit id="749d4759e304735bcec6ef6ec10af43e70f1f289" resname="dashboard.table.all.content.edit">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="needs-translation">You do not have the '%function%' '%module%' permission for content ID: %contentId%</target>
+        <target state="translated">コンテンツ ID: %contentId% の '%function%' '%module%' 権限がありません</target>
         <note>key: dashboard.table.draft.unauthorized</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified Language</source>
-        <target state="needs-translation">Modified Language</target>
+        <target state="translated">言語</target>
         <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8" resname="me">
         <source>My content</source>
-        <target state="needs-translation">My content</target>
+        <target state="translated">自分のコンテンツ</target>
         <note>key: me</note>
       </trans-unit>
       <trans-unit id="013cb5f0c7391fd9db25ef277f72bd0d3b62a0e3" resname="my.dashboard">

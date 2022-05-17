@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="cbc1f44be5f6d1cff762774712d8ccbfd796f6ec" resname="field_types.variants.button.trash">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: field_types.variants.button.trash</note>
       </trans-unit>
       <trans-unit id="41718aba6bfdfdf48b47c9cb0f3d1ea324683121" resname="msg.invalid_csv_file">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="a75dc4c2145855dd0841a5da02bf3714e6605d4e" resname="shipping_management.delete_shippment.button">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: shipping_management.delete_shippment.button</note>
       </trans-unit>
     </body>

@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="4812984ddde61e4f4547c62a32801fd03a29e17b" resname="sku_slider.button.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: sku_slider.button.remove</note>
       </trans-unit>
       <trans-unit id="ae04647688b7a98e0ba52634e6b050c2efb35765" resname="sku_slider.button.search">

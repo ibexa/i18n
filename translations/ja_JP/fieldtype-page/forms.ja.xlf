@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="f52e45b25ff70b3d1d07c57911ceda58dcdf7431" resname="role.policy.class">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: role.policy.class</note>
       </trans-unit>
       <trans-unit id="2f746c35c587bdc84cacf38d0e63e08855e831ab" resname="role.policy.class.all_functions">
@@ -28,17 +28,17 @@
       </trans-unit>
       <trans-unit id="02049080d0f8dea3f723bbd1a280900b0657914e" resname="role.policy.class.create">
         <source>Content Type / Create</source>
-        <target state="needs-translation">Content Type / Create</target>
+        <target state="translated">コンテンツタイプ / 作成</target>
         <note>key: role.policy.class.create</note>
       </trans-unit>
       <trans-unit id="17ee6a3320ad9ac02c376bdcb875b266c28e34db" resname="role.policy.class.delete">
         <source>Content Type / Delete</source>
-        <target state="needs-translation">Content Type / Delete</target>
+        <target state="translated">コンテンツタイプ / 削除</target>
         <note>key: role.policy.class.delete</note>
       </trans-unit>
       <trans-unit id="f47b14b0adc8b08abd44c37e801d6b2c3180a2ee" resname="role.policy.class.update">
         <source>Content Type / Update</source>
-        <target state="needs-translation">Content Type / Update</target>
+        <target state="translated">コンテンツタイプ / 更新</target>
         <note>key: role.policy.class.update</note>
       </trans-unit>
       <trans-unit id="504ce9f80e074eeb880d5ae5f54d4811e2ab6862" resname="role.policy.comparison">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="597c25abf1e2d91e50b82d2699f8b85f68c9f305" resname="role.policy.content.create">
         <source>Content / Create</source>
-        <target state="needs-translation">Content / Create</target>
+        <target state="translated">コンテンツ / 作成</target>
         <note>key: role.policy.content.create</note>
       </trans-unit>
       <trans-unit id="019bae55ae37c03117c05eb25cc208e9b2396827" resname="role.policy.content.diff">
@@ -83,17 +83,17 @@
       </trans-unit>
       <trans-unit id="bdb3e6e10d770d20ffa7966acb58d3e9cf9805e2" resname="role.policy.content.edit">
         <source>Content / Edit</source>
-        <target state="needs-translation">Content / Edit</target>
+        <target state="translated">コンテンツ / 編集</target>
         <note>key: role.policy.content.edit</note>
       </trans-unit>
       <trans-unit id="1049e14eb7fec2dc053571f607e0eb044a06e455" resname="role.policy.content.hide">
         <source>Content / Hide</source>
-        <target state="needs-translation">Content / Hide</target>
+        <target state="translated">コンテンツ / 非表示</target>
         <note>key: role.policy.content.hide</note>
       </trans-unit>
       <trans-unit id="d05f0b35c91f7d444c466871ff02886d74dc8f55" resname="role.policy.content.manage_locations">
         <source>Content / Manage locations</source>
-        <target state="needs-translation">Content / Manage locations</target>
+        <target state="translated">コンテンツ / ロケーション管理</target>
         <note>key: role.policy.content.manage_locations</note>
       </trans-unit>
       <trans-unit id="0c943bab11cd582ac439e67289d4efd86d8599e7" resname="role.policy.content.pendinglist">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="967c7d2238b619a63fd0fe00bc0ccd4589e9de4f" resname="role.policy.content.remove">
         <source>Content / Remove</source>
-        <target state="needs-translation">Content / Remove</target>
+        <target state="translated">コンテンツ / 削除</target>
         <note>key: role.policy.content.remove</note>
       </trans-unit>
       <trans-unit id="4ce8821efab15ebdd683e28f0dcffaa352d1ef0f" resname="role.policy.content.restore">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="d17c0339a48c6e273c56673c31037427fd95ecee" resname="role.policy.role.delete">
         <source>Role / Delete</source>
-        <target state="needs-translation">Role / Delete</target>
+        <target state="translated">ロール / 削除</target>
         <note>key: role.policy.role.delete</note>
       </trans-unit>
       <trans-unit id="1e809cc5ab4e914e5dc51fa2dc0a6b62a90bc2f1" resname="role.policy.role.read">
@@ -208,12 +208,12 @@
       </trans-unit>
       <trans-unit id="2f8dccfd705bd25a633826ff76f595e118a71dcf" resname="role.policy.role.update">
         <source>Role / Update</source>
-        <target state="needs-translation">Role / Update</target>
+        <target state="translated">ロール / 更新</target>
         <note>key: role.policy.role.update</note>
       </trans-unit>
       <trans-unit id="7153cdd53211bedab219659c1d1656693d3bb4ae" resname="role.policy.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">セクション</target>
         <note>key: role.policy.section</note>
       </trans-unit>
       <trans-unit id="f5e387481bf702e73317dcbccff5d55fc111550e" resname="role.policy.section.all_functions">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="9ce67233e7377c7ac36c6ccbdf1a49a582aca59d" resname="role.policy.section.edit">
         <source>Section / Edit</source>
-        <target state="needs-translation">Section / Edit</target>
+        <target state="translated">セクション / 編集</target>
         <note>key: role.policy.section.edit</note>
       </trans-unit>
       <trans-unit id="c80fb60940421ce0b94226255211ec10dc9208b4" resname="role.policy.section.view">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="5f165ef2e938f6710b56e2e8ee416414e430b77c" resname="role.policy.setting">
         <source>Setting</source>
-        <target state="needs-translation">Setting</target>
+        <target state="translated">設定</target>
         <note>key: role.policy.setting</note>
       </trans-unit>
       <trans-unit id="8775d52b987252ee1ad0867fe4f9e23dec668b5b" resname="role.policy.setting.all_functions">
@@ -318,17 +318,17 @@
       </trans-unit>
       <trans-unit id="686f427740ca0cf4df247266b8a1300d747cf3a4" resname="role.policy.setting.create">
         <source>Setting / Create</source>
-        <target state="needs-translation">Setting / Create</target>
+        <target state="translated">設定 / 作成</target>
         <note>key: role.policy.setting.create</note>
       </trans-unit>
       <trans-unit id="d41141e8fa3c214bc546a6925304c15ee9a28022" resname="role.policy.setting.remove">
         <source>Setting / Remove</source>
-        <target state="needs-translation">Setting / Remove</target>
+        <target state="translated">設定 / 削除</target>
         <note>key: role.policy.setting.remove</note>
       </trans-unit>
       <trans-unit id="14fa9c5afba9d51072c6a66dede46535b718f77e" resname="role.policy.setting.update">
         <source>Setting / Update</source>
-        <target state="needs-translation">Setting / Update</target>
+        <target state="translated">設定 / 更新</target>
         <note>key: role.policy.setting.update</note>
       </trans-unit>
       <trans-unit id="33092ebd51699d4d3f598b8488e7bc5969038bff" resname="role.policy.setup">
@@ -578,12 +578,12 @@
       </trans-unit>
       <trans-unit id="45e0983429e1df736d0c26b5b9c62a8f522c5c00" resname="role.policy.site.delete">
         <source>Site / Delete</source>
-        <target state="needs-translation">Site / Delete</target>
+        <target state="translated">サイト / 削除</target>
         <note>key: role.policy.site.delete</note>
       </trans-unit>
       <trans-unit id="f473815a92d4ec35eeaa54464164aa98119594df" resname="role.policy.site.edit">
         <source>Site / Edit</source>
-        <target state="needs-translation">Site / Edit</target>
+        <target state="translated">サイト / 編集</target>
         <note>key: role.policy.site.edit</note>
       </trans-unit>
       <trans-unit id="34b7e317be37673c466c03c644176ffb618295a8" resname="role.policy.site.view">
@@ -623,7 +623,7 @@
       </trans-unit>
       <trans-unit id="4bf7f289b67892bf61f10b4f9a1db7b6dc09e69a" resname="role.policy.url.update">
         <source>Url / Update</source>
-        <target state="needs-translation">Url / Update</target>
+        <target state="translated">URL / 更新</target>
         <note>key: role.policy.url.update</note>
       </trans-unit>
       <trans-unit id="a9e0e8261157424542b507b9ae39b4e1193d24cd" resname="role.policy.url.view">
@@ -648,12 +648,12 @@
       </trans-unit>
       <trans-unit id="f25505dc2f59df21e3125664c4fdad951d82df3b" resname="role.policy.user.login">
         <source>User / Login</source>
-        <target state="needs-translation">User / Login</target>
+        <target state="translated">ユーザー / ログイン</target>
         <note>key: role.policy.user.login</note>
       </trans-unit>
       <trans-unit id="d971078868184d3d233fb14032fda9ef614c2baa" resname="role.policy.user.password">
         <source>User / Password</source>
-        <target state="needs-translation">User / Password</target>
+        <target state="translated">ユーザー / パスワード</target>
         <note>key: role.policy.user.password</note>
       </trans-unit>
       <trans-unit id="28d15501824f89951d4068af32fbc52eb1412b8d" resname="role.policy.user.preferences">

@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="d138a3a5c3235f233f6c85a1a622a2ce77082f75" resname="specifications.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: specifications.delete</note>
       </trans-unit>
       <trans-unit id="e72c93e2f869bca8021c669b439b363af9cae1fb" resname="specifications.label.specification">

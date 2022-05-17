@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="483be223d70037a50d0a204424d66e4eddd2b77d" resname="emails_table.title">
         <source>Emails</source>
-        <target state="needs-translation">Emails</target>
+        <target state="translated">メールアドレス</target>
         <note>key: emails_table.title</note>
       </trans-unit>
       <trans-unit id="af9f8c941bdd9b4224c8b4abf3f91575ca01599e" resname="erp.overview">
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="0e15400ef4c116aef3a994252ec11f15f0c81916" resname="jobs_list.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: jobs_list.remove</note>
       </trans-unit>
       <trans-unit id="0230ac9a7a288b21e2bd33616e887f1daa697159" resname="jobs_list.runtime">

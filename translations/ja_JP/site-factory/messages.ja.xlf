@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: delete</note>
       </trans-unit>
       <trans-unit id="f60b504e4b5465ca8ef5322de7068f70a5f633b7" resname="header.grid_view">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="2e615a5fd6dfb27060236fbda119f04a58b5fcc0" resname="site.label.main_languages">
         <source>Main languages</source>
-        <target state="needs-translation">Main languages</target>
+        <target state="translated">基本言語</target>
         <note>key: site.label.main_languages</note>
       </trans-unit>
       <trans-unit id="28f4324b209c4a68dd684a336b5efc5e38119262" resname="site.label.name">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="d6f2b314ec4b5a99492d686dd9bb96692c20b093" resname="site.list.action.delete">
         <source>Delete Site</source>
-        <target state="needs-translation">Delete Site</target>
+        <target state="translated">サイトを削除</target>
         <note>key: site.list.action.delete</note>
       </trans-unit>
       <trans-unit id="fe8a976fe946a1a248b13f520f1781bac44ec729" resname="site.list.count_results">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="6283b1a55392feb5035f4362b61a96b263728164" resname="site.list.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: site.list.delete</note>
       </trans-unit>
       <trans-unit id="9c4befbbe23d5f95db84568be39e30a6c9479881" resname="site.list.no_sites">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="87251807b10d307d313a1b078390e5dd78537d5e" resname="site.view.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: site.view.delete</note>
       </trans-unit>
     </body>

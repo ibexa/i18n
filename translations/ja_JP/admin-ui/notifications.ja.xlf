@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="2e6761d0506e8b330fe5e2350a82f7e2e74b13ee" resname="menu.notification">
         <source>View Notifications</source>
-        <target state="needs-translation">View Notifications</target>
+        <target state="translated">通知を表示</target>
         <note>key: menu.notification</note>
       </trans-unit>
       <trans-unit id="eb06b630bdbe8797de235f738a47ccc5b824aa2c" resname="notification.close">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">閉じる</target>
         <note>key: notification.close</note>
       </trans-unit>
       <trans-unit id="fc349b70133a7a68cae9be363e112ee397044b6a" resname="notification.date">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">日付</target>
         <note>key: notification.date</note>
       </trans-unit>
       <trans-unit id="6b83526d14384d4144093369e83601556437fbb0" resname="notification.description">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="dda5c8f76779648fe17e298aaae2ea426df3f85e" resname="notification.trashed">
         <source>Sent to Trash</source>
-        <target state="needs-translation">Sent to Trash</target>
+        <target state="translated">ごみ箱へ送る</target>
         <note>key: notification.trashed</note>
       </trans-unit>
       <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="1b60d2ed7158736cbc1353d72a6dc44a6772147f" resname="notifications">
         <source>Notifications</source>
-        <target state="needs-translation">Notifications</target>
+        <target state="translated">通知</target>
         <note>key: notifications</note>
       </trans-unit>
       <trans-unit id="79036b8a9fecbed5d0c14a94c5639d611c6ab6d1" resname="notifications.modal.message.error">
         <source>Cannot update notifications</source>
-        <target state="needs-translation">Cannot update notifications</target>
+        <target state="translated">通知を更新できません</target>
         <note>key: notifications.modal.message.error</note>
       </trans-unit>
     </body>

@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add">
         <source>Add new translation</source>
-        <target state="needs-translation">Add new translation</target>
+        <target state="translated">新しい翻訳を追加</target>
         <note>key: infobar.translation.add</note>
       </trans-unit>
       <trans-unit id="60ccc34e85fea1e10d1340926cd10d2d692e75b3" resname="infobar.translation.no_fallback_language">

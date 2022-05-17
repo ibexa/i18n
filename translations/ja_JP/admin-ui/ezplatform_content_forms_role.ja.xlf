@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">作成</target>
         <note>key: policy_create.save</note>
       </trans-unit>
       <trans-unit id="c418f83922f6a4ea7412120a3b731a3e8665eead" resname="policy_create.update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">更新</target>
         <note>key: policy_create.update</note>
       </trans-unit>
       <trans-unit id="05cc1fd4658faa760de6e98cb71e1054157e63a0" resname="policy_delete.delete">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button">
         <source>Select Locations</source>
-        <target state="needs-translation">Select Locations</target>
+        <target state="translated">ロケーションを選択</target>
         <note>key: role.policy.limitation.location.udw_button</note>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">

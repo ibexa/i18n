@@ -58,12 +58,12 @@
       </trans-unit>
       <trans-unit id="153d7a58b3a3e898fcbdd04c462af308414bd09d" resname="Comment">
         <source>Comment</source>
-        <target state="needs-translation">Comment</target>
+        <target state="translated">コメント</target>
         <note>key: Comment</note>
       </trans-unit>
       <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" resname="Country">
         <source>Country</source>
-        <target state="needs-translation">Country</target>
+        <target state="translated">国</target>
         <note>key: Country</note>
       </trans-unit>
       <trans-unit id="d8acfdc82b94b500a1f0339dfafd320256d5eaef" resname="Currently, an individual calculation of prices and shipping costs is not possible due to technical problems.">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="33b75c543132c988295bb686cd71b9194b1fdfdc" resname="Dear %user%">
         <source>Dear %user%</source>
-        <target state="needs-translation">Dear %user%</target>
+        <target state="translated">%user% 様</target>
         <note>key: Dear %user%</note>
       </trans-unit>
       <trans-unit id="1f63936b6c4cd6daac3f49f931bccdbe8736648b" resname="Delivery Address">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">メールアドレス</target>
         <note>key: Email</note>
       </trans-unit>
       <trans-unit id="4620d948534bcc23636b916903de6ba867adc1cb" resname="Enter a new basket name!">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="c25876cd811e3bbba92fe46bf0d80e1b9126f1fa" resname="Error: %error%">
         <source>Error: %error%</source>
-        <target state="needs-translation">Error: %error%</target>
+        <target state="translated">エラー: %error%</target>
         <note>key: Error: %error%</note>
       </trans-unit>
       <trans-unit id="349bf73c47f56fed9cd7b72c896dac6334190f94" resname="Following errors occurred:">
@@ -178,12 +178,12 @@
       </trans-unit>
       <trans-unit id="0e55fb3b04e225d83af1a64ec1cedc121fb61c32" resname="Payment method">
         <source>Payment method</source>
-        <target state="needs-translation">Payment method</target>
+        <target state="translated">支払方法</target>
         <note>key: Payment method</note>
       </trans-unit>
       <trans-unit id="8961d3bf56ef1c18ef5c831ba0838e8b1f85e5de" resname="Phone number">
         <source>Phone number</source>
-        <target state="needs-translation">Phone number</target>
+        <target state="translated">電話番号</target>
         <note>key: Phone number</note>
       </trans-unit>
       <trans-unit id="c3cb27ea83980effb04b04bed4eff2585b48468b" resname="Please choose a variant">
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="1ed01e7c71996c604337478270c81704193265d0" resname="ZIP code">
         <source>ZIP code</source>
-        <target state="needs-translation">ZIP code</target>
+        <target state="translated">郵便番号</target>
         <note>key: ZIP code</note>
       </trans-unit>
       <trans-unit id="87e38e3331cdb7d71a281257fbaf0de7a2561779" resname="basket.page.action.remove.basket">
@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="e4c9fe7d988127a11861dbb21bd35431ae364781" resname="basket.page.table.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: basket.page.table.remove</note>
       </trans-unit>
       <trans-unit id="c18e8bed77f973faa01527989e3715bd360458cb" resname="basket.page.table.sku">
@@ -638,7 +638,7 @@
       </trans-unit>
       <trans-unit id="bbf01fdc1627b7a10fc7e742dd49ec184b0114a1" resname="checkout.login.email">
         <source>Email address</source>
-        <target state="needs-translation">Email address</target>
+        <target state="translated">メールアドレス</target>
         <note>key: checkout.login.email</note>
       </trans-unit>
       <trans-unit id="0a836f4526cbe9e4fd7e75963c41766b2390c556" resname="checkout.login.existing">
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="f629846a5c9d2dc6b760ba5d8eaf961ebb11eb85" resname="checkout.login.forgot_password">
         <source>Forgot your password?</source>
-        <target state="needs-translation">Forgot your password?</target>
+        <target state="translated">パスワードをお忘れですか？</target>
         <note>key: checkout.login.forgot_password</note>
       </trans-unit>
       <trans-unit id="0bc41e4eef700eda9f85744b506df96ead899d7d" resname="checkout.login.no_registration">
@@ -693,7 +693,7 @@
       </trans-unit>
       <trans-unit id="1e73bc536c526360909927a85ec5eff3cbf839af" resname="checkout.login.submit">
         <source>Login</source>
-        <target state="needs-translation">Login</target>
+        <target state="translated">ログイン</target>
         <note>key: checkout.login.submit</note>
       </trans-unit>
       <trans-unit id="b47f6d3f2e25c21961a40f5c1f052782b6804665" resname="checkout.next.step">
@@ -798,12 +798,12 @@
       </trans-unit>
       <trans-unit id="c8e2b9b26e37cfda958e280278c76d0fae73b655" resname="checkout.summary.add_a_comment">
         <source>Add a comment</source>
-        <target state="needs-translation">Add a comment</target>
+        <target state="translated">コメントを追加</target>
         <note>key: checkout.summary.add_a_comment</note>
       </trans-unit>
       <trans-unit id="3e890021ae43c5bc7bcc31b9e7f55ca808cdc118" resname="checkout.summary.header">
         <source>Dear %user%</source>
-        <target state="needs-translation">Dear %user%</target>
+        <target state="translated">%user% 様</target>
         <note>key: checkout.summary.header</note>
       </trans-unit>
       <trans-unit id="e8e38e48e567936b0cbf747e56d84d872b775ecc" resname="checkout.summary.redirect_info">
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="5350e9dd4078e80de250ba264db41368498fbc7e" resname="credit_card">
         <source>Credit Card</source>
-        <target state="needs-translation">Credit Card</target>
+        <target state="translated">クレジットカード</target>
         <note>key: credit_card</note>
       </trans-unit>
       <trans-unit id="b82cafafcea6328cd4669a893daff282944799db" resname="currently chosen address">
@@ -953,7 +953,7 @@
       </trans-unit>
       <trans-unit id="a389234aa210f8a8d899ed6789bcd4af422357f8" resname="paypal_express_checkout">
         <source>Paypal</source>
-        <target state="needs-translation">Paypal</target>
+        <target state="translated">PayPal</target>
         <note>key: paypal_express_checkout</note>
       </trans-unit>
       <trans-unit id="37eacc4cce2476ee33e7faaabc7e72740c2fb902" resname="send to this address">

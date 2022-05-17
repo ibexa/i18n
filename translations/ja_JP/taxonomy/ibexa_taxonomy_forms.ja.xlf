@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="00d0dfa395284e5530c81e2f301b39bb92dbf6ed" resname="taxonomy.entry.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: taxonomy.entry.delete</note>
       </trans-unit>
       <trans-unit id="b57868459850ed64a25417c35b51648d65491b8f" resname="taxonomy.entry.move">

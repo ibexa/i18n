@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="cea62af2f468cd6a3416a4a609186072aab0cd2a" resname="policy.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: policy.editing</note>
       </trans-unit>
       <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="1ac24fa007363b4280663fba53f7a3b436ed4c8f" resname="policy.view.add.title">
         <source>Adding a new Policy</source>
-        <target state="needs-translation">Adding a new Policy</target>
+        <target state="translated">新しいポリシーの追加</target>
         <note>key: policy.view.add.title</note>
       </trans-unit>
       <trans-unit id="aefaf3a17b8493e63c82678611eb6eacbcc45d19" resname="policy.view.edit.title">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="43008c999ece1587436507732b3c1166c393f05c" resname="role.breadcrumb.add">
         <source>Creating a new Role</source>
-        <target state="needs-translation">Creating a new Role</target>
+        <target state="translated">新しいロールの作成</target>
         <note>key: role.breadcrumb.add</note>
       </trans-unit>
       <trans-unit id="03e72944d22126b885a65f885ebf8f1b8e2f8579" resname="role.breadcrumb.list">
@@ -148,12 +148,12 @@
       </trans-unit>
       <trans-unit id="8b6bc2aae1a109d9409a20ad4516e0eaf6ca72d4" resname="role.copy.success">
         <source>Role '%role%' copied.</source>
-        <target state="needs-translation">Role '%role%' copied.</target>
+        <target state="translated">ロール '%role%' がコピーされました。</target>
         <note>key: role.copy.success</note>
       </trans-unit>
       <trans-unit id="d374ce9238f4b6e3d7329ea01e88d6d2bb067d72" resname="role.copying">
         <source>Copying</source>
-        <target state="needs-translation">Copying</target>
+        <target state="translated">コピー中</target>
         <note>key: role.copying</note>
       </trans-unit>
       <trans-unit id="59754dcca61db396ef9de8abd3aa63645bd50f65" resname="role.create.success">
@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="5a488931e506d7caf51b870aabd070c2df885afc" resname="role.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">作成中</target>
         <note>key: role.creating</note>
       </trans-unit>
       <trans-unit id="20c6318c88508393b9cb8413a6d7e61649f80ab3" resname="role.delete.success">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="6db8ba832d5f0726f001d09efa93b18dfa5d616d" resname="role.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: role.editing</note>
       </trans-unit>
       <trans-unit id="09bba4c37b29ecd29acc42007a2db0d7dd6323dd" resname="role.limitations">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="d3938c40d50b4d6e972248900f2d43cda1fe02a3" resname="role.view.edit.title">
         <source>Editing Role '%identifier%'</source>
-        <target state="needs-translation">Editing Role '%identifier%'</target>
+        <target state="translated">ロール '%identifier% ' の編集</target>
         <note>key: role.view.edit.title</note>
       </trans-unit>
       <trans-unit id="88d7426f344cc9d85b90903dad013d5806b82faa" resname="role.view.list.action.add">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="84487981aba4c7a0717b3f1b0ffed88209072df7" resname="role.view.list.action.copy">
         <source>Copy</source>
-        <target state="needs-translation">Copy</target>
+        <target state="translated">コピー</target>
         <note>key: role.view.list.action.copy</note>
       </trans-unit>
       <trans-unit id="cb9d9934c021aa5f2b25bfa652279daa88c6086f" resname="role.view.list.action.edit">

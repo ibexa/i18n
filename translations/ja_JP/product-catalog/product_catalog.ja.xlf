@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="540b55c6ac0c808e15ca17fad5a6b0fb7cf1d6d5" resname="attribute.selection_options.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: attribute.selection_options.delete</note>
       </trans-unit>
       <trans-unit id="c97aa46afd6639590505473f4743227e7f68c242" resname="attribute.selection_options.list__label.label">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="7398a278ad9bb63a32fe5ef90315cf8d6cf97a0c" resname="attribute_definition.edit.updating">
         <source>Updating</source>
-        <target state="needs-translation">Updating</target>
+        <target state="translated">更新中</target>
         <note>key: attribute_definition.edit.updating</note>
       </trans-unit>
       <trans-unit id="bc2737678d63d615bbee3b5eb0f28716734cf12c" resname="attribute_definition.information.headline">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="c01193d8561769321dc5f8effe9aed85d3c2965f" resname="attribute_definition.pre_create.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: attribute_definition.pre_create.cancel</note>
       </trans-unit>
       <trans-unit id="8291d22b53db4caceba195ce3e05ca4240235a09" resname="attribute_definition.update.success">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="67d3744156c0d39132649408d73c6ec72587453f" resname="attribute_definition_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="needs-translation">Remove translation</target>
+        <target state="translated">翻訳を削除</target>
         <note>key: attribute_definition_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="ef198a76186df8b1d52f5062698715d6130932fe" resname="attribute_group.breadcrumb.list">
@@ -313,12 +313,12 @@
       </trans-unit>
       <trans-unit id="592b7f7b39973e8d577fb8ceddf3002be195af8d" resname="attribute_group.view.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: attribute_group.view.delete</note>
       </trans-unit>
       <trans-unit id="d8b7b9089b8352da099325a822eb6a63154d810a" resname="attribute_group.view.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: attribute_group.view.edit</note>
       </trans-unit>
       <trans-unit id="52d704c7032af7334debbf6bffacaf015cdea7b8" resname="attribute_group.view.identifier">
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="73c94795f6aea4c968427b19b9070448350992df" resname="attribute_group_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="needs-translation">Remove translation</target>
+        <target state="translated">翻訳を削除</target>
         <note>key: attribute_group_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
@@ -553,7 +553,7 @@
       </trans-unit>
       <trans-unit id="94a0f4a83d85d4b590ca636da689e11a323914f8" resname="customer_group_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="needs-translation">Remove translation</target>
+        <target state="translated">翻訳を削除</target>
         <note>key: customer_group_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="fec8270453451fdd353b4a9c8f6e459908355a73" resname="field_definition.ibexa_product_specification.attributes_definitions">
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="f36bb43216bd9e954b65b575c423aff27f96e758" resname="list.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: list.delete</note>
       </trans-unit>
       <trans-unit id="7db019697b22bcd666e14fb5d800dbef3e5454ff" resname="price.delete.success">
@@ -668,7 +668,7 @@
       </trans-unit>
       <trans-unit id="80ccab9939865f6d2610a24817aab5dc1075db36" resname="product.creating">
         <source>Creating %product_type_name%</source>
-        <target state="needs-translation">Creating %product_type_name%</target>
+        <target state="translated">%product_type_name% の作成</target>
         <note>key: product.creating</note>
       </trans-unit>
       <trans-unit id="d6e2b764c5b3b95dfa533e97d2a0d75f05f1903c" resname="product.currency.create.success">
@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="4ee4af717f710065d8ca05798beb379be3c70a99" resname="product.edit.action_name">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: product.edit.action_name</note>
       </trans-unit>
       <trans-unit id="bb26bd02d68f785d6610a8bc790162a6e9725877" resname="product.list.column.available">
@@ -798,7 +798,7 @@
       </trans-unit>
       <trans-unit id="96a83033d6f528743974d6a118e21e5d8a24839f" resname="product.pre_create.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: product.pre_create.cancel</note>
       </trans-unit>
       <trans-unit id="6a228857dcb6653ed20a45399458047f08ea7f4a" resname="product.pre_create.title">
@@ -1103,7 +1103,7 @@
       </trans-unit>
       <trans-unit id="6b30d19b65dca42c92ef8eeecb2f6cd33cd5ff34" resname="product_type.edit.section.content_field_definitions">
         <source>Field definitions</source>
-        <target state="needs-translation">Field definitions</target>
+        <target state="translated">フィールド定義</target>
         <note>key: product_type.edit.section.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="b633ec421894bb6c2b08c15654f76ce47ae493ac" resname="product_type.edit.section.global_properties">
@@ -1213,12 +1213,12 @@
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: tab.translations.action.delete</note>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: tab.translations.add.cancel</note>
       </trans-unit>
       <trans-unit id="7071dc68a0dae541e8a5a20252f5285dbee29bd8" resname="tab.translations.add.create">
@@ -1233,12 +1233,12 @@
       </trans-unit>
       <trans-unit id="d494d753de03a08f7a10792b727ec88ca74d4913" resname="tab.translations.language_code">
         <source>Language code</source>
-        <target state="needs-translation">Language code</target>
+        <target state="translated">言語コード</target>
         <note>key: tab.translations.language_code</note>
       </trans-unit>
       <trans-unit id="0becdca42cbaa039a6166b8aa778a86657bb362f" resname="tab.translations.language_name">
         <source>Language name</source>
-        <target state="needs-translation">Language name</target>
+        <target state="translated">言語名</target>
         <note>key: tab.translations.language_name</note>
       </trans-unit>
       <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
@@ -1253,7 +1253,7 @@
       </trans-unit>
       <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">
         <source>No language</source>
-        <target state="needs-translation">No language</target>
+        <target state="translated">言語がありません</target>
         <note>key: translation.base_language.no_language</note>
       </trans-unit>
     </body>

@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="128df491a522e7af4916cd002d9e11a3d2bc4078" resname="section.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: section.action.delete</note>
       </trans-unit>
       <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content">
@@ -63,17 +63,17 @@
       </trans-unit>
       <trans-unit id="0a6c7f3919b09caa9eee957a4949d3c9b6dce16e" resname="section.create.success">
         <source>Section '%name%' created.</source>
-        <target state="needs-translation">Section '%name%' created.</target>
+        <target state="translated">セクション '%name%' が作成されました。</target>
         <note>key: section.create.success</note>
       </trans-unit>
       <trans-unit id="9acf0e8d215ddc5f79a8b660be280af8eb3e22e7" resname="section.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">作成中</target>
         <note>key: section.creating</note>
       </trans-unit>
       <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success">
         <source>Section '%name%' removed.</source>
-        <target state="needs-translation">Section '%name%' removed.</target>
+        <target state="translated">セクション '%name%' が削除されました。</target>
         <note>key: section.delete.success</note>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="4415ad4901be9df6454161d40f078fc1a2fc923b" resname="section.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">編集中</target>
         <note>key: section.editing</note>
       </trans-unit>
       <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: section.id</note>
       </trans-unit>
       <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="12023a25e9c04ceef708820416f14a5a1e188688" resname="section.new">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">作成</target>
         <note>key: section.new</note>
       </trans-unit>
       <trans-unit id="e771bfe2e0091aad8731fd441667fba59cbf59c3" resname="section.new.title">
         <source>Creating a new Section</source>
-        <target state="needs-translation">Creating a new Section</target>
+        <target state="translated">新しいセクションの作成</target>
         <note>key: section.new.title</note>
       </trans-unit>
       <trans-unit id="b1bef1e1bf42cb3e7e7f9057fd710e5c91a15129" resname="section.update.success">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="2bfeef4370b18e469fba6df1d4d2888f9252c764" resname="section.update.title">
         <source>Editing Section '%identifier%'</source>
-        <target state="needs-translation">Editing Section '%identifier%'</target>
+        <target state="translated">セクション '%identifier%' の編集</target>
         <note>key: section.update.title</note>
       </trans-unit>
       <trans-unit id="9266789d0a5e68e102410798a2db431137039aad" resname="section.view.title.identifier">

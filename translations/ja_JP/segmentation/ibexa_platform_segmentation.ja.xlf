@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: delete</note>
       </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: form.cancel</note>
       </trans-unit>
       <trans-unit id="99291c19d4787ddbed7fe4a0f1c8a5e98c94c97e" resname="form.creating_new_segment">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="db99845855b2ecbfecca9a095062b96c3e27703f" resname="remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: remove</note>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: section.edit</note>
       </trans-unit>
       <trans-unit id="6d0b3761c7a30fcfe7ddcc1bba4eccf708638271" resname="segment.create.success">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="84987c1330d341b95bac668156c0e2b1db2db644" resname="segment_group.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: segment_group.action.delete</note>
       </trans-unit>
       <trans-unit id="7e946592cc59b778faf63d3a840e42d87ff00a26" resname="segment_group.create.success">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="2f42a4f8fa3a217529074f75426da8389861fc28" resname="segment_group.list.segment_group.action.bulk_delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: segment_group.list.segment_group.action.bulk_delete</note>
       </trans-unit>
       <trans-unit id="60df443de6933bced3dabfca8975fd8c6b914606" resname="segment_group.list.segment_group_bulk_delete.modal.message">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="796351668b467f2aa69799c7fb03a85a725c678c" resname="segment_group.segment.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">削除</target>
         <note>key: segment_group.segment.remove</note>
       </trans-unit>
       <trans-unit id="06b27025428818eb225cf1550f4eeafbc096af0d" resname="segment_group.segments.header">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="321ebffb584bc412cd9ba377d9f0a78f7de48ccc" resname="segment_group.view.segments.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: segment_group.view.segments.action.delete</note>
       </trans-unit>
       <trans-unit id="e330402a8463adc29f61dabc01a87d9db4ff9843" resname="segment_groups.list.create">

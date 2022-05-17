@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
         <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
-        <target state="needs-translation"><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></target>
+        <target state="translated"><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></target>
         <note>key: bulk_action.success.link_to_location</note>
       </trans-unit>
       <trans-unit id="8c9027784ddccd5319b5a361e99434ae592d775d" resname="bulk_copy.error.message">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="ed2c9a96d164d69ddaaaf81a5d3485fc853b429c" resname="bulk_copy.success.message">
         <source>Content item(s) copied to {{ locationLink }}</source>
-        <target state="needs-translation">Content item(s) copied to {{ locationLink }}</target>
+        <target state="translated">コンテンツアイテムを {{ locationLink }} にコピーしました</target>
         <note>key: bulk_copy.success.message</note>
       </trans-unit>
       <trans-unit id="99402f0925918d4d739c4c61a90182a733824fa5" resname="bulk_delete.error.message.nonusers">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
         <source>Content item(s) sent to Trash.</source>
-        <target state="needs-translation">Content item(s) sent to Trash.</target>
+        <target state="translated">コンテンツアイテムをごみ箱に移動しました。</target>
         <note>key: bulk_delete.success.message.nonusers</note>
       </trans-unit>
       <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
         <source>Content item(s) sent to Trash. User(s) deleted.</source>
-        <target state="needs-translation">Content item(s) sent to Trash. User(s) deleted.</target>
+        <target state="translated">コンテンツアイテムをごみ箱に移動しました。ユーザーが削除されました。</target>
         <note>key: bulk_delete.success.message.users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
@@ -68,17 +68,17 @@
       </trans-unit>
       <trans-unit id="37b6b28354e1e8986dcd7aca0fb7e76686d3b15f" resname="content.tree_name">
         <source>Content tree</source>
-        <target state="needs-translation">Content tree</target>
+        <target state="translated">コンテンツツリー</target>
         <note>key: content.tree_name</note>
       </trans-unit>
       <trans-unit id="52f7a6a69bf6d18c4aee124702514f8b3a882d9c" resname="delete.send_to_trash.modal.body">
         <source>Are you sure you want to send the selected Content item(s) to Trash?</source>
-        <target state="needs-translation">Are you sure you want to send the selected Content item(s) to Trash?</target>
+        <target state="translated">選択したコンテンツアイテムをごみ箱に移動してもよろしいですか？</target>
         <note>key: delete.send_to_trash.modal.body</note>
       </trans-unit>
       <trans-unit id="fda5d31392f746288f371fdb64897146e018a606" resname="load_content_types.error">
         <source>Cannot load content types</source>
-        <target state="needs-translation">Cannot load content types</target>
+        <target state="translated">コンテンツタイプを読み込めません</target>
         <note>key: load_content_types.error</note>
       </trans-unit>
     </body>

@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="50833698162171103793dc9cb6367839a8e063a4" resname="preview_unavailable">
         <source>You cannot preview this translation because there is no site available for this language. Contact your Administrator.</source>
-        <target state="needs-translation">You cannot preview this translation because there is no site available for this language. Contact your Administrator.</target>
+        <target state="translated">この言語で利用可能なサイトがないため、この翻訳をプレビューすることはできません。管理者に連絡してください。</target>
         <note>key: preview_unavailable</note>
       </trans-unit>
     </body>

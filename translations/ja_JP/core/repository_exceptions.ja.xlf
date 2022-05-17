@@ -81,7 +81,7 @@
       </trans-unit>
       <trans-unit id="1423a591f045a16c96d4b1c11d2c5bdc86ae19a6" resname="ContentType FieldDefinitions did not validate">
         <source>ContentType FieldDefinitions did not validate</source>
-        <target state="needs-translation">ContentType FieldDefinitions did not validate</target>
+        <target state="translated">コンテンツタイプのフィールド定義は検証されませんでした</target>
         <note>key: ContentType FieldDefinitions did not validate</note>
         <jms:reference-file line="45">src/lib/Base/Exceptions/ContentTypeFieldDefinitionValidationException.php</jms:reference-file>
       </trans-unit>

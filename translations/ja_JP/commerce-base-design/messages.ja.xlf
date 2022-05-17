@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="cdcc456629195ed5a337a4be78100dda7a14aef3" resname="Article|search">
         <source>Article</source>
-        <target state="needs-translation">Article</target>
+        <target state="translated">記事</target>
         <note>key: Article|search</note>
       </trans-unit>
       <trans-unit id="ce3e4bed2954adbf05f8edfaf1a4c0cc0cea70e9" resname="DE">
         <source>Germany</source>
-        <target state="needs-translation">Germany</target>
+        <target state="translated">ドイツ</target>
         <note>key: DE</note>
       </trans-unit>
       <trans-unit id="30baa24967e08965d1594408031f0324ae11ccac" resname="Folder">
         <source>Folder</source>
-        <target state="needs-translation">Folder</target>
+        <target state="translated">フォルダー</target>
         <note>key: Folder</note>
       </trans-unit>
       <trans-unit id="d2e269273a451b6887ce930a00282453b864f784" resname="Folder|search">
         <source>Folder</source>
-        <target state="needs-translation">Folder</target>
+        <target state="translated">フォルダー</target>
         <note>key: Folder|search</note>
       </trans-unit>
       <trans-unit id="ad1ee409b13768fa0736118aef26405092bd2f39" resname="read_more">

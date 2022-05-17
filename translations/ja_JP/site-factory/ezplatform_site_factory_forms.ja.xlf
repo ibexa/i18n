@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="813c0825c4190d08e42a9dd2171d804f2ad012b7" resname="languages.label">
         <source>Language(s)</source>
-        <target state="needs-translation">Language(s)</target>
+        <target state="translated">言語</target>
         <note>key: languages.label</note>
       </trans-unit>
       <trans-unit id="22051bfb289327b100e12541f7284b0600f14593" resname="matcher_configuration.label">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="1d1534ae4e770c4c35bade740b10ad3d2af2a703" resname="site_delete_form.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: site_delete_form.delete</note>
       </trans-unit>
     </body>

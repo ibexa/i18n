@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="6b30d19b65dca42c92ef8eeecb2f6cd33cd5ff34" resname="product_type.edit.section.content_field_definitions">
         <source>Field definitions</source>
-        <target state="needs-translation">Field definitions</target>
+        <target state="translated">フィールド定義</target>
         <note>key: product_type.edit.section.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="b633ec421894bb6c2b08c15654f76ce47ae493ac" resname="product_type.edit.section.global_properties">

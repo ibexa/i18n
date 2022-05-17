@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="89b4e639fd50276fdaa2def0bd01f262c4ea0686" resname="segment_group_bulk_delete_form.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: segment_group_bulk_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="d4bad89505ed54f60df85a8d458fa2e4ac1ac8db" resname="segment_group_create.identifier">
@@ -43,17 +43,17 @@
       </trans-unit>
       <trans-unit id="ad7c607ca86930e2af197c0f1ad44c646fe499be" resname="segment_group_create_form.update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">更新</target>
         <note>key: segment_group_create_form.update</note>
       </trans-unit>
       <trans-unit id="36cee6fed4b7db33951de85cd54ca60bb7822e1d" resname="segment_group_delete_form.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: segment_group_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="1346713c71d11a95fac08825d2e82fa8c9904162" resname="segment_update_form.update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">更新</target>
         <note>key: segment_update_form.update</note>
       </trans-unit>
     </body>

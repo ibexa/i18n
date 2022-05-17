@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="8d9e2f3fb15679717338a9f8ba95640c4b6b2e66" resname="add_locations_btn.label">
         <source>Add Locations</source>
-        <target state="needs-translation">Add Locations</target>
+        <target state="translated">ロケーションを追加</target>
         <note>key: add_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="ca61c6a680354ca0ca27b53f63d9d30ba35eee2a" resname="bulk_action.error.more_info">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="aa8f660d8cae16394e7cd4421e6b604e031ad04b" resname="bulk_action.popup.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: bulk_action.popup.cancel</note>
       </trans-unit>
       <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="530f5b1097af7206fdabc3a51ac334c933ab4909" resname="bulk_delete.popup.confirm.nonusers">
         <source>Send to Trash</source>
-        <target state="needs-translation">Send to Trash</target>
+        <target state="translated">ごみ箱へ送る</target>
         <note>key: bulk_delete.popup.confirm.nonusers</note>
       </trans-unit>
       <trans-unit id="4953b415cbb1e81833664d96e7051d0a7e3d90c8" resname="bulk_delete.popup.confirm.users_and_users_with_nonusers">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: bulk_delete.popup.confirm.users_and_users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="e98d09770399a6f52a15068a0573a18fc2b0b60d" resname="bulk_delete.popup.message.nonusers">
@@ -118,17 +118,17 @@
       </trans-unit>
       <trans-unit id="3a8fe14b551e382f3f1f20f7aed2e5de9804f619" resname="bulk_hide.error.modal.table_title">
         <source>%itemsCount% Content item(s) cannot be hidden</source>
-        <target state="needs-translation">%itemsCount% Content item(s) cannot be hidden</target>
+        <target state="translated">%itemsCount%件のコンテンツアイテムを非表示にすることができません</target>
         <note>key: bulk_hide.error.modal.table_title</note>
       </trans-unit>
       <trans-unit id="540d45bd030bab3e5bec8b9c1433ff4d9998c73e" resname="bulk_hide.popup.confirm">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">非表示</target>
         <note>key: bulk_hide.popup.confirm</note>
       </trans-unit>
       <trans-unit id="d2ab57f08d00c6f0d714b26aa81a44c8a1867903" resname="bulk_hide.popup.message">
         <source>Are you sure you want to hide the selected Location(s)?</source>
-        <target state="needs-translation">Are you sure you want to hide the selected Location(s)?</target>
+        <target state="translated">選択したロケーションを非表示にしてもよろしいですか？</target>
         <note>key: bulk_hide.popup.message</note>
       </trans-unit>
       <trans-unit id="9157594a9c2f44581165ee5e73c89bc5985a7fc9" resname="bulk_hide.success.message">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="16c240de3cfc07b8e56d008357706abefad3e3ae" resname="bulk_unhide.popup.confirm">
         <source>Reveal</source>
-        <target state="needs-translation">Reveal</target>
+        <target state="translated">表示</target>
         <note>key: bulk_unhide.popup.confirm</note>
       </trans-unit>
       <trans-unit id="99b9c21ff0ed8b33521c0b8c07410f1f10e5f879" resname="bulk_unhide.popup.message">
@@ -183,12 +183,12 @@
       </trans-unit>
       <trans-unit id="5e1792d4a193550fe8afd9a4be6d0a8c3f6596e9" resname="edit_item_btn.label">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">編集</target>
         <note>key: edit_item_btn.label</note>
       </trans-unit>
       <trans-unit id="0f2106150fc552b94658eee2125a4c4680f3564c" resname="hide_locations_btn.label">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">非表示</target>
         <note>key: hide_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="2f2de7291ed87063841f5d65e5d73c1c50eaa3be" resname="instant.filter.placeholder">
@@ -198,12 +198,12 @@
       </trans-unit>
       <trans-unit id="2a9e4002be191374ee14674d2e67eb9fe2d631d2" resname="items_list.title">
         <source>Sub-items</source>
-        <target state="needs-translation">Sub-items</target>
+        <target state="translated">サブアイテム</target>
         <note>key: items_list.title</note>
       </trans-unit>
       <trans-unit id="a72b23e13c6c44cfd6fc6661f83bc0b5e7c8a90c" resname="items_table.header.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: items_table.header.content_type</note>
       </trans-unit>
       <trans-unit id="d8bac590d6c8bf7c4e58ad1d7dbe4aad57e54e43" resname="items_table.header.contributor">
@@ -218,17 +218,17 @@
       </trans-unit>
       <trans-unit id="1cb1922ab4f684747ddabe1a1b1277893e31006d" resname="items_table.header.filters">
         <source>Filters</source>
-        <target state="needs-translation">Filters</target>
+        <target state="translated">フィルター</target>
         <note>key: items_table.header.filters</note>
       </trans-unit>
       <trans-unit id="fdb8e418a944ccd7b2b8575c09abf1838589d51b" resname="items_table.header.location_id">
         <source>Location ID</source>
-        <target state="needs-translation">Location ID</target>
+        <target state="translated">ロケーション ID</target>
         <note>key: items_table.header.location_id</note>
       </trans-unit>
       <trans-unit id="86e7d70a1dee14408d841d5f2f7bc3bf4d4579a3" resname="items_table.header.location_remote_id">
         <source>Location remote ID</source>
-        <target state="needs-translation">Location remote ID</target>
+        <target state="translated">ロケーションリモート ID</target>
         <note>key: items_table.header.location_remote_id</note>
       </trans-unit>
       <trans-unit id="8f1583d031a1cc60061659b8a55291496f0a40c6" resname="items_table.header.modified">
@@ -238,22 +238,22 @@
       </trans-unit>
       <trans-unit id="2527737a2f92308589f03f3b73fed29ef744eb50" resname="items_table.header.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">名前</target>
         <note>key: items_table.header.name</note>
       </trans-unit>
       <trans-unit id="725a35139d6927f9c5ac199aa42a0baf362986fb" resname="items_table.header.object_id">
         <source>Object ID</source>
-        <target state="needs-translation">Object ID</target>
+        <target state="translated">オブジェクト ID</target>
         <note>key: items_table.header.object_id</note>
       </trans-unit>
       <trans-unit id="d8a8032b67e3e3626e01d4983b4d76a4e9d2c999" resname="items_table.header.object_remote_id">
         <source>Object remote ID</source>
-        <target state="needs-translation">Object remote ID</target>
+        <target state="translated">オブジェクトリモート ID</target>
         <note>key: items_table.header.object_remote_id</note>
       </trans-unit>
       <trans-unit id="ee6e79244a03c8adceb13aa6a7aff2cb496cb9d0" resname="items_table.header.priority">
         <source>Priority</source>
-        <target state="needs-translation">Priority</target>
+        <target state="translated">優先度</target>
         <note>key: items_table.header.priority</note>
       </trans-unit>
       <trans-unit id="9194a0b943ca204c20acd7695c577b976ce4c964" resname="items_table.header.pubished">
@@ -263,12 +263,12 @@
       </trans-unit>
       <trans-unit id="ed4e5502d8ec6f16e9e87bdd0704d0a5af38dcc5" resname="items_table.header.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">セクション</target>
         <note>key: items_table.header.section</note>
       </trans-unit>
       <trans-unit id="2efb1da52dd6f25dd90474e85b5c73761adb4183" resname="items_table.header.translations">
         <source>Translations</source>
-        <target state="needs-translation">Translations</target>
+        <target state="translated">翻訳</target>
         <note>key: items_table.header.translations</note>
       </trans-unit>
       <trans-unit id="9f055743ae2bf600810c4935ab10873ca4dac6d9" resname="items_table.header.visibility">
@@ -288,22 +288,22 @@
       </trans-unit>
       <trans-unit id="c509fd3a9e7282070fa03f793bb932863c45d8f6" resname="languages.modal.label">
         <source>Select language</source>
-        <target state="needs-translation">Select language</target>
+        <target state="translated">言語を選択</target>
         <note>key: languages.modal.label</note>
       </trans-unit>
       <trans-unit id="e3c395cec9466f06c8f2f3f4b2bfcd9021537714" resname="move_btn.label">
         <source>Move</source>
-        <target state="needs-translation">Move</target>
+        <target state="translated">移動</target>
         <note>key: move_btn.label</note>
       </trans-unit>
       <trans-unit id="276a7024903672cd0476c82ba8845453e13db95e" resname="no_items.message">
         <source>This location has no sub-items</source>
-        <target state="needs-translation">This location has no sub-items</target>
+        <target state="translated">このロケーションにはサブアイテムがありません</target>
         <note>key: no_items.message</note>
       </trans-unit>
       <trans-unit id="4bed04fe70182d0491c20005326bda3abfccc8aa" resname="switch_to_grid_view.btn.title">
         <source>View as grid</source>
-        <target state="needs-translation">View as grid</target>
+        <target state="translated">グリッド表示</target>
         <note>key: switch_to_grid_view.btn.title</note>
       </trans-unit>
       <trans-unit id="b5bfcc24141601264b6c03972d8e45bbb7c49a09" resname="switch_to_list_view.btn.label">
@@ -313,27 +313,27 @@
       </trans-unit>
       <trans-unit id="4c4637653764ac21c32fc8f8daff690ddad7e0de" resname="switch_to_list_view.btn.title">
         <source>View as list</source>
-        <target state="needs-translation">View as list</target>
+        <target state="translated">リスト表示</target>
         <note>key: switch_to_list_view.btn.title</note>
       </trans-unit>
       <trans-unit id="11b5de206f496e357ede3c3798b8e113c2946a60" resname="trash_btn.label">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">削除</target>
         <note>key: trash_btn.label</note>
       </trans-unit>
       <trans-unit id="cd8466f8e727278543a7e1ded7f3a0c67243c276" resname="udw.choose_location.title">
         <source>Choose Location</source>
-        <target state="needs-translation">Choose Location</target>
+        <target state="translated">ロケーションを選択</target>
         <note>key: udw.choose_location.title</note>
       </trans-unit>
       <trans-unit id="8518fc267b3ab3f637351ddbd8ad08e1312d822c" resname="unhide_locations_btn.label">
         <source>Reveal</source>
-        <target state="needs-translation">Reveal</target>
+        <target state="translated">表示</target>
         <note>key: unhide_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="5ae5a511a5c344781ad0caa53efe7b33429c6132" resname="viewing_message">
         <source>Viewing %viewingCount% out of %totalCount% sub-items</source>
-        <target state="needs-translation">Viewing %viewingCount% out of %totalCount% sub-items</target>
+        <target state="translated">%viewingCount%件中%totalCount%件のサブアイテムを表示</target>
         <note>key: viewing_message</note>
       </trans-unit>
     </body>

@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
         <source>You do not have permissions for '%function%' '%module%' for content ID: %contentId%</source>
-        <target state="needs-translation">You do not have permissions for '%function%' '%module%' for content ID: %contentId%</target>
+        <target state="translated">コンテンツ ID: %contentId% の '%function%' '%module%' に対する権限がありません。</target>
         <note>key: dashboard.table.draft.unauthorized</note>
       </trans-unit>
       <trans-unit id="f261167093447f7940efd1484b40e362028a728c" resname="drafts.list">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="7e9e5a5a2374b6f20dd6ffc35334073627778d62" resname="drafts.list.action.remove.confirmation.text">
         <source>Are you sure you want to permanently delete the selected draft(s)?</source>
-        <target state="needs-translation">Are you sure you want to permanently delete the selected draft(s)?</target>
+        <target state="translated">選択した下書きを完全に削除してもよろしいですか？</target>
         <note>key: drafts.list.action.remove.confirmation.text</note>
       </trans-unit>
       <trans-unit id="61be4cf21a9d454b832543ae2ecb5b2b10f94583" resname="drafts.list.action.remove.confirmation.title">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="8c65a0cd673fa4c18f7e730f672579ed65debd3c" resname="drafts.list.modified_language">
         <source>Modified Language</source>
-        <target state="needs-translation">Modified Language</target>
+        <target state="translated">言語</target>
         <note>key: drafts.list.modified_language</note>
       </trans-unit>
       <trans-unit id="575dff6addd6d92ef7e8699d89b21cba7915ad7c" resname="drafts.list.name">

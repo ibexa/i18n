@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="bb4399374d3885ded0ee2e2b2d1c34fa4e4cae97" resname="future_hide.attribute.content_type.label">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: future_hide.attribute.content_type.label</note>
       </trans-unit>
       <trans-unit id="d3d224f58fa31ffea8b89208f01cad4f8839d389" resname="future_hide.label">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="420ef90e1dcbceca8d26b11b03d816c39678d7b1" resname="future_publication.attribute.content_type.label">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: future_publication.attribute.content_type.label</note>
       </trans-unit>
       <trans-unit id="f959f501d6fe50e8cb2bba1d789cc29c3b3a31f2" resname="future_publication.attribute.modified_language.label">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">言語</target>
         <note>key: future_publication.attribute.modified_language.label</note>
       </trans-unit>
       <trans-unit id="b707401e387977dff9576ab9c9fcfa3a081ffbca" resname="future_publication.label">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="e7dcdc3f30734cae3e2fc8a4e67c6bd65e4cc2f6" resname="modal.discard.button.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: modal.discard.button.cancel.label</note>
       </trans-unit>
       <trans-unit id="0f2c71401903537601bc0f7a376f2a045a3e300d" resname="modal.discard.button.confirm.label">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="3ac0155a7aa68fb42895db7b88488dd6bca64259" resname="modal.discard.table.language.label">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">言語</target>
         <note>key: modal.discard.table.language.label</note>
       </trans-unit>
       <trans-unit id="009172790a92714b1fad31ff1ea9f9691f3b9953" resname="modal.discard.table.name.label">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="0b3369427b3d6137981f8152556a902c4afaa9c8" resname="modal.future_hide.discard.button.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: modal.future_hide.discard.button.cancel.label</note>
       </trans-unit>
       <trans-unit id="f06876d3c5eb0fb24a525fe6e9fe02f1d290a0cd" resname="modal.future_hide.discard.button.confirm.label">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="1e4306c3cc98473b86d8b03016465abcf0be2bc1" resname="modal.future_hide.reschedule.button.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: modal.future_hide.reschedule.button.cancel.label</note>
       </trans-unit>
       <trans-unit id="99f588ae4311b9253318557ac5004b357fe776b6" resname="modal.future_hide.reschedule.button.confirm.label">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="4feddda3ea92d0dfe185e404d947f995ce63e6a9" resname="modal.reschedule.button.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: modal.reschedule.button.cancel.label</note>
       </trans-unit>
       <trans-unit id="4159d061bfaf75e9176056da9d23dd7cc84c0384" resname="modal.reschedule.button.confirm.label">

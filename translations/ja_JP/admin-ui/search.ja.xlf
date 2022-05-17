@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">コンテンツタイプ</target>
         <note>key: search.content.type</note>
       </trans-unit>
       <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="90fa144118285f5076416f9e92a89dd94c9406e4" resname="search.language">
         <source>Language</source>
-        <target state="needs-translation">Language</target>
+        <target state="translated">言語</target>
         <note>key: search.language</note>
       </trans-unit>
       <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="65ed24966c829b5013a9832dd40fce3a3ee53e91" resname="search.location">
         <source>Location</source>
-        <target state="needs-translation">Location</target>
+        <target state="translated">ロケーション</target>
         <note>key: search.location</note>
       </trans-unit>
       <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="34cd11448c2016e5c0a098947eb3e2aef01a9ac5" resname="search.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">セクション</target>
         <note>key: search.section</note>
       </trans-unit>
       <trans-unit id="b484be9d33f5cd9961f4ddd89c628f2cbca2a6a1" resname="search.subtree">

@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="bb645c51a07d2c29a4cd8b3225ca5e0cddec45c5" resname="timeline.schedule.config_panel.hide_timeline">
         <source>Hide timeline</source>
-        <target state="needs-translation">Hide timeline</target>
+        <target state="translated">タイムラインを非表示</target>
         <note>key: timeline.schedule.config_panel.hide_timeline</note>
       </trans-unit>
       <trans-unit id="2e837c400344095b33750c4f5305b87b388a7bce" resname="timeline.schedule.config_panel.no_events.subtitle">
