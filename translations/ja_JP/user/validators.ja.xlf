@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0727f822c8bebb99cd8a75ec16d4008c74d30b24" resname="ezplatform.change_user_password.not_match">
         <source>Current password is incorrect.</source>
-        <target state="needs-translation">Current password is incorrect.</target>
+        <target state="translated">現在のパスワードが正しくありません。</target>
         <note>key: ezplatform.change_user_password.not_match</note>
       </trans-unit>
       <trans-unit id="54d912b0089483cfd533714e50262851b6d1421a" resname="ezplatform.change_user_password.passwords_must_match">
