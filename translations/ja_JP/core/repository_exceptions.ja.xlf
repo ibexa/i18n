@@ -8,13 +8,13 @@
     <body>
       <trans-unit id="c2993e6873e928a2a635698ce582b4aba5748643" resname="'%actualValue%' is wrong value">
         <source>'%actualValue%' is wrong value</source>
-        <target state="needs-translation">'%actualValue%' is wrong value</target>
+        <target state="translated">'%actualValue%' は間違った値です</target>
         <note>key: '%actualValue%' is wrong value</note>
         <jms:reference-file line="32">src/lib/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="7a87971cc45ac957c7db1a4907f8e7f4325e3e32" resname="'%actualValue%' is wrong value in class '%className%'">
         <source>'%actualValue%' is wrong value in class '%className%'</source>
-        <target state="needs-translation">'%actualValue%' is wrong value in class '%className%'</target>
+        <target state="translated">'%className%' クラスの '%actualValue%' は間違った値です</target>
         <note>key: '%actualValue%' is wrong value in class '%className%'</note>
         <jms:reference-file line="34">src/lib/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
