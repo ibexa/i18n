@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="03d6d5922fd2012e155e50306eaf98e2dfeb21c6" resname="search.section.any">
         <source>Any section</source>
-        <target state="needs-translation">Any section</target>
+        <target state="translated">すべてのセクション</target>
         <note>key: search.section.any</note>
       </trans-unit>
     </body>

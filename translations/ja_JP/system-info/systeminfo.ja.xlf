@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="ed1f723e05fbc74c1c90cfc6f64c2bcda6f4bb9d" resname="ibexa.eol">
         <source>End of Life</source>
-        <target state="needs-translation">End of Life</target>
+        <target state="translated">サポート終了</target>
         <note>key: ibexa.eol</note>
       </trans-unit>
       <trans-unit id="4a9e6f9b28c3203784cb5f01ebe73e67661cc823" resname="ibexa.eom">
         <source>End of Maintenance</source>
-        <target state="needs-translation">End of Maintenance</target>
+        <target state="translated">メンテナンス終了</target>
         <note>key: ibexa.eom</note>
       </trans-unit>
       <trans-unit id="804e14084add4426182add3b4a0a710506ef742b" resname="ibexa.is_trial">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="7dd1b2ca71037e00112dfe0297383f47c6904c77" resname="tab.name.ibexa">
         <source>My Ibexa</source>
-        <target state="needs-translation">My Ibexa</target>
+        <target state="translated">My Ibexa</target>
         <note>key: tab.name.ibexa</note>
       </trans-unit>
       <trans-unit id="b71f0d567a424182b8c83a6b90a262b29819241b" resname="tab.name.php">
