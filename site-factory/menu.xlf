@@ -22,8 +22,8 @@
         <note>key: header.list</note>
       </trans-unit>
       <trans-unit id="47856322d947e9bcd834a6c7b41f3a023411723d" resname="site_create__sidebar_right__cancel">
-        <source>Discard changes</source>
-        <target state="new">Discard changes</target>
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
         <note>key: site_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="06bb4a29b429451dbb7368369b146304b42a2cc3" resname="site_create__sidebar_right__save">
@@ -32,8 +32,8 @@
         <note>key: site_create__sidebar_right__save</note>
       </trans-unit>
       <trans-unit id="758ba56b267dfa19d3e22d15b9284129e4e6eb3b" resname="site_edit__sidebar_right__cancel">
-        <source>Discard changes</source>
-        <target state="new">Discard changes</target>
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
         <note>key: site_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="9867f89eb1630216334d72af9a6da78763e80ab6" resname="site_edit__sidebar_right__save">

@@ -11,6 +11,56 @@
         <target state="new">e-commerce</target>
         <note>key: breadcrumb.ecommerce</note>
       </trans-unit>
+      <trans-unit id="4efe2fe55f600d3f4f371aa0d02dfda50f285bda" resname="import_export.download_price.button">
+        <source>Download prices</source>
+        <target state="new">Download prices</target>
+        <note>key: import_export.download_price.button</note>
+      </trans-unit>
+      <trans-unit id="92e4fc275a2924b5a6cb3f1cf6b14583e894718d" resname="import_export.download_stock.button">
+        <source>Download stock</source>
+        <target state="new">Download stock</target>
+        <note>key: import_export.download_stock.button</note>
+      </trans-unit>
+      <trans-unit id="1c4f84911c3484cc227ec130b6b1111dd6fe5ce7" resname="import_export.search.button">
+        <source>Search</source>
+        <target state="new">Search</target>
+        <note>key: import_export.search.button</note>
+      </trans-unit>
+      <trans-unit id="d0a9dc00b98d9a28d9620f61ad4a1968a1daa200" resname="import_export.upload.file">
+        <source>Upload file</source>
+        <target state="new">Upload file</target>
+        <note>key: import_export.upload.file</note>
+      </trans-unit>
+      <trans-unit id="4293a143ead93d63181697ff77b22224d71e613d" resname="import_export.upload.info">
+        <source>Select a CSV file to import</source>
+        <target state="new">Select a CSV file to import</target>
+        <note>key: import_export.upload.info</note>
+      </trans-unit>
+      <trans-unit id="6714ddf2d068d5c816e9de2e6bc357d877a7c578" resname="import_export.upload.note">
+        <source>Note: It might take some time until the CSV file has been imported.</source>
+        <target state="new">Note: It might take some time until the CSV file has been imported.</target>
+        <note>key: import_export.upload.note</note>
+      </trans-unit>
+      <trans-unit id="08085ebe18a266bb43a80fb7a39656ee074d4374" resname="import_export.upload_price.button">
+        <source>Upload prices</source>
+        <target state="new">Upload prices</target>
+        <note>key: import_export.upload_price.button</note>
+      </trans-unit>
+      <trans-unit id="f28c451c8cbdfff329b23ebf7fcae5e5ee45c7d7" resname="import_export.upload_price.title">
+        <source>Upload new price list</source>
+        <target state="new">Upload new price list</target>
+        <note>key: import_export.upload_price.title</note>
+      </trans-unit>
+      <trans-unit id="4d7b48745842e85bb036c0b8a7b115e6b063ffbb" resname="import_export.upload_stock.button">
+        <source>Upload stock</source>
+        <target state="new">Upload stock</target>
+        <note>key: import_export.upload_stock.button</note>
+      </trans-unit>
+      <trans-unit id="0801784c9fa26bcff82bc9d3e886ec656dad36e3" resname="import_export.upload_stock.title">
+        <source>Upload new stock list</source>
+        <target state="new">Upload new stock list</target>
+        <note>key: import_export.upload_stock.title</note>
+      </trans-unit>
       <trans-unit id="863664ecbe5292359648c6ed5cff4fdf5378ed4b" resname="price_and_stock.price">
         <source>Price management</source>
         <target state="new">Price management</target>
@@ -30,6 +80,116 @@
         <source>Price and stock management</source>
         <target state="new">Price and stock management</target>
         <note>key: price_and_stock.title</note>
+      </trans-unit>
+      <trans-unit id="5960d500d74c4f539d30c8a6d23f7b781ac34fee" resname="price_management.add_price">
+        <source>Add price</source>
+        <target state="new">Add price</target>
+        <note>key: price_management.add_price</note>
+      </trans-unit>
+      <trans-unit id="827e0c73b985d0d1c73c918753475d588adf3e6a" resname="price_management.base_price">
+        <source>Base price</source>
+        <target state="new">Base price</target>
+        <note>key: price_management.base_price</note>
+      </trans-unit>
+      <trans-unit id="ebd2a49d04aa9f85526914138446a3a74d341035" resname="price_management.customer_group">
+        <source>Customer group</source>
+        <target state="new">Customer group</target>
+        <note>key: price_management.customer_group</note>
+      </trans-unit>
+      <trans-unit id="12a68ad36a50e95a745fe6deeb28b3dbd6cb8541" resname="price_management.delete_price.button">
+        <source>Delete price</source>
+        <target state="new">Delete price</target>
+        <note>key: price_management.delete_price.button</note>
+      </trans-unit>
+      <trans-unit id="42b96d2ed0ac4fcbc81b3cbde87ad32a2651aa4d" resname="price_management.offer_price">
+        <source>Offer price</source>
+        <target state="new">Offer price</target>
+        <note>key: price_management.offer_price</note>
+      </trans-unit>
+      <trans-unit id="8c61cfa34565ff704950cc228bee5b98e700d156" resname="price_management.save">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: price_management.save</note>
+      </trans-unit>
+      <trans-unit id="7e9100796092cda3d8b24a610e0c786d37aa5040" resname="price_management.sku">
+        <source>SKU</source>
+        <target state="new">SKU</target>
+        <note>key: price_management.sku</note>
+      </trans-unit>
+      <trans-unit id="b7d3f8c2a60e3713da7740c9740d2cb2f8da5e3b" resname="shipping.save">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: shipping.save</note>
+      </trans-unit>
+      <trans-unit id="662fdb1f211d6dbec0e6d2444e14ace35ac46510" resname="shipping.table.country">
+        <source>Country</source>
+        <target state="new">Country</target>
+        <note>key: shipping.table.country</note>
+      </trans-unit>
+      <trans-unit id="aa2451fd509c97bfca37096f01bed28adf18ca40" resname="shipping.table.currency">
+        <source>Currency</source>
+        <target state="new">Currency</target>
+        <note>key: shipping.table.currency</note>
+      </trans-unit>
+      <trans-unit id="eee8f9c5621f395e0f646cb9104a660af7960b9e" resname="shipping.table.shipping_cost">
+        <source>Shipping cost</source>
+        <target state="new">Shipping cost</target>
+        <note>key: shipping.table.shipping_cost</note>
+      </trans-unit>
+      <trans-unit id="8c74ef667f8b8d3c9d4196fb096ca7b707911fc2" resname="shipping.table.shipping_method">
+        <source>Shipping method</source>
+        <target state="new">Shipping method</target>
+        <note>key: shipping.table.shipping_method</note>
+      </trans-unit>
+      <trans-unit id="862f234b4891a5491553c5f3e7ed0154a425d49e" resname="shipping.table.state">
+        <source>State</source>
+        <target state="new">State</target>
+        <note>key: shipping.table.state</note>
+      </trans-unit>
+      <trans-unit id="c8fb7152c064c2597b7c551d76279520041a5d09" resname="shipping.table.title">
+        <source>Manage shipping costs</source>
+        <target state="new">Manage shipping costs</target>
+        <note>key: shipping.table.title</note>
+      </trans-unit>
+      <trans-unit id="29385a6c82a9d3ab9759aad1565bc9bdd3e38f9e" resname="shipping.table.value">
+        <source>Value of goods</source>
+        <target state="new">Value of goods</target>
+        <note>key: shipping.table.value</note>
+      </trans-unit>
+      <trans-unit id="77b74c11e52aea191d71dca583c6c66a5b3843f7" resname="shipping.table.zip">
+        <source>ZIP</source>
+        <target state="new">ZIP</target>
+        <note>key: shipping.table.zip</note>
+      </trans-unit>
+      <trans-unit id="86ce7e2c45b3d6a4bfcb5bfe18a2ab450c872aff" resname="shipping_management.add_shipping">
+        <source>Add</source>
+        <target state="new">Add</target>
+        <note>key: shipping_management.add_shipping</note>
+      </trans-unit>
+      <trans-unit id="a75dc4c2145855dd0841a5da02bf3714e6605d4e" resname="shipping_management.delete_shippment.button">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: shipping_management.delete_shippment.button</note>
+      </trans-unit>
+      <trans-unit id="231b0beb563e4e61f1608a88a4597f4ef262dfb3" resname="stock_management.on_stock">
+        <source>On stock</source>
+        <target state="new">On stock</target>
+        <note>key: stock_management.on_stock</note>
+      </trans-unit>
+      <trans-unit id="c647ca835347673e015c0fa527ba0a40bf7946f7" resname="stock_management.save">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: stock_management.save</note>
+      </trans-unit>
+      <trans-unit id="17aa5eb3fb62622b7e00d4f9bf7a84512307c79f" resname="stock_management.sku">
+        <source>SKU</source>
+        <target state="new">SKU</target>
+        <note>key: stock_management.sku</note>
+      </trans-unit>
+      <trans-unit id="b61bd861b86f97b578af8a4ba46c57567fc397f3" resname="stock_management.stock_text">
+        <source>Stock text</source>
+        <target state="new">Stock text</target>
+        <note>key: stock_management.stock_text</note>
       </trans-unit>
     </body>
   </file>
