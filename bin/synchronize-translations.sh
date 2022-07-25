@@ -50,6 +50,9 @@ packages[tree-builder]=vendor/ibexa/tree-builder/src/bundle/Resources/translatio
 packages[personalization]=vendor/ibexa/personalization/src/bundle/Resources/translations
 packages[calendar]=vendor/ibexa/calendar/src/bundle/Resources/translations
 packages[product-catalog]=vendor/ibexa/product-catalog/src/bundle/Resources/translations
+packages[corporate-account]=vendor/ibexa/corporate-account/src/bundle/Resources/translations
+packages[fieldtype-address]=vendor/ibexa/fieldtype-address/src/bundle/Resources/translations
+packages[measurement]=vendor/ibexa/measurement/src/bundle/Resources/translations
 
 for key in "${!packages[@]}";
 do
