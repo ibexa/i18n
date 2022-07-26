@@ -106,6 +106,16 @@
         <target state="translated">Subárbol</target>
         <note>key: policy.limitation.identifier.subtree</note>
       </trans-unit>
+      <trans-unit id="2a8670e5f91ad9a4cc0650d51c51afc8bd517494" resname="policy.limitation.identifier.taxonomy">
+        <source>Taxonomy</source>
+        <target state="needs-translation">Taxonomy</target>
+        <note>key: policy.limitation.identifier.taxonomy</note>
+      </trans-unit>
+      <trans-unit id="097f571a3c731c66c83230e465f4b3c9af811add" resname="policy.limitation.identifier.userpermissions">
+        <source>UserPermissions</source>
+        <target state="needs-translation">UserPermissions</target>
+        <note>key: policy.limitation.identifier.userpermissions</note>
+      </trans-unit>
       <trans-unit id="ae8d9836b92dd7d303929104953d877fa9c14fed" resname="policy.limitation.identifier.versionlock">
         <source>VersionLock</source>
         <target state="needs-translation">VersionLock</target>
