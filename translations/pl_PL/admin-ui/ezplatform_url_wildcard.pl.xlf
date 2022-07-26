@@ -61,11 +61,6 @@
         <target state="translated">Anuluj</target>
         <note>key: url_wildcard.modal.create.cancel</note>
       </trans-unit>
-      <trans-unit id="3b106aba8acc4b0b7bf7174a49b66ba9411d224a" resname="url_wildcard.modal.create.close">
-        <source>Close</source>
-        <target state="translated">Zamknij</target>
-        <note>key: url_wildcard.modal.create.close</note>
-      </trans-unit>
       <trans-unit id="75d2bf0fb2fc725c0e6909a48601346997114d22" resname="url_wildcard.modal.create.redirect">
         <source>Redirect to wildcard destination</source>
         <target state="needs-translation">Redirect to wildcard destination</target>
@@ -90,6 +85,16 @@
         <source>URL wildcard</source>
         <target state="needs-translation">URL wildcard</target>
         <note>key: url_wildcard.modal.create.url.wildcard</note>
+      </trans-unit>
+      <trans-unit id="d5f8b02988ca5a63f52253b3eec84f9cc8f799cd" resname="url_wildcard.search.placeholder">
+        <source>Search for URL wildcards</source>
+        <target state="needs-translation">Search for URL wildcards</target>
+        <note>key: url_wildcard.search.placeholder</note>
+      </trans-unit>
+      <trans-unit id="5646653e7d129c0a5c96b6b87e99eeb9d92a6fee" resname="url_wildcard.type.all">
+        <source>All</source>
+        <target state="needs-translation">All</target>
+        <note>key: url_wildcard.type.all</note>
       </trans-unit>
       <trans-unit id="a3115263bb80e6486cc16154e23fecd398c0b352" resname="url_wildcard.type.direct">
         <source>Direct</source>
