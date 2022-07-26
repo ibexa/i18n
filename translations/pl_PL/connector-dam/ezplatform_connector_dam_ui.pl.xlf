@@ -21,21 +21,6 @@
         <target state="needs-translation">Select from DAM</target>
         <note>key: fieldtype.ezimageasset.dam_select.label</note>
       </trans-unit>
-      <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
-        <source>Close</source>
-        <target state="needs-translation">Close</target>
-        <note>key: modal.close</note>
-      </trans-unit>
-      <trans-unit id="af3bcdfcdcd33a16838a6f2b88c845c92fcb0938" resname="pagination.back">
-        <source>Back</source>
-        <target state="needs-translation">Back</target>
-        <note>key: pagination.back</note>
-      </trans-unit>
-      <trans-unit id="b10157de76c0f57fa166904d97c06336e10559ca" resname="pagination.next">
-        <source>Next</source>
-        <target state="needs-translation">Next</target>
-        <note>key: pagination.next</note>
-      </trans-unit>
       <trans-unit id="3559d7accf00360971961ca18989adc0614089c0" resname="search">
         <source>Search</source>
         <target state="needs-translation">Search</target>
