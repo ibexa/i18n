@@ -6,10 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="745e494cf948637a3eb9f3a3d43454da0f063fbc" resname="anchor_navigation.back">
-        <source>Back</source>
-        <target state="needs-translation">Back</target>
-        <note>key: anchor_navigation.back</note>
+      <trans-unit id="9177237415bf4199961eb8de9353011a5b22a039" resname="anchor_navigation.close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+        <note>key: anchor_navigation.close</note>
       </trans-unit>
       <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
         <source>Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</source>
@@ -70,6 +70,11 @@
         <source>Username</source>
         <target state="translated">用戶名稱</target>
         <note>key: authentication.username</note>
+      </trans-unit>
+      <trans-unit id="b84cc93e7b7f2a9eb0be3e95db4ffde11a97a520" resname="back.to.top">
+        <source>Go to top</source>
+        <target state="needs-translation">Go to top</target>
+        <note>key: back.to.top</note>
       </trans-unit>
       <trans-unit id="4daaec218376e009b83ec7f46efed4f0db0bc776" resname="base.get_started">
         <source>Get started</source>
@@ -231,6 +236,11 @@
         <target state="needs-translation">Global properties</target>
         <note>key: content_type.view.edit.global_properties</note>
       </trans-unit>
+      <trans-unit id="a2f384a133f8c542cc8c7388d9115f62ae3c4234" resname="content_type.view.edit.search">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: content_type.view.edit.search</note>
+      </trans-unit>
       <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
         <source>Add new</source>
         <target state="needs-translation">Add new</target>
@@ -255,16 +265,6 @@
         <source>More</source>
         <target state="needs-translation">More</target>
         <note>key: content_type_selector.list.show_more</note>
-      </trans-unit>
-      <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
-        <source>Creating Content type</source>
-        <target state="needs-translation">Creating Content type</target>
-        <note>key: creating</note>
-      </trans-unit>
-      <trans-unit id="3e8769270428f8e66f5880d772f45e09d2c88aa0" resname="creating.title">
-        <source>New Content type</source>
-        <target state="needs-translation">New Content type</target>
-        <note>key: creating.title</note>
       </trans-unit>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
         <source>Create</source>
@@ -295,16 +295,6 @@
         <source>Search...</source>
         <target state="needs-translation">Search...</target>
         <note>key: dropdown.search</note>
-      </trans-unit>
-      <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
-        <source>Editing</source>
-        <target state="needs-translation">Editing</target>
-        <note>key: editing</note>
-      </trans-unit>
-      <trans-unit id="3103e1aed613987a16236d0f603f22ae48aa417b" resname="editing.title">
-        <source>Editing Content type %identifier%</source>
-        <target state="needs-translation">Editing Content type %identifier%</target>
-        <note>key: editing.title</note>
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
         <source><![CDATA[Contact your administrator to request access.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
@@ -448,6 +438,16 @@
         <target state="translated"><![CDATA[恭喜，您的密碼已更改，您現在可以<a href="%login%">登錄</a>eZ Platform。]]></target>
         <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
+      <trans-unit id="bd5ae6bdfe2b60c317c3b47f27c5bf5a264b71ba" resname="fieldview.toggler.hide">
+        <source>Hide</source>
+        <target state="needs-translation">Hide</target>
+        <note>key: fieldview.toggler.hide</note>
+      </trans-unit>
+      <trans-unit id="b42fcb4c20b25c6bf6a9144cde8df1167b915bb5" resname="fieldview.toggler.show">
+        <source>Show</source>
+        <target state="needs-translation">Show</target>
+        <note>key: fieldview.toggler.show</note>
+      </trans-unit>
       <trans-unit id="b469507c15ca085ba9753f60ab835f68cda9c725" resname="footer.copyright">
         <source><![CDATA[Copyright &copy; %year% Ibexa. All right reserved]]></source>
         <target state="needs-translation"><![CDATA[Copyright &copy; %year% Ibexa. All right reserved]]></target>
@@ -523,11 +523,6 @@
         <target state="translated">取消</target>
         <note>key: modal.cancel</note>
       </trans-unit>
-      <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
-        <source>Close</source>
-        <target state="translated">關閉</target>
-        <note>key: modal.close</note>
-      </trans-unit>
       <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete">
         <source>Delete</source>
         <target state="translated">刪除</target>
@@ -577,6 +572,11 @@
         <source>Do you want to delete the Object state group(s)?</source>
         <target state="needs-translation">Do you want to delete the Object state group(s)?</target>
         <note>key: object_state_group.modal.message</note>
+      </trans-unit>
+      <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
+        <source>None</source>
+        <target state="needs-translation">None</target>
+        <note>key: policy.limitation.none</note>
       </trans-unit>
       <trans-unit id="fda44832f6a675807e1bcd01460231f7117d9e1e" resname="policy.modal.message">
         <source>Do you want to delete the Policy?</source>
@@ -632,6 +632,11 @@
         <source>Delete</source>
         <target state="needs-translation">Delete</target>
         <note>key: section.delete</note>
+      </trans-unit>
+      <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list">
+        <source>Sections</source>
+        <target state="needs-translation">Sections</target>
+        <note>key: section.list</note>
       </trans-unit>
       <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
         <source>Do you want to delete the Section(s)?</source>
@@ -727,11 +732,6 @@
         <source>Cancel</source>
         <target state="translated">取消</target>
         <note>key: trash.form.cancel</note>
-      </trans-unit>
-      <trans-unit id="7f37e5f732ee7101a696a881cf22045bcd11359c" resname="trash.modal.close">
-        <source>Close</source>
-        <target state="translated">關閉</target>
-        <note>key: trash.modal.close</note>
       </trans-unit>
       <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
         <source>Do you want to delete the selected item(s) from Trash?</source>
