@@ -161,11 +161,6 @@
         <target state="translated">Nada</target>
         <note>key: matcher.none</note>
       </trans-unit>
-      <trans-unit id="c1881886ded5201f8e3995cfb4ab2cfe7637b329" resname="modal.transition.list.close_label">
-        <source>Close</source>
-        <target state="translated">Cerrar</target>
-        <note>key: modal.transition.list.close_label</note>
-      </trans-unit>
       <trans-unit id="3966df7d25826e3f6c5313b625810c1334559e7c" resname="modal.transition.list.title">
         <source>Event timeline</source>
         <target state="translated">Cronología del evento</target>
