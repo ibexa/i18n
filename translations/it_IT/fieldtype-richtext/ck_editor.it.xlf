@@ -11,6 +11,21 @@
         <target state="needs-translation">Anchor</target>
         <note>key: anchor_btn.label</note>
       </trans-unit>
+      <trans-unit id="18521c98ecdb47eba2ceee2926516d53f89b0e34" resname="block_alignment.center">
+        <source>Center</source>
+        <target state="needs-translation">Center</target>
+        <note>key: block_alignment.center</note>
+      </trans-unit>
+      <trans-unit id="8a9146b3a0aec35567929ab9e793312af26ce89b" resname="block_alignment.left">
+        <source>Left</source>
+        <target state="needs-translation">Left</target>
+        <note>key: block_alignment.left</note>
+      </trans-unit>
+      <trans-unit id="a371a27c4cfc05d751e69ac9c478c336e5bc9826" resname="block_alignment.right">
+        <source>Right</source>
+        <target state="needs-translation">Right</target>
+        <note>key: block_alignment.right</note>
+      </trans-unit>
       <trans-unit id="250e037cfe2d6e349e2da22428ac75e7559f1d66" resname="custom_attributes_btn.label">
         <source>Custom attributes</source>
         <target state="needs-translation">Custom attributes</target>
@@ -55,6 +70,16 @@
         <source>Remove</source>
         <target state="needs-translation">Remove</target>
         <note>key: remove_block.title</note>
+      </trans-unit>
+      <trans-unit id="e66c892cf81b07c5edd1419a197054defd635b77" resname="upload_image.message.error">
+        <source>Error while creating Image: %error%</source>
+        <target state="needs-translation">Error while creating Image: %error%</target>
+        <note>key: upload_image.message.error</note>
+      </trans-unit>
+      <trans-unit id="f01b358112531d97f1bcae5684c28ed1edbd4946" resname="upload_image_btn.label">
+        <source>Upload image</source>
+        <target state="needs-translation">Upload image</target>
+        <note>key: upload_image_btn.label</note>
       </trans-unit>
     </body>
   </file>
