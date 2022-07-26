@@ -146,6 +146,11 @@
         <target state="translated">Impostazione del profilo utente</target>
         <note>key: ibexa_personalization.scenario.user_profile_setting</note>
       </trans-unit>
+      <trans-unit id="48697d3cdd15ff4c2556b2234191d02514e1ed1d" resname="list.more_items">
+        <source>+%count% more</source>
+        <target state="needs-translation">+%count% more</target>
+        <note>key: list.more_items</note>
+      </trans-unit>
       <trans-unit id="9aba3f49645a0abdc34dc18ae35c8d63aad4a5a5" resname="model.details.nominal_submodel_name">
         <source>[ABC][%attribut_source%] %key%</source>
         <target state="needs-translation">[ABC][%attribut_source%] %key%</target>
@@ -186,10 +191,25 @@
         <target state="needs-translation">Apply</target>
         <note>key: model.edit.relevant_history.btn.label</note>
       </trans-unit>
+      <trans-unit id="bce5e42b9a06fa207cd9eae1c751b9a7be108ecd" resname="models.segments.sidebar.search">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: models.segments.sidebar.search</note>
+      </trans-unit>
+      <trans-unit id="3ae03074d84616dfe9ad9a31703780eeec26d148" resname="models.submodel.sidebar.search.placeholder">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: models.submodel.sidebar.search.placeholder</note>
+      </trans-unit>
       <trans-unit id="0a1edadd261d980d2b77d4e9c5a316e5d0b71a76" resname="preview.recommendation_response_description">
         <source>The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</source>
         <target state="needs-translation">The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</target>
         <note>key: preview.recommendation_response_description</note>
+      </trans-unit>
+      <trans-unit id="04a82a9f3d13db85aad2887c7b39464d8e520315" resname="product_type.edit.search">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: product_type.edit.search</note>
       </trans-unit>
       <trans-unit id="3e6d2ee994c937e372dd66650cf0a4e98dd6ef10" resname="scenario.edit.boost_item.enable">
         <source>Enable item boosting</source>
