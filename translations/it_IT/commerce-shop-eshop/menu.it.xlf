@@ -11,6 +11,11 @@
         <target state="needs-translation">Save</target>
         <note>key: ezcommerce_shop__configuration_settings__save</note>
       </trans-unit>
+      <trans-unit id="13f63d67c14f7599f2a2cd4fa1786f37fc2ed078" resname="main__commerce__components">
+        <source>Components</source>
+        <target state="needs-translation">Components</target>
+        <note>key: main__commerce__components</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
