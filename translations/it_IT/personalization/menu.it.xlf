@@ -31,6 +31,11 @@
         <target state="translated">Scenari</target>
         <note>key: main__personalization__scenarios</note>
       </trans-unit>
+      <trans-unit id="11617cd15d2e7484d395eb9d797a65e9c0ef0260" resname="model_edit__sidebar_right__close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+        <note>key: model_edit__sidebar_right__close</note>
+      </trans-unit>
       <trans-unit id="6bc82f75a31450fd71f04991c30b832ffadcc00d" resname="model_edit__sidebar_right__save">
         <source>Save</source>
         <target state="needs-translation">Save</target>
