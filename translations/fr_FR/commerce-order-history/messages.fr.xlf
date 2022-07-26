@@ -396,11 +396,6 @@
         <target state="needs-translation">You don't have the permission(s) to order.</target>
         <note>key: msg.no_order_permissions</note>
       </trans-unit>
-      <trans-unit id="eae55ec1f7b6f43a2a55d98c85d3995d2f5ade03" resname="orderhistory_introtext">
-        <source>orderhistory_introtext</source>
-        <target state="needs-translation">orderhistory_introtext</target>
-        <note>key: orderhistory_introtext</note>
-      </trans-unit>
       <trans-unit id="aa4c942a007e815802915bb5c309a3bdcbe97ca2" resname="order|orderhistory">
         <source>Order</source>
         <target state="translated">Commande</target>
