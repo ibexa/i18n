@@ -147,8 +147,8 @@
         <note>key: dashboard.summary.recommendation_calls</note>
       </trans-unit>
       <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
-        <source>Item bought</source>
-        <target state="needs-translation">Item bought</target>
+        <source>Item clicked</source>
+        <target state="needs-translation">Item clicked</target>
         <note>key: dashboard.title</note>
       </trans-unit>
       <trans-unit id="7abfc0a8a8b47b40e48b4f78f58a587eb45766d1" resname="dashboard.top_clicked_items">
@@ -156,10 +156,30 @@
         <target state="needs-translation">Top 10 clicked items</target>
         <note>key: dashboard.top_clicked_items</note>
       </trans-unit>
+      <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
+        <source>Delete</source>
+        <target state="needs-translation">Delete</target>
+        <note>key: delete</note>
+      </trans-unit>
       <trans-unit id="78a8e3b7dd2f680def2c3001ac5ed05abef54ec6" resname="form.scenario.model_data_type">
         <source>Data type</source>
         <target state="needs-translation">Data type</target>
         <note>key: form.scenario.model_data_type</note>
+      </trans-unit>
+      <trans-unit id="51d683957a12b255bd4271e217c0a76d808963f5" resname="form.scenario.model_data_type.default">
+        <source>Default</source>
+        <target state="needs-translation">Default</target>
+        <note>key: form.scenario.model_data_type.default</note>
+      </trans-unit>
+      <trans-unit id="747f4bf4dfbc7ae64341a20fd4ecef2fe61ef8e1" resname="form.scenario.model_data_type.segments">
+        <source>Segments</source>
+        <target state="needs-translation">Segments</target>
+        <note>key: form.scenario.model_data_type.segments</note>
+      </trans-unit>
+      <trans-unit id="e07be9755466b018865779ccff948b4e6afe5dfa" resname="form.scenario.model_data_type.submodels">
+        <source>Submodels</source>
+        <target state="needs-translation">Submodels</target>
+        <note>key: form.scenario.model_data_type.submodels</note>
       </trans-unit>
       <trans-unit id="317058113941ff04b87fb62ef09b7e9275875243" resname="ibexa_personalization.dashboard.date_of_purchase">
         <source>Date of purchase</source>
@@ -325,6 +345,16 @@
         <source>Editor content list</source>
         <target state="needs-translation">Editor content list</target>
         <note>key: model.edit.editorial_list.title</note>
+      </trans-unit>
+      <trans-unit id="096e2b47d3b740cb238ceab207486abbe7695182" resname="model.edit.submodels.sidebar.empty.img">
+        <source>Empty library</source>
+        <target state="needs-translation">Empty library</target>
+        <note>key: model.edit.submodels.sidebar.empty.img</note>
+      </trans-unit>
+      <trans-unit id="5e5e5275f63a9325fc326e4685483ee3414c1687" resname="model.edit.submodels.sidebar.empty.library">
+        <source>Your library is empty</source>
+        <target state="needs-translation">Your library is empty</target>
+        <note>key: model.edit.submodels.sidebar.empty.library</note>
       </trans-unit>
       <trans-unit id="a8899af243bce36b0b413f00c831ce657fee9f3d" resname="model.edit.submodels.sidebar.title">
         <source>Library</source>
@@ -1321,6 +1351,11 @@
         <target state="translated">Elenco editoriale</target>
         <note>key: models.name.alternative</note>
       </trans-unit>
+      <trans-unit id="db2f1d29c5c029e34e84c14c46c46a9005277a0d" resname="models.name.basket_history">
+        <source>Basket history</source>
+        <target state="needs-translation">Basket history</target>
+        <note>key: models.name.basket_history</note>
+      </trans-unit>
       <trans-unit id="a88057ab7a33faec55e54df9ca81d4fd2c871c1c" resname="models.name.bundle0">
         <source>Editorial list</source>
         <target state="translated">Elenco editoriale</target>
@@ -1455,6 +1490,16 @@
         <source>Editorial list</source>
         <target state="translated">Elenco editoriale</target>
         <note>key: models.name.editorial_list7</note>
+      </trans-unit>
+      <trans-unit id="2447c1ceefb19ea43079cb5db8ce9de1eed097f6" resname="models.name.editorial_list_2">
+        <source>Editorial list 2</source>
+        <target state="needs-translation">Editorial list 2</target>
+        <note>key: models.name.editorial_list_2</note>
+      </trans-unit>
+      <trans-unit id="35279f9c25bbf50c3d453d2e808162d4c68b5e5b" resname="models.name.editorial_list_3">
+        <source>Editorial list 3</source>
+        <target state="needs-translation">Editorial list 3</target>
+        <note>key: models.name.editorial_list_3</note>
       </trans-unit>
       <trans-unit id="9563a8394af7d9932ec7e0458981ced62eb430b5" resname="models.name.editorial_list_article">
         <source>Editorial list</source>
@@ -1866,6 +1911,21 @@
         <target state="needs-translation">Delete group</target>
         <note>key: models.segments.group.delete_btn.label</note>
       </trans-unit>
+      <trans-unit id="8b351b72f23e6898b79f286973620819848d9da4" resname="models.segments.group.empty.image_alt">
+        <source>Empty group, please drag some segments</source>
+        <target state="needs-translation">Empty group, please drag some segments</target>
+        <note>key: models.segments.group.empty.image_alt</note>
+      </trans-unit>
+      <trans-unit id="3a7b7235f65c05d2272574a6d45a9070554065e6" resname="models.segments.group.empty.label">
+        <source>Your group is empty</source>
+        <target state="needs-translation">Your group is empty</target>
+        <note>key: models.segments.group.empty.label</note>
+      </trans-unit>
+      <trans-unit id="d29516f86669674635c5374bac848996782b044c" resname="models.segments.group.empty.title">
+        <source>Drag and drop segments</source>
+        <target state="needs-translation">Drag and drop segments</target>
+        <note>key: models.segments.group.empty.title</note>
+      </trans-unit>
       <trans-unit id="5c701556dc21f0b151f5328fad45197b55f16fa2" resname="models.segments.segment.status.active">
         <source>active</source>
         <target state="needs-translation">active</target>
@@ -1875,6 +1935,16 @@
         <source>inactive</source>
         <target state="needs-translation">inactive</target>
         <note>key: models.segments.segment.status.inactive</note>
+      </trans-unit>
+      <trans-unit id="f3d714108e6a871e551229a2554d23866650d601" resname="models.segments.sidebar.empty.img">
+        <source>Empty library</source>
+        <target state="needs-translation">Empty library</target>
+        <note>key: models.segments.sidebar.empty.img</note>
+      </trans-unit>
+      <trans-unit id="d4493c6d02115cb70c02fb6bc2eb925917166184" resname="models.segments.sidebar.empty.library">
+        <source>Your library is empty</source>
+        <target state="needs-translation">Your library is empty</target>
+        <note>key: models.segments.sidebar.empty.library</note>
       </trans-unit>
       <trans-unit id="2ad765a509fbc5a1a3d96d9d835bd33ec8573114" resname="models.segments.sidebar.group.available">
         <source>Available</source>
@@ -1886,10 +1956,10 @@
         <target state="needs-translation">Not Available</target>
         <note>key: models.segments.sidebar.group.not_available</note>
       </trans-unit>
-      <trans-unit id="873ed8dbf34b1008d728d1e46334d52e4bd3edbc" resname="models.segments.sidebar.relevant_history.info">
-        <source>TODO</source>
-        <target state="needs-translation">TODO</target>
-        <note>key: models.segments.sidebar.relevant_history.info</note>
+      <trans-unit id="846000e1016638c20088263404dce033964c9ef1" resname="models.segments.sidebar.relevant_history_info">
+        <source>Selected timeframe %timeframe%</source>
+        <target state="needs-translation">Selected timeframe %timeframe%</target>
+        <note>key: models.segments.sidebar.relevant_history_info</note>
       </trans-unit>
       <trans-unit id="4d9ff4a137e3994603844a83342c8976e6f50856" resname="models.segments.sidebar.title">
         <source>Elements</source>
@@ -2077,8 +2147,8 @@
         <note>key: scenario.strategy.category_level_and_below</note>
       </trans-unit>
       <trans-unit id="3dbd0107cf6aa0fa0e3879a67983c54363337740" resname="scenario.strategy.discard">
-        <source>Discard</source>
-        <target state="translated">Scarta</target>
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
         <note>key: scenario.strategy.discard</note>
       </trans-unit>
       <trans-unit id="1ccee020b75348f4618bd5c3c6d664751ac85df9" resname="scenario.strategy.fail_safe">
@@ -2221,6 +2291,11 @@
         <target state="translated">Riempi valore attributo</target>
         <note>key: scenarios.preview.add_attribute_error</note>
       </trans-unit>
+      <trans-unit id="8ae07263a1d74e52a7813f04824c8a122c5da4e9" resname="scenarios.preview.copy_clipboard_error">
+        <source>Cannot copy the response due to browser limitations. Select and copy manually.</source>
+        <target state="needs-translation">Cannot copy the response due to browser limitations. Select and copy manually.</target>
+        <note>key: scenarios.preview.copy_clipboard_error</note>
+      </trans-unit>
       <trans-unit id="c7bc8b0d733191b7128bbbe79b1c883ae157c90c" resname="scenarios.table_title">
         <source>List (%number_of_scenarios%)</source>
         <target state="needs-translation">List (%number_of_scenarios%)</target>
@@ -2235,6 +2310,11 @@
         <source>Save</source>
         <target state="translated">Salva</target>
         <note>key: settings.form.submit</note>
+      </trans-unit>
+      <trans-unit id="09973b1c84a811003e4feb8789f4c6c2d066c82c" resname="targeted_scenario_map.no_configuration">
+        <source>No segments defined. Create Segments in the Admin panel to use this block.</source>
+        <target state="needs-translation">No segments defined. Create Segments in the Admin panel to use this block.</target>
+        <note>key: targeted_scenario_map.no_configuration</note>
       </trans-unit>
       <trans-unit id="4211a967e3d409c7706659ececa942e83ea4475d" resname="welcome.description.leverage_personalization">
         <source>Unified digital experiences can't be supported by data silos. Enrich your customer data by integrating Ibexa Personalization capabilities with existing business systems to boost the power of your personalized customer experiences.</source>
