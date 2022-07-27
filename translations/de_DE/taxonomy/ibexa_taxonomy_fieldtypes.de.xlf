@@ -16,6 +16,11 @@
         <target state="needs-translation">Select parent</target>
         <note>key: taxonomy.select_parent</note>
       </trans-unit>
+      <trans-unit id="34023a9634f0e572d296b2de5a70c960c8c12e27" resname="taxonomy.tag.content.modal.subtitle">
+        <source>in %languageName%</source>
+        <target state="needs-translation">in %languageName%</target>
+        <note>key: taxonomy.tag.content.modal.subtitle</note>
+      </trans-unit>
       <trans-unit id="dddc97c66d483ea17123c23accf45f2dcb0ac930" resname="taxonomy.tag.content.modal.title">
         <source>Select Taxonomy Entries</source>
         <target state="needs-translation">Select Taxonomy Entries</target>

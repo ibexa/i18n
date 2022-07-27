@@ -21,11 +21,6 @@
         <target state="translated">キャンセル</target>
         <note>key: modal.cancel</note>
       </trans-unit>
-      <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
-        <source>Close</source>
-        <target state="needs-translation">Close</target>
-        <note>key: modal.close</note>
-      </trans-unit>
       <trans-unit id="c794d1017650675a9547beb7ed1f3ee4c479ff86" resname="unassign.modal.message">
         <source>Unassign</source>
         <target state="needs-translation">Unassign</target>

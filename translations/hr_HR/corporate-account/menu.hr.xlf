@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="hr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="80847555b752ce9f3f6a7301b39fdee350562a28" resname="corporate_website__account_settings">
+        <source>Settings</source>
+        <target state="needs-translation">Settings</target>
+        <note>key: corporate_website__account_settings</note>
+      </trans-unit>
+      <trans-unit id="7144f9ecda8caa9815d0d41e1f1b4eba6ca3aef3" resname="corporate_website__account_settings__my_profile">
+        <source>My Profile</source>
+        <target state="needs-translation">My Profile</target>
+        <note>key: corporate_website__account_settings__my_profile</note>
+      </trans-unit>
+      <trans-unit id="72d8881c67199d4ce13cac3d12a818879f3c6353" resname="corporate_website__dashboard">
+        <source>Dashboard</source>
+        <target state="needs-translation">Dashboard</target>
+        <note>key: corporate_website__dashboard</note>
+      </trans-unit>
+      <trans-unit id="2cf7e8cbbba58752a2417e0ea57005c2a05e5aa5" resname="corporate_website__order_management">
+        <source>Order Management</source>
+        <target state="needs-translation">Order Management</target>
+        <note>key: corporate_website__order_management</note>
+      </trans-unit>
+      <trans-unit id="997c7040e594aefb3eaae32a14bc037bf94fdb7b" resname="corporate_website__order_management__past_orders">
+        <source>Past Orders</source>
+        <target state="needs-translation">Past Orders</target>
+        <note>key: corporate_website__order_management__past_orders</note>
+      </trans-unit>
+      <trans-unit id="32d5f00d560bf292cef296626ce6d59a2b29562c" resname="corporate_website__order_management__pending_orders">
+        <source>Pending Order</source>
+        <target state="needs-translation">Pending Order</target>
+        <note>key: corporate_website__order_management__pending_orders</note>
+      </trans-unit>
+      <trans-unit id="8479106567b86ca28c4cfc840046f5763a9f02a0" resname="corporate_website__organization">
+        <source>Organization</source>
+        <target state="needs-translation">Organization</target>
+        <note>key: corporate_website__organization</note>
+      </trans-unit>
+      <trans-unit id="bfa3e4b1d0b983f21a2ffe3913ca39d907fe6919" resname="corporate_website__organization__address_book">
+        <source>Address Book</source>
+        <target state="needs-translation">Address Book</target>
+        <note>key: corporate_website__organization__address_book</note>
+      </trans-unit>
+      <trans-unit id="ef4ac4528889734283c413550f6472ecf182b1c8" resname="corporate_website__organization__contact">
+        <source>Contact</source>
+        <target state="needs-translation">Contact</target>
+        <note>key: corporate_website__organization__contact</note>
+      </trans-unit>
+      <trans-unit id="cf41be49972a64a2d2fe870d76bfe07c0940d602" resname="corporate_website__organization__members">
+        <source>Members</source>
+        <target state="needs-translation">Members</target>
+        <note>key: corporate_website__organization__members</note>
+      </trans-unit>
+      <trans-unit id="1268cef29e1976872a40640cfa1f845bc11c7995" resname="main__content__corporateaccount">
+        <source>Corporate</source>
+        <target state="needs-translation">Corporate</target>
+        <note>key: main__content__corporateaccount</note>
+      </trans-unit>
+      <trans-unit id="f0f9efa7cb6f487bb8a15f6e4b81991e5447c99a" resname="main__corporateaccount">
+        <source>Customers</source>
+        <target state="needs-translation">Customers</target>
+        <note>key: main__corporateaccount</note>
+      </trans-unit>
+      <trans-unit id="de510ce299f61480d5fba13e1f98ecb5b309f22d" resname="main__corporateaccount__companies">
+        <source>Companies</source>
+        <target state="needs-translation">Companies</target>
+        <note>key: main__corporateaccount__companies</note>
+      </trans-unit>
+      <trans-unit id="a16131f7937e64e52a0373077db79502c9cba327" resname="main__corporateaccount__individuals">
+        <source>Individuals</source>
+        <target state="needs-translation">Individuals</target>
+        <note>key: main__corporateaccount__individuals</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

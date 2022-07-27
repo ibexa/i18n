@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="37004803f895915f0b2251d93489ddd4471fb639" resname="corporate_account.invite_members.submit">
+        <source>Send</source>
+        <target state="needs-translation">Send</target>
+        <note>key: corporate_account.invite_members.submit</note>
+      </trans-unit>
+      <trans-unit id="f938e848fa6c25d45263ada27ca43832057f94de" resname="role.policy.corporate_account">
+        <source>Corporate Account</source>
+        <target state="needs-translation">Corporate Account</target>
+        <note>key: role.policy.corporate_account</note>
+      </trans-unit>
+      <trans-unit id="1fed374e8a15282056cd5fec354ca5a76fee47f4" resname="role.policy.corporate_account.all_functions">
+        <source>Corporate Account / All functions</source>
+        <target state="needs-translation">Corporate Account / All functions</target>
+        <note>key: role.policy.corporate_account.all_functions</note>
+      </trans-unit>
+      <trans-unit id="1ae2fe0d3b79c36625831e7f1788ab00dcccfbc7" resname="role.policy.corporate_account.edit">
+        <source>Corporate Account / Edit</source>
+        <target state="needs-translation">Corporate Account / Edit</target>
+        <note>key: role.policy.corporate_account.edit</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

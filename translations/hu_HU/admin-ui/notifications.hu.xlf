@@ -11,11 +11,6 @@
         <target state="final">Értesítések megtekintése</target>
         <note>key: menu.notification</note>
       </trans-unit>
-      <trans-unit id="eb06b630bdbe8797de235f738a47ccc5b824aa2c" resname="notification.close">
-        <source>Close</source>
-        <target state="needs-translation">Close</target>
-        <note>key: notification.close</note>
-      </trans-unit>
       <trans-unit id="fc349b70133a7a68cae9be363e112ee397044b6a" resname="notification.date" approved="yes">
         <source>Date</source>
         <target state="final">Dátum</target>

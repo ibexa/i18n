@@ -76,11 +76,6 @@
         <target state="needs-translation">Currency</target>
         <note>key: dashboard.filters.currency</note>
       </trans-unit>
-      <trans-unit id="71b03b223ed97f852a8f19acd070a320adedb5c0" resname="dashboard.filters.shop_id">
-        <source>Shop</source>
-        <target state="needs-translation">Shop</target>
-        <note>key: dashboard.filters.shop_id</note>
-      </trans-unit>
       <trans-unit id="4e525e87cbe863431e4c34645e5d5e2c215fe2e4" resname="dashboard.page_title">
         <source>Dashboard</source>
         <target state="needs-translation">Dashboard</target>
@@ -160,11 +155,6 @@
         <source>See all</source>
         <target state="needs-translation">See all</target>
         <note>key: dashboard.table.see_all</note>
-      </trans-unit>
-      <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
-        <source>Search...</source>
-        <target state="needs-translation">Search...</target>
-        <note>key: dropdown.search</note>
       </trans-unit>
     </body>
   </file>

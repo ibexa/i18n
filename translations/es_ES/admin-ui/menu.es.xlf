@@ -36,6 +36,11 @@
         <target state="translated">Ocultar</target>
         <note>key: content__sidebar_right__hide</note>
       </trans-unit>
+      <trans-unit id="1c34612eb7cf79bac694e81bbc563388bfa3b2bd" resname="content__sidebar_right__invite">
+        <source>Invite members</source>
+        <target state="needs-translation">Invite members</target>
+        <note>key: content__sidebar_right__invite</note>
+      </trans-unit>
       <trans-unit id="522a7eb05659ac849a762954effc22db818b8323" resname="content__sidebar_right__move">
         <source>Move</source>
         <target state="translated">Mover</target>

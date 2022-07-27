@@ -52,8 +52,8 @@
         <note>key: block.settings</note>
       </trans-unit>
       <trans-unit id="27557cc8101e53aa465cdb6d32850673a348e953" resname="block_filter.placeholder">
-        <source>Type to refine</source>
-        <target state="needs-translation">Type to refine</target>
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
         <note>key: block_filter.placeholder</note>
       </trans-unit>
       <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title" approved="yes">
@@ -75,11 +75,6 @@
         <source>Close</source>
         <target state="final">Zamknij</target>
         <note>key: config_popup.close.label</note>
-      </trans-unit>
-      <trans-unit id="21da7339cc717191e4d452b11e10da9fd1f6df1e" resname="date_picker.clear">
-        <source>Clear</source>
-        <target state="needs-translation">Clear</target>
-        <note>key: date_picker.clear</note>
       </trans-unit>
       <trans-unit id="195a806c1a0668adbea700cd92ec432cd9e08854" resname="date_picker.label">
         <source>Date and time</source>

@@ -11,6 +11,26 @@
         <target state="needs-translation">Add tag</target>
         <note>key: actions.add_tag</note>
       </trans-unit>
+      <trans-unit id="889369be997d6cf2613f63676325686fab94a40a" resname="actions.assign_content">
+        <source>Assign content</source>
+        <target state="needs-translation">Assign content</target>
+        <note>key: actions.assign_content</note>
+      </trans-unit>
+      <trans-unit id="797e24e7a73079f289590fd5e7166f89a8a5465e" resname="actions.assign_content.success.multi">
+        <source>Content has been assigned to taxonomy entries</source>
+        <target state="needs-translation">Content has been assigned to taxonomy entries</target>
+        <note>key: actions.assign_content.success.multi</note>
+      </trans-unit>
+      <trans-unit id="48a83d467fdf8ed99dc31500d6505fd4778def20" resname="actions.assign_content.success.single">
+        <source>Content has been assigned to taxonomy entry</source>
+        <target state="needs-translation">Content has been assigned to taxonomy entry</target>
+        <note>key: actions.assign_content.success.single</note>
+      </trans-unit>
+      <trans-unit id="e36eccf86448a501b47f6ed5e7ff19d844cf8165" resname="actions.error.message">
+        <source>An unexpected error occurred while assigning Content. Please try again later.</source>
+        <target state="needs-translation">An unexpected error occurred while assigning Content. Please try again later.</target>
+        <note>key: actions.error.message</note>
+      </trans-unit>
       <trans-unit id="82b99022c6db1687cf5f107480befe184f19f4af" resname="taxonomy.1">
         <source>1</source>
         <target state="needs-translation">1</target>
@@ -25,6 +45,11 @@
         <source>Your tree is empty. Start creating your structure</source>
         <target state="translated">Votre arborescence est vide. Commencez à créer votre structure</target>
         <note>key: taxonomy.empty</note>
+      </trans-unit>
+      <trans-unit id="771c94ace72afc3a0024fb33ef5330167e976592" resname="taxonomy.in_language">
+        <source>in %languageName%</source>
+        <target state="needs-translation">in %languageName%</target>
+        <note>key: taxonomy.in_language</note>
       </trans-unit>
       <trans-unit id="0b0b119122a9d44a527f0561f29fe03690512411" resname="taxonomy.not_translated_info">
         <source>Not translated in %languageName% language</source>

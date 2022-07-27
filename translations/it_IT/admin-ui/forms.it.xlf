@@ -161,6 +161,36 @@
         <target state="translated">Tutti i moduli / Tutte le funzioni</target>
         <note>key: role.policy.all_modules_all_functions</note>
       </trans-unit>
+      <trans-unit id="517e3666a759ee26e02fcc468446ef39b3ae9bf0" resname="role.policy.catalog">
+        <source>Catalog</source>
+        <target state="needs-translation">Catalog</target>
+        <note>key: role.policy.catalog</note>
+      </trans-unit>
+      <trans-unit id="f0db798b7ae5b93b395d0f688ea80784faddcd6b" resname="role.policy.catalog.all_functions">
+        <source>Catalog / All functions</source>
+        <target state="needs-translation">Catalog / All functions</target>
+        <note>key: role.policy.catalog.all_functions</note>
+      </trans-unit>
+      <trans-unit id="9bab6251a421ba09e54114cd858abdc9a2a59f55" resname="role.policy.catalog.create">
+        <source>Catalog / Create</source>
+        <target state="needs-translation">Catalog / Create</target>
+        <note>key: role.policy.catalog.create</note>
+      </trans-unit>
+      <trans-unit id="6844731afb7e5c4fc7414f157749ca064a82d798" resname="role.policy.catalog.delete">
+        <source>Catalog / Delete</source>
+        <target state="needs-translation">Catalog / Delete</target>
+        <note>key: role.policy.catalog.delete</note>
+      </trans-unit>
+      <trans-unit id="f3f6d817abf52411d94909850040df8aebaf2c03" resname="role.policy.catalog.edit">
+        <source>Catalog / Edit</source>
+        <target state="needs-translation">Catalog / Edit</target>
+        <note>key: role.policy.catalog.edit</note>
+      </trans-unit>
+      <trans-unit id="d9ced925ac206beb427c609d73e8adefb43346fb" resname="role.policy.catalog.view">
+        <source>Catalog / View</source>
+        <target state="needs-translation">Catalog / View</target>
+        <note>key: role.policy.catalog.view</note>
+      </trans-unit>
       <trans-unit id="f52e45b25ff70b3d1d07c57911ceda58dcdf7431" resname="role.policy.class">
         <source>Content Type</source>
         <target state="translated">Tipo Di Contenuto</target>
@@ -325,6 +355,21 @@
         <source>Content / View embed</source>
         <target state="translated">Contenuto / Vista incorporato</target>
         <note>key: role.policy.content.view_embed</note>
+      </trans-unit>
+      <trans-unit id="f938e848fa6c25d45263ada27ca43832057f94de" resname="role.policy.corporate_account">
+        <source>Corporate account</source>
+        <target state="needs-translation">Corporate account</target>
+        <note>key: role.policy.corporate_account</note>
+      </trans-unit>
+      <trans-unit id="1fed374e8a15282056cd5fec354ca5a76fee47f4" resname="role.policy.corporate_account.all_functions">
+        <source>Corporate account / All functions</source>
+        <target state="needs-translation">Corporate account / All functions</target>
+        <note>key: role.policy.corporate_account.all_functions</note>
+      </trans-unit>
+      <trans-unit id="1ae2fe0d3b79c36625831e7f1788ab00dcccfbc7" resname="role.policy.corporate_account.edit">
+        <source>Corporate account / Edit</source>
+        <target state="needs-translation">Corporate account / Edit</target>
+        <note>key: role.policy.corporate_account.edit</note>
       </trans-unit>
       <trans-unit id="db177b099d9b5b0999743c67123b420af739ada4" resname="role.policy.customer_group">
         <source>Customer group</source>
@@ -873,6 +918,31 @@
         <target state="translated">Stato / Assegna</target>
         <note>key: role.policy.state.assign</note>
       </trans-unit>
+      <trans-unit id="09e66e3a8de58ced5f11c3a3dc13d67d34161649" resname="role.policy.taxonomy">
+        <source>Taxonomy</source>
+        <target state="needs-translation">Taxonomy</target>
+        <note>key: role.policy.taxonomy</note>
+      </trans-unit>
+      <trans-unit id="23e2b7f5cc00d969e8cbef26811936db1f81f87f" resname="role.policy.taxonomy.all_functions">
+        <source>Taxonomy / All functions</source>
+        <target state="needs-translation">Taxonomy / All functions</target>
+        <note>key: role.policy.taxonomy.all_functions</note>
+      </trans-unit>
+      <trans-unit id="6c2f7edbbe16af3e02ebfb408e93437c3f8866c9" resname="role.policy.taxonomy.assign">
+        <source>Taxonomy / Assign</source>
+        <target state="needs-translation">Taxonomy / Assign</target>
+        <note>key: role.policy.taxonomy.assign</note>
+      </trans-unit>
+      <trans-unit id="5b13c93c0cef722a74869da8c9812912d428d013" resname="role.policy.taxonomy.manage">
+        <source>Taxonomy / Manage</source>
+        <target state="needs-translation">Taxonomy / Manage</target>
+        <note>key: role.policy.taxonomy.manage</note>
+      </trans-unit>
+      <trans-unit id="c18671d83b75ebd3906cd49041ec70414a0ba455" resname="role.policy.taxonomy.read">
+        <source>Taxonomy / Read</source>
+        <target state="needs-translation">Taxonomy / Read</target>
+        <note>key: role.policy.taxonomy.read</note>
+      </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Policy</source>
         <target state="translated">Politica</target>
@@ -917,6 +987,11 @@
         <source>User / All functions</source>
         <target state="translated">Utente / Tutte le funzioni</target>
         <note>key: role.policy.user.all_functions</note>
+      </trans-unit>
+      <trans-unit id="587199065d14880416b8061b73788e731a201c27" resname="role.policy.user.invite">
+        <source>User / Invite</source>
+        <target state="needs-translation">User / Invite</target>
+        <note>key: role.policy.user.invite</note>
       </trans-unit>
       <trans-unit id="f25505dc2f59df21e3125664c4fdad951d82df3b" resname="role.policy.user.login">
         <source>User / Login</source>
@@ -1102,6 +1177,11 @@
         <source>Delete permanently</source>
         <target state="translated">Elimina permanentemente</target>
         <note>key: trash_empty_form.empty</note>
+      </trans-unit>
+      <trans-unit id="4d530164d6f917754a1625bae48c2a323197ac7a" resname="user.invitation.submit">
+        <source>Send</source>
+        <target state="needs-translation">Send</target>
+        <note>key: user.invitation.submit</note>
       </trans-unit>
       <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete">
         <source>Delete</source>

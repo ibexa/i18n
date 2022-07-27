@@ -338,16 +338,6 @@
         <target state="translated">Confronto</target>
         <note>key: Comparison</note>
       </trans-unit>
-      <trans-unit id="9289473eeedaee09d76c8cf1b6994d8550debf46" resname="Components">
-        <source>Components</source>
-        <target state="translated">Componenti</target>
-        <note>key: Components</note>
-      </trans-unit>
-      <trans-unit id="fea267da4cb15e9467e6a19b1d5cffdd628a294e" resname="Configuration Settings">
-        <source>Configuration Settings</source>
-        <target state="translated">Impostazioni Di Configurazione</target>
-        <note>key: Configuration Settings</note>
-      </trans-unit>
       <trans-unit id="b37456c4530be810dc040f50da72eda09addfb0a" resname="Contact">
         <source>Contact</source>
         <target state="translated">Contatto</target>
@@ -1889,11 +1879,6 @@
         <target state="translated">Applica</target>
         <note>key: apply|search</note>
       </trans-unit>
-      <trans-unit id="f568e56f032761f7dfd5e8865281b21ac036e818" resname="bestsellers_intro_text">
-        <source>bestsellers_intro_text</source>
-        <target state="translated">testo introduttivo dei bestseller</target>
-        <note>key: bestsellers_intro_text</note>
-      </trans-unit>
       <trans-unit id="df88b84d816d3358b3793a61b73d80e93913e627" resname="blocked">
         <source>User account is blocked</source>
         <target state="translated">L'account utente è bloccato</target>
@@ -2006,11 +1991,6 @@
         <target state="needs-translation">RMA</target>
         <note>key: common.rma_header</note>
       </trans-unit>
-      <trans-unit id="e83a73a2d7378cbb35f3d4a33353b497a08297ab" resname="common.rma_intro_text">
-        <source>common.rma_intro_text</source>
-        <target state="needs-translation">common.rma_intro_text</target>
-        <note>key: common.rma_intro_text</note>
-      </trans-unit>
       <trans-unit id="d945ec7f97b66c0e45076a568da5c2d6f2a5e505" resname="common.silver_forms.address_create">
         <source>Add Address</source>
         <target state="translated">Aggiungi Indirizzo</target>
@@ -2076,11 +2056,6 @@
         <target state="needs-translation">RMA</target>
         <note>key: common.silver_forms.rma</note>
       </trans-unit>
-      <trans-unit id="97eff35eb97cc147304290ce84b512e0d1d56326" resname="common.silver_module">
-        <source>common.silver_module</source>
-        <target state="needs-translation">common.silver_module</target>
-        <note>key: common.silver_module</note>
-      </trans-unit>
       <trans-unit id="48896dd521c599ee78a2e8fbeb05c2d8a63017d6" resname="common.silversolutions_address_book_list">
         <source>Address Book</source>
         <target state="translated">Rubrica Indirizzi</target>
@@ -2095,11 +2070,6 @@
         <source>Subscribe to our newsletter now!</source>
         <target state="translated">Iscriviti subito alla nostra newsletter!</target>
         <note>key: common.subscribe_newsletter_header</note>
-      </trans-unit>
-      <trans-unit id="37fa1c9c05d93ad60204f91b3452b9b5d826a5e8" resname="common.subscribe_newsletter_intro">
-        <source>common.subscribe_newsletter_intro</source>
-        <target state="needs-translation">common.subscribe_newsletter_intro</target>
-        <note>key: common.subscribe_newsletter_intro</note>
       </trans-unit>
       <trans-unit id="803dba91ef8df71bcf9bf036ed53aeab91aaadfa" resname="common.unsubscribe_newsletter">
         <source>Unsubscribe from newsletter</source>
@@ -2135,11 +2105,6 @@
         <source>Local price engine</source>
         <target state="translated">Motore di prezzo locale</target>
         <note>key: configuration_settings.field.array.option.shop</note>
-      </trans-unit>
-      <trans-unit id="be0205dccbb91824c4d736cbe132956237f92242" resname="contact_intro_text">
-        <source>contact_intro_text</source>
-        <target state="translated">contatto testo introduttivo</target>
-        <note>key: contact_intro_text</note>
       </trans-unit>
       <trans-unit id="9f25f7e3ba97910fb4e06611759890de9f3bf566" resname="content_fields.external_data.data.label">
         <source>Data</source>
@@ -2201,20 +2166,10 @@
         <target state="translated">Compila il modulo per creare un nuovo indirizzo di consegna.</target>
         <note>key: create_delivery_address_intro_text</note>
       </trans-unit>
-      <trans-unit id="aabd7393a241dbadbd20e2ebcf8892b732ddcfeb" resname="data_privacy_hint">
-        <source>data_privacy_hint</source>
-        <target state="translated">suggerimento sulla privacy dei dati</target>
-        <note>key: data_privacy_hint</note>
-      </trans-unit>
       <trans-unit id="1e0b597ec3c978f2594da8a76749d108b8ef8597" resname="day(s)">
         <source>day(s)</source>
         <target state="translated">giorno(i)</target>
         <note>key: day(s)</note>
-      </trans-unit>
-      <trans-unit id="3fde2cccf0af20c39f8e7c6d00fff8e29cdb4414" resname="eCommerce">
-        <source>eCommerce</source>
-        <target state="needs-translation">eCommerce</target>
-        <note>key: eCommerce</note>
       </trans-unit>
       <trans-unit id="44ce9400772fa914663567870ecc658181c630db" resname="edit_delivery_address_intro_text">
         <source>Please change the required fields</source>
@@ -2255,6 +2210,11 @@
         <source>Hide facets</source>
         <target state="translated">Nascondi sfaccettature</target>
         <note>key: hide_facets|search</note>
+      </trans-unit>
+      <trans-unit id="36f977ff2beda2bb373140f56bd228acdc8f4a80" resname="ibexa.page_builder.content.preview|breadcrumb">
+        <source>Preview in Page Builder</source>
+        <target state="needs-translation">Preview in Page Builder</target>
+        <note>key: ibexa.page_builder.content.preview|breadcrumb</note>
       </trans-unit>
       <trans-unit id="fdb6e1bfedc82b77216a18760f68a9350241bdb0" resname="info.current_customer_data">
         <source>Current customer information after delegate</source>
@@ -2370,11 +2330,6 @@
         <source>Order/invoice number, concerned products (article number)</source>
         <target state="translated">Numero ordine / fattura, prodotti interessati (numero articolo)</target>
         <note>key: label.product_skus</note>
-      </trans-unit>
-      <trans-unit id="5cc49cce55fecdc49625d7e77f92649411833b98" resname="label.rate_review">
-        <source>Rate and Review Panel</source>
-        <target state="translated">Pannello di valutazione e revisione</target>
-        <note>key: label.rate_review</note>
       </trans-unit>
       <trans-unit id="5b9ff82a076e9f61e1a05d285bb76147998cd4d3" resname="label.real_customer_number">
         <source>Your own customer number</source>
@@ -2636,11 +2591,6 @@
         <target state="translated">altri</target>
         <note>key: other</note>
       </trans-unit>
-      <trans-unit id="803bf8987e9a8ed85e90023ea3134d29c3172e7f" resname="page_builder_content_preview|breadcrumb">
-        <source>Preview in Page Builder</source>
-        <target state="translated">Anteprima nel Page Builder</target>
-        <note>key: page_builder_content_preview|breadcrumb</note>
-      </trans-unit>
       <trans-unit id="08637f646cdd5b4bf8faec641fa065b45b00a258" resname="please choose">
         <source>please choose</source>
         <target state="translated">per favore scegli</target>
@@ -2765,11 +2715,6 @@
         <source>Remove address</source>
         <target state="needs-translation">Remove address</target>
         <note>key: profile.data.button.trash</note>
-      </trans-unit>
-      <trans-unit id="49d53daa0498e9b68995714269155bc3a3290631" resname="quickorder_introtext">
-        <source>quickorder_introtext</source>
-        <target state="needs-translation">quickorder_introtext</target>
-        <note>key: quickorder_introtext</note>
       </trans-unit>
       <trans-unit id="b21253fc64bff1f43c721f5435f95d32d9b69895" resname="remove_this_group|search">
         <source>Remove this group</source>

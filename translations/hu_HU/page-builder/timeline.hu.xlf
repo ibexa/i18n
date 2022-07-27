@@ -61,6 +61,16 @@
         <target state="needs-translation">View</target>
         <note>key: timeline.schedule.config_panel.view</note>
       </trans-unit>
+      <trans-unit id="1110185ea564e8ec2566f1e060a3470a8f40b917" resname="timeline.schedule.config_panel.view_switcher.calendar_view">
+        <source>Calendar</source>
+        <target state="needs-translation">Calendar</target>
+        <note>key: timeline.schedule.config_panel.view_switcher.calendar_view</note>
+      </trans-unit>
+      <trans-unit id="69115608d5dab8c597d7749727bbe533055c7d55" resname="timeline.schedule.config_panel.view_switcher.list_view">
+        <source>List</source>
+        <target state="needs-translation">List</target>
+        <note>key: timeline.schedule.config_panel.view_switcher.list_view</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

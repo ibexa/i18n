@@ -76,11 +76,6 @@
         <target state="needs-translation">-</target>
         <note>key: site.list.no_sites</note>
       </trans-unit>
-      <trans-unit id="3b47022140f30bddcdb94c9a70d40cb28f2a4c29" resname="site.list.view">
-        <source>View</source>
-        <target state="needs-translation">View</target>
-        <note>key: site.list.view</note>
-      </trans-unit>
       <trans-unit id="f2f1dd53787cf1ab3289b6c1f1aa4c9b0ead41e4" resname="site.locked">
         <source>Edit the site in config files</source>
         <target state="translated">Editar la página en configuración de archivos</target>
@@ -120,6 +115,11 @@
         <source>Delete</source>
         <target state="needs-translation">Delete</target>
         <note>key: site.view.delete</note>
+      </trans-unit>
+      <trans-unit id="29a25045cc2d91fa13ec36cff92985570ae4ba43" resname="site.view_switcher.view">
+        <source>View</source>
+        <target state="needs-translation">View</target>
+        <note>key: site.view_switcher.view</note>
       </trans-unit>
     </body>
   </file>
