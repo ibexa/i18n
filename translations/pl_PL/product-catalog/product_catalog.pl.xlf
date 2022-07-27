@@ -423,12 +423,12 @@
       </trans-unit>
       <trans-unit id="bf5aa853e6a69d10cb9f9b54300037f49afb782f" resname="catalog.edit.add_filter">
         <source>Add filter</source>
-        <target state="needs-translation">Add filter</target>
+        <target state="translated">Dodaj filtr</target>
         <note>key: catalog.edit.add_filter</note>
       </trans-unit>
       <trans-unit id="bd17f60dd8ff8edfaca2fd403262c9e7d57e297d" resname="catalog.edit.config_filter.clear_all">
         <source>Clear all</source>
-        <target state="needs-translation">Clear all</target>
+        <target state="translated">Wyczyść wszystko</target>
         <note>key: catalog.edit.config_filter.clear_all</note>
       </trans-unit>
       <trans-unit id="54876c4f5f81fc9a4de8adf2869198b041fd9f7a" resname="catalog.edit.config_filter.clear_all_count">
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="604f16fe719b52c2567af60731b2bbe3061a8ddc" resname="catalog.edit.config_filter.select_all">
         <source>Select All</source>
-        <target state="needs-translation">Select All</target>
+        <target state="translated">Zaznacz wszystko</target>
         <note>key: catalog.edit.config_filter.select_all</note>
       </trans-unit>
       <trans-unit id="6cec32a308c914cd8bead10d2ceb59995ba310aa" resname="catalog.edit.filters">
@@ -448,17 +448,17 @@
       </trans-unit>
       <trans-unit id="ceb9255e787e388e3acc723e72b00a34c2389847" resname="catalog.edit.filters.list.header">
         <source>Set up filters for catalog</source>
-        <target state="needs-translation">Set up filters for catalog</target>
+        <target state="translated">Skonfiguruj filtry dla katalogu</target>
         <note>key: catalog.edit.filters.list.header</note>
       </trans-unit>
       <trans-unit id="e9264c19221e82a0d43a008a8e825e53a1df63c0" resname="catalog.edit.filters.toggler.hide">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">Ukryj</target>
         <note>key: catalog.edit.filters.toggler.hide</note>
       </trans-unit>
       <trans-unit id="adedd4b28ed9c366d5439c6c6081e37302d7ccde" resname="catalog.edit.filters.toggler.show">
         <source>Show</source>
-        <target state="needs-translation">Show</target>
+        <target state="translated">Pokaż</target>
         <note>key: catalog.edit.filters.toggler.show</note>
       </trans-unit>
       <trans-unit id="473de4a85f33cdd5fa086c881c62199aff794e25" resname="catalog.edit.global_properties">
@@ -473,7 +473,7 @@
       </trans-unit>
       <trans-unit id="aa31583d416c29fcb02460d1e4567c0769910be7" resname="catalog.edit.products.subtitle">
         <source>Current product list based on the applied filters</source>
-        <target state="needs-translation">Current product list based on the applied filters</target>
+        <target state="translated">Aktualna lista produktów oparta o zastosowane filtry</target>
         <note>key: catalog.edit.products.subtitle</note>
       </trans-unit>
       <trans-unit id="0015cad99954a023b79c4ef6946e67d36ff8a11f" resname="catalog.edit.products.title">
@@ -483,7 +483,7 @@
       </trans-unit>
       <trans-unit id="70578346210fe5050ecae36a64b05f8d9271a831" resname="catalog.filters">
         <source>Filters</source>
-        <target state="needs-translation">Filters</target>
+        <target state="translated">Filtry</target>
         <note>key: catalog.filters</note>
       </trans-unit>
       <trans-unit id="3f792c139ee88226900888eff14c031c4d99f7db" resname="catalog.information.headline">
@@ -513,7 +513,7 @@
       </trans-unit>
       <trans-unit id="91086a117543387a59c60b240e822705719042cf" resname="catalog.list.column.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Status</target>
         <note>key: catalog.list.column.status</note>
       </trans-unit>
       <trans-unit id="ac8ff6b6e9572668a87c0b56085b7113249f3f4b" resname="catalog.list.empty">
@@ -528,7 +528,7 @@
       </trans-unit>
       <trans-unit id="21c0757ecba3b9fbadc83ce9257acc18b9a390cc" resname="catalog.list.title">
         <source>Catalogs</source>
-        <target state="needs-translation">Catalogs</target>
+        <target state="translated">Katalogi</target>
         <note>key: catalog.list.title</note>
       </trans-unit>
       <trans-unit id="a93a564ece2746325e90a49f27f77b5c1631c1ef" resname="catalog.new.action_name">
