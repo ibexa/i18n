@@ -54,29 +54,35 @@ packages[corporate-account]=vendor/ibexa/corporate-account/src/bundle/Resources/
 packages[fieldtype-address]=vendor/ibexa/fieldtype-address/src/bundle/Resources/translations
 packages[measurement]=vendor/ibexa/measurement/src/bundle/Resources/translations
 
+BASE_DIR="$(dirname "$(realpath "$0")")/../../../.."
+
 for key in "${!packages[@]}";
 do
-  destinationDir="./i18n/$key/"
-  destinationFiles="./i18n/$key/*"
+  destinationDir="$BASE_DIR/vendor/ibexa/i18n/$key/"
+  destinationFiles="$BASE_DIR/vendor/ibexa/i18n/$key/*"
   if [ ! -d $destinationDir ]; then
     mkdir $destinationDir
   fi
 
-  sourcePath="./${packages[$key]}"
-  sourceFiles="./${packages[$key]}/*"
+  sourcePath="$BASE_DIR/${packages[$key]}"
+  sourceFiles="$BASE_DIR/${packages[$key]}/*"
   if [ -d $sourcePath ]; then
-    echo ezsystems/${key}
+    echo "# Processing ibexa/${key}"
+    echo "# Removing existing files: $destinationFiles"
     rm -f $destinationFiles
+    echo "# Copying $sourceFiles into $destinationDir"
     cp $sourceFiles $destinationDir
+  else
+    echo "# $sourcePath is not a directory"
   fi
 done
 
-echo '# Fixing .xlf extensions'
+echo "# Fixing .xlf extensions in $BASE_DIR/vendor/ibexa/i18n/*/*"
 # uncomment this for OSX rename -s '.xliff' '.xlf' vendor/ezsystems/ezplatform-i18n/*/*
-rename 's/\.xliff/.xlf/' vendor/ibexa/i18n/*/*
+rename 's/\.xliff/.xlf/' $BASE_DIR/vendor/ibexa/i18n/*/*
 
 echo '# Strip english locale suffix from filename';
 # uncomment this for OSX  rename -s '.en' '' ./vendor/ezsystems/ezplatform-i18n/*/*
-rename 's/\.en//' vendor/ibexa/i18n/*/*
+rename 's/\.en//' $BASE_DIR/vendor/ibexa/i18n/*/*
 
 echo 'Translation synchronization done !';
