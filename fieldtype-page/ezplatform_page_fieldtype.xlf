@@ -41,6 +41,11 @@
         <target state="new">Select layouts</target>
         <note>key: layouts.select_layouts</note>
       </trans-unit>
+      <trans-unit id="5afe3f31aa22081e60b61cd92f1eb6aabc8e6a7d" resname="block.nested_attribute.field_groups_setup">
+        <source>Field groups setup</source>
+        <target state="new">Field groups setup</target>
+        <note>key: block.nested_attribute.field_groups_setup</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

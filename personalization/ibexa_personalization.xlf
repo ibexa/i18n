@@ -226,6 +226,16 @@
         <target state="new">Last month</target>
         <note>key: ibexa_personalization.date_time_range.last_month</note>
       </trans-unit>
+      <trans-unit id="537d2eeb50537aa922d548761126cb1687aaee25" resname="ibexa_personalization.scenario.output_type_all">
+        <source>All</source>
+        <target state="new">All</target>
+        <note>key: ibexa_personalization.scenario.output_type_all</note>
+      </trans-unit>
+      <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
+        <source>Undefined</source>
+        <target state="new">Undefined</target>
+        <note>key: ibexa_personalization.scenario.undefined</note>
+      </trans-unit>
       <trans-unit id="62fdfbd55d19b2a4671102ad7bca17d875f8207a" resname="import">
         <source>Import</source>
         <target state="new">Import</target>

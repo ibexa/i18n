@@ -6,10 +6,40 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="1ae4d5429736291ab1313721b848c30fe6723121" resname="comapany.create.action_name">
+        <source>Creating</source>
+        <target state="new">Creating</target>
+        <note>key: comapany.create.action_name</note>
+      </trans-unit>
+      <trans-unit id="8fa0d5464c0ab82e43f3a908bb4292b0b15445ff" resname="comapany.create.section.basic_information.title">
+        <source>Company information</source>
+        <target state="new">Company information</target>
+        <note>key: comapany.create.section.basic_information.title</note>
+      </trans-unit>
+      <trans-unit id="10d9a9f866b45df65fc46ec0cfb52eda1e034a49" resname="comapany.create.section.billing_address.title">
+        <source>Billing address</source>
+        <target state="new">Billing address</target>
+        <note>key: comapany.create.section.billing_address.title</note>
+      </trans-unit>
+      <trans-unit id="18dc733bcbd70e1dfcb5e26899fc1d4f30d2d55b" resname="comapany.create.title">
+        <source>New %contentType%</source>
+        <target state="new">New %contentType%</target>
+        <note>key: comapany.create.title</note>
+      </trans-unit>
       <trans-unit id="f1358c678420793e775218afddb8e61c0382aabe" resname="comapany.list.search.placeholder">
         <source>Search by name</source>
         <target state="new">Search by name</target>
         <note>key: comapany.list.search.placeholder</note>
+      </trans-unit>
+      <trans-unit id="99861990c138b88d8f5110c353747e4c61e06eca" resname="company.create.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: company.create.cancel_btn.label</note>
+      </trans-unit>
+      <trans-unit id="43e48b14b1577a4b32f12feb7b0264f5c4405449" resname="company.create.save_btn.label">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: company.create.save_btn.label</note>
       </trans-unit>
       <trans-unit id="4f7e4db7570b510049f37cd9c2d269ee73daad19" resname="company.create.success">
         <source>Company created.</source>
@@ -20,11 +50,6 @@
         <source>Company '%name%' de-activated.</source>
         <target state="new">Company '%name%' de-activated.</target>
         <note>key: company.deactivate.success</note>
-      </trans-unit>
-      <trans-unit id="b91c4a2a0588a41709127abbad3f3aa590f85ad9" resname="company.details.tab.address_book.billing_address.action.edit">
-        <source>Edit</source>
-        <target state="new">Edit</target>
-        <note>key: company.details.tab.address_book.billing_address.action.edit</note>
       </trans-unit>
       <trans-unit id="50a3e28efad3099ccc1d61d393bd5c839a0c1ac6" resname="company.details.tab.address_book.label">
         <source>Address Book</source>
@@ -40,41 +65,6 @@
         <source>Delete</source>
         <target state="new">Delete</target>
         <note>key: company.details.tab.address_book.shipping_address.table.action.delete.label</note>
-      </trans-unit>
-      <trans-unit id="a295e60f8079f7d2b26db7afda9189b4fec4ab05" resname="company.details.tab.address_book.table.billing_address.action.edit">
-        <source>Edit</source>
-        <target state="new">Edit</target>
-        <note>key: company.details.tab.address_book.table.billing_address.action.edit</note>
-      </trans-unit>
-      <trans-unit id="1944a1843b16a301bb4b0602dccff010999b4cd4" resname="company.details.tab.address_book.table.billing_address.empty.info">
-        <source>Company has no billing address.</source>
-        <target state="new">Company has no billing address.</target>
-        <note>key: company.details.tab.address_book.table.billing_address.empty.info</note>
-      </trans-unit>
-      <trans-unit id="aba5d4248fc2d6b95f420bc8633df564e04c266f" resname="company.details.tab.address_book.table.billing_address.header.address">
-        <source>Address</source>
-        <target state="new">Address</target>
-        <note>key: company.details.tab.address_book.table.billing_address.header.address</note>
-      </trans-unit>
-      <trans-unit id="e9be838e8a5fe6d313a9869f9458bb909f2a63d3" resname="company.details.tab.address_book.table.billing_address.header.email">
-        <source>Email</source>
-        <target state="new">Email</target>
-        <note>key: company.details.tab.address_book.table.billing_address.header.email</note>
-      </trans-unit>
-      <trans-unit id="d5603591c23ffe845789c8a5289227f7fdd7cfcf" resname="company.details.tab.address_book.table.billing_address.header.phone">
-        <source>Phone</source>
-        <target state="new">Phone</target>
-        <note>key: company.details.tab.address_book.table.billing_address.header.phone</note>
-      </trans-unit>
-      <trans-unit id="5ed8115811ffac9bde40bd8d2701ff0e362fcd6d" resname="company.details.tab.address_book.table.billing_address.header.vat">
-        <source>Tax ID</source>
-        <target state="new">Tax ID</target>
-        <note>key: company.details.tab.address_book.table.billing_address.header.vat</note>
-      </trans-unit>
-      <trans-unit id="e9b4dca0cbc6b07494acf1f968acfefb5805621b" resname="company.details.tab.address_book.table.billing_address.headline">
-        <source>Billing address</source>
-        <target state="new">Billing address</target>
-        <note>key: company.details.tab.address_book.table.billing_address.headline</note>
       </trans-unit>
       <trans-unit id="3718d70d396d1776f2fbb71c23c1e1da988929be" resname="company.details.tab.address_book.table.shipping_address.action.add_new">
         <source>Add</source>
@@ -131,11 +121,6 @@
         <target state="new">Customer Group</target>
         <note>key: company.details.tab.company_profile.basic_information.customer_group</note>
       </trans-unit>
-      <trans-unit id="512cf0ec9028b9778f66b30db29a519996dcd8e4" resname="company.details.tab.company_profile.basic_information.email">
-        <source>Email</source>
-        <target state="new">Email</target>
-        <note>key: company.details.tab.company_profile.basic_information.email</note>
-      </trans-unit>
       <trans-unit id="e9575ba42fd1424616ee8647024e3bfb5069749c" resname="company.details.tab.company_profile.basic_information.headline">
         <source>Basic Information</source>
         <target state="new">Basic Information</target>
@@ -160,31 +145,6 @@
         <source>Website</source>
         <target state="new">Website</target>
         <note>key: company.details.tab.company_profile.basic_information.website</note>
-      </trans-unit>
-      <trans-unit id="76dd8bd347a5fd7fa154fa2912c6e92aee9b00ae" resname="company.details.tab.company_profile.billing_address.action.edit">
-        <source>Edit</source>
-        <target state="new">Edit</target>
-        <note>key: company.details.tab.company_profile.billing_address.action.edit</note>
-      </trans-unit>
-      <trans-unit id="b48dbffe3f83572684d0176b77501ca4b8467e96" resname="company.details.tab.company_profile.billing_address.address">
-        <source>Address</source>
-        <target state="new">Address</target>
-        <note>key: company.details.tab.company_profile.billing_address.address</note>
-      </trans-unit>
-      <trans-unit id="d857ea79a129336242154872f9efea1e2a2a2f43" resname="company.details.tab.company_profile.billing_address.city">
-        <source>City</source>
-        <target state="new">City</target>
-        <note>key: company.details.tab.company_profile.billing_address.city</note>
-      </trans-unit>
-      <trans-unit id="b1aa57b595a5f16abd739c1e5c3b1a244da96f60" resname="company.details.tab.company_profile.billing_address.country">
-        <source>Country</source>
-        <target state="new">Country</target>
-        <note>key: company.details.tab.company_profile.billing_address.country</note>
-      </trans-unit>
-      <trans-unit id="fe1b25f79d4ff5d868e7722ad2eb8268613115f9" resname="company.details.tab.company_profile.billing_address.headline">
-        <source>Billing Address</source>
-        <target state="new">Billing Address</target>
-        <note>key: company.details.tab.company_profile.billing_address.headline</note>
       </trans-unit>
       <trans-unit id="5aea599dca69529ff65b3bd7e1f1764fb7fe99b7" resname="company.details.tab.company_profile.contact.action.edit">
         <source>Edit</source>
@@ -216,35 +176,25 @@
         <target state="new">Company Profile</target>
         <note>key: company.details.tab.company_profile.label</note>
       </trans-unit>
+      <trans-unit id="d16e46742bde7c65e4d89cf6b3526ad47d61abca" resname="company.details.tab.invitations.label">
+        <source>Invitations</source>
+        <target state="new">Invitations</target>
+        <note>key: company.details.tab.invitations.label</note>
+      </trans-unit>
+      <trans-unit id="9e6000aba816f20b17c956bf5be9d359781241c0" resname="company.details.tab.invitations.table.invitations.action.invite">
+        <source>Invite member</source>
+        <target state="new">Invite member</target>
+        <note>key: company.details.tab.invitations.table.invitations.action.invite</note>
+      </trans-unit>
       <trans-unit id="8ca0ef26c24c81f2294e23e42c39662df04e138d" resname="company.details.tab.members.label">
         <source>Members</source>
         <target state="new">Members</target>
         <note>key: company.details.tab.members.label</note>
       </trans-unit>
-      <trans-unit id="4cfaa39d8af8e509f7dda73ae2c96878c7c7732c" resname="company.details.tab.members.modal.activate_user.activate">
-        <source>Activate</source>
-        <target state="new">Activate</target>
-        <note>key: company.details.tab.members.modal.activate_user.activate</note>
-      </trans-unit>
-      <trans-unit id="863c2e654327bcb1c7338c3416efd1e9f912e92e" resname="company.details.tab.members.modal.activate_user.cancel">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
-        <note>key: company.details.tab.members.modal.activate_user.cancel</note>
-      </trans-unit>
-      <trans-unit id="d8fab908c542219fd9e5407b93a97969b9012840" resname="company.details.tab.members.modal.activate_user.deactivate">
-        <source>De-activate</source>
-        <target state="new">De-activate</target>
-        <note>key: company.details.tab.members.modal.activate_user.deactivate</note>
-      </trans-unit>
       <trans-unit id="f722206893bf662fa93c9c57b7808f0778412649" resname="company.details.tab.members.table.users.action.add_new">
         <source>Add</source>
         <target state="new">Add</target>
         <note>key: company.details.tab.members.table.users.action.add_new</note>
-      </trans-unit>
-      <trans-unit id="e9e0891f9bc08482014df635176dcf7e0f029c19" resname="company.details.tab.members.table.users.action.invite">
-        <source>Invite</source>
-        <target state="new">Invite</target>
-        <note>key: company.details.tab.members.table.users.action.invite</note>
       </trans-unit>
       <trans-unit id="29919e7346d79b09ed0e3426178f2727d17dc44d" resname="company.details.tab.summary.basic_information.headline">
         <source>Basic information</source>
@@ -311,10 +261,50 @@
         <target state="new">Summary</target>
         <note>key: company.details.tab.summary.label</note>
       </trans-unit>
+      <trans-unit id="2079f9faca7e16ec6381b07ca9a5fe0010154acd" resname="company.details.tab.summary.orders.table.headline">
+        <source>Last 5 orders</source>
+        <target state="new">Last 5 orders</target>
+        <note>key: company.details.tab.summary.orders.table.headline</note>
+      </trans-unit>
+      <trans-unit id="0e3fbd257759b27126faf131e6546aa1e93efecb" resname="company.edit.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: company.edit.cancel_btn.label</note>
+      </trans-unit>
+      <trans-unit id="33a5c83147ca2cc7b3bcbff8b338daf648cf490d" resname="company.edit.editing">
+        <source>Editing</source>
+        <target state="new">Editing</target>
+        <note>key: company.edit.editing</note>
+      </trans-unit>
+      <trans-unit id="f3b66b23b5befa6e825dedc1af307df99fdcfdeb" resname="company.edit.save_btn.label">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: company.edit.save_btn.label</note>
+      </trans-unit>
       <trans-unit id="11773becb9c5737acce12e75b8f78fd9fe2fd029" resname="company.edit.success">
         <source>Company '%name%' updated.</source>
         <target state="new">Company '%name%' updated.</target>
         <note>key: company.edit.success</note>
+      </trans-unit>
+      <trans-unit id="49f91e6fa1e5af34edf30df049829b4ef4ce0718" resname="company.edit_billing_address.editing">
+        <source>Editing</source>
+        <target state="new">Editing</target>
+        <note>key: company.edit_billing_address.editing</note>
+      </trans-unit>
+      <trans-unit id="6d697f91f6952f62b20b56218b22bae316e3f060" resname="company.edit_billing_address.title">
+        <source>Editing %company_name% billing address</source>
+        <target state="new">Editing %company_name% billing address</target>
+        <note>key: company.edit_billing_address.title</note>
+      </trans-unit>
+      <trans-unit id="39ff90f54f51d40afdbbb9afb54dc0f348a45d87" resname="company.edit_contact.editing">
+        <source>Editing</source>
+        <target state="new">Editing</target>
+        <note>key: company.edit_contact.editing</note>
+      </trans-unit>
+      <trans-unit id="c47d5c2022e08199d3c20836fa3503e33daa2826" resname="company.edit_contact.title">
+        <source>Editing %company_name% contact</source>
+        <target state="new">Editing %company_name% contact</target>
+        <note>key: company.edit_contact.title</note>
       </trans-unit>
       <trans-unit id="d48441ac21041ce43f87e99f851629bdb51968de" resname="company.list.breadcrumbs">
         <source>Companies</source>
@@ -335,11 +325,6 @@
         <source>Create</source>
         <target state="new">Create</target>
         <note>key: company.list.create</note>
-      </trans-unit>
-      <trans-unit id="2f6ec2fa11112448579efec30004d36a9afc7fed" resname="company.list.edit.title">
-        <source>Edit company</source>
-        <target state="new">Edit company</target>
-        <note>key: company.list.edit.title</note>
       </trans-unit>
       <trans-unit id="5ebe07f802a8ac8402d2d67f2d4dc003ee3ca6f3" resname="company.list.table.action.activate.label">
         <source>Activate</source>
@@ -406,55 +391,45 @@
         <target state="new">Company has no members</target>
         <note>key: company.members.table.empty.info</note>
       </trans-unit>
-      <trans-unit id="26c2e54ac2fe55b669fd0369f4196c7465b84d13" resname="company_profile.basic_information.name">
-        <source>Name</source>
-        <target state="new">Name</target>
-        <note>key: company_profile.basic_information.name</note>
+      <trans-unit id="f30aa5650a49e48d66c682e87d368350f5ebbd95" resname="customer.create.action_name">
+        <source>Creating</source>
+        <target state="new">Creating</target>
+        <note>key: customer.create.action_name</note>
       </trans-unit>
-      <trans-unit id="8f67005e87ac7ced028bbc57e3edf0acae511f43" resname="company_profile.basic_information.vat">
-        <source>Tax ID</source>
-        <target state="new">Tax ID</target>
-        <note>key: company_profile.basic_information.vat</note>
+      <trans-unit id="bc0454aed21240c8d55bad683840ec174e89931a" resname="customer.create.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: customer.create.cancel_btn.label</note>
       </trans-unit>
-      <trans-unit id="c17e7d1de049baf09f980da8133a48fc83eebce0" resname="company_profile.basic_information.website">
-        <source>Website</source>
-        <target state="new">Website</target>
-        <note>key: company_profile.basic_information.website</note>
-      </trans-unit>
-      <trans-unit id="1bdec4652151bfa895266bec660b934165e652ff" resname="company_profile.billing_address.address">
-        <source>Address</source>
-        <target state="new">Address</target>
-        <note>key: company_profile.billing_address.address</note>
-      </trans-unit>
-      <trans-unit id="4309c288ac1244b52c66829b7d3551a4730cbde0" resname="company_profile.billing_address.city">
-        <source>City</source>
-        <target state="new">City</target>
-        <note>key: company_profile.billing_address.city</note>
-      </trans-unit>
-      <trans-unit id="2ba8d36cda82d69fac6fb494fae2a783f83b8933" resname="company_profile.billing_address.country">
-        <source>Country</source>
-        <target state="new">Country</target>
-        <note>key: company_profile.billing_address.country</note>
-      </trans-unit>
-      <trans-unit id="1445266d8909ef78b5fc114f8ee599dfff6cc0e1" resname="company_profile.contact.email_address">
-        <source>Email Address</source>
-        <target state="new">Email Address</target>
-        <note>key: company_profile.contact.email_address</note>
-      </trans-unit>
-      <trans-unit id="9c776bed3cf44b52248c6717138d3c6a86908054" resname="company_profile.contact.first_name">
-        <source>First Name</source>
-        <target state="new">First Name</target>
-        <note>key: company_profile.contact.first_name</note>
-      </trans-unit>
-      <trans-unit id="e3fd8ce068d486cd472efb45692c6255d2dc0dfc" resname="company_profile.contact.last_name">
-        <source>Last Name</source>
-        <target state="new">Last Name</target>
-        <note>key: company_profile.contact.last_name</note>
+      <trans-unit id="d112096131dfd890006bc645a18a2de0dc476979" resname="customer.create.save_btn.label">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: customer.create.save_btn.label</note>
       </trans-unit>
       <trans-unit id="40f21750c315359489c75e398b8e5e225e78f55b" resname="customer.create.success">
         <source>Customer created.</source>
         <target state="new">Customer created.</target>
         <note>key: customer.create.success</note>
+      </trans-unit>
+      <trans-unit id="43ef6ab37ef82bf66df058164afb31fdeee99b4c" resname="customer.create.title">
+        <source>New %contentType%</source>
+        <target state="new">New %contentType%</target>
+        <note>key: customer.create.title</note>
+      </trans-unit>
+      <trans-unit id="9065939e2ca459124bb111dc0ac20c02096a7dfc" resname="customer.edit.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: customer.edit.cancel_btn.label</note>
+      </trans-unit>
+      <trans-unit id="82547be9cdd75374aaac62a3f4d4ef1b9f5b6ffa" resname="customer.edit.editing">
+        <source>Editing</source>
+        <target state="new">Editing</target>
+        <note>key: customer.edit.editing</note>
+      </trans-unit>
+      <trans-unit id="436a8d6c6a5101b1eaf8aaa682e2833be0cb3dc8" resname="customer.edit.save_btn.label">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: customer.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="a9918a05b6d56f0b96ba8e44e28e1301f02d4ecc" resname="customer.edit.success">
         <source>Customer '%name%' updated.</source>
@@ -466,35 +441,55 @@
         <target state="new">Customers</target>
         <note>key: customers</note>
       </trans-unit>
-      <trans-unit id="6b13d18752c58e1ce5daa392c21768b20ba7c9a9" resname="dashboard.table.last_orders.actions.see_all">
-        <source>See all</source>
-        <target state="new">See all</target>
-        <note>key: dashboard.table.last_orders.actions.see_all</note>
+      <trans-unit id="46a1af0ac2369f9d443c55a5215d74439ad7fa4a" resname="dashboard.table.last_five_orders.headline">
+        <source>Last 5 Orders</source>
+        <target state="new">Last 5 Orders</target>
+        <note>key: dashboard.table.last_five_orders.headline</note>
       </trans-unit>
-      <trans-unit id="ec34240260a87b4145afd46ea50cecf78e37e54e" resname="dashboard.table.last_orders.headline">
-        <source>Last Orders</source>
-        <target state="new">Last Orders</target>
-        <note>key: dashboard.table.last_orders.headline</note>
+      <trans-unit id="65912535c6039d50690cc93643ad5c2b3dfad71a" resname="details.billing_address.action.edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: details.billing_address.action.edit</note>
       </trans-unit>
-      <trans-unit id="d03232cbb3b7f3df82953649f77433dd76cc549a" resname="field_group.basic_information">
-        <source>Basic Information</source>
-        <target state="new">Basic Information</target>
-        <note>key: field_group.basic_information</note>
-      </trans-unit>
-      <trans-unit id="d177e577d29b76b877aa341b3befb767f44fcdb7" resname="field_group.billing_address">
+      <trans-unit id="1ee15c8c889bd387834dc97c6d2bfd20c006a7e9" resname="details.billing_address.headline">
         <source>Billing Address</source>
         <target state="new">Billing Address</target>
-        <note>key: field_group.billing_address</note>
+        <note>key: details.billing_address.headline</note>
       </trans-unit>
-      <trans-unit id="7f7df55b38829a06218df62f56aaf23773274a42" resname="field_group.internal">
-        <source>Internal</source>
-        <target state="new">Internal</target>
-        <note>key: field_group.internal</note>
+      <trans-unit id="b01507d35e164758e1665de5295dfdb064a17163" resname="details.billing_address.label.address">
+        <source>Address</source>
+        <target state="new">Address</target>
+        <note>key: details.billing_address.label.address</note>
+      </trans-unit>
+      <trans-unit id="b993b4a19cb00a5d3e29d20c5aabad9b7b0a5465" resname="details.billing_address.label.email">
+        <source>Email</source>
+        <target state="new">Email</target>
+        <note>key: details.billing_address.label.email</note>
+      </trans-unit>
+      <trans-unit id="2c86dc6a31e1d0a86a495d87d804b248187606fd" resname="details.billing_address.label.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: details.billing_address.label.name</note>
+      </trans-unit>
+      <trans-unit id="650433751ba8f16bba530d103bfd327f307766fa" resname="details.billing_address.label.phone">
+        <source>Phone</source>
+        <target state="new">Phone</target>
+        <note>key: details.billing_address.label.phone</note>
+      </trans-unit>
+      <trans-unit id="46a1af0ac2369f9d443c55a5215d74439ad7fa4a" resname="dashboard.table.last_five_orders.headline">
+        <source>Last 5 Orders</source>
+        <target state="new">Last 5 Orders</target>
+        <note>key: dashboard.table.last_five_orders.headline</note>
       </trans-unit>
       <trans-unit id="326bdebfa0b6b3a9a4ec7b93fd328df395d53551" resname="individual.list.breadcrumbs">
         <source>Individuals</source>
         <target state="new">Individuals</target>
         <note>key: individual.list.breadcrumbs</note>
+      </trans-unit>
+      <trans-unit id="c2251ea6f675f9591be47958ef7df7769b38c6c8" resname="individual.list.edit.title">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: individual.list.edit.title</note>
       </trans-unit>
       <trans-unit id="1c6c6633952f88ab59655e8eb3141cab907f5565" resname="individual.list.search.placeholder">
         <source>Search by name</source>
@@ -531,60 +526,20 @@
         <target state="new">Individuals</target>
         <note>key: individual.list.title</note>
       </trans-unit>
-      <trans-unit id="9f469393b5cf51c7dbe2ffaa03c7a17f3a6959e3" resname="invite_members">
-        <source>Invite Members</source>
-        <target state="new">Invite Members</target>
-        <note>key: invite_members</note>
-      </trans-unit>
-      <trans-unit id="c73de4e9ca7b484ef09688d315a6780c3123177b" resname="invite_members.modal.add_next">
-        <source>Add next</source>
-        <target state="new">Add next</target>
-        <note>key: invite_members.modal.add_next</note>
-      </trans-unit>
-      <trans-unit id="3a6933ed52461e31cf598f9cd0b0f17af862a1d2" resname="invite_members.modal.cancel.label">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
-        <note>key: invite_members.modal.cancel.label</note>
-      </trans-unit>
-      <trans-unit id="41f444d39297cb867d599ae26bb44794eae4327f" resname="invite_members.modal.drop">
-        <source>Drag and drop file</source>
-        <target state="new">Drag and drop file</target>
-        <note>key: invite_members.modal.drop</note>
-      </trans-unit>
       <trans-unit id="ab34a68619ee2345e9eed68aef18670c7f5a6c1c" resname="invite_members.modal.email_address">
         <source>Email Address</source>
         <target state="new">Email Address</target>
         <note>key: invite_members.modal.email_address</note>
-      </trans-unit>
-      <trans-unit id="37eea0558b96fd7bcbeb2728e9a92bb9ceefcbc0" resname="invite_members.modal.fully_uploaded">
-        <source>100% Uploaded</source>
-        <target state="new">100% Uploaded</target>
-        <note>key: invite_members.modal.fully_uploaded</note>
       </trans-unit>
       <trans-unit id="7670d648474f67bb4fdf9dce88e13c53c1ce9b73" resname="invite_members.modal.info">
         <source>Enter your team members email addresses, and select the role they should be assigned.</source>
         <target state="new">Enter your team members email addresses, and select the role they should be assigned.</target>
         <note>key: invite_members.modal.info</note>
       </trans-unit>
-      <trans-unit id="b8aa893b60cefd0476ef914a5e5956142257c912" resname="invite_members.modal.or">
-        <source>or</source>
-        <target state="new">or</target>
-        <note>key: invite_members.modal.or</note>
-      </trans-unit>
-      <trans-unit id="a5a17ec2e7400cb6cc0143f95d87949c638285aa" resname="invite_members.modal.or_upload">
-        <source>Or upload a file with one email address per line</source>
-        <target state="new">Or upload a file with one email address per line</target>
-        <note>key: invite_members.modal.or_upload</note>
-      </trans-unit>
       <trans-unit id="c014c6345151ed9b58f644e46f25a652defaca9c" resname="invite_members.modal.role">
         <source>Role</source>
         <target state="new">Role</target>
         <note>key: invite_members.modal.role</note>
-      </trans-unit>
-      <trans-unit id="f3f0fad4dbb4007fdf67583aa9624b1ddc98e63a" resname="invite_members.modal.upload_local">
-        <source>Upload a local file</source>
-        <target state="new">Upload a local file</target>
-        <note>key: invite_members.modal.upload_local</note>
       </trans-unit>
       <trans-unit id="63d825a989cbfb20adfec5f2a7f9da125cb28929" resname="modal.user_status_change.question.activate">
         <source>Are you sure you want to activate %username%?</source>
@@ -606,25 +561,230 @@
         <target state="new">De-activate user</target>
         <note>key: modal.user_status_change.title.deactivate</note>
       </trans-unit>
-      <trans-unit id="9b8fd44f329993faa872d31baf481b827164d667" resname="preferred_method_of_contact">
-        <source>Preferred Method of Contact</source>
-        <target state="new">Preferred Method of Contact</target>
-        <note>key: preferred_method_of_contact</note>
+      <trans-unit id="51f92cee177e8f925242bd7409625d28a3b811bf" resname="orders.details.table.header.order_id">
+        <source>Order ID</source>
+        <target state="new">Order ID</target>
+        <note>key: orders.details.table.header.order_id</note>
+      </trans-unit>
+      <trans-unit id="a7a38016d2e085290addea0d2e7a500a50da6eb1" resname="orders.table.empty.info">
+        <source>No orders</source>
+        <target state="new">No orders</target>
+        <note>key: orders.table.empty.info</note>
+      </trans-unit>
+      <trans-unit id="a2a53b0a31c0d34b26e97147012a30b2af114f5a" resname="orders.table.header.buyers_name">
+        <source>Buyer Name</source>
+        <target state="new">Buyer Name</target>
+        <note>key: orders.table.header.buyers_name</note>
+      </trans-unit>
+      <trans-unit id="fd2231388845208bcf7910e834ca6cdfa68eca81" resname="orders.table.header.order_date">
+        <source>Date</source>
+        <target state="new">Date</target>
+        <note>key: orders.table.header.order_date</note>
+      </trans-unit>
+      <trans-unit id="b9763471659ddcaea97c705cb788e7f6db95c689" resname="orders.table.header.shipping_method">
+        <source>Shipping</source>
+        <target state="new">Shipping</target>
+        <note>key: orders.table.header.shipping_method</note>
+      </trans-unit>
+      <trans-unit id="710c286c15de322189879af8a6c32789ff266ef9" resname="orders.table.header.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: orders.table.header.status</note>
+      </trans-unit>
+      <trans-unit id="ec75b8e4a5c2d68c9a07afcdd952ce6121cdab0b" resname="orders.table.header.total">
+        <source>Total</source>
+        <target state="new">Total</target>
+        <note>key: orders.table.header.total</note>
+      </trans-unit>
+      <trans-unit id="a7a38016d2e085290addea0d2e7a500a50da6eb1" resname="orders.table.empty.info">
+        <source>No orders</source>
+        <target state="new">No orders</target>
+        <note>key: orders.table.empty.info</note>
+      </trans-unit>
+      <trans-unit id="a2a53b0a31c0d34b26e97147012a30b2af114f5a" resname="orders.table.header.buyers_name">
+        <source>Buyer Name</source>
+        <target state="new">Buyer Name</target>
+        <note>key: orders.table.header.buyers_name</note>
+      </trans-unit>
+      <trans-unit id="fd2231388845208bcf7910e834ca6cdfa68eca81" resname="orders.table.header.order_date">
+        <source>Date</source>
+        <target state="new">Date</target>
+        <note>key: orders.table.header.order_date</note>
+      </trans-unit>
+      <trans-unit id="125e6c39d51230df127b4268e9318ff4f5437e1b" resname="orders.table.header.order_id">
+        <source>Order ID</source>
+        <target state="new">Order ID</target>
+        <note>key: orders.table.header.order_id</note>
+      </trans-unit>
+      <trans-unit id="b9763471659ddcaea97c705cb788e7f6db95c689" resname="orders.table.header.shipping_method">
+        <source>Shipping</source>
+        <target state="new">Shipping</target>
+        <note>key: orders.table.header.shipping_method</note>
+      </trans-unit>
+      <trans-unit id="710c286c15de322189879af8a6c32789ff266ef9" resname="orders.table.header.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: orders.table.header.status</note>
+      </trans-unit>
+      <trans-unit id="ec75b8e4a5c2d68c9a07afcdd952ce6121cdab0b" resname="orders.table.header.total">
+        <source>Total</source>
+        <target state="new">Total</target>
+        <note>key: orders.table.header.total</note>
+      </trans-unit>
+      <trans-unit id="e4da370666b60cff8d2ab49b895c87957ff766d6" resname="shipping_address.create.action_name">
+        <source>Creating</source>
+        <target state="new">Creating</target>
+        <note>key: shipping_address.create.action_name</note>
+      </trans-unit>
+      <trans-unit id="5d613e18b935c3ea460095b8d43212d834e4b7e0" resname="shipping_address.create.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: shipping_address.create.cancel_btn.label</note>
+      </trans-unit>
+      <trans-unit id="c77a5d1f4dad75453607c37e9c73acae5dab6f85" resname="shipping_address.create.save_btn.label">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: shipping_address.create.save_btn.label</note>
       </trans-unit>
       <trans-unit id="1285ed7718679b8b51b6af28fc1375a0198507f6" resname="shipping_address.create.success">
         <source>Address created.</source>
         <target state="new">Address created.</target>
         <note>key: shipping_address.create.success</note>
       </trans-unit>
+      <trans-unit id="a0e02d4a46f6ddee4e289049243597b5bf121fa9" resname="shipping_address.create.title">
+        <source>New %contentType%</source>
+        <target state="new">New %contentType%</target>
+        <note>key: shipping_address.create.title</note>
+      </trans-unit>
+      <trans-unit id="18c3bf60f2b520ec324d6475268fbe3b4c013bd2" resname="shipping_address.edit.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: shipping_address.edit.cancel_btn.label</note>
+      </trans-unit>
+      <trans-unit id="aebf5753733025029bf25a3a724e3874de2f6720" resname="shipping_address.edit.editing">
+        <source>Editing</source>
+        <target state="new">Editing</target>
+        <note>key: shipping_address.edit.editing</note>
+      </trans-unit>
+      <trans-unit id="bff5fa5e7037df4987da76edbe2eaa8eac81bd57" resname="shipping_address.edit.save_btn.label">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: shipping_address.edit.save_btn.label</note>
+      </trans-unit>
       <trans-unit id="472f89dd53c117d88bc51cf97c1d385b37dbc84a" resname="shipping_address.edit.success">
         <source>Shipping address '%name%' updated.</source>
         <target state="new">Shipping address '%name%' updated.</target>
         <note>key: shipping_address.edit.success</note>
       </trans-unit>
+      <trans-unit id="43d0d1893cc7bdfed70ab3544dd190c4bae5e50c" resname="table.billing_address.action.edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: table.billing_address.action.edit</note>
+      </trans-unit>
+      <trans-unit id="7a7883de3358a7a3204b40417fec24b809646684" resname="table.billing_address.empty.info">
+        <source>Company has no billing address.</source>
+        <target state="new">Company has no billing address.</target>
+        <note>key: table.billing_address.empty.info</note>
+      </trans-unit>
+      <trans-unit id="bba40409510cf66ce90caed27f5b7650a53c0838" resname="table.billing_address.header.address">
+        <source>Address</source>
+        <target state="new">Address</target>
+        <note>key: table.billing_address.header.address</note>
+      </trans-unit>
+      <trans-unit id="6e8441ceb5dda46a58e024a5ece4e391eabd774d" resname="table.billing_address.header.email">
+        <source>Email</source>
+        <target state="new">Email</target>
+        <note>key: table.billing_address.header.email</note>
+      </trans-unit>
+      <trans-unit id="8661617065746ef1c11d6efdbe9a69bfb4383b92" resname="table.billing_address.header.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: table.billing_address.header.name</note>
+      </trans-unit>
+      <trans-unit id="192d553ecc4861ffc47144079d5e5ca9142434fa" resname="table.billing_address.header.phone">
+        <source>Phone</source>
+        <target state="new">Phone</target>
+        <note>key: table.billing_address.header.phone</note>
+      </trans-unit>
+      <trans-unit id="16ff3ece32278aa9c88a882751558718e6db52d5" resname="table.billing_address.headline">
+        <source>Billing address</source>
+        <target state="new">Billing address</target>
+        <note>key: table.billing_address.headline</note>
+      </trans-unit>
+      <trans-unit id="b8c1d6125767b1cb8e726e0f5ad7988fdf431d86" resname="table.members.invitations.header.date">
+        <source>Invitation date</source>
+        <target state="new">Invitation date</target>
+        <note>key: table.members.invitations.header.date</note>
+      </trans-unit>
+      <trans-unit id="379b25d1c6130da2fce9d77fad7e54de34ba385e" resname="table.members.invitations.header.email">
+        <source>Email</source>
+        <target state="new">Email</target>
+        <note>key: table.members.invitations.header.email</note>
+      </trans-unit>
+      <trans-unit id="21c9ceae4aef6885b1f0c616c2a4d5eea41ce856" resname="table.members.invitations.header.role">
+        <source>Role</source>
+        <target state="new">Role</target>
+        <note>key: table.members.invitations.header.role</note>
+      </trans-unit>
+      <trans-unit id="764edb2c07d91227334fb36a56117c1c3f06f7a8" resname="table.invitations.actions.copy_link.copied_tooltip.title">
+        <source>Copied!</source>
+        <target state="new">Copied!</target>
+        <note>key: table.invitations.actions.copy_link.copied_tooltip.title</note>
+      </trans-unit>
+      <trans-unit id="3c123b4d52be312163d7554fdc400832cf14a98e" resname="table.invitations.actions.copy_link.copy_clipboard_error">
+        <source>Cannot copy invitation link due to browser limitations.</source>
+        <target state="new">Cannot copy invitation link due to browser limitations.</target>
+        <note>key: table.invitations.actions.copy_link.copy_clipboard_error</note>
+      </trans-unit>
+      <trans-unit id="81fb8c837ad8cf62349270764b25935966aa6ac0" resname="table.invitations.actions.copy_link.title">
+        <source>Copy link</source>
+        <target state="new">Copy link</target>
+        <note>key: table.invitations.actions.copy_link.title</note>
+      </trans-unit>
+      <trans-unit id="df6f661c1ec0ff2823c62c688f5c937e0ac60744" resname="table.invitations.actions.reinvite.title">
+        <source>Reinvite</source>
+        <target state="new">Reinvite</target>
+        <note>key: table.invitations.actions.reinvite.title</note>
+      </trans-unit>
+      <trans-unit id="8cc9d7ca9d954ad479f822f99d28edfa0e4fb31d" resname="table.invitations.actions.resend_invitation.title">
+        <source>Re-send invitation</source>
+        <target state="new">Re-send invitation</target>
+        <note>key: table.invitations.actions.resend_invitation.title</note>
+      </trans-unit>
+      <trans-unit id="73dfc7d6428ca86b2359f903f112c71be3033fb7" resname="table.invitations.header.date">
+        <source>Invitation date</source>
+        <target state="new">Invitation date</target>
+        <note>key: table.invitations.header.date</note>
+      </trans-unit>
+      <trans-unit id="a673af2de91890612a2e5713a0352273c39c2949" resname="table.invitations.header.email">
+        <source>Email</source>
+        <target state="new">Email</target>
+        <note>key: table.invitations.header.email</note>
+      </trans-unit>
+      <trans-unit id="ceb4dd687a13c4515e2b87cc5f47ab1a3ae0daf4" resname="table.invitations.header.role">
+        <source>Role</source>
+        <target state="new">Role</target>
+        <note>key: table.invitations.header.role</note>
+      </trans-unit>
+      <trans-unit id="2ee7b83020be225106fa5626b96367ccd1cc7cb6" resname="table.invitations.headline">
+        <source>List (%count%)</source>
+        <target state="new">List (%count%)</target>
+        <note>key: table.invitations.headline</note>
+      </trans-unit>
+      <trans-unit id="2f7e137f26000a55737c03a22ed9efd6e76f3b8e" resname="table.invitations.link_expired.label">
+        <source>Link expired</source>
+        <target state="new">Link expired</target>
+        <note>key: table.invitations.link_expired.label</note>
+      </trans-unit>
       <trans-unit id="fe9588b00bec8785cd3c06938c7e1f9061d3d227" resname="table.members.users.action.activate">
         <source>Activate</source>
         <target state="new">Activate</target>
         <note>key: table.members.users.action.activate</note>
+      </trans-unit>
+      <trans-unit id="5fc750254588b6a53b78c02f8b8def9fa0c9795b" resname="table.members.users.action.change_role">
+        <source>Change role</source>
+        <target state="new">Change role</target>
+        <note>key: table.members.users.action.change_role</note>
       </trans-unit>
       <trans-unit id="39a9dd7d061c207d162bff9576541bf2afae48c2" resname="table.members.users.action.deactivate">
         <source>De-activate</source>
@@ -656,21 +816,6 @@
         <target state="new">Status</target>
         <note>key: table.members.users.header.status</note>
       </trans-unit>
-      <trans-unit id="54e4070c3e36944727c18f3cdbb6a21927efffb0" resname="table.members.users.role.admin.label">
-        <source>Admin</source>
-        <target state="new">Admin</target>
-        <note>key: table.members.users.role.admin.label</note>
-      </trans-unit>
-      <trans-unit id="b385d783f020eaa6a68c0a938a71b15f008a3876" resname="table.members.users.role.approver.label">
-        <source>Approver</source>
-        <target state="new">Approver</target>
-        <note>key: table.members.users.role.approver.label</note>
-      </trans-unit>
-      <trans-unit id="dc44f2acb4a826e77bd977884c4706d9b3f6743d" resname="table.members.users.role.buyer.label">
-        <source>Buyer</source>
-        <target state="new">Buyer</target>
-        <note>key: table.members.users.role.buyer.label</note>
-      </trans-unit>
       <trans-unit id="a4908a69bfedaf55b4f933aebe685e362c1eb7bd" resname="table.members.users.status.active.label">
         <source>Active</source>
         <target state="new">Active</target>
@@ -681,45 +826,30 @@
         <target state="new">De-activated</target>
         <note>key: table.members.users.status.deactivated.label</note>
       </trans-unit>
-      <trans-unit id="958b8296d7503d2b23bd1a6bf36efe507a35de21" resname="table.members.users.status.pending.label">
-        <source>Pending</source>
-        <target state="new">Pending</target>
-        <note>key: table.members.users.status.pending.label</note>
+      <trans-unit id="ae9f7991496a89ee081b830888787eb4ec69511c" resname="user.change_role_modal.canbel_btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: user.change_role_modal.canbel_btn.label</note>
       </trans-unit>
-      <trans-unit id="c529af2563f857a23d58719beb68f1423cfef927" resname="table.orders.empty.action">
-        <source>Commerce integration is not done yet.</source>
-        <target state="new">Commerce integration is not done yet.</target>
-        <note>key: table.orders.empty.action</note>
+      <trans-unit id="9060b9512a856ad72af50eadbb44c2e981104894" resname="user.change_role_modal.title">
+        <source>Change role</source>
+        <target state="new">Change role</target>
+        <note>key: user.change_role_modal.title</note>
       </trans-unit>
-      <trans-unit id="61207afd62eef90a243ac4236309ceb76a89d996" resname="table.orders.empty.info">
-        <source>Orders list is empty</source>
-        <target state="new">Orders list is empty</target>
-        <note>key: table.orders.empty.info</note>
+      <trans-unit id="93a34d39952f210a36fda2bee5c7ea5859ca8fb3" resname="user.status_change.confirmation_modal.activate">
+        <source>Activate</source>
+        <target state="new">Activate</target>
+        <note>key: user.status_change.confirmation_modal.activate</note>
       </trans-unit>
-      <trans-unit id="67bd2adda498bb1abb20225e1e5c39db38646317" resname="table.orders.header.invoice_date">
-        <source>Invoice Date</source>
-        <target state="new">Invoice Date</target>
-        <note>key: table.orders.header.invoice_date</note>
+      <trans-unit id="bbc951c9b3d97615e05cd098748374c7ae9ca367" resname="user.status_change.confirmation_modal.cancel">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: user.status_change.confirmation_modal.cancel</note>
       </trans-unit>
-      <trans-unit id="05229978fcb2bbacbb8f3bc73ff2aef7740300e7" resname="table.orders.header.order_number">
-        <source>Number</source>
-        <target state="new">Number</target>
-        <note>key: table.orders.header.order_number</note>
-      </trans-unit>
-      <trans-unit id="dcad0ee92317770a204e8b9d6acd4d888e937b0e" resname="table.orders.header.payment_status">
-        <source>Status</source>
-        <target state="new">Status</target>
-        <note>key: table.orders.header.payment_status</note>
-      </trans-unit>
-      <trans-unit id="05e236b187906b641c2837f88bd1bc80ee419150" resname="table.orders.header.shipping_status">
-        <source>Shipped</source>
-        <target state="new">Shipped</target>
-        <note>key: table.orders.header.shipping_status</note>
-      </trans-unit>
-      <trans-unit id="168c7d760d391c00aa251ddd38fb053e240888c6" resname="table.orders.header.value">
-        <source>Amount</source>
-        <target state="new">Amount</target>
-        <note>key: table.orders.header.value</note>
+      <trans-unit id="ce9ba92b3ba14bab3daab407d192bcb5f13d47f9" resname="user.status_change.confirmation_modal.deactivate">
+        <source>De-activate</source>
+        <target state="new">De-activate</target>
+        <note>key: user.status_change.confirmation_modal.deactivate</note>
       </trans-unit>
     </body>
   </file>

@@ -11,6 +11,16 @@
         <target state="new">Send</target>
         <note>key: corporate_account.invite_members.submit</note>
       </trans-unit>
+      <trans-unit id="192fcedc1ad90eca96a32cf9f27abb14c5d59511" resname="corporate_account.member.corporate_role_change.new_role">
+        <source>Select new role</source>
+        <target state="new">Select new role</target>
+        <note>key: corporate_account.member.corporate_role_change.new_role</note>
+      </trans-unit>
+      <trans-unit id="84a2dd78ebb53146e71e9f0aa153d49982fc9004" resname="corporate_account.member.corporate_role_change.submit">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: corporate_account.member.corporate_role_change.submit</note>
+      </trans-unit>
       <trans-unit id="f938e848fa6c25d45263ada27ca43832057f94de" resname="role.policy.corporate_account">
         <source>Corporate Account</source>
         <target state="new">Corporate Account</target>

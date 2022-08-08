@@ -21,6 +21,11 @@
         <target state="new">Country</target>
         <note>key: ibexa.address.country</note>
       </trans-unit>
+      <trans-unit id="841264ffb30bbec6ea9917af2df640567d45f8ae" resname="ibexa.address.country.validation.empty">
+        <source>Country cannot be empty.</source>
+        <target state="new">Country cannot be empty.</target>
+        <note>key: ibexa.address.country.validation.empty</note>
+      </trans-unit>
       <trans-unit id="c1783abdbe42ce685ab182d8016139f4d9f4c78a" resname="ibexa.address.fields.address">
         <source>Address</source>
         <target state="new">Address</target>
@@ -31,7 +36,7 @@
         <target state="new">City</target>
         <note>key: ibexa.address.fields.locality</note>
       </trans-unit>
-      <trans-unit id="625aae91eb4e9a3ee1cd7d31636e1e14aee8feee" resname="ibexa.address.fields.postal_code">
+      <trans-unit id="bd1f628dca2d6976de609f8398244012413f876a" resname="ibexa.address.fields.postal_code">
         <source>Postal Code</source>
         <target state="new">Postal Code</target>
         <note>key: ibexa.address.fields.postal_code</note>
@@ -41,10 +46,20 @@
         <target state="new">Region</target>
         <note>key: ibexa.address.fields.region</note>
       </trans-unit>
+      <trans-unit id="fd68c9668ea0611dc15505a4d857a9327c130eed" resname="ibexa.address.fields.street">
+        <source>Street</source>
+        <target state="new">Street</target>
+        <note>key: ibexa.address.fields.street</note>
+      </trans-unit>
       <trans-unit id="fded8caf2b15a0b0698bc770e58cc563f01de2b9" resname="ibexa.address.name">
         <source>Name</source>
         <target state="new">Name</target>
         <note>key: ibexa.address.name</note>
+      </trans-unit>
+      <trans-unit id="84c1ec7e5b84fb525ec8a44b81a0d191c95224bb" resname="ibexa.address.name.validation.empty">
+        <source>Name cannot be empty.</source>
+        <target state="new">Name cannot be empty.</target>
+        <note>key: ibexa.address.name.validation.empty</note>
       </trans-unit>
     </body>
   </file>
