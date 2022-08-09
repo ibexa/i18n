@@ -61,6 +61,11 @@
         <target state="needs-translation">Attribute Definition options are invalid</target>
         <note>key: ibexa.product.attribute_definition.options.valid</note>
       </trans-unit>
+      <trans-unit id="fc275ce0b2056dc990f65cc5ae2ef50322469497" resname="ibexa.product.code.length">
+        <source>Product code is too long. It should have :max_length characters or less</source>
+        <target state="needs-translation">Product code is too long. It should have :max_length characters or less</target>
+        <note>key: ibexa.product.code.length</note>
+      </trans-unit>
       <trans-unit id="30735161edf3e8a1199008948f9ec9de7cd19905" resname="ibexa.product.code.pattern">
         <source>Product code may only contain letters from "a" to "z", numbers, underscores and dashes.</source>
         <target state="needs-translation">Product code may only contain letters from "a" to "z", numbers, underscores and dashes.</target>
