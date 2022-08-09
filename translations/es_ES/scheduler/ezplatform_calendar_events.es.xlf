@@ -51,11 +51,6 @@
         <target state="translated">Publicación del contenido</target>
         <note>key: future_publication.label</note>
       </trans-unit>
-      <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
-        <source>Close</source>
-        <target state="translated">Cerrar</target>
-        <note>key: modal.close</note>
-      </trans-unit>
       <trans-unit id="e7dcdc3f30734cae3e2fc8a4e67c6bd65e4cc2f6" resname="modal.discard.button.cancel.label">
         <source>Cancel</source>
         <target state="translated">Cancelar</target>
