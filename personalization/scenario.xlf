@@ -56,11 +56,6 @@
         <target state="new">No top-selling items</target>
         <note>key: ibexa_personalization.scenario.no_top_selling_items</note>
       </trans-unit>
-      <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
-        <source>Undefined</source>
-        <target state="new">Undefined</target>
-        <note>key: ibexa_personalization.scenario.undefined</note>
-      </trans-unit>
       <trans-unit id="ab9e7870732261d79e13f05882a03f0c6c2e86eb" resname="ibexa_personalization.scenario.user_attribute_has_different_name">
         <source><![CDATA[User attribute has different name <strong>%attr_name%</strong>]]></source>
         <target state="new"><![CDATA[User attribute has different name <strong>%attr_name%</strong>]]></target>

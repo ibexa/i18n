@@ -36,11 +36,6 @@
         <target state="new">Cancel</target>
         <note>key: content.reveal.modal.cancel</note>
       </trans-unit>
-      <trans-unit id="49dc9cd191676888376564d941c066297f82e95b" resname="content.reveal.modal.close">
-        <source>Close</source>
-        <target state="new">Close</target>
-        <note>key: content.reveal.modal.close</note>
-      </trans-unit>
       <trans-unit id="0c574b4551238bd5a900969428aa0fd0b768d808" resname="content.reveal.modal.confirm">
         <source>Cancel scheduled hiding</source>
         <target state="new">Cancel scheduled hiding</target>
