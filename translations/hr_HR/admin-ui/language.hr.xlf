@@ -31,6 +31,11 @@
         <target state="needs-translation">Language '%name%' removed.</target>
         <note>key: language.delete.success</note>
       </trans-unit>
+      <trans-unit id="71ec7cf0f6cecec112438059bf15066f4ccb5ba1" resname="language.delete_language">
+        <source>Delete</source>
+        <target state="needs-translation">Delete</target>
+        <note>key: language.delete_language</note>
+      </trans-unit>
       <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled">
         <source>Disabled</source>
         <target state="needs-translation">Disabled</target>
@@ -85,6 +90,11 @@
         <source>Languages</source>
         <target state="needs-translation">Languages</target>
         <note>key: language.list</note>
+      </trans-unit>
+      <trans-unit id="ce129521119cb2cd7bf10d1f95657390fb9cccfd" resname="language.list.number_of_results">
+        <source>List (%number_of_results%)</source>
+        <target state="needs-translation">List (%number_of_results%)</target>
+        <note>key: language.list.number_of_results</note>
       </trans-unit>
       <trans-unit id="2a52961302ce7dfa4a21c5e0bcc239f5a9a36cfe" resname="language.modal.message">
         <source>Do you want to delete the language(s)?</source>

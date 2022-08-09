@@ -7,9 +7,19 @@
     </header>
     <body>
       <trans-unit id="11abd66e76f0f57f8515504c77608f533a674999" resname="measurement.name">
-        <source>Measurement</source>
-        <target state="needs-translation">Measurement</target>
+        <source>Measurement (deprecated)</source>
+        <target state="needs-translation">Measurement (deprecated)</target>
         <note>key: measurement.name</note>
+      </trans-unit>
+      <trans-unit id="9997aecbb7c5fca9074d214be56a822fae25a0ed" resname="measurement_range.name">
+        <source>Measurement (range)</source>
+        <target state="needs-translation">Measurement (range)</target>
+        <note>key: measurement_range.name</note>
+      </trans-unit>
+      <trans-unit id="3a51c5334faa2f7a4a37bb8cec861ba9beedc97e" resname="measurement_single.name">
+        <source>Measurement (single)</source>
+        <target state="needs-translation">Measurement (single)</target>
+        <note>key: measurement_single.name</note>
       </trans-unit>
       <trans-unit id="c81c5b47ca025e724b968f7f0d9b47334565d0fc" resname="product_catalog.attribute.ibexa_measurement.defaultRangeMinimumValue">
         <source>Default Value</source>
