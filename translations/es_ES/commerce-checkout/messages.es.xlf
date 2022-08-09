@@ -836,11 +836,6 @@
         <target state="needs-translation">currently chosen address</target>
         <note>key: currently chosen address</note>
       </trans-unit>
-      <trans-unit id="aabd7393a241dbadbd20e2ebcf8892b732ddcfeb" resname="data_privacy_hint">
-        <source>data_privacy_hint</source>
-        <target state="needs-translation">data_privacy_hint</target>
-        <note>key: data_privacy_hint</note>
-      </trans-unit>
       <trans-unit id="3c1f8aac10c311ec7575a25b550ba9195824b99d" resname="error_message_checkout_delivery_address">
         <source>There are errors on the form. Please correct them before continuing.</source>
         <target state="translated">Hay errores en el formulario. Por favor, corrígelos antes de continuar.</target>
@@ -860,11 +855,6 @@
         <source>Express delivery</source>
         <target state="translated">Entrega urgente</target>
         <note>key: express_delivery</note>
-      </trans-unit>
-      <trans-unit id="0756c032c5a4d2303d279aab72bf0932b4b57865" resname="introtext_order_summary">
-        <source>introtext_order_summary</source>
-        <target state="needs-translation">introtext_order_summary</target>
-        <note>key: introtext_order_summary</note>
       </trans-unit>
       <trans-unit id="55b729627a9c8428bd82ba50a11920e4120378e4" resname="label.add_a_reference">
         <source>Add a reference</source>
