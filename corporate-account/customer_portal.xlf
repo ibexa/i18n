@@ -193,35 +193,15 @@
         <target state="new">Address Book</target>
         <note>key: address_book.header</note>
       </trans-unit>
-      <trans-unit id="0f71c1f7b5eb2beb5d2e950ae2dc3949a2f9b48e" resname="company.details.tab.address_book.shipping_address.table.action.edit">
-        <source>Edit</source>
-        <target state="new">Edit</target>
-        <note>key: company.details.tab.address_book.shipping_address.table.action.edit</note>
-      </trans-unit>
-      <trans-unit id="bb0610e0c96f3401684538d02c9f3a9a9479e1c1" resname="company.details.tab.address_book.shipping_address.table.header.address">
-        <source>Address</source>
-        <target state="new">Address</target>
-        <note>key: company.details.tab.address_book.shipping_address.table.header.address</note>
-      </trans-unit>
-      <trans-unit id="991f170a6ff8326e1295be8b6b0c8009e3e234c5" resname="company.details.tab.address_book.shipping_address.table.header.deafault">
-        <source>Default</source>
-        <target state="new">Default</target>
-        <note>key: company.details.tab.address_book.shipping_address.table.header.deafault</note>
-      </trans-unit>
-      <trans-unit id="3f02f71de071dbaa6204a6095b017d10281885ea" resname="company.details.tab.address_book.shipping_address.table.header.email_address">
-        <source>Email Address</source>
-        <target state="new">Email Address</target>
-        <note>key: company.details.tab.address_book.shipping_address.table.header.email_address</note>
-      </trans-unit>
-      <trans-unit id="1019f319693d8bdf20bf08bd925fb97c021fd311" resname="company.details.tab.address_book.shipping_address.table.header.phon">
-        <source>Phone</source>
-        <target state="new">Phone</target>
-        <note>key: company.details.tab.address_book.shipping_address.table.header.phon</note>
-      </trans-unit>
       <trans-unit id="b11e7e66bc4ceb70107127bb185cf0b51a90c5cb" resname="contact.breadcrumb">
         <source>Contact</source>
         <target state="new">Contact</target>
         <note>key: contact.breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="f875fb907e0884e35be410864ff3c11c975bd2d7" resname="contact.no_contact_set">
+        <source>No member is set as a contact</source>
+        <target state="new">No member is set as a contact</target>
+        <note>key: contact.no_contact_set</note>
       </trans-unit>
       <trans-unit id="6f61481110a2d74001c323016d123f4ac68e5fd1" resname="contact.profile.role">
         <source>Contact Person</source>
@@ -338,11 +318,6 @@
         <target state="new">My Profile</target>
         <note>key: my_profile.title</note>
       </trans-unit>
-      <trans-unit id="1b60d2ed7158736cbc1353d72a6dc44a6772147f" resname="notifications">
-        <source>Thanks for registration!</source>
-        <target state="new">Thanks for registration!</target>
-        <note>key: notifications</note>
-      </trans-unit>
       <trans-unit id="5d58a26799e4733d9e207b601656eacc0bdf4e78" resname="orders.table.headline">
         <source>List (%count%)</source>
         <target state="new">List (%count%)</target>
@@ -392,6 +367,21 @@
         <source>Phone number</source>
         <target state="new">Phone number</target>
         <note>key: user_profile.phone.label</note>
+      </trans-unit>
+      <trans-unit id="1e2e623cc917d695a57bd1e9208b133a3449b13b" resname="website.brand">
+        <source>Customer Portal</source>
+        <target state="new">Customer Portal</target>
+        <note>key: website.brand</note>
+      </trans-unit>
+      <trans-unit id="82d3800f1e161691a8a24cc55a9b5575977d2b42" resname="website.header.user_menu.logout">
+        <source>Logout</source>
+        <target state="new">Logout</target>
+        <note>key: website.header.user_menu.logout</note>
+      </trans-unit>
+      <trans-unit id="c59dc9464cf7dbb571f86d9f823996586285c113" resname="website.title">
+        <source>Customer Portal</source>
+        <target state="new">Customer Portal</target>
+        <note>key: website.title</note>
       </trans-unit>
     </body>
   </file>

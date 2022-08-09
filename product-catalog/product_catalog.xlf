@@ -851,26 +851,6 @@
         <target state="new">Attributes</target>
         <note>key: field_definition.ibexa_product_specification.attributes_definitions</note>
       </trans-unit>
-      <trans-unit id="a89da59524f07d8e7429988ae593417143f0d642" resname="filter.attribute.color.label">
-        <source>Color</source>
-        <target state="new">Color</target>
-        <note>key: filter.attribute.color.label</note>
-      </trans-unit>
-      <trans-unit id="377a496032e0bca6b6fbe5a13f4e4611ca9a738c" resname="filter.attribute.float.label">
-        <source>Float</source>
-        <target state="new">Float</target>
-        <note>key: filter.attribute.float.label</note>
-      </trans-unit>
-      <trans-unit id="d6e5e5760a45b784a414a3680678453dd1a7e97f" resname="filter.attribute.integer.label">
-        <source>Integer</source>
-        <target state="new">Integer</target>
-        <note>key: filter.attribute.integer.label</note>
-      </trans-unit>
-      <trans-unit id="be97441afa76ed9383b30df9cbceefd600f35f24" resname="filter.attribute.selection.label">
-        <source>Selection</source>
-        <target state="new">Selection</target>
-        <note>key: filter.attribute.selection.label</note>
-      </trans-unit>
       <trans-unit id="e111859cc4b382247a3b67491dae64a01dedcf29" resname="filter.product_attribute.checkbox.value.0">
         <source>Unselected</source>
         <target state="new">Unselected</target>
@@ -880,11 +860,6 @@
         <source>Selected</source>
         <target state="new">Selected</target>
         <note>key: filter.product_attribute.checkbox.value.1</note>
-      </trans-unit>
-      <trans-unit id="00442921b59b6f189ddd8270250950868ca48f91" resname="filter.product_attributes.label">
-        <source>Product attributes</source>
-        <target state="new">Product attributes</target>
-        <note>key: filter.product_attributes.label</note>
       </trans-unit>
       <trans-unit id="40a20202f903fbb4be7201738555ff26a60f3cb5" resname="filter.product_availability.label">
         <source>Product availability</source>

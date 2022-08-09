@@ -26,10 +26,30 @@
         <target state="new">Status</target>
         <note>key: Status</note>
       </trans-unit>
-      <trans-unit id="b698c11e84460ed5999bfeb5cbf25b865c238f3c" resname="TODO">
-        <source>Close</source>
-        <target state="new">Close</target>
-        <note>key: TODO</note>
+      <trans-unit id="0f71c1f7b5eb2beb5d2e950ae2dc3949a2f9b48e" resname="company.details.tab.address_book.shipping_address.table.action.edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.action.edit</note>
+      </trans-unit>
+      <trans-unit id="bb0610e0c96f3401684538d02c9f3a9a9479e1c1" resname="company.details.tab.address_book.shipping_address.table.header.address">
+        <source>Address</source>
+        <target state="new">Address</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.header.address</note>
+      </trans-unit>
+      <trans-unit id="991f170a6ff8326e1295be8b6b0c8009e3e234c5" resname="company.details.tab.address_book.shipping_address.table.header.deafault">
+        <source>Default</source>
+        <target state="new">Default</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.header.deafault</note>
+      </trans-unit>
+      <trans-unit id="3f02f71de071dbaa6204a6095b017d10281885ea" resname="company.details.tab.address_book.shipping_address.table.header.email_address">
+        <source>Email Address</source>
+        <target state="new">Email Address</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.header.email_address</note>
+      </trans-unit>
+      <trans-unit id="1019f319693d8bdf20bf08bd925fb97c021fd311" resname="company.details.tab.address_book.shipping_address.table.header.phon">
+        <source>Phone</source>
+        <target state="new">Phone</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.header.phon</note>
       </trans-unit>
       <trans-unit id="019a091d637b107516516b0bd1b4c259ba998421" resname="ibexa.corporate_accounts.invitations.success">
         <source>Invitations sent</source>
