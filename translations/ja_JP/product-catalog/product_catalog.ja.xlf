@@ -562,8 +562,8 @@
         <note>key: catalog.transition.publish</note>
       </trans-unit>
       <trans-unit id="f08fd9dc3f6c3c6e004bde882bf976275c84d9e8" resname="catalog.transition.success">
-        <source>Transition '%transition%' executed.</source>
-        <target state="needs-translation">Transition '%transition%' executed.</target>
+        <source>Catalog status has been changed.</source>
+        <target state="needs-translation">Catalog status has been changed.</target>
         <note>key: catalog.transition.success</note>
       </trans-unit>
       <trans-unit id="78b3ba6b2b529109f8f273f82f8eca6b09f00f9b" resname="catalog.update.success">
@@ -577,8 +577,8 @@
         <note>key: catalog.view.catalog</note>
       </trans-unit>
       <trans-unit id="5df80e693564b3fd2e2a27833fe36058279ed502" resname="catalog.view.modal.transition.body">
-        <source>Are you sure you want to transition Catalog to %transitionLabel%?</source>
-        <target state="needs-translation">Are you sure you want to transition Catalog to %transitionLabel%?</target>
+        <source>Are you sure you want to change the catalog status to "%status%"?</source>
+        <target state="needs-translation">Are you sure you want to change the catalog status to "%status%"?</target>
         <note>key: catalog.view.modal.transition.body</note>
       </trans-unit>
       <trans-unit id="05e430e9f651d630e52ac142c04f2871214ff8b6" resname="catalog.view.title">
@@ -826,6 +826,16 @@
         <target state="translated">翻訳を削除</target>
         <note>key: customer_group_translation_remove_form.remove</note>
       </trans-unit>
+      <trans-unit id="457a91099b950def21ddee41b89756ca76e51944" resname="daterange.max.label">
+        <source>To</source>
+        <target state="needs-translation">To</target>
+        <note>key: daterange.max.label</note>
+      </trans-unit>
+      <trans-unit id="c1815cc37860346983334735e6f612423480b6ae" resname="daterange.min.label">
+        <source>From</source>
+        <target state="needs-translation">From</target>
+        <note>key: daterange.min.label</note>
+      </trans-unit>
       <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
         <source>%fieldName% Field is required</source>
         <target state="needs-translation">%fieldName% Field is required</target>
@@ -841,26 +851,6 @@
         <target state="needs-translation">Attributes</target>
         <note>key: field_definition.ibexa_product_specification.attributes_definitions</note>
       </trans-unit>
-      <trans-unit id="a89da59524f07d8e7429988ae593417143f0d642" resname="filter.attribute.color.label">
-        <source>Color</source>
-        <target state="needs-translation">Color</target>
-        <note>key: filter.attribute.color.label</note>
-      </trans-unit>
-      <trans-unit id="377a496032e0bca6b6fbe5a13f4e4611ca9a738c" resname="filter.attribute.float.label">
-        <source>Float</source>
-        <target state="needs-translation">Float</target>
-        <note>key: filter.attribute.float.label</note>
-      </trans-unit>
-      <trans-unit id="d6e5e5760a45b784a414a3680678453dd1a7e97f" resname="filter.attribute.integer.label">
-        <source>Integer</source>
-        <target state="needs-translation">Integer</target>
-        <note>key: filter.attribute.integer.label</note>
-      </trans-unit>
-      <trans-unit id="be97441afa76ed9383b30df9cbceefd600f35f24" resname="filter.attribute.selection.label">
-        <source>Selection</source>
-        <target state="needs-translation">Selection</target>
-        <note>key: filter.attribute.selection.label</note>
-      </trans-unit>
       <trans-unit id="e111859cc4b382247a3b67491dae64a01dedcf29" resname="filter.product_attribute.checkbox.value.0">
         <source>Unselected</source>
         <target state="needs-translation">Unselected</target>
@@ -870,11 +860,6 @@
         <source>Selected</source>
         <target state="needs-translation">Selected</target>
         <note>key: filter.product_attribute.checkbox.value.1</note>
-      </trans-unit>
-      <trans-unit id="00442921b59b6f189ddd8270250950868ca48f91" resname="filter.product_attributes.label">
-        <source>Product attributes</source>
-        <target state="needs-translation">Product attributes</target>
-        <note>key: filter.product_attributes.label</note>
       </trans-unit>
       <trans-unit id="40a20202f903fbb4be7201738555ff26a60f3cb5" resname="filter.product_availability.label">
         <source>Product availability</source>
@@ -1066,10 +1051,10 @@
         <target state="needs-translation">Are you sure you want to delete this Product Type?</target>
         <note>key: modal.delete.product_type.confirm_message</note>
       </trans-unit>
-      <trans-unit id="10c262b478c96f8fed5cbda8047d036c09898ca3" resname="modal.transition.catalog.confirm_button.label">
-        <source>Confirm</source>
-        <target state="needs-translation">Confirm</target>
-        <note>key: modal.transition.catalog.confirm_button.label</note>
+      <trans-unit id="3bd38931c85359d2185616fd6162cae9e1f8c33b" resname="modal.transition.catalog.change_button.label">
+        <source>Change</source>
+        <target state="needs-translation">Change</target>
+        <note>key: modal.transition.catalog.change_button.label</note>
       </trans-unit>
       <trans-unit id="75751e6fb57250f631fc029a42202f080fc08d77" resname="modal.transition.catalog.confirm_message">
         <source>Are you sure you want to transition?</source>
@@ -1112,8 +1097,8 @@
         <note>key: product.asset.delete.success</note>
       </trans-unit>
       <trans-unit id="d90613484c3b5901786fb6b30ec08b0fa1d01f98" resname="product.asset.group.success">
-        <source>Assets group created.</source>
-        <target state="needs-translation">Assets group created.</target>
+        <source>Assets collection created.</source>
+        <target state="needs-translation">Assets collection created.</target>
         <note>key: product.asset.group.success</note>
       </trans-unit>
       <trans-unit id="ed4b78a9b00310cbd7774f9412f1ee4716f501a8" resname="product.availability.create.success">
@@ -1970,6 +1955,16 @@
         <source>Product type "%product_type_name%"</source>
         <target state="needs-translation">Product type "%product_type_name%"</target>
         <note>key: product_type.view.title</note>
+      </trans-unit>
+      <trans-unit id="2e0b0e4c66970c996dd8d5c6ac9647cb1703fbf2" resname="product_variant.anchor_navigation_item.attributes">
+        <source>Attributes</source>
+        <target state="needs-translation">Attributes</target>
+        <note>key: product_variant.anchor_navigation_item.attributes</note>
+      </trans-unit>
+      <trans-unit id="a1d643b3f1f9369acc4aeeb3d56bb49c6c5aaa31" resname="product_variant.anchor_navigation_item.basic_information">
+        <source>Basic information</source>
+        <target state="needs-translation">Basic information</target>
+        <note>key: product_variant.anchor_navigation_item.basic_information</note>
       </trans-unit>
       <trans-unit id="f789cd7b9ab753b5c98a58096800fdb417942e00" resname="product_variant.create.action_name">
         <source>Creating product variant</source>
