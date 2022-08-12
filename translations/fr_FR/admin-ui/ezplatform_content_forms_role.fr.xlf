@@ -48,17 +48,17 @@
       </trans-unit>
       <trans-unit id="6e6115f8e643b119a030e79d964280d51d7f254c" resname="role.policy.limitation.userpermissions.role_title">
         <source>Roles:</source>
-        <target state="needs-translation">Roles:</target>
+        <target state="translated">Rôles :</target>
         <note>key: role.policy.limitation.userpermissions.role_title</note>
       </trans-unit>
       <trans-unit id="d4d3dd0f27d3408bb66b16d7218872d81c4fa7bb" resname="role.policy.limitation.userpermissions.user_groups_title">
         <source>User Groups:</source>
-        <target state="needs-translation">User Groups:</target>
+        <target state="translated">Groupes d'utilisateurs :</target>
         <note>key: role.policy.limitation.userpermissions.user_groups_title</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Type</target>
         <note>key: role.policy.type</note>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
