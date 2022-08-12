@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="48fc0ce4ff40934d1fff06a56055c9ad73f634f4" resname="ezrichtext.custom_tags.ezfacebook.label">
         <source>Facebook</source>
-        <target state="needs-translation">Facebook</target>
+        <target state="translated">Facebook</target>
         <note>key: ezrichtext.custom_tags.ezfacebook.label</note>
       </trans-unit>
       <trans-unit id="b7ef5c07f5cbc982f23e547bc1e1326752853018" resname="ezrichtext.custom_tags.eztwitter.attributes.cards.label">
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="5671ef11994be024b75d6360144708538714d952" resname="ezrichtext.custom_tags.eztwitter.attributes.conversation.label">
         <source>Conversation</source>
-        <target state="needs-translation">Conversation</target>
+        <target state="translated">Conversation</target>
         <note>key: ezrichtext.custom_tags.eztwitter.attributes.conversation.label</note>
       </trans-unit>
       <trans-unit id="7fa382eb492f241c0377d64e8ad5c8ab8aa740fb" resname="ezrichtext.custom_tags.eztwitter.attributes.dnt.label">
         <source>DNT</source>
-        <target state="needs-translation">DNT</target>
+        <target state="translated">DNT</target>
         <note>key: ezrichtext.custom_tags.eztwitter.attributes.dnt.label</note>
       </trans-unit>
       <trans-unit id="df37139c5dd99f14d3e1390341bd49d11da3d5ba" resname="ezrichtext.custom_tags.eztwitter.attributes.lang.label">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="3d7387b1935640d467dc4070c0a9fe4c35d81e52" resname="ezrichtext.custom_tags.eztwitter.label">
         <source>Twitter</source>
-        <target state="needs-translation">Twitter</target>
+        <target state="translated">Twitter</target>
         <note>key: ezrichtext.custom_tags.eztwitter.label</note>
       </trans-unit>
       <trans-unit id="605cb001f1553455c945e45234d73b47cf1417b1" resname="ezrichtext.custom_tags.ezyoutube.attributes.autoplay.label">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="522f743b7ab00a525b5d5501de4c59bdeca967a4" resname="ezrichtext.custom_tags.ezyoutube.label">
         <source>YouTube</source>
-        <target state="needs-translation">YouTube</target>
+        <target state="translated">YouTube</target>
         <note>key: ezrichtext.custom_tags.ezyoutube.label</note>
       </trans-unit>
     </body>
