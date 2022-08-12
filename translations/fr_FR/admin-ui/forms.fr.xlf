@@ -163,32 +163,32 @@
       </trans-unit>
       <trans-unit id="517e3666a759ee26e02fcc468446ef39b3ae9bf0" resname="role.policy.catalog">
         <source>Catalog</source>
-        <target state="needs-translation">Catalog</target>
+        <target state="translated">Catalogue</target>
         <note>key: role.policy.catalog</note>
       </trans-unit>
       <trans-unit id="f0db798b7ae5b93b395d0f688ea80784faddcd6b" resname="role.policy.catalog.all_functions">
         <source>Catalog / All functions</source>
-        <target state="needs-translation">Catalog / All functions</target>
+        <target state="translated">Catalogue / Toutes les fonctions</target>
         <note>key: role.policy.catalog.all_functions</note>
       </trans-unit>
       <trans-unit id="9bab6251a421ba09e54114cd858abdc9a2a59f55" resname="role.policy.catalog.create">
         <source>Catalog / Create</source>
-        <target state="needs-translation">Catalog / Create</target>
+        <target state="translated">Catalogue / Créer</target>
         <note>key: role.policy.catalog.create</note>
       </trans-unit>
       <trans-unit id="6844731afb7e5c4fc7414f157749ca064a82d798" resname="role.policy.catalog.delete">
         <source>Catalog / Delete</source>
-        <target state="needs-translation">Catalog / Delete</target>
+        <target state="translated">Catalogue / Supprimer</target>
         <note>key: role.policy.catalog.delete</note>
       </trans-unit>
       <trans-unit id="f3f6d817abf52411d94909850040df8aebaf2c03" resname="role.policy.catalog.edit">
         <source>Catalog / Edit</source>
-        <target state="needs-translation">Catalog / Edit</target>
+        <target state="translated">Catalogue / Modifier</target>
         <note>key: role.policy.catalog.edit</note>
       </trans-unit>
       <trans-unit id="d9ced925ac206beb427c609d73e8adefb43346fb" resname="role.policy.catalog.view">
         <source>Catalog / View</source>
-        <target state="needs-translation">Catalog / View</target>
+        <target state="translated">Catalogue / Voir</target>
         <note>key: role.policy.catalog.view</note>
       </trans-unit>
       <trans-unit id="f52e45b25ff70b3d1d07c57911ceda58dcdf7431" resname="role.policy.class">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="3551d9a7a066b2a0941f244fa91f766c089fd063" resname="role.policy.commerce">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">Commerce</target>
         <note>key: role.policy.commerce</note>
       </trans-unit>
       <trans-unit id="b5a03c317caa2abbc2a833f7a1bd96dabe75f707" resname="role.policy.commerce.all_functions">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="0a08a017bb100a4d45400bc82e83c84a89252586" resname="role.policy.comparison.view">
         <source>Comparison / View</source>
-        <target state="translated">Comparaison / Vue</target>
+        <target state="translated">Comparaison / Voir</target>
         <note>key: role.policy.comparison.view</note>
       </trans-unit>
       <trans-unit id="ffe83a713e8b33558df040efa1eeadd0b1cc18e0" resname="role.policy.content">
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="5f165ef2e938f6710b56e2e8ee416414e430b77c" resname="role.policy.setting">
         <source>Setting</source>
-        <target state="needs-translation">Setting</target>
+        <target state="translated">Réglages</target>
         <note>key: role.policy.setting</note>
       </trans-unit>
       <trans-unit id="8775d52b987252ee1ad0867fe4f9e23dec668b5b" resname="role.policy.setting.all_functions">
@@ -863,7 +863,7 @@
       </trans-unit>
       <trans-unit id="2e2e751bf3201fb6c68307c683a3ac384b9ec0cf" resname="role.policy.site">
         <source>Site</source>
-        <target state="needs-translation">Site</target>
+        <target state="translated">Site</target>
         <note>key: role.policy.site</note>
       </trans-unit>
       <trans-unit id="8a7be79652e042c41e49671038f309291c780c78" resname="role.policy.site.all_functions">
@@ -873,7 +873,7 @@
       </trans-unit>
       <trans-unit id="fa041654ee2bd9a54a870675fc96399dac830b73" resname="role.policy.site.change_status">
         <source>Site / Change status</source>
-        <target state="needs-translation">Site / Change status</target>
+        <target state="translated">Site / Changer le statut</target>
         <note>key: role.policy.site.change_status</note>
       </trans-unit>
       <trans-unit id="7974d9702481b771e623dd447d3df7d8e7350e7b" resname="role.policy.site.create">
@@ -883,17 +883,17 @@
       </trans-unit>
       <trans-unit id="45e0983429e1df736d0c26b5b9c62a8f522c5c00" resname="role.policy.site.delete">
         <source>Site / Delete</source>
-        <target state="needs-translation">Site / Delete</target>
+        <target state="translated">Site / Supprimer</target>
         <note>key: role.policy.site.delete</note>
       </trans-unit>
       <trans-unit id="f473815a92d4ec35eeaa54464164aa98119594df" resname="role.policy.site.edit">
         <source>Site / Edit</source>
-        <target state="needs-translation">Site / Edit</target>
+        <target state="translated">Site / Modifier</target>
         <note>key: role.policy.site.edit</note>
       </trans-unit>
       <trans-unit id="34b7e317be37673c466c03c644176ffb618295a8" resname="role.policy.site.view">
         <source>Site / View</source>
-        <target state="needs-translation">Site / View</target>
+        <target state="translated">Site / Voir</target>
         <note>key: role.policy.site.view</note>
       </trans-unit>
       <trans-unit id="012dce76ef569ba377ffe98ddbee8d3c3d270e15" resname="role.policy.state">
@@ -953,7 +953,7 @@
       </trans-unit>
       <trans-unit id="73c3d3a21c7264a991abf4e6ffe68751a1dbdb58" resname="role.policy.url">
         <source>Url</source>
-        <target state="needs-translation">Url</target>
+        <target state="translated">Url</target>
         <note>key: role.policy.url</note>
       </trans-unit>
       <trans-unit id="4b00222e7c5b268480fe9db2de1744d0f25b677f" resname="role.policy.url.all_functions">
@@ -968,7 +968,7 @@
       </trans-unit>
       <trans-unit id="a9e0e8261157424542b507b9ae39b4e1193d24cd" resname="role.policy.url.view">
         <source>Url / View</source>
-        <target state="translated">Url / Vue</target>
+        <target state="translated">Url / Voir</target>
         <note>key: role.policy.url.view</note>
       </trans-unit>
       <trans-unit id="78b9d0d52e636ef2d0d1f919de16154404c2be0f" resname="role.policy.user">
@@ -988,7 +988,7 @@
       </trans-unit>
       <trans-unit id="587199065d14880416b8061b73788e731a201c27" resname="role.policy.user.invite">
         <source>User / Invite</source>
-        <target state="needs-translation">User / Invite</target>
+        <target state="translated">Utilisateur / Inviter</target>
         <note>key: role.policy.user.invite</note>
       </trans-unit>
       <trans-unit id="f25505dc2f59df21e3125664c4fdad951d82df3b" resname="role.policy.user.login">
@@ -1018,7 +1018,7 @@
       </trans-unit>
       <trans-unit id="30c5e1c11a520e499ad68130a2c7b844c2243888" resname="role.policy.workflow">
         <source>Workflow</source>
-        <target state="needs-translation">Workflow</target>
+        <target state="translated">Workflow</target>
         <note>key: role.policy.workflow</note>
       </trans-unit>
       <trans-unit id="2b2742373d60445d02b866c30e21db99f0755ae6" resname="role.policy.workflow.all_functions">
@@ -1053,7 +1053,7 @@
       </trans-unit>
       <trans-unit id="0bcd4dbd1300e2309dd541f817fef6bf5fc029d8" resname="role_assignment.sections">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Section</target>
         <note>key: role_assignment.sections</note>
       </trans-unit>
       <trans-unit id="7ed8b44c2b610ecc43a5cc390335657ebf798ebc" resname="role_assignment.users">
@@ -1158,17 +1158,17 @@
       </trans-unit>
       <trans-unit id="d183d1b00142b36a06d45e6341e4c8b01976a6b9" resname="translation.base_language.label">
         <source>Source language</source>
-        <target state="needs-translation">Source language</target>
+        <target state="translated">Langue source</target>
         <note>key: translation.base_language.label</note>
       </trans-unit>
       <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">
         <source>No language</source>
-        <target state="needs-translation">No language</target>
+        <target state="translated">Aucune langue</target>
         <note>key: translation.base_language.no_language</note>
       </trans-unit>
       <trans-unit id="68c3e0fd0fe047dae5853efbc89ccb128b544263" resname="translation.language.label">
         <source>Target language</source>
-        <target state="needs-translation">Target language</target>
+        <target state="translated">Langue cible</target>
         <note>key: translation.language.label</note>
       </trans-unit>
       <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
@@ -1178,7 +1178,7 @@
       </trans-unit>
       <trans-unit id="4d530164d6f917754a1625bae48c2a323197ac7a" resname="user.invitation.submit">
         <source>Send</source>
-        <target state="needs-translation">Send</target>
+        <target state="translated">Envoyer</target>
         <note>key: user.invitation.submit</note>
       </trans-unit>
       <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete">
