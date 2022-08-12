@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
         <source>SiteAccess</source>
-        <target state="needs-translation">SiteAccess</target>
+        <target state="translated">SiteAccess</target>
         <note>key: policy.limitation.identifier.siteaccess</note>
       </trans-unit>
       <trans-unit id="30cc18895dfb23b14d3f9b8249e90baf678c8180" resname="policy.limitation.identifier.state">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="2a8670e5f91ad9a4cc0650d51c51afc8bd517494" resname="policy.limitation.identifier.taxonomy">
         <source>Taxonomy</source>
-        <target state="needs-translation">Taxonomy</target>
+        <target state="translated">Taxonomie</target>
         <note>key: policy.limitation.identifier.taxonomy</note>
       </trans-unit>
       <trans-unit id="097f571a3c731c66c83230e465f4b3c9af811add" resname="policy.limitation.identifier.userpermissions">
