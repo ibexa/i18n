@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="0b7526586468170ae85e2dec10e6ffe06da7e146" resname="tab.policies.module">
         <source>Module</source>
-        <target state="needs-translation">Module</target>
+        <target state="translated">Module</target>
         <note>key: tab.policies.module</note>
       </trans-unit>
       <trans-unit id="445e5dce642562c06137fef60c9a7fcf788a9da6" resname="tab.policies.no_policies">
