@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="235e57ee5665f61ea5873be5e2f6cd15b05a51c0" resname="cannot_upload.message">
         <source>Cannot upload file</source>
-        <target state="translated">Impossible de charger le fichier</target>
+        <target state="translated">Impossible de téléverser le fichier</target>
         <note>key: cannot_upload.message</note>
       </trans-unit>
       <trans-unit id="9914d81081499df395d9a54e9d5208be234d4367" resname="delete.label">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="13ad49603f42b4ec5f9328d94f90e4f6d7ba6203" resname="upload_btn.label">
         <source>Upload file</source>
-        <target state="needs-translation">Upload file</target>
+        <target state="translated">Téléverser un fichier</target>
         <note>key: upload_btn.label</note>
       </trans-unit>
       <trans-unit id="6b2bc429ffc374b49b5de9e3563d3d5a7668e4b2" resname="upload_popup.close">
