@@ -38,17 +38,17 @@
       </trans-unit>
       <trans-unit id="921c295cb79d59f1703cfdfae6f1fcdb581451cf" resname="url_wildcard.label.alias">
         <source>URL alias wildcard</source>
-        <target state="needs-translation">URL alias wildcard</target>
+        <target state="translated">Alias d'URL avec joker</target>
         <note>key: url_wildcard.label.alias</note>
       </trans-unit>
       <trans-unit id="906de07fde9ac052d30b57ea68d7c3ffa70375aa" resname="url_wildcard.label.destination">
         <source>Destination</source>
-        <target state="needs-translation">Destination</target>
+        <target state="translated">Destination</target>
         <note>key: url_wildcard.label.destination</note>
       </trans-unit>
       <trans-unit id="91723be708581141897d876ab0f090f3ef40c7b1" resname="url_wildcard.label.type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Type</target>
         <note>key: url_wildcard.label.type</note>
       </trans-unit>
       <trans-unit id="e656d6fad42e88206dbf86e5229b6f3f6ceb8eff" resname="url_wildcard.list.title">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="18581091634e767b0fda027d72e003df647a6a95" resname="url_wildcard.modal.create.url.destintion">
         <source>Destination</source>
-        <target state="needs-translation">Destination</target>
+        <target state="translated">Destination</target>
         <note>key: url_wildcard.modal.create.url.destintion</note>
       </trans-unit>
       <trans-unit id="7969d17d6f8bb39c2f650f1519a67c805e8c124e" resname="url_wildcard.modal.create.url.wildcard">
@@ -88,17 +88,17 @@
       </trans-unit>
       <trans-unit id="d5f8b02988ca5a63f52253b3eec84f9cc8f799cd" resname="url_wildcard.search.placeholder">
         <source>Search for URL wildcards</source>
-        <target state="needs-translation">Search for URL wildcards</target>
+        <target state="translated">Rechercher des jokers d'URL</target>
         <note>key: url_wildcard.search.placeholder</note>
       </trans-unit>
       <trans-unit id="5646653e7d129c0a5c96b6b87e99eeb9d92a6fee" resname="url_wildcard.type.all">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Tout</target>
         <note>key: url_wildcard.type.all</note>
       </trans-unit>
       <trans-unit id="a3115263bb80e6486cc16154e23fecd398c0b352" resname="url_wildcard.type.direct">
         <source>Direct</source>
-        <target state="needs-translation">Direct</target>
+        <target state="translated">Direct</target>
         <note>key: url_wildcard.type.direct</note>
       </trans-unit>
       <trans-unit id="845ff50e5a5dd8e26d619dce56195e85daae20f7" resname="url_wildcard.type.forward">
