@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="694f61c4eb35d09307bcf40e14159061c6ba1f35" resname="drop_action.message">
         <source>Drag and drop file</source>
-        <target state="needs-translation">Drag and drop file</target>
+        <target state="translated">Glisser et déposer un fichier</target>
         <note>key: drop_action.message</note>
       </trans-unit>
       <trans-unit id="731fcd17e28af2907a63b974bab9c1dfa96aad54" resname="drop_action.separator">
         <source>or</source>
-        <target state="needs-translation">or</target>
+        <target state="translated">ou</target>
         <note>key: drop_action.separator</note>
       </trans-unit>
       <trans-unit id="ec408ab37730af3a79d49ee278f3b215ce89057c" resname="edit.label">
@@ -58,17 +58,17 @@
       </trans-unit>
       <trans-unit id="412c9936722fbbcd34664fdbfe33880fad7ef998" resname="multi_file_upload_open_btn.label">
         <source>Upload</source>
-        <target state="needs-translation">Upload</target>
+        <target state="translated">Téléverser</target>
         <note>key: multi_file_upload_open_btn.label</note>
       </trans-unit>
       <trans-unit id="b23e0c9a0c723cb5fc100bbf270a045cb6c895da" resname="upload.progress_bar.uploading">
         <source>Uploading...</source>
-        <target state="needs-translation">Uploading...</target>
+        <target state="translated">Téléversement...</target>
         <note>key: upload.progress_bar.uploading</note>
       </trans-unit>
       <trans-unit id="76d7ffabd7e8c5d27a9b732dd5f15d1da68ff00c" resname="upload.success.message">
         <source>100% Uploaded</source>
-        <target state="needs-translation">100% Uploaded</target>
+        <target state="translated">100% Téléversé</target>
         <note>key: upload.success.message</note>
       </trans-unit>
       <trans-unit id="13ad49603f42b4ec5f9328d94f90e4f6d7ba6203" resname="upload_btn.label">
