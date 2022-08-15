@@ -18,22 +18,22 @@
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">Créer un contenu</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
         <source>under %content_name%</source>
-        <target state="needs-translation">under %content_name%</target>
+        <target state="translated">sous %content_name%</target>
         <note>key: content.create.editing_details</note>
       </trans-unit>
       <trans-unit id="a443a2a76348e8431df4346c11079f9e56735473" resname="content.create.filters.desc">
         <source>Or choose from list</source>
-        <target state="needs-translation">Or choose from list</target>
+        <target state="translated">Ou choisir dans la liste</target>
         <note>key: content.create.filters.desc</note>
       </trans-unit>
       <trans-unit id="a68fa29f2de8a9e5a1a533e7240b0b667651c4d5" resname="content.create.input.placeholder">
         <source>Type to refine</source>
-        <target state="needs-translation">Type to refine</target>
+        <target state="translated">Tapez pour affiner</target>
         <note>key: content.create.input.placeholder</note>
       </trans-unit>
       <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="0ac5837ba570c72c15eae58ab98735697a790528" resname="modal.email_address">
         <source>Email Address</source>
-        <target state="needs-translation">Email Address</target>
+        <target state="translated">Adresse e-mail</target>
         <note>key: modal.email_address</note>
       </trans-unit>
       <trans-unit id="b57923cd51800de1a02208a4765ab1b14d437c50" resname="modal.info">
         <source>Enter your team members email addresses.</source>
-        <target state="needs-translation">Enter your team members email addresses.</target>
+        <target state="translated">Entrez les adresses e-mail des membres de votre équipe.</target>
         <note>key: modal.info</note>
       </trans-unit>
       <trans-unit id="4fd9a40170cf4bc5acff719c14eaf2d15fc9942d" resname="tab.details.change_section ">
@@ -198,12 +198,12 @@
       </trans-unit>
       <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Ajouter un nouveau</target>
         <note>key: tab.locations.action.add</note>
       </trans-unit>
       <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: tab.locations.action.delete</note>
       </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
         <source>Do you want to delete the Location? All its sub-items will be sent to Trash.</source>
-        <target state="needs-translation">Do you want to delete the Location? All its sub-items will be sent to Trash.</target>
+        <target state="translated">Voulez-vous supprimer l'emplacement ? Tous ses sous-éléments seront envoyés à la corbeille.</target>
         <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
@@ -258,12 +258,12 @@
       </trans-unit>
       <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations">
         <source>Relations</source>
-        <target state="needs-translation">Relations</target>
+        <target state="translated">Relations</target>
         <note>key: tab.name.relations</note>
       </trans-unit>
       <trans-unit id="c58716ba1092b0208a11137dc226327a3ddf84dc" resname="tab.name.roles">
         <source>Roles</source>
-        <target state="needs-translation">Roles</target>
+        <target state="translated">Rôles</target>
         <note>key: tab.name.roles</note>
       </trans-unit>
       <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
@@ -273,12 +273,12 @@
       </trans-unit>
       <trans-unit id="50741647d206010a8c2ac911901f3c31d6bbfc6a" resname="tab.name.urls">
         <source>URL</source>
-        <target state="needs-translation">URL</target>
+        <target state="translated">URL</target>
         <note>key: tab.name.urls</note>
       </trans-unit>
       <trans-unit id="337828c348b881920f84d17cc184f4c24e40c894" resname="tab.name.versions">
         <source>Versions</source>
-        <target state="needs-translation">Versions</target>
+        <target state="translated">Versions</target>
         <note>key: tab.name.versions</note>
       </trans-unit>
       <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
@@ -343,12 +343,12 @@
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Ajouter un nouveau</target>
         <note>key: tab.translations.action.add</note>
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: tab.translations.action.delete</note>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
@@ -433,17 +433,17 @@
       </trans-unit>
       <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">
         <source>Version</source>
-        <target state="needs-translation">Version</target>
+        <target state="translated">Version</target>
         <note>key: tab.versions.table.version</note>
       </trans-unit>
       <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
         <source>Off</source>
-        <target state="needs-translation">Off</target>
+        <target state="translated">Off</target>
         <note>key: toggle_widget.label.off</note>
       </trans-unit>
       <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
         <source>On</source>
-        <target state="needs-translation">On</target>
+        <target state="translated">On</target>
         <note>key: toggle_widget.label.on</note>
       </trans-unit>
       <trans-unit id="c285bc654712e44ed56cd6f18262a2d6485f4fb9" resname="user.edit.select_language">

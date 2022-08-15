@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="e7d1ba8bafa1211bdc61b33930ac95ff5a39db0b" resname="main__content__calendar">
         <source>Calendar</source>
-        <target state="needs-translation">Calendar</target>
+        <target state="translated">Calendrier</target>
         <note>key: main__content__calendar</note>
       </trans-unit>
     </body>

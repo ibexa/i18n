@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="323149fcfc1a9c7aefd22c27c2307b9f2c33697a" resname="object_state.add">
         <source>Creating a new Object state</source>
-        <target state="needs-translation">Creating a new Object state</target>
+        <target state="translated">Création d'un nouvel état d'objet</target>
         <note>key: object_state.add</note>
       </trans-unit>
       <trans-unit id="9277526e17b01de899c93f0fdbb5ab6515e5399f" resname="object_state.breadcrumb.edit">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="9a3d40057c7c4ba2c0f6258148b451c89b6a0533" resname="object_state.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: object_state.creating</note>
       </trans-unit>
       <trans-unit id="cd20ab0806780f115ec08655d9e44e0c31d0fecd" resname="object_state.delete.success">
@@ -68,12 +68,12 @@
       </trans-unit>
       <trans-unit id="7d7c033caf5634e2cc56d8b96ad9aa883e5dcb01" resname="object_state.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Édition</target>
         <note>key: object_state.editing</note>
       </trans-unit>
       <trans-unit id="99f5115d5dc13c37f78cfaa37168636912e1a9a6" resname="object_state.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: object_state.id</note>
       </trans-unit>
       <trans-unit id="8470ab4a8afa94731e8cce5193cc8631cc3c7167" resname="object_state.identifier">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="3298bfb20351af4b23517ab424ed0f1ab653d6ff" resname="object_state_group.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: object_state_group.creating</note>
       </trans-unit>
       <trans-unit id="0f40fde6bdaed4741d571b9ffdcc04e3be8ec3c9" resname="object_state_group.delete.submit">
@@ -188,12 +188,12 @@
       </trans-unit>
       <trans-unit id="414797fc8b71857280cd7d21da2927ecac2e74b0" resname="object_state_group.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Édition</target>
         <note>key: object_state_group.editing</note>
       </trans-unit>
       <trans-unit id="940f19a907923467a0fc0084f21dc689a18ab804" resname="object_state_group.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: object_state_group.id</note>
       </trans-unit>
       <trans-unit id="31e5d74a2673e57390f478380181bc63977bc229" resname="object_state_group.identifier">
@@ -213,12 +213,12 @@
       </trans-unit>
       <trans-unit id="c3af10bed843bcb54aa038942fa8d6c4bc20f736" resname="object_state_group.name.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: object_state_group.name.action.edit</note>
       </trans-unit>
       <trans-unit id="1cbfb4528f41be4d8de98fa4f81c26b41f8ffad9" resname="object_state_group.new">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: object_state_group.new</note>
       </trans-unit>
       <trans-unit id="2db8c3e77568f759b118b23aec8cfacaca3d96c0" resname="object_state_group.update.identifier">

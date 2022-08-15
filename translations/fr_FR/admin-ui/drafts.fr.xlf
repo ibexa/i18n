@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="7823f25f5779e3071253a6a8296aad7b23d4a241" resname="drafts.list.version">
         <source>Version</source>
-        <target state="needs-translation">Version</target>
+        <target state="translated">Version</target>
         <note>key: drafts.list.version</note>
       </trans-unit>
       <trans-unit id="8db5ed41af83e43b26fd95de8c718eef14b2c239" resname="drafts.table.header">

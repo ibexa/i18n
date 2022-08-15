@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="3d9f547776de4846ff54fcd1cd173ac5937e5a46" resname="search.creator_input.placeholder">
         <source>Type creator's name</source>
-        <target state="needs-translation">Type creator's name</target>
+        <target state="translated">Nom du créateur de type</target>
         <note>key: search.creator_input.placeholder</note>
       </trans-unit>
       <trans-unit id="6aa460340bed42d0d1baf9d1ea542c83a3f00821" resname="trash">
@@ -28,17 +28,17 @@
       </trans-unit>
       <trans-unit id="a644965219fc4d129dd4a5ef1cdb6eb073003702" resname="trash.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Type de contenu</target>
         <note>key: trash.content_type</note>
       </trans-unit>
       <trans-unit id="937a500a6ede32aeaf33dcc2bfc7233578c8e48c" resname="trash.creator">
         <source>Creator</source>
-        <target state="needs-translation">Creator</target>
+        <target state="translated">Créateur</target>
         <note>key: trash.creator</note>
       </trans-unit>
       <trans-unit id="a05764fe660902e89eefa65d4834f03cf3954160" resname="trash.date">
         <source>Sent to trash date</source>
-        <target state="needs-translation">Sent to trash date</target>
+        <target state="translated">Date d'envoi à la corbeille</target>
         <note>key: trash.date</note>
       </trans-unit>
       <trans-unit id="45548aed8adb5019c3b806992e903965699c7e08" resname="trash.deleted.success">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="02b7fe2ffdf670f9d5e2dadd3cd1be5109a22b49" resname="trash.item.deleted_user">
         <source>Deleted user</source>
-        <target state="needs-translation">Deleted user</target>
+        <target state="translated">Utilisateur supprimé</target>
         <note>key: trash.item.deleted_user</note>
       </trans-unit>
       <trans-unit id="34525fc5da381111c2104d20a55021eb8b698c7c" resname="trash.name">
@@ -93,22 +93,22 @@
       </trans-unit>
       <trans-unit id="3a46b65a9b678fb947285b2c9509943ee6764195" resname="trash.search.any_content_types">
         <source>Any Content Types</source>
-        <target state="needs-translation">Any Content Types</target>
+        <target state="translated">Tous les types de contenu</target>
         <note>key: trash.search.any_content_types</note>
       </trans-unit>
       <trans-unit id="9a88e9a17cd461dcd7d54dca50c6d3b981aba7fc" resname="trash.search.any_time">
         <source>Any time</source>
-        <target state="needs-translation">Any time</target>
+        <target state="translated">À tout moment</target>
         <note>key: trash.search.any_time</note>
       </trans-unit>
       <trans-unit id="c2b2679781ad4a22bb232e2ab34669ffe49c760b" resname="trash.search.section.any">
         <source>Any Section</source>
-        <target state="needs-translation">Any Section</target>
+        <target state="translated">N'importe quelle section</target>
         <note>key: trash.search.section.any</note>
       </trans-unit>
       <trans-unit id="8b64a1510f907791766cbccffcff7898bda76bde" resname="trash.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Section</target>
         <note>key: trash.section</note>
       </trans-unit>
       <trans-unit id="06b530d8c8b3d7af7b3f2df9f5102927e7275de4" resname="trash.table.header">

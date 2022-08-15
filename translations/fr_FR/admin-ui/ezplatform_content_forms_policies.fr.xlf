@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="1b6a38d05e399ed640e6497fcd79ac31e4aafd73" resname="policy.limitation.identifier.personalizationaccess">
         <source>PersonalizationAccess</source>
-        <target state="needs-translation">PersonalizationAccess</target>
+        <target state="translated">Accès à la personnalisation</target>
         <note>key: policy.limitation.identifier.personalizationaccess</note>
       </trans-unit>
       <trans-unit id="af73694f5c5e5868af7948fb04f0d6bfe7ee6ad4" resname="policy.limitation.identifier.producttype">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="bb77b27363dad566197a200290f0f0b18baa4705" resname="policy.limitation.identifier.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Section</target>
         <note>key: policy.limitation.identifier.section</note>
       </trans-unit>
       <trans-unit id="659face270db8822838d3efd32b3a9b72a6dc5f6" resname="policy.limitation.identifier.segmentgroup">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
         <source>SiteAccess</source>
-        <target state="needs-translation">SiteAccess</target>
+        <target state="translated">SiteAccess</target>
         <note>key: policy.limitation.identifier.siteaccess</note>
       </trans-unit>
       <trans-unit id="30cc18895dfb23b14d3f9b8249e90baf678c8180" resname="policy.limitation.identifier.state">
@@ -108,17 +108,17 @@
       </trans-unit>
       <trans-unit id="2a8670e5f91ad9a4cc0650d51c51afc8bd517494" resname="policy.limitation.identifier.taxonomy">
         <source>Taxonomy</source>
-        <target state="needs-translation">Taxonomy</target>
+        <target state="translated">Taxonomie</target>
         <note>key: policy.limitation.identifier.taxonomy</note>
       </trans-unit>
       <trans-unit id="097f571a3c731c66c83230e465f4b3c9af811add" resname="policy.limitation.identifier.userpermissions">
         <source>UserPermissions</source>
-        <target state="needs-translation">UserPermissions</target>
+        <target state="translated">Permissions utilisateur</target>
         <note>key: policy.limitation.identifier.userpermissions</note>
       </trans-unit>
       <trans-unit id="ae8d9836b92dd7d303929104953d877fa9c14fed" resname="policy.limitation.identifier.versionlock">
         <source>VersionLock</source>
-        <target state="needs-translation">VersionLock</target>
+        <target state="translated">Verrouillage de version</target>
         <note>key: policy.limitation.identifier.versionlock</note>
       </trans-unit>
       <trans-unit id="920f6a0525d6ba93ff83f46e22baa981ff0b483c" resname="policy.limitation.identifier.workflowstage" approved="yes">

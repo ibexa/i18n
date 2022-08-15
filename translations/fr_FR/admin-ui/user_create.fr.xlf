@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="6e157c5da4410b7e9de85f5c93026b9176e69064" resname="Create">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: Create</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
         <source>under %location_name%</source>
-        <target state="needs-translation">under %location_name%</target>
+        <target state="translated">sous %location_name%</target>
         <note>key: editing_details</note>
       </trans-unit>
       <trans-unit id="32d50c07b2eacd6fa72742ff1c1f5963c26a251d" resname="new_content_item">
         <source>New %contentType%</source>
-        <target state="needs-translation">New %contentType%</target>
+        <target state="translated">Nouveau %contentType%</target>
         <note>key: new_content_item</note>
       </trans-unit>
     </body>

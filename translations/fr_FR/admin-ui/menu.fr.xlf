@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">Créer un contenu</target>
         <note>key: content__sidebar_right__create</note>
       </trans-unit>
       <trans-unit id="b3937ec2d3ae4980f8ae00ed20818d92bfab3407" resname="content__sidebar_right__delete" approved="yes">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="1c34612eb7cf79bac694e81bbc563388bfa3b2bd" resname="content__sidebar_right__invite">
         <source>Invite members</source>
-        <target state="needs-translation">Invite members</target>
+        <target state="translated">Inviter des membres</target>
         <note>key: content__sidebar_right__invite</note>
       </trans-unit>
       <trans-unit id="522a7eb05659ac849a762954effc22db818b8323" resname="content__sidebar_right__move" approved="yes">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="89b456c2ec176d6a0878d0992424a2a41d89b3ba" resname="content_edit__anchor_menu__content">
         <source>Content</source>
-        <target state="needs-translation">Content</target>
+        <target state="translated">Contenu</target>
         <note>key: content_edit__anchor_menu__content</note>
       </trans-unit>
       <trans-unit id="84cd0d095ea2a1c6f98c298609a49adca5c3b663" resname="content_edit__anchor_menu__meta">
         <source>Meta</source>
-        <target state="needs-translation">Meta</target>
+        <target state="translated">Méta</target>
         <note>key: content_edit__anchor_menu__meta</note>
       </trans-unit>
       <trans-unit id="af459eaf05dedc87eb0c462732e59da18bedb340" resname="content_edit__sidebar_right__cancel" approved="yes">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="e636e8e95f62409b29348795eef55b4450f65673" resname="main__admin__sections">
         <source>Sections</source>
-        <target state="needs-translation">Sections</target>
+        <target state="translated">Sections</target>
         <note>key: main__admin__sections</note>
       </trans-unit>
       <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="f68c5be5c002f6858b89d2dc5156d725425e31db" resname="main__bookmarks">
         <source>Bookmarks</source>
-        <target state="needs-translation">Bookmarks</target>
+        <target state="translated">Favoris</target>
         <note>key: main__bookmarks</note>
       </trans-unit>
       <trans-unit id="95e1979b41321209d200f2e75416fd47270954b4" resname="main__content" approved="yes">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="17346107dfddb344b04c455b071d001dadf80d6f" resname="main__content__group_settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">Réglages</target>
         <note>key: main__content__group_settings</note>
       </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media" approved="yes">
@@ -238,12 +238,12 @@
       </trans-unit>
       <trans-unit id="4c2cca32be18ada279b3562d2b96acc4a908083e" resname="main__dashboard">
         <source>Dashboard</source>
-        <target state="needs-translation">Dashboard</target>
+        <target state="translated">Tableau de bord</target>
         <note>key: main__dashboard</note>
       </trans-unit>
       <trans-unit id="5376b08940439deec5b89c3df17b09ab8f4ed252" resname="main__trash">
         <source>Trash</source>
-        <target state="needs-translation">Trash</target>
+        <target state="translated">Corbeille</target>
         <note>key: main__trash</note>
       </trans-unit>
       <trans-unit id="f3561dffc3e7e63e03f3f5d1a4e2b4eda80e051a" resname="object_state_create__sidebar_right__cancel" approved="yes">

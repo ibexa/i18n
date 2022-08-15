@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="fc349b70133a7a68cae9be363e112ee397044b6a" resname="notification.date">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Date</target>
         <note>key: notification.date</note>
       </trans-unit>
       <trans-unit id="6b83526d14384d4144093369e83601556437fbb0" resname="notification.description">
         <source>Description</source>
-        <target state="needs-translation">Description</target>
+        <target state="translated">Description</target>
         <note>key: notification.description</note>
       </trans-unit>
       <trans-unit id="d7fd0c0dc2a4267ebb5bca828e42812fded59ebb" resname="notification.permanently_deleted">
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Type</target>
         <note>key: notification.type</note>
       </trans-unit>
       <trans-unit id="1b60d2ed7158736cbc1353d72a6dc44a6772147f" resname="notifications">
         <source>Notifications</source>
-        <target state="needs-translation">Notifications</target>
+        <target state="translated">Notifications</target>
         <note>key: notifications</note>
       </trans-unit>
       <trans-unit id="79036b8a9fecbed5d0c14a94c5639d611c6ab6d1" resname="notifications.modal.message.error">

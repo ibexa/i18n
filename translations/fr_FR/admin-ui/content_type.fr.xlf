@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
-        <target state="needs-translation">Description</target>
+        <target state="translated">Description</target>
         <note>key: content_type.description</note>
       </trans-unit>
       <trans-unit id="2f9cb676bb073af7a8e4b52b374384dfc0aa9551" resname="content_type.edit.error.already_exists">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="bafafe330e90f8d93a41e93801984fed4c79512e" resname="content_type.edit.error.no_added_fields_definition">
         <source>You have to add at least one field definition</source>
-        <target state="needs-translation">You have to add at least one field definition</target>
+        <target state="translated">Vous devez ajouter au moins une définition de champ</target>
         <note>key: content_type.edit.error.no_added_fields_definition</note>
       </trans-unit>
       <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
         <source>OK</source>
-        <target state="needs-translation">OK</target>
+        <target state="translated">OK</target>
         <note>key: content_type.publish</note>
       </trans-unit>
       <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="f0dba52962ff2fceb7ab0de72427b4deb55ffbbc" resname="content_type.sort_field.4">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Section</target>
         <note>key: content_type.sort_field.4</note>
       </trans-unit>
       <trans-unit id="08c573b0f90eddd499911819f24a58632ceec79b" resname="content_type.sort_field.5">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: content_type.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="5a5fe831f20f47949b0a54d76cfa897898794b77" resname="content_type.view.list.column.identifier">
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
         <source>%name%</source>
-        <target state="needs-translation">%name%</target>
+        <target state="translated">%name%</target>
         <note>key: content_type.view.view.title</note>
       </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
@@ -388,12 +388,12 @@
       </trans-unit>
       <trans-unit id="f9cf70fcb6c6aef73a8a39eb0a9cd4e71c11b5ba" resname="content_type_group.edit.action_name">
         <source>Editing Content Type group</source>
-        <target state="needs-translation">Editing Content Type group</target>
+        <target state="translated">Édition du groupe de type de contenu</target>
         <note>key: content_type_group.edit.action_name</note>
       </trans-unit>
       <trans-unit id="cd6124f27c9a5743763f9a49cfc160d34723d713" resname="content_type_group.new.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: content_type_group.new.action_name</note>
       </trans-unit>
       <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
@@ -413,7 +413,7 @@
       </trans-unit>
       <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: content_type_group.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
@@ -428,7 +428,7 @@
       </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: content_type_group.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="37d17dd014cd573541f83d4b5b0c4909b66ac7be" resname="content_type_group.view.list.column.identifier">
@@ -443,32 +443,32 @@
       </trans-unit>
       <trans-unit id="b857ebe01d0a852bd8e10d599e75004fb961f1d5" resname="content_type_group.view.new.title">
         <source>New Content Type group</source>
-        <target state="needs-translation">New Content Type group</target>
+        <target state="translated">Nouveau groupe de type de contenu</target>
         <note>key: content_type_group.view.new.title</note>
       </trans-unit>
       <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
         <source>%identifier%</source>
-        <target state="needs-translation">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type_group.view.view.title</note>
       </trans-unit>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: creating</note>
       </trans-unit>
       <trans-unit id="3e8769270428f8e66f5880d772f45e09d2c88aa0" resname="creating.title">
         <source>New Content type</source>
-        <target state="needs-translation">New Content type</target>
+        <target state="translated">Nouveau type de contenu</target>
         <note>key: creating.title</note>
       </trans-unit>
       <trans-unit id="6b7aac07f7af9bb4762fd3a87ff0a9df02921f7a" resname="editing_content_type">
         <source>Editing Content type</source>
-        <target state="needs-translation">Editing Content type</target>
+        <target state="translated">Édition du type de contenu</target>
         <note>key: editing_content_type</note>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
         <source>Description</source>
-        <target state="needs-translation">Description</target>
+        <target state="translated">Description</target>
         <note>key: field_definition.description</note>
       </trans-unit>
       <trans-unit id="60b0ee9222a502c38adf1be704d4984564190e8e" resname="field_definition.ezauthor.default_author">
@@ -568,7 +568,7 @@
       </trans-unit>
       <trans-unit id="5e8015fbf9269d3ee1bbb99b09005cf6b165ab53" resname="field_definition.ezimage.is_alternative_text_required">
         <source>Alternative text is required</source>
-        <target state="needs-translation">Alternative text is required</target>
+        <target state="translated">Le texte alternatif est requis</target>
         <note>key: field_definition.ezimage.is_alternative_text_required</note>
       </trans-unit>
       <trans-unit id="5b275c762831def3c6ea393e3e0c25762e0844b3" resname="field_definition.ezimage.max_file_size">
@@ -613,7 +613,7 @@
       </trans-unit>
       <trans-unit id="adfb7d8a234a1500c70ea82dac5f6d8bebff4234" resname="field_definition.ezmedia.type_flash">
         <source>Flash</source>
-        <target state="needs-translation">Flash</target>
+        <target state="translated">Flash</target>
         <note>key: field_definition.ezmedia.type_flash</note>
       </trans-unit>
       <trans-unit id="fb4e0e47312060617df5c281c7fc5a537929369f" resname="field_definition.ezmedia.type_html5_audio">
@@ -628,32 +628,32 @@
       </trans-unit>
       <trans-unit id="e78eb62bcd9c8b47ff51f38c4a828cf91749d38b" resname="field_definition.ezmedia.type_quick_time">
         <source>QuickTime</source>
-        <target state="needs-translation">QuickTime</target>
+        <target state="translated">QuickTime</target>
         <note>key: field_definition.ezmedia.type_quick_time</note>
       </trans-unit>
       <trans-unit id="a44f707a9ede4f970de7833a2ca29e281fe695d8" resname="field_definition.ezmedia.type_real_player">
         <source>RealPlayer</source>
-        <target state="needs-translation">RealPlayer</target>
+        <target state="translated">RealPlayer</target>
         <note>key: field_definition.ezmedia.type_real_player</note>
       </trans-unit>
       <trans-unit id="efa6e36c8ec4e2d5c258e780cbefeb54d77f6bc9" resname="field_definition.ezmedia.type_silverlight">
         <source>Silverlight</source>
-        <target state="needs-translation">Silverlight</target>
+        <target state="translated">Silverlight</target>
         <note>key: field_definition.ezmedia.type_silverlight</note>
       </trans-unit>
       <trans-unit id="57951280ffe27b8afe3f6c65f8cda4696267d64a" resname="field_definition.ezmedia.type_windows_media_player">
         <source>Windows Media Player</source>
-        <target state="needs-translation">Windows Media Player</target>
+        <target state="translated">Windows Media Player</target>
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
       </trans-unit>
       <trans-unit id="5c87db6ede75b694bb886f8f5d2a8e7ded178984" resname="field_definition.ezobjectrelation.change_root_udw_button">
         <source>Change path</source>
-        <target state="needs-translation">Change path</target>
+        <target state="translated">Changer le chemin</target>
         <note>key: field_definition.ezobjectrelation.change_root_udw_button</note>
       </trans-unit>
       <trans-unit id="f053b9ad361ba885b30445ed11ddfe4b27aab906" resname="field_definition.ezobjectrelation.root_default_location">
         <source>Root Default Location</source>
-        <target state="needs-translation">Root Default Location</target>
+        <target state="translated">Emplacement par défaut de la racine</target>
         <note>key: field_definition.ezobjectrelation.root_default_location</note>
       </trans-unit>
       <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
@@ -668,7 +668,7 @@
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
         <source>Select path</source>
-        <target state="needs-translation">Select path</target>
+        <target state="translated">Sélectionner le chemin</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_button</note>
       </trans-unit>
       <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
@@ -678,12 +678,12 @@
       </trans-unit>
       <trans-unit id="51c6fd07886f716a7b5c07bdbb4b8dc9b71501cd" resname="field_definition.ezobjectrelationlist.change_root_udw_button">
         <source>Change path</source>
-        <target state="needs-translation">Change path</target>
+        <target state="translated">Changer le chemin</target>
         <note>key: field_definition.ezobjectrelationlist.change_root_udw_button</note>
       </trans-unit>
       <trans-unit id="f1875b4118b34bfd5679af65821e72af204755ed" resname="field_definition.ezobjectrelationlist.root_default_location">
         <source>Root Default Location</source>
-        <target state="needs-translation">Root Default Location</target>
+        <target state="translated">Emplacement par défaut de la racine</target>
         <note>key: field_definition.ezobjectrelationlist.root_default_location</note>
       </trans-unit>
       <trans-unit id="7e061dc7c88fe38c11714695d4034f935788efb3" resname="field_definition.ezobjectrelationlist.selection_content_types">
@@ -703,7 +703,7 @@
       </trans-unit>
       <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
         <source>Select path</source>
-        <target state="needs-translation">Select path</target>
+        <target state="translated">Sélectionner le chemin</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_button</note>
       </trans-unit>
       <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
@@ -723,7 +723,7 @@
       </trans-unit>
       <trans-unit id="ac85420bb89c319433f4d0e8e988b6fa8363e8b9" resname="field_definition.ezselection.options">
         <source>Options</source>
-        <target state="needs-translation">Options</target>
+        <target state="translated">Options</target>
         <note>key: field_definition.ezselection.options</note>
       </trans-unit>
       <trans-unit id="c8017c71074191e0e6ebe4eb1a3a278eecbcc874" resname="field_definition.ezselection.remove_selected_options">

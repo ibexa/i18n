@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
         <source>under %location_name% in %language%</source>
-        <target state="needs-translation">under %location_name% in %language%</target>
+        <target state="translated">sous %location_name% en %language%</target>
         <note>key: editing_details</note>
       </trans-unit>
       <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="39b4081643351e2a41c1b3b811b6dc78fb528520" resname="on_the_fly.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: on_the_fly.cancel</note>
       </trans-unit>
       <trans-unit id="d466f97702d045f02d8b55379a9c6ea5270ecfef" resname="on_the_fly.confirm">
         <source>Confirm</source>
-        <target state="needs-translation">Confirm</target>
+        <target state="translated">Confirmer</target>
         <note>key: on_the_fly.confirm</note>
       </trans-unit>
     </body>

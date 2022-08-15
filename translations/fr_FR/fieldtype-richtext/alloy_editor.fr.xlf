@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="13cd849924dc9b21defaf1d6905241a4eb74e71a" resname="image_btn.label">
         <source>Image</source>
-        <target state="needs-translation">Image</target>
+        <target state="translated">Image</target>
         <note>key: image_btn.label</note>
       </trans-unit>
       <trans-unit id="392f9d82a172655fbfe702c584ca3e5880fac25e" resname="image_btn.udw.label">

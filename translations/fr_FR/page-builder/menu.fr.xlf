@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="6e3c5ada174db65381c85e6d12eed44ffe78f23b" resname="page_builder__infobar__preview__tools__versions">
         <source>Versions</source>
-        <target state="needs-translation">Versions</target>
+        <target state="translated">Versions</target>
         <note>key: page_builder__infobar__preview__tools__versions</note>
       </trans-unit>
     </body>
