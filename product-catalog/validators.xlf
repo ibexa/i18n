@@ -81,6 +81,11 @@
         <target state="new">Product code must be unique</target>
         <note>key: ibexa.product.code.unique</note>
       </trans-unit>
+      <trans-unit id="2733cb9e5a80cd57184147828549faa5933d9984" resname="ibexa.product.variant.attributes.unique">
+        <source>Attribute combination already exists in Product Variant %product_variant_code%</source>
+        <target state="new">Attribute combination already exists in Product Variant %product_variant_code%</target>
+        <note>key: ibexa.product.variant.attributes.unique</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

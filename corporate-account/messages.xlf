@@ -11,6 +11,11 @@
         <target state="new">Active</target>
         <note>key: Active</note>
       </trans-unit>
+      <trans-unit id="41b81eb8db1b97e812a8fc182e3a5b3ce0f3aacb" resname="Approved">
+        <source>Approved</source>
+        <target state="new">Approved</target>
+        <note>key: Approved</note>
+      </trans-unit>
       <trans-unit id="2588ffbcb1bf4c9d8e77016a94455c91a6baf625" resname="Customer group">
         <source>Customer group</source>
         <target state="new">Customer group</target>
@@ -20,6 +25,21 @@
         <source>De-activated</source>
         <target state="new">De-activated</target>
         <note>key: De-activated</note>
+      </trans-unit>
+      <trans-unit id="6403f2b7eb2aaafe6de34cbf2a029b01afebc512" resname="New">
+        <source>New</source>
+        <target state="new">New</target>
+        <note>key: New</note>
+      </trans-unit>
+      <trans-unit id="73fd29eecf34b2f28d5295cb99baabe482adfd36" resname="On Hold">
+        <source>On Hold</source>
+        <target state="new">On Hold</target>
+        <note>key: On Hold</note>
+      </trans-unit>
+      <trans-unit id="27eeb7a291bfc566447d9cd928e98caf90f70ee6" resname="Rejected">
+        <source>Rejected</source>
+        <target state="new">Rejected</target>
+        <note>key: Rejected</note>
       </trans-unit>
       <trans-unit id="bae7d5be70820ed56467bd9a63744e23b47bd711" resname="Status">
         <source>Status</source>

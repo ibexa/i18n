@@ -161,6 +161,11 @@
         <target state="new">Delete</target>
         <note>key: delete</note>
       </trans-unit>
+      <trans-unit id="1e2a95e64da26b12063fd30d3accd927df7cf68c" resname="failed_to_trigger_model_build">
+        <source>Failed to trigger model build</source>
+        <target state="new">Failed to trigger model build</target>
+        <note>key: failed_to_trigger_model_build</note>
+      </trans-unit>
       <trans-unit id="78a8e3b7dd2f680def2c3001ac5ed05abef54ec6" resname="form.scenario.model_data_type">
         <source>Data type</source>
         <target state="new">Data type</target>
@@ -385,6 +390,26 @@
         <source>Hour</source>
         <target state="new">Hour</target>
         <note>key: model.quantifier.hour</note>
+      </trans-unit>
+      <trans-unit id="bb6102d5546962e51992e61bb51245cad7d680a2" resname="model_build.state.active">
+        <source>Active</source>
+        <target state="new">Active</target>
+        <note>key: model_build.state.active</note>
+      </trans-unit>
+      <trans-unit id="98b19504122f3eae94e012a29e70bed705ef5f8b" resname="model_build.state.build_in_progress">
+        <source>Build in progress</source>
+        <target state="new">Build in progress</target>
+        <note>key: model_build.state.build_in_progress</note>
+      </trans-unit>
+      <trans-unit id="fa5c508429f7396605767fc0fd4ea92cdbf68d56" resname="model_build.state.failed">
+        <source>Failed</source>
+        <target state="new">Failed</target>
+        <note>key: model_build.state.failed</note>
+      </trans-unit>
+      <trans-unit id="6745f451dcbf71ecc541477e206cdbe28b7c8df8" resname="model_build_has_been_triggered">
+        <source>Model build has been triggered</source>
+        <target state="new">Model build has been triggered</target>
+        <note>key: model_build_has_been_triggered</note>
       </trans-unit>
       <trans-unit id="5ba2688dffd71df813a468578a87c653e1575e1e" resname="models">
         <source>Models</source>
@@ -1151,20 +1176,15 @@
         <target state="new">No. of items</target>
         <note>key: models.list.no_of_items</note>
       </trans-unit>
-      <trans-unit id="16f4bf5f1c5f525cbc867e8ded51c2266cb98570" resname="models.list.non_operational">
-        <source>non-operational</source>
-        <target state="new">non-operational</target>
-        <note>key: models.list.non_operational</note>
-      </trans-unit>
       <trans-unit id="a87c53879b4215c5b27b7804102a0b73ed3b4c66" resname="models.list.not_active">
         <source>Not Active</source>
         <target state="new">Not Active</target>
         <note>key: models.list.not_active</note>
       </trans-unit>
-      <trans-unit id="8149f4f61175c36aa7ec261357b788b9365e2828" resname="models.list.operational">
-        <source>operational</source>
-        <target state="new">operational</target>
-        <note>key: models.list.operational</note>
+      <trans-unit id="6e60a2dd3e6ee30ddad869c30cf82f024e5efe57" resname="models.list.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: models.list.status</note>
       </trans-unit>
       <trans-unit id="e1e1f20c00f1a8e35feceb56a5721bae3a46b175" resname="models.list.submodel">
         <source>Submodel</source>

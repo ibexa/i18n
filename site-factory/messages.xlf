@@ -37,8 +37,8 @@
         <note>key: site.label.actions</note>
       </trans-unit>
       <trans-unit id="d578e1f85cbd8df68aebb09e488a60d2869f467e" resname="site.label.created">
-        <source>Created</source>
-        <target state="new">Created</target>
+        <source>Created date</source>
+        <target state="new">Created date</target>
         <note>key: site.label.created</note>
       </trans-unit>
       <trans-unit id="b1d61ef9df17aed58ac638a002b77ae0339315bc" resname="site.label.domains">
@@ -52,14 +52,19 @@
         <note>key: site.label.main_languages</note>
       </trans-unit>
       <trans-unit id="28f4324b209c4a68dd684a336b5efc5e38119262" resname="site.label.name">
-        <source>Name</source>
-        <target state="new">Name</target>
+        <source>Site name</source>
+        <target state="new">Site name</target>
         <note>key: site.label.name</note>
       </trans-unit>
       <trans-unit id="d6f2b314ec4b5a99492d686dd9bb96692c20b093" resname="site.list.action.delete">
         <source>Delete Site</source>
         <target state="new">Delete Site</target>
         <note>key: site.list.action.delete</note>
+      </trans-unit>
+      <trans-unit id="cf96c20090b52044fbadd8f5c5bfd54e7f028340" resname="site.list.cannot_delete_notice">
+        <source>You cannot delete active sites.</source>
+        <target state="new">You cannot delete active sites.</target>
+        <note>key: site.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="fe8a976fe946a1a248b13f520f1781bac44ec729" resname="site.list.count_results">
         <source>%count% results</source>
