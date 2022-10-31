@@ -236,6 +236,31 @@
         <target state="new">Delete</target>
         <note>key: company.details.tab.address_book.shipping_address.table.action.delete.label</note>
       </trans-unit>
+      <trans-unit id="0f71c1f7b5eb2beb5d2e950ae2dc3949a2f9b48e" resname="company.details.tab.address_book.shipping_address.table.action.edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.action.edit</note>
+      </trans-unit>
+      <trans-unit id="bb0610e0c96f3401684538d02c9f3a9a9479e1c1" resname="company.details.tab.address_book.shipping_address.table.header.address">
+        <source>Address</source>
+        <target state="new">Address</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.header.address</note>
+      </trans-unit>
+      <trans-unit id="991f170a6ff8326e1295be8b6b0c8009e3e234c5" resname="company.details.tab.address_book.shipping_address.table.header.deafault">
+        <source>Default</source>
+        <target state="new">Default</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.header.deafault</note>
+      </trans-unit>
+      <trans-unit id="3f02f71de071dbaa6204a6095b017d10281885ea" resname="company.details.tab.address_book.shipping_address.table.header.email_address">
+        <source>Email Address</source>
+        <target state="new">Email Address</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.header.email_address</note>
+      </trans-unit>
+      <trans-unit id="96be803067e724cc96ecbe57d4d9a277ee1509d3" resname="company.details.tab.address_book.shipping_address.table.header.phone">
+        <source>Phone</source>
+        <target state="new">Phone</target>
+        <note>key: company.details.tab.address_book.shipping_address.table.header.phone</note>
+      </trans-unit>
       <trans-unit id="c023ca4853523a807e7ba05c215171e2fd874c71" resname="company.details.tab.company_profile.basic_information.action.edit">
         <source>Edit</source>
         <target state="new">Edit</target>
@@ -521,6 +546,71 @@
         <target state="new">Corporate</target>
         <note>key: corporate</note>
       </trans-unit>
+      <trans-unit id="8fc201497d4d510ff182fb6a0b34a92b79c77c5a" resname="corporate_account.application_search.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: corporate_account.application_search.status</note>
+      </trans-unit>
+      <trans-unit id="6a9f08ca1f2db9e3ce0c1b33298fd1dec04ab5c8" resname="corporate_account.application_search.status.choice.approved">
+        <source>Approved</source>
+        <target state="new">Approved</target>
+        <note>key: corporate_account.application_search.status.choice.approved</note>
+      </trans-unit>
+      <trans-unit id="29af7c5d946a620f4efc33108c834a9f242431f9" resname="corporate_account.application_search.status.choice.new">
+        <source>New</source>
+        <target state="new">New</target>
+        <note>key: corporate_account.application_search.status.choice.new</note>
+      </trans-unit>
+      <trans-unit id="159dccb7ee9c6d582dd3e7c533d00c7efd211d53" resname="corporate_account.application_search.status.choice.on_hold">
+        <source>On Hold</source>
+        <target state="new">On Hold</target>
+        <note>key: corporate_account.application_search.status.choice.on_hold</note>
+      </trans-unit>
+      <trans-unit id="78c51fbfff323a9c793431e986a493ca8a0a5376" resname="corporate_account.application_search.status.choice.rejected">
+        <source>Approved</source>
+        <target state="new">Approved</target>
+        <note>key: corporate_account.application_search.status.choice.rejected</note>
+      </trans-unit>
+      <trans-unit id="27446f276c3d85f5329b0dcba1393bf62d2b587e" resname="corporate_account.company_search.customer_group.label">
+        <source>Customer group</source>
+        <target state="new">Customer group</target>
+        <note>key: corporate_account.company_search.customer_group.label</note>
+      </trans-unit>
+      <trans-unit id="78d0016b1f0a7e6c429bcfe4f3fa77d1c25bb852" resname="corporate_account.company_search.status.choice.active">
+        <source>Active</source>
+        <target state="new">Active</target>
+        <note>key: corporate_account.company_search.status.choice.active</note>
+      </trans-unit>
+      <trans-unit id="cbf605a05a6a2367a5a26ae6e10c252320f10bed" resname="corporate_account.company_search.status.choice.deactivated">
+        <source>De-activated</source>
+        <target state="new">De-activated</target>
+        <note>key: corporate_account.company_search.status.choice.deactivated</note>
+      </trans-unit>
+      <trans-unit id="9e15a1495554c271c3a9ba53a8da9a523e6cd88a" resname="corporate_account.company_search.status.label">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: corporate_account.company_search.status.label</note>
+      </trans-unit>
+      <trans-unit id="69f523a3045b21fa3b0e19ef811f2bf72a888c59" resname="corporate_account.individual_search.customer_group.label">
+        <source>Customer group</source>
+        <target state="new">Customer group</target>
+        <note>key: corporate_account.individual_search.customer_group.label</note>
+      </trans-unit>
+      <trans-unit id="129a602ad1c100150eeb8e0f42baf214211dcbc1" resname="corporate_account.individual_search.status.choice.active">
+        <source>Active</source>
+        <target state="new">Active</target>
+        <note>key: corporate_account.individual_search.status.choice.active</note>
+      </trans-unit>
+      <trans-unit id="75ad5ade975a1df33267f8d49daa24fdd22445ed" resname="corporate_account.individual_search.status.choice.deactivated">
+        <source>De-activated</source>
+        <target state="new">De-activated</target>
+        <note>key: corporate_account.individual_search.status.choice.deactivated</note>
+      </trans-unit>
+      <trans-unit id="a0ecccdfbc5f2ec464a61f2c8d70383bea361a3d" resname="corporate_account.individual_search.status.label">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: corporate_account.individual_search.status.label</note>
+      </trans-unit>
       <trans-unit id="65912535c6039d50690cc93643ad5c2b3dfad71a" resname="details.billing_address.action.edit">
         <source>Edit</source>
         <target state="new">Edit</target>
@@ -550,6 +640,11 @@
         <source>Phone</source>
         <target state="new">Phone</target>
         <note>key: details.billing_address.label.phone</note>
+      </trans-unit>
+      <trans-unit id="019a091d637b107516516b0bd1b4c259ba998421" resname="ibexa.corporate_accounts.invitations.success">
+        <source>Invitations sent</source>
+        <target state="new">Invitations sent</target>
+        <note>key: ibexa.corporate_accounts.invitations.success</note>
       </trans-unit>
       <trans-unit id="326bdebfa0b6b3a9a4ec7b93fd328df395d53551" resname="individual.list.breadcrumbs">
         <source>Individuals</source>

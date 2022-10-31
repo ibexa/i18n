@@ -473,6 +473,26 @@
         <target state="new">Thanks for registration!</target>
         <note>key: registration_confirmation.info.title</note>
       </trans-unit>
+      <trans-unit id="19f3e919f2c0f7a4c6ba864454f9740262058da9" resname="registration_wait.image.alt">
+        <source>registration is currently locked</source>
+        <target state="new">registration is currently locked</target>
+        <note>key: registration_wait.image.alt</note>
+      </trans-unit>
+      <trans-unit id="a452422825b43e61f1c0475af0028f3b56916380" resname="registration_wait.info.explanation">
+        <source>As a security measure, registration is locked for another 5 minutes to prevent malicious behaviour.</source>
+        <target state="new">As a security measure, registration is locked for another 5 minutes to prevent malicious behaviour.</target>
+        <note>key: registration_wait.info.explanation</note>
+      </trans-unit>
+      <trans-unit id="073a3a0d9fe3cbdb0465e8db803ec3b5e04a26d7" resname="registration_wait.info.title">
+        <source>Registration is currently locked.</source>
+        <target state="new">Registration is currently locked.</target>
+        <note>key: registration_wait.info.title</note>
+      </trans-unit>
+      <trans-unit id="92d4e1c85e73e214d86a7343938fe45c8e6e80ed" resname="registration_wait.info.try_again">
+        <source>Please, try again later.</source>
+        <target state="new">Please, try again later.</target>
+        <note>key: registration_wait.info.try_again</note>
+      </trans-unit>
       <trans-unit id="91738d66d84b6f1586b56099ef60b525d611862b" resname="user_profile.email.label">
         <source>Email</source>
         <target state="new">Email</target>
