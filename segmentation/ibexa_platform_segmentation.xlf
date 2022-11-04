@@ -81,10 +81,10 @@
         <target state="new">Identifier</target>
         <note>key: segment_group.identifier</note>
       </trans-unit>
-      <trans-unit id="6f50937d04622f0d0dd2fda407e965aa9c3c3b0e" resname="segment_group.information.header">
-        <source>Segment group information</source>
-        <target state="new">Segment group information</target>
-        <note>key: segment_group.information.header</note>
+      <trans-unit id="0ea1a257f44e51094e4fd36ac87d7408fb16287b" resname="segment_group.list.number_of_results">
+        <source>List (%number_of_results%)</source>
+        <target state="new">List (%number_of_results%)</target>
+        <note>key: segment_group.list.number_of_results</note>
       </trans-unit>
       <trans-unit id="2f42a4f8fa3a217529074f75426da8389861fc28" resname="segment_group.list.segment_group.action.bulk_delete">
         <source>Delete</source>
@@ -107,9 +107,14 @@
         <note>key: segment_group.name</note>
       </trans-unit>
       <trans-unit id="19ab5f0c6609bb92b289c06030f11a152fbef9b4" resname="segment_group.segment.add">
-        <source>Add new</source>
-        <target state="new">Add new</target>
+        <source>Add</source>
+        <target state="new">Add</target>
         <note>key: segment_group.segment.add</note>
+      </trans-unit>
+      <trans-unit id="947943176721860b2f6d5194374e5e59cd56d6cb" resname="segment_group.segment.edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: segment_group.segment.edit</note>
       </trans-unit>
       <trans-unit id="206290d4a51d48f1a4c35414013c8ed23855c09f" resname="segment_group.segment.identifier">
         <source>Segment identifier</source>
@@ -130,6 +135,21 @@
         <source>Segment(s) under this group</source>
         <target state="new">Segment(s) under this group</target>
         <note>key: segment_group.segments.header</note>
+      </trans-unit>
+      <trans-unit id="07dd1ff7e83c430af46ae267f0f14e3debc896c4" resname="segment_group.subtitle">
+        <source>Segment Groups</source>
+        <target state="new">Segment Groups</target>
+        <note>key: segment_group.subtitle</note>
+      </trans-unit>
+      <trans-unit id="17e5b9e57187719e0ce56fe5699317b2fb63b0e7" resname="segment_group.tab.header.details">
+        <source>Details</source>
+        <target state="new">Details</target>
+        <note>key: segment_group.tab.header.details</note>
+      </trans-unit>
+      <trans-unit id="3cfdaca80b61c5c97dc042598d1b91753ba790b3" resname="segment_group.tab.header.segments">
+        <source>Segment(s) under this group</source>
+        <target state="new">Segment(s) under this group</target>
+        <note>key: segment_group.tab.header.segments</note>
       </trans-unit>
       <trans-unit id="ac3219c4ef255cc200f1c7cfdaf3191a0be5de39" resname="segment_group.update.success">
         <source>Segment Group '%segment_group%' updated.</source>

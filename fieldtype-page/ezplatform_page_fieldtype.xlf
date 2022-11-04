@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="77a237f996d4f37680ad60963e3eba4088e8d319" resname="block.nested_attribute.setup_for_field_groups">
+        <source>Setup for field groups %attributeName%</source>
+        <target state="new">Setup for field groups %attributeName%</target>
+        <note>key: block.nested_attribute.setup_for_field_groups</note>
+      </trans-unit>
       <trans-unit id="e709525d3616f6a7d78ded79d7dfaf9c9df025cf" resname="blocks.select_blocks">
         <source>Select blocks</source>
         <target state="new">Select blocks</target>
@@ -40,11 +45,6 @@
         <source>Select layouts</source>
         <target state="new">Select layouts</target>
         <note>key: layouts.select_layouts</note>
-      </trans-unit>
-      <trans-unit id="5afe3f31aa22081e60b61cd92f1eb6aabc8e6a7d" resname="block.nested_attribute.field_groups_setup">
-        <source>Field groups setup</source>
-        <target state="new">Field groups setup</target>
-        <note>key: block.nested_attribute.field_groups_setup</note>
       </trans-unit>
     </body>
   </file>

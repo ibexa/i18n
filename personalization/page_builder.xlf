@@ -11,6 +11,11 @@
         <target state="new">Add</target>
         <note>key: block.personalization.add</note>
       </trans-unit>
+      <trans-unit id="2567f904927186a6ce8cdd3843cdb3d5d51885e0" resname="block.personalization.label.output_type">
+        <source>Output type</source>
+        <target state="new">Output type</target>
+        <note>key: block.personalization.label.output_type</note>
+      </trans-unit>
       <trans-unit id="5bc3e74aeb57bb5a2db9e3d617a3f6eda0e342b3" resname="block.personalization.label.scenario">
         <source>Scenario</source>
         <target state="new">Scenario</target>
@@ -20,11 +25,6 @@
         <source>Segment</source>
         <target state="new">Segment</target>
         <note>key: block.personalization.label.segment</note>
-      </trans-unit>
-      <trans-unit id="414b4b547359e99ae6bc872ff9b690ab0ad63258" resname="block.personalization.label.segment_group">
-        <source>Segment group</source>
-        <target state="new">Segment group</target>
-        <note>key: block.personalization.label.segment_group</note>
       </trans-unit>
     </body>
   </file>

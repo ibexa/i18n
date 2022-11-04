@@ -46,6 +46,11 @@
         <target state="new">Save and close</target>
         <note>key: model_edit__sidebar_right__save_and_close</note>
       </trans-unit>
+      <trans-unit id="90c78b58b852ede27b2e7b67f7d306ebed69a9a5" resname="model_edit__sidebar_right__trigger_model_build">
+        <source>Trigger model build</source>
+        <target state="new">Trigger model build</target>
+        <note>key: model_edit__sidebar_right__trigger_model_build</note>
+      </trans-unit>
       <trans-unit id="bb50202605dd9a666dec38fc77048a1fac02f0d8" resname="scenario_create__sidebar_right__create">
         <source>Save</source>
         <target state="new">Save</target>
