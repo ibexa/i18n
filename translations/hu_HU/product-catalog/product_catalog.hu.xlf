@@ -66,6 +66,11 @@
         <target state="needs-translation">Attribute information</target>
         <note>key: attribute_definition.information.headline</note>
       </trans-unit>
+      <trans-unit id="584474418f3ae3dacbf28a866d266a0c4ffcce2c" resname="attribute_definition.list.cannot_delete_notice">
+        <source>You cannot delete the disabled attributes, because they are used in other places.</source>
+        <target state="needs-translation">You cannot delete the disabled attributes, because they are used in other places.</target>
+        <note>key: attribute_definition.list.cannot_delete_notice</note>
+      </trans-unit>
       <trans-unit id="5cf8cb97f4af2ecbec7ca4e7c868775ca8388887" resname="attribute_definition.list.column.attribute_group">
         <source>Attribute Group</source>
         <target state="needs-translation">Attribute Group</target>
@@ -185,6 +190,21 @@
         <source>Name</source>
         <target state="needs-translation">Name</target>
         <note>key: attribute_definition.view.name</note>
+      </trans-unit>
+      <trans-unit id="f2ccecb17d180fd8c3607a3f3a13a6938b2c4405" resname="attribute_definition.view.options">
+        <source>Attribute options</source>
+        <target state="needs-translation">Attribute options</target>
+        <note>key: attribute_definition.view.options</note>
+      </trans-unit>
+      <trans-unit id="d40c2c145b6129ed2bd01a8466b248e4cbb84796" resname="attribute_definition.view.options.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+        <note>key: attribute_definition.view.options.name</note>
+      </trans-unit>
+      <trans-unit id="f86d275ec4a91aab7e497b8a65bacdd653406ede" resname="attribute_definition.view.options.value">
+        <source>Value</source>
+        <target state="needs-translation">Value</target>
+        <note>key: attribute_definition.view.options.value</note>
       </trans-unit>
       <trans-unit id="1c774eee6bf6efc09398d2fe326338e04fb0e231" resname="attribute_definition.view.position">
         <source>Position</source>
@@ -426,6 +446,11 @@
         <target state="needs-translation">Add filter</target>
         <note>key: catalog.edit.add_filter</note>
       </trans-unit>
+      <trans-unit id="0b26e8afbf316c27641381c5a9d544643d0b16ef" resname="catalog.edit.choice_filter.search_placeholder">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: catalog.edit.choice_filter.search_placeholder</note>
+      </trans-unit>
       <trans-unit id="bd17f60dd8ff8edfaca2fd403262c9e7d57e297d" resname="catalog.edit.config_filter.clear_all">
         <source>Clear all</source>
         <target state="needs-translation">Clear all</target>
@@ -435,6 +460,11 @@
         <source>Clear all (%count%)</source>
         <target state="needs-translation">Clear all (%count%)</target>
         <note>key: catalog.edit.config_filter.clear_all_count</note>
+      </trans-unit>
+      <trans-unit id="d0a1e2a6131be64a4bc14822c78902c7be5a8249" resname="catalog.edit.config_filter.empty_value">
+        <source>(All)</source>
+        <target state="needs-translation">(All)</target>
+        <note>key: catalog.edit.config_filter.empty_value</note>
       </trans-unit>
       <trans-unit id="604f16fe719b52c2567af60731b2bbe3061a8ddc" resname="catalog.edit.config_filter.select_all">
         <source>Select All</source>
@@ -450,6 +480,11 @@
         <source>Set up filters for catalog</source>
         <target state="needs-translation">Set up filters for catalog</target>
         <note>key: catalog.edit.filters.list.header</note>
+      </trans-unit>
+      <trans-unit id="e80c2637f9d86c17f68c0cf2b898cf7e282f30c4" resname="catalog.edit.filters.list.header_tooltip">
+        <source>Use filters to create a catalog with a specific set of products (by default all products are selected)</source>
+        <target state="needs-translation">Use filters to create a catalog with a specific set of products (by default all products are selected)</target>
+        <note>key: catalog.edit.filters.list.header_tooltip</note>
       </trans-unit>
       <trans-unit id="e9264c19221e82a0d43a008a8e825e53a1df63c0" resname="catalog.edit.filters.toggler.hide">
         <source>Hide</source>
@@ -782,8 +817,8 @@
         <note>key: customer_group.list.user.column.name</note>
       </trans-unit>
       <trans-unit id="a2766334af7fe036bc63671532a4838c020a1de0" resname="customer_group.list.user.empty">
-        <source>There is no users in group</source>
-        <target state="needs-translation">There is no users in group</target>
+        <source>There are no users in this group</source>
+        <target state="needs-translation">There are no users in this group</target>
         <note>key: customer_group.list.user.empty</note>
       </trans-unit>
       <trans-unit id="ced1505feeab441e98b7888bf6a73a841b6d624b" resname="customer_group.list.user.header">
@@ -851,19 +886,24 @@
         <target state="needs-translation">Attributes</target>
         <note>key: field_definition.ibexa_product_specification.attributes_definitions</note>
       </trans-unit>
+      <trans-unit id="6be5ec17c1e2c5fba851c911031837f474611697" resname="filter.group.standard.label">
+        <source>Standard filters</source>
+        <target state="needs-translation">Standard filters</target>
+        <note>key: filter.group.standard.label</note>
+      </trans-unit>
       <trans-unit id="e111859cc4b382247a3b67491dae64a01dedcf29" resname="filter.product_attribute.checkbox.value.0">
-        <source>Unselected</source>
-        <target state="needs-translation">Unselected</target>
+        <source>No</source>
+        <target state="needs-translation">No</target>
         <note>key: filter.product_attribute.checkbox.value.0</note>
       </trans-unit>
       <trans-unit id="215c91c7924b8892fbe0109ac06f748e33a1b439" resname="filter.product_attribute.checkbox.value.1">
-        <source>Selected</source>
-        <target state="needs-translation">Selected</target>
+        <source>Yes</source>
+        <target state="needs-translation">Yes</target>
         <note>key: filter.product_attribute.checkbox.value.1</note>
       </trans-unit>
       <trans-unit id="40a20202f903fbb4be7201738555ff26a60f3cb5" resname="filter.product_availability.label">
-        <source>Product availability</source>
-        <target state="needs-translation">Product availability</target>
+        <source>Availability</source>
+        <target state="needs-translation">Availability</target>
         <note>key: filter.product_availability.label</note>
       </trans-unit>
       <trans-unit id="94df6c4dc98d9e5df7e53d725d4011611dab0633" resname="filter.product_availability.value.0">
@@ -877,28 +917,28 @@
         <note>key: filter.product_availability.value.1</note>
       </trans-unit>
       <trans-unit id="de3731e422124a97d275d63a44a9a5f9f29744c1" resname="filter.product_category.label">
-        <source>Product Category</source>
-        <target state="needs-translation">Product Category</target>
+        <source>Category</source>
+        <target state="needs-translation">Category</target>
         <note>key: filter.product_category.label</note>
       </trans-unit>
       <trans-unit id="df25d38012319cb73e9f8187b4b6b99bc08c68b8" resname="filter.product_code.label">
-        <source>Product code</source>
-        <target state="needs-translation">Product code</target>
+        <source>Code</source>
+        <target state="needs-translation">Code</target>
         <note>key: filter.product_code.label</note>
       </trans-unit>
       <trans-unit id="8b7b53f10425201aaa866db1cba4ccfba4b67211" resname="filter.product_created.label">
-        <source>Product Created</source>
-        <target state="needs-translation">Product Created</target>
+        <source>Created</source>
+        <target state="needs-translation">Created</target>
         <note>key: filter.product_created.label</note>
       </trans-unit>
       <trans-unit id="7eddd6b84b553343a25ac418b903cf6ee5ab493d" resname="filter.product_price.label">
-        <source>Product price</source>
-        <target state="needs-translation">Product price</target>
+        <source>Price</source>
+        <target state="needs-translation">Price</target>
         <note>key: filter.product_price.label</note>
       </trans-unit>
       <trans-unit id="c8706a0960dc2cf046705134358543e8d0b87f1c" resname="filter.product_type.label">
-        <source>Product type</source>
-        <target state="needs-translation">Product type</target>
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
         <note>key: filter.product_type.label</note>
       </trans-unit>
       <trans-unit id="b530a073c368d83e3bdc04e76b9bc48e61057f6c" resname="form.currency.subunits">
@@ -1061,6 +1101,16 @@
         <target state="needs-translation">Are you sure you want to transition?</target>
         <note>key: modal.transition.catalog.confirm_message</note>
       </trans-unit>
+      <trans-unit id="f15aba1220b27d17e3e4b4f03a0cf40762893d14" resname="number_range.max.label">
+        <source>To</source>
+        <target state="needs-translation">To</target>
+        <note>key: number_range.max.label</note>
+      </trans-unit>
+      <trans-unit id="e745f735f292f7e044e331a6bbe25a9852415397" resname="number_range.min.label">
+        <source>From</source>
+        <target state="needs-translation">From</target>
+        <note>key: number_range.min.label</note>
+      </trans-unit>
       <trans-unit id="7db019697b22bcd666e14fb5d800dbef3e5454ff" resname="price.delete.success">
         <source>{1}Price for product '%productNames%' in currency '%deletedCodes%' removed.|]1,Inf[ Prices for products '%productNames%' in currencies '%deletedCodes%' (respectively) removed.</source>
         <target state="needs-translation">{1}Price for product '%productNames%' in currency '%deletedCodes%' removed.|]1,Inf[ Prices for products '%productNames%' in currencies '%deletedCodes%' (respectively) removed.</target>
@@ -1131,6 +1181,16 @@
         <target state="needs-translation">Products</target>
         <note>key: product.breadcrumb.list</note>
       </trans-unit>
+      <trans-unit id="fd323a871858ac46157ab4b0598dcd5db2b2d282" resname="product.category.assign">
+        <source>Assign</source>
+        <target state="needs-translation">Assign</target>
+        <note>key: product.category.assign</note>
+      </trans-unit>
+      <trans-unit id="6ba91f1e615fcc2573795142a41a3b6eed6e7019" resname="product.category.assign.udw_title">
+        <source>Select Products</source>
+        <target state="needs-translation">Select Products</target>
+        <note>key: product.category.assign.udw_title</note>
+      </trans-unit>
       <trans-unit id="33c7f951238b995d9d6643942da182b993adae12" resname="product.completeness.assets.label">
         <source>Assets</source>
         <target state="needs-translation">Assets</target>
@@ -1165,6 +1225,11 @@
         <source>Variants</source>
         <target state="needs-translation">Variants</target>
         <note>key: product.completeness.variants.label</note>
+      </trans-unit>
+      <trans-unit id="6091400765f0039ca29d3a304ce3b2da67284cb8" resname="product.create.success">
+        <source>Product '%name%' created.</source>
+        <target state="needs-translation">Product '%name%' created.</target>
+        <note>key: product.create.success</note>
       </trans-unit>
       <trans-unit id="d6e2b764c5b3b95dfa533e97d2a0d75f05f1903c" resname="product.currency.create.success">
         <source>Currency %currency_code% created.</source>
@@ -1246,6 +1311,16 @@
         <target state="needs-translation">Variant</target>
         <note>key: product.list.column.variant</note>
       </trans-unit>
+      <trans-unit id="11e47d4639f5a87c717cfa5f413dcd6308280072" resname="product.list.empty_table_action_text">
+        <source>Try again with new criteria</source>
+        <target state="needs-translation">Try again with new criteria</target>
+        <note>key: product.list.empty_table_action_text</note>
+      </trans-unit>
+      <trans-unit id="3a6615a34923d5f8fe549e90e100dcec55378180" resname="product.list.empty_table_info_text">
+        <source>Sorry, there are no products for this filter setup</source>
+        <target state="needs-translation">Sorry, there are no products for this filter setup</target>
+        <note>key: product.list.empty_table_info_text</note>
+      </trans-unit>
       <trans-unit id="76d57c00bb0c04dd1431aa80630d7d3ea135840e" resname="product.list.number_of_results">
         <source>%number_of_results% Results</source>
         <target state="needs-translation">%number_of_results% Results</target>
@@ -1280,6 +1355,16 @@
         <source>New %product_type_name%</source>
         <target state="needs-translation">New %product_type_name%</target>
         <note>key: product.new.title</note>
+      </trans-unit>
+      <trans-unit id="a700c3f8899929b0c8b868d48ff286ba09c1aa61" resname="product.no_category_products.action_text">
+        <source>Assign some products to it.</source>
+        <target state="needs-translation">Assign some products to it.</target>
+        <note>key: product.no_category_products.action_text</note>
+      </trans-unit>
+      <trans-unit id="f9bd6a26ba175d0c04b63bb8028f72375d47f22c" resname="product.no_category_products.info_text">
+        <source>No products assigned to the currently viewed category.</source>
+        <target state="needs-translation">No products assigned to the currently viewed category.</target>
+        <note>key: product.no_category_products.info_text</note>
       </trans-unit>
       <trans-unit id="d0f9d6d1911f000d1546e518f5ad47f50c802567" resname="product.no_product_types.action_text">
         <source>To create products, you need to have at least one product type.</source>
@@ -1376,6 +1461,11 @@
         <target state="needs-translation">Sort by name Z-A</target>
         <note>key: product.sort_clause.name_desc</note>
       </trans-unit>
+      <trans-unit id="a001919fe307f7e3aaf9e9c4c11309ff15d58ff3" resname="product.update.success">
+        <source>Product '%name%' updated.</source>
+        <target state="needs-translation">Product '%name%' updated.</target>
+        <note>key: product.update.success</note>
+      </trans-unit>
       <trans-unit id="773c3c8277aec78a7a238894552a324def701b89" resname="product.view.assets.actions.create_collection">
         <source>Create a new collection</source>
         <target state="needs-translation">Create a new collection</target>
@@ -1406,20 +1496,20 @@
         <target state="needs-translation">or</target>
         <note>key: product.view.assets.actions.drag_drop.separator</note>
       </trans-unit>
-      <trans-unit id="b10160c72d4aa7125bc3e58e0ad84422e8afb073" resname="product.view.assets.actions.set_as_main_photo">
-        <source>Set as main photo</source>
-        <target state="needs-translation">Set as main photo</target>
-        <note>key: product.view.assets.actions.set_as_main_photo</note>
-      </trans-unit>
       <trans-unit id="fe59fb5302f7c99d3f3dd17e6d554337f8c3abed" resname="product.view.assets.collection">
-        <source>Collection</source>
-        <target state="needs-translation">Collection</target>
+        <source>Assets collection for variant</source>
+        <target state="needs-translation">Assets collection for variant</target>
         <note>key: product.view.assets.collection</note>
       </trans-unit>
       <trans-unit id="2120810ce13a25468d19c1bc5ee64cac2ed0fb27" resname="product.view.assets.collection.base_assets">
-        <source>Basic collection</source>
-        <target state="needs-translation">Basic collection</target>
+        <source>All assets</source>
+        <target state="needs-translation">All assets</target>
         <note>key: product.view.assets.collection.base_assets</note>
+      </trans-unit>
+      <trans-unit id="beca3de642952ee3f25635815d1e8b048c0ae7ce" resname="product.view.assets.collection.search">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: product.view.assets.collection.search</note>
       </trans-unit>
       <trans-unit id="b6e5734bb6d7996fe8e0c0a4a1fa8e12a5e7278e" resname="product.view.assets.create_collection.cancel">
         <source>Cancel</source>
@@ -1465,6 +1555,26 @@
         <source>Assets</source>
         <target state="needs-translation">Assets</target>
         <note>key: product.view.assets.title</note>
+      </trans-unit>
+      <trans-unit id="70ae06c4f763dd760aea1ff091a56d8748df52fd" resname="product.view.assets.validation_status_modal.close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+        <note>key: product.view.assets.validation_status_modal.close</note>
+      </trans-unit>
+      <trans-unit id="c48223c71c1560a9e295d915ae851c1621072c43" resname="product.view.assets.validation_status_modal.not_uploaded_count_msg">
+        <source>Files not uploaded (%invalid_count%) Files successfuly uploaded (%valid_count%)</source>
+        <target state="needs-translation">Files not uploaded (%invalid_count%) Files successfuly uploaded (%valid_count%)</target>
+        <note>key: product.view.assets.validation_status_modal.not_uploaded_count_msg</note>
+      </trans-unit>
+      <trans-unit id="00faa376f092be36a037766056faf5bcebe36e9c" resname="product.view.assets.validation_status_modal.success">
+        <source>100% Uploaded</source>
+        <target state="needs-translation">100% Uploaded</target>
+        <note>key: product.view.assets.validation_status_modal.success</note>
+      </trans-unit>
+      <trans-unit id="374eed8bc9ac88d21748cb28db050a70e016ad91" resname="product.view.assets.validation_status_modal.title">
+        <source>Upload results</source>
+        <target state="needs-translation">Upload results</target>
+        <note>key: product.view.assets.validation_status_modal.title</note>
       </trans-unit>
       <trans-unit id="a01e1716cd2c170e1882d2f64fcb0417da4cbc43" resname="product.view.attributes.no_attributes.header">
         <source>No attributes to show</source>
@@ -1546,6 +1656,11 @@
         <target state="needs-translation">Completed</target>
         <note>key: product.view.completeness.subtask.compledted_title</note>
       </trans-unit>
+      <trans-unit id="df1c000c4d30d52fb268dc38f77c712e7cd88dc0" resname="product.view.completeness.subtask.edit">
+        <source>Edit</source>
+        <target state="needs-translation">Edit</target>
+        <note>key: product.view.completeness.subtask.edit</note>
+      </trans-unit>
       <trans-unit id="6f9c8aba3db65798e81b136eb127f629830c9482" resname="product.view.completeness.subtask.not_started_title">
         <source>Not started</source>
         <target state="needs-translation">Not started</target>
@@ -1606,6 +1721,11 @@
         <target state="needs-translation">Preview</target>
         <note>key: product.view.preview</note>
       </trans-unit>
+      <trans-unit id="8c9c2b185207ec3fdea0af18db312399c36c019b" resname="product.view.prices">
+        <source>Prices</source>
+        <target state="needs-translation">Prices</target>
+        <note>key: product.view.prices</note>
+      </trans-unit>
       <trans-unit id="cef9e0e5d41f499d72565dcd795f7b46ae9ce766" resname="product.view.prices.actions.create">
         <source>Create</source>
         <target state="needs-translation">Create</target>
@@ -1617,8 +1737,8 @@
         <note>key: product.view.prices.actions.edit</note>
       </trans-unit>
       <trans-unit id="6acf88655e3a29251533609d4e961342d6113472" resname="product.view.prices.custome_price">
-        <source>Custom Price</source>
-        <target state="needs-translation">Custom Price</target>
+        <source>Custom price</source>
+        <target state="needs-translation">Custom price</target>
         <note>key: product.view.prices.custome_price</note>
       </trans-unit>
       <trans-unit id="bcb8b449429d5ea113a38abdb81a41fbfd716475" resname="product.view.prices.custome_price.base_price">
@@ -1627,8 +1747,8 @@
         <note>key: product.view.prices.custome_price.base_price</note>
       </trans-unit>
       <trans-unit id="0fd468640629d509ebe1a59b55c70fc03840c04b" resname="product.view.prices.custome_price.custom_price_rule">
-        <source>Custom Price Rule</source>
-        <target state="needs-translation">Custom Price Rule</target>
+        <source>Custom price rule</source>
+        <target state="needs-translation">Custom price rule</target>
         <note>key: product.view.prices.custome_price.custom_price_rule</note>
       </trans-unit>
       <trans-unit id="b890a925245a7bbbb5dd94570d771e79d7a17ae8" resname="product.view.prices.custome_price.customer_group">
@@ -1637,8 +1757,8 @@
         <note>key: product.view.prices.custome_price.customer_group</note>
       </trans-unit>
       <trans-unit id="0f1132068ca71e6014a0c57e8b3454224a3780e6" resname="product.view.prices.custome_price.global_price_rule">
-        <source>Global Price Rule</source>
-        <target state="needs-translation">Global Price Rule</target>
+        <source>Global price rule</source>
+        <target state="needs-translation">Global price rule</target>
         <note>key: product.view.prices.custome_price.global_price_rule</note>
       </trans-unit>
       <trans-unit id="3976f82deb86befabf6b3d74cdca8c29347c3ec0" resname="product.view.prices.custome_price.title">
@@ -1647,8 +1767,8 @@
         <note>key: product.view.prices.custome_price.title</note>
       </trans-unit>
       <trans-unit id="7b3f378d6f9eb367c0bce9bb3df3c863a76885cb" resname="product.view.prices.main_price">
-        <source>Price</source>
-        <target state="needs-translation">Price</target>
+        <source>Base price</source>
+        <target state="needs-translation">Base price</target>
         <note>key: product.view.prices.main_price</note>
       </trans-unit>
       <trans-unit id="05a2fd5e57e308ab8809e327c94a22c24c3a37c1" resname="product.view.prices.no_currencies.action_label">
@@ -1657,19 +1777,14 @@
         <note>key: product.view.prices.no_currencies.action_label</note>
       </trans-unit>
       <trans-unit id="0e860dd3efcc600578846eadfef2b3096cb1bcc3" resname="product.view.prices.no_currencies.descrptions">
-        <source>To create price, you need to have at least one currency enabled.</source>
-        <target state="needs-translation">To create price, you need to have at least one currency enabled.</target>
+        <source>To create prices, you need to have at least one currency enabled.</source>
+        <target state="needs-translation">To create prices, you need to have at least one currency enabled.</target>
         <note>key: product.view.prices.no_currencies.descrptions</note>
       </trans-unit>
       <trans-unit id="8996305d1fdf750ce11dd5be1e67b3b5b97baf1c" resname="product.view.prices.no_currencies.header">
         <source>Enable currency</source>
         <target state="needs-translation">Enable currency</target>
         <note>key: product.view.prices.no_currencies.header</note>
-      </trans-unit>
-      <trans-unit id="20d8d8f5f4d649d6ee19d33b5717697272701cf3" resname="product.view.prices.price">
-        <source>Price</source>
-        <target state="needs-translation">Price</target>
-        <note>key: product.view.prices.price</note>
       </trans-unit>
       <trans-unit id="f226a5104e371c71ab8222a40a16f8e72719e5b1" resname="product.view.progress_bar.completed_status_label">
         <source>Completed 100%</source>
@@ -1757,9 +1872,19 @@
         <note>key: product_price.final_price</note>
       </trans-unit>
       <trans-unit id="1028e4ac7ba4d53205ff3aaeed374a3aeb3046af" resname="product_price.global_price_rule">
-        <source>Global Price rule</source>
-        <target state="needs-translation">Global Price rule</target>
+        <source>Global price rule</source>
+        <target state="needs-translation">Global price rule</target>
         <note>key: product_price.global_price_rule</note>
+      </trans-unit>
+      <trans-unit id="a1923188694577b82c74b31c206b08da2d32b903" resname="product_price.no_base_price.description">
+        <source>Adding the base price will allow you to enter custom prices for the product.</source>
+        <target state="needs-translation">Adding the base price will allow you to enter custom prices for the product.</target>
+        <note>key: product_price.no_base_price.description</note>
+      </trans-unit>
+      <trans-unit id="3fbb7e1db0186fe30d990ca0860bdc5b1e6e2f71" resname="product_price.no_base_price.info_text">
+        <source>Add a base price</source>
+        <target state="needs-translation">Add a base price</target>
+        <note>key: product_price.no_base_price.info_text</note>
       </trans-unit>
       <trans-unit id="d2d4905373e3d4301ee1f694cf16508e3357784b" resname="product_price.no_customer_group.action_text">
         <source>To add custom prices, you need to have at least one customer group.</source>
@@ -1777,13 +1902,13 @@
         <note>key: product_price.no_customer_group.alert_no_permission</note>
       </trans-unit>
       <trans-unit id="91f5d7de51bbd1b3c0c4ba396ce6102e4003b7f9" resname="product_price.no_customer_group.info_text">
-        <source>Add a custom price</source>
-        <target state="needs-translation">Add a custom price</target>
+        <source>Add custom prices</source>
+        <target state="needs-translation">Add custom prices</target>
         <note>key: product_price.no_customer_group.info_text</note>
       </trans-unit>
       <trans-unit id="6cdf581e749e9dcb11694706d4f8ee45d7422751" resname="product_price.no_customer_group.info_text_no_permission">
-        <source>No custom price to show</source>
-        <target state="needs-translation">No custom price to show</target>
+        <source>No custom prices to show</source>
+        <target state="needs-translation">No custom prices to show</target>
         <note>key: product_price.no_customer_group.info_text_no_permission</note>
       </trans-unit>
       <trans-unit id="3636669eaba5950b8916e49ee131c1f7b7e3a9fa" resname="product_price.no_customer_group.link_label">
@@ -1951,6 +2076,11 @@
         <target state="needs-translation">%product_type_name%</target>
         <note>key: product_type.view.identifier</note>
       </trans-unit>
+      <trans-unit id="f20ce24e322756e8ca153296d80a29a735b6a8a1" resname="product_type.view.preview">
+        <source>Preview</source>
+        <target state="needs-translation">Preview</target>
+        <note>key: product_type.view.preview</note>
+      </trans-unit>
       <trans-unit id="87361846383cb1c128ae01e8b0b855b359f6f638" resname="product_type.view.title">
         <source>Product type "%product_type_name%"</source>
         <target state="needs-translation">Product type "%product_type_name%"</target>
@@ -1975,6 +2105,11 @@
         <source>Updating product variant</source>
         <target state="needs-translation">Updating product variant</target>
         <note>key: product_variant.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="77a0107f7bf3d34a0fda1122d6386507dba358e0" resname="products.category.unassign">
+        <source>Unassign</source>
+        <target state="needs-translation">Unassign</target>
+        <note>key: products.category.unassign</note>
       </trans-unit>
       <trans-unit id="50355318a12967a12b6fb9adba1add43d8f2e048" resname="regions.breadcrumb.list">
         <source>Regions</source>
@@ -2016,6 +2151,11 @@
         <target state="needs-translation">Search...</target>
         <note>key: search_form.search</note>
       </trans-unit>
+      <trans-unit id="317ac2c005b8c96a219ecb4e5735771092477250" resname="tab.category.products.unassign.modal.message">
+        <source>Do you want to unassign products?</source>
+        <target state="needs-translation">Do you want to unassign products?</target>
+        <note>key: tab.category.products.unassign.modal.message</note>
+      </trans-unit>
       <trans-unit id="781700a80872ee63cfcd0af60af72f696b12c777" resname="tab.name.assets">
         <source>Assets</source>
         <target state="needs-translation">Assets</target>
@@ -2030,6 +2170,11 @@
         <source>Availability</source>
         <target state="needs-translation">Availability</target>
         <note>key: tab.name.availability</note>
+      </trans-unit>
+      <trans-unit id="6090e35f8a6126cb17f2aeea7479a53c0fa00eef" resname="tab.name.category.products">
+        <source>Products</source>
+        <target state="needs-translation">Products</target>
+        <note>key: tab.name.category.products</note>
       </trans-unit>
       <trans-unit id="6a83ea8dd39089aec90e2e1c40e48357c92d3ba4" resname="tab.name.completeness">
         <source>Completeness</source>
@@ -2117,8 +2262,8 @@
         <note>key: tab.variants.action.delete</note>
       </trans-unit>
       <trans-unit id="afc6d188452592ab71661250f5797b3a3f3aa12a" resname="tab.variants.code">
-        <source>Code</source>
-        <target state="needs-translation">Code</target>
+        <source>Product code</source>
+        <target state="needs-translation">Product code</target>
         <note>key: tab.variants.code</note>
       </trans-unit>
       <trans-unit id="e69faa33548046dd30da3472456d913f2586a3c5" resname="tab.variants.empty.action">
