@@ -7,14 +7,14 @@
     </header>
     <body>
       <trans-unit id="3d00460d18829c8f30103ead82e1f1d4f51343da" resname="actions.add_tag">
-        <source>Add tag</source>
-        <target state="needs-translation">Add tag</target>
+        <source>Add</source>
+        <target state="needs-translation">Add</target>
         <note>key: actions.add_tag</note>
       </trans-unit>
-      <trans-unit id="889369be997d6cf2613f63676325686fab94a40a" resname="actions.assign_content">
-        <source>Assign content</source>
-        <target state="needs-translation">Assign content</target>
-        <note>key: actions.assign_content</note>
+      <trans-unit id="0f1247588f7c22a5a16aa58f26586d042329fb8d" resname="actions.assign">
+        <source>Assign</source>
+        <target state="needs-translation">Assign</target>
+        <note>key: actions.assign</note>
       </trans-unit>
       <trans-unit id="797e24e7a73079f289590fd5e7166f89a8a5465e" resname="actions.assign_content.success.multi">
         <source>Content has been assigned to taxonomy entries</source>
