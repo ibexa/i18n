@@ -21,21 +21,6 @@
         <target state="needs-translation">Save</target>
         <note>key: corporate_account.member.corporate_role_change.submit</note>
       </trans-unit>
-      <trans-unit id="f938e848fa6c25d45263ada27ca43832057f94de" resname="role.policy.corporate_account">
-        <source>Corporate Account</source>
-        <target state="needs-translation">Corporate Account</target>
-        <note>key: role.policy.corporate_account</note>
-      </trans-unit>
-      <trans-unit id="1fed374e8a15282056cd5fec354ca5a76fee47f4" resname="role.policy.corporate_account.all_functions">
-        <source>Corporate Account / All functions</source>
-        <target state="needs-translation">Corporate Account / All functions</target>
-        <note>key: role.policy.corporate_account.all_functions</note>
-      </trans-unit>
-      <trans-unit id="1ae2fe0d3b79c36625831e7f1788ab00dcccfbc7" resname="role.policy.corporate_account.edit">
-        <source>Corporate Account / Edit</source>
-        <target state="needs-translation">Corporate Account / Edit</target>
-        <note>key: role.policy.corporate_account.edit</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
