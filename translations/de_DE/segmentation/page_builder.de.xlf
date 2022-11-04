@@ -21,11 +21,6 @@
         <target state="needs-translation">Segment</target>
         <note>key: block.segmentation.label.segment</note>
       </trans-unit>
-      <trans-unit id="e729242c655d475325a47ea44cf8c26b61db30bc" resname="block.segmentation.label.segment_group">
-        <source>Segment group</source>
-        <target state="needs-translation">Segment group</target>
-        <note>key: block.segmentation.label.segment_group</note>
-      </trans-unit>
       <trans-unit id="3b19f63d1cb2b66e98542149bf055772eca3fd3d" resname="config_form.widgets.segmentation.udw.title">
         <source>Select content</source>
         <target state="translated">Inhalt auswählen</target>
