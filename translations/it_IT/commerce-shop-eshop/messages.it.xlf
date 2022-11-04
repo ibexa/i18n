@@ -2126,6 +2126,11 @@
         <target state="translated">Descrizione</target>
         <note>key: content_fields.ezvariants.description.label</note>
       </trans-unit>
+      <trans-unit id="0091f89aa56f683f7cc08e51d0e99e985d8d84a0" resname="content_fields.ezvariants.price.label">
+        <source>Price</source>
+        <target state="needs-translation">Price</target>
+        <note>key: content_fields.ezvariants.price.label</note>
+      </trans-unit>
       <trans-unit id="d45be4130e225d810408799fcbe1a658f940529e" resname="content_fields.ezvariants.sku.label">
         <source>SKU</source>
         <target state="needs-translation">SKU</target>
