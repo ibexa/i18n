@@ -66,6 +66,11 @@
         <target state="needs-translation">Members</target>
         <note>key: main__corporateaccount</note>
       </trans-unit>
+      <trans-unit id="cd0b713549681ad5fc76eb22b02c664b017f7528" resname="main__corporateaccount__applications">
+        <source>Applications</source>
+        <target state="needs-translation">Applications</target>
+        <note>key: main__corporateaccount__applications</note>
+      </trans-unit>
       <trans-unit id="de510ce299f61480d5fba13e1f98ecb5b309f22d" resname="main__corporateaccount__companies">
         <source>Companies</source>
         <target state="needs-translation">Companies</target>

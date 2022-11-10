@@ -16,10 +16,20 @@
         <target state="needs-translation">Billing address</target>
         <note>key: billing_address</note>
       </trans-unit>
+      <trans-unit id="71b21161ffa1e6516bcc072aaf5ef38cbe85b511" resname="company">
+        <source>Company</source>
+        <target state="needs-translation">Company</target>
+        <note>key: company</note>
+      </trans-unit>
       <trans-unit id="9f33a7c798af6fd6abb28049d9c1b3edfa2fd24a" resname="internal">
         <source>Internal</source>
         <target state="needs-translation">Internal</target>
         <note>key: internal</note>
+      </trans-unit>
+      <trans-unit id="6467baa3b187373e3931422e2a8ef22f3e447d77" resname="member">
+        <source>Member</source>
+        <target state="needs-translation">Member</target>
+        <note>key: member</note>
       </trans-unit>
     </body>
   </file>
