@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="653b9891e9f38d7f9f56485fb0fe26250c3b1ac3" resname="actions_menu.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: actions_menu.cancel</note>
       </trans-unit>
       <trans-unit id="5042ae08713a600d25e4ddded7e9334daf182bbf" resname="actions_menu.confirm">
         <source>Confirm</source>
-        <target state="needs-translation">Confirm</target>
+        <target state="translated">Confirmer</target>
         <note>key: actions_menu.confirm</note>
       </trans-unit>
       <trans-unit id="f3902e2cf1dc7593d56db51492f2c93763e17550" resname="add_location.title">
@@ -43,17 +43,17 @@
       </trans-unit>
       <trans-unit id="7828a0babb3449d8e144d80eef509a58217f015b" resname="close.label">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">Fermer</target>
         <note>key: close.label</note>
       </trans-unit>
       <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
         <source>under %content_name%</source>
-        <target state="needs-translation">under %content_name%</target>
+        <target state="translated">sous %content_name%</target>
         <note>key: content.create.editing_details</note>
       </trans-unit>
       <trans-unit id="a443a2a76348e8431df4346c11079f9e56735473" resname="content.create.filters.desc">
         <source>Or choose from list</source>
-        <target state="needs-translation">Or choose from list</target>
+        <target state="translated">Ou choisir dans la liste</target>
         <note>key: content.create.filters.desc</note>
       </trans-unit>
       <trans-unit id="1713d0deb6344882cf915babb2df574556a3f82c" resname="content_create.cancel.label">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="64f19d8055dc93bc222ddb63342200d68bf47958" resname="content_create.placeholder">
         <source>Type to refine</source>
-        <target state="needs-translation">Type to refine</target>
+        <target state="translated">Tapez pour affiner</target>
         <note>key: content_create.placeholder</note>
       </trans-unit>
       <trans-unit id="cb13371418234a9257a76bcc2a55768d5e5e58d8" resname="content_edit.label">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="a3390555f717ffd9b3560f17198e5a437899967f" resname="dropdown.placeholder">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Rechercher...</target>
         <note>key: dropdown.placeholder</note>
       </trans-unit>
       <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ezimageasset.title">
@@ -133,12 +133,12 @@
       </trans-unit>
       <trans-unit id="a46e5fdf25ad5fc5725b6db78274102983e65ef2" resname="ezobjectrelationlist.title.multi">
         <source>Select Content item(s)</source>
-        <target state="needs-translation">Select Content item(s)</target>
+        <target state="translated">Sélectionnez un ou des éléments de contenu</target>
         <note>key: ezobjectrelationlist.title.multi</note>
       </trans-unit>
       <trans-unit id="af2bf80ec528976a55efeb36753db6ca6ca652e5" resname="ezobjectrelationlist.title.single">
         <source>Select a Content item</source>
-        <target state="needs-translation">Select a Content item</target>
+        <target state="translated">Sélectionnez un élément de contenu</target>
         <note>key: ezobjectrelationlist.title.single</note>
       </trans-unit>
       <trans-unit id="b01a58cb9736974403f9f94ecce5180fb95a9627" resname="filters.apply">
@@ -153,12 +153,12 @@
       </trans-unit>
       <trans-unit id="c229e2e0f497278dd01d57fbefb8839e4449a981" resname="filters.language">
         <source>Language</source>
-        <target state="needs-translation">Language</target>
+        <target state="translated">Langue</target>
         <note>key: filters.language</note>
       </trans-unit>
       <trans-unit id="15135a98864ffb3f0f889577ad962bf3817fea6f" resname="filters.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Section</target>
         <note>key: filters.section</note>
       </trans-unit>
       <trans-unit id="27c9036e2e5a73db48d6638af9920950fd76b419" resname="filters.subtree">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="a033033bf14700d9cc112784687f5ddbfaf491ea" resname="filters.tag_view_change.select">
         <source>Change content</source>
-        <target state="needs-translation">Change content</target>
+        <target state="translated">Modifier le contenu</target>
         <note>key: filters.tag_view_change.select</note>
       </trans-unit>
       <trans-unit id="92d63a744c29f4be477f21fc81dd19b74ebb7bf2" resname="filters.tag_view_select.select">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="d4243297721bb92848a26161f2effe427171e26f" resname="filters.title">
         <source>Filters</source>
-        <target state="needs-translation">Filters</target>
+        <target state="translated">Filtres</target>
         <note>key: filters.title</note>
       </trans-unit>
       <trans-unit id="2d4febe56a341671c069ff47b6e6adfd2bba005c" resname="limitation.pick.error">
@@ -188,12 +188,12 @@
       </trans-unit>
       <trans-unit id="0f210f900ee1af5ef500a8d309d6823def77d58a" resname="meta_preview.bookmarks_add">
         <source>Add to bookmarks</source>
-        <target state="needs-translation">Add to bookmarks</target>
+        <target state="translated">Ajouter aux favoris</target>
         <note>key: meta_preview.bookmarks_add</note>
       </trans-unit>
       <trans-unit id="dfe72cc9455aaece44c7bba3028161dbe3e35393" resname="meta_preview.bookrmarks_remove">
         <source>Remove from bookmarks</source>
-        <target state="needs-translation">Remove from bookmarks</target>
+        <target state="translated">Retirer des favoris</target>
         <note>key: meta_preview.bookrmarks_remove</note>
       </trans-unit>
       <trans-unit id="5e42fe3d48d64c1c9a735ac6286d3b0c06a008a0" resname="meta_preview.creation_date">
@@ -248,27 +248,27 @@
       </trans-unit>
       <trans-unit id="8a3a6b538d81237dcb9533496c691a7685e456de" resname="search.no_results">
         <source>No results found for %query%</source>
-        <target state="needs-translation">No results found for %query%</target>
+        <target state="translated">Aucun résultat trouvé pour %query%</target>
         <note>key: search.no_results</note>
       </trans-unit>
       <trans-unit id="8e6ab4762a411e3cd2c37181b29a9f5e21bea482" resname="search.no_results.hint.check_spelling">
         <source>Check the spelling of keywords.</source>
-        <target state="needs-translation">Check the spelling of keywords.</target>
+        <target state="translated">Vérifiez l’orthographe des mots clés.</target>
         <note>key: search.no_results.hint.check_spelling</note>
       </trans-unit>
       <trans-unit id="608a71644cef183ce01ff02f1c2f1805f13c0678" resname="search.no_results.hint.different_kewords">
         <source>Try different keywords.</source>
-        <target state="needs-translation">Try different keywords.</target>
+        <target state="translated">Essayez des mots clés différents.</target>
         <note>key: search.no_results.hint.different_kewords</note>
       </trans-unit>
       <trans-unit id="8e21115785735225359ccc0ab394af1242ad3862" resname="search.no_results.hint.fewer_keywords">
         <source>Try fewer keywords. Reducing keywords results in more matches.</source>
-        <target state="needs-translation">Try fewer keywords. Reducing keywords results in more matches.</target>
+        <target state="translated">Essayez avec moins de mots clés. Réduire le nombre de mots clés peut générer plus de résultats.</target>
         <note>key: search.no_results.hint.fewer_keywords</note>
       </trans-unit>
       <trans-unit id="559bdc2720dbe0b6327fd25f533a4bc66c28c05a" resname="search.no_results.hint.more_general">
         <source>Try more general keywords.</source>
-        <target state="needs-translation">Try more general keywords.</target>
+        <target state="translated">Essayez des mots clés plus génériques.</target>
         <note>key: search.no_results.hint.more_general</note>
       </trans-unit>
       <trans-unit id="69f8e58ee01f604b377aaa638cabe3f245b45a73" resname="search.search_results">
@@ -278,7 +278,7 @@
       </trans-unit>
       <trans-unit id="3ae249fbdcae8da1215537a7407789511ff8fd3b" resname="search.search_results.in_language">
         <source>in %search_language%</source>
-        <target state="needs-translation">in %search_language%</target>
+        <target state="translated">en %search_language%</target>
         <note>key: search.search_results.in_language</note>
       </trans-unit>
       <trans-unit id="5b8a9a5fceb4991b77b50983c34df8a18a900a09" resname="select_location.error">
@@ -303,22 +303,22 @@
       </trans-unit>
       <trans-unit id="01e881354bb5e776ed6f3fd36360f8f3c06a5fd7" resname="selected_locations.remove_all">
         <source>Remove all</source>
-        <target state="needs-translation">Remove all</target>
+        <target state="translated">Tout supprimer</target>
         <note>key: selected_locations.remove_all</note>
       </trans-unit>
       <trans-unit id="fe05e738022445778cb775ca099ba54291ae88e9" resname="selected_locations.selected_items">
         <source>%count% selected item(s)</source>
-        <target state="needs-translation">%count% selected item(s)</target>
+        <target state="translated">%count% élément(s) sélectionnés</target>
         <note>key: selected_locations.selected_items</note>
       </trans-unit>
       <trans-unit id="6b02292efbef3c6800f618acb3c41f968d9ea305" resname="sorting.date.label">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Date</target>
         <note>key: sorting.date.label</note>
       </trans-unit>
       <trans-unit id="e1b82af5205b4a015ab41b8cb2dc25b1da231c49" resname="sorting.date.selected_label">
         <source>Sort by date</source>
-        <target state="needs-translation">Sort by date</target>
+        <target state="translated">Trier par date</target>
         <note>key: sorting.date.selected_label</note>
       </trans-unit>
       <trans-unit id="7e978afd229113429d273612c01318f09e3f3e5e" resname="sorting.grid.view">
@@ -328,22 +328,22 @@
       </trans-unit>
       <trans-unit id="32479b70654e401597b4bb3cb4a18bd7bbf24ba6" resname="sorting.name.asc.label">
         <source>Name A-Z</source>
-        <target state="needs-translation">Name A-Z</target>
+        <target state="translated">Nom de A à Z</target>
         <note>key: sorting.name.asc.label</note>
       </trans-unit>
       <trans-unit id="6c71d76f0da0637f44eac88dd809c31bb715b4f0" resname="sorting.name.asc.selected_label">
         <source>Sort by name A-Z</source>
-        <target state="needs-translation">Sort by name A-Z</target>
+        <target state="translated">Trier par nom de A à Z</target>
         <note>key: sorting.name.asc.selected_label</note>
       </trans-unit>
       <trans-unit id="e0373d48c538c2f5ae4a1d735763336ad2f2ed3f" resname="sorting.name.desc.label">
         <source>Name Z-A</source>
-        <target state="needs-translation">Name Z-A</target>
+        <target state="translated">Nom de Z à A</target>
         <note>key: sorting.name.desc.label</note>
       </trans-unit>
       <trans-unit id="072c390dc9ab7ae7099b664732b67c3fae44cf3e" resname="sorting.name.desc.selected_label">
         <source>Sort by name Z-A</source>
-        <target state="needs-translation">Sort by name Z-A</target>
+        <target state="translated">Trier par nom de Z à A</target>
         <note>key: sorting.name.desc.selected_label</note>
       </trans-unit>
       <trans-unit id="27c00b5da502fe6afe6b76e59ddeb951bbbf2c6f" resname="sorting.panels.view">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="ab9d717b161673fc155f8f08fec3bc1818fb7e43" resname="sorting.tree.view">
         <source>Tree view</source>
-        <target state="needs-translation">Tree view</target>
+        <target state="translated">Vue arborescente</target>
         <note>key: sorting.tree.view</note>
       </trans-unit>
       <trans-unit id="987330c357d2475b80942e5c449e4215b623a459" resname="subtree.title">
@@ -373,7 +373,7 @@
       </trans-unit>
       <trans-unit id="75247b44eb33fe5c35d9b5d8770bd76a15be7747" resname="view_switcher.view">
         <source>View</source>
-        <target state="needs-translation">View</target>
+        <target state="translated">Affichage</target>
         <note>key: view_switcher.view</note>
       </trans-unit>
     </body>
