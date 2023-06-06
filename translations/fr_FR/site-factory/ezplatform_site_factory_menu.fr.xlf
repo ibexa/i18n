@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="92984210bb74f5c966f64c7518549bd9e2fa9f68" resname="ezplatform_site_factory">
         <source>Site</source>
-        <target state="needs-translation">Site</target>
+        <target state="translated">Site</target>
         <note>key: ezplatform_site_factory</note>
       </trans-unit>
       <trans-unit id="7515f490774edc4a3dca7a1e64b3393a5f46f6ed" resname="menu.list.label">
