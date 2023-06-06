@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="f5aef330799a7345c75e72279e06eb9f5b7d0da9" resname="ezmatrix.remove">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: ezmatrix.remove</note>
       </trans-unit>
       <trans-unit id="fa41ae6cab6d74c6548f4052c02c0c5129a27f1d" resname="field.column.identifier">
