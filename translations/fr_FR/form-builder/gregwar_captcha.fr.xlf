@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0165f7088a87c494db214706823267e37ced6eda" resname="Renew">
         <source>Renew</source>
-        <target state="needs-translation">Renew</target>
+        <target state="translated">Renouveler</target>
         <note>key: Renew</note>
       </trans-unit>
     </body>

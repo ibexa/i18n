@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="dc4350a333918edfe4527d71857a144a5ee95a38" resname="customer_group.breadcrumb.list">
         <source>List</source>
-        <target state="needs-translation">List</target>
+        <target state="translated">Liste</target>
         <note>key: customer_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="8a848dd69c514b773958b84bc5973ce638a8c0c3" resname="edit_site">
         <source>Site "%name%"</source>
-        <target state="needs-translation">Site "%name%"</target>
+        <target state="translated">Site "%name%"</target>
         <note>key: edit_site</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="12f7c467aa956e11af390f81d26d0f7f44c3649a" resname="new_site_title">
         <source>Creating New Site</source>
-        <target state="needs-translation">Creating New Site</target>
+        <target state="translated">Créer un nouveau site</target>
         <note>key: new_site_title</note>
       </trans-unit>
       <trans-unit id="6fa93ef4dfbce97076a254427bb30bf7c5819c5d" resname="search.perform">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="99879f4a4cae0475601d238a3f7c1c6bb33fec34" resname="search_form.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Rechercher...</target>
         <note>key: search_form.search</note>
       </trans-unit>
       <trans-unit id="5fc1c478330164115ae83709aa7d387bbe35fb7d" resname="site.action.delete">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="ae3390c07e2efcc430398fdd9ebf4035f95c5e11" resname="site.breadcrumb.list">
         <source>Sites</source>
-        <target state="needs-translation">Sites</target>
+        <target state="translated">Sites</target>
         <note>key: site.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="a9fb803a701f3226aff42f2d5ad2b87c4a5fbac3" resname="site.create.success">
@@ -103,12 +103,12 @@
       </trans-unit>
       <trans-unit id="6c045a143a764bfdd04985e957bb1b9cbef43b9f" resname="site.list">
         <source>Sites</source>
-        <target state="needs-translation">Sites</target>
+        <target state="translated">Sites</target>
         <note>key: site.list</note>
       </trans-unit>
       <trans-unit id="89d0c7b6270f68d1a44de718c59a3d8b63b9cd5f" resname="site.list.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: site.list.create</note>
       </trans-unit>
       <trans-unit id="8b94081bbe2854988afb5e47ea8362219f08942e" resname="site.modal.delete.message">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="5369420ba17d5d62a4ebebfade4873d2b82cf591" resname="site.update.success">
         <source>Site '%name%' has been updated.</source>
-        <target state="needs-translation">Site '%name%' has been updated.</target>
+        <target state="translated">Le site %name% a été mis à jour.</target>
         <note>key: site.update.success</note>
       </trans-unit>
       <trans-unit id="54c847d70c86d68aa2a4c739cc3380d5082ceb15" resname="site.view.create.global_properties">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="a9f9e1968858cd41e61861dcf1e596831d8f5814" resname="site.view.create.languages.add.language">
         <source>Add language</source>
-        <target state="needs-translation">Add language</target>
+        <target state="translated">Ajouter une langue</target>
         <note>key: site.view.create.languages.add.language</note>
       </trans-unit>
       <trans-unit id="58145f540d76ee074532ff6c3dc82a5697cfd77c" resname="site.view.create.public_access">
@@ -138,12 +138,12 @@
       </trans-unit>
       <trans-unit id="d65595de6f19312712dcec874774aed93c745ce8" resname="site.view.edit.choose_language">
         <source>Choose language</source>
-        <target state="needs-translation">Choose language</target>
+        <target state="translated">Choisir la langue</target>
         <note>key: site.view.edit.choose_language</note>
       </trans-unit>
       <trans-unit id="d350120908ef264419df59262d47c9e8c1fbdf6e" resname="site.view.global_properties.design">
         <source>Design</source>
-        <target state="needs-translation">Design</target>
+        <target state="translated">Mise en page</target>
         <note>key: site.view.global_properties.design</note>
       </trans-unit>
       <trans-unit id="5f6945f1f44a0cd6f56b9a5ef1cee580dd48c839" resname="site.view.global_properties.header">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="b533729d7bf9b90ebbf94ef027efdcf4b0d41df0" resname="site.view.new_domain">
         <source>New domain</source>
-        <target state="needs-translation">New domain</target>
+        <target state="translated">Nouveau domaine</target>
         <note>key: site.view.new_domain</note>
       </trans-unit>
       <trans-unit id="f9500a5a4a226256446513269ad1f0b17598d12c" resname="site.view.public_access.list.identifier">

@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="147df925ba44f0c3046cd517469211786cda66f4" resname="attribute.selection_options.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: attribute.selection_options.add</note>
       </trans-unit>
       <trans-unit id="540b55c6ac0c808e15ca17fad5a6b0fb7cf1d6d5" resname="attribute.selection_options.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: attribute.selection_options.delete</note>
       </trans-unit>
       <trans-unit id="c97aa46afd6639590505473f4743227e7f68c242" resname="attribute.selection_options.list__label.label">
         <source>Label</source>
-        <target state="needs-translation">Label</target>
+        <target state="translated">Étiquette</target>
         <note>key: attribute.selection_options.list__label.label</note>
       </trans-unit>
       <trans-unit id="b82cacd874891bc80ad0df214310166f8dc9ea9d" resname="attribute.selection_options.list__label.value">
         <source>Value</source>
-        <target state="needs-translation">Value</target>
+        <target state="translated">Valeur</target>
         <note>key: attribute.selection_options.list__label.value</note>
       </trans-unit>
       <trans-unit id="87f662916d3c87c71f8feb07fda51f2885ccc1d9" resname="attribute.selection_options.title">
         <source>List of options</source>
-        <target state="needs-translation">List of options</target>
+        <target state="translated">Liste des options</target>
         <note>key: attribute.selection_options.title</note>
       </trans-unit>
       <trans-unit id="8b71654474e718dd23bc5cd4b8a82369c4352241" resname="attribute_definition.breadcrumb.list">
@@ -43,42 +43,42 @@
       </trans-unit>
       <trans-unit id="eca037ad44c8b86e42b72c5d61758d73039e9060" resname="attribute_definition.create.success">
         <source>Attribute '%name%' created.</source>
-        <target state="needs-translation">Attribute '%name%' created.</target>
+        <target state="translated">L'attribut %name% a été créé.</target>
         <note>key: attribute_definition.create.success</note>
       </trans-unit>
       <trans-unit id="d61f38a2f05358a6b6ae9a8575336fa35c9e9e44" resname="attribute_definition.delete.success">
         <source>Attribute definition '%name%' removed.</source>
-        <target state="needs-translation">Attribute definition '%name%' removed.</target>
+        <target state="translated">Définition d'attribut '%name%' supprimée.</target>
         <note>key: attribute_definition.delete.success</note>
       </trans-unit>
       <trans-unit id="3958a161fc6e643954d3015893d5c4163bea8bdc" resname="attribute_definition.edit.action_name">
         <source>Editing %attribute_type% Attribute</source>
-        <target state="needs-translation">Editing %attribute_type% Attribute</target>
+        <target state="translated">Édition de l'attribut %attribute_type%</target>
         <note>key: attribute_definition.edit.action_name</note>
       </trans-unit>
       <trans-unit id="602ac1f23f3c2306d2fbf1dec9821b97ed4f2ebb" resname="attribute_definition.edit.subtitle">
         <source>in %language_name%</source>
-        <target state="needs-translation">in %language_name%</target>
+        <target state="translated">en %language_name%</target>
         <note>key: attribute_definition.edit.subtitle</note>
       </trans-unit>
       <trans-unit id="bc2737678d63d615bbee3b5eb0f28716734cf12c" resname="attribute_definition.information.headline">
         <source>Attribute information</source>
-        <target state="needs-translation">Attribute information</target>
+        <target state="translated">Information de l'attribut</target>
         <note>key: attribute_definition.information.headline</note>
       </trans-unit>
       <trans-unit id="584474418f3ae3dacbf28a866d266a0c4ffcce2c" resname="attribute_definition.list.cannot_delete_notice">
         <source>You cannot delete the disabled attributes, because they are used in other places.</source>
-        <target state="needs-translation">You cannot delete the disabled attributes, because they are used in other places.</target>
+        <target state="translated">Vous ne pouvez pas supprimer les attributs désactivés, car ils sont utilisés à d'autres endroits.</target>
         <note>key: attribute_definition.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="5cf8cb97f4af2ecbec7ca4e7c868775ca8388887" resname="attribute_definition.list.column.attribute_group">
         <source>Attribute Group</source>
-        <target state="needs-translation">Attribute Group</target>
+        <target state="translated">Groupe d’attributs</target>
         <note>key: attribute_definition.list.column.attribute_group</note>
       </trans-unit>
       <trans-unit id="2147df5bf8c3356ef8cfe196ebd40984b8e72f6c" resname="attribute_definition.list.column.attribute_type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Type</target>
         <note>key: attribute_definition.list.column.attribute_type</note>
       </trans-unit>
       <trans-unit id="ca1ef7ad45f0c2fa70abd4b0ef24e47a551a4dc2" resname="attribute_definition.list.column.identifier">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="a1cec4bdf687750b84989eab8b3f82e55724da7f" resname="attribute_definition.list.column.position">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Position</target>
         <note>key: attribute_definition.list.column.position</note>
       </trans-unit>
       <trans-unit id="cb5f9f215ccd69315935656a89c7e408b89f0cc6" resname="attribute_definition.list.count_results">
@@ -103,57 +103,57 @@
       </trans-unit>
       <trans-unit id="2748c3e607a4ee0656295cb6c88fad797eef100b" resname="attribute_definition.list.title">
         <source>Attributes</source>
-        <target state="needs-translation">Attributes</target>
+        <target state="translated">Attributs</target>
         <note>key: attribute_definition.list.title</note>
       </trans-unit>
       <trans-unit id="47e8a5c0fc846d22a35ee16fadf0c212b833773a" resname="attribute_definition.new.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: attribute_definition.new.action_name</note>
       </trans-unit>
       <trans-unit id="5ee589f128187a30f2430809e09d2deefc97dbce" resname="attribute_definition.new.subtitle">
         <source>in %language_name%</source>
-        <target state="needs-translation">in %language_name%</target>
+        <target state="translated">en %language_name%</target>
         <note>key: attribute_definition.new.subtitle</note>
       </trans-unit>
       <trans-unit id="bfb7cfe3a160ec277b879e5510e51c257ce82dcc" resname="attribute_definition.new.title">
         <source>New %attribute_type_name% Attribute</source>
-        <target state="needs-translation">New %attribute_type_name% Attribute</target>
+        <target state="translated">Nouvel attribut %attribute_type_name%</target>
         <note>key: attribute_definition.new.title</note>
       </trans-unit>
       <trans-unit id="cfbf370cf0dde5c5b8082f2e3ee6ea9e9705eec0" resname="attribute_definition.no_attributes.action_text">
         <source>Content item(s) you or your User group can review will show up here.</source>
-        <target state="needs-translation">Content item(s) you or your User group can review will show up here.</target>
+        <target state="translated">Les contenus que vous, ou votre groupe, pouvez relire apparaîtrons ici.</target>
         <note>key: attribute_definition.no_attributes.action_text</note>
       </trans-unit>
       <trans-unit id="4cadd1754fa5ec14fc96ce0f73bf5c64236db77c" resname="attribute_definition.no_attributes.info_text">
         <source>Add your first attribute</source>
-        <target state="needs-translation">Add your first attribute</target>
+        <target state="translated">Ajoutez votre premier attribut</target>
         <note>key: attribute_definition.no_attributes.info_text</note>
       </trans-unit>
       <trans-unit id="a74705c3e96786a7886017e4b9b6908c16c4de88" resname="attribute_definition.no_attributes_group.action_text">
         <source>To create attributes, you need to have at least one attribute group.</source>
-        <target state="needs-translation">To create attributes, you need to have at least one attribute group.</target>
+        <target state="translated">Pour créer des attributs, vous devez avoir au moins un groupe d'attributs.</target>
         <note>key: attribute_definition.no_attributes_group.action_text</note>
       </trans-unit>
       <trans-unit id="62dc1da724099b82bc901faac52f6ac0e9090873" resname="attribute_definition.no_attributes_group.info_text">
         <source>Add your first attribute</source>
-        <target state="needs-translation">Add your first attribute</target>
+        <target state="translated">Ajoutez votre premier attribut</target>
         <note>key: attribute_definition.no_attributes_group.info_text</note>
       </trans-unit>
       <trans-unit id="690c5b6ad0efe8f8f6191b143d580e82b16f18d4" resname="attribute_definition.no_attributes_group.link_label">
         <source>Go to attribute groups</source>
-        <target state="needs-translation">Go to attribute groups</target>
+        <target state="translated">Aller aux groupes d'attributs</target>
         <note>key: attribute_definition.no_attributes_group.link_label</note>
       </trans-unit>
       <trans-unit id="ef677424268316f7330f727d606c939e1f1d29fc" resname="attribute_definition.no_search_results.action_text">
         <source>Try again with new search criteria</source>
-        <target state="needs-translation">Try again with new search criteria</target>
+        <target state="translated">Essayez à nouveau avec d'autres critères de recherche</target>
         <note>key: attribute_definition.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="fc69f9842a9aa6138f30efe6c758a15246ddc77a" resname="attribute_definition.no_search_results.info_text">
         <source>Sorry, there are no attributes for your search</source>
-        <target state="needs-translation">Sorry, there are no attributes for your search</target>
+        <target state="translated">Désolé, il n'y a aucun attribut pour votre recherche</target>
         <note>key: attribute_definition.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="9cbd920f83ef0b74bf3b8a29a855485a36fbcff2" resname="attribute_definition.pre_create.add">
@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="2addd3db0aebc0606627d60ce51e66448d26b592" resname="attribute_definition.pre_create.add_attribute_definition">
         <source>Add attribute definition</source>
-        <target state="needs-translation">Add attribute definition</target>
+        <target state="translated">Ajouter une définition d'attribut</target>
         <note>key: attribute_definition.pre_create.add_attribute_definition</note>
       </trans-unit>
       <trans-unit id="c01193d8561769321dc5f8effe9aed85d3c2965f" resname="attribute_definition.pre_create.cancel">
@@ -173,97 +173,97 @@
       </trans-unit>
       <trans-unit id="8291d22b53db4caceba195ce3e05ca4240235a09" resname="attribute_definition.update.success">
         <source>Attribute '%name%' updated.</source>
-        <target state="needs-translation">Attribute '%name%' updated.</target>
+        <target state="translated">Attribut '%name%' mis à jour.</target>
         <note>key: attribute_definition.update.success</note>
       </trans-unit>
       <trans-unit id="d8a741f53d8fb247e8e15a9b887acc4a547cd4de" resname="attribute_definition.view.group">
         <source>Group</source>
-        <target state="needs-translation">Group</target>
+        <target state="translated">Groupe</target>
         <note>key: attribute_definition.view.group</note>
       </trans-unit>
       <trans-unit id="6d5120764e67191cf9929e8a1c123ae93de5bd43" resname="attribute_definition.view.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identifiant</target>
         <note>key: attribute_definition.view.identifier</note>
       </trans-unit>
       <trans-unit id="bded04b07c65841ffd8cdd82f4d4b8c145d370d8" resname="attribute_definition.view.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nom</target>
         <note>key: attribute_definition.view.name</note>
       </trans-unit>
       <trans-unit id="f2ccecb17d180fd8c3607a3f3a13a6938b2c4405" resname="attribute_definition.view.options">
         <source>Attribute options</source>
-        <target state="needs-translation">Attribute options</target>
+        <target state="translated">Options d'attribut</target>
         <note>key: attribute_definition.view.options</note>
       </trans-unit>
       <trans-unit id="d40c2c145b6129ed2bd01a8466b248e4cbb84796" resname="attribute_definition.view.options.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nom</target>
         <note>key: attribute_definition.view.options.name</note>
       </trans-unit>
       <trans-unit id="f86d275ec4a91aab7e497b8a65bacdd653406ede" resname="attribute_definition.view.options.value">
         <source>Value</source>
-        <target state="needs-translation">Value</target>
+        <target state="translated">Valeur</target>
         <note>key: attribute_definition.view.options.value</note>
       </trans-unit>
       <trans-unit id="1c774eee6bf6efc09398d2fe326338e04fb0e231" resname="attribute_definition.view.position">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Position</target>
         <note>key: attribute_definition.view.position</note>
       </trans-unit>
       <trans-unit id="4e44d30e3e498d62684574296893ce8f2508c49b" resname="attribute_definition.view.title">
         <source>Attribute definition "%attribute_definition_name%"</source>
-        <target state="needs-translation">Attribute definition "%attribute_definition_name%"</target>
+        <target state="translated">Définition d'attribut "%attribute_definition_name%"</target>
         <note>key: attribute_definition.view.title</note>
       </trans-unit>
       <trans-unit id="a0bf7a1bd571dc8b6e65a919a1d4cc4038994bc4" resname="attribute_definition.view.type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Type</target>
         <note>key: attribute_definition.view.type</note>
       </trans-unit>
       <trans-unit id="419d847735cabb6bdae740f140d7fda77c23beb1" resname="attribute_definition_translation_add_form.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: attribute_definition_translation_add_form.add</note>
       </trans-unit>
       <trans-unit id="67d3744156c0d39132649408d73c6ec72587453f" resname="attribute_definition_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="needs-translation">Remove translation</target>
+        <target state="translated">Supprimer la traduction</target>
         <note>key: attribute_definition_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="ef198a76186df8b1d52f5062698715d6130932fe" resname="attribute_group.breadcrumb.list">
         <source>Attribute groups</source>
-        <target state="needs-translation">Attribute groups</target>
+        <target state="translated">Groupes d'attributs</target>
         <note>key: attribute_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="d706859ada946c49c4ad12e42f83ecb88f465717" resname="attribute_group.breadcrumb.view">
         <source>%name%</source>
-        <target state="needs-translation">%name%</target>
+        <target state="translated">%name%</target>
         <note>key: attribute_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="d8d14d9801453b819beb66e64b9efc9a681e21a4" resname="attribute_group.create.success">
         <source>Attribute Group '%name%' created.</source>
-        <target state="needs-translation">Attribute Group '%name%' created.</target>
+        <target state="translated">Groupe d'attributs '%name%' créé.</target>
         <note>key: attribute_group.create.success</note>
       </trans-unit>
       <trans-unit id="26fe3e0dccbca7e764dcbe65ae03ba58c9497fb4" resname="attribute_group.delete.success">
         <source>{1}Attribute group '%deletedNames%' removed.|]1,Inf[ Attribute groups '%deletedNames%' removed.</source>
-        <target state="needs-translation">{1}Attribute group '%deletedNames%' removed.|]1,Inf[ Attribute groups '%deletedNames%' removed.</target>
+        <target state="translated">{1}Groupe d'attributs '%deletedNames%' supprimé .|]1,Inf[ Groupes d'attributs '%deletedNames%' supprimés.</target>
         <note>key: attribute_group.delete.success</note>
       </trans-unit>
       <trans-unit id="27b6abd5e76b68ca068f0910008d8b8940d221e5" resname="attribute_group.edit.action_name">
         <source>Editing Attribute group</source>
-        <target state="needs-translation">Editing Attribute group</target>
+        <target state="translated">Modifier le groupe d'attributs</target>
         <note>key: attribute_group.edit.action_name</note>
       </trans-unit>
       <trans-unit id="0a80df990a32610836d692351deb745c57492653" resname="attribute_group.information.headline">
         <source>Attribute group information</source>
-        <target state="needs-translation">Attribute group information</target>
+        <target state="translated">Informations sur le groupe d'attributs</target>
         <note>key: attribute_group.information.headline</note>
       </trans-unit>
       <trans-unit id="6b3254aaa47032105920c16b2bbe6365f19e197b" resname="attribute_group.list.action.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: attribute_group.list.action.create</note>
       </trans-unit>
       <trans-unit id="30312f90a8509d0f1768ceff1d2cfe8e9a03129d" resname="attribute_group.list.column.identifier">
@@ -278,7 +278,7 @@
       </trans-unit>
       <trans-unit id="e9b6984aa83a1ccd4ce040f59e2ff1d3f67a29c7" resname="attribute_group.list.column.position">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Position</target>
         <note>key: attribute_group.list.column.position</note>
       </trans-unit>
       <trans-unit id="2358230344910f644235f963ebb304115dd88d20" resname="attribute_group.list.number_of_results">
@@ -288,17 +288,17 @@
       </trans-unit>
       <trans-unit id="99eb3af4dc09dcb2883296ac4187137c858ddfe1" resname="attribute_group.list.title">
         <source>Attribute groups</source>
-        <target state="needs-translation">Attribute groups</target>
+        <target state="translated">Groupes d'attributs</target>
         <note>key: attribute_group.list.title</note>
       </trans-unit>
       <trans-unit id="4d02dc63d5adb3b6713d58257b05fb2e193cfa06" resname="attribute_group.new.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: attribute_group.new.action_name</note>
       </trans-unit>
       <trans-unit id="63b4b715169f155efe36ecade1b8552342f76b51" resname="attribute_group.new.title">
         <source>New Attribute group</source>
-        <target state="needs-translation">New Attribute group</target>
+        <target state="translated">Nouveau groupe d'attributs</target>
         <note>key: attribute_group.new.title</note>
       </trans-unit>
       <trans-unit id="358c7debce239a8a4f9c956204c7cda965b2142f" resname="attribute_group.no_attributes_group.action_text">

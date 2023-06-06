@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="aef452f8040700116fbc5ae9817bb8fc46ed5275" resname="taxonomy.assign">
         <source>Assign</source>
-        <target state="needs-translation">Assign</target>
+        <target state="translated">Assigner</target>
         <note>key: taxonomy.assign</note>
       </trans-unit>
       <trans-unit id="00d0dfa395284e5530c81e2f301b39bb92dbf6ed" resname="taxonomy.entry.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: taxonomy.entry.delete</note>
       </trans-unit>
       <trans-unit id="b57868459850ed64a25417c35b51648d65491b8f" resname="taxonomy.entry.move">
         <source>Move</source>
-        <target state="needs-translation">Move</target>
+        <target state="translated">Déplacer</target>
         <note>key: taxonomy.entry.move</note>
       </trans-unit>
       <trans-unit id="225ff02fe1e4ab54f8e94fc388306a9eeac76ada" resname="taxonomy.unassign">
         <source>Unassign</source>
-        <target state="needs-translation">Unassign</target>
+        <target state="translated">Désassigner</target>
         <note>key: taxonomy.unassign</note>
       </trans-unit>
     </body>

@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="5761446626d26974269cd5f7fb428e268928932b" resname="embed_btn.label">
         <source>Embed</source>
-        <target state="needs-translation">Embed</target>
+        <target state="translated">Encapsuler</target>
         <note>key: embed_btn.label</note>
       </trans-unit>
       <trans-unit id="60187109a21e0437d6b91e9762fd1c69a79062be" resname="formatted_btn.label">

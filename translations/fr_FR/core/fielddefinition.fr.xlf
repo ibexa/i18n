@@ -101,7 +101,7 @@
       </trans-unit>
       <trans-unit id="388ff2c36717a410a72060911657dce61108ed3c" resname="fielddefinition.interval.minute">
         <source>%default% %minute% minute(s)</source>
-        <target state="needs-translation">%default% %minute% minute(s)</target>
+        <target state="translated">%default% %minute% minute(s)</target>
         <note>key: fielddefinition.interval.minute</note>
         <jms:reference-file line="91">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="b9bb83913e23ad5a59eb7485ca48386bd7fce66e" resname="fielddefinition.media-player-type.flash">
         <source>Flash</source>
-        <target state="needs-translation">Flash</target>
+        <target state="translated">Flash</target>
         <note>key: fielddefinition.media-player-type.flash</note>
         <jms:reference-file line="182">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
@@ -209,13 +209,13 @@
       </trans-unit>
       <trans-unit id="edd8db0307e234e095d1788540bd026e48e173f8" resname="fielddefinition.media-player-type.real_player">
         <source>Real Player</source>
-        <target state="needs-translation">Real Player</target>
+        <target state="translated">Real Player</target>
         <note>key: fielddefinition.media-player-type.real_player</note>
         <jms:reference-file line="186">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="4ad14874021f1b806f9c93b41ef195b12fe5ab3f" resname="fielddefinition.media-player-type.silverlight">
         <source>Silverlight</source>
-        <target state="needs-translation">Silverlight</target>
+        <target state="translated">Silverlight</target>
         <note>key: fielddefinition.media-player-type.silverlight</note>
         <jms:reference-file line="188">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
