@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="4fd0653c4f2aef3b19a3c145bbdc5f4740715a09" resname="cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: cancel</note>
       </trans-unit>
       <trans-unit id="a4a24a08f0de7316a0e9e0a69d0b811a0fe70319" resname="ezplatform.content_forms.content.fields">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="5e57af45228218466691ac7a14d46cfe34a697ab" resname="save_draft">
         <source>Save draft</source>
-        <target state="needs-translation">Save draft</target>
+        <target state="translated">Enregistrer le brouillon</target>
         <note>key: save_draft</note>
       </trans-unit>
     </body>
