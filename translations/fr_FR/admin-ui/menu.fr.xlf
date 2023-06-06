@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="ca09d2e9bfc8aa93d6b4c4f3c7d38f37976d7038" resname="content_type_edit__anchor_menu__field_definitions">
         <source>Field definitions</source>
-        <target state="needs-translation">Field definitions</target>
+        <target state="translated">Définitions de champs</target>
         <note>key: content_type_edit__anchor_menu__field_definitions</note>
       </trans-unit>
       <trans-unit id="e39ae19f3f6be47b23321398f5d499bf78f9fc7c" resname="content_type_edit__anchor_menu__global_properties">
         <source>Global properties</source>
-        <target state="needs-translation">Global properties</target>
+        <target state="translated">Propriétés globales</target>
         <note>key: content_type_edit__anchor_menu__global_properties</note>
       </trans-unit>
       <trans-unit id="17d86a1011976758251b804acfbe8092d2860946" resname="content_type_edit__sidebar_right__cancel" approved="yes">
