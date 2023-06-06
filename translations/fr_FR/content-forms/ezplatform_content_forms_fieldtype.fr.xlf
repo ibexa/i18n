@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="2fcb1cae76dae0c5ddda6446822bf2d656e84601" resname="content.field_type.ezgmaplocation.latitude">
         <source>Latitude</source>
-        <target state="needs-translation">Latitude</target>
+        <target state="translated">Latitude</target>
         <note>key: content.field_type.ezgmaplocation.latitude</note>
       </trans-unit>
       <trans-unit id="f598e2bedb749c004e232b9c3f0cffbc08f9c491" resname="content.field_type.ezgmaplocation.longitude">
         <source>Longitude</source>
-        <target state="needs-translation">Longitude</target>
+        <target state="translated">Longitude</target>
         <note>key: content.field_type.ezgmaplocation.longitude</note>
       </trans-unit>
       <trans-unit id="aa904d94a0f6df2084d669e82dac178189509aab" resname="content.field_type.ezimage.alternative_text">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="25850f96dbb0457a35063e29e92a26cbba2de07d" resname="content.field_type.ezurl.link">
         <source>URL</source>
-        <target state="needs-translation">URL</target>
+        <target state="translated">URL</target>
         <note>key: content.field_type.ezurl.link</note>
       </trans-unit>
       <trans-unit id="e6ca454559e2a762b64c43847db1e227b3077540" resname="content.field_type.ezurl.text">
