@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="da113ef6997dd899852e9f2fde59a357d0f78631" resname="block.schedule.select_content.wrapper.label">
         <source>Content items</source>
-        <target state="needs-translation">Content items</target>
+        <target state="translated">Eléments de contenu</target>
         <note>key: block.schedule.select_content.wrapper.label</note>
       </trans-unit>
       <trans-unit id="ce63f0ad9dc60242493136bc6a34a24eb7e69de5" resname="change.airtime">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="f1269b6fc5483b2a1528e8b2f1938cc37ab537c2" resname="page_builder.block_configuration.style">
         <source>Style</source>
-        <target state="needs-translation">Style</target>
+        <target state="translated">Style</target>
         <note>key: page_builder.block_configuration.style</note>
       </trans-unit>
       <trans-unit id="02ba70eaa60e10264ec65a0da1ac96d9b110759f" resname="page_builder.block_configuration.view">
