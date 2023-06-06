@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="0d4e2915af539759633ce2317d17e4df6131d739" resname="url_wildcard.create.identifier">
         <source>Destination URL</source>
-        <target state="needs-translation">Destination URL</target>
+        <target state="translated">URL de destination</target>
         <note>key: url_wildcard.create.identifier</note>
       </trans-unit>
       <trans-unit id="51df229352cfd712057d2838eea22362c6c627f0" resname="url_wildcard.create.source_url">
