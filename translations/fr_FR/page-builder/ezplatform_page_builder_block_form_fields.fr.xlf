@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="7097c09e36067bb7d7c3b53aa21fca21a89e030c" resname="add.field.group">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: add.field.group</note>
       </trans-unit>
       <trans-unit id="256dfe3478991ae080ce94b03e7a05d0eeba10f3" resname="delete.field.group">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: delete.field.group</note>
       </trans-unit>
     </body>
