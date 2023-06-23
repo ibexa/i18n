@@ -53,17 +53,17 @@
       </trans-unit>
       <trans-unit id="123a6cff0d98d08927f6666246d451da50941a7b" resname="content_edit.autosave.status_saved.message.full">
         <source>Draft saved %time%</source>
-        <target state="needs-translation">Draft saved %time%</target>
+        <target state="translated">Borrador guardado %time%</target>
         <note>key: content_edit.autosave.status_saved.message.full</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
         <source>under %location_name%</source>
-        <target state="needs-translation">under %location_name%</target>
+        <target state="translated">en %location_name%</target>
         <note>key: editing_details</note>
       </trans-unit>
       <trans-unit id="f6ae7078e77f584ad00c8003405ca11dc57c4d56" resname="preview_header.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Atrás</target>
         <note>key: preview_header.back</note>
       </trans-unit>
       <trans-unit id="583285bb674e4f29b273ceb4b19dc700e44c4130" resname="tooltip.close_label">
