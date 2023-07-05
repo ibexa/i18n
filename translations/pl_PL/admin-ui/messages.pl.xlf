@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="9177237415bf4199961eb8de9353011a5b22a039" resname="anchor_navigation.close">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">Zamknij</target>
         <note>key: anchor_navigation.close</note>
       </trans-unit>
       <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
@@ -18,17 +18,17 @@
       </trans-unit>
       <trans-unit id="e524fb7941a99d5c26d355dbf015226241e807a7" resname="authentication.credentials_expire_today.warning">
         <source>Your current password will expire today. You can change it in User Settings/My Account Settings.</source>
-        <target state="needs-translation">Your current password will expire today. You can change it in User Settings/My Account Settings.</target>
+        <target state="translated">Twoje hasło wygasa dzisiaj. Rozważ jego aktualizację w Ustawieniach użytkownika/Moje konto.</target>
         <note>key: authentication.credentials_expire_today.warning</note>
       </trans-unit>
       <trans-unit id="c9a7a0dd7518550634ea6873dcc815d4ec30c1e2" resname="authentication.credentials_expired">
         <source>Your password has expired.</source>
-        <target state="needs-translation">Your password has expired.</target>
+        <target state="translated">Twoje hasło wygasło.</target>
         <note>key: authentication.credentials_expired</note>
       </trans-unit>
       <trans-unit id="be4c13cda3e93a1e8cb05145c0dc6c3780c40c66" resname="authentication.credentials_expired.message">
         <source>Your password has expired and must be changed. You will receive an email with instructions how to reset your password.</source>
-        <target state="needs-translation">Your password has expired and must be changed. You will receive an email with instructions how to reset your password.</target>
+        <target state="translated">Twoje hasło wygasło i musi zostać zmienione. Otrzymasz e-mail z instrukcjami jak zresetować hasło.</target>
         <note>key: authentication.credentials_expired.message</note>
       </trans-unit>
       <trans-unit id="2b3f00f63c14c6dc9300d54b42159218f6b5f260" resname="authentication.credentials_expired.reset_password">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password">
         <source>Forgot your password?</source>
-        <target state="needs-translation">Forgot your password?</target>
+        <target state="translated">Nie pamiętasz hasła?</target>
         <note>key: authentication.forgot_password</note>
       </trans-unit>
       <trans-unit id="a56a6630cc335b8a63f8632263aef6625f731929" resname="authentication.login" approved="yes">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="f7771b5d011f529e37d3b4c94319f52e709256c3" resname="authentication.reset_your_password.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Wstecz</target>
         <note>key: authentication.reset_your_password.back</note>
       </trans-unit>
       <trans-unit id="930de05604c9de549497278656b63f7721e65ce5" resname="authentication.reset_your_password.back_to_sign_in">
@@ -73,22 +73,22 @@
       </trans-unit>
       <trans-unit id="b84cc93e7b7f2a9eb0be3e95db4ffde11a97a520" resname="back.to.top">
         <source>Go to top</source>
-        <target state="needs-translation">Go to top</target>
+        <target state="translated">Idź do góry</target>
         <note>key: back.to.top</note>
       </trans-unit>
       <trans-unit id="4daaec218376e009b83ec7f46efed4f0db0bc776" resname="base.get_started">
         <source>Get started</source>
-        <target state="needs-translation">Get started</target>
+        <target state="translated">Zaczynamy</target>
         <note>key: base.get_started</note>
       </trans-unit>
       <trans-unit id="c82a33e6a2272aab44ff7b78c90817c0fc8768cb" resname="base.need_assistance">
         <source>Get to know Ibexa DXP</source>
-        <target state="needs-translation">Get to know Ibexa DXP</target>
+        <target state="translated">Poznaj Ibexa DXP</target>
         <note>key: base.need_assistance</note>
       </trans-unit>
       <trans-unit id="2db35ee6d4dcf83edd936a8a8a6baabd1e4ffd76" resname="base.registration">
         <source>Registration</source>
-        <target state="needs-translation">Registration</target>
+        <target state="translated">Rejestracja</target>
         <note>key: base.registration</note>
       </trans-unit>
       <trans-unit id="34e898c4a61c4925b523416b0c7ecd9574d8e48b" resname="base.visit_support">
@@ -98,17 +98,17 @@
       </trans-unit>
       <trans-unit id="59c7ae16de21fe5b4f16ac740a708e72fff4654a" resname="base.welcome">
         <source><![CDATA[Welcome to<br/> Ibexa DXP]]></source>
-        <target state="needs-translation"><![CDATA[Welcome to<br/> Ibexa DXP]]></target>
+        <target state="translated"><![CDATA[Witamy w<br/> Ibexa DXP]]></target>
         <note>key: base.welcome</note>
       </trans-unit>
       <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
         <source>You have no notifications.</source>
-        <target state="needs-translation">You have no notifications.</target>
+        <target state="translated">Brak powiadomień.</target>
         <note>key: bookmark.list.empty</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
-        <target state="needs-translation">Admin</target>
+        <target state="translated">Admin</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
       <trans-unit id="d23f0200b4769a69d2414de6d96117fed4601326" resname="character_counter.characters">
@@ -128,22 +128,22 @@
       </trans-unit>
       <trans-unit id="21e7545fc420d95a59a713437d9dc28d85d82ceb" resname="content.details.content_id">
         <source>Content ID: %contentId%</source>
-        <target state="needs-translation">Content ID: %contentId%</target>
+        <target state="translated">ID obiektu: %contentId%</target>
         <note>key: content.details.content_id</note>
       </trans-unit>
       <trans-unit id="fbf8f503b8af11a779316ffa7e12085401212748" resname="content.details.created_by">
         <source>Created by %name%</source>
-        <target state="needs-translation">Created by %name%</target>
+        <target state="translated">Utworzone przez %name%</target>
         <note>key: content.details.created_by</note>
       </trans-unit>
       <trans-unit id="b703ce905c39239f607ffa395acf83d2dd6046f0" resname="content.details.location_id">
         <source>Location ID: %locationId%</source>
-        <target state="needs-translation">Location ID: %locationId%</target>
+        <target state="translated">ID lokalizacji: %locationId%</target>
         <note>key: content.details.location_id</note>
       </trans-unit>
       <trans-unit id="fc543140fe88431b31013a20fbceef4ecf9e7430" resname="content.details.parent_location_id">
         <source>Parent Location ID: %locationId%</source>
-        <target state="needs-translation">Parent Location ID: %locationId%</target>
+        <target state="translated">ID lokalizacji nadrzędnej: %locationId%</target>
         <note>key: content.details.parent_location_id</note>
       </trans-unit>
       <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
@@ -188,17 +188,17 @@
       </trans-unit>
       <trans-unit id="d364f97b275523fe571da0da612fdbc4a1064550" resname="content_edit.autosave.status_off.message">
         <source>Autosave is off</source>
-        <target state="needs-translation">Autosave is off</target>
+        <target state="translated">Autozapis włączony</target>
         <note>key: content_edit.autosave.status_off.message</note>
       </trans-unit>
       <trans-unit id="93f0a5980aa14af989f4106ffda244ba02db1c32" resname="content_edit.autosave.status_on.message">
         <source>Autosave is on</source>
-        <target state="needs-translation">Autosave is on</target>
+        <target state="translated">Autozapis włączony</target>
         <note>key: content_edit.autosave.status_on.message</note>
       </trans-unit>
       <trans-unit id="da43c85269df161b340e92296642e18ec6af033e" resname="content_edit.autosave.status_saving.message">
         <source>Saving</source>
-        <target state="needs-translation">Saving</target>
+        <target state="translated">Zapisywanie</target>
         <note>key: content_edit.autosave.status_saving.message</note>
       </trans-unit>
       <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
@@ -208,17 +208,17 @@
       </trans-unit>
       <trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: content_type.view.edit.add</note>
       </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Field definitions</source>
-        <target state="needs-translation">Field definitions</target>
+        <target state="translated">Definicje pól</target>
         <note>key: content_type.view.edit.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="3e0b70d6f624782a5deaa55de446878855231ebb" resname="content_type.view.edit.content_field_types">
         <source>Field types</source>
-        <target state="needs-translation">Field types</target>
+        <target state="translated">Typ pola</target>
         <note>key: content_type.view.edit.content_field_types</note>
       </trans-unit>
       <trans-unit id="cdc87bbe1a58b07964472f9d1285cbedf7e8cfa4" resname="content_type.view.edit.empty_group_content">
@@ -228,12 +228,12 @@
       </trans-unit>
       <trans-unit id="10fcf7db63ceaf2a8ffb2b8e2b20e664d18701d5" resname="content_type.view.edit.empty_group_label">
         <source>Your section is empty</source>
-        <target state="needs-translation">Your section is empty</target>
+        <target state="translated">Sekcja jest pusta</target>
         <note>key: content_type.view.edit.empty_group_label</note>
       </trans-unit>
       <trans-unit id="199485ac12697819a72f2b71cd4222df19864419" resname="content_type.view.edit.empty_group_title">
         <source>Drag and drop field type</source>
-        <target state="needs-translation">Drag and drop field type</target>
+        <target state="translated">Przeciągnij i upuść pole tutaj</target>
         <note>key: content_type.view.edit.empty_group_title</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
@@ -243,17 +243,17 @@
       </trans-unit>
       <trans-unit id="a2f384a133f8c542cc8c7388d9115f62ae3c4234" resname="content_type.view.edit.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: content_type.view.edit.search</note>
       </trans-unit>
       <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Dodaj nowy</target>
         <note>key: content_type.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
@@ -263,12 +263,12 @@
       </trans-unit>
       <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: content_type_group.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="4bbd55638dc95b087b2c020f64f29ffed12b0688" resname="content_type_selector.list.show_more">
         <source>More</source>
-        <target state="needs-translation">More</target>
+        <target state="translated">Więcej</target>
         <note>key: content_type_selector.list.show_more</note>
       </trans-unit>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add" approved="yes">
@@ -288,12 +288,12 @@
       </trans-unit>
       <trans-unit id="8fedbb70c8494c057fb45930e46671a659bae616" resname="dropdown.clear">
         <source>Clear (%selected_items_count%)</source>
-        <target state="needs-translation">Clear (%selected_items_count%)</target>
+        <target state="translated">Wyczyść (%selected_items_count%)</target>
         <note>key: dropdown.clear</note>
       </trans-unit>
       <trans-unit id="a3390555f717ffd9b3560f17198e5a437899967f" resname="dropdown.placeholder">
         <source>Choose an option</source>
-        <target state="needs-translation">Choose an option</target>
+        <target state="translated">Wybierz opcję</target>
         <note>key: dropdown.placeholder</note>
       </trans-unit>
       <trans-unit id="49f6d75aca8da375a2a79c0778934bc45a8ffe8c" resname="dropdown.placeholder.empty">
@@ -303,12 +303,12 @@
       </trans-unit>
       <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: dropdown.search</note>
       </trans-unit>
       <trans-unit id="3f446c9bfc8591ebdb9a2bc8fa98410bdcc4ced2" resname="dropdown.select_all">
         <source>Select All</source>
-        <target state="needs-translation">Select All</target>
+        <target state="translated">Zaznacz wszystko</target>
         <note>key: dropdown.select_all</note>
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
