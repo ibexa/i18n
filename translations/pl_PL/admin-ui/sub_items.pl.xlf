@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="8d9e2f3fb15679717338a9f8ba95640c4b6b2e66" resname="add_locations_btn.label">
         <source>Add Locations</source>
-        <target state="needs-translation">Add Locations</target>
+        <target state="translated">Dodaj lokalizacje</target>
         <note>key: add_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="ca61c6a680354ca0ca27b53f63d9d30ba35eee2a" resname="bulk_action.error.more_info">
         <source><![CDATA[<u><a class='ibexa-notification-btn ibexa-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
-        <target state="needs-translation"><![CDATA[<u><a class='ibexa-notification-btn ibexa-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></target>
+        <target state="translated"><![CDATA[<u><a class='ibexa-notification-btn ibexa-notification-btn--show-modal'>Kliknij tutaj, aby uzyskać więcej informacji.</a></u><br>]]></target>
         <note>key: bulk_action.error.more_info</note>
       </trans-unit>
       <trans-unit id="aa8f660d8cae16394e7cd4421e6b604e031ad04b" resname="bulk_action.popup.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Anuluj</target>
         <note>key: bulk_action.popup.cancel</note>
       </trans-unit>
       <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
         <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
-        <target state="needs-translation"><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></target>
+        <target state="translated"><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></target>
         <note>key: bulk_action.success.link_to_location</note>
       </trans-unit>
       <trans-unit id="ba6155333e2bbe9f762d1e1462a9c3075ce38a75" resname="bulk_add_location.error.message">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="674c6872a8bb0ee30b38cc338bf6482dd78dde56" resname="bulk_add_location.success.message">
         <source>Location(s) added to {{ locationLink }}.</source>
-        <target state="needs-translation">Location(s) added to {{ locationLink }}.</target>
+        <target state="translated">Lokalizacja(y) dodane do {{ locationLink }}.</target>
         <note>key: bulk_add_location.success.message</note>
       </trans-unit>
       <trans-unit id="99402f0925918d4d739c4c61a90182a733824fa5" resname="bulk_delete.error.message.nonusers">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="530f5b1097af7206fdabc3a51ac334c933ab4909" resname="bulk_delete.popup.confirm.nonusers">
         <source>Send to Trash</source>
-        <target state="needs-translation">Send to Trash</target>
+        <target state="translated">Wyślij do kosza</target>
         <note>key: bulk_delete.popup.confirm.nonusers</note>
       </trans-unit>
       <trans-unit id="4953b415cbb1e81833664d96e7051d0a7e3d90c8" resname="bulk_delete.popup.confirm.users_and_users_with_nonusers">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: bulk_delete.popup.confirm.users_and_users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="e98d09770399a6f52a15068a0573a18fc2b0b60d" resname="bulk_delete.popup.message.nonusers">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="540d45bd030bab3e5bec8b9c1433ff4d9998c73e" resname="bulk_hide.popup.confirm">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">Ukryj</target>
         <note>key: bulk_hide.popup.confirm</note>
       </trans-unit>
       <trans-unit id="d2ab57f08d00c6f0d714b26aa81a44c8a1867903" resname="bulk_hide.popup.message">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="16c240de3cfc07b8e56d008357706abefad3e3ae" resname="bulk_unhide.popup.confirm">
         <source>Reveal</source>
-        <target state="needs-translation">Reveal</target>
+        <target state="translated">Pokaż</target>
         <note>key: bulk_unhide.popup.confirm</note>
       </trans-unit>
       <trans-unit id="99b9c21ff0ed8b33521c0b8c07410f1f10e5f879" resname="bulk_unhide.popup.message">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="0f2106150fc552b94658eee2125a4c4680f3564c" resname="hide_locations_btn.label">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">Ukryj</target>
         <note>key: hide_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="2f2de7291ed87063841f5d65e5d73c1c50eaa3be" resname="instant.filter.placeholder">
@@ -208,27 +208,27 @@
       </trans-unit>
       <trans-unit id="d8bac590d6c8bf7c4e58ad1d7dbe4aad57e54e43" resname="items_table.header.contributor">
         <source>Contributor</source>
-        <target state="needs-translation">Contributor</target>
+        <target state="translated">Twórca</target>
         <note>key: items_table.header.contributor</note>
       </trans-unit>
       <trans-unit id="0cc77521bf45c4018b51099ec6e7faa02892be10" resname="items_table.header.creator">
         <source>Creator</source>
-        <target state="needs-translation">Creator</target>
+        <target state="translated">Autor</target>
         <note>key: items_table.header.creator</note>
       </trans-unit>
       <trans-unit id="1cb1922ab4f684747ddabe1a1b1277893e31006d" resname="items_table.header.filters">
         <source>Filters</source>
-        <target state="needs-translation">Filters</target>
+        <target state="translated">Filtry</target>
         <note>key: items_table.header.filters</note>
       </trans-unit>
       <trans-unit id="fdb8e418a944ccd7b2b8575c09abf1838589d51b" resname="items_table.header.location_id">
         <source>Location ID</source>
-        <target state="needs-translation">Location ID</target>
+        <target state="translated">ID lokalizacji</target>
         <note>key: items_table.header.location_id</note>
       </trans-unit>
       <trans-unit id="86e7d70a1dee14408d841d5f2f7bc3bf4d4579a3" resname="items_table.header.location_remote_id">
         <source>Location remote ID</source>
-        <target state="needs-translation">Location remote ID</target>
+        <target state="translated">Zdalne ID lokalizacji</target>
         <note>key: items_table.header.location_remote_id</note>
       </trans-unit>
       <trans-unit id="8f1583d031a1cc60061659b8a55291496f0a40c6" resname="items_table.header.modified" approved="yes">
@@ -243,12 +243,12 @@
       </trans-unit>
       <trans-unit id="725a35139d6927f9c5ac199aa42a0baf362986fb" resname="items_table.header.object_id">
         <source>Object ID</source>
-        <target state="needs-translation">Object ID</target>
+        <target state="translated">ID obiektu</target>
         <note>key: items_table.header.object_id</note>
       </trans-unit>
       <trans-unit id="d8a8032b67e3e3626e01d4983b4d76a4e9d2c999" resname="items_table.header.object_remote_id">
         <source>Object remote ID</source>
-        <target state="needs-translation">Object remote ID</target>
+        <target state="translated">Zdalne ID obiektu</target>
         <note>key: items_table.header.object_remote_id</note>
       </trans-unit>
       <trans-unit id="ee6e79244a03c8adceb13aa6a7aff2cb496cb9d0" resname="items_table.header.priority" approved="yes">
@@ -258,12 +258,12 @@
       </trans-unit>
       <trans-unit id="9194a0b943ca204c20acd7695c577b976ce4c964" resname="items_table.header.pubished">
         <source>Published</source>
-        <target state="needs-translation">Published</target>
+        <target state="translated">Opublikowano</target>
         <note>key: items_table.header.pubished</note>
       </trans-unit>
       <trans-unit id="ed4e5502d8ec6f16e9e87bdd0704d0a5af38dcc5" resname="items_table.header.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Sekcja</target>
         <note>key: items_table.header.section</note>
       </trans-unit>
       <trans-unit id="2efb1da52dd6f25dd90474e85b5c73761adb4183" resname="items_table.header.translations" approved="yes">
@@ -273,57 +273,57 @@
       </trans-unit>
       <trans-unit id="9f055743ae2bf600810c4935ab10873ca4dac6d9" resname="items_table.header.visibility">
         <source>Visibility</source>
-        <target state="needs-translation">Visibility</target>
+        <target state="translated">Widoczność</target>
         <note>key: items_table.header.visibility</note>
       </trans-unit>
       <trans-unit id="0d59826a85ae0f5cc7f6d56efa18d2b9cbe7c687" resname="items_table.row.not_visible.label">
         <source>Not Visible</source>
-        <target state="needs-translation">Not Visible</target>
+        <target state="translated">Nie widoczny</target>
         <note>key: items_table.row.not_visible.label</note>
       </trans-unit>
       <trans-unit id="e971be69cde4dc46bcceb65cd0cb255ced2b9bba" resname="items_table.row.visible.label">
         <source>Visible</source>
-        <target state="needs-translation">Visible</target>
+        <target state="translated">Widoczny</target>
         <note>key: items_table.row.visible.label</note>
       </trans-unit>
       <trans-unit id="c509fd3a9e7282070fa03f793bb932863c45d8f6" resname="languages.modal.label">
         <source>Select language</source>
-        <target state="needs-translation">Select language</target>
+        <target state="translated">Wybierz język</target>
         <note>key: languages.modal.label</note>
       </trans-unit>
       <trans-unit id="e3c395cec9466f06c8f2f3f4b2bfcd9021537714" resname="move_btn.label">
         <source>Move</source>
-        <target state="needs-translation">Move</target>
+        <target state="translated">Przenieś</target>
         <note>key: move_btn.label</note>
       </trans-unit>
       <trans-unit id="11b5de206f496e357ede3c3798b8e113c2946a60" resname="trash_btn.label">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: trash_btn.label</note>
       </trans-unit>
       <trans-unit id="cd8466f8e727278543a7e1ded7f3a0c67243c276" resname="udw.choose_location.title">
         <source>Choose Location</source>
-        <target state="needs-translation">Choose Location</target>
+        <target state="translated">Wybierz lokalizację</target>
         <note>key: udw.choose_location.title</note>
       </trans-unit>
       <trans-unit id="8518fc267b3ab3f637351ddbd8ad08e1312d822c" resname="unhide_locations_btn.label">
         <source>Reveal</source>
-        <target state="needs-translation">Reveal</target>
+        <target state="translated">Pokaż</target>
         <note>key: unhide_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="71163c5c559fc7ddbd92441dc94c4eddc7e58274" resname="view_switcher.grid_view">
         <source>Grid view</source>
-        <target state="needs-translation">Grid view</target>
+        <target state="translated">Widok siatki</target>
         <note>key: view_switcher.grid_view</note>
       </trans-unit>
       <trans-unit id="193d58a61e04c3cef23665e876aa2534828430d0" resname="view_switcher.list_view">
         <source>List view</source>
-        <target state="needs-translation">List view</target>
+        <target state="translated">Widok listy</target>
         <note>key: view_switcher.list_view</note>
       </trans-unit>
       <trans-unit id="75247b44eb33fe5c35d9b5d8770bd76a15be7747" resname="view_switcher.view">
         <source>View</source>
-        <target state="needs-translation">View</target>
+        <target state="translated">Widok</target>
         <note>key: view_switcher.view</note>
       </trans-unit>
       <trans-unit id="5ae5a511a5c344781ad0caa53efe7b33429c6132" resname="viewing_message">
