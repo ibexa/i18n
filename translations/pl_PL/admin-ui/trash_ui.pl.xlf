@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="1d957f13cf25440ae43b3d605daa94876080a45a" resname="trash.user_list.error">
         <source>Cannot fetch user list</source>
-        <target state="needs-translation">Cannot fetch user list</target>
+        <target state="translated">Nie można pobrać listy użytkowników</target>
         <note>key: trash.user_list.error</note>
       </trans-unit>
     </body>
