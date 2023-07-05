@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="38e2c44a346ffd4c7b37468e79f64984684e9169" resname="ibexa.user.invitations.success">
         <source>Invitations sent</source>
-        <target state="needs-translation">Invitations sent</target>
+        <target state="translated">Zaproszenia wysłane</target>
         <note>key: ibexa.user.invitations.success</note>
       </trans-unit>
       <trans-unit id="d0348762df1838c70a95330d7bf7afbb5eb82343" resname="ibexa.user.invitations.user_exist">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="1c40d44e40ab42abe7534935a99891ee83b78fe7" resname="modal.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Anuluj</target>
         <note>key: modal.cancel.label</note>
       </trans-unit>
       <trans-unit id="7fe6937710fc7ea8e9233c52f19086aa536bc9d2" resname="modal.drop">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="5f0b55fcb399ab7a8e3441d7d618e1c59c81a01c" resname="modal.issue.email.empty.message">
         <source>Email is required</source>
-        <target state="needs-translation">Email is required</target>
+        <target state="translated">E-mail jest wymagany</target>
         <note>key: modal.issue.email.empty.message</note>
       </trans-unit>
       <trans-unit id="ced65d98fa61646be5b3cff4a199f6191e9565e8" resname="modal.issue.email.invalid.message">
         <source>Invalid email format</source>
-        <target state="needs-translation">Invalid email format</target>
+        <target state="translated">Niepoprawny format adresu e-mail</target>
         <note>key: modal.issue.email.invalid.message</note>
       </trans-unit>
       <trans-unit id="b343fdc1707b04f903db66cb60e073869869e0aa" resname="modal.issue.entry.deuplicate.merged">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="490ee1463548a5ef886d6620191efeda447f2404" resname="modal.or">
         <source>or</source>
-        <target state="needs-translation">or</target>
+        <target state="translated">lub</target>
         <note>key: modal.or</note>
       </trans-unit>
       <trans-unit id="29116d0fe8e9abb27e7083ff31e58e9b065e6a58" resname="modal.or_upload">
@@ -103,12 +103,12 @@
       </trans-unit>
       <trans-unit id="4eb38f2e1191d6cd77cf5002b8c70949a2c44631" resname="modal.search.placeholder">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: modal.search.placeholder</note>
       </trans-unit>
       <trans-unit id="0f21db2aec9802fb51610b96cc774d8bd3a03156" resname="modal.submit.label">
         <source>Send</source>
-        <target state="needs-translation">Send</target>
+        <target state="translated">Wyślij</target>
         <note>key: modal.submit.label</note>
       </trans-unit>
       <trans-unit id="08a5f336891a76fbd5fce4f454bb2d71b1df0223" resname="modal.title">
