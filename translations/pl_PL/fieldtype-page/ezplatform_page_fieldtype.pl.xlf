@@ -18,32 +18,32 @@
       </trans-unit>
       <trans-unit id="99cd4cdb8f35ab90854987053d6b21504cb9bcfd" resname="blocks.select_blocks_warning">
         <source>Deselecting a block will hide any related block(s) included in the Landing page during next edit. The user will have to delete the block(s) in order to publish the page</source>
-        <target state="needs-translation">Deselecting a block will hide any related block(s) included in the Landing page during next edit. The user will have to delete the block(s) in order to publish the page</target>
+        <target state="translated">Odznaczenie bloku ukryje wszystkie powiązane bloki zawarte na stronie startowej podczas następnej edycji. Użytkownik będzie musiał usunąć te bloki w celu opublikowania strony</target>
         <note>key: blocks.select_blocks_warning</note>
       </trans-unit>
       <trans-unit id="3caffd18afafbb2669cd72c21ba488d8119920f7" resname="editor_mode.select_editor_launch_mode">
         <source>Select Editor launch mode</source>
-        <target state="needs-translation">Select Editor launch mode</target>
+        <target state="translated">Wybierz tryb uruchamiania edytora</target>
         <note>key: editor_mode.select_editor_launch_mode</note>
       </trans-unit>
       <trans-unit id="fdd142fc2e5c77d28fea2e33ff339237b28c77a7" resname="item.select_all">
         <source>Select all</source>
-        <target state="needs-translation">Select all</target>
+        <target state="translated">Zaznacz wszystko</target>
         <note>key: item.select_all</note>
       </trans-unit>
       <trans-unit id="a076902011701514e528979b37c43de1874ed0be" resname="item.unselect_all">
         <source>Unselect all</source>
-        <target state="needs-translation">Unselect all</target>
+        <target state="translated">Odznacz wszystko</target>
         <note>key: item.unselect_all</note>
       </trans-unit>
       <trans-unit id="c4e31f9ecf2ec3e3387e0f0e39e0bf6da6119d72" resname="landing_page_ft.block_id_fetch.failed">
         <source>Unable to fetch block with ID "%blockId%"</source>
-        <target state="needs-translation">Unable to fetch block with ID "%blockId%"</target>
+        <target state="translated">Nie można pobrać bloku z ID "%blockId%"</target>
         <note>key: landing_page_ft.block_id_fetch.failed</note>
       </trans-unit>
       <trans-unit id="4e6b467aeed03b748276c99091952733f2ab538c" resname="layouts.select_layouts">
         <source>Select layouts</source>
-        <target state="needs-translation">Select layouts</target>
+        <target state="translated">Wybierz szablon(y)</target>
         <note>key: layouts.select_layouts</note>
       </trans-unit>
     </body>
