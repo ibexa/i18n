@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="bd2693d22f74954ebfeec334da5b3a4816ea6c11" resname="delete.modal.message">
         <source>Are you sure you want to delete this User?</source>
-        <target state="needs-translation">Are you sure you want to delete this User?</target>
+        <target state="translated">Czy na pewno chcesz usunąć tego użytkownika??</target>
         <note>key: delete.modal.message</note>
       </trans-unit>
     </body>
