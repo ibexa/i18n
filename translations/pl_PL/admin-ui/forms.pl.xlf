@@ -603,22 +603,22 @@
       </trans-unit>
       <trans-unit id="8775d52b987252ee1ad0867fe4f9e23dec668b5b" resname="role.policy.setting.all_functions">
         <source>Setting / All functions</source>
-        <target state="needs-translation">Setting / All functions</target>
+        <target state="translated">Ustawienie / Wszystkie funkcje</target>
         <note>key: role.policy.setting.all_functions</note>
       </trans-unit>
       <trans-unit id="686f427740ca0cf4df247266b8a1300d747cf3a4" resname="role.policy.setting.create">
         <source>Setting / Create</source>
-        <target state="needs-translation">Setting / Create</target>
+        <target state="translated">Ustawienie / Tworzenie</target>
         <note>key: role.policy.setting.create</note>
       </trans-unit>
       <trans-unit id="d41141e8fa3c214bc546a6925304c15ee9a28022" resname="role.policy.setting.remove">
         <source>Setting / Remove</source>
-        <target state="needs-translation">Setting / Remove</target>
+        <target state="translated">Ustawienie / Usuwanie</target>
         <note>key: role.policy.setting.remove</note>
       </trans-unit>
       <trans-unit id="14fa9c5afba9d51072c6a66dede46535b718f77e" resname="role.policy.setting.update">
         <source>Setting / Update</source>
-        <target state="needs-translation">Setting / Update</target>
+        <target state="translated">Ustawienie / Aktualizacja</target>
         <note>key: role.policy.setting.update</note>
       </trans-unit>
       <trans-unit id="33092ebd51699d4d3f598b8488e7bc5969038bff" resname="role.policy.setup">
