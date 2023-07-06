@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="445e5dce642562c06137fef60c9a7fcf788a9da6" resname="tab.policies.no_policies">
         <source>This Content item has no Policies.</source>
-        <target state="needs-translation">This Content item has no Policies.</target>
+        <target state="translated">Ten element nie ma przypisanych reguł.</target>
         <note>key: tab.policies.no_policies</note>
       </trans-unit>
       <trans-unit id="1a761d1b544608935dfa6ce9d196cf2c31f7edda" resname="tab.policies.policies" approved="yes">
