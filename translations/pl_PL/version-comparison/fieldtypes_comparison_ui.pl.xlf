@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="e7efd7e51aacdb2fa1bbaba1a85c1c1abee52986" resname="content.comparison.action">
         <source>Viewing versions to compare</source>
-        <target state="needs-translation">Viewing versions to compare</target>
+        <target state="translated">Przeglądanie wersji do porównania</target>
         <note>key: content.comparison.action</note>
       </trans-unit>
       <trans-unit id="1bf13d0e4251e905e29c50037aa5661eb4f66bc7" resname="content.comparison.choose_version">
         <source>Please choose versions to compare</source>
-        <target state="needs-translation">Please choose versions to compare</target>
+        <target state="translated">Proszę wybrać wersje do porównania</target>
         <note>key: content.comparison.choose_version</note>
       </trans-unit>
       <trans-unit id="e790ca3c99b7c89c93c96206b4c98853a3262926" resname="content.comparison.side.by.side.first">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="2b9aeb1bb29ff26a27e3d9a27b7f90be79eba83f" resname="content.comparison.view">
         <source>View</source>
-        <target state="needs-translation">View</target>
+        <target state="translated">Wyświetl</target>
         <note>key: content.comparison.view</note>
       </trans-unit>
       <trans-unit id="7d61d1117395c8c60ee55b37a1103b212f56492f" resname="tab.versions.table.action.version_compare">
