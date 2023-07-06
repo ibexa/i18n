@@ -165,7 +165,7 @@
       </trans-unit>
       <trans-unit id="3467ebb6448f4d8dd9f8a99cbea79415f25fa26d" resname="Path '%path%' already exists for the given context">
         <source>Path '%path%' already exists for the given context</source>
-        <target state="needs-translation">Path '%path%' already exists for the given context</target>
+        <target state="translated">Ścieżka '%path%' już istnieje dla podanego kontekstu</target>
         <note>key: Path '%path%' already exists for the given context</note>
         <jms:reference-file line="397">src/lib/Persistence/Legacy/Content/UrlAlias/Handler.php</jms:reference-file>
       </trans-unit>
@@ -235,7 +235,7 @@
       </trans-unit>
       <trans-unit id="9307ee9a550b5c318fbbd6f5750e95d1de1d3483" resname="non_verbose_error">
         <source>An error has occurred. Please try again later or contact your Administrator.</source>
-        <target state="needs-translation">An error has occurred. Please try again later or contact your Administrator.</target>
+        <target state="translated">Wystąpił błąd. Spróbuj ponownie później lub skontaktuj się z administratorem.</target>
         <note>key: non_verbose_error</note>
       </trans-unit>
     </body>
