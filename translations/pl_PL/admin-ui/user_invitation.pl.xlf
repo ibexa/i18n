@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="59b523724cdbdfb52e036c354f224966a2a0b5c2" resname="modal.upload_local">
         <source>Upload a local file</source>
-        <target state="needs-translation">Upload a local file</target>
+        <target state="translated">Wczytaj plik lokalny</target>
         <note>key: modal.upload_local</note>
       </trans-unit>
     </body>
