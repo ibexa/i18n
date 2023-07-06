@@ -20,7 +20,7 @@
       </trans-unit>
       <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login">
         <source>Login</source>
-        <target state="needs-translation">Login</target>
+        <target state="translated">Zaloguj się</target>
         <note>key: Login</note>
         <jms:reference-file line="32">src/bundle/Core/Resources/views/Security/login.html.twig</jms:reference-file>
         <jms:reference-file line="6">src/bundle/Core/Resources/views/Security/login.html.twig</jms:reference-file>
