@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="77a237f996d4f37680ad60963e3eba4088e8d319" resname="block.nested_attribute.setup_for_field_groups">
         <source>Setup for field groups %attributeName%</source>
-        <target state="needs-translation">Setup for field groups %attributeName%</target>
+        <target state="translated">Ustawienia dla grup pól %attributeName%</target>
         <note>key: block.nested_attribute.setup_for_field_groups</note>
       </trans-unit>
       <trans-unit id="e709525d3616f6a7d78ded79d7dfaf9c9df025cf" resname="blocks.select_blocks">
         <source>Select blocks</source>
-        <target state="needs-translation">Select blocks</target>
+        <target state="translated">Wybierz bloki</target>
         <note>key: blocks.select_blocks</note>
       </trans-unit>
       <trans-unit id="99cd4cdb8f35ab90854987053d6b21504cb9bcfd" resname="blocks.select_blocks_warning">
