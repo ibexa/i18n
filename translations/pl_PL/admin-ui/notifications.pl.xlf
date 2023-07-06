@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="d7fd0c0dc2a4267ebb5bca828e42812fded59ebb" resname="notification.permanently_deleted">
         <source>Deleted</source>
-        <target state="needs-translation">Deleted</target>
+        <target state="translated">Usunięto</target>
         <note>key: notification.permanently_deleted</note>
       </trans-unit>
       <trans-unit id="dda5c8f76779648fe17e298aaae2ea426df3f85e" resname="notification.trashed">
         <source>Sent to Trash</source>
-        <target state="needs-translation">Sent to Trash</target>
+        <target state="translated">Wyślij do kosza</target>
         <note>key: notification.trashed</note>
       </trans-unit>
       <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type" approved="yes">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="79036b8a9fecbed5d0c14a94c5639d611c6ab6d1" resname="notifications.modal.message.error">
         <source>Cannot update notifications</source>
-        <target state="needs-translation">Cannot update notifications</target>
+        <target state="translated">Nie można zaktualizować licznika powiadomień</target>
         <note>key: notifications.modal.message.error</note>
       </trans-unit>
     </body>
