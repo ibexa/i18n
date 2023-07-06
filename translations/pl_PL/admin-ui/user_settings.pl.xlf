@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="53b6d0de00a5f914e863bed8b805457da18742ac" resname="settings.autosave.value.description">
         <source>Autosave draft every given period</source>
-        <target state="needs-translation">Autosave draft every given period</target>
+        <target state="translated">Automatyczne zapisywanie szkicu każdego okresu</target>
         <note>key: settings.autosave.value.description</note>
       </trans-unit>
       <trans-unit id="8d3d9c3a593c29c5ad69cf09b44cc423b27b1b64" resname="settings.autosave.value.disabled">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="16b6d2224d9bf8a8ce12e0540d3528adc39315a0" resname="settings.autosave_interval.value.description">
         <source>Seconds till next draft autosave</source>
-        <target state="needs-translation">Seconds till next draft autosave</target>
+        <target state="translated">Sekundy do automatycznego zapisu następnego szkicu</target>
         <note>key: settings.autosave_interval.value.description</note>
       </trans-unit>
       <trans-unit id="870ccdccf629e90b1100e2422684918accc5c4c1" resname="settings.autosave_interval.value.title">
         <source>Autosave interval</source>
-        <target state="needs-translation">Autosave interval</target>
+        <target state="translated">Autozapis co</target>
         <note>key: settings.autosave_interval.value.title</note>
       </trans-unit>
       <trans-unit id="befc3e49a7bee4547f8c720a0fbb9d03d0d3e265" resname="settings.datetime_format.preview_label">
