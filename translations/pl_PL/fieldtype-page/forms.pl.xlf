@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="7153cdd53211bedab219659c1d1656693d3bb4ae" resname="role.policy.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Sekcja</target>
         <note>key: role.policy.section</note>
       </trans-unit>
       <trans-unit id="f5e387481bf702e73317dcbccff5d55fc111550e" resname="role.policy.section.all_functions">
