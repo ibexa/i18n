@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="cee78b25ec2de77cf09109e6a2ac175a515a8350" resname="policy.limitation.identifier.language">
         <source>Language</source>
-        <target state="needs-translation">Language</target>
+        <target state="translated">Język</target>
         <note>key: policy.limitation.identifier.language</note>
       </trans-unit>
       <trans-unit id="ab9163a435d32610a7a1af8df07ab38eebc4c7c6" resname="policy.limitation.identifier.newsection">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="be2b0449251f53db814dc4fbbb27e534419add2b" resname="policy.limitation.identifier.node">
         <source>Location</source>
-        <target state="needs-translation">Location</target>
+        <target state="translated">Lokalizacja</target>
         <note>key: policy.limitation.identifier.node</note>
       </trans-unit>
       <trans-unit id="9daf8e1a94a6409f9b9b102e042c2858e4307ea8" resname="policy.limitation.identifier.owner">
@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="53975d67feacf6fed717a52ad538ba77dc533dc2" resname="policy.limitation.identifier.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Status</target>
         <note>key: policy.limitation.identifier.status</note>
       </trans-unit>
       <trans-unit id="2291e238752ad3c4d20ef08253f5d5736f6382d2" resname="policy.limitation.identifier.subtree">
         <source>Subtree</source>
-        <target state="needs-translation">Subtree</target>
+        <target state="translated">Poddrzewo</target>
         <note>key: policy.limitation.identifier.subtree</note>
       </trans-unit>
       <trans-unit id="2a8670e5f91ad9a4cc0650d51c51afc8bd517494" resname="policy.limitation.identifier.taxonomy">
