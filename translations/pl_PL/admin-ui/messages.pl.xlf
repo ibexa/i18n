@@ -353,27 +353,27 @@
       </trans-unit>
       <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
         <source>Something went wrong</source>
-        <target state="needs-translation">Something went wrong</target>
+        <target state="translated">Coś poszło nie tak</target>
         <note>key: error.page.default.title</note>
       </trans-unit>
       <trans-unit id="2c7f89a37db43b829ff76f40565020c5bd4c2dae" resname="ezauthor.Email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">Email</target>
         <note>key: ezauthor.Email</note>
       </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj autora</target>
         <note>key: ezauthor.action.add</note>
       </trans-unit>
       <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń autora</target>
         <note>key: ezauthor.action.delete</note>
       </trans-unit>
       <trans-unit id="06a34ac23ac86f7c4368380203e3dd4d91489fa0" resname="ezauthor.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: ezauthor.name</note>
       </trans-unit>
       <trans-unit id="9a8153d976ff4a6805e00fa7945d153f01bc61a8" resname="ezobjectrelationlist.cta.limit.multi">
@@ -393,12 +393,12 @@
       </trans-unit>
       <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
         <source>Select Item</source>
-        <target state="needs-translation">Select Item</target>
+        <target state="translated">Wybierz element</target>
         <note>key: ezobjectrelationlist.cta.select</note>
       </trans-unit>
       <trans-unit id="85874e8811087f9c2169915345cdf71d5243182e" resname="ezobjectrelationlist.delete_selected_relations">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń relację</target>
         <note>key: ezobjectrelationlist.delete_selected_relations</note>
       </trans-unit>
       <trans-unit id="8c3f0606ebb870dd8113cca42da7510414c5a0a8" resname="ezplatform.forgot_password.reset_your_password.reason.migration">
@@ -440,7 +440,7 @@
       </trans-unit>
       <trans-unit id="264649149b7563144f9e2c462b13477dc7441302" resname="ezplatform.registration_confirmation.header">
         <source>Your account has been created</source>
-        <target state="needs-translation">Your account has been created</target>
+        <target state="translated">Twoje konto zostało utworzone</target>
         <note>key: ezplatform.registration_confirmation.header</note>
       </trans-unit>
       <trans-unit id="63659642d9d91abcadbb45d00a12db2277ce53b5" resname="ezplatform.registration_confirmation.message">
@@ -465,32 +465,32 @@
       </trans-unit>
       <trans-unit id="bd5ae6bdfe2b60c317c3b47f27c5bf5a264b71ba" resname="fieldview.toggler.hide">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">Ukryj</target>
         <note>key: fieldview.toggler.hide</note>
       </trans-unit>
       <trans-unit id="b42fcb4c20b25c6bf6a9144cde8df1167b915bb5" resname="fieldview.toggler.show">
         <source>Show</source>
-        <target state="needs-translation">Show</target>
+        <target state="translated">Pokaż</target>
         <note>key: fieldview.toggler.show</note>
       </trans-unit>
       <trans-unit id="b469507c15ca085ba9753f60ab835f68cda9c725" resname="footer.copyright">
         <source><![CDATA[Copyright &copy; %year% Ibexa. All right reserved]]></source>
-        <target state="needs-translation"><![CDATA[Copyright &copy; %year% Ibexa. All right reserved]]></target>
+        <target state="translated"><![CDATA[Copyright &copy; %year% Ibexa. Wszelkie prawa zastrzeżone]]></target>
         <note>key: footer.copyright</note>
       </trans-unit>
       <trans-unit id="9108451fc15edd434efe02a84ea849c334073272" resname="footer.ibexa_documentation">
         <source>Documentation</source>
-        <target state="needs-translation">Documentation</target>
+        <target state="translated">Dokumentacja</target>
         <note>key: footer.ibexa_documentation</note>
       </trans-unit>
       <trans-unit id="98ec0f718367b011625843a7ebdd12e8185c53ce" resname="footer.ibexa_dxp">
         <source>Ibexa DXP</source>
-        <target state="needs-translation">Ibexa DXP</target>
+        <target state="translated">Ibexa DXP</target>
         <note>key: footer.ibexa_dxp</note>
       </trans-unit>
       <trans-unit id="d62f840248f2507f4299133fe259bc4c091f31a8" resname="footer.ibexa_support">
         <source>Support</source>
-        <target state="needs-translation">Support</target>
+        <target state="translated">Pomoc techniczna</target>
         <note>key: footer.ibexa_support</note>
       </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel" approved="yes">
@@ -500,12 +500,12 @@
       </trans-unit>
       <trans-unit id="7100bfb6741e032fcfcc681f3eceef78650e4672" resname="header.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: header.search</note>
       </trans-unit>
       <trans-unit id="1c83b9fb831b59adffc151e074e3940afb422d59" resname="ibexa.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">Zresetuj swoje hasło</target>
         <note>key: ibexa.forgot_user_password.reset_your_password</note>
       </trans-unit>
       <trans-unit id="621bf74d73c79b7c57b8a0ce6f46e3069e237ba6" resname="ibexa.forgot_user_password.success">
