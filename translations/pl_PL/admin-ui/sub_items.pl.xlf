@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="d90e512d5cfd6d471246fad1cea365751b1cace5" resname="bulk_add_location.error.modal.table_title">
         <source>%itemsCount% Location(s) cannot be added</source>
-        <target state="needs-translation">%itemsCount% Location(s) cannot be added</target>
+        <target state="translated">Nie można dodać %itemsCount% lokalizacji</target>
         <note>key: bulk_add_location.error.modal.table_title</note>
       </trans-unit>
       <trans-unit id="674c6872a8bb0ee30b38cc338bf6482dd78dde56" resname="bulk_add_location.success.message">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="d61a87779a34732e3d0cc00482224d99dd95676a" resname="bulk_delete.error.modal.table_title.users">
         <source>%itemsCount% User(s) cannot be deleted</source>
-        <target state="needs-translation">%itemsCount% User(s) cannot be deleted</target>
+        <target state="translated">Nie można usunąć %itemsCount% użytkownika(ów)</target>
         <note>key: bulk_delete.error.modal.table_title.users</note>
       </trans-unit>
       <trans-unit id="eb45209c9bfb54c01fe8e827d04058c301fc8173" resname="bulk_delete.error.modal.table_title.users_with_nonusers">
@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="e98d09770399a6f52a15068a0573a18fc2b0b60d" resname="bulk_delete.popup.message.nonusers">
         <source>Are you sure you want to send the selected Content item(s) to Trash?</source>
-        <target state="needs-translation">Are you sure you want to send the selected Content item(s) to Trash?</target>
+        <target state="translated">Czy na pewno chcesz umieścić ten element w koszu?</target>
         <note>key: bulk_delete.popup.message.nonusers</note>
       </trans-unit>
       <trans-unit id="7717885c80083a259220eb0617f818b9cd8f315e" resname="bulk_delete.popup.message.users">
         <source>Are you sure you want to delete the selected user(s)?</source>
-        <target state="needs-translation">Are you sure you want to delete the selected user(s)?</target>
+        <target state="translated">Na pewno chcesz usunąć wybranego użytkownika?</target>
         <note>key: bulk_delete.popup.message.users</note>
       </trans-unit>
       <trans-unit id="a12f451cc6ee1e65a14e4accacba2fff815a67f9" resname="bulk_delete.popup.message.users_with_nonusers">
@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
         <source>Content item(s) sent to Trash.</source>
-        <target state="needs-translation">Content item(s) sent to Trash.</target>
+        <target state="translated">Elementy treści wysłano do kosza.</target>
         <note>key: bulk_delete.success.message.nonusers</note>
       </trans-unit>
       <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
         <source>User(s) deleted.</source>
-        <target state="needs-translation">User(s) deleted.</target>
+        <target state="translated">Użytkownik został usunięty.</target>
         <note>key: bulk_delete.success.message.users</note>
       </trans-unit>
       <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="9157594a9c2f44581165ee5e73c89bc5985a7fc9" resname="bulk_hide.success.message">
         <source>Location(s) hidden.</source>
-        <target state="needs-translation">Location(s) hidden.</target>
+        <target state="translated">Lokalizacja/lokalizacje ukryte.</target>
         <note>key: bulk_hide.success.message</note>
       </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
