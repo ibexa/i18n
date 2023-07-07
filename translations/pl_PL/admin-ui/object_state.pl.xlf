@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="a6cf9ca3d83b39f13cb571316b79b4b95200a631" resname="content_object_state.update.success">
         <source>Content item's Object state changed to '%name%'.</source>
-        <target state="needs-translation">Content item's Object state changed to '%name%'.</target>
+        <target state="translated">Stan obiektu elementu został zmieniony na '%name%'.</target>
         <note>key: content_object_state.update.success</note>
       </trans-unit>
       <trans-unit id="323149fcfc1a9c7aefd22c27c2307b9f2c33697a" resname="object_state.add">
         <source>Creating a new Object state</source>
-        <target state="needs-translation">Creating a new Object state</target>
+        <target state="translated">Tworzenie nowego stanu obiektu</target>
         <note>key: object_state.add</note>
       </trans-unit>
       <trans-unit id="9277526e17b01de899c93f0fdbb5ab6515e5399f" resname="object_state.breadcrumb.edit">
         <source>Editing Object state '%name%'</source>
-        <target state="needs-translation">Editing Object state '%name%'</target>
+        <target state="translated">Edycja stanu obiektu '%name%'</target>
         <note>key: object_state.breadcrumb.edit</note>
       </trans-unit>
       <trans-unit id="3709ccf61e98d295b77b9f1472af9d197c202dab" resname="object_state.breadcrumb.view">
         <source>Object state: %name%</source>
-        <target state="needs-translation">Object state: %name%</target>
+        <target state="translated">Stan obiektu: %name%</target>
         <note>key: object_state.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="c57bed7c172c50ab41d70434d7846bb97375895f" resname="object_state.bulk_delete.delete">
         <source>Delete Object state </source>
-        <target state="needs-translation">Delete Object state </target>
+        <target state="translated">Usuń stan obiektu </target>
         <note>key: object_state.bulk_delete.delete</note>
       </trans-unit>
       <trans-unit id="3f83af98ac201931eaf0055972d467c386ab72ef" resname="object_state.button.set" approved="yes">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="9a3d40057c7c4ba2c0f6258148b451c89b6a0533" resname="object_state.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Tworzenie</target>
         <note>key: object_state.creating</note>
       </trans-unit>
       <trans-unit id="cd20ab0806780f115ec08655d9e44e0c31d0fecd" resname="object_state.delete.success" approved="yes">
@@ -68,12 +68,12 @@
       </trans-unit>
       <trans-unit id="7d7c033caf5634e2cc56d8b96ad9aa883e5dcb01" resname="object_state.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Edycja</target>
         <note>key: object_state.editing</note>
       </trans-unit>
       <trans-unit id="99f5115d5dc13c37f78cfaa37168636912e1a9a6" resname="object_state.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: object_state.id</note>
       </trans-unit>
       <trans-unit id="8470ab4a8afa94731e8cce5193cc8631cc3c7167" resname="object_state.identifier" approved="yes">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="9fc13c2d1fd12500855a381a919451e75a693858" resname="object_state.list.empty">
         <source>There are no Object states yet. Object states you create will show up here.</source>
-        <target state="needs-translation">There are no Object states yet. Object states you create will show up here.</target>
+        <target state="translated">Nie ma jeszcze stanów obiektów. Powstanie obiektów które utworzysz pojawi się tutaj.</target>
         <note>key: object_state.list.empty</note>
       </trans-unit>
       <trans-unit id="43f30c3071d6d33cf13e43c9cee1cda16e87200a" resname="object_state.name" approved="yes">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="58983da8ad1a5982e81ddd1bb0ab9cc3e50d6a73" resname="object_state.view.information.title">
         <source>Object state information</source>
-        <target state="needs-translation">Object state information</target>
+        <target state="translated">Informacje o stanie obiektu</target>
         <note>key: object_state.view.information.title</note>
       </trans-unit>
       <trans-unit id="8cf30d6244f713b936c76e01f5bf70b1f5d62332" resname="object_state.view.list.action.edit" approved="yes">
@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="9af39e306536772c1d7cd402ab587fee66b0231b" resname="object_state.view.list.title">
         <source>Object states (%count%)</source>
-        <target state="needs-translation">Object states (%count%)</target>
+        <target state="translated">Stany obiektów (%count%)</target>
         <note>key: object_state.view.list.title</note>
       </trans-unit>
       <trans-unit id="dc3b85ca7a255f5f7b961727623f0fc11a3678f0" resname="object_state.view.title">
         <source>Object state: %name%</source>
-        <target state="needs-translation">Object state: %name%</target>
+        <target state="translated">Stan obiektu: %name%</target>
         <note>key: object_state.view.title</note>
       </trans-unit>
       <trans-unit id="07ac5094606572ca7304175bb3af30e0a78662aa" resname="object_state_.delete.submit" approved="yes">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="089afe4fc7c6c1b22bcc1b7cb702282d983133f6" resname="object_state_group.breadcrumb.list">
         <source>Object states</source>
-        <target state="needs-translation">Object states</target>
+        <target state="translated">Stany obiektów</target>
         <note>key: object_state_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="a6579fbae938d0bba558288987b50aa6a6aa8372" resname="object_state_group.breadcrumb.view">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="3298bfb20351af4b23517ab424ed0f1ab653d6ff" resname="object_state_group.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Tworzenie</target>
         <note>key: object_state_group.creating</note>
       </trans-unit>
       <trans-unit id="0f40fde6bdaed4741d571b9ffdcc04e3be8ec3c9" resname="object_state_group.delete.submit" approved="yes">
@@ -188,12 +188,12 @@
       </trans-unit>
       <trans-unit id="414797fc8b71857280cd7d21da2927ecac2e74b0" resname="object_state_group.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Edycja</target>
         <note>key: object_state_group.editing</note>
       </trans-unit>
       <trans-unit id="940f19a907923467a0fc0084f21dc689a18ab804" resname="object_state_group.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: object_state_group.id</note>
       </trans-unit>
       <trans-unit id="31e5d74a2673e57390f478380181bc63977bc229" resname="object_state_group.identifier" approved="yes">
@@ -213,12 +213,12 @@
       </trans-unit>
       <trans-unit id="c3af10bed843bcb54aa038942fa8d6c4bc20f736" resname="object_state_group.name.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: object_state_group.name.action.edit</note>
       </trans-unit>
       <trans-unit id="1cbfb4528f41be4d8de98fa4f81c26b41f8ffad9" resname="object_state_group.new">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: object_state_group.new</note>
       </trans-unit>
       <trans-unit id="2db8c3e77568f759b118b23aec8cfacaca3d96c0" resname="object_state_group.update.identifier" approved="yes">
