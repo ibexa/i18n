@@ -9,8 +9,8 @@
       <trans-unit id="1710718593a511e351e6da36e3bb280e532bb768" resname="dashboard.ez_version.community_end_of_maintenance">
         <source><![CDATA[Unfortunately %release% open source version has reached end of life,
                         <a target="_blank" href="%update_url%">please upgrade</a>.]]></source>
-        <target state="needs-translation"><![CDATA[Unfortunately %release% open source version has reached end of life,
-                        <a target="_blank" href="%update_url%">please upgrade</a>.]]></target>
+        <target state="translated"><![CDATA[残念ながらオープンソースのバージョン %release% がサポート期限を過ぎました。
+                        <a target="_blank" href="%update_url%">アップグレード</a> してください。]]></target>
         <note>key: dashboard.ez_version.community_end_of_maintenance</note>
       </trans-unit>
       <trans-unit id="c0d043ecd29c0bdfa32e8bb7faee57111d5ddaf7" resname="dashboard.ez_version.community_end_of_maintenance_upgrade">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="e0a1a502c52dddb0acc187d429d7e7e4b754e169" resname="dashboard.ez_version.trial_end_of_maintenance">
         <source>Your trial period is coming to an end.</source>
-        <target state="needs-translation">Your trial period is coming to an end.</target>
+        <target state="translated">試用期間が終了しました。</target>
         <note>key: dashboard.ez_version.trial_end_of_maintenance</note>
       </trans-unit>
       <trans-unit id="10afa9a6e250d82f948ea1e6cbcdf7aac8bd7a4b" resname="dashboard.ez_version.trial_expired">
