@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="30ee572232388ccb03ba9a0e8f2ea921375c87d7" resname="validation.max_length">
         <source>Maximum length</source>
-        <target state="needs-translation">Maximum length</target>
+        <target state="translated">Długość maksymalna</target>
         <note>key: validation.max_length</note>
       </trans-unit>
       <trans-unit id="dafff2769fb5abab2b3a16594999dd93d6d844df" resname="validation.max_value">
         <source>Maximum value</source>
-        <target state="needs-translation">Maximum value</target>
+        <target state="translated">Wartość maksymalna</target>
         <note>key: validation.max_value</note>
       </trans-unit>
       <trans-unit id="d2c3ab833a4cbc0df1c3612b250b8ac4c6ec6105" resname="validation.min_choices">
@@ -58,12 +58,12 @@
       </trans-unit>
       <trans-unit id="d127f4e5ef7ee8b20500120e6ded6e0676eef32e" resname="validation.min_length">
         <source>Minimum length</source>
-        <target state="needs-translation">Minimum length</target>
+        <target state="translated">Długość minimalna</target>
         <note>key: validation.min_length</note>
       </trans-unit>
       <trans-unit id="7ca60efdbd83e241c8929aaa9d2fbb4c3af16642" resname="validation.min_value">
         <source>Minimum value</source>
-        <target state="needs-translation">Minimum value</target>
+        <target state="translated">Wartość minimalna</target>
         <note>key: validation.min_value</note>
       </trans-unit>
       <trans-unit id="059a5d6429f8ce5f9f766c16f60a3da4e186a724" resname="validation.regex">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="3b06b5fa4ba9d5a6b4c5efb7f585ae8fb98289b3" resname="validation.required">
         <source>Required</source>
-        <target state="needs-translation">Required</target>
+        <target state="translated">Wymagane</target>
         <note>key: validation.required</note>
       </trans-unit>
       <trans-unit id="eb6eb4abe8b098eeb00ee553334a75fab1641bb5" resname="validation.upload_size">
         <source>Maximum allowed file size (MB)</source>
-        <target state="needs-translation">Maximum allowed file size (MB)</target>
+        <target state="translated">Maksymalny dozwolony rozmiar w MB</target>
         <note>key: validation.upload_size</note>
       </trans-unit>
     </body>
