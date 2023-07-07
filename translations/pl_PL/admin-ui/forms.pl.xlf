@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="4a2eb58572364b0fa04e67a800e0fbb09df205be" resname="form.trash_assets.label">
         <source>Asset Fields(s)</source>
-        <target state="needs-translation">Asset Fields(s)</target>
+        <target state="translated">Pola(y) zasobu</target>
         <note>key: form.trash_assets.label</note>
       </trans-unit>
       <trans-unit id="6bc8ac1fbf981deec94bd4a2b8aa877d60eee651" resname="form.trash_assets_non_unique.label">
         <source>Asset Fields(s)</source>
-        <target state="needs-translation">Asset Fields(s)</target>
+        <target state="translated">Pola(y) zasobu</target>
         <note>key: form.trash_assets_non_unique.label</note>
       </trans-unit>
       <trans-unit id="a1e42d4c649f7fbb614729978fea692be51d1485" resname="languages_delete_form.delete" approved="yes">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="f3f6d817abf52411d94909850040df8aebaf2c03" resname="role.policy.catalog.edit">
         <source>Catalog / Edit</source>
-        <target state="needs-translation">Catalog / Edit</target>
+        <target state="translated">Katalog / Edytuj</target>
         <note>key: role.policy.catalog.edit</note>
       </trans-unit>
       <trans-unit id="d9ced925ac206beb427c609d73e8adefb43346fb" resname="role.policy.catalog.view">
@@ -903,37 +903,37 @@
       </trans-unit>
       <trans-unit id="09e66e3a8de58ced5f11c3a3dc13d67d34161649" resname="role.policy.taxonomy">
         <source>Taxonomy</source>
-        <target state="needs-translation">Taxonomy</target>
+        <target state="translated">Taksonomia</target>
         <note>key: role.policy.taxonomy</note>
       </trans-unit>
       <trans-unit id="23e2b7f5cc00d969e8cbef26811936db1f81f87f" resname="role.policy.taxonomy.all_functions">
         <source>Taxonomy / All functions</source>
-        <target state="needs-translation">Taxonomy / All functions</target>
+        <target state="translated">Taksonomia / wszystkie funkcje</target>
         <note>key: role.policy.taxonomy.all_functions</note>
       </trans-unit>
       <trans-unit id="6c2f7edbbe16af3e02ebfb408e93437c3f8866c9" resname="role.policy.taxonomy.assign">
         <source>Taxonomy / Assign</source>
-        <target state="needs-translation">Taxonomy / Assign</target>
+        <target state="translated">Taksonomia / Przypisz</target>
         <note>key: role.policy.taxonomy.assign</note>
       </trans-unit>
       <trans-unit id="5b13c93c0cef722a74869da8c9812912d428d013" resname="role.policy.taxonomy.manage">
         <source>Taxonomy / Manage</source>
-        <target state="needs-translation">Taxonomy / Manage</target>
+        <target state="translated">Taksonomia / Zarządzanie</target>
         <note>key: role.policy.taxonomy.manage</note>
       </trans-unit>
       <trans-unit id="c18671d83b75ebd3906cd49041ec70414a0ba455" resname="role.policy.taxonomy.read">
         <source>Taxonomy / Read</source>
-        <target state="needs-translation">Taxonomy / Read</target>
+        <target state="translated">Taksonomia / Czytaj</target>
         <note>key: role.policy.taxonomy.read</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Policy</source>
-        <target state="needs-translation">Policy</target>
+        <target state="translated">Polityka</target>
         <note>key: role.policy.type</note>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
         <source>Choose a Policy</source>
-        <target state="needs-translation">Choose a Policy</target>
+        <target state="translated">Wybierz politykę</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
       <trans-unit id="73c3d3a21c7264a991abf4e6ffe68751a1dbdb58" resname="role.policy.url">
@@ -973,7 +973,7 @@
       </trans-unit>
       <trans-unit id="587199065d14880416b8061b73788e731a201c27" resname="role.policy.user.invite">
         <source>User / Invite</source>
-        <target state="needs-translation">User / Invite</target>
+        <target state="translated">Użytkownik / Zaproś</target>
         <note>key: role.policy.user.invite</note>
       </trans-unit>
       <trans-unit id="f25505dc2f59df21e3125664c4fdad951d82df3b" resname="role.policy.user.login">
@@ -1028,7 +1028,7 @@
       </trans-unit>
       <trans-unit id="710f8e6ab682db07141d71bc6df5246988a0560f" resname="role_assignment.locations">
         <source>Select subtree</source>
-        <target state="needs-translation">Select subtree</target>
+        <target state="translated">Wybierz poddrzewo</target>
         <note>key: role_assignment.locations</note>
       </trans-unit>
       <trans-unit id="90266f1e47b42712e761c7fea00fb8e8c949f37e" resname="role_assignment.save" approved="yes">
@@ -1048,17 +1048,17 @@
       </trans-unit>
       <trans-unit id="5f9be66217c70fdbd734a1ccb5968aae96bbdcd0" resname="role_assignments_delete_form.delete">
         <source>Delete Role assignments</source>
-        <target state="needs-translation">Delete Role assignments</target>
+        <target state="translated">Usuń przypisania ról</target>
         <note>key: role_assignments_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="6c0384498e37f0a821ff9155da7b6c2cb94d0a95" resname="role_copy.copy">
         <source>Copy</source>
-        <target state="needs-translation">Copy</target>
+        <target state="translated">Kopiuj</target>
         <note>key: role_copy.copy</note>
       </trans-unit>
       <trans-unit id="ff0696ea021d81a9898e8c7f19f41e092cb5bb42" resname="role_copy.name">
         <source>Name of a new role</source>
-        <target state="needs-translation">Name of a new role</target>
+        <target state="translated">Nazwa nowej roli</target>
         <note>key: role_copy.name</note>
       </trans-unit>
       <trans-unit id="e36e86d3568ccc02a097560444b35c69c469c531" resname="role_create.name" approved="yes">
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="2b8a62034311f415eba9826996495c2ddd076745" resname="roles_delete_form.delete">
         <source>Delete Role</source>
-        <target state="needs-translation">Delete Role</target>
+        <target state="translated">Usuń rolę</target>
         <note>key: roles_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="f3a2d2ec4f587435900fdec3f0fb973592b57147" resname="section_content_assign_form.assign" approved="yes">
@@ -1123,7 +1123,7 @@
       </trans-unit>
       <trans-unit id="c33da889af5b91c7a19b0b6e522757d65b81a40d" resname="section_subtree_assign_form.assign">
         <source>Change Section</source>
-        <target state="needs-translation">Change Section</target>
+        <target state="translated">Zmień sekcję</target>
         <note>key: section_subtree_assign_form.assign</note>
       </trans-unit>
       <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update" approved="yes">
@@ -1133,27 +1133,27 @@
       </trans-unit>
       <trans-unit id="1076fdadc49ac9198c278970f355457c26075975" resname="sections_delete_form.delete">
         <source>Delete Sections</source>
-        <target state="needs-translation">Delete Sections</target>
+        <target state="translated">Usuń sekcję</target>
         <note>key: sections_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
         <source>Select Content item</source>
-        <target state="needs-translation">Select Content item</target>
+        <target state="translated">Wybierz element</target>
         <note>key: swap_location_form.swap</note>
       </trans-unit>
       <trans-unit id="d183d1b00142b36a06d45e6341e4c8b01976a6b9" resname="translation.base_language.label">
         <source>Source language</source>
-        <target state="needs-translation">Source language</target>
+        <target state="translated">Język źródłowy</target>
         <note>key: translation.base_language.label</note>
       </trans-unit>
       <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">
         <source>No language</source>
-        <target state="needs-translation">No language</target>
+        <target state="translated">Brak języka</target>
         <note>key: translation.base_language.no_language</note>
       </trans-unit>
       <trans-unit id="68c3e0fd0fe047dae5853efbc89ccb128b544263" resname="translation.language.label">
         <source>Target language</source>
-        <target state="needs-translation">Target language</target>
+        <target state="translated">Język docelowy</target>
         <note>key: translation.language.label</note>
       </trans-unit>
       <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty" approved="yes">
@@ -1163,7 +1163,7 @@
       </trans-unit>
       <trans-unit id="4d530164d6f917754a1625bae48c2a323197ac7a" resname="user.invitation.submit">
         <source>Send</source>
-        <target state="needs-translation">Send</target>
+        <target state="translated">Wyślij</target>
         <note>key: user.invitation.submit</note>
       </trans-unit>
       <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete" approved="yes">
