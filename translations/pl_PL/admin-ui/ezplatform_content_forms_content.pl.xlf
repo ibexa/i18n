@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="f7b5c9f8a50ded940700a03352cf0e485ea60c76" resname="content.field_type.ezimage.dimensions.label">
         <source>Master dimension</source>
-        <target state="needs-translation">Master dimension</target>
+        <target state="translated">Wymiary oryginału</target>
         <note>key: content.field_type.ezimage.dimensions.label</note>
       </trans-unit>
       <trans-unit id="6c094e8d763a88aa509c3cbbede52fa7c3845d1e" resname="content.field_type.ezimage.dimensions.width">
