@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="500d59b943eb26ead023762c7b3482f086bee0fa" resname="block.personalization.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: block.personalization.add</note>
       </trans-unit>
       <trans-unit id="2567f904927186a6ce8cdd3843cdb3d5d51885e0" resname="block.personalization.label.output_type">
