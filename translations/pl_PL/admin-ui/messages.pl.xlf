@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
         <source>Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</source>
-        <target state="needs-translation">Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</target>
+        <target state="translated">Twoje obecne hasło wygaśnie za %days% dni. Możesz je zmienić w Ustawieniach Użytkownika/Moje Konto.</target>
         <note>key: authentication.credentials_expire_in.warning</note>
       </trans-unit>
       <trans-unit id="e524fb7941a99d5c26d355dbf015226241e807a7" resname="authentication.credentials_expire_today.warning">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="930de05604c9de549497278656b63f7721e65ce5" resname="authentication.reset_your_password.back_to_sign_in">
         <source>Go back to Sign in</source>
-        <target state="needs-translation">Go back to Sign in</target>
+        <target state="translated">Wróć do logowania</target>
         <note>key: authentication.reset_your_password.back_to_sign_in</note>
       </trans-unit>
       <trans-unit id="9143793289ea0e20c3dc9f752d43cc727f2dba01" resname="authentication.username" approved="yes">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="34e898c4a61c4925b523416b0c7ecd9574d8e48b" resname="base.visit_support">
         <source><![CDATA[See the %ibexa_documentation_link%<br/>or %ibexa_contact_link%]]></source>
-        <target state="needs-translation"><![CDATA[See the %ibexa_documentation_link%<br/>or %ibexa_contact_link%]]></target>
+        <target state="translated"><![CDATA[Zobacz %ibexa_documentation_link%<br/>lub %ibexa_contact_link%]]></target>
         <note>key: base.visit_support</note>
       </trans-unit>
       <trans-unit id="59c7ae16de21fe5b4f16ac740a708e72fff4654a" resname="base.welcome">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="0c103b4bcaaca67202176e8f5be544eb4c307e8e" resname="content.autosave.turn_off.message">
         <source>You can turn autosave off in your user settings</source>
-        <target state="needs-translation">You can turn autosave off in your user settings</target>
+        <target state="translated">Możesz wyłączyć autozapis w ustawieniach użytkownika</target>
         <note>key: content.autosave.turn_off.message</note>
       </trans-unit>
       <trans-unit id="21e7545fc420d95a59a713437d9dc28d85d82ceb" resname="content.details.content_id">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
         <source>You don't have permissions to view this Content item (contentID: %contentId%).</source>
-        <target state="needs-translation">You don't have permissions to view this Content item (contentID: %contentId%).</target>
+        <target state="translated">Nie masz uprawnień do przeglądania tego elementu zawartości (ID: %contentId%).</target>
         <note>key: content.hidden.message</note>
       </trans-unit>
       <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
@@ -163,17 +163,17 @@
       </trans-unit>
       <trans-unit id="5c48055acad8df653edc1f8f65130d784fed3d88" resname="content.hide.modal.please_confirm_to_continue">
         <source>To hide the Content item anyway, click Confirm.</source>
-        <target state="needs-translation">To hide the Content item anyway, click Confirm.</target>
+        <target state="translated">Aby ukryć element treści, kliknij Potwierdź.</target>
         <note>key: content.hide.modal.please_confirm_to_continue</note>
       </trans-unit>
       <trans-unit id="7932e7fd6d6b90a8264cf5805586cab3294290ed" resname="content.hide.modal.title">
         <source>Content hide conflict</source>
-        <target state="needs-translation">Content hide conflict</target>
+        <target state="translated">Konflikt ukrywania treści</target>
         <note>key: content.hide.modal.title</note>
       </trans-unit>
       <trans-unit id="0f260745fb36618170e86bd6407bb2facd3a05a1" resname="content.hide.modal.warning_content_used_by_other_content">
         <source>This content is used by other Content item(s). To avoid errors, update or remove all related content listed in the Relations tab.</source>
-        <target state="needs-translation">This content is used by other Content item(s). To avoid errors, update or remove all related content listed in the Relations tab.</target>
+        <target state="translated">Ta zawartość jest używana przez inne elementy zawartości. Aby uniknąć błędów, zaktualizuj lub usuń wszystkie powiązane treści wymienione w zakładce Relacje.</target>
         <note>key: content.hide.modal.warning_content_used_by_other_content</note>
       </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash" approved="yes">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="6048a32d88dbcdd5a62e232ed092a8efd11ed375" resname="content_edit.autosave.status_error.message">
         <source>Saving error</source>
-        <target state="needs-translation">Saving error</target>
+        <target state="translated">Błąd zapisu</target>
         <note>key: content_edit.autosave.status_error.message</note>
       </trans-unit>
       <trans-unit id="d364f97b275523fe571da0da612fdbc4a1064550" resname="content_edit.autosave.status_off.message">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
         <source>Do you want to delete the Content Type?</source>
-        <target state="needs-translation">Do you want to delete the Content Type?</target>
+        <target state="translated">Czy chcesz usunąć ten typ treści?</target>
         <note>key: content_type.modal.message</note>
       </trans-unit>
       <trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="cdc87bbe1a58b07964472f9d1285cbedf7e8cfa4" resname="content_type.view.edit.empty_group_content">
         <source>Empty group, please drag some field</source>
-        <target state="needs-translation">Empty group, please drag some field</target>
+        <target state="translated">Pusta grupa, przeciągnij pole</target>
         <note>key: content_type.view.edit.empty_group_content</note>
       </trans-unit>
       <trans-unit id="10fcf7db63ceaf2a8ffb2b8e2b20e664d18701d5" resname="content_type.view.edit.empty_group_label">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
         <source>Global properties</source>
-        <target state="needs-translation">Global properties</target>
+        <target state="translated">Ustawienia globalne</target>
         <note>key: content_type.view.edit.global_properties</note>
       </trans-unit>
       <trans-unit id="a2f384a133f8c542cc8c7388d9115f62ae3c4234" resname="content_type.view.edit.search">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
         <source>Do you want to delete the Content Type group?</source>
-        <target state="needs-translation">Do you want to delete the Content Type group?</target>
+        <target state="translated">Czy chcesz usunąć wybraną grupę?</target>
         <note>key: content_type_group.modal.message</note>
       </trans-unit>
       <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="3b2d2efac582e8c8d6eccb40d4499ecf9ee21f95" resname="dashboard.charts.no_data">
         <source><![CDATA[No data collected<br/> for the selected period]]></source>
-        <target state="needs-translation"><![CDATA[No data collected<br/> for the selected period]]></target>
+        <target state="translated"><![CDATA[Brak zebranych danych<br/> dla wybranego okresu]]></target>
         <note>key: dashboard.charts.no_data</note>
       </trans-unit>
       <trans-unit id="8fedbb70c8494c057fb45930e46671a659bae616" resname="dropdown.clear">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="49f6d75aca8da375a2a79c0778934bc45a8ffe8c" resname="dropdown.placeholder.empty">
         <source>No options available</source>
-        <target state="needs-translation">No options available</target>
+        <target state="translated">Brak dostępnych opcji</target>
         <note>key: dropdown.placeholder.empty</note>
       </trans-unit>
       <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
@@ -313,42 +313,42 @@
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
         <source><![CDATA[Contact your administrator to request access.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
-        <target state="needs-translation"><![CDATA[Contact your administrator to request access.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></target>
+        <target state="translated"><![CDATA[Skontaktuj się z administratorem, aby poprosić o dostęp.<br/>Wróć do <a href="%dashboard%">kokpitu</a> lub <a href="%search%">szukaj</a> dla innego elementu.]]></target>
         <note>key: error.page.403.actions</note>
       </trans-unit>
       <trans-unit id="d0b5337e551b64f59973449bbdcf7914c2102a6c" resname="error.page.403.sub_title">
         <source>Sorry but you don't have permission to access this page.</source>
-        <target state="needs-translation">Sorry but you don't have permission to access this page.</target>
+        <target state="translated">Przepraszamy, ale nie masz uprawnień do dostępu do tej strony.</target>
         <note>key: error.page.403.sub_title</note>
       </trans-unit>
       <trans-unit id="b1712cfa4c13874debdcc0f1f4a3b9fa4af3c966" resname="error.page.403.title">
         <source>Access denied</source>
-        <target state="needs-translation">Access denied</target>
+        <target state="translated">Odmowa dostępu</target>
         <note>key: error.page.403.title</note>
       </trans-unit>
       <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
         <source><![CDATA[Check the URL is spelled correctly and try again.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
-        <target state="needs-translation"><![CDATA[Check the URL is spelled correctly and try again.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></target>
+        <target state="translated"><![CDATA[Skontaktuj się z administratorem, aby poprosić o dostęp.<br/>Wróć do <a href="%dashboard%">kokpitu</a> lub <a href="%search%">szukaj</a> dla innego elementu.]]></target>
         <note>key: error.page.404.actions</note>
       </trans-unit>
       <trans-unit id="ffa7f20226d38a989f6c931264bd4cf485b435e6" resname="error.page.404.sub_title">
         <source>The link may be broken, or the page may have been removed.</source>
-        <target state="needs-translation">The link may be broken, or the page may have been removed.</target>
+        <target state="translated">Link może być uszkodzony lub strona mogła zostać usunięta.</target>
         <note>key: error.page.404.sub_title</note>
       </trans-unit>
       <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
         <source>Sorry, this page isn't available</source>
-        <target state="needs-translation">Sorry, this page isn't available</target>
+        <target state="translated">Niestety, ta strona nie jest dostępna</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
         <source><![CDATA[Contact you Administrator to report the problem.<br/>Go back to the <a href="%dashboard%">dashboard</a> or reload the application.]]></source>
-        <target state="needs-translation"><![CDATA[Contact you Administrator to report the problem.<br/>Go back to the <a href="%dashboard%">dashboard</a> or reload the application.]]></target>
+        <target state="translated"><![CDATA[Skontaktuj się z administratorem, aby zgłosić problem.<br/>Wróć do <a href="%dashboard%">panelu</a> lub odśwież aplikację.]]></target>
         <note>key: error.page.default.actions</note>
       </trans-unit>
       <trans-unit id="37404d823f9c9b5ee00f26e4783e5e98d2955750" resname="error.page.default.sub_title">
         <source>Sorry, we are having a problem with our system.</source>
-        <target state="needs-translation">Sorry, we are having a problem with our system.</target>
+        <target state="translated">Przepraszamy, mamy problem z naszym systemem.</target>
         <note>key: error.page.default.sub_title</note>
       </trans-unit>
       <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
@@ -378,17 +378,17 @@
       </trans-unit>
       <trans-unit id="9a8153d976ff4a6805e00fa7945d153f01bc61a8" resname="ezobjectrelationlist.cta.limit.multi">
         <source>Set up a Relation with one or several Items</source>
-        <target state="needs-translation">Set up a Relation with one or several Items</target>
+        <target state="translated">Ustaw relację z jednym lub kilkoma elementami</target>
         <note>key: ezobjectrelationlist.cta.limit.multi</note>
       </trans-unit>
       <trans-unit id="6589b9cece0e96f6430a994e1b4e9db1ee5f8139" resname="ezobjectrelationlist.cta.limit.single">
         <source>Set up a Relation with one Item</source>
-        <target state="needs-translation">Set up a Relation with one Item</target>
+        <target state="translated">Ustaw relację z jednym elementem</target>
         <note>key: ezobjectrelationlist.cta.limit.single</note>
       </trans-unit>
       <trans-unit id="e3d3887285c9d2ee774741a92bbfe53708143bc6" resname="ezobjectrelationlist.cta.limit.sub_text">
         <source>Relations max. %limit%</source>
-        <target state="needs-translation">Relations max. %limit%</target>
+        <target state="translated">Relacje max. %limit%</target>
         <note>key: ezobjectrelationlist.cta.limit.sub_text</note>
       </trans-unit>
       <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
@@ -403,17 +403,17 @@
       </trans-unit>
       <trans-unit id="8c3f0606ebb870dd8113cca42da7510414c5a0a8" resname="ezplatform.forgot_password.reset_your_password.reason.migration">
         <source>Your password has expired, change it.</source>
-        <target state="needs-translation">Your password has expired, change it.</target>
+        <target state="translated">Twoje hasło wygasło, zmień je.</target>
         <note>key: ezplatform.forgot_password.reset_your_password.reason.migration</note>
       </trans-unit>
       <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator">
         <source>If you do not remember your login, contact your Administrator.</source>
-        <target state="needs-translation">If you do not remember your login, contact your Administrator.</target>
+        <target state="translated">Jeśli nie pamiętasz swojej nazwy użytkownika, skontaktuj się z administratorem.</target>
         <note>key: ezplatform.forgot_user_password.contact_administrator</note>
       </trans-unit>
       <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
         <source>This email is connected with several accounts. Enter your login instead.</source>
-        <target state="needs-translation">This email is connected with several accounts. Enter your login instead.</target>
+        <target state="translated">Ten adres email jest połączony z kilkoma kontami. Podaj swoją nazwę użytkownika.</target>
         <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
       <trans-unit id="db6dd97ed4776bb0e9843554c48e3962327e8f50" resname="ezplatform.forgot_user_password.message">
@@ -424,13 +424,13 @@
         <a href="%reset_password%">Reset password</a>
         <br /><br />
         If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
-        <target state="needs-translation"><![CDATA[Hi,
+        <target state="translated"><![CDATA[Witaj,
         <br /><br />
-        We have received a request to reset the password for your eZ Platform account. Click “reset password” below to choose a new password:
+        Otrzymaliśmy prośbę o zresetowanie hasła do twojego konta. Kliknij "Zresetuj hasło" poniżej aby wybrać nowe hasło:
         <br /><br />
-        <a href="%reset_password%">Reset password</a>
+        <a href="%reset_password%">Zresetuj hasło<a/>
         <br /><br />
-        If you did not request a password reset, please ignore this email, and your password will remain the same.]]></target>
+        Jeśli nie prosiłeś o reset hasła, zignoruj ten e-mail, a hasło pozostanie bez zmian.]]></target>
         <note>key: ezplatform.forgot_user_password.message</note>
       </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password" approved="yes">
@@ -445,7 +445,7 @@
       </trans-unit>
       <trans-unit id="63659642d9d91abcadbb45d00a12db2277ce53b5" resname="ezplatform.registration_confirmation.message">
         <source><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></source>
-        <target state="needs-translation"><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></target>
+        <target state="translated"><![CDATA[Dziękujemy za utworzenie konta. Możesz teraz <a href="%login%">zalogować się</a>]]></target>
         <note>key: ezplatform.registration_confirmation.message</note>
       </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password" approved="yes">
@@ -460,7 +460,7 @@
       </trans-unit>
       <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
         <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to eZ Platform.]]></source>
-        <target state="needs-translation"><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to eZ Platform.]]></target>
+        <target state="translated"><![CDATA[Twoje hasło zostało zmienione, możesz teraz <a href="%login%">zalogować się</a> do IBEXA.]]></target>
         <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="bd5ae6bdfe2b60c317c3b47f27c5bf5a264b71ba" resname="fieldview.toggler.hide">
@@ -510,37 +510,37 @@
       </trans-unit>
       <trans-unit id="621bf74d73c79b7c57b8a0ce6f46e3069e237ba6" resname="ibexa.forgot_user_password.success">
         <source><![CDATA[<p>If you don’t receive the email, double check that you entered the correct email address and check your spam folder.</p>]]></source>
-        <target state="needs-translation"><![CDATA[<p>If you don’t receive the email, double check that you entered the correct email address and check your spam folder.</p>]]></target>
+        <target state="translated"><![CDATA[<p>Jeśli nie otrzymasz wiadomości e-mail, sprawdź czy wprowadziłeś poprawny adres e-mail i sprawdź folder spamu.</p>]]></target>
         <note>key: ibexa.forgot_user_password.success</note>
       </trans-unit>
       <trans-unit id="7c3724a02caf347d184892eab61db61ec54c1439" resname="ibexa.forgot_user_password.success.alert">
         <source>We’ve sent to your email account a link to reset your password.</source>
-        <target state="needs-translation">We’ve sent to your email account a link to reset your password.</target>
+        <target state="translated">Wysłaliśmy na Twoje konto e-mail link do zresetowania hasła.</target>
         <note>key: ibexa.forgot_user_password.success.alert</note>
       </trans-unit>
       <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: language.delete</note>
       </trans-unit>
       <trans-unit id="2a52961302ce7dfa4a21c5e0bcc239f5a9a36cfe" resname="language.modal.message">
         <source>Do you want to delete the language(s)?</source>
-        <target state="needs-translation">Do you want to delete the language(s)?</target>
+        <target state="translated">Czy chcesz usunąć język?</target>
         <note>key: language.modal.message</note>
       </trans-unit>
       <trans-unit id="fb1d64fdeabb5f2fe1671d4f3fb72ccca7722ed3" resname="list.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: list.action.edit</note>
       </trans-unit>
       <trans-unit id="1ada7c495c1592fd70ef48759574e764787bf969" resname="location_trash_form.confirm_label">
         <source>I understand the consequences of this action.</source>
-        <target state="needs-translation">I understand the consequences of this action.</target>
+        <target state="translated">W pełni rozumiem konsekwencje tego, co robię.</target>
         <note>key: location_trash_form.confirm_label</note>
       </trans-unit>
       <trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
         <source>Enable %type% for this content type</source>
-        <target state="needs-translation">Enable %type% for this content type</target>
+        <target state="translated">Włącz %type% dla tego typu treści</target>
         <note>key: meta.enabled</note>
       </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel" approved="yes">
@@ -555,97 +555,97 @@
       </trans-unit>
       <trans-unit id="0b3e3c43abe2511b50431eb05045a7e5dbd7a36c" resname="my_account_settings.password.action.edit">
         <source>Change password</source>
-        <target state="needs-translation">Change password</target>
+        <target state="translated">Zmień hasło</target>
         <note>key: my_account_settings.password.action.edit</note>
       </trans-unit>
       <trans-unit id="2273b0c5061ff374bd0d5a75e9301721f7312b65" resname="my_account_settings.password.title">
         <source>Password</source>
-        <target state="needs-translation">Password</target>
+        <target state="translated">Hasło</target>
         <note>key: my_account_settings.password.title</note>
       </trans-unit>
       <trans-unit id="5b03625b8de51d296ad7f4bc980e631c964185d8" resname="notification.no_longer_available">
         <source>The Content item is no longer available</source>
-        <target state="needs-translation">The Content item is no longer available</target>
+        <target state="translated">Element zawartości nie jest już dostępny</target>
         <note>key: notification.no_longer_available</note>
       </trans-unit>
       <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
         <source>Title:</source>
-        <target state="needs-translation">Title:</target>
+        <target state="translated">Tytuł:</target>
         <note>key: notification.title</note>
       </trans-unit>
       <trans-unit id="0480844e257807b48dbf75fa7a374ceb7649ec5c" resname="object_state.delete.bulk_delete.submit">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: object_state.delete.bulk_delete.submit</note>
       </trans-unit>
       <trans-unit id="2331731a1072a77f20ceef81614545768fc1d446" resname="object_state.modal.message">
         <source>Do you want to delete the Object state(s)?</source>
-        <target state="needs-translation">Do you want to delete the Object state(s)?</target>
+        <target state="translated">Czy chcesz usunąć stan(y) obiektu?</target>
         <note>key: object_state.modal.message</note>
       </trans-unit>
       <trans-unit id="85cbd870cb6255f3d3d481ece6c23e6e2117e91e" resname="object_state.new">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Dodaj nowy</target>
         <note>key: object_state.new</note>
       </trans-unit>
       <trans-unit id="0f857d4dff9c8232ede300a39010d289d31c2937" resname="object_state_group.delete.bulk_delete.submit">
         <source>Delete Object</source>
-        <target state="needs-translation">Delete Object</target>
+        <target state="translated">Usuń obiekt</target>
         <note>key: object_state_group.delete.bulk_delete.submit</note>
       </trans-unit>
       <trans-unit id="5696f8cad271e56ef0e2661b314fa31b70a81bb3" resname="object_state_group.modal.message">
         <source>Do you want to delete the Object state group(s)?</source>
-        <target state="needs-translation">Do you want to delete the Object state group(s)?</target>
+        <target state="translated">Czy chcesz usunąć grupę(y) stanów obiektów?</target>
         <note>key: object_state_group.modal.message</note>
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
         <source>None</source>
-        <target state="needs-translation">None</target>
+        <target state="translated">Brak</target>
         <note>key: policy.limitation.none</note>
       </trans-unit>
       <trans-unit id="fda44832f6a675807e1bcd01460231f7117d9e1e" resname="policy.modal.message">
         <source>Do you want to delete the Policy?</source>
-        <target state="needs-translation">Do you want to delete the Policy?</target>
+        <target state="translated">Czy chcesz usunąć tę Politykę?</target>
         <note>key: policy.modal.message</note>
       </trans-unit>
       <trans-unit id="84d0c2844a996fbfdc23872405533f92b6e6e2f6" resname="policy.view.list.action.add">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Dodaj nowy</target>
         <note>key: policy.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="abf42b328e259dc5ec851e70dad234636d0134fe" resname="policy.view.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: policy.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="b8faa90fed74479d8cdb01dc2c0e1af8a79cf9b1" resname="role.modal.message">
         <source>Do you want to delete the Role(s)?</source>
-        <target state="needs-translation">Do you want to delete the Role(s)?</target>
+        <target state="translated">Czy chcesz usunąć rolę?</target>
         <note>key: role.modal.message</note>
       </trans-unit>
       <trans-unit id="e0b49df6c6b235f7eb4d03019d1f9505dd77a135" resname="role.view.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: role.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="a21a7a13956cadf2256095fbdd062f1b33dd05a8" resname="role_assignment.view.list.action.add">
         <source>Assign to Users/Groups</source>
-        <target state="needs-translation">Assign to Users/Groups</target>
+        <target state="translated">Przypisz do użytkowników/grup</target>
         <note>key: role_assignment.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="76361d414c957ff63dcfdaf4490b3e9a2c632750" resname="role_assignment.view.list.action.delete">
         <source>Unassign</source>
-        <target state="needs-translation">Unassign</target>
+        <target state="translated">Cofnij przypisanie</target>
         <note>key: role_assignment.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="304836ca19b0d01940431c18b955ae028a6110f9" resname="role_assignments.modal.message">
         <source>Do you want to unassign the Users/Groups?</source>
-        <target state="needs-translation">Do you want to unassign the Users/Groups?</target>
+        <target state="translated">Czy chcesz cofnąć przypisanie użytkowników/grup?</target>
         <note>key: role_assignments.modal.message</note>
       </trans-unit>
       <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
         <source>From date - to date</source>
-        <target state="needs-translation">From date - to date</target>
+        <target state="translated">Od daty - do daty</target>
         <note>key: search.date.range</note>
       </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content" approved="yes">
@@ -655,47 +655,47 @@
       </trans-unit>
       <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: section.delete</note>
       </trans-unit>
       <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list">
         <source>Sections</source>
-        <target state="needs-translation">Sections</target>
+        <target state="translated">Sekcje</target>
         <note>key: section.list</note>
       </trans-unit>
       <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
         <source>Do you want to delete the Section(s)?</source>
-        <target state="needs-translation">Do you want to delete the Section(s)?</target>
+        <target state="translated">Czy chcesz usunąć Sekcje?</target>
         <note>key: section.modal.message</note>
       </trans-unit>
       <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
         <source>Swap Locations</source>
-        <target state="needs-translation">Swap Locations</target>
+        <target state="translated">Zamień lokalizacje</target>
         <note>key: tab.locations.location_content_swap</note>
       </trans-unit>
       <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another">
         <source>Swap the Content item at this Location with another</source>
-        <target state="needs-translation">Swap the Content item at this Location with another</target>
+        <target state="translated">Zamień lokalizację dla tego elementu</target>
         <note>key: tab.locations.swap_with_another</note>
       </trans-unit>
       <trans-unit id="d2e707023baa6830915c5d12b915974d627522e4" resname="tab.versions.table.action.archived.edit">
         <source>Restore archived version</source>
-        <target state="needs-translation">Restore archived version</target>
+        <target state="translated">Przywróć wersję archiwalną</target>
         <note>key: tab.versions.table.action.archived.edit</note>
       </trans-unit>
       <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
         <source>Edit draft</source>
-        <target state="needs-translation">Edit draft</target>
+        <target state="translated">Edytuj szkic</target>
         <note>key: tab.versions.table.action.draft.edit</note>
       </trans-unit>
       <trans-unit id="a602612589c6e902caaf8acf1fd51fcd215955f1" resname="tab.versions.table.author.not_found">
         <source>Can't fetch contributor</source>
-        <target state="needs-translation">Can't fetch contributor</target>
+        <target state="translated">Nie można pobrać współautora</target>
         <note>key: tab.versions.table.author.not_found</note>
       </trans-unit>
       <trans-unit id="f776c84d19e4a757aecdf2cc52aef393a60f7a38" resname="tab.view.descriptions">
         <source>Descriptions</source>
-        <target state="needs-translation">Descriptions</target>
+        <target state="translated">Opis</target>
         <note>key: tab.view.descriptions</note>
       </trans-unit>
       <trans-unit id="1246bcf8752e249bdec2067d43cfae2a5103bc5f" resname="tab.view.preview">
@@ -705,37 +705,37 @@
       </trans-unit>
       <trans-unit id="021066e1b5ed5c74ef8d23b0a14f9f6038280f56" resname="tag_view_select.change">
         <source>Change %type%</source>
-        <target state="needs-translation">Change %type%</target>
+        <target state="translated">Zmień %type%</target>
         <note>key: tag_view_select.change</note>
       </trans-unit>
       <trans-unit id="1afca7f8ad50f67317805611658838e9963275fc" resname="tag_view_select.default_type">
         <source>path</source>
-        <target state="needs-translation">path</target>
+        <target state="translated">ścieżka</target>
         <note>key: tag_view_select.default_type</note>
       </trans-unit>
       <trans-unit id="7c1fd46c63208f07c7483fe8c332b13a404f39fa" resname="tag_view_select.info">
         <source>Select location</source>
-        <target state="needs-translation">Select location</target>
+        <target state="translated">Wybierz lokalizację</target>
         <note>key: tag_view_select.info</note>
       </trans-unit>
       <trans-unit id="0b84a57c1ad7cdb9faf22abbc3e03a0d2285b699" resname="tag_view_select.select">
         <source>Select %type%</source>
-        <target state="needs-translation">Select %type%</target>
+        <target state="translated">Wybierz %type%</target>
         <note>key: tag_view_select.select</note>
       </trans-unit>
       <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
         <source>Off</source>
-        <target state="needs-translation">Off</target>
+        <target state="translated">Wyłączony</target>
         <note>key: toggle_widget.label.off</note>
       </trans-unit>
       <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
         <source>On</source>
-        <target state="needs-translation">On</target>
+        <target state="translated">Włączone</target>
         <note>key: toggle_widget.label.on</note>
       </trans-unit>
       <trans-unit id="7ffaa1444a83e959f8de3c2410bb65acdd3e3ff0" resname="trash.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: trash.delete</note>
       </trans-unit>
       <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm" approved="yes">
@@ -760,67 +760,67 @@
       </trans-unit>
       <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
         <source>Do you want to delete the selected item(s) from Trash?</source>
-        <target state="needs-translation">Do you want to delete the selected item(s) from Trash?</target>
+        <target state="translated">Czy chcesz usunąć wybrane elementy z kosza?</target>
         <note>key: trash.modal.message</note>
       </trans-unit>
       <trans-unit id="bf721bb2cc736984908badd0489116d289171d33" resname="trash.modal.send_to_trash.message">
         <source>Are you sure you want to send this Content item to Trash?</source>
-        <target state="needs-translation">Are you sure you want to send this Content item to Trash?</target>
+        <target state="translated">Czy na pewno chcesz wysłać ten element do kosza?</target>
         <note>key: trash.modal.send_to_trash.message</note>
       </trans-unit>
       <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
         <source>If you wish to delete these assets too, first make sure they are not used by other content. To check, go to the asset preview and look at its content Relations in the Relations tab.</source>
-        <target state="needs-translation">If you wish to delete these assets too, first make sure they are not used by other content. To check, go to the asset preview and look at its content Relations in the Relations tab.</target>
+        <target state="translated">Jeśli chcesz również usunąć te assety, upewnij się, że nie są one używane przez inne treści. Aby sprawdzić, przejdź do podglądu aktywów i zobacz jego relacje w zakładce Relacje.</target>
         <note>key: trash_asset.modal.message_body</note>
       </trans-unit>
       <trans-unit id="17c7abad79d72d771a25b064e0de38b72fc6c926" resname="trash_asset.modal.message_header">
         <source>You are about to delete a Content item that has one or more asset Field(s) used by other Content items. These assets will remain available in system.</source>
-        <target state="needs-translation">You are about to delete a Content item that has one or more asset Field(s) used by other Content items. These assets will remain available in system.</target>
+        <target state="translated">Zamierzasz usunąć element treści, który ma jedno lub więcej zasobów (assetów) używanych przez inne elementy treści. Zasoby te pozostaną dostępne w systemie.</target>
         <note>key: trash_asset.modal.message_header</note>
       </trans-unit>
       <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
         <source>'%content_name%' has 1 or more asset Field(s). You have an option to send only the Content item to Trash, or to send the Content item and its assets to Trash. Please select your option:</source>
-        <target state="needs-translation">'%content_name%' has 1 or more asset Field(s). You have an option to send only the Content item to Trash, or to send the Content item and its assets to Trash. Please select your option:</target>
+        <target state="translated">'%content_name%' ma 1 lub więcej zasobów (assetów). Masz możliwość wysyłania tylko elementu zawartości do kosza lub wysyłania elementu zawartości i jej zasobów (assetów) do kosza. Wybierz swoją opcję:</target>
         <note>key: trash_asset_single.modal.message_main</note>
       </trans-unit>
       <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
         <source>Sending '%content_name%' and its %children_count% Content item(s) to Trash will also send the sub-items of this Location to Trash.</source>
-        <target state="needs-translation">Sending '%content_name%' and its %children_count% Content item(s) to Trash will also send the sub-items of this Location to Trash.</target>
+        <target state="translated">Wysłanie '%content_name%' i jego %children_count% elementów zawartości do kosza wyśle również podelementy z tej lokalizacji do kosza.</target>
         <note>key: trash_container.modal.message_main</note>
       </trans-unit>
       <trans-unit id="ef4df0dede01e561e75568aa128a8092cbbee66a" resname="trash_container.modal.message_relations">
         <source>'%content_name%' is in use by %reverse_relations% Content item(s). You should remove all reverse Relations before deleting the Content item.</source>
-        <target state="needs-translation">'%content_name%' is in use by %reverse_relations% Content item(s). You should remove all reverse Relations before deleting the Content item.</target>
+        <target state="translated">'%content_name%' jest w użyciu przez %reverse_relations% element(y). Powinieneś usunąć wszystkie odwrotne relacje przed usunięciem elementu treści.</target>
         <note>key: trash_container.modal.message_relations</note>
       </trans-unit>
       <trans-unit id="49fd0694e9c8815a1231505dc9bec3c6e1406616" resname="ui.component.tab.tabs_toggler.hide">
         <source>Hide</source>
-        <target state="needs-translation">Hide</target>
+        <target state="translated">Ukryj</target>
         <note>key: ui.component.tab.tabs_toggler.hide</note>
       </trans-unit>
       <trans-unit id="0ed434897428bef25462fa8751260c74d7233091" resname="ui.component.tab.tabs_toggler.show">
         <source>Show</source>
-        <target state="needs-translation">Show</target>
+        <target state="translated">Pokaż</target>
         <note>key: ui.component.tab.tabs_toggler.show</note>
       </trans-unit>
       <trans-unit id="316f9f0d65ecd76792e8b79bccb094ffd281e7a2" resname="url_wildcard.list.action.create">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Dodaj nowy</target>
         <note>key: url_wildcard.list.action.create</note>
       </trans-unit>
       <trans-unit id="3f12e58e0ba64a84239826e8fec1ebe129595cc3" resname="url_wildcard.list.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: url_wildcard.list.action.delete</note>
       </trans-unit>
       <trans-unit id="d2253195c705f704065c20c1b3cfd5775d7b139f" resname="url_wildcard.list.action.delete_url_wildcards">
         <source>Delete URL wildcards</source>
-        <target state="needs-translation">Delete URL wildcards</target>
+        <target state="translated">Usuń wieloznaczne karty URL</target>
         <note>key: url_wildcard.list.action.delete_url_wildcards</note>
       </trans-unit>
       <trans-unit id="b33b3b1380dda4782c33124620ac87c596acb020" resname="url_wildcard.modal.message">
         <source>Are you sure you want to delete selected URL wildcard(s)?</source>
-        <target state="needs-translation">Are you sure you want to delete selected URL wildcard(s)?</target>
+        <target state="translated">Czy na pewno chcesz usunąć zaznaczone wieloznaczne karty URL?</target>
         <note>key: url_wildcard.modal.message</note>
       </trans-unit>
       <trans-unit id="cc411f80de934035a8572d79cb383398775f3cde" resname="user_menu.popup_menu.title">
