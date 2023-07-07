@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="659face270db8822838d3efd32b3a9b72a6dc5f6" resname="policy.limitation.identifier.segmentgroup">
         <source>SegmentGroup</source>
-        <target state="needs-translation">SegmentGroup</target>
+        <target state="translated">Grupa segmentowa</target>
         <note>key: policy.limitation.identifier.segmentgroup</note>
       </trans-unit>
       <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
         <source>SiteAccess</source>
-        <target state="needs-translation">SiteAccess</target>
+        <target state="translated">SiteAccess</target>
         <note>key: policy.limitation.identifier.siteaccess</note>
       </trans-unit>
       <trans-unit id="30cc18895dfb23b14d3f9b8249e90baf678c8180" resname="policy.limitation.identifier.state">
@@ -118,17 +118,17 @@
       </trans-unit>
       <trans-unit id="ae8d9836b92dd7d303929104953d877fa9c14fed" resname="policy.limitation.identifier.versionlock">
         <source>VersionLock</source>
-        <target state="needs-translation">VersionLock</target>
+        <target state="translated">Blokada wersji</target>
         <note>key: policy.limitation.identifier.versionlock</note>
       </trans-unit>
       <trans-unit id="920f6a0525d6ba93ff83f46e22baa981ff0b483c" resname="policy.limitation.identifier.workflowstage">
         <source>WorkflowStage</source>
-        <target state="needs-translation">WorkflowStage</target>
+        <target state="translated">Etap przepływu pracy</target>
         <note>key: policy.limitation.identifier.workflowstage</note>
       </trans-unit>
       <trans-unit id="017b3370e919f545dbf4e889252c00419fde6fde" resname="policy.limitation.identifier.workflowtransition">
         <source>WorkflowTransition</source>
-        <target state="needs-translation">WorkflowTransition</target>
+        <target state="translated">Przejście przepływu pracy</target>
         <note>key: policy.limitation.identifier.workflowtransition</note>
       </trans-unit>
     </body>
