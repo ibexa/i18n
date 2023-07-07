@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
         <source>No content. Drafts you create will show up here</source>
-        <target state="needs-translation">No content. Drafts you create will show up here</target>
+        <target state="translated">Brak zawartości. Tworzone szkice pojawią się tutaj</target>
         <note>key: dashboard.tab.my_drafts.empty</note>
       </trans-unit>
       <trans-unit id="128df491a522e7af4916cd002d9e11a3d2bc4078" resname="section.action.delete" approved="yes">
@@ -23,27 +23,27 @@
       </trans-unit>
       <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success">
         <source>%contentItemsCount% Content items assigned to '%name%'</source>
-        <target state="needs-translation">%contentItemsCount% Content items assigned to '%name%'</target>
+        <target state="translated">%contentItemsCount% elementów przypisanych do '%name%'</target>
         <note>key: section.assign_content.success</note>
       </trans-unit>
       <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
         <source>Assigned content</source>
-        <target state="needs-translation">Assigned content</target>
+        <target state="translated">Przypisana zawartość</target>
         <note>key: section.assigned.content</note>
       </trans-unit>
       <trans-unit id="e04ac63bba940de331146dac711b1633407e5ce9" resname="section.assigned_content.empty">
         <source>No Content items.</source>
-        <target state="needs-translation">No Content items.</target>
+        <target state="translated">Brak elementów.</target>
         <note>key: section.assigned_content.empty</note>
       </trans-unit>
       <trans-unit id="d40d7fd957935deb539c21b9b49f34d4016c69d0" resname="section.assigned_content.empty_desc">
         <source>Content items you assign to this Section will show up here.</source>
-        <target state="needs-translation">Content items you assign to this Section will show up here.</target>
+        <target state="translated">Tu pojawią się elementy przypisane do tej sekcji.</target>
         <note>key: section.assigned_content.empty_desc</note>
       </trans-unit>
       <trans-unit id="60771f4109f17ae27080b34e9322fd7cb02f45b3" resname="section.assigned_content.header">
         <source>Content items in '%name%' (%count%)</source>
-        <target state="needs-translation">Content items in '%name%' (%count%)</target>
+        <target state="translated">Elementy w '%name%' (%count%)</target>
         <note>key: section.assigned_content.header</note>
       </trans-unit>
       <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name" approved="yes">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="f45cc741a3a68971876e3c23cddeff2fc45fcbc3" resname="section.breadcrumb.list">
         <source>Sections</source>
-        <target state="needs-translation">Sections</target>
+        <target state="translated">Sekcje</target>
         <note>key: section.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="0a6c7f3919b09caa9eee957a4949d3c9b6dce16e" resname="section.create.success" approved="yes">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="9acf0e8d215ddc5f79a8b660be280af8eb3e22e7" resname="section.creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Tworzenie</target>
         <note>key: section.creating</note>
       </trans-unit>
       <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success" approved="yes">
@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="4415ad4901be9df6454161d40f078fc1a2fc923b" resname="section.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Edycja</target>
         <note>key: section.editing</note>
       </trans-unit>
       <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: section.id</note>
       </trans-unit>
       <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier" approved="yes">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="d91e051a7d7b54b42011fb6fc61bbb3997340d2a" resname="section.list.cannot_delete_notice">
         <source>You cannot delete the disabled sections, because they have assigned content.</source>
-        <target state="needs-translation">You cannot delete the disabled sections, because they have assigned content.</target>
+        <target state="translated">Nie można usunąć wyłączonych sekcji, ponieważ przypisano im treść.</target>
         <note>key: section.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="d0db9c352babe46e30354a78d9b3eccd226d7602" resname="section.list.title" approved="yes">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="2bfeef4370b18e469fba6df1d4d2888f9252c764" resname="section.update.title">
         <source>Editing Section '%identifier%'</source>
-        <target state="needs-translation">Editing Section '%identifier%'</target>
+        <target state="translated">Edycja sekcji '%identifier%'</target>
         <note>key: section.update.title</note>
       </trans-unit>
       <trans-unit id="9266789d0a5e68e102410798a2db431137039aad" resname="section.view.title.identifier" approved="yes">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
         <source>Technical details</source>
-        <target state="needs-translation">Technical details</target>
+        <target state="translated">Szczegóły techniczne</target>
         <note>key: tab.details.technical_details</note>
       </trans-unit>
     </body>
