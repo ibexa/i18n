@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="3e0d8fcb74e476fcae45da9c4c7b0b261118c7a3" resname="url.status.invalid">
         <source>Invalid</source>
-        <target state="needs-translation">Invalid</target>
+        <target state="translated">無効</target>
         <note>key: url.status.invalid</note>
       </trans-unit>
       <trans-unit id="8907a4f74219ceff2ee07437ec1657f1ee75a830" resname="url.status.valid">
         <source>Valid</source>
-        <target state="needs-translation">Valid</target>
+        <target state="translated">有効</target>
         <note>key: url.status.valid</note>
       </trans-unit>
     </body>
