@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="80667bf788ad872d935d0f450ea556ad631010f4" resname="location.assign_section.success">
         <source>Subtree assigned to Section '%name%'</source>
-        <target state="needs-translation">Subtree assigned to Section '%name%'</target>
+        <target state="translated">Poddrzewo zostało przypisane do sekcji '%name%'</target>
         <note>key: location.assign_section.success</note>
       </trans-unit>
       <trans-unit id="7f616359fa64ad9a44aba2d7eeebfde7aac7f16f" resname="location.copy.success" approved="yes">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="656c4be212bdf722670400927051cb39593938a5" resname="location.copy_subtree.success">
         <source>Subtree '%name%' copied to Location '%location%'</source>
-        <target state="needs-translation">Subtree '%name%' copied to Location '%location%'</target>
+        <target state="translated">Poddrzewo '%name%' zostało skopiowane do lokalizacji '%location%'</target>
         <note>key: location.copy_subtree.success</note>
       </trans-unit>
       <trans-unit id="a9e3a80cf0b00f8a6b7d4e6ba0fa3ace6fe3f1f3" resname="location.create.success" approved="yes">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="20dae8cf8c7cf8972d802224728554706e2b4699" resname="location.swap.success">
         <source>Location '%name%' swapped with Location '%location%'</source>
-        <target state="needs-translation">Location '%name%' swapped with Location '%location%'</target>
+        <target state="translated">Lokalizacja '%name%' została zamieniona z lokalizacją '%location%'</target>
         <note>key: location.swap.success</note>
       </trans-unit>
       <trans-unit id="48699e3e0320623a7ac78df3b808f6341dd7d4c3" resname="location.trash.success">
