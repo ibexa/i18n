@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="f6b396a2d7ba20e291c364b91a3189b672c4d4b9" resname="policy.limitation.group.self">
         <source>Self</source>
-        <target state="needs-translation">Self</target>
+        <target state="translated">Własny</target>
         <note>key: policy.limitation.group.self</note>
       </trans-unit>
       <trans-unit id="cc7c597ffa43ef724b881b127a4124fd35c8c6f6" resname="policy.limitation.owner.self">
         <source>Self</source>
-        <target state="needs-translation">Self</target>
+        <target state="translated">Własny</target>
         <note>key: policy.limitation.owner.self</note>
       </trans-unit>
       <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select Location(s) to use as Limitation</source>
-        <target state="needs-translation">Select Location(s) to use as Limitation</target>
+        <target state="translated">Wybierz lokalizacje do użycia jako ograniczenie</target>
         <note>key: role.policy.limitation.location.udw_title</note>
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
