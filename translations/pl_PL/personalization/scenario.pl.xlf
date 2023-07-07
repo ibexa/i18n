@@ -63,12 +63,12 @@
       </trans-unit>
       <trans-unit id="6cd8333da58d5be29fb9a255c0f5bf51afadd86a" resname="preview.action_name">
         <source>Preview</source>
-        <target state="needs-translation">Preview</target>
+        <target state="translated">Podgląd</target>
         <note>key: preview.action_name</note>
       </trans-unit>
       <trans-unit id="e148b89b813361c04859d8cb2297a078591f3b08" resname="preview.copy_btn.message">
         <source>Copied!</source>
-        <target state="needs-translation">Copied!</target>
+        <target state="translated">Skopiowano!</target>
         <note>key: preview.copy_btn.message</note>
       </trans-unit>
       <trans-unit id="625f527678ea5c31afdaf96e4d79d4fbff7da961" resname="preview.generated_url">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="934cce1488b5d3dcb5a9412c64a6abe1b1aee00c" resname="preview.response.card.header.title">
         <source>Header</source>
-        <target state="needs-translation">Header</target>
+        <target state="translated">Nagłówek</target>
         <note>key: preview.response.card.header.title</note>
       </trans-unit>
       <trans-unit id="09ce9cb6e8aca233e6c4b9f10f6b9b6125a6de23" resname="preview.response.title">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="da514a07b30cee2d7ce54a546cb5ffb04c03d06b" resname="preview.settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">Ustawienia</target>
         <note>key: preview.settings</note>
       </trans-unit>
     </body>
