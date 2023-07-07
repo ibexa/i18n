@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
         <source>Dashboard</source>
-        <target state="needs-translation">Dashboard</target>
+        <target state="translated">Pulpit</target>
         <note>key: dashboard.title</note>
       </trans-unit>
       <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="2f1c5eeea5e27f7221e63ee2d39fc3dea707e33f" resname="ibexa_personalization.date_time_range.last_24h">
         <source>Last 24h</source>
-        <target state="needs-translation">Last 24h</target>
+        <target state="translated">Ostatnie 24h</target>
         <note>key: ibexa_personalization.date_time_range.last_24h</note>
       </trans-unit>
       <trans-unit id="8c7eb09b4326c7c04b214d941b1d9552ddd28f94" resname="ibexa_personalization.scenario.commerce_settings">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="94104f5f11945854392d47db58284a39437bdc85" resname="ibexa_personalization.scenario.edit_short">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: ibexa_personalization.scenario.edit_short</note>
       </trans-unit>
       <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
@@ -118,17 +118,17 @@
       </trans-unit>
       <trans-unit id="836be051596f7132ce48db43b554e00455255fe9" resname="ibexa_personalization.scenario.trash.cancel">
         <source>No</source>
-        <target state="needs-translation">No</target>
+        <target state="translated">Nie</target>
         <note>key: ibexa_personalization.scenario.trash.cancel</note>
       </trans-unit>
       <trans-unit id="c9b3d0815397004b0e39e31da4f14f8981963e62" resname="ibexa_personalization.scenario.trash.close">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">Zamknij</target>
         <note>key: ibexa_personalization.scenario.trash.close</note>
       </trans-unit>
       <trans-unit id="3dab96d8b22cc7a46c023b4bac3b243f638b2634" resname="ibexa_personalization.scenario.trash.confirm">
         <source>Yes</source>
-        <target state="needs-translation">Yes</target>
+        <target state="translated">Tak</target>
         <note>key: ibexa_personalization.scenario.trash.confirm</note>
       </trans-unit>
       <trans-unit id="cc0a11e4bd240e70176f949aa3a1031f1243cd76" resname="ibexa_personalization.scenario.trash.modal.message">
@@ -188,17 +188,17 @@
       </trans-unit>
       <trans-unit id="1be5d7e1d40f3ae00359dd6e06aa5124a37edfc8" resname="model.edit.relevant_history.btn.label">
         <source>Apply</source>
-        <target state="needs-translation">Apply</target>
+        <target state="translated">Zastosuj</target>
         <note>key: model.edit.relevant_history.btn.label</note>
       </trans-unit>
       <trans-unit id="bce5e42b9a06fa207cd9eae1c751b9a7be108ecd" resname="models.segments.sidebar.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: models.segments.sidebar.search</note>
       </trans-unit>
       <trans-unit id="3ae03074d84616dfe9ad9a31703780eeec26d148" resname="models.submodel.sidebar.search.placeholder">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: models.submodel.sidebar.search.placeholder</note>
       </trans-unit>
       <trans-unit id="0a1edadd261d980d2b77d4e9c5a316e5d0b71a76" resname="preview.recommendation_response_description">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="04a82a9f3d13db85aad2887c7b39464d8e520315" resname="product_type.edit.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: product_type.edit.search</note>
       </trans-unit>
       <trans-unit id="3e6d2ee994c937e372dd66650cf0a4e98dd6ef10" resname="scenario.edit.boost_item.enable">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="f8cb075e68ee0d4580e70b92da8912e2ace02c6e" resname="scenarios.add_item">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: scenarios.add_item</note>
       </trans-unit>
       <trans-unit id="556c8f71713b16de4fc1f2c51a439eda65c422c9" resname="scenarios.context_items.title">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
         <source>From date - to date</source>
-        <target state="needs-translation">From date - to date</target>
+        <target state="translated">Od daty - do daty</target>
         <note>key: search.date.range</note>
       </trans-unit>
       <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
