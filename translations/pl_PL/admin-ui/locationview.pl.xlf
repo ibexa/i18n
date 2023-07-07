@@ -18,42 +18,42 @@
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">Utwórz zawartość</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
         <source>under %content_name%</source>
-        <target state="needs-translation">under %content_name%</target>
+        <target state="translated">w lokacji %location_name%</target>
         <note>key: content.create.editing_details</note>
       </trans-unit>
       <trans-unit id="a443a2a76348e8431df4346c11079f9e56735473" resname="content.create.filters.desc">
         <source>Or choose from list</source>
-        <target state="needs-translation">Or choose from list</target>
+        <target state="translated">Lub wybierz z listy</target>
         <note>key: content.create.filters.desc</note>
       </trans-unit>
       <trans-unit id="a68fa29f2de8a9e5a1a533e7240b0b667651c4d5" resname="content.create.input.placeholder">
         <source>Type to refine</source>
-        <target state="needs-translation">Type to refine</target>
+        <target state="translated">Wpisz typ</target>
         <note>key: content.create.input.placeholder</note>
       </trans-unit>
       <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
         <source>Select a Content Type:</source>
-        <target state="needs-translation">Select a Content Type:</target>
+        <target state="translated">Wybierz typ treści</target>
         <note>key: content.create.select_content_type</note>
       </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
         <source>Select a language:</source>
-        <target state="needs-translation">Select a language:</target>
+        <target state="translated">Wybierz język:</target>
         <note>key: content.create.select_language</note>
       </trans-unit>
       <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language">
         <source>Select translation</source>
-        <target state="needs-translation">Select translation</target>
+        <target state="translated">Wybierz tłumaczenie</target>
         <note>key: content.edit.select_language</note>
       </trans-unit>
       <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
         <source>This Content item or its Location is hidden.</source>
-        <target state="needs-translation">This Content item or its Location is hidden.</target>
+        <target state="translated">Ten element zawartości lub jego lokalizacja są ukryte.</target>
         <note>key: content.hidden.message</note>
       </trans-unit>
       <trans-unit id="4f1f7e7763187d69da3f75ebfb74d391a451cec6" resname="content.view.subitems.bulk_action.limited_permissions">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="1141888f8212e6140ea4bac1a5fba11c02e94d13" resname="dashboard.table.relation.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="needs-translation">You do not have the '%function%' '%module%' permission for content ID: %contentId%</target>
+        <target state="translated">Nie masz uprawnień '%function%' '%module%' do ID treści: %contentId%</target>
         <note>key: dashboard.table.relation.unauthorized</note>
       </trans-unit>
       <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add" approved="yes">
@@ -78,22 +78,22 @@
       </trans-unit>
       <trans-unit id="0ac5837ba570c72c15eae58ab98735697a790528" resname="modal.email_address">
         <source>Email Address</source>
-        <target state="needs-translation">Email Address</target>
+        <target state="translated">Adres e-mail</target>
         <note>key: modal.email_address</note>
       </trans-unit>
       <trans-unit id="b57923cd51800de1a02208a4765ab1b14d437c50" resname="modal.info">
         <source>Enter your team members email addresses.</source>
-        <target state="needs-translation">Enter your team members email addresses.</target>
+        <target state="translated">Wprowadź adresy e-mail swoich członków zespołu.</target>
         <note>key: modal.info</note>
       </trans-unit>
       <trans-unit id="4fd9a40170cf4bc5acff719c14eaf2d15fc9942d" resname="tab.details.change_section ">
         <source>Change Section</source>
-        <target state="needs-translation">Change Section</target>
+        <target state="translated">Zmień sekcję</target>
         <note>key: tab.details.change_section </note>
       </trans-unit>
       <trans-unit id="5c08278a7b80c4aae97e5683688b5b55b5f5b37e" resname="tab.details.change_state">
         <source>Change Object state</source>
-        <target state="needs-translation">Change Object state</target>
+        <target state="translated">Zmień stan obiektu</target>
         <note>key: tab.details.change_state</note>
       </trans-unit>
       <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details" approved="yes">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="91b45af4dd219651dc8b1a7d050822b71f03fad3" resname="tab.details.creator.not_found">
         <source>Can't fetch creator</source>
-        <target state="needs-translation">Can't fetch creator</target>
+        <target state="translated">Nie można pobrać autora</target>
         <note>key: tab.details.creator.not_found</note>
       </trans-unit>
       <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor" approved="yes">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="ba5ca8a7f923f6ee3a0e6bf9aca428403d0158fd" resname="tab.details.last_contributor.not_found">
         <source>Can't fetch last contributor</source>
-        <target state="needs-translation">Can't fetch last contributor</target>
+        <target state="translated">Nie można pobrać ostatniego współpracownika</target>
         <note>key: tab.details.last_contributor.not_found</note>
       </trans-unit>
       <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id" approved="yes">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
         <source>Object state details</source>
-        <target state="needs-translation">Object state details</target>
+        <target state="translated">Szczegóły stanu obiektu</target>
         <note>key: tab.details.state_details</note>
       </trans-unit>
       <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name" approved="yes">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
         <source>Current Object state</source>
-        <target state="needs-translation">Current Object state</target>
+        <target state="translated">Bieżący stan obiektu</target>
         <note>key: tab.details.state_name</note>
       </trans-unit>
       <trans-unit id="8ddd1c9e60bd352b4395e1753ede6534db2aac8b" resname="tab.details.sub_items_listing_by.in" approved="yes">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
         <source>Sub-item sorting order</source>
-        <target state="needs-translation">Sub-item sorting order</target>
+        <target state="translated">Kolejność sortowania podelementów</target>
         <note>key: tab.details.sub_items_sorting_order</note>
       </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details" approved="yes">
@@ -198,22 +198,22 @@
       </trans-unit>
       <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Dodaj nowy</target>
         <note>key: tab.locations.action.add</note>
       </trans-unit>
       <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: tab.locations.action.delete</note>
       </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
         <source>Content Locations</source>
-        <target state="needs-translation">Content Locations</target>
+        <target state="translated">Lokalizacje elementu</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
       <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
         <source>Content or its ancestor is hidden</source>
-        <target state="needs-translation">Content or its ancestor is hidden</target>
+        <target state="translated">Treść lub jego element nadrzędny jest ukryty</target>
         <note>key: tab.locations.hidden_content_or_superior</note>
       </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main" approved="yes">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
         <source>Do you want to delete the Location? All its sub-items will be sent to Trash.</source>
-        <target state="needs-translation">Do you want to delete the Location? All its sub-items will be sent to Trash.</target>
+        <target state="translated">Czy chcesz usunąć lokalizację? Wszystkie jego podelementy zostaną wysłane do kosza.</target>
         <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path" approved="yes">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="50741647d206010a8c2ac911901f3c31d6bbfc6a" resname="tab.name.urls">
         <source>URL</source>
-        <target state="needs-translation">URL</target>
+        <target state="translated">URL</target>
         <note>key: tab.name.urls</note>
       </trans-unit>
       <trans-unit id="337828c348b881920f84d17cc184f4c24e40c894" resname="tab.name.versions" approved="yes">
@@ -288,22 +288,22 @@
       </trans-unit>
       <trans-unit id="373c6d223e1f346d71cf6cfd85f0fbc3d76ca1d5" resname="tab.relations.no_relations">
         <source>This Content item has no related content.</source>
-        <target state="needs-translation">This Content item has no related content.</target>
+        <target state="translated">Ten element zawartości nie ma powiązanej zawartości.</target>
         <note>key: tab.relations.no_relations</note>
       </trans-unit>
       <trans-unit id="1c95181a07cb4d7b83aa9b003eb4e8df95c8bfd9" resname="tab.relations.no_reverse_relations">
         <source>This Content item has no reverse Relations.</source>
-        <target state="needs-translation">This Content item has no reverse Relations.</target>
+        <target state="translated">Ten element nie ma powiązań zwrotnych.</target>
         <note>key: tab.relations.no_reverse_relations</note>
       </trans-unit>
       <trans-unit id="853cb6f02ff64af4dc6016318eff1c30bd16cc70" resname="tab.relations.related_content">
         <source>Related content (Content items used by %contentName%)</source>
-        <target state="needs-translation">Related content (Content items used by %contentName%)</target>
+        <target state="translated">Powiązana zawartość (elementy zawartości używane przez %contentName%)</target>
         <note>key: tab.relations.related_content</note>
       </trans-unit>
       <trans-unit id="797eb29381132df5a71378b71b3237cf9a063b5c" resname="tab.relations.reverse_relations">
         <source>Reverse relations (Content items using %contentName%)</source>
-        <target state="needs-translation">Reverse relations (Content items using %contentName%)</target>
+        <target state="translated">Powiązania zwrotne (elementy używające %contentName%)</target>
         <note>key: tab.relations.reverse_relations</note>
       </trans-unit>
       <trans-unit id="d667f9ef2cf04ce8966bc908b8930be596925561" resname="tab.relations.table.content_type" approved="yes">
@@ -343,12 +343,12 @@
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
         <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <target state="translated">Dodaj nowy</target>
         <note>key: tab.translations.action.add</note>
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: tab.translations.action.delete</note>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel" approved="yes">
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
         <source>Create a new translation</source>
-        <target state="needs-translation">Create a new translation</target>
+        <target state="translated">Utwórz nowe tłumaczenie</target>
         <note>key: tab.translations.add.title</note>
       </trans-unit>
       <trans-unit id="d494d753de03a08f7a10792b727ec88ca74d4913" resname="tab.translations.language_code" approved="yes">
@@ -378,7 +378,7 @@
       </trans-unit>
       <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
         <source>Do you want to delete the translation?</source>
-        <target state="needs-translation">Do you want to delete the translation?</target>
+        <target state="translated">Czy chcesz usunąć tłumaczenie?</target>
         <note>key: tab.translations.modal.message</note>
       </trans-unit>
       <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger" approved="yes">
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
         <source>Delete version</source>
-        <target state="needs-translation">Delete version</target>
+        <target state="translated">Usuń wersję</target>
         <note>key: tab.versions.action.delete</note>
       </trans-unit>
       <trans-unit id="699b5bf627b908f8d270984ab9a4734a48b28abe" resname="tab.versions.archived_versions" approved="yes">
@@ -398,12 +398,12 @@
       </trans-unit>
       <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
         <source>Open drafts</source>
-        <target state="needs-translation">Open drafts</target>
+        <target state="translated">Otwórz szkic</target>
         <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
       <trans-unit id="134ac8f9b086171dcda7931b3bb7acc0042bb1c9" resname="tab.versions.modal.message">
         <source>Do you want to delete the version(s)?</source>
-        <target state="needs-translation">Do you want to delete the version(s)?</target>
+        <target state="translated">Czy chcesz usunąć wersję?</target>
         <note>key: tab.versions.modal.message</note>
       </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version" approved="yes">
@@ -438,17 +438,17 @@
       </trans-unit>
       <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
         <source>Off</source>
-        <target state="needs-translation">Off</target>
+        <target state="translated">Włączone</target>
         <note>key: toggle_widget.label.off</note>
       </trans-unit>
       <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
         <source>On</source>
-        <target state="needs-translation">On</target>
+        <target state="translated">Włączone</target>
         <note>key: toggle_widget.label.on</note>
       </trans-unit>
       <trans-unit id="c285bc654712e44ed56cd6f18262a2d6485f4fb9" resname="user.edit.select_language">
         <source>Select a language:</source>
-        <target state="needs-translation">Select a language:</target>
+        <target state="translated">Wybierz język:</target>
         <note>key: user.edit.select_language</note>
       </trans-unit>
     </body>
