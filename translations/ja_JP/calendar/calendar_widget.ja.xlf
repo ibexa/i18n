@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="7d5ef25bcc86308de6f09962dec8215a07dfa65c" resname="calendar.date_paginator.today">
         <source>Today</source>
-        <target state="needs-translation">Today</target>
+        <target state="translated">今日</target>
         <note>key: calendar.date_paginator.today</note>
       </trans-unit>
       <trans-unit id="59e3fee84c10074047b8a01c191da2a07438a14e" resname="calendar.deselect_all">
