@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="aaeaea5ec3512b99a6e1d7437a238ae6258de6d6" resname="ibexa.address.country">
         <source>Country</source>
-        <target state="needs-translation">Country</target>
+        <target state="translated">国</target>
         <note>key: ibexa.address.country</note>
       </trans-unit>
       <trans-unit id="841264ffb30bbec6ea9917af2df640567d45f8ae" resname="ibexa.address.country.validation.empty">
         <source>Country cannot be empty.</source>
-        <target state="needs-translation">Country cannot be empty.</target>
+        <target state="translated">国は空欄にできません。</target>
         <note>key: ibexa.address.country.validation.empty</note>
       </trans-unit>
       <trans-unit id="c1783abdbe42ce685ab182d8016139f4d9f4c78a" resname="ibexa.address.fields.address">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="bd1f628dca2d6976de609f8398244012413f876a" resname="ibexa.address.fields.postal_code">
         <source>Postal Code</source>
-        <target state="needs-translation">Postal Code</target>
+        <target state="translated">郵便番号</target>
         <note>key: ibexa.address.fields.postal_code</note>
       </trans-unit>
       <trans-unit id="4fcde32cdb31aa6754efb041462b7f67f640d414" resname="ibexa.address.fields.region">
