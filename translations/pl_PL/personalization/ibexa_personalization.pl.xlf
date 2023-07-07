@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="56c0da59355d07df01912947d83b628788c405c4" resname="activation_status.form.email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">Email</target>
         <note>key: activation_status.form.email</note>
       </trans-unit>
       <trans-unit id="584b1646ab7795a2d37a682a9131d6b7a86e4111" resname="activation_status.form.full_name">
         <source>Full name</source>
-        <target state="needs-translation">Full name</target>
+        <target state="translated">Pełna nazwa</target>
         <note>key: activation_status.form.full_name</note>
       </trans-unit>
       <trans-unit id="256aa74018353687a05876fb9f8b627435d767fd" resname="activation_status.form.terms_and_conditions">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="34d07778b55d6b05956f292eb8360bd4429750f3" resname="breadcrumb.import">
         <source>Import</source>
-        <target state="needs-translation">Import</target>
+        <target state="translated">Importuj</target>
         <note>key: breadcrumb.import</note>
       </trans-unit>
       <trans-unit id="3e47cf979e591e5f0d01b92930499bd204da235d" resname="breadcrumb.models">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="1c5d787a5d5f4b2e3d9e14dcfe0cc9c78ee5939a" resname="breadcrumb.personalization">
         <source>Personalization</source>
-        <target state="needs-translation">Personalization</target>
+        <target state="translated">Personalizacja</target>
         <note>key: breadcrumb.personalization</note>
       </trans-unit>
       <trans-unit id="e68ace7e4c81cf8b6c6d333e92b573f6a6686223" resname="breadcrumb.scenarios">
@@ -43,22 +43,22 @@
       </trans-unit>
       <trans-unit id="38598ef70257113edd62503231b2634aadfd5985" resname="category_path_select.select_path">
         <source>Select path</source>
-        <target state="needs-translation">Select path</target>
+        <target state="translated">Wybierz ścieżkę</target>
         <note>key: category_path_select.select_path</note>
       </trans-unit>
       <trans-unit id="a4dede5f896d11e9cbb3b0950c0076111efa52d3" resname="category_path_select.select_path.custom.btn.title">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: category_path_select.select_path.custom.btn.title</note>
       </trans-unit>
       <trans-unit id="aadf8f580f4e47471065b8b8165c1a8e1878e4a5" resname="category_path_select.select_path.custom.label">
         <source>Path</source>
-        <target state="needs-translation">Path</target>
+        <target state="translated">Ścieżka</target>
         <note>key: category_path_select.select_path.custom.label</note>
       </trans-unit>
       <trans-unit id="823fa4299d09aaad8e73fd440a2d99f51e0632ed" resname="category_path_select.select_path.or">
         <source>Or</source>
-        <target state="needs-translation">Or</target>
+        <target state="translated">Lub</target>
         <note>key: category_path_select.select_path.or</note>
       </trans-unit>
       <trans-unit id="ec55a3d9a03d868c3a95e6339d7d59db74254d4d" resname="category_path_select.select_path.title">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="b2c8483a1e8523c38d6b68b4ab24ac28f62e1b25" resname="category_path_select.select_path_udw_title">
         <source>Select path</source>
-        <target state="needs-translation">Select path</target>
+        <target state="translated">Wybierz ścieżkę</target>
         <note>key: category_path_select.select_path_udw_title</note>
       </trans-unit>
       <trans-unit id="0ac9bad7b4e93c7883bbf898f6b8787e3a246eb5" resname="chart.items_purchased">
@@ -128,12 +128,12 @@
       </trans-unit>
       <trans-unit id="718793d59a2b760b05aa36c193697cd4c485651f" resname="dashboard.summary.last_30_days">
         <source>Last 30 days</source>
-        <target state="needs-translation">Last 30 days</target>
+        <target state="translated">Ostatnie 30 dni</target>
         <note>key: dashboard.summary.last_30_days</note>
       </trans-unit>
       <trans-unit id="feb82fd772697b433522e5fc67aa4b04f00a434f" resname="dashboard.summary.last_update">
         <source>Last update %date%</source>
-        <target state="needs-translation">Last update %date%</target>
+        <target state="translated">Ostatnia aktualizacja %date%</target>
         <note>key: dashboard.summary.last_update</note>
       </trans-unit>
       <trans-unit id="4fce840cb6ca00c22cd101fa83b2aca386cc37ef" resname="dashboard.summary.previous_month">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: delete</note>
       </trans-unit>
       <trans-unit id="1e2a95e64da26b12063fd30d3accd927df7cf68c" resname="failed_to_trigger_model_build">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="d43f23ab8e91b3334e2115e686e3e778b8abf134" resname="ibexa_personalization.dashboard.price">
         <source>Price</source>
-        <target state="needs-translation">Price</target>
+        <target state="translated">Cena</target>
         <note>key: ibexa_personalization.dashboard.price</note>
       </trans-unit>
       <trans-unit id="6e7a8a2216686ba84d04f16114a6a9bc8d5dfe7d" resname="ibexa_personalization.date_time_range.custom_range">
@@ -213,37 +213,37 @@
       </trans-unit>
       <trans-unit id="2f1c5eeea5e27f7221e63ee2d39fc3dea707e33f" resname="ibexa_personalization.date_time_range.last_24h">
         <source>Last 24h</source>
-        <target state="needs-translation">Last 24h</target>
+        <target state="translated">Ostatnie 24h</target>
         <note>key: ibexa_personalization.date_time_range.last_24h</note>
       </trans-unit>
       <trans-unit id="b12bf18424da695783a23569e34f0efc437cdc9f" resname="ibexa_personalization.date_time_range.last_30_days">
         <source>Last 30 days</source>
-        <target state="needs-translation">Last 30 days</target>
+        <target state="translated">Ostatnie 30 dni</target>
         <note>key: ibexa_personalization.date_time_range.last_30_days</note>
       </trans-unit>
       <trans-unit id="db6d8073db7e02acf280fda93a4448859b1b3494" resname="ibexa_personalization.date_time_range.last_7_days">
         <source>Last 7 days</source>
-        <target state="needs-translation">Last 7 days</target>
+        <target state="translated">Ostatnie 7 dni</target>
         <note>key: ibexa_personalization.date_time_range.last_7_days</note>
       </trans-unit>
       <trans-unit id="b290f724a771c2efaa3cb908a32bf9c38c47a23c" resname="ibexa_personalization.date_time_range.last_month">
         <source>Last month</source>
-        <target state="needs-translation">Last month</target>
+        <target state="translated">Ostatni miesiąc</target>
         <note>key: ibexa_personalization.date_time_range.last_month</note>
       </trans-unit>
       <trans-unit id="537d2eeb50537aa922d548761126cb1687aaee25" resname="ibexa_personalization.scenario.output_type_all">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Wszystkie</target>
         <note>key: ibexa_personalization.scenario.output_type_all</note>
       </trans-unit>
       <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
         <source>Undefined</source>
-        <target state="needs-translation">Undefined</target>
+        <target state="translated">Niezdefiniowane</target>
         <note>key: ibexa_personalization.scenario.undefined</note>
       </trans-unit>
       <trans-unit id="62fdfbd55d19b2a4671102ad7bca17d875f8207a" resname="import">
         <source>Import</source>
-        <target state="needs-translation">Import</target>
+        <target state="translated">Importuj</target>
         <note>key: import</note>
       </trans-unit>
       <trans-unit id="93f7f60494a8ca773d68bcf3d2208c6b84caf741" resname="import.imported_items">
@@ -263,12 +263,12 @@
       </trans-unit>
       <trans-unit id="01cfdca28f4437b0df9af3a5bd854bd92d6f7bab" resname="import.language">
         <source>Language</source>
-        <target state="needs-translation">Language</target>
+        <target state="translated">Język</target>
         <note>key: import.language</note>
       </trans-unit>
       <trans-unit id="5ed492920853d62272f044a731b64dffb486c73e" resname="import.last_update">
         <source>Last update</source>
-        <target state="needs-translation">Last update</target>
+        <target state="translated">Ostatnia aktualizacja</target>
         <note>key: import.last_update</note>
       </trans-unit>
       <trans-unit id="259839e6315c4cd7ef4c8e08f0488f11b2041b04" resname="import.no_items_imported">
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="b26cf18f4600baa01b7fecd963f893ca3424a2e6" resname="model.details.active">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Aktywny</target>
         <note>key: model.details.active</note>
       </trans-unit>
       <trans-unit id="736c8390cc639a1e94baff43ac6cf566ea20e5e7" resname="model.details.description">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="3e7cb613ab82b863f6e9a7043921fefb670a7ed6" resname="model.details.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: model.details.identifier</note>
       </trans-unit>
       <trans-unit id="4df75fe5c000a8fa91e6811c5613d6087f7edf22" resname="model.details.last_build">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="f96553c14a4ffdd378138a03455a0891ce85a7e1" resname="model.details.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: model.details.name</note>
       </trans-unit>
       <trans-unit id="3d4bab614e2bf0348a662ba0345c2d1df14eadbd" resname="model.details.not_active">
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="ec2e77c833369d396a2b23edaae6fb57a3e6d752" resname="model.details.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Status</target>
         <note>key: model.details.status</note>
       </trans-unit>
       <trans-unit id="c1e495f258d614d6a0f42eb02d225a1a6b161779" resname="model.details.submodels">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="5d2ff97e544ffec3511aff38904969ab634b77b3" resname="model.edit.actino_name">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Edycja</target>
         <note>key: model.edit.actino_name</note>
       </trans-unit>
       <trans-unit id="9fca83cee965c85c1d9952bb6f394dbb42a65527" resname="model.edit.anchor_navigation.segments">
@@ -378,22 +378,22 @@
       </trans-unit>
       <trans-unit id="c6c09cc40d11ab92207f295720712bf55f19087b" resname="model.edit_short">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: model.edit_short</note>
       </trans-unit>
       <trans-unit id="cf1abce1343ae4d0d9480a7102d7e89c63ed52ed" resname="model.quantifier.day">
         <source>Day</source>
-        <target state="needs-translation">Day</target>
+        <target state="translated">Dzień</target>
         <note>key: model.quantifier.day</note>
       </trans-unit>
       <trans-unit id="a74d1764e88f56ee10e72cf53e79178000df5d4e" resname="model.quantifier.hour">
         <source>Hour</source>
-        <target state="needs-translation">Hour</target>
+        <target state="translated">Godzina</target>
         <note>key: model.quantifier.hour</note>
       </trans-unit>
       <trans-unit id="bb6102d5546962e51992e61bb51245cad7d680a2" resname="model_build.state.active">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Aktywny</target>
         <note>key: model_build.state.active</note>
       </trans-unit>
       <trans-unit id="98b19504122f3eae94e012a29e70bed705ef5f8b" resname="model_build.state.build_in_progress">
@@ -403,7 +403,7 @@
       </trans-unit>
       <trans-unit id="fa5c508429f7396605767fc0fd4ea92cdbf68d56" resname="model_build.state.failed">
         <source>Failed</source>
-        <target state="needs-translation">Failed</target>
+        <target state="translated">Niepowodzenie</target>
         <note>key: model_build.state.failed</note>
       </trans-unit>
       <trans-unit id="6745f451dcbf71ecc541477e206cdbe28b7c8df8" resname="model_build_has_been_triggered">
@@ -413,7 +413,7 @@
       </trans-unit>
       <trans-unit id="5ba2688dffd71df813a468578a87c653e1575e1e" resname="models">
         <source>Models</source>
-        <target state="needs-translation">Models</target>
+        <target state="translated">Modele</target>
         <note>key: models</note>
       </trans-unit>
       <trans-unit id="8a5d362f7867c4d490ec24abe1caf6564e3a0db2" resname="models.description.CF_I2Ix">
@@ -1183,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="6e60a2dd3e6ee30ddad869c30cf82f024e5efe57" resname="models.list.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Status</target>
         <note>key: models.list.status</note>
       </trans-unit>
       <trans-unit id="e1e1f20c00f1a8e35feceb56a5721bae3a46b175" resname="models.list.submodel">
@@ -1958,12 +1958,12 @@
       </trans-unit>
       <trans-unit id="5c701556dc21f0b151f5328fad45197b55f16fa2" resname="models.segments.segment.status.active">
         <source>active</source>
-        <target state="needs-translation">active</target>
+        <target state="translated">aktywny</target>
         <note>key: models.segments.segment.status.active</note>
       </trans-unit>
       <trans-unit id="7a3b4079ae192bd28a5952b24aab2d9c0c435c98" resname="models.segments.segment.status.inactive">
         <source>inactive</source>
-        <target state="needs-translation">inactive</target>
+        <target state="translated">nieaktywny</target>
         <note>key: models.segments.segment.status.inactive</note>
       </trans-unit>
       <trans-unit id="f3d714108e6a871e551229a2554d23866650d601" resname="models.segments.sidebar.empty.img">
@@ -1978,7 +1978,7 @@
       </trans-unit>
       <trans-unit id="2ad765a509fbc5a1a3d96d9d835bd33ec8573114" resname="models.segments.sidebar.group.available">
         <source>Available</source>
-        <target state="needs-translation">Available</target>
+        <target state="translated">Dostępny</target>
         <note>key: models.segments.sidebar.group.available</note>
       </trans-unit>
       <trans-unit id="2e5220d2a41ecd9be0ed1732c636d9400b663a36" resname="models.segments.sidebar.group.not_available">
@@ -1998,17 +1998,17 @@
       </trans-unit>
       <trans-unit id="dc5f5b272c8ff55115997a3a03566fdcd8de6cf4" resname="models.submodel.add_group">
         <source>Add group</source>
-        <target state="needs-translation">Add group</target>
+        <target state="translated">Dodaj grupę</target>
         <note>key: models.submodel.add_group</note>
       </trans-unit>
       <trans-unit id="af049bae133c2a66e00223d36b84c97785bd4570" resname="models.submodel.add_range">
         <source>Add range</source>
-        <target state="needs-translation">Add range</target>
+        <target state="translated">Dodać zakres</target>
         <note>key: models.submodel.add_range</note>
       </trans-unit>
       <trans-unit id="050c6688ca4e5f2cae7d305410e973e7dfad2a50" resname="models.submodel.delete_group">
         <source>Delete group</source>
-        <target state="needs-translation">Delete group</target>
+        <target state="translated">Usuń grupę</target>
         <note>key: models.submodel.delete_group</note>
       </trans-unit>
       <trans-unit id="e0aa8b751c057afd0361ec03ae85fec591a4d68a" resname="models.submodel.existing_groups">
@@ -2053,7 +2053,7 @@
       </trans-unit>
       <trans-unit id="0b3b381fddf5d4385b1b19455d33120f6553fd7b" resname="scenario.action_name.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Edycja</target>
         <note>key: scenario.action_name.editing</note>
       </trans-unit>
       <trans-unit id="a29477d90934cf3d031f1e4b60c123d940c33903" resname="scenario.add_scenario">
@@ -2178,7 +2178,7 @@
       </trans-unit>
       <trans-unit id="3dbd0107cf6aa0fa0e3879a67983c54363337740" resname="scenario.strategy.discard">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Anuluj</target>
         <note>key: scenario.strategy.discard</note>
       </trans-unit>
       <trans-unit id="1ccee020b75348f4618bd5c3c6d664751ac85df9" resname="scenario.strategy.fail_safe">
@@ -2223,7 +2223,7 @@
       </trans-unit>
       <trans-unit id="8c4cca6eaff42db3e1c8afa8ad54dbf86b20fb64" resname="scenario.strategy.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Zapisz</target>
         <note>key: scenario.strategy.save</note>
       </trans-unit>
       <trans-unit id="80dd45134e009a3446f7edd47881b631b1274136" resname="scenario.strategy.ultimately_fail_safe">
@@ -2338,7 +2338,7 @@
       </trans-unit>
       <trans-unit id="7b60fe663504c123790a0b4d779d141fb7eee8aa" resname="settings.form.submit">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Zapisz</target>
         <note>key: settings.form.submit</note>
       </trans-unit>
       <trans-unit id="09973b1c84a811003e4feb8789f4c6c2d066c82c" resname="targeted_scenario_map.no_configuration">
@@ -2383,22 +2383,22 @@
       </trans-unit>
       <trans-unit id="4535cf1ab875d58841ddf3f2fadc87f84c6c5e68" resname="welcome.terms.accept">
         <source>Accept</source>
-        <target state="needs-translation">Accept</target>
+        <target state="translated">Akceptuj</target>
         <note>key: welcome.terms.accept</note>
       </trans-unit>
       <trans-unit id="316e9974a319973cc24c4d11f6b04a13150470cb" resname="welcome.terms.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Wstecz</target>
         <note>key: welcome.terms.back</note>
       </trans-unit>
       <trans-unit id="16a1e110c8c7ac7d3d806178b042706b3bd79af3" resname="welcome.terms.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Anuluj</target>
         <note>key: welcome.terms.cancel</note>
       </trans-unit>
       <trans-unit id="099ebf8b2b9aa235a7dbcfb79fc0d522be42eb7d" resname="welcome.terms.download_pdf">
         <source>Download PDF</source>
-        <target state="needs-translation">Download PDF</target>
+        <target state="translated">Pobierz PDF</target>
         <note>key: welcome.terms.download_pdf</note>
       </trans-unit>
       <trans-unit id="3b055403c050c64d43114df3792df1ced71d84f3" resname="welcome.terms.table_of_contents">
