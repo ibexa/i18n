@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="5646653e7d129c0a5c96b6b87e99eeb9d92a6fee" resname="url_wildcard.type.all">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Wszystkie</target>
         <note>key: url_wildcard.type.all</note>
       </trans-unit>
       <trans-unit id="a3115263bb80e6486cc16154e23fecd398c0b352" resname="url_wildcard.type.direct">
