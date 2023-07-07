@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="32d50c07b2eacd6fa72742ff1c1f5963c26a251d" resname="new_content_item">
         <source>New %contentType%</source>
-        <target state="needs-translation">New %contentType%</target>
+        <target state="translated">Nowy %contentType%</target>
         <note>key: new_content_item</note>
       </trans-unit>
     </body>
