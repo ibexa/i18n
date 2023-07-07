@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="39b4081643351e2a41c1b3b811b6dc78fb528520" resname="on_the_fly.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">キャンセル</target>
         <note>key: on_the_fly.cancel</note>
       </trans-unit>
       <trans-unit id="d466f97702d045f02d8b55379a9c6ea5270ecfef" resname="on_the_fly.confirm">
         <source>Confirm</source>
-        <target state="needs-translation">Confirm</target>
+        <target state="translated">確認</target>
         <note>key: on_the_fly.confirm</note>
       </trans-unit>
     </body>
