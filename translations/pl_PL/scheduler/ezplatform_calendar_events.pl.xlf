@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="53a0be7e89d421b9dfa28ca9fa0fcf29c5a70675" resname="future_publication.action.unschedule.label">
         <source>Cancel publication</source>
-        <target state="needs-translation">Cancel publication</target>
+        <target state="translated">Anuluj publikację</target>
         <note>key: future_publication.action.unschedule.label</note>
       </trans-unit>
       <trans-unit id="420ef90e1dcbceca8d26b11b03d816c39678d7b1" resname="future_publication.attribute.content_type.label">
