@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="d08ac27baca6cb2d3a0fd16b5e877534bbb04aa9" resname="action_bar.action_btn.fields.title">
         <source>Fields</source>
-        <target state="needs-translation">Fields</target>
+        <target state="translated">Pola</target>
         <note>key: action_bar.action_btn.fields.title</note>
       </trans-unit>
       <trans-unit id="d26b774a53b05859274bc881ff26338791df7101" resname="infobar.content_name.default">
         <source>New landing page</source>
-        <target state="needs-translation">New landing page</target>
+        <target state="translated">Nowy Landing Page</target>
         <note>key: infobar.content_name.default</note>
       </trans-unit>
       <trans-unit id="6d037e40791b42019dc9de45a770945c4ec905cb" resname="infobar.form.error.message">
         <source>Fields error</source>
-        <target state="needs-translation">Fields error</target>
+        <target state="translated">Błąd pól</target>
         <note>key: infobar.form.error.message</note>
       </trans-unit>
       <trans-unit id="e6010c4a8967391fc3c84fae454468a4eb5f9a72" resname="infobar.page.field.type.error.message">
         <source>Update missing configuration in the Block view</source>
-        <target state="needs-translation">Update missing configuration in the Block view</target>
+        <target state="translated">Zaktualizuj brakującą konfigurację w widoku bloku</target>
         <note>key: infobar.page.field.type.error.message</note>
       </trans-unit>
       <trans-unit id="25f32c541336f865a36461a626f335a752c95a16" resname="infobar.page.layout.error.label">
         <source>The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</source>
-        <target state="needs-translation">The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</target>
+        <target state="translated">Układ Landing Page nie jest już dostępny i nie możesz go opublikować. Wybierz inny układ.</target>
         <note>key: infobar.page.layout.error.label</note>
       </trans-unit>
       <trans-unit id="3cd2629de3e6baae6395f4a2e30702380db52c39" resname="infobar.timeline">
         <source>Timeline</source>
-        <target state="needs-translation">Timeline</target>
+        <target state="translated">Oś czasu</target>
         <note>key: infobar.timeline</note>
       </trans-unit>
       <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add" approved="yes">
@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="c490c1cbc57823605f1e9a5a7fb8ac7c3e07262c" resname="menu_bar.close_btn.label">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">Zamknij</target>
         <note>key: menu_bar.close_btn.label</note>
       </trans-unit>
       <trans-unit id="d1e0675bdb4ccf37ae0be5e65be934d74e0d19e6" resname="menu_bar.page_buider.label">
         <source>Page Builder</source>
-        <target state="needs-translation">Page Builder</target>
+        <target state="translated">Page Builder</target>
         <note>key: menu_bar.page_buider.label</note>
       </trans-unit>
     </body>
