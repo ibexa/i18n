@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="615b833e43b4a5cd73af91d4bb8347a9c7c9828d" resname="context.creating_new_landing_page">
         <source>Creating a new Landing Page</source>
-        <target state="needs-translation">Creating a new Landing Page</target>
+        <target state="translated">Tworzenie nowego Landing Page</target>
         <note>key: context.creating_new_landing_page</note>
       </trans-unit>
       <trans-unit id="b8a74ee93a78609c69343a3667b60bac64dc1d04" resname="infobar.mode.preview_language" approved="yes">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="01673cd18fd4cc76a17b5a8c8dcec7012fe0e7c4" resname="infobar.options">
         <source>Options</source>
-        <target state="needs-translation">Options</target>
+        <target state="translated">Opcje</target>
         <note>key: infobar.options</note>
       </trans-unit>
     </body>
