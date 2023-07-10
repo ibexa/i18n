@@ -528,72 +528,72 @@
       </trans-unit>
       <trans-unit id="fe14b67513fcea11ed2cef38a90d5c4cf91aa532" resname="role.policy.segment">
         <source>Segment</source>
-        <target state="needs-translation">Segment</target>
+        <target state="translated">Segment</target>
         <note>key: role.policy.segment</note>
       </trans-unit>
       <trans-unit id="3939393469a4421bacb5ed2e75f992f6837240ab" resname="role.policy.segment.all_functions">
         <source>Segment / All functions</source>
-        <target state="needs-translation">Segment / All functions</target>
+        <target state="translated">Segment / Wszystkie funkcje</target>
         <note>key: role.policy.segment.all_functions</note>
       </trans-unit>
       <trans-unit id="6b9aadd7750a5f4b5331660d42c358959335b826" resname="role.policy.segment.assign_to_user">
         <source>Segment / Assign to user</source>
-        <target state="needs-translation">Segment / Assign to user</target>
+        <target state="translated">Segment / Przypisz do użytkownika</target>
         <note>key: role.policy.segment.assign_to_user</note>
       </trans-unit>
       <trans-unit id="09a0c2388423585b64a6703b275eca4bb2e92777" resname="role.policy.segment.create">
         <source>Segment / Create</source>
-        <target state="needs-translation">Segment / Create</target>
+        <target state="translated">Segment / Utwórz</target>
         <note>key: role.policy.segment.create</note>
       </trans-unit>
       <trans-unit id="506b3e8dca9edee470906099f4e5e766e47e1506" resname="role.policy.segment.read">
         <source>Segment / Read</source>
-        <target state="needs-translation">Segment / Read</target>
+        <target state="translated">Segment / Wyświetl</target>
         <note>key: role.policy.segment.read</note>
       </trans-unit>
       <trans-unit id="9cc5de1950915f9efcff2fcd8f7180eb7071c5cb" resname="role.policy.segment.remove">
         <source>Segment / Remove</source>
-        <target state="needs-translation">Segment / Remove</target>
+        <target state="translated">Segment / Usuń</target>
         <note>key: role.policy.segment.remove</note>
       </trans-unit>
       <trans-unit id="0c055076bc059993f1e44092473b7006ae34df96" resname="role.policy.segment.update">
         <source>Segment / Update</source>
-        <target state="needs-translation">Segment / Update</target>
+        <target state="translated">Segment / Aktualizuj</target>
         <note>key: role.policy.segment.update</note>
       </trans-unit>
       <trans-unit id="c105a8689a3c11e6c3cc7840662eab1832989141" resname="role.policy.segment.view_user_segment_list">
         <source>Segment / View user segment list</source>
-        <target state="needs-translation">Segment / View user segment list</target>
+        <target state="translated">Segment / Zobacz listę segmentów użytkowników</target>
         <note>key: role.policy.segment.view_user_segment_list</note>
       </trans-unit>
       <trans-unit id="80900cd56c795ae32bc19af548c92ec378d7df63" resname="role.policy.segment_group">
         <source>Segment group</source>
-        <target state="needs-translation">Segment group</target>
+        <target state="translated">Grupa segmentów</target>
         <note>key: role.policy.segment_group</note>
       </trans-unit>
       <trans-unit id="f9cfe551c8bc01921b694a54d0038e93e289d38f" resname="role.policy.segment_group.all_functions">
         <source>Segment group / All functions</source>
-        <target state="needs-translation">Segment group / All functions</target>
+        <target state="translated">Grupa Segmentów / Wszystkie funkcje</target>
         <note>key: role.policy.segment_group.all_functions</note>
       </trans-unit>
       <trans-unit id="6540ac8a8b75f8b8865aba1ef496c7cf25230a2b" resname="role.policy.segment_group.create">
         <source>Segment group / Create</source>
-        <target state="needs-translation">Segment group / Create</target>
+        <target state="translated">Grupa Segmentów / Utwórz</target>
         <note>key: role.policy.segment_group.create</note>
       </trans-unit>
       <trans-unit id="20ec96c7e8a543e6db46087e1bdf8d57536fa87f" resname="role.policy.segment_group.read">
         <source>Segment group / Read</source>
-        <target state="needs-translation">Segment group / Read</target>
+        <target state="translated">Grupa Segmentów / Wyświetl</target>
         <note>key: role.policy.segment_group.read</note>
       </trans-unit>
       <trans-unit id="7d82357527b29fc05f07816c1eaf134a07896df0" resname="role.policy.segment_group.remove">
         <source>Segment group / Remove</source>
-        <target state="needs-translation">Segment group / Remove</target>
+        <target state="translated">Grupa Segmentów / Usuń</target>
         <note>key: role.policy.segment_group.remove</note>
       </trans-unit>
       <trans-unit id="85913834465cd211b38d0d8b21e6828f94b38df3" resname="role.policy.segment_group.update">
         <source>Segment group / Update</source>
-        <target state="needs-translation">Segment group / Update</target>
+        <target state="translated">Grupa Segmentów / Aktualizuj</target>
         <note>key: role.policy.segment_group.update</note>
       </trans-unit>
       <trans-unit id="5f165ef2e938f6710b56e2e8ee416414e430b77c" resname="role.policy.setting">
@@ -653,12 +653,12 @@
       </trans-unit>
       <trans-unit id="029ea67634ff66aa9afd7c8850ebf6abe0f2e7be" resname="role.policy.siso_control_center">
         <source>Siso control center</source>
-        <target state="needs-translation">Siso control center</target>
+        <target state="translated">Centrum kontroli Siso</target>
         <note>key: role.policy.siso_control_center</note>
       </trans-unit>
       <trans-unit id="ad4e634b7a562503b6e50d2b057490b8d7dc6336" resname="role.policy.siso_control_center.all_functions">
         <source>Siso control center / All functions</source>
-        <target state="needs-translation">Siso control center / All functions</target>
+        <target state="translated">Centrum kontroli Siso / Wszystkie funkcje</target>
         <note>key: role.policy.siso_control_center.all_functions</note>
       </trans-unit>
       <trans-unit id="a0f12a7663039fde6f8aed723fb9d34a3980fb2a" resname="role.policy.siso_control_center.api_econtent">
@@ -678,42 +678,42 @@
       </trans-unit>
       <trans-unit id="4b5b94dfe8ce0ed99afad6c08ad6926941e84a17" resname="role.policy.siso_control_center.manage_emails">
         <source>Siso control center / Manage emails</source>
-        <target state="needs-translation">Siso control center / Manage emails</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj e-mailami</target>
         <note>key: role.policy.siso_control_center.manage_emails</note>
       </trans-unit>
       <trans-unit id="7fa7d6588d2604254dcf303b4b400c4f73954ad8" resname="role.policy.siso_control_center.manage_erp">
         <source>Siso control center / Manage erp</source>
-        <target state="needs-translation">Siso control center / Manage erp</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj erp</target>
         <note>key: role.policy.siso_control_center.manage_erp</note>
       </trans-unit>
       <trans-unit id="c65f946a026df0c1c1dd82f341c93f037e7e355e" resname="role.policy.siso_control_center.manage_erp_logs">
         <source>Siso control center / Manage erp logs</source>
-        <target state="needs-translation">Siso control center / Manage erp logs</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj logami erp</target>
         <note>key: role.policy.siso_control_center.manage_erp_logs</note>
       </trans-unit>
       <trans-unit id="6fb68c71d5d02066779acbd48adec60b00cda435" resname="role.policy.siso_control_center.manage_exports">
         <source>Siso control center / Manage exports</source>
-        <target state="needs-translation">Siso control center / Manage exports</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj eksportem</target>
         <note>key: role.policy.siso_control_center.manage_exports</note>
       </trans-unit>
       <trans-unit id="46733f57f8e3374f10e13976cbf0745e050d0533" resname="role.policy.siso_control_center.manage_imports">
         <source>Siso control center / Manage imports</source>
-        <target state="needs-translation">Siso control center / Manage imports</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj importem</target>
         <note>key: role.policy.siso_control_center.manage_imports</note>
       </trans-unit>
       <trans-unit id="d9d75b3eea946a68bc4aa78d3810f6b6a04ebada" resname="role.policy.siso_control_center.manage_jobs">
         <source>Siso control center / Manage jobs</source>
-        <target state="needs-translation">Siso control center / Manage jobs</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj zadaniami</target>
         <note>key: role.policy.siso_control_center.manage_jobs</note>
       </trans-unit>
       <trans-unit id="e6bebe72ead05d9d16bc0dc9ef80c60cb12572b9" resname="role.policy.siso_policy">
         <source>Siso policy</source>
-        <target state="needs-translation">Siso policy</target>
+        <target state="translated">Polityka Siso</target>
         <note>key: role.policy.siso_policy</note>
       </trans-unit>
       <trans-unit id="71b4a62c52ac03f0597e07fc3a357e059260206e" resname="role.policy.siso_policy.all_functions">
         <source>Siso policy / All functions</source>
-        <target state="needs-translation">Siso policy / All functions</target>
+        <target state="translated">Polityka Siso / wszystkie funkcje</target>
         <note>key: role.policy.siso_policy.all_functions</note>
       </trans-unit>
       <trans-unit id="e1a252421d392fe73e1978cf223051e1f7103cc5" resname="role.policy.siso_policy.checkout">
@@ -723,7 +723,7 @@
       </trans-unit>
       <trans-unit id="3289ef5c243b5514c6d98f6419de1592d910b308" resname="role.policy.siso_policy.configuration_list">
         <source>Siso policy / Configuration list</source>
-        <target state="needs-translation">Siso policy / Configuration list</target>
+        <target state="translated">Polityka Siso / Lista konfiguracji</target>
         <note>key: role.policy.siso_policy.configuration_list</note>
       </trans-unit>
       <trans-unit id="83b3cf80005b6506e9fc8430ff52df8137ae71c0" resname="role.policy.siso_policy.dashboard_view">
@@ -768,17 +768,17 @@
       </trans-unit>
       <trans-unit id="c49537d92074b71972584fd044d74b19d8294696" resname="role.policy.siso_policy.manage_config">
         <source>Siso policy / Manage config</source>
-        <target state="needs-translation">Siso policy / Manage config</target>
+        <target state="translated">Polityka Siso / Zarządzaj konfiguracją</target>
         <note>key: role.policy.siso_policy.manage_config</note>
       </trans-unit>
       <trans-unit id="5e7b82eec437e05e7bfe872efb13d03a06270d4b" resname="role.policy.siso_policy.manage_orders">
         <source>Siso policy / Manage orders</source>
-        <target state="needs-translation">Siso policy / Manage orders</target>
+        <target state="translated">Polityka Siso / Zarządzaj zamówieniami</target>
         <note>key: role.policy.siso_policy.manage_orders</note>
       </trans-unit>
       <trans-unit id="4d011e68fa852b7feca863504519636a7de5a4b0" resname="role.policy.siso_policy.manage_prices">
         <source>Siso policy / Manage prices</source>
-        <target state="needs-translation">Siso policy / Manage prices</target>
+        <target state="translated">Polityka Siso / Zarządzaj cenami</target>
         <note>key: role.policy.siso_policy.manage_prices</note>
       </trans-unit>
       <trans-unit id="ad5b397ac92ddf8256ce2d9ab12818a383203a5b" resname="role.policy.siso_policy.manage_rating">
@@ -788,27 +788,27 @@
       </trans-unit>
       <trans-unit id="e7c54b592a3ebad126466c968eca3fd64e94feb6" resname="role.policy.siso_policy.manage_shipping_costs">
         <source>Siso policy / Manage shipping costs</source>
-        <target state="needs-translation">Siso policy / Manage shipping costs</target>
+        <target state="translated">Polityka Siso / Zarządzaj kosztami wysyłki</target>
         <note>key: role.policy.siso_policy.manage_shipping_costs</note>
       </trans-unit>
       <trans-unit id="4703ea64a83fc55601798cc19d29d879f2b79512" resname="role.policy.siso_policy.manage_stock">
         <source>Siso policy / Manage stock</source>
-        <target state="needs-translation">Siso policy / Manage stock</target>
+        <target state="translated">Polityka Siso / Zarządzaj stanami magazynowymi</target>
         <note>key: role.policy.siso_policy.manage_stock</note>
       </trans-unit>
       <trans-unit id="731f061c484863f3367c7ddc90b45420d8edb2ad" resname="role.policy.siso_policy.order_list">
         <source>Siso policy / Order list</source>
-        <target state="needs-translation">Siso policy / Order list</target>
+        <target state="translated">Polityka Siso / Lista zamówień</target>
         <note>key: role.policy.siso_policy.order_list</note>
       </trans-unit>
       <trans-unit id="ca5cbff667a1c069eb8b95791ce0d99575da77c7" resname="role.policy.siso_policy.orderhistory_view">
         <source>Siso policy / Orderhistory view</source>
-        <target state="needs-translation">Siso policy / Orderhistory view</target>
+        <target state="translated">Polityka Siso / Widok historii zamówień</target>
         <note>key: role.policy.siso_policy.orderhistory_view</note>
       </trans-unit>
       <trans-unit id="9711026ce5d7f383f5b2254deb8b0202e048dcec" resname="role.policy.siso_policy.quickorder">
         <source>Siso policy / Quickorder</source>
-        <target state="needs-translation">Siso policy / Quickorder</target>
+        <target state="translated">Polityka Siso / Szybkie zamówienie</target>
         <note>key: role.policy.siso_policy.quickorder</note>
       </trans-unit>
       <trans-unit id="b15b9699a7bf845ed87f812d8aa33f0a045e9193" resname="role.policy.siso_policy.rating_review">
@@ -818,7 +818,7 @@
       </trans-unit>
       <trans-unit id="82fb01df828843524e88fc46a99f1309166365da" resname="role.policy.siso_policy.read_basket">
         <source>Siso policy / Read basket</source>
-        <target state="needs-translation">Siso policy / Read basket</target>
+        <target state="translated">Polityka Siso / Przeglądaj koszyk</target>
         <note>key: role.policy.siso_policy.read_basket</note>
       </trans-unit>
       <trans-unit id="1e26e0c4e32f262b67793f019b92099edc8d172c" resname="role.policy.siso_policy.read_customers_and_orders">
@@ -828,57 +828,57 @@
       </trans-unit>
       <trans-unit id="ce07309083f3e9bbc06557a454f86d028bc0b37a" resname="role.policy.siso_policy.see_product_price">
         <source>Siso policy / See product price</source>
-        <target state="needs-translation">Siso policy / See product price</target>
+        <target state="translated">Polityka Siso / Podgląd ceny produktu</target>
         <note>key: role.policy.siso_policy.see_product_price</note>
       </trans-unit>
       <trans-unit id="a0be285570ab4606874b408bce8d9097d3ef8a52" resname="role.policy.siso_policy.translations">
         <source>Siso policy / Translations</source>
-        <target state="needs-translation">Siso policy / Translations</target>
+        <target state="translated">Polityka Siso / Tłumaczenia</target>
         <note>key: role.policy.siso_policy.translations</note>
       </trans-unit>
       <trans-unit id="b7006b9e044c2aea8159bac92bd8d70c0eca978d" resname="role.policy.siso_policy.update_exchange_rates">
         <source>Siso policy / Update exchange rates</source>
-        <target state="needs-translation">Siso policy / Update exchange rates</target>
+        <target state="translated">Polityka Siso / Aktualizacja kursów wymiany</target>
         <note>key: role.policy.siso_policy.update_exchange_rates</note>
       </trans-unit>
       <trans-unit id="b9bc8a260965f23a45db9ce5b412757b41dc1c55" resname="role.policy.siso_policy.write_basket">
         <source>Siso policy / Write basket</source>
-        <target state="needs-translation">Siso policy / Write basket</target>
+        <target state="translated">Polityka Siso / Zapisanie koszyka</target>
         <note>key: role.policy.siso_policy.write_basket</note>
       </trans-unit>
       <trans-unit id="2e2e751bf3201fb6c68307c683a3ac384b9ec0cf" resname="role.policy.site">
         <source>Site</source>
-        <target state="needs-translation">Site</target>
+        <target state="translated">Strona</target>
         <note>key: role.policy.site</note>
       </trans-unit>
       <trans-unit id="8a7be79652e042c41e49671038f309291c780c78" resname="role.policy.site.all_functions">
         <source>Site / All functions</source>
-        <target state="needs-translation">Site / All functions</target>
+        <target state="translated">Strona / Wszystkie funkcje</target>
         <note>key: role.policy.site.all_functions</note>
       </trans-unit>
       <trans-unit id="fa041654ee2bd9a54a870675fc96399dac830b73" resname="role.policy.site.change_status">
         <source>Site / Change status</source>
-        <target state="needs-translation">Site / Change status</target>
+        <target state="translated">Strona / Zmień status</target>
         <note>key: role.policy.site.change_status</note>
       </trans-unit>
       <trans-unit id="7974d9702481b771e623dd447d3df7d8e7350e7b" resname="role.policy.site.create">
         <source>Site / Create</source>
-        <target state="needs-translation">Site / Create</target>
+        <target state="translated">Strona / Utwórz</target>
         <note>key: role.policy.site.create</note>
       </trans-unit>
       <trans-unit id="45e0983429e1df736d0c26b5b9c62a8f522c5c00" resname="role.policy.site.delete">
         <source>Site / Delete</source>
-        <target state="needs-translation">Site / Delete</target>
+        <target state="translated">Strona / Usuń</target>
         <note>key: role.policy.site.delete</note>
       </trans-unit>
       <trans-unit id="f473815a92d4ec35eeaa54464164aa98119594df" resname="role.policy.site.edit">
         <source>Site / Edit</source>
-        <target state="needs-translation">Site / Edit</target>
+        <target state="translated">Strona / Edytuj</target>
         <note>key: role.policy.site.edit</note>
       </trans-unit>
       <trans-unit id="34b7e317be37673c466c03c644176ffb618295a8" resname="role.policy.site.view">
         <source>Site / View</source>
-        <target state="needs-translation">Site / View</target>
+        <target state="translated">Strona / Widok</target>
         <note>key: role.policy.site.view</note>
       </trans-unit>
       <trans-unit id="012dce76ef569ba377ffe98ddbee8d3c3d270e15" resname="role.policy.state">
