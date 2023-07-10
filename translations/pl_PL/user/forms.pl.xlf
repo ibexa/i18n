@@ -8,92 +8,92 @@
     <body>
       <trans-unit id="56281d5c292a4fe95f9b1af5ae0b1deaebab7342" resname="ezplatform.change_user_password.change">
         <source>Change</source>
-        <target state="needs-translation">Change</target>
+        <target state="translated">Zmień</target>
         <note>key: ezplatform.change_user_password.change</note>
       </trans-unit>
       <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password">
         <source>Confirm password</source>
-        <target state="needs-translation">Confirm password</target>
+        <target state="translated">Potwierdź hasło</target>
         <note>key: ezplatform.change_user_password.confirm_new_password</note>
       </trans-unit>
       <trans-unit id="43521bfea046f591270e027a69fc52cccc486e23" resname="ezplatform.change_user_password.new_password">
         <source>New password</source>
-        <target state="needs-translation">New password</target>
+        <target state="translated">Nowe hasło</target>
         <note>key: ezplatform.change_user_password.new_password</note>
       </trans-unit>
       <trans-unit id="7d2421be11a5351c12c952611c7a1a7f00f51cd9" resname="ezplatform.change_user_password.old_password">
         <source>Current password</source>
-        <target state="needs-translation">Current password</target>
+        <target state="translated">Obecne hasło</target>
         <note>key: ezplatform.change_user_password.old_password</note>
       </trans-unit>
       <trans-unit id="859bfc3d21113eecb4a19d4a9305f2519eb4b331" resname="ezplatform.forgot_user_password.email">
         <source>Enter your email</source>
-        <target state="needs-translation">Enter your email</target>
+        <target state="translated">Podaj swój email</target>
         <note>key: ezplatform.forgot_user_password.email</note>
       </trans-unit>
       <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
         <source>Enter your login:</source>
-        <target state="needs-translation">Enter your login:</target>
+        <target state="translated">Podaj login:</target>
         <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
       <trans-unit id="0f7bbe027d2c53c78c7b3ce938af6c0ef6c1c2e2" resname="ezplatform.forgot_user_password.reset">
         <source>Reset</source>
-        <target state="needs-translation">Reset</target>
+        <target state="translated">Resetuj</target>
         <note>key: ezplatform.forgot_user_password.reset</note>
       </trans-unit>
       <trans-unit id="44c91aa5708f9b819f7f84b00925dc19d6798341" resname="ezplatform.forgot_user_password.send">
         <source>Send</source>
-        <target state="needs-translation">Send</target>
+        <target state="translated">Wyślij</target>
         <note>key: ezplatform.forgot_user_password.send</note>
       </trans-unit>
       <trans-unit id="877b8a2a4e3b2c7c137b7776a54cd7531421e5d3" resname="ezplatform.reset_user_password.confirm_new_password">
         <source>Confirm password</source>
-        <target state="needs-translation">Confirm password</target>
+        <target state="translated">Potwierdź hasło</target>
         <note>key: ezplatform.reset_user_password.confirm_new_password</note>
       </trans-unit>
       <trans-unit id="943fa9c11c71de16802dad7eea78690f53eb9888" resname="ezplatform.reset_user_password.new_password">
         <source>New password</source>
-        <target state="needs-translation">New password</target>
+        <target state="translated">Nowe hasło</target>
         <note>key: ezplatform.reset_user_password.new_password</note>
       </trans-unit>
       <trans-unit id="7f0836bb06a0030f7595c4c5d5d4079cdcece47f" resname="ezplatform.reset_user_password.update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">Zaktualizuj</target>
         <note>key: ezplatform.reset_user_password.update</note>
       </trans-unit>
       <trans-unit id="ab90b332cf5f8d29b421427cdfc2ec676d5bebdb" resname="ibexa.user.invitation.email">
         <source>Enter email</source>
-        <target state="needs-translation">Enter email</target>
+        <target state="translated">Wpisz e-mail</target>
         <note>key: ibexa.user.invitation.email</note>
       </trans-unit>
       <trans-unit id="40edf918af3b2d9085e2ecaa98cfd004f13fc226" resname="ibexa.user.invitation.group">
         <source>Select Group</source>
-        <target state="needs-translation">Select Group</target>
+        <target state="translated">Wybierz grupę</target>
         <note>key: ibexa.user.invitation.group</note>
       </trans-unit>
       <trans-unit id="6b827dc215e0b48c99cd9c687dcf7eb2516ea04c" resname="ibexa.user.invitation.location_id">
         <source>Type subtree root id</source>
-        <target state="needs-translation">Type subtree root id</target>
+        <target state="translated">Wpisz identyfikator root poddrzewa</target>
         <note>key: ibexa.user.invitation.location_id</note>
       </trans-unit>
       <trans-unit id="a58fe68d0cd618abf2315b3fa69de2f2f4d6ed56" resname="ibexa.user.invitation.pick_sections">
         <source>Pick Sections</source>
-        <target state="needs-translation">Pick Sections</target>
+        <target state="translated">Wybierz Sekcje</target>
         <note>key: ibexa.user.invitation.pick_sections</note>
       </trans-unit>
       <trans-unit id="04b4c40f5a7eabe6c31aa32dacf78b4dfc4f7a62" resname="ibexa.user.invitation.role">
         <source>Select Role</source>
-        <target state="needs-translation">Select Role</target>
+        <target state="translated">Wybierz rolę</target>
         <note>key: ibexa.user.invitation.role</note>
       </trans-unit>
       <trans-unit id="72fa3da181a637ddf261bc9948160611535062ef" resname="ibexa.user.invitation.send_invitation">
         <source>Send invitation</source>
-        <target state="needs-translation">Send invitation</target>
+        <target state="translated">Wyślij zaproszenie</target>
         <note>key: ibexa.user.invitation.send_invitation</note>
       </trans-unit>
       <trans-unit id="ad201158aea7a3eae82b7364341dc0dd218d7436" resname="ibexa.user.invitation.site_access">
         <source>Select Site</source>
-        <target state="needs-translation">Select Site</target>
+        <target state="translated">Wybierz witrynę</target>
         <note>key: ibexa.user.invitation.site_access</note>
       </trans-unit>
     </body>

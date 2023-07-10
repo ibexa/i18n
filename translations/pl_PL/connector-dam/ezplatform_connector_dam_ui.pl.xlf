@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="cc61601fea35048ac9eefb3fb2f19f243c761741" resname="dam.error.message">
         <source>Something went wrong.</source>
-        <target state="needs-translation">Something went wrong.</target>
+        <target state="translated">Ups! Coś poszło nie tak.</target>
         <note>key: dam.error.message</note>
       </trans-unit>
       <trans-unit id="d292169990f89742e58d1ade4e91c698f764699e" resname="dam.modal.title">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="3559d7accf00360971961ca18989adc0614089c0" resname="search">
         <source>Search</source>
-        <target state="needs-translation">Search</target>
+        <target state="translated">Szukaj</target>
         <note>key: search</note>
       </trans-unit>
     </body>

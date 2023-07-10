@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0e70eaeb76b239bd72fbfeff1359fb3dc28d4af7" resname="content.field_type.ezimage.edit">
         <source>Edit image</source>
-        <target state="needs-translation">Edit image</target>
+        <target state="translated">Edytuj obraz</target>
         <note>key: content.field_type.ezimage.edit</note>
       </trans-unit>
     </body>

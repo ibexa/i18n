@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="95639f06e13f36ba07b01ee8cf5753dbe98fe7ba" resname="user.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">作成</target>
         <note>key: user.create</note>
       </trans-unit>
       <trans-unit id="35f124029a019e1546ec5545a6ffa4968f9e4418" resname="user.update">

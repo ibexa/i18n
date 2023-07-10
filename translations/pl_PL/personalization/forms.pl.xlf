@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="15c3ffad9d90e7d492d275a9ea05ecdcdedaace5" resname="role.policy.personalization">
         <source>Personalization</source>
-        <target state="needs-translation">Personalization</target>
+        <target state="translated">Personalizacja</target>
         <note>key: role.policy.personalization</note>
       </trans-unit>
       <trans-unit id="8adcce777544fc53bd13ae39edf718d764867cc2" resname="role.policy.personalization.all_functions">
         <source>Personalization / All functions</source>
-        <target state="needs-translation">Personalization / All functions</target>
+        <target state="translated">Personalizacja / Wszystkie funkcje</target>
         <note>key: role.policy.personalization.all_functions</note>
       </trans-unit>
       <trans-unit id="47b6be1f552d856d8dbea0a9956632d310887e11" resname="role.policy.personalization.edit">
         <source>Personalization / Edit</source>
-        <target state="needs-translation">Personalization / Edit</target>
+        <target state="translated">Personalizacja / Edycja</target>
         <note>key: role.policy.personalization.edit</note>
       </trans-unit>
       <trans-unit id="bef74c3cccc66abd5825c05aa8f58b020270197f" resname="role.policy.personalization.view">
         <source>Personalization / View</source>
-        <target state="needs-translation">Personalization / View</target>
+        <target state="translated">Personalizacja / Widok</target>
         <note>key: role.policy.personalization.view</note>
       </trans-unit>
     </body>

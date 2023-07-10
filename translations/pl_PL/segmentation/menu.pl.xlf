@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2770a2f4ef4a994a13fa54e8bc33c90916016f5b" resname="main__admin__segments">
         <source>Segments</source>
-        <target state="needs-translation">Segments</target>
+        <target state="translated">Segmenty</target>
         <note>key: main__admin__segments</note>
       </trans-unit>
     </body>

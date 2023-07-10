@@ -8,357 +8,357 @@
     <body>
       <trans-unit id="d29c07272fff793138cbb6f7dbb41b08a16ff815" resname="role.policy.all_modules">
         <source>All modules</source>
-        <target state="needs-translation">All modules</target>
+        <target state="translated">Wszystkie moduły</target>
         <note>key: role.policy.all_modules</note>
       </trans-unit>
       <trans-unit id="d4690e1d0c7d2cf0468ab5aa04caa891e1b5efbd" resname="role.policy.all_modules_all_functions">
         <source>All modules / All functions</source>
-        <target state="needs-translation">All modules / All functions</target>
+        <target state="translated">Wszystkie moduły / Wszystkie funkcje</target>
         <note>key: role.policy.all_modules_all_functions</note>
       </trans-unit>
       <trans-unit id="f52e45b25ff70b3d1d07c57911ceda58dcdf7431" resname="role.policy.class">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">Typ treści</target>
         <note>key: role.policy.class</note>
       </trans-unit>
       <trans-unit id="2f746c35c587bdc84cacf38d0e63e08855e831ab" resname="role.policy.class.all_functions">
         <source>Content Type / All functions</source>
-        <target state="needs-translation">Content Type / All functions</target>
+        <target state="translated">Typ treści / Wszystkie funkcje</target>
         <note>key: role.policy.class.all_functions</note>
       </trans-unit>
       <trans-unit id="02049080d0f8dea3f723bbd1a280900b0657914e" resname="role.policy.class.create">
         <source>Content Type / Create</source>
-        <target state="needs-translation">Content Type / Create</target>
+        <target state="translated">Typ treści / Utwórz</target>
         <note>key: role.policy.class.create</note>
       </trans-unit>
       <trans-unit id="17ee6a3320ad9ac02c376bdcb875b266c28e34db" resname="role.policy.class.delete">
         <source>Content Type / Delete</source>
-        <target state="needs-translation">Content Type / Delete</target>
+        <target state="translated">Typ treści / Usuń</target>
         <note>key: role.policy.class.delete</note>
       </trans-unit>
       <trans-unit id="f47b14b0adc8b08abd44c37e801d6b2c3180a2ee" resname="role.policy.class.update">
         <source>Content Type / Update</source>
-        <target state="needs-translation">Content Type / Update</target>
+        <target state="translated">Typ treści / Zaktualizuj</target>
         <note>key: role.policy.class.update</note>
       </trans-unit>
       <trans-unit id="504ce9f80e074eeb880d5ae5f54d4811e2ab6862" resname="role.policy.comparison">
         <source>Comparison</source>
-        <target state="needs-translation">Comparison</target>
+        <target state="translated">Porównanie</target>
         <note>key: role.policy.comparison</note>
       </trans-unit>
       <trans-unit id="aa75e405b40b2c0fb249bbcc690de4e409191dd4" resname="role.policy.comparison.all_functions">
         <source>Comparison / All functions</source>
-        <target state="needs-translation">Comparison / All functions</target>
+        <target state="translated">Porównanie / Wszystkie funkcje</target>
         <note>key: role.policy.comparison.all_functions</note>
       </trans-unit>
       <trans-unit id="0a08a017bb100a4d45400bc82e83c84a89252586" resname="role.policy.comparison.view">
         <source>Comparison / View</source>
-        <target state="needs-translation">Comparison / View</target>
+        <target state="translated">Porównanie / Widok</target>
         <note>key: role.policy.comparison.view</note>
       </trans-unit>
       <trans-unit id="ffe83a713e8b33558df040efa1eeadd0b1cc18e0" resname="role.policy.content">
         <source>Content</source>
-        <target state="needs-translation">Content</target>
+        <target state="translated">Treści</target>
         <note>key: role.policy.content</note>
       </trans-unit>
       <trans-unit id="ea72f76a43bc0ec3eff965e68279dab5597b19c0" resname="role.policy.content.all_functions">
         <source>Content / All functions</source>
-        <target state="needs-translation">Content / All functions</target>
+        <target state="translated">Treści / Wszystkie funkcje</target>
         <note>key: role.policy.content.all_functions</note>
       </trans-unit>
       <trans-unit id="e050709df5ae56b1e9168038182f4c52221ffab9" resname="role.policy.content.cleantrash">
         <source>Content / Cleantrash</source>
-        <target state="needs-translation">Content / Cleantrash</target>
+        <target state="translated">Treści / Wyczyść śmieci</target>
         <note>key: role.policy.content.cleantrash</note>
       </trans-unit>
       <trans-unit id="597c25abf1e2d91e50b82d2699f8b85f68c9f305" resname="role.policy.content.create">
         <source>Content / Create</source>
-        <target state="needs-translation">Content / Create</target>
+        <target state="translated">Treści / Utwórz</target>
         <note>key: role.policy.content.create</note>
       </trans-unit>
       <trans-unit id="019bae55ae37c03117c05eb25cc208e9b2396827" resname="role.policy.content.diff">
         <source>Content / Diff</source>
-        <target state="needs-translation">Content / Diff</target>
+        <target state="translated">Treści / Porównanie różnic</target>
         <note>key: role.policy.content.diff</note>
       </trans-unit>
       <trans-unit id="bdb3e6e10d770d20ffa7966acb58d3e9cf9805e2" resname="role.policy.content.edit">
         <source>Content / Edit</source>
-        <target state="needs-translation">Content / Edit</target>
+        <target state="translated">Treści / Edycja</target>
         <note>key: role.policy.content.edit</note>
       </trans-unit>
       <trans-unit id="1049e14eb7fec2dc053571f607e0eb044a06e455" resname="role.policy.content.hide">
         <source>Content / Hide</source>
-        <target state="needs-translation">Content / Hide</target>
+        <target state="translated">Treści / Ukrywanie</target>
         <note>key: role.policy.content.hide</note>
       </trans-unit>
       <trans-unit id="d05f0b35c91f7d444c466871ff02886d74dc8f55" resname="role.policy.content.manage_locations">
         <source>Content / Manage locations</source>
-        <target state="needs-translation">Content / Manage locations</target>
+        <target state="translated">Treści / Zarządzanie lokalizacjami</target>
         <note>key: role.policy.content.manage_locations</note>
       </trans-unit>
       <trans-unit id="0c943bab11cd582ac439e67289d4efd86d8599e7" resname="role.policy.content.pendinglist">
         <source>Content / Pendinglist</source>
-        <target state="needs-translation">Content / Pendinglist</target>
+        <target state="translated">Treści / Lista oczekująca</target>
         <note>key: role.policy.content.pendinglist</note>
       </trans-unit>
       <trans-unit id="6f595f392af03d8b2e46449d527530e3e1f8eb94" resname="role.policy.content.publish">
         <source>Content / Publish</source>
-        <target state="needs-translation">Content / Publish</target>
+        <target state="translated">Treści / Publikacja</target>
         <note>key: role.policy.content.publish</note>
       </trans-unit>
       <trans-unit id="2b5e52d4783100540d791657f21d9dc1a9fbbb30" resname="role.policy.content.read">
         <source>Content / Read</source>
-        <target state="needs-translation">Content / Read</target>
+        <target state="translated">Treści / Wyświetlanie</target>
         <note>key: role.policy.content.read</note>
       </trans-unit>
       <trans-unit id="967c7d2238b619a63fd0fe00bc0ccd4589e9de4f" resname="role.policy.content.remove">
         <source>Content / Remove</source>
-        <target state="needs-translation">Content / Remove</target>
+        <target state="translated">Treści / Usuwanie</target>
         <note>key: role.policy.content.remove</note>
       </trans-unit>
       <trans-unit id="4ce8821efab15ebdd683e28f0dcffaa352d1ef0f" resname="role.policy.content.restore">
         <source>Content / Restore</source>
-        <target state="needs-translation">Content / Restore</target>
+        <target state="translated">Treści / Przywracanie</target>
         <note>key: role.policy.content.restore</note>
       </trans-unit>
       <trans-unit id="7ad7cd36512ca57f6d6cb31b7de0740d4754961c" resname="role.policy.content.reverserelatedlist">
         <source>Content / Reverserelatedlist</source>
-        <target state="needs-translation">Content / Reverserelatedlist</target>
+        <target state="translated">Treści / Lista odwrotnych powiązań</target>
         <note>key: role.policy.content.reverserelatedlist</note>
       </trans-unit>
       <trans-unit id="c9a69e432793ed3480c2252f3ca1b4e6564e853e" resname="role.policy.content.translate">
         <source>Content / Translate</source>
-        <target state="needs-translation">Content / Translate</target>
+        <target state="translated">Treści / Tłumaczenie</target>
         <note>key: role.policy.content.translate</note>
       </trans-unit>
       <trans-unit id="3f9650d96394bc9e6d53360117d2dd3d6842735f" resname="role.policy.content.translations">
         <source>Content / Translations</source>
-        <target state="needs-translation">Content / Translations</target>
+        <target state="translated">Treści / Tłumaczenia</target>
         <note>key: role.policy.content.translations</note>
       </trans-unit>
       <trans-unit id="79ffa7a2f2449d08574ef7c5b1f447b439db97b2" resname="role.policy.content.urltranslator">
         <source>Content / Urltranslator</source>
-        <target state="needs-translation">Content / Urltranslator</target>
+        <target state="translated">Treści / Tłumacz URL</target>
         <note>key: role.policy.content.urltranslator</note>
       </trans-unit>
       <trans-unit id="0a641d7ab31b48b6b87a9d2cd4763afae237219d" resname="role.policy.content.versionread">
         <source>Content / Versionread</source>
-        <target state="needs-translation">Content / Versionread</target>
+        <target state="translated">Treści / Wyświetlanie wersji</target>
         <note>key: role.policy.content.versionread</note>
       </trans-unit>
       <trans-unit id="4e615fcc14a6f5b70fb3e7957518c27bc508d92f" resname="role.policy.content.versionremove">
         <source>Content / Versionremove</source>
-        <target state="needs-translation">Content / Versionremove</target>
+        <target state="translated">Treści / Usuwanie wersji</target>
         <note>key: role.policy.content.versionremove</note>
       </trans-unit>
       <trans-unit id="81703573067457c42db3d0c8cce70e1d1e0128a5" resname="role.policy.content.view_embed">
         <source>Content / View embed</source>
-        <target state="needs-translation">Content / View embed</target>
+        <target state="translated">Treści / Wyświetlanie osadzonych</target>
         <note>key: role.policy.content.view_embed</note>
       </trans-unit>
       <trans-unit id="15c3ffad9d90e7d492d275a9ea05ecdcdedaace5" resname="role.policy.personalization">
         <source>Personalization</source>
-        <target state="needs-translation">Personalization</target>
+        <target state="translated">Personalizacja</target>
         <note>key: role.policy.personalization</note>
       </trans-unit>
       <trans-unit id="8adcce777544fc53bd13ae39edf718d764867cc2" resname="role.policy.personalization.all_functions">
         <source>Personalization / All functions</source>
-        <target state="needs-translation">Personalization / All functions</target>
+        <target state="translated">Personalizacja / Wszystkie funkcje</target>
         <note>key: role.policy.personalization.all_functions</note>
       </trans-unit>
       <trans-unit id="47b6be1f552d856d8dbea0a9956632d310887e11" resname="role.policy.personalization.edit">
         <source>Personalization / Edit</source>
-        <target state="needs-translation">Personalization / Edit</target>
+        <target state="translated">Personalizacja / Edycja</target>
         <note>key: role.policy.personalization.edit</note>
       </trans-unit>
       <trans-unit id="bef74c3cccc66abd5825c05aa8f58b020270197f" resname="role.policy.personalization.view">
         <source>Personalization / View</source>
-        <target state="needs-translation">Personalization / View</target>
+        <target state="translated">Personalizacja / Widok</target>
         <note>key: role.policy.personalization.view</note>
       </trans-unit>
       <trans-unit id="6ff0bcc1b70d0dbde113af7649393f667612cace" resname="role.policy.role">
         <source>Role</source>
-        <target state="needs-translation">Role</target>
+        <target state="translated">Rola</target>
         <note>key: role.policy.role</note>
       </trans-unit>
       <trans-unit id="17f55c17c76ccfcf636ce429b867f89069609bcd" resname="role.policy.role.all_functions">
         <source>Role / All functions</source>
-        <target state="needs-translation">Role / All functions</target>
+        <target state="translated">Rola / Wszystkie funkcje</target>
         <note>key: role.policy.role.all_functions</note>
       </trans-unit>
       <trans-unit id="cf922ebcfc51ae098cb57a938984916e03c0481c" resname="role.policy.role.assign">
         <source>Role / Assign</source>
-        <target state="needs-translation">Role / Assign</target>
+        <target state="translated">Rola / Przypisanie</target>
         <note>key: role.policy.role.assign</note>
       </trans-unit>
       <trans-unit id="f12cc8bc381274c232a90deae7ce981dbc3634cb" resname="role.policy.role.create">
         <source>Role / Create</source>
-        <target state="needs-translation">Role / Create</target>
+        <target state="translated">Rola / Utworzenie</target>
         <note>key: role.policy.role.create</note>
       </trans-unit>
       <trans-unit id="d17c0339a48c6e273c56673c31037427fd95ecee" resname="role.policy.role.delete">
         <source>Role / Delete</source>
-        <target state="needs-translation">Role / Delete</target>
+        <target state="translated">Rola / Usunięcie</target>
         <note>key: role.policy.role.delete</note>
       </trans-unit>
       <trans-unit id="1e809cc5ab4e914e5dc51fa2dc0a6b62a90bc2f1" resname="role.policy.role.read">
         <source>Role / Read</source>
-        <target state="needs-translation">Role / Read</target>
+        <target state="translated">Rola / Wyświetlenie</target>
         <note>key: role.policy.role.read</note>
       </trans-unit>
       <trans-unit id="2f8dccfd705bd25a633826ff76f595e118a71dcf" resname="role.policy.role.update">
         <source>Role / Update</source>
-        <target state="needs-translation">Role / Update</target>
+        <target state="translated">Rola / Zaktualizowanie</target>
         <note>key: role.policy.role.update</note>
       </trans-unit>
       <trans-unit id="7153cdd53211bedab219659c1d1656693d3bb4ae" resname="role.policy.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Sekcja</target>
         <note>key: role.policy.section</note>
       </trans-unit>
       <trans-unit id="f5e387481bf702e73317dcbccff5d55fc111550e" resname="role.policy.section.all_functions">
         <source>Section / All functions</source>
-        <target state="needs-translation">Section / All functions</target>
+        <target state="translated">Sekcja / Wszystkie funkcje</target>
         <note>key: role.policy.section.all_functions</note>
       </trans-unit>
       <trans-unit id="2f63b236417b33905613e757497387c99e47a848" resname="role.policy.section.assign">
         <source>Section / Assign</source>
-        <target state="needs-translation">Section / Assign</target>
+        <target state="translated">Sekcja / Przypisanie</target>
         <note>key: role.policy.section.assign</note>
       </trans-unit>
       <trans-unit id="9ce67233e7377c7ac36c6ccbdf1a49a582aca59d" resname="role.policy.section.edit">
         <source>Section / Edit</source>
-        <target state="needs-translation">Section / Edit</target>
+        <target state="translated">Sekcja / Edycja</target>
         <note>key: role.policy.section.edit</note>
       </trans-unit>
       <trans-unit id="c80fb60940421ce0b94226255211ec10dc9208b4" resname="role.policy.section.view">
         <source>Section / View</source>
-        <target state="needs-translation">Section / View</target>
+        <target state="translated">Sekcja / Wyświetlenie</target>
         <note>key: role.policy.section.view</note>
       </trans-unit>
       <trans-unit id="fe14b67513fcea11ed2cef38a90d5c4cf91aa532" resname="role.policy.segment">
         <source>Segment</source>
-        <target state="needs-translation">Segment</target>
+        <target state="translated">Segment</target>
         <note>key: role.policy.segment</note>
       </trans-unit>
       <trans-unit id="3939393469a4421bacb5ed2e75f992f6837240ab" resname="role.policy.segment.all_functions">
         <source>Segment / All functions</source>
-        <target state="needs-translation">Segment / All functions</target>
+        <target state="translated">Segment / Wszystkie funkcje</target>
         <note>key: role.policy.segment.all_functions</note>
       </trans-unit>
       <trans-unit id="6b9aadd7750a5f4b5331660d42c358959335b826" resname="role.policy.segment.assign_to_user">
         <source>Segment / Assign to user</source>
-        <target state="needs-translation">Segment / Assign to user</target>
+        <target state="translated">Segment / Przypisanie do użytkownika</target>
         <note>key: role.policy.segment.assign_to_user</note>
       </trans-unit>
       <trans-unit id="09a0c2388423585b64a6703b275eca4bb2e92777" resname="role.policy.segment.create">
         <source>Segment / Create</source>
-        <target state="needs-translation">Segment / Create</target>
+        <target state="translated">Segment / Utworzenie</target>
         <note>key: role.policy.segment.create</note>
       </trans-unit>
       <trans-unit id="506b3e8dca9edee470906099f4e5e766e47e1506" resname="role.policy.segment.read">
         <source>Segment / Read</source>
-        <target state="needs-translation">Segment / Read</target>
+        <target state="translated">Segment / Wyświetlenie</target>
         <note>key: role.policy.segment.read</note>
       </trans-unit>
       <trans-unit id="9cc5de1950915f9efcff2fcd8f7180eb7071c5cb" resname="role.policy.segment.remove">
         <source>Segment / Remove</source>
-        <target state="needs-translation">Segment / Remove</target>
+        <target state="translated">Segment / Usuń</target>
         <note>key: role.policy.segment.remove</note>
       </trans-unit>
       <trans-unit id="0c055076bc059993f1e44092473b7006ae34df96" resname="role.policy.segment.update">
         <source>Segment / Update</source>
-        <target state="needs-translation">Segment / Update</target>
+        <target state="translated">Segment / Aktualizuj</target>
         <note>key: role.policy.segment.update</note>
       </trans-unit>
       <trans-unit id="c105a8689a3c11e6c3cc7840662eab1832989141" resname="role.policy.segment.view_user_segment_list">
         <source>Segment / View user segment list</source>
-        <target state="needs-translation">Segment / View user segment list</target>
+        <target state="translated">Segment / Zobacz listę segmentów użytkowników</target>
         <note>key: role.policy.segment.view_user_segment_list</note>
       </trans-unit>
       <trans-unit id="80900cd56c795ae32bc19af548c92ec378d7df63" resname="role.policy.segment_group">
         <source>Segment group</source>
-        <target state="needs-translation">Segment group</target>
+        <target state="translated">Grupa segmentów</target>
         <note>key: role.policy.segment_group</note>
       </trans-unit>
       <trans-unit id="f9cfe551c8bc01921b694a54d0038e93e289d38f" resname="role.policy.segment_group.all_functions">
         <source>Segment group / All functions</source>
-        <target state="needs-translation">Segment group / All functions</target>
+        <target state="translated">Grupa Segmentów / Wszystkie funkcje</target>
         <note>key: role.policy.segment_group.all_functions</note>
       </trans-unit>
       <trans-unit id="6540ac8a8b75f8b8865aba1ef496c7cf25230a2b" resname="role.policy.segment_group.create">
         <source>Segment group / Create</source>
-        <target state="needs-translation">Segment group / Create</target>
+        <target state="translated">Grupa Segmentów / Utwórz</target>
         <note>key: role.policy.segment_group.create</note>
       </trans-unit>
       <trans-unit id="20ec96c7e8a543e6db46087e1bdf8d57536fa87f" resname="role.policy.segment_group.read">
         <source>Segment group / Read</source>
-        <target state="needs-translation">Segment group / Read</target>
+        <target state="translated">Grupa Segmentów / Wyświetl</target>
         <note>key: role.policy.segment_group.read</note>
       </trans-unit>
       <trans-unit id="7d82357527b29fc05f07816c1eaf134a07896df0" resname="role.policy.segment_group.remove">
         <source>Segment group / Remove</source>
-        <target state="needs-translation">Segment group / Remove</target>
+        <target state="translated">Grupa Segmentów / Usuń</target>
         <note>key: role.policy.segment_group.remove</note>
       </trans-unit>
       <trans-unit id="85913834465cd211b38d0d8b21e6828f94b38df3" resname="role.policy.segment_group.update">
         <source>Segment group / Update</source>
-        <target state="needs-translation">Segment group / Update</target>
+        <target state="translated">Grupa Segmentów / Aktualizuj</target>
         <note>key: role.policy.segment_group.update</note>
       </trans-unit>
       <trans-unit id="5f165ef2e938f6710b56e2e8ee416414e430b77c" resname="role.policy.setting">
         <source>Setting</source>
-        <target state="needs-translation">Setting</target>
+        <target state="translated">Ustawienie</target>
         <note>key: role.policy.setting</note>
       </trans-unit>
       <trans-unit id="8775d52b987252ee1ad0867fe4f9e23dec668b5b" resname="role.policy.setting.all_functions">
         <source>Setting / All functions</source>
-        <target state="needs-translation">Setting / All functions</target>
+        <target state="translated">Ustawienie / Wszystkie funkcje</target>
         <note>key: role.policy.setting.all_functions</note>
       </trans-unit>
       <trans-unit id="686f427740ca0cf4df247266b8a1300d747cf3a4" resname="role.policy.setting.create">
         <source>Setting / Create</source>
-        <target state="needs-translation">Setting / Create</target>
+        <target state="translated">Ustawienie / Tworzenie</target>
         <note>key: role.policy.setting.create</note>
       </trans-unit>
       <trans-unit id="d41141e8fa3c214bc546a6925304c15ee9a28022" resname="role.policy.setting.remove">
         <source>Setting / Remove</source>
-        <target state="needs-translation">Setting / Remove</target>
+        <target state="translated">Ustawienie / Usuwanie</target>
         <note>key: role.policy.setting.remove</note>
       </trans-unit>
       <trans-unit id="14fa9c5afba9d51072c6a66dede46535b718f77e" resname="role.policy.setting.update">
         <source>Setting / Update</source>
-        <target state="needs-translation">Setting / Update</target>
+        <target state="translated">Ustawienie / Aktualizacja</target>
         <note>key: role.policy.setting.update</note>
       </trans-unit>
       <trans-unit id="33092ebd51699d4d3f598b8488e7bc5969038bff" resname="role.policy.setup">
         <source>Setup</source>
-        <target state="needs-translation">Setup</target>
+        <target state="translated">Ustawienia</target>
         <note>key: role.policy.setup</note>
       </trans-unit>
       <trans-unit id="a72fa98205c4f68fc53506f9b57e645be450ce86" resname="role.policy.setup.administrate">
         <source>Setup / Administrate</source>
-        <target state="needs-translation">Setup / Administrate</target>
+        <target state="translated">Ustawienia / Administruj</target>
         <note>key: role.policy.setup.administrate</note>
       </trans-unit>
       <trans-unit id="df52828e26336a4a6f3186e0d6eb75d98056aeaa" resname="role.policy.setup.all_functions">
         <source>Setup / All functions</source>
-        <target state="needs-translation">Setup / All functions</target>
+        <target state="translated">Ustawienia / Wszystkie funkcje</target>
         <note>key: role.policy.setup.all_functions</note>
       </trans-unit>
       <trans-unit id="32c1032c29386bcf41793f2542b3476887249bc5" resname="role.policy.setup.install">
         <source>Setup / Install</source>
-        <target state="needs-translation">Setup / Install</target>
+        <target state="translated">Ustawienia / Instalacja</target>
         <note>key: role.policy.setup.install</note>
       </trans-unit>
       <trans-unit id="4ce0aa17f80167751257ddb6e0cc8e06ca9c1bbb" resname="role.policy.setup.setup">
         <source>Setup / Setup</source>
-        <target state="needs-translation">Setup / Setup</target>
+        <target state="translated">Ustawienia / Ustawienia</target>
         <note>key: role.policy.setup.setup</note>
       </trans-unit>
       <trans-unit id="a77dcd2893dc76a7e94fe088b775045fde8651e4" resname="role.policy.setup.system_info">
         <source>Setup / System info</source>
-        <target state="needs-translation">Setup / System info</target>
+        <target state="translated">Ustawienia / Informacje o systemie</target>
         <note>key: role.policy.setup.system_info</note>
       </trans-unit>
       <trans-unit id="029ea67634ff66aa9afd7c8850ebf6abe0f2e7be" resname="role.policy.siso_control_center">
@@ -513,177 +513,177 @@
       </trans-unit>
       <trans-unit id="ca5cbff667a1c069eb8b95791ce0d99575da77c7" resname="role.policy.siso_policy.orderhistory_view">
         <source>Siso policy / Orderhistory view</source>
-        <target state="needs-translation">Siso policy / Orderhistory view</target>
+        <target state="translated">Polityka Siso / Widok historii zamówień</target>
         <note>key: role.policy.siso_policy.orderhistory_view</note>
       </trans-unit>
       <trans-unit id="9711026ce5d7f383f5b2254deb8b0202e048dcec" resname="role.policy.siso_policy.quickorder">
         <source>Siso policy / Quickorder</source>
-        <target state="needs-translation">Siso policy / Quickorder</target>
+        <target state="translated">Polityka Siso / Szybkie zamówienie</target>
         <note>key: role.policy.siso_policy.quickorder</note>
       </trans-unit>
       <trans-unit id="b15b9699a7bf845ed87f812d8aa33f0a045e9193" resname="role.policy.siso_policy.rating_review">
         <source>Siso policy / Rating review</source>
-        <target state="needs-translation">Siso policy / Rating review</target>
+        <target state="translated">Polityka Siso / Przegląd ocen</target>
         <note>key: role.policy.siso_policy.rating_review</note>
       </trans-unit>
       <trans-unit id="82fb01df828843524e88fc46a99f1309166365da" resname="role.policy.siso_policy.read_basket">
         <source>Siso policy / Read basket</source>
-        <target state="needs-translation">Siso policy / Read basket</target>
+        <target state="translated">Polityka Siso / Przeglądaj koszyk</target>
         <note>key: role.policy.siso_policy.read_basket</note>
       </trans-unit>
       <trans-unit id="1e26e0c4e32f262b67793f019b92099edc8d172c" resname="role.policy.siso_policy.read_customers_and_orders">
         <source>Siso policy / Read customers and orders</source>
-        <target state="needs-translation">Siso policy / Read customers and orders</target>
+        <target state="translated">Polityka Siso / Podgląd danych klientów i zamówień</target>
         <note>key: role.policy.siso_policy.read_customers_and_orders</note>
       </trans-unit>
       <trans-unit id="ce07309083f3e9bbc06557a454f86d028bc0b37a" resname="role.policy.siso_policy.see_product_price">
         <source>Siso policy / See product price</source>
-        <target state="needs-translation">Siso policy / See product price</target>
+        <target state="translated">Polityka Siso / Podgląd ceny produktu</target>
         <note>key: role.policy.siso_policy.see_product_price</note>
       </trans-unit>
       <trans-unit id="a0be285570ab4606874b408bce8d9097d3ef8a52" resname="role.policy.siso_policy.translations">
         <source>Siso policy / Translations</source>
-        <target state="needs-translation">Siso policy / Translations</target>
+        <target state="translated">Polityka Siso / Tłumaczenia</target>
         <note>key: role.policy.siso_policy.translations</note>
       </trans-unit>
       <trans-unit id="b7006b9e044c2aea8159bac92bd8d70c0eca978d" resname="role.policy.siso_policy.update_exchange_rates">
         <source>Siso policy / Update exchange rates</source>
-        <target state="needs-translation">Siso policy / Update exchange rates</target>
+        <target state="translated">Polityka Siso / Aktualizacja kursów wymiany</target>
         <note>key: role.policy.siso_policy.update_exchange_rates</note>
       </trans-unit>
       <trans-unit id="b9bc8a260965f23a45db9ce5b412757b41dc1c55" resname="role.policy.siso_policy.write_basket">
         <source>Siso policy / Write basket</source>
-        <target state="needs-translation">Siso policy / Write basket</target>
+        <target state="translated">Polityka Siso / Zapisanie koszyka</target>
         <note>key: role.policy.siso_policy.write_basket</note>
       </trans-unit>
       <trans-unit id="2e2e751bf3201fb6c68307c683a3ac384b9ec0cf" resname="role.policy.site">
         <source>Site</source>
-        <target state="needs-translation">Site</target>
+        <target state="translated">Strona</target>
         <note>key: role.policy.site</note>
       </trans-unit>
       <trans-unit id="8a7be79652e042c41e49671038f309291c780c78" resname="role.policy.site.all_functions">
         <source>Site / All functions</source>
-        <target state="needs-translation">Site / All functions</target>
+        <target state="translated">Strona / Wszystkie funkcje</target>
         <note>key: role.policy.site.all_functions</note>
       </trans-unit>
       <trans-unit id="fa041654ee2bd9a54a870675fc96399dac830b73" resname="role.policy.site.change_status">
         <source>Site / Change status</source>
-        <target state="needs-translation">Site / Change status</target>
+        <target state="translated">Strona / Zmień status</target>
         <note>key: role.policy.site.change_status</note>
       </trans-unit>
       <trans-unit id="7974d9702481b771e623dd447d3df7d8e7350e7b" resname="role.policy.site.create">
         <source>Site / Create</source>
-        <target state="needs-translation">Site / Create</target>
+        <target state="translated">Strona / Utworzenie</target>
         <note>key: role.policy.site.create</note>
       </trans-unit>
       <trans-unit id="45e0983429e1df736d0c26b5b9c62a8f522c5c00" resname="role.policy.site.delete">
         <source>Site / Delete</source>
-        <target state="needs-translation">Site / Delete</target>
+        <target state="translated">Strona / Usunięcie</target>
         <note>key: role.policy.site.delete</note>
       </trans-unit>
       <trans-unit id="f473815a92d4ec35eeaa54464164aa98119594df" resname="role.policy.site.edit">
         <source>Site / Edit</source>
-        <target state="needs-translation">Site / Edit</target>
+        <target state="translated">Strona / Edycja</target>
         <note>key: role.policy.site.edit</note>
       </trans-unit>
       <trans-unit id="34b7e317be37673c466c03c644176ffb618295a8" resname="role.policy.site.view">
         <source>Site / View</source>
-        <target state="needs-translation">Site / View</target>
+        <target state="translated">Strona / Wyświetlenie</target>
         <note>key: role.policy.site.view</note>
       </trans-unit>
       <trans-unit id="012dce76ef569ba377ffe98ddbee8d3c3d270e15" resname="role.policy.state">
         <source>State</source>
-        <target state="needs-translation">State</target>
+        <target state="translated">Stan</target>
         <note>key: role.policy.state</note>
       </trans-unit>
       <trans-unit id="0dc3b2e6978f026be583bcf078e15c4157a51d19" resname="role.policy.state.administrate">
         <source>State / Administrate</source>
-        <target state="needs-translation">State / Administrate</target>
+        <target state="translated">Stan / Administracja</target>
         <note>key: role.policy.state.administrate</note>
       </trans-unit>
       <trans-unit id="5a57c4086c786d6c767dfca68486d64c60ec58bf" resname="role.policy.state.all_functions">
         <source>State / All functions</source>
-        <target state="needs-translation">State / All functions</target>
+        <target state="translated">Stan / Wszystkie funkcje</target>
         <note>key: role.policy.state.all_functions</note>
       </trans-unit>
       <trans-unit id="8c144b2e58f6ba9388517a5929bfd12a0773ddd2" resname="role.policy.state.assign">
         <source>State / Assign</source>
-        <target state="needs-translation">State / Assign</target>
+        <target state="translated">Stan / Przypisanie</target>
         <note>key: role.policy.state.assign</note>
       </trans-unit>
       <trans-unit id="73c3d3a21c7264a991abf4e6ffe68751a1dbdb58" resname="role.policy.url">
         <source>Url</source>
-        <target state="needs-translation">Url</target>
+        <target state="translated">URL</target>
         <note>key: role.policy.url</note>
       </trans-unit>
       <trans-unit id="4b00222e7c5b268480fe9db2de1744d0f25b677f" resname="role.policy.url.all_functions">
         <source>Url / All functions</source>
-        <target state="needs-translation">Url / All functions</target>
+        <target state="translated">URL / Wszystkie funkcje</target>
         <note>key: role.policy.url.all_functions</note>
       </trans-unit>
       <trans-unit id="4bf7f289b67892bf61f10b4f9a1db7b6dc09e69a" resname="role.policy.url.update">
         <source>Url / Update</source>
-        <target state="needs-translation">Url / Update</target>
+        <target state="translated">URL / Aktualizacja</target>
         <note>key: role.policy.url.update</note>
       </trans-unit>
       <trans-unit id="a9e0e8261157424542b507b9ae39b4e1193d24cd" resname="role.policy.url.view">
         <source>Url / View</source>
-        <target state="needs-translation">Url / View</target>
+        <target state="translated">URL / Wyświetlenie</target>
         <note>key: role.policy.url.view</note>
       </trans-unit>
       <trans-unit id="78b9d0d52e636ef2d0d1f919de16154404c2be0f" resname="role.policy.user">
         <source>User</source>
-        <target state="needs-translation">User</target>
+        <target state="translated">Użytkownik</target>
         <note>key: role.policy.user</note>
       </trans-unit>
       <trans-unit id="647dfa7992026277b6d73295b2ffaefe4cfa12d0" resname="role.policy.user.activation">
         <source>User / Activation</source>
-        <target state="needs-translation">User / Activation</target>
+        <target state="translated">Użytkownik / Aktywacja</target>
         <note>key: role.policy.user.activation</note>
       </trans-unit>
       <trans-unit id="d44ce8c33cbc780cff9ca6f05ad2f70002550cd0" resname="role.policy.user.all_functions">
         <source>User / All functions</source>
-        <target state="needs-translation">User / All functions</target>
+        <target state="translated">Użytkownik / Wszystkie funkcje</target>
         <note>key: role.policy.user.all_functions</note>
       </trans-unit>
       <trans-unit id="f25505dc2f59df21e3125664c4fdad951d82df3b" resname="role.policy.user.login">
         <source>User / Login</source>
-        <target state="needs-translation">User / Login</target>
+        <target state="translated">Użytkownik / Logowanie</target>
         <note>key: role.policy.user.login</note>
       </trans-unit>
       <trans-unit id="d971078868184d3d233fb14032fda9ef614c2baa" resname="role.policy.user.password">
         <source>User / Password</source>
-        <target state="needs-translation">User / Password</target>
+        <target state="translated">Użytkownik / Hasło</target>
         <note>key: role.policy.user.password</note>
       </trans-unit>
       <trans-unit id="28d15501824f89951d4068af32fbc52eb1412b8d" resname="role.policy.user.preferences">
         <source>User / Preferences</source>
-        <target state="needs-translation">User / Preferences</target>
+        <target state="translated">Użytkownik / Ustawienia</target>
         <note>key: role.policy.user.preferences</note>
       </trans-unit>
       <trans-unit id="8f79f6008557e588c0a8b13ccdc42d6babc073c9" resname="role.policy.user.register">
         <source>User / Register</source>
-        <target state="needs-translation">User / Register</target>
+        <target state="translated">Użytkownik / Rejestracja</target>
         <note>key: role.policy.user.register</note>
       </trans-unit>
       <trans-unit id="106b2a3fa38c660c838efe1905c904ce689a2d75" resname="role.policy.user.selfedit">
         <source>User / Selfedit</source>
-        <target state="needs-translation">User / Selfedit</target>
+        <target state="translated">Użytkownik / Edycja samego siebe</target>
         <note>key: role.policy.user.selfedit</note>
       </trans-unit>
       <trans-unit id="30c5e1c11a520e499ad68130a2c7b844c2243888" resname="role.policy.workflow">
         <source>Workflow</source>
-        <target state="needs-translation">Workflow</target>
+        <target state="translated">Przepływ pracy</target>
         <note>key: role.policy.workflow</note>
       </trans-unit>
       <trans-unit id="2b2742373d60445d02b866c30e21db99f0755ae6" resname="role.policy.workflow.all_functions">
         <source>Workflow / All functions</source>
-        <target state="needs-translation">Workflow / All functions</target>
+        <target state="translated">Przepływ pracy / Wszystkie funkcje</target>
         <note>key: role.policy.workflow.all_functions</note>
       </trans-unit>
       <trans-unit id="4ec99016d9af53130aaf043f9b6bce7ced2a1739" resname="role.policy.workflow.change_stage">
         <source>Workflow / Change stage</source>
-        <target state="needs-translation">Workflow / Change stage</target>
+        <target state="translated">Przepływ pracy / Zmień etap</target>
         <note>key: role.policy.workflow.change_stage</note>
       </trans-unit>
     </body>

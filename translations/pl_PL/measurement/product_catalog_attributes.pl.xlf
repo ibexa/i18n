@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="c81c5b47ca025e724b968f7f0d9b47334565d0fc" resname="product_catalog.attribute.ibexa_measurement.defaultRangeMinimumValue">
         <source>Default Value</source>
-        <target state="needs-translation">Default Value</target>
+        <target state="translated">Warość domyślna</target>
         <note>key: product_catalog.attribute.ibexa_measurement.defaultRangeMinimumValue</note>
       </trans-unit>
       <trans-unit id="1ecf060ab5604be0f1f1c2f9bf9eb6707565090c" resname="product_catalog.attribute.ibexa_measurement.default_value">
         <source>Default value</source>
-        <target state="needs-translation">Default value</target>
+        <target state="translated">Wartość domyślna</target>
         <note>key: product_catalog.attribute.ibexa_measurement.default_value</note>
       </trans-unit>
       <trans-unit id="06f7b577c7efd6d098d97d69443d01e34a96ec1b" resname="product_catalog.attribute.ibexa_measurement.maximum">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="8f1484a93a693b41876c0f6c9a1b5c068f17bed0" resname="product_catalog.attribute.ibexa_measurement.minimum">
         <source>Minimum</source>
-        <target state="needs-translation">Minimum</target>
+        <target state="translated">Minimum</target>
         <note>key: product_catalog.attribute.ibexa_measurement.minimum</note>
       </trans-unit>
     </body>

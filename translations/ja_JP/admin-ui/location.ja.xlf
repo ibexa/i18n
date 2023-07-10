@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="80667bf788ad872d935d0f450ea556ad631010f4" resname="location.assign_section.success">
         <source>Subtree assigned to Section '%name%'</source>
-        <target state="needs-translation">Subtree assigned to Section '%name%'</target>
+        <target state="translated">セクション '%name% ' に割り当てられたサブツリー</target>
         <note>key: location.assign_section.success</note>
       </trans-unit>
       <trans-unit id="7f616359fa64ad9a44aba2d7eeebfde7aac7f16f" resname="location.copy.success">

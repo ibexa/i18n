@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="63bb25b1f9154e4a451f0940afacd58edd948f45" resname="ezcontentquery.no_defined_query_types">
         <source>There are no query types defined</source>
-        <target state="needs-translation">There are no query types defined</target>
+        <target state="translated">Brak zdefiniowanych typów zapytań</target>
         <note>key: ezcontentquery.no_defined_query_types</note>
       </trans-unit>
       <trans-unit id="95e9fc9f8e314bbd35a18372cd7888be0a1ec1e0" resname="ezcontentquery.query_type.label">
         <source>Query type:</source>
-        <target state="needs-translation">Query type:</target>
+        <target state="translated">Rodzaj zapytania:</target>
         <note>key: ezcontentquery.query_type.label</note>
       </trans-unit>
     </body>

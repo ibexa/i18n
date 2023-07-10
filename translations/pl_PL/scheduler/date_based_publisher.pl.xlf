@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="abc38732fdbe14754853444c67f4ab5fb2cc30bb" resname="content.hidden">
         <source>Content hidden</source>
-        <target state="needs-translation">Content hidden</target>
+        <target state="translated">Zawartość ukryta</target>
         <note>key: content.hidden</note>
       </trans-unit>
       <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review" approved="yes">
@@ -148,22 +148,22 @@
       </trans-unit>
       <trans-unit id="9b09b4b8d96e4b4ca308efe64aa87fe6bd3e5398" resname="dashboard.my_scheduled.table.unschedule_modal.title">
         <source>Cancel publication</source>
-        <target state="needs-translation">Cancel publication</target>
+        <target state="translated">Anuluj publikację</target>
         <note>key: dashboard.my_scheduled.table.unschedule_modal.title</note>
       </trans-unit>
       <trans-unit id="376d5063e9ae1c8d520f8cf514d736970ddbf0dc" resname="dashboard.scheduling.modal.content_type">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">Typ treści</target>
         <note>key: dashboard.scheduling.modal.content_type</note>
       </trans-unit>
       <trans-unit id="83603383d2345f88c862846db22f099a5b096d63" resname="dashboard.scheduling.modal.creation_date">
         <source>Creation date</source>
-        <target state="needs-translation">Creation date</target>
+        <target state="translated">Data utworzenia</target>
         <note>key: dashboard.scheduling.modal.creation_date</note>
       </trans-unit>
       <trans-unit id="bbe04767f0375f92f75f5af2141911d222faaca6" resname="dashboard.scheduling.modal.creator">
         <source>Creator</source>
-        <target state="needs-translation">Creator</target>
+        <target state="translated">Autor</target>
         <note>key: dashboard.scheduling.modal.creator</note>
       </trans-unit>
       <trans-unit id="78fe84d8eeaad5a5fc2bbb77ee6a0decc647fe65" resname="dashboard.scheduling.modal.date_and_time">

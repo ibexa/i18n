@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="49e4bb0d65886b324636447dfce806cea0dc9ccc" resname="event.date">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Data</target>
         <note>key: event.date</note>
       </trans-unit>
       <trans-unit id="72a430a9747ccc122d0d362a2d85bd9aff1858cf" resname="event.hide_block.title">
         <source>Hide block</source>
-        <target state="needs-translation">Hide block</target>
+        <target state="translated">Ukryj blok</target>
         <note>key: event.hide_block.title</note>
       </trans-unit>
       <trans-unit id="4ed8d3970d39af4bdd24bd15a6bb406fda63bd09" resname="event.reveal_block.title">
         <source>Reveal block</source>
-        <target state="needs-translation">Reveal block</target>
+        <target state="translated">Pokaż blok</target>
         <note>key: event.reveal_block.title</note>
       </trans-unit>
       <trans-unit id="4795deb1e3cccc2572408602ff718b8f9efee4c1" resname="event.schedule_block.item_added.title">
         <source>%contentTypeName% '%contentName%' added to block %blockName%</source>
-        <target state="needs-translation">%contentTypeName% '%contentName%' added to block %blockName%</target>
+        <target state="translated">%contentTypeName% '%contentName%' dodano do bloku %blockName%</target>
         <note>key: event.schedule_block.item_added.title</note>
       </trans-unit>
     </body>

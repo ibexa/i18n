@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="dfb5fd4a5dec38539847d92bb5e8417c5b82b96a" resname="ezboolean.yes">
         <source>Yes</source>
-        <target state="needs-translation">Yes</target>
+        <target state="translated">Tak</target>
         <note>key: ezboolean.yes</note>
       </trans-unit>
       <trans-unit id="a871dec7f18c06b9061bc2aae9af1aafe1ad1600" resname="ezdatetime.useseconds.enabled">
         <source>`The date format is based on your user preferences and does not include seconds even if the Field allows it`</source>
-        <target state="needs-translation">`The date format is based on your user preferences and does not include seconds even if the Field allows it`</target>
+        <target state="translated">`Format daty jest oparty na Twoich ustawieniach użytkownika i nie zawiera sekund, nawet jeśli pole na to pozwala`</target>
         <note>key: ezdatetime.useseconds.enabled</note>
       </trans-unit>
       <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address" approved="yes">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="d34002f3e81ae0592b02f40872388e0adea41279" resname="ezimage.width_and_height">
         <source>Width: %width%px height: %height%px</source>
-        <target state="needs-translation">Width: %width%px height: %height%px</target>
+        <target state="translated">Szerokość: %width%px wysokość: %height%px</target>
         <note>key: ezimage.width_and_height</note>
       </trans-unit>
       <trans-unit id="85038ddf9e38bbf3da26c38adff609012d65a53a" resname="ezimageasset.alternative_text">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="c63a925d645b5365654bfaa2e5ac129280388bc0" resname="ezimageasset.not_available">
         <source>Image asset is not available (related content has been deleted or you have insufficient permissions)</source>
-        <target state="needs-translation">Image asset is not available (related content has been deleted or you have insufficient permissions)</target>
+        <target state="translated">Zasób obrazu nie jest dostępny (powiązana treść została usunięta lub nie posiadasz odpowiednich uprawnień)</target>
         <note>key: ezimageasset.not_available</note>
       </trans-unit>
       <trans-unit id="9d8611731543740ff64e9e1a69f9c18812301879" resname="ezimageasset.ratio">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="06c54d9e5476af34defb52323b7b1ebacce6a38c" resname="ezimageasset.width_and_height">
         <source>Width: %width%px height: %height%px</source>
-        <target state="needs-translation">Width: %width%px height: %height%px</target>
+        <target state="translated">Szerokość: %width%px wysokość: %height%px</target>
         <note>key: ezimageasset.width_and_height</note>
       </trans-unit>
       <trans-unit id="e371d4573dda857ef4a58cebd2420f87992b8864" resname="ezmedia.auto_play">
         <source>Autoplay</source>
-        <target state="needs-translation">Autoplay</target>
+        <target state="translated">Autoodtwarzanie</target>
         <note>key: ezmedia.auto_play</note>
       </trans-unit>
       <trans-unit id="84c1e46564bf281d22c3b554a0af412a8bbbdacc" resname="ezmedia.browser_does_not_support_html5_video" approved="yes">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ezobjectrelation.version_created">
         <source>Version created</source>
-        <target state="needs-translation">Version created</target>
+        <target state="translated">Wersja utworzona</target>
         <note>key: ezobjectrelation.version_created</note>
       </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type" approved="yes">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="eb451c657d2bd24b90aaea1619ba0ffb33ba52cc" resname="ezuser.email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">Email</target>
         <note>key: ezuser.email</note>
       </trans-unit>
       <trans-unit id="09acf9d3220515cf63f284525c54ed3f88b7a396" resname="ezuser.enabled" approved="yes">

@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="0f7bbe027d2c53c78c7b3ce938af6c0ef6c1c2e2" resname="ezplatform.forgot_user_password.reset">
         <source>Reset</source>
-        <target state="needs-translation">Reset</target>
+        <target state="translated">リセット</target>
         <note>key: ezplatform.forgot_user_password.reset</note>
       </trans-unit>
       <trans-unit id="44c91aa5708f9b819f7f84b00925dc19d6798341" resname="ezplatform.forgot_user_password.send">
@@ -63,12 +63,12 @@
       </trans-unit>
       <trans-unit id="ab90b332cf5f8d29b421427cdfc2ec676d5bebdb" resname="ibexa.user.invitation.email">
         <source>Enter email</source>
-        <target state="needs-translation">Enter email</target>
+        <target state="translated">メールアドレスを入力してください</target>
         <note>key: ibexa.user.invitation.email</note>
       </trans-unit>
       <trans-unit id="40edf918af3b2d9085e2ecaa98cfd004f13fc226" resname="ibexa.user.invitation.group">
         <source>Select Group</source>
-        <target state="needs-translation">Select Group</target>
+        <target state="translated">グループを選択</target>
         <note>key: ibexa.user.invitation.group</note>
       </trans-unit>
       <trans-unit id="6b827dc215e0b48c99cd9c687dcf7eb2516ea04c" resname="ibexa.user.invitation.location_id">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="ad201158aea7a3eae82b7364341dc0dd218d7436" resname="ibexa.user.invitation.site_access">
         <source>Select Site</source>
-        <target state="needs-translation">Select Site</target>
+        <target state="translated">サイトを選択</target>
         <note>key: ibexa.user.invitation.site_access</note>
       </trans-unit>
     </body>

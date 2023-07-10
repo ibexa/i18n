@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="cdea1f34eff224ab9592f83235d861466aaec351" resname="tab.label.scheduler">
         <source>Scheduler</source>
-        <target state="needs-translation">Scheduler</target>
+        <target state="translated">Harmonogram</target>
         <note>key: tab.label.scheduler</note>
       </trans-unit>
     </body>

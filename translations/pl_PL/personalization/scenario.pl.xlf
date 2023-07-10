@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="58c4de4f2b038c7fc694aeac48b9e7c1f71ee6f3" resname="ibexa_personalization.scenario.do_not_recommend_if_price_unknown">
         <source>Do not recommend if price unknown</source>
-        <target state="needs-translation">Do not recommend if price unknown</target>
+        <target state="translated">Nie rekomenduj jeśli cena jest nieznana</target>
         <note>key: ibexa_personalization.scenario.do_not_recommend_if_price_unknown</note>
       </trans-unit>
       <trans-unit id="a8025af1651d2099c2107775225bcc387c2ce030" resname="ibexa_personalization.scenario.do_not_recommend_items_the_user_already_consumed">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="dd66a1fe6db995357401eafaf77270921183d675" resname="ibexa_personalization.scenario.no_context_items">
         <source>No context items</source>
-        <target state="needs-translation">No context items</target>
+        <target state="translated">Brak elementów</target>
         <note>key: ibexa_personalization.scenario.no_context_items</note>
       </trans-unit>
       <trans-unit id="c8b54a3dacff4f6a0b14755dfc400fab47c3d5e7" resname="ibexa_personalization.scenario.no_top_selling_items">
@@ -58,32 +58,32 @@
       </trans-unit>
       <trans-unit id="ab9e7870732261d79e13f05882a03f0c6c2e86eb" resname="ibexa_personalization.scenario.user_attribute_has_different_name">
         <source><![CDATA[User attribute has different name <strong>%attr_name%</strong>]]></source>
-        <target state="needs-translation"><![CDATA[User attribute has different name <strong>%attr_name%</strong>]]></target>
+        <target state="translated"><![CDATA[Atrybut użytkownika ma inną nazwę <strong>%attr_name%</strong>]]></target>
         <note>key: ibexa_personalization.scenario.user_attribute_has_different_name</note>
       </trans-unit>
       <trans-unit id="6cd8333da58d5be29fb9a255c0f5bf51afadd86a" resname="preview.action_name">
         <source>Preview</source>
-        <target state="needs-translation">Preview</target>
+        <target state="translated">Podgląd</target>
         <note>key: preview.action_name</note>
       </trans-unit>
       <trans-unit id="e148b89b813361c04859d8cb2297a078591f3b08" resname="preview.copy_btn.message">
         <source>Copied!</source>
-        <target state="needs-translation">Copied!</target>
+        <target state="translated">Skopiowano!</target>
         <note>key: preview.copy_btn.message</note>
       </trans-unit>
       <trans-unit id="625f527678ea5c31afdaf96e4d79d4fbff7da961" resname="preview.generated_url">
         <source>Generated url</source>
-        <target state="needs-translation">Generated url</target>
+        <target state="translated">Wygenerowany adres url</target>
         <note>key: preview.generated_url</note>
       </trans-unit>
       <trans-unit id="a78422aaea106eeaf7ae4309b20c87cbcb1a1322" resname="preview.no_recommenations.text">
         <source>No recommendations available</source>
-        <target state="needs-translation">No recommendations available</target>
+        <target state="translated">Brak dostępnych rekomendacji</target>
         <note>key: preview.no_recommenations.text</note>
       </trans-unit>
       <trans-unit id="934cce1488b5d3dcb5a9412c64a6abe1b1aee00c" resname="preview.response.card.header.title">
         <source>Header</source>
-        <target state="needs-translation">Header</target>
+        <target state="translated">Nagłówek</target>
         <note>key: preview.response.card.header.title</note>
       </trans-unit>
       <trans-unit id="09ce9cb6e8aca233e6c4b9f10f6b9b6125a6de23" resname="preview.response.title">
@@ -93,22 +93,22 @@
       </trans-unit>
       <trans-unit id="74a146bbd3dc21ef09999804dadfe29b3c5c1bd1" resname="preview.response.toggler.hide">
         <source>Hide response code</source>
-        <target state="needs-translation">Hide response code</target>
+        <target state="translated">Ukryj kod odpowiedzi</target>
         <note>key: preview.response.toggler.hide</note>
       </trans-unit>
       <trans-unit id="5987fd4da1710f0d892dba51b629328c379d6c8d" resname="preview.response.toggler.show">
         <source>Show response code</source>
-        <target state="needs-translation">Show response code</target>
+        <target state="translated">Pokaż kod odpowiedzi</target>
         <note>key: preview.response.toggler.show</note>
       </trans-unit>
       <trans-unit id="f6b27e1c34d4f1dbb53abc36293d7ebb09ae5337" resname="preview.send_request">
         <source>Send request</source>
-        <target state="needs-translation">Send request</target>
+        <target state="translated">Wyślij prośbę</target>
         <note>key: preview.send_request</note>
       </trans-unit>
       <trans-unit id="da514a07b30cee2d7ce54a546cb5ffb04c03d06b" resname="preview.settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">Ustawienia</target>
         <note>key: preview.settings</note>
       </trans-unit>
     </body>

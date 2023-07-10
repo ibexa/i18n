@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="fb26c08c460347ee25626a016ff11a9accbe08a6" resname="unschedule.success.message">
         <source>Removed all selected publication dates.</source>
-        <target state="needs-translation">Removed all selected publication dates.</target>
+        <target state="translated">Usunięto wszystkie wybrane daty publikacji.</target>
         <note>key: unschedule.success.message</note>
       </trans-unit>
     </body>

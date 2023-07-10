@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="5656400564f25dcbe129f43deea78952060bee36" resname="Publish">
         <source>Publish</source>
-        <target state="needs-translation">Publish</target>
+        <target state="translated">公開</target>
         <note>key: Publish</note>
       </trans-unit>
       <trans-unit id="fb063a81c26c9246dd089025bf8e6ff896058ffc" resname="To language">
