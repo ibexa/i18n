@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="abc38732fdbe14754853444c67f4ab5fb2cc30bb" resname="content.hidden">
         <source>Content hidden</source>
-        <target state="needs-translation">Content hidden</target>
+        <target state="translated">Zawartość ukryta</target>
         <note>key: content.hidden</note>
       </trans-unit>
       <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review" approved="yes">
