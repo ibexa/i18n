@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="669edeb37bec7cf4ec99288b90b02ba65e84b4cf" resname="errors.in.the.form">
         <source>Cannot save the form. Check required Fields or validation errors.</source>
-        <target state="needs-translation">Cannot save the form. Check required Fields or validation errors.</target>
+        <target state="translated">Nie można zapisać formularza. Sprawdź wymagane pola lub błędy weryfikacji.</target>
         <note>key: errors.in.the.form</note>
       </trans-unit>
     </body>
