@@ -13,17 +13,17 @@
       </trans-unit>
       <trans-unit id="2567f904927186a6ce8cdd3843cdb3d5d51885e0" resname="block.personalization.label.output_type">
         <source>Output type</source>
-        <target state="needs-translation">Output type</target>
+        <target state="translated">Typ wyjścia</target>
         <note>key: block.personalization.label.output_type</note>
       </trans-unit>
       <trans-unit id="5bc3e74aeb57bb5a2db9e3d617a3f6eda0e342b3" resname="block.personalization.label.scenario">
         <source>Scenario</source>
-        <target state="needs-translation">Scenario</target>
+        <target state="translated">Scenariusz</target>
         <note>key: block.personalization.label.scenario</note>
       </trans-unit>
       <trans-unit id="7cddc1f0f196e91a7bf027e8bc55eced6514b540" resname="block.personalization.label.segment">
         <source>Segment</source>
-        <target state="needs-translation">Segment</target>
+        <target state="translated">Segment</target>
         <note>key: block.personalization.label.segment</note>
       </trans-unit>
     </body>
