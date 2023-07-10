@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="5ae5a511a5c344781ad0caa53efe7b33429c6132" resname="viewing_message">
         <source>Viewing %viewingCount% out of %totalCount% sub-items</source>
-        <target state="translated">%viewing% z %total% podelementów</target>
+        <target state="translated">Przeglądasz %viewingCount% z %totalCount% podelementów</target>
         <note>key: viewing_message</note>
       </trans-unit>
     </body>
