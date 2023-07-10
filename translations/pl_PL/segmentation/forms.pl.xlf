@@ -8,52 +8,52 @@
     <body>
       <trans-unit id="7977b91cf7f7467de74633ce7fd46a0714ab5412" resname="segment_bulk_delete_form.delete">
         <source>Delete Segments</source>
-        <target state="needs-translation">Delete Segments</target>
+        <target state="translated">Usuń segmenty</target>
         <note>key: segment_bulk_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="9a069765672a2f2b864751f1bb933202a8dab393" resname="segment_create_form.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: segment_create_form.create</note>
       </trans-unit>
       <trans-unit id="89b4e639fd50276fdaa2def0bd01f262c4ea0686" resname="segment_group_bulk_delete_form.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: segment_group_bulk_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="d4bad89505ed54f60df85a8d458fa2e4ac1ac8db" resname="segment_group_create.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: segment_group_create.identifier</note>
       </trans-unit>
       <trans-unit id="20d5e75dd76b6dc414be25970c59dd92a262182d" resname="segment_group_create.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: segment_group_create.name</note>
       </trans-unit>
       <trans-unit id="e21a084414105588c582871d94fe6aa3eb7fc986" resname="segment_group_create.segments">
         <source>Segments</source>
-        <target state="needs-translation">Segments</target>
+        <target state="translated">Segmenty</target>
         <note>key: segment_group_create.segments</note>
       </trans-unit>
       <trans-unit id="c8aa8e048b310f79beff0be025bbf0fa7b845635" resname="segment_group_create_form.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: segment_group_create_form.create</note>
       </trans-unit>
       <trans-unit id="ad7c607ca86930e2af197c0f1ad44c646fe499be" resname="segment_group_create_form.update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">Aktualizuj</target>
         <note>key: segment_group_create_form.update</note>
       </trans-unit>
       <trans-unit id="36cee6fed4b7db33951de85cd54ca60bb7822e1d" resname="segment_group_delete_form.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: segment_group_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="1346713c71d11a95fac08825d2e82fa8c9904162" resname="segment_update_form.update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">Aktualizuj</target>
         <note>key: segment_update_form.update</note>
       </trans-unit>
     </body>
