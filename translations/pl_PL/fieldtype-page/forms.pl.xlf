@@ -363,62 +363,62 @@
       </trans-unit>
       <trans-unit id="029ea67634ff66aa9afd7c8850ebf6abe0f2e7be" resname="role.policy.siso_control_center">
         <source>Siso control center</source>
-        <target state="needs-translation">Siso control center</target>
+        <target state="translated">Centrum kontroli Siso</target>
         <note>key: role.policy.siso_control_center</note>
       </trans-unit>
       <trans-unit id="ad4e634b7a562503b6e50d2b057490b8d7dc6336" resname="role.policy.siso_control_center.all_functions">
         <source>Siso control center / All functions</source>
-        <target state="needs-translation">Siso control center / All functions</target>
+        <target state="translated">Centrum kontroli Siso / Wszystkie funkcje</target>
         <note>key: role.policy.siso_control_center.all_functions</note>
       </trans-unit>
       <trans-unit id="a0f12a7663039fde6f8aed723fb9d34a3980fb2a" resname="role.policy.siso_control_center.api_econtent">
         <source>Siso control center / Api econtent</source>
-        <target state="needs-translation">Siso control center / Api econtent</target>
+        <target state="translated">Centrum kontroli Siso / zawartość Api</target>
         <note>key: role.policy.siso_control_center.api_econtent</note>
       </trans-unit>
       <trans-unit id="f5fd141280162ef0849b611320d7a0dd8443089e" resname="role.policy.siso_control_center.api_erp">
         <source>Siso control center / Api erp</source>
-        <target state="needs-translation">Siso control center / Api erp</target>
+        <target state="translated">Centrum kontroli Siso / erp Api</target>
         <note>key: role.policy.siso_control_center.api_erp</note>
       </trans-unit>
       <trans-unit id="45414effd965bb5556bb824a587757ecc008c182" resname="role.policy.siso_control_center.api_jobs">
         <source>Siso control center / Api jobs</source>
-        <target state="needs-translation">Siso control center / Api jobs</target>
+        <target state="translated">Centrum kontroli Siso / Zadania Api</target>
         <note>key: role.policy.siso_control_center.api_jobs</note>
       </trans-unit>
       <trans-unit id="4b5b94dfe8ce0ed99afad6c08ad6926941e84a17" resname="role.policy.siso_control_center.manage_emails">
         <source>Siso control center / Manage emails</source>
-        <target state="needs-translation">Siso control center / Manage emails</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj e-mailami</target>
         <note>key: role.policy.siso_control_center.manage_emails</note>
       </trans-unit>
       <trans-unit id="7fa7d6588d2604254dcf303b4b400c4f73954ad8" resname="role.policy.siso_control_center.manage_erp">
         <source>Siso control center / Manage erp</source>
-        <target state="needs-translation">Siso control center / Manage erp</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj erp</target>
         <note>key: role.policy.siso_control_center.manage_erp</note>
       </trans-unit>
       <trans-unit id="c65f946a026df0c1c1dd82f341c93f037e7e355e" resname="role.policy.siso_control_center.manage_erp_logs">
         <source>Siso control center / Manage erp logs</source>
-        <target state="needs-translation">Siso control center / Manage erp logs</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj logami erp</target>
         <note>key: role.policy.siso_control_center.manage_erp_logs</note>
       </trans-unit>
       <trans-unit id="6fb68c71d5d02066779acbd48adec60b00cda435" resname="role.policy.siso_control_center.manage_exports">
         <source>Siso control center / Manage exports</source>
-        <target state="needs-translation">Siso control center / Manage exports</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj eksportami</target>
         <note>key: role.policy.siso_control_center.manage_exports</note>
       </trans-unit>
       <trans-unit id="46733f57f8e3374f10e13976cbf0745e050d0533" resname="role.policy.siso_control_center.manage_imports">
         <source>Siso control center / Manage imports</source>
-        <target state="needs-translation">Siso control center / Manage imports</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj importami</target>
         <note>key: role.policy.siso_control_center.manage_imports</note>
       </trans-unit>
       <trans-unit id="d9d75b3eea946a68bc4aa78d3810f6b6a04ebada" resname="role.policy.siso_control_center.manage_jobs">
         <source>Siso control center / Manage jobs</source>
-        <target state="needs-translation">Siso control center / Manage jobs</target>
+        <target state="translated">Centrum kontroli Siso / Zarządzaj zadaniami</target>
         <note>key: role.policy.siso_control_center.manage_jobs</note>
       </trans-unit>
       <trans-unit id="e6bebe72ead05d9d16bc0dc9ef80c60cb12572b9" resname="role.policy.siso_policy">
         <source>Siso policy</source>
-        <target state="needs-translation">Siso policy</target>
+        <target state="translated">Polityka Siso</target>
         <note>key: role.policy.siso_policy</note>
       </trans-unit>
       <trans-unit id="71b4a62c52ac03f0597e07fc3a357e059260206e" resname="role.policy.siso_policy.all_functions">
