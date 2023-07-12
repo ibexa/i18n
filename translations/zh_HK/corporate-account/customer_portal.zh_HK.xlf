@@ -193,6 +193,56 @@
         <target state="needs-translation">Address Book</target>
         <note>key: address_book.header</note>
       </trans-unit>
+      <trans-unit id="aa92dc5c22f4d2642f9c3d36b6558cfb9a9193b7" resname="block.order.column.company_name">
+        <source>Company name</source>
+        <target state="needs-translation">Company name</target>
+        <note>key: block.order.column.company_name</note>
+      </trans-unit>
+      <trans-unit id="9556b42014fe91a4145e4539f6b307e797ae7408" resname="block.order.column.created_at">
+        <source>Created</source>
+        <target state="needs-translation">Created</target>
+        <note>key: block.order.column.created_at</note>
+      </trans-unit>
+      <trans-unit id="eaf05253103e1511aa5b0dc8250ef213ff43fbaa" resname="block.order.column.customer_name">
+        <source>Customer name</source>
+        <target state="needs-translation">Customer name</target>
+        <note>key: block.order.column.customer_name</note>
+      </trans-unit>
+      <trans-unit id="e3399f29aae3a0b569dc6f45d9fef3ad60f132fc" resname="block.order.column.id">
+        <source>Order ID</source>
+        <target state="needs-translation">Order ID</target>
+        <note>key: block.order.column.id</note>
+      </trans-unit>
+      <trans-unit id="300ac1632a379e0713f107edfdf7ec35ee76a5c1" resname="block.order.column.identifier">
+        <source>External ID</source>
+        <target state="needs-translation">External ID</target>
+        <note>key: block.order.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="02f92dc6f1ba951c3c1a11416b74099d55ac14ac" resname="block.order.column.modified_at">
+        <source>Updated</source>
+        <target state="needs-translation">Updated</target>
+        <note>key: block.order.column.modified_at</note>
+      </trans-unit>
+      <trans-unit id="2063983d2fc77588bd224c581dc4f1b1db098057" resname="block.order.column.status">
+        <source>Status</source>
+        <target state="needs-translation">Status</target>
+        <note>key: block.order.column.status</note>
+      </trans-unit>
+      <trans-unit id="2026a40b85882366cde23bf8427993dec635b083" resname="block.order.column.total_value">
+        <source>Total value</source>
+        <target state="needs-translation">Total value</target>
+        <note>key: block.order.column.total_value</note>
+      </trans-unit>
+      <trans-unit id="8afb5fa854965fa208b0ae15895880c6debd564c" resname="block.order.table.empty">
+        <source>No orders</source>
+        <target state="needs-translation">No orders</target>
+        <note>key: block.order.table.empty</note>
+      </trans-unit>
+      <trans-unit id="53b8a911d5bed608c86276dc1d0cbfb23249c60d" resname="block.order.table.headline">
+        <source>List (%count%)</source>
+        <target state="needs-translation">List (%count%)</target>
+        <note>key: block.order.table.headline</note>
+      </trans-unit>
       <trans-unit id="b11e7e66bc4ceb70107127bb185cf0b51a90c5cb" resname="contact.breadcrumb">
         <source>Contact</source>
         <target state="needs-translation">Contact</target>
@@ -228,10 +278,10 @@
         <target state="needs-translation">Sales Rep.</target>
         <note>key: dashboard.profile.role</note>
       </trans-unit>
-      <trans-unit id="46a1af0ac2369f9d443c55a5215d74439ad7fa4a" resname="dashboard.table.last_five_orders.headline">
-        <source>Last 5 Orders</source>
-        <target state="needs-translation">Last 5 Orders</target>
-        <note>key: dashboard.table.last_five_orders.headline</note>
+      <trans-unit id="ec34240260a87b4145afd46ea50cecf78e37e54e" resname="dashboard.table.last_orders.headline">
+        <source>Last orders</source>
+        <target state="needs-translation">Last orders</target>
+        <note>key: dashboard.table.last_orders.headline</note>
       </trans-unit>
       <trans-unit id="b1ce9845b97a00c2d3878c22fa0e3abd19229086" resname="members.active_users.list.search.placeholder">
         <source>Search by name</source>
@@ -254,8 +304,8 @@
         <note>key: members.tab.active_users.label</note>
       </trans-unit>
       <trans-unit id="6a91e7d766f462dbed9fd059da43c194da170a14" resname="members.tab.invitation.label">
-        <source>Invitation</source>
-        <target state="needs-translation">Invitation</target>
+        <source>Invitations</source>
+        <target state="needs-translation">Invitations</target>
         <note>key: members.tab.invitation.label</note>
       </trans-unit>
       <trans-unit id="19da511cbb4ba7f154ce4b8f1f0e87bfd79039e7" resname="members.title">
@@ -299,13 +349,13 @@
         <note>key: my_profile.sign_in.edit.btn.label</note>
       </trans-unit>
       <trans-unit id="7f54353499d46990160fe7ebf0332a628cfaa4b7" resname="my_profile.sign_in.edit.headline">
-        <source>Sign in</source>
-        <target state="needs-translation">Sign in</target>
+        <source>Sign-in</source>
+        <target state="needs-translation">Sign-in</target>
         <note>key: my_profile.sign_in.edit.headline</note>
       </trans-unit>
       <trans-unit id="135ac41ab03092010a60066bd57ee4ede3a01ab8" resname="my_profile.sign_in.edit.label">
-        <source>Modify your password.</source>
-        <target state="needs-translation">Modify your password.</target>
+        <source>Change your password.</source>
+        <target state="needs-translation">Change your password.</target>
         <note>key: my_profile.sign_in.edit.label</note>
       </trans-unit>
       <trans-unit id="fa328ba36d9599c8bf684a5ff319435339503f08" resname="my_profile.sign_in.password">
