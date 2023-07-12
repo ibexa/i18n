@@ -8,72 +8,72 @@
     <body>
       <trans-unit id="7029d07a97dadf7ba8616316ed99d2b8ff3294a9" resname="account.authentication.forgot_password">
         <source>Forgot your password?</source>
-        <target state="needs-translation">Forgot your password?</target>
+        <target state="translated">Nie pamiętasz hasła?</target>
         <note>key: account.authentication.forgot_password</note>
       </trans-unit>
       <trans-unit id="438a2a31ac2543303c4df96d0c40c9eccec0c017" resname="account.authentication.get_started">
         <source>Get started</source>
-        <target state="needs-translation">Get started</target>
+        <target state="translated">Zaczynamy</target>
         <note>key: account.authentication.get_started</note>
       </trans-unit>
       <trans-unit id="0cf7a342fcb087ce22048600cacaade760f0af04" resname="account.authentication.login">
         <source>Login</source>
-        <target state="needs-translation">Login</target>
+        <target state="translated">Zaloguj się</target>
         <note>key: account.authentication.login</note>
       </trans-unit>
       <trans-unit id="1d3dd1a605be597b2a36b846fdc1713e2365f0a9" resname="account.authentication.password">
         <source>Password</source>
-        <target state="needs-translation">Password</target>
+        <target state="translated">Hasło</target>
         <note>key: account.authentication.password</note>
       </trans-unit>
       <trans-unit id="9611a50d34f4facccf324625e4bd47a396fdee72" resname="account.authentication.username">
         <source>Username</source>
-        <target state="needs-translation">Username</target>
+        <target state="translated">Nazwa użytkownika</target>
         <note>key: account.authentication.username</note>
       </trans-unit>
       <trans-unit id="c9c6c1963c557f261b78b3e89da54f750671dd5d" resname="account.change_password.action">
         <source>Change</source>
-        <target state="needs-translation">Change</target>
+        <target state="translated">Zmień</target>
         <note>key: account.change_password.action</note>
       </trans-unit>
       <trans-unit id="d677e547c8e21a4f293e046b4818670d45a18d90" resname="account.change_password.cancel_btn.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Anuluj</target>
         <note>key: account.change_password.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="8dc41fb95788740eaa9b6dc604a9efff8a8840ff" resname="account.change_password.save_btn.label">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Zapisz</target>
         <note>key: account.change_password.save_btn.label</note>
       </trans-unit>
       <trans-unit id="16382436b9077cc711766935dd39dbeb6dcf6d6f" resname="account.change_password.title">
         <source>Change my password</source>
-        <target state="needs-translation">Change my password</target>
+        <target state="translated">Zmień hasło</target>
         <note>key: account.change_password.title</note>
       </trans-unit>
       <trans-unit id="04efa66a2dfbb2bb2b53246976b37bbe3acbba51" resname="account.forgot_user_password.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Wstecz</target>
         <note>key: account.forgot_user_password.back</note>
       </trans-unit>
       <trans-unit id="0e3054510c504aaac36dd7f4494acede560626c2" resname="account.forgot_user_password.confrimation.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Wstecz</target>
         <note>key: account.forgot_user_password.confrimation.back</note>
       </trans-unit>
       <trans-unit id="78f3ae13d90af2002efcad6e2d9780a6f59843ab" resname="account.forgot_user_password.confrimation.back_to_sign_in">
         <source>Go back to Sign in</source>
-        <target state="needs-translation">Go back to Sign in</target>
+        <target state="translated">Wróć do logowania</target>
         <note>key: account.forgot_user_password.confrimation.back_to_sign_in</note>
       </trans-unit>
       <trans-unit id="9b57f809cf03a20045266650dc08f54a59368c5a" resname="account.forgot_user_password.confrimation.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">Zresetuj swoje hasło</target>
         <note>key: account.forgot_user_password.confrimation.reset_your_password</note>
       </trans-unit>
       <trans-unit id="7f3165d28b44a7e018dd007804056fab2b1cac34" resname="account.forgot_user_password.confrimation.success.alert">
         <source>We’ve sent to your email account a link to reset your password.</source>
-        <target state="needs-translation">We’ve sent to your email account a link to reset your password.</target>
+        <target state="translated">Wysłaliśmy na Twoje konto e-mail link do zresetowania hasła.</target>
         <note>key: account.forgot_user_password.confrimation.success.alert</note>
       </trans-unit>
       <trans-unit id="624f884f90db2c4d55a998cd9dfe24a6bcac74a6" resname="account.forgot_user_password.confrimation.success.message">
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="d021f3be1567b2c5903acabc37ebd159e49f5a39" resname="account.forgot_user_password.mail.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">Zresetuj swoje hasło</target>
         <note>key: account.forgot_user_password.mail.reset_your_password</note>
       </trans-unit>
       <trans-unit id="bb9d963889fbcebb7dc70a375b3ac8a66898a7f3" resname="account.forgot_user_password.reason.migration">
@@ -130,7 +130,7 @@
       </trans-unit>
       <trans-unit id="fd832f255d5843d3db954c94203eb52c5b44ccbd" resname="account.login.headline">
         <source>Welcome to Customer Portal</source>
-        <target state="needs-translation">Welcome to Customer Portal</target>
+        <target state="translated">Witaj w Portalu Klienta</target>
         <note>key: account.login.headline</note>
       </trans-unit>
       <trans-unit id="205c0027856c8922547687628e6360468177af36" resname="account.login.page_title">
@@ -193,6 +193,56 @@
         <target state="needs-translation">Address Book</target>
         <note>key: address_book.header</note>
       </trans-unit>
+      <trans-unit id="aa92dc5c22f4d2642f9c3d36b6558cfb9a9193b7" resname="block.order.column.company_name">
+        <source>Company name</source>
+        <target state="needs-translation">Company name</target>
+        <note>key: block.order.column.company_name</note>
+      </trans-unit>
+      <trans-unit id="9556b42014fe91a4145e4539f6b307e797ae7408" resname="block.order.column.created_at">
+        <source>Created</source>
+        <target state="needs-translation">Created</target>
+        <note>key: block.order.column.created_at</note>
+      </trans-unit>
+      <trans-unit id="eaf05253103e1511aa5b0dc8250ef213ff43fbaa" resname="block.order.column.customer_name">
+        <source>Customer name</source>
+        <target state="needs-translation">Customer name</target>
+        <note>key: block.order.column.customer_name</note>
+      </trans-unit>
+      <trans-unit id="e3399f29aae3a0b569dc6f45d9fef3ad60f132fc" resname="block.order.column.id">
+        <source>Order ID</source>
+        <target state="needs-translation">Order ID</target>
+        <note>key: block.order.column.id</note>
+      </trans-unit>
+      <trans-unit id="300ac1632a379e0713f107edfdf7ec35ee76a5c1" resname="block.order.column.identifier">
+        <source>External ID</source>
+        <target state="needs-translation">External ID</target>
+        <note>key: block.order.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="02f92dc6f1ba951c3c1a11416b74099d55ac14ac" resname="block.order.column.modified_at">
+        <source>Updated</source>
+        <target state="needs-translation">Updated</target>
+        <note>key: block.order.column.modified_at</note>
+      </trans-unit>
+      <trans-unit id="2063983d2fc77588bd224c581dc4f1b1db098057" resname="block.order.column.status">
+        <source>Status</source>
+        <target state="needs-translation">Status</target>
+        <note>key: block.order.column.status</note>
+      </trans-unit>
+      <trans-unit id="2026a40b85882366cde23bf8427993dec635b083" resname="block.order.column.total_value">
+        <source>Total value</source>
+        <target state="needs-translation">Total value</target>
+        <note>key: block.order.column.total_value</note>
+      </trans-unit>
+      <trans-unit id="8afb5fa854965fa208b0ae15895880c6debd564c" resname="block.order.table.empty">
+        <source>No orders</source>
+        <target state="needs-translation">No orders</target>
+        <note>key: block.order.table.empty</note>
+      </trans-unit>
+      <trans-unit id="53b8a911d5bed608c86276dc1d0cbfb23249c60d" resname="block.order.table.headline">
+        <source>List (%count%)</source>
+        <target state="needs-translation">List (%count%)</target>
+        <note>key: block.order.table.headline</note>
+      </trans-unit>
       <trans-unit id="b11e7e66bc4ceb70107127bb185cf0b51a90c5cb" resname="contact.breadcrumb">
         <source>Contact</source>
         <target state="needs-translation">Contact</target>
@@ -228,10 +278,10 @@
         <target state="needs-translation">Sales Rep.</target>
         <note>key: dashboard.profile.role</note>
       </trans-unit>
-      <trans-unit id="46a1af0ac2369f9d443c55a5215d74439ad7fa4a" resname="dashboard.table.last_five_orders.headline">
-        <source>Last 5 Orders</source>
-        <target state="needs-translation">Last 5 Orders</target>
-        <note>key: dashboard.table.last_five_orders.headline</note>
+      <trans-unit id="ec34240260a87b4145afd46ea50cecf78e37e54e" resname="dashboard.table.last_orders.headline">
+        <source>Last orders</source>
+        <target state="needs-translation">Last orders</target>
+        <note>key: dashboard.table.last_orders.headline</note>
       </trans-unit>
       <trans-unit id="b1ce9845b97a00c2d3878c22fa0e3abd19229086" resname="members.active_users.list.search.placeholder">
         <source>Search by name</source>
@@ -254,8 +304,8 @@
         <note>key: members.tab.active_users.label</note>
       </trans-unit>
       <trans-unit id="6a91e7d766f462dbed9fd059da43c194da170a14" resname="members.tab.invitation.label">
-        <source>Invitation</source>
-        <target state="needs-translation">Invitation</target>
+        <source>Invitations</source>
+        <target state="needs-translation">Invitations</target>
         <note>key: members.tab.invitation.label</note>
       </trans-unit>
       <trans-unit id="19da511cbb4ba7f154ce4b8f1f0e87bfd79039e7" resname="members.title">
@@ -265,12 +315,12 @@
       </trans-unit>
       <trans-unit id="ef80cd48c4a2363c019d23d3c170c2c6622b8f84" resname="my_profile.about_me.edit.btn.label">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: my_profile.about_me.edit.btn.label</note>
       </trans-unit>
       <trans-unit id="bf7120e72236a2059f59fc12cac967f5e0fef5a8" resname="my_profile.about_me.edit.headline">
         <source>About Me</source>
-        <target state="needs-translation">About Me</target>
+        <target state="translated">O mnie</target>
         <note>key: my_profile.about_me.edit.headline</note>
       </trans-unit>
       <trans-unit id="19d4a803a4e83a07545db674d571c319f1711ff5" resname="my_profile.about_me.edit.label">
@@ -299,13 +349,13 @@
         <note>key: my_profile.sign_in.edit.btn.label</note>
       </trans-unit>
       <trans-unit id="7f54353499d46990160fe7ebf0332a628cfaa4b7" resname="my_profile.sign_in.edit.headline">
-        <source>Sign in</source>
-        <target state="needs-translation">Sign in</target>
+        <source>Sign-in</source>
+        <target state="needs-translation">Sign-in</target>
         <note>key: my_profile.sign_in.edit.headline</note>
       </trans-unit>
       <trans-unit id="135ac41ab03092010a60066bd57ee4ede3a01ab8" resname="my_profile.sign_in.edit.label">
-        <source>Modify your password.</source>
-        <target state="needs-translation">Modify your password.</target>
+        <source>Change your password.</source>
+        <target state="needs-translation">Change your password.</target>
         <note>key: my_profile.sign_in.edit.label</note>
       </trans-unit>
       <trans-unit id="fa328ba36d9599c8bf684a5ff319435339503f08" resname="my_profile.sign_in.password">
@@ -320,7 +370,7 @@
       </trans-unit>
       <trans-unit id="5d58a26799e4733d9e207b601656eacc0bdf4e78" resname="orders.table.headline">
         <source>List (%count%)</source>
-        <target state="needs-translation">List (%count%)</target>
+        <target state="translated">Lista (%count%)</target>
         <note>key: orders.table.headline</note>
       </trans-unit>
       <trans-unit id="f3541a5faee3309e9867bcd3acc5615130edddc3" resname="past_orders.breadcrumb">
@@ -375,7 +425,7 @@
       </trans-unit>
       <trans-unit id="3359474ce7aa44bee7ce1a997872f0c2eb1649ea" resname="registration.banner.step_1.title">
         <source>Step 1</source>
-        <target state="needs-translation">Step 1</target>
+        <target state="translated">Krok 1</target>
         <note>key: registration.banner.step_1.title</note>
       </trans-unit>
       <trans-unit id="29fac3bfa2aacdf67dc8aa6717dd871437c12a1e" resname="registration.banner.step_2.action">
@@ -385,7 +435,7 @@
       </trans-unit>
       <trans-unit id="734b765cfbca376418dbac7cd8b020a997aa75b8" resname="registration.banner.step_2.title">
         <source>Step 2</source>
-        <target state="needs-translation">Step 2</target>
+        <target state="translated">Krok 2</target>
         <note>key: registration.banner.step_2.title</note>
       </trans-unit>
       <trans-unit id="b036cb65e47d53d0a8df587ac6dfa4b71d73bb55" resname="registration.banner.step_3.action">
@@ -395,7 +445,7 @@
       </trans-unit>
       <trans-unit id="60d1a4faa92fd4e6708d522f6532bbe657049718" resname="registration.banner.step_3.title">
         <source>Step 3</source>
-        <target state="needs-translation">Step 3</target>
+        <target state="translated">Krok 3</target>
         <note>key: registration.banner.step_3.title</note>
       </trans-unit>
       <trans-unit id="f802137b961209a99ce1856511f2e580a234ba43" resname="registration.banner.step_4.action">
@@ -405,12 +455,12 @@
       </trans-unit>
       <trans-unit id="57c9c36e1a93351755329536192ffed8c7549e5f" resname="registration.banner.step_4.title">
         <source>Step 4</source>
-        <target state="needs-translation">Step 4</target>
+        <target state="translated">Krok 3</target>
         <note>key: registration.banner.step_4.title</note>
       </trans-unit>
       <trans-unit id="c0bf0941735a2199e9f4062c041fc621e00c3161" resname="registration.form.basic_information_group.title">
         <source>Basic information</source>
-        <target state="needs-translation">Basic information</target>
+        <target state="translated">Podstawowe informacje</target>
         <note>key: registration.form.basic_information_group.title</note>
       </trans-unit>
       <trans-unit id="146a8436227b0f4d8a0edcf92874b6d4b584f6d4" resname="registration.form.billing_address_group.title">
@@ -425,7 +475,7 @@
       </trans-unit>
       <trans-unit id="011d777a33fbe45b5a156621e8afdf3ce33562cf" resname="registration.form.submit.btn">
         <source>Submit</source>
-        <target state="needs-translation">Submit</target>
+        <target state="translated">Prześlij</target>
         <note>key: registration.form.submit.btn</note>
       </trans-unit>
       <trans-unit id="d6c5e54e54472f7090fd62e16c51774a43af3e78" resname="registration_already_exists.info.explanation">
@@ -470,7 +520,7 @@
       </trans-unit>
       <trans-unit id="c4e6ef896ca736301761f12d5be2f8241e5d496c" resname="registration_confirmation.info.title">
         <source>Thanks for registration!</source>
-        <target state="needs-translation">Thanks for registration!</target>
+        <target state="translated">Dziękujemy za zarejestrowanie konta!</target>
         <note>key: registration_confirmation.info.title</note>
       </trans-unit>
       <trans-unit id="19f3e919f2c0f7a4c6ba864454f9740262058da9" resname="registration_wait.image.alt">
@@ -490,27 +540,27 @@
       </trans-unit>
       <trans-unit id="92d4e1c85e73e214d86a7343938fe45c8e6e80ed" resname="registration_wait.info.try_again">
         <source>Please, try again later.</source>
-        <target state="needs-translation">Please, try again later.</target>
+        <target state="translated">Proszę spróbować ponownie później.</target>
         <note>key: registration_wait.info.try_again</note>
       </trans-unit>
       <trans-unit id="91738d66d84b6f1586b56099ef60b525d611862b" resname="user_profile.email.label">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">Email</target>
         <note>key: user_profile.email.label</note>
       </trans-unit>
       <trans-unit id="94c2a9315a0efe1dc22dc0708ae5ca29169848c3" resname="user_profile.phone.label">
         <source>Phone number</source>
-        <target state="needs-translation">Phone number</target>
+        <target state="translated">Numer telefonu</target>
         <note>key: user_profile.phone.label</note>
       </trans-unit>
       <trans-unit id="1e2e623cc917d695a57bd1e9208b133a3449b13b" resname="website.brand">
         <source>Customer Portal</source>
-        <target state="needs-translation">Customer Portal</target>
+        <target state="translated">Portal klienta</target>
         <note>key: website.brand</note>
       </trans-unit>
       <trans-unit id="82d3800f1e161691a8a24cc55a9b5575977d2b42" resname="website.header.user_menu.logout">
         <source>Logout</source>
-        <target state="needs-translation">Logout</target>
+        <target state="translated">Wyloguj się</target>
         <note>key: website.header.user_menu.logout</note>
       </trans-unit>
       <trans-unit id="c59dc9464cf7dbb571f86d9f823996586285c113" resname="website.title">
