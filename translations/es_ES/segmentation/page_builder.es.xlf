@@ -26,6 +26,11 @@
         <target state="translated">Seleccionar contenido</target>
         <note>key: config_form.widgets.segmentation.udw.title</note>
       </trans-unit>
+      <trans-unit id="5002c27750f5445bb77859990aeeac8b9a6538e1" resname="segments.config_panel.more_button">
+        <source>More</source>
+        <target state="needs-translation">More</target>
+        <note>key: segments.config_panel.more_button</note>
+      </trans-unit>
       <trans-unit id="dc92ad9147001702dc7997c3615d4ee244a943c4" resname="segments.config_panel.none_option.label">
         <source>None</source>
         <target state="needs-translation">None</target>
