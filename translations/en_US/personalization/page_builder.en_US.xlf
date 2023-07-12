@@ -26,6 +26,26 @@
         <target state="needs-translation">Segment</target>
         <note>key: block.personalization.label.segment</note>
       </trans-unit>
+      <trans-unit id="4a951b52415744b29645614ece741630608e5fe0" resname="personalization.page_builder.block.bestsellers">
+        <source>Bestsellers</source>
+        <target state="needs-translation">Bestsellers</target>
+        <note>key: `personalization.page_builder.block.bestsellers`</note>
+      </trans-unit>
+      <trans-unit id="ec631464149c44e065eb4dd410ae90fd0a85b2f5" resname="personalization.page_builder.block.last_purchased">
+        <source>Last purchased</source>
+        <target state="needs-translation">Last purchased</target>
+        <note>key: personalization.page_builder.block.last_purchased</note>
+      </trans-unit>
+      <trans-unit id="fc7788d8f536e9122554dddda77150a10c689522" resname="personalization.page_builder.block.last_viewed">
+        <source>Last viewed</source>
+        <target state="needs-translation">Last viewed</target>
+        <note>key: personalization.page_builder.block.last_viewed</note>
+      </trans-unit>
+      <trans-unit id="7ff992a7de5317311f4c72471510fec74add2557" resname="personalization.page_builder.block.recently_added">
+        <source>Recently added</source>
+        <target state="needs-translation">Recently added</target>
+        <note>key: personalization.page_builder.block.recently_added</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
