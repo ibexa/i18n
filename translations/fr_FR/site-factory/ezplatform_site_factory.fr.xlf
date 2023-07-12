@@ -146,11 +146,6 @@
         <target state="translated">Mise en page</target>
         <note>key: site.view.global_properties.design</note>
       </trans-unit>
-      <trans-unit id="5f6945f1f44a0cd6f56b9a5ef1cee580dd48c839" resname="site.view.global_properties.header">
-        <source>Global properties</source>
-        <target state="translated">Propriétés globales</target>
-        <note>key: site.view.global_properties.header</note>
-      </trans-unit>
       <trans-unit id="ad4fb4d341141b546c9260a6d3599283110d6b2f" resname="site.view.global_properties.name">
         <source>Name</source>
         <target state="translated">Nom</target>
@@ -182,9 +177,19 @@
         <note>key: site.view.public_access.list.status</note>
       </trans-unit>
       <trans-unit id="3e02813ff5cab72cd9fa944a218618866ca8b404" resname="site.view.public_access.list.title">
-        <source>Public access</source>
-        <target state="translated">Accès public</target>
+        <source>List</source>
+        <target state="needs-translation">List</target>
         <note>key: site.view.public_access.list.title</note>
+      </trans-unit>
+      <trans-unit id="b05cc832d9d895abeaba631dbd5720f8923b81f0" resname="site.view.tab.header.details">
+        <source>Details</source>
+        <target state="needs-translation">Details</target>
+        <note>key: site.view.tab.header.details</note>
+      </trans-unit>
+      <trans-unit id="d40f6ad45832673a778a094f0c7548dfe829777c" resname="site.view.tab.header.public_access">
+        <source>Public access</source>
+        <target state="needs-translation">Public access</target>
+        <note>key: site.view.tab.header.public_access</note>
       </trans-unit>
     </body>
   </file>
