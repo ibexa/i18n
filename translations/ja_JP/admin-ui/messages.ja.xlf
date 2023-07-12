@@ -206,11 +206,6 @@
         <target state="translated">このコンテンツタイプを削除しますか？</target>
         <note>key: content_type.modal.message</note>
       </trans-unit>
-      <trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
-        <source>Add</source>
-        <target state="translated">追加</target>
-        <note>key: content_type.view.edit.add</note>
-      </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Field definitions</source>
         <target state="translated">フィールド定義</target>
@@ -245,11 +240,6 @@
         <source>Search...</source>
         <target state="needs-translation">Search...</target>
         <note>key: content_type.view.edit.search</note>
-      </trans-unit>
-      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
-        <source>Add new</source>
-        <target state="needs-translation">Add new</target>
-        <note>key: content_type.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
         <source>Delete</source>
@@ -290,16 +280,6 @@
         <source>Clear (%selected_items_count%)</source>
         <target state="needs-translation">Clear (%selected_items_count%)</target>
         <note>key: dropdown.clear</note>
-      </trans-unit>
-      <trans-unit id="a3390555f717ffd9b3560f17198e5a437899967f" resname="dropdown.placeholder">
-        <source>Choose an option</source>
-        <target state="needs-translation">Choose an option</target>
-        <note>key: dropdown.placeholder</note>
-      </trans-unit>
-      <trans-unit id="49f6d75aca8da375a2a79c0778934bc45a8ffe8c" resname="dropdown.placeholder.empty">
-        <source>No options available</source>
-        <target state="needs-translation">No options available</target>
-        <note>key: dropdown.placeholder.empty</note>
       </trans-unit>
       <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
         <source>Search...</source>
@@ -538,11 +518,6 @@
         <target state="needs-translation">I understand the consequences of this action.</target>
         <note>key: location_trash_form.confirm_label</note>
       </trans-unit>
-      <trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
-        <source>Enable %type% for this content type</source>
-        <target state="needs-translation">Enable %type% for this content type</target>
-        <note>key: meta.enabled</note>
-      </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
         <target state="translated">キャンセル</target>
@@ -642,11 +617,6 @@
         <source>Do you want to unassign the Users/Groups?</source>
         <target state="needs-translation">Do you want to unassign the Users/Groups?</target>
         <note>key: role_assignments.modal.message</note>
-      </trans-unit>
-      <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
-        <source>From date - to date</source>
-        <target state="needs-translation">From date - to date</target>
-        <note>key: search.date.range</note>
       </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
         <source>Assign Content</source>
