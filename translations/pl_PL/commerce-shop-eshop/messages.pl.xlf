@@ -403,7 +403,7 @@
       </trans-unit>
       <trans-unit id="cbe46a961215ba8e6037d5b489fc565a55f37d93" resname="Contact us e-mail">
         <source>Contact us!</source>
-        <target state="needs-translation">Contact us!</target>
+        <target state="translated">Skontaktuj się z nami!</target>
         <note>key: Contact us e-mail</note>
       </trans-unit>
       <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" resname="Country">
