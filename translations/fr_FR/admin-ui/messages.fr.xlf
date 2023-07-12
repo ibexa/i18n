@@ -827,7 +827,7 @@ Retournez au <a href="%dashboard%">tableau de bord</a> ou rechargez l'applicatio
       </trans-unit>
       <trans-unit id="cc411f80de934035a8572d79cb383398775f3cde" resname="user_menu.popup_menu.title">
         <source>Logged as %userName%</source>
-        <target state="translated">Connecté en tant que %username%</target>
+        <target state="translated">Connecté en tant que %userName%</target>
         <note>key: user_menu.popup_menu.title</note>
       </trans-unit>
     </body>
