@@ -11,6 +11,11 @@
         <target state="new">Version Lock</target>
         <note>key: policy.limitation.identifier.versionlock</note>
       </trans-unit>
+      <trans-unit id="920f6a0525d6ba93ff83f46e22baa981ff0b483c" resname="policy.limitation.identifier.workflowstage">
+        <source>Workflow Stage</source>
+        <target state="new">Workflow Stage</target>
+        <note>key: policy.limitation.identifier.workflowstage</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -31,11 +31,6 @@
         <target state="new">Catalog identifier must be unique</target>
         <note>key: ibexa.catalog.identifier.unique</note>
       </trans-unit>
-      <trans-unit id="6a598deb8cd890fbddf41b75e3af24456160225b" resname="ibexa.catalog.language.at_least_one">
-        <source>Cannot remove all translations from the Catalog</source>
-        <target state="new">Cannot remove all translations from the Catalog</target>
-        <note>key: ibexa.catalog.language.at_least_one</note>
-      </trans-unit>
       <trans-unit id="cb667a4a576b67fe914cfbe6c2d47ccca3825ca1" resname="ibexa.currency.code.unique">
         <source>Currency code must be unique</source>
         <target state="new">Currency code must be unique</target>
@@ -50,6 +45,11 @@
         <source>Customer Group identifier must be unique</source>
         <target state="new">Customer Group identifier must be unique</target>
         <note>key: ibexa.customer_group.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="6beab87e8a16d97d66cb89b2e7a63c1593406191" resname="ibexa.language.at_least_one">
+        <source>Cannot remove all translations</source>
+        <target state="new">Cannot remove all translations</target>
+        <note>key: ibexa.language.at_least_one</note>
       </trans-unit>
       <trans-unit id="471d1ffe749cac120c3e672f8dd33ce8a3bad09d" resname="ibexa.product.attribute.value.valid">
         <source>Attribute value is invalid</source>

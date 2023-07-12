@@ -6,10 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
-        <source>User(s) deleted.</source>
-        <target state="new">User(s) deleted.</target>
-        <note>key: bulk_delete.success.message.users</note>
+      <trans-unit id="8b655c3916232df78f5f0397e20d4664b0597a81" resname="ibexa_seo.name">
+        <source>SEO</source>
+        <target state="new">SEO</target>
+        <note>key: ibexa_seo.name</note>
       </trans-unit>
     </body>
   </file>

@@ -32,8 +32,8 @@
         <note>key: main__personalization__scenarios</note>
       </trans-unit>
       <trans-unit id="11617cd15d2e7484d395eb9d797a65e9c0ef0260" resname="model_edit__sidebar_right__close">
-        <source>Close</source>
-        <target state="new">Close</target>
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
         <note>key: model_edit__sidebar_right__close</note>
       </trans-unit>
       <trans-unit id="6bc82f75a31450fd71f04991c30b832ffadcc00d" resname="model_edit__sidebar_right__save">
@@ -51,20 +51,20 @@
         <target state="new">Trigger model build</target>
         <note>key: model_edit__sidebar_right__trigger_model_build</note>
       </trans-unit>
-      <trans-unit id="bb50202605dd9a666dec38fc77048a1fac02f0d8" resname="scenario_create__sidebar_right__create">
-        <source>Save</source>
-        <target state="new">Save</target>
-        <note>key: scenario_create__sidebar_right__create</note>
+      <trans-unit id="7c86d8817e27d0e61eb405c75f8024d7694d6421" resname="scenario_create__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: scenario_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="19238e1383ec8b3e2db4533ed268ded1d62a1586" resname="scenario_create__sidebar_right__create-and-close">
-        <source>Save and close</source>
-        <target state="new">Save and close</target>
+        <source>Create</source>
+        <target state="new">Create</target>
         <note>key: scenario_create__sidebar_right__create-and-close</note>
       </trans-unit>
-      <trans-unit id="5d3435f72f46c95cfa1052ba116064712a8511b5" resname="scenario_create__sidebar_right__remove">
-        <source>Remove scenario</source>
-        <target state="new">Remove scenario</target>
-        <note>key: scenario_create__sidebar_right__remove</note>
+      <trans-unit id="acbdba6c4b6a0a49b3a99bff7ff87c2071e1899e" resname="scenario_edit__sidebar_right__close">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <note>key: scenario_edit__sidebar_right__close</note>
       </trans-unit>
       <trans-unit id="5a4d415304b5787e511bdab98e858dd019548f0e" resname="scenario_edit__sidebar_right__remove">
         <source>Remove scenario</source>

@@ -21,6 +21,21 @@
         <target state="new">Save</target>
         <note>key: corporate_account.member.corporate_role_change.submit</note>
       </trans-unit>
+      <trans-unit id="e45d424a13bebfcf370a04f91a5ccc4a1919cf1d" resname="role.policy.company_application">
+        <source>Company Application</source>
+        <target state="new">Company Application</target>
+        <note>key: role.policy.company_application</note>
+      </trans-unit>
+      <trans-unit id="9be47efa344d227226a2232456c1fe1482eb26a6" resname="role.policy.company_application.all_functions">
+        <source>Company Application / All functions</source>
+        <target state="new">Company Application / All functions</target>
+        <note>key: role.policy.company_application.all_functions</note>
+      </trans-unit>
+      <trans-unit id="5d39df7cc9f226b98092a0f0dc029a0f446ee6ba" resname="role.policy.company_application.workflow">
+        <source>Company Application / Workflow</source>
+        <target state="new">Company Application / Workflow</target>
+        <note>key: role.policy.company_application.workflow</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
