@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="2b096dbbbcadb6a316903dce656706b528229e21" resname="search.placeholder">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: search.placeholder</note>
       </trans-unit>
       <trans-unit id="69f8e58ee01f604b377aaa638cabe3f245b45a73" resname="search.search_results">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="d4462bb9386e96a0984586618fbfbcd0852fd4ea" resname="selected_locations.deselect_all">
         <source>Deselect all</source>
-        <target state="needs-translation">Deselect all</target>
+        <target state="translated">Odznacz wszystko</target>
         <note>key: selected_locations.deselect_all</note>
       </trans-unit>
       <trans-unit id="19700661da70137e52d0009660c9a87f5bcb99bd" resname="selected_locations.expand.sidebar">
