@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="acba66488cd6f6712b412c629e9edc81f7420c16" resname="ibexa.list.action.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: ibexa.list.action.create</note>
       </trans-unit>
       <trans-unit id="4a550e9a85aacebd941ed54f13cddcd56f96daa9" resname="ibexa.modal.delete">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="ef9d7d6b1581df7d5870fb59172fdccae7944060" resname="ibexa.shipping.list.search.query.placeholder">
         <source>Search by name, identifier</source>
-        <target state="needs-translation">Search by name, identifier</target>
+        <target state="translated">Szukaj według nazwy, identyfikatora</target>
         <note>key: ibexa.shipping.list.search.query.placeholder</note>
       </trans-unit>
       <trans-unit id="d795d23ce48bc24fadc5cb07a98dbff5b391620a" resname="ibexa.shipping.list.search.region.placeholder">
@@ -168,12 +168,12 @@
       </trans-unit>
       <trans-unit id="743a1b2ca58ecc827594786e3f5c14e3ef7d7d84" resname="ibexa.shipping.list.search.type.placeholder">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Wszystkie</target>
         <note>key: ibexa.shipping.list.search.type.placeholder</note>
       </trans-unit>
       <trans-unit id="2075d4730e6d5623407bcf0a9a0b57b9acba2a2e" resname="ibexa.shipping.list.status.active">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Aktywna</target>
         <note>key: ibexa.shipping.list.status.active</note>
       </trans-unit>
       <trans-unit id="bee7f96bd7b7179218d4483ec830e12cbd3c3303" resname="ibexa.shipping.list.status.inactive">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="99378dca14fa67497633bdda183b07c7d76c1b6d" resname="ibexa.shipping.list.table.action.edit.label">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: ibexa.shipping.list.table.action.edit.label</note>
       </trans-unit>
       <trans-unit id="384f863848a51aa0a6e3d99cd27c4ecf45ea8037" resname="ibexa.shipping.list.table.empty.action_text">
@@ -198,27 +198,27 @@
       </trans-unit>
       <trans-unit id="8326f50936169de63c29699e60a39d2a71b773d3" resname="ibexa.shipping.list.table.header.availability">
         <source>Availability</source>
-        <target state="needs-translation">Availability</target>
+        <target state="translated">Dostępność</target>
         <note>key: ibexa.shipping.list.table.header.availability</note>
       </trans-unit>
       <trans-unit id="6dfe42236cdfd1783e691db7477415dbf526b47f" resname="ibexa.shipping.list.table.header.id">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identyfikator</target>
         <note>key: ibexa.shipping.list.table.header.id</note>
       </trans-unit>
       <trans-unit id="9e20047bdb3d668f20ab512cc187bd1156f5dafe" resname="ibexa.shipping.list.table.header.method_type">
         <source>Method type</source>
-        <target state="needs-translation">Method type</target>
+        <target state="translated">Rodzaj metody</target>
         <note>key: ibexa.shipping.list.table.header.method_type</note>
       </trans-unit>
       <trans-unit id="15af05cc95aef9a5b8e5efe2b404e14960986171" resname="ibexa.shipping.list.table.header.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: ibexa.shipping.list.table.header.name</note>
       </trans-unit>
       <trans-unit id="07e62ea42576ad616a9ae38455336f367c064510" resname="ibexa.shipping.list.table.header.region">
         <source>Region</source>
-        <target state="needs-translation">Region</target>
+        <target state="translated">Region</target>
         <note>key: ibexa.shipping.list.table.header.region</note>
       </trans-unit>
       <trans-unit id="adf8c300a4c0f27e4d431e3f45f2d6c0be3da478" resname="ibexa.shipping_method.anchor_navigation.cost">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="f270a049c00e0652d67761dc484eb19056e3570d" resname="ibexa.shipping_method.breadcrumb.list">
         <source>Shipping methods</source>
-        <target state="needs-translation">Shipping methods</target>
+        <target state="translated">Metody wysyłki</target>
         <note>key: ibexa.shipping_method.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="843de7068203a9c4bfdd524e94ba3fc503b54c5b" resname="ibexa.shipping_method.breadcrumb.view">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="e5ba72c3f9474982ed744c50148235c44ae3db06" resname="ibexa.shipping_method.enabled.label">
         <source>Availability</source>
-        <target state="needs-translation">Availability</target>
+        <target state="translated">Dostępność</target>
         <note>key: ibexa.shipping_method.enabled.label</note>
       </trans-unit>
       <trans-unit id="fe6e32f608ccec8a8543510d48a4464668e3904d" resname="ibexa.shipping_method.flat_rate.cost.label">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="50eea9b159190b3a7626e5672bb0f373f4ea825c" resname="ibexa.shipping_method.list.title">
         <source>Shipping methods</source>
-        <target state="needs-translation">Shipping methods</target>
+        <target state="translated">Metody wysyłki</target>
         <note>key: ibexa.shipping_method.list.title</note>
       </trans-unit>
       <trans-unit id="5a09a59762576b53b33ef692b19fcbb9c7ef1ce2" resname="ibexa.shipping_method.new.action_name">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="db499466297a5b035efe3289bda03bd98243e5eb" resname="ibexa.shipping_method.type.label">
         <source>Method type</source>
-        <target state="needs-translation">Method type</target>
+        <target state="translated">Rodzaj metody</target>
         <note>key: ibexa.shipping_method.type.label</note>
       </trans-unit>
       <trans-unit id="2512f1ebc6577259bc1d8b9da0d1e93e8112a175" resname="ibexa.shipping_method.view.tab.cost.cost_value">
@@ -398,12 +398,12 @@
       </trans-unit>
       <trans-unit id="15eb571018a813c9ec4edde1cfc068334b022a63" resname="ibexa.shipping_types.flat_rate.name">
         <source>Flat rate</source>
-        <target state="needs-translation">Flat rate</target>
+        <target state="translated">Stała opłata</target>
         <note>key: ibexa.shipping_types.flat_rate.name</note>
       </trans-unit>
       <trans-unit id="fa6bd0d474279372887569496144e9b4b72c459d" resname="ibexa.shipping_types.free.name">
         <source>Free shipping</source>
-        <target state="needs-translation">Free shipping</target>
+        <target state="translated">Darmowa wysyłka</target>
         <note>key: ibexa.shipping_types.free.name</note>
       </trans-unit>
       <trans-unit id="9bca9a160ee6cbac69bde2db23b051d6dbd88a89" resname="ibexa_shipping_method_translation_remove_form.remove">
