@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="da38860cb875cb64092e402d80d9fe29c4865b18" resname="close">
+        <source>Close</source>
+        <target>crwdns242542:0crwdne242542:0</target>
+        <note>key: close</note>
+      </trans-unit>
+      <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
+        <source>Create content</source>
+        <target>crwdns242544:0crwdne242544:0</target>
+        <note>key: content.create.create_content</note>
+      </trans-unit>
+      <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
+        <source>Select a Content Type:</source>
+        <target>crwdns242546:0crwdne242546:0</target>
+        <note>key: content.create.select_content_type</note>
+      </trans-unit>
+      <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
+        <source>Select a language:</source>
+        <target>crwdns242548:0crwdne242548:0</target>
+        <note>key: content.create.select_language</note>
+      </trans-unit>
+      <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language">
+        <source>Select language</source>
+        <target>crwdns242550:0crwdne242550:0</target>
+        <note>key: content.edit.select_language</note>
+      </trans-unit>
+      <trans-unit id="9f897e0a8684c5fcf61d4d121bd7122a12f99c32" resname="infobar.author.name">
+        <source><![CDATA[by <span class="ibexa-content-details__author">%name%</span>]]></source>
+        <target><![CDATA[crwdns242552:0%name%crwdne242552:0]]></target>
+        <note>key: infobar.author.name</note>
+      </trans-unit>
+      <trans-unit id="4fe48dd2501989467cec918b66ccdf0e89c274f3" resname="infobar.create">
+        <source>Create</source>
+        <target>crwdns242554:0crwdne242554:0</target>
+        <note>key: infobar.create</note>
+      </trans-unit>
+      <trans-unit id="e1027757af4cedb3577c7b7e63789ebd329fdb1e" resname="infobar.last_edited">
+        <source>Last edited:</source>
+        <target>crwdns242556:0crwdne242556:0</target>
+        <note>key: infobar.last_edited</note>
+      </trans-unit>
+      <trans-unit id="b8a74ee93a78609c69343a3667b60bac64dc1d04" resname="infobar.mode.preview_language">
+        <source>Language</source>
+        <target>crwdns242558:0crwdne242558:0</target>
+        <note>key: infobar.mode.preview_language</note>
+      </trans-unit>
+      <trans-unit id="8187f29c44b9b28df27456f5667aa9d0c26bb1cb" resname="infobar.mode.viewing">
+        <source>Viewing</source>
+        <target>crwdns242560:0crwdne242560:0</target>
+        <note>key: infobar.mode.viewing</note>
+      </trans-unit>
+      <trans-unit id="01673cd18fd4cc76a17b5a8c8dcec7012fe0e7c4" resname="infobar.options">
+        <source>Options</source>
+        <target>crwdns242562:0crwdne242562:0</target>
+        <note>key: infobar.options</note>
+      </trans-unit>
+      <trans-unit id="0037583914dd6b96fb00416feb97ab193dbb36cc" resname="versions.archived">
+        <source>Archived</source>
+        <target>crwdns242564:0crwdne242564:0</target>
+        <note>key: versions.archived</note>
+      </trans-unit>
+      <trans-unit id="fdacd4e9889756946f3c71ec738cd4235e19d2d1" resname="versions.cant.fetch.contributor">
+        <source>Can't fetch contributor</source>
+        <target>crwdns242566:0crwdne242566:0</target>
+        <note>key: versions.cant.fetch.contributor</note>
+      </trans-unit>
+      <trans-unit id="db9d866f6bcc68c3fe4832b03061be4485efaad9" resname="versions.create">
+        <source>Created</source>
+        <target>crwdns242568:0crwdne242568:0</target>
+        <note>key: versions.create</note>
+      </trans-unit>
+      <trans-unit id="ba23b906c7f7068de467f6b8c2c5f5f35e2b6a83" resname="versions.draft">
+        <source>Draft</source>
+        <target>crwdns242570:0crwdne242570:0</target>
+        <note>key: versions.draft</note>
+      </trans-unit>
+      <trans-unit id="fd0a77b133d6b13b9b52fd32a4c97d82d6090845" resname="versions.edit">
+        <source>Edit</source>
+        <target>crwdns242572:0crwdne242572:0</target>
+        <note>key: versions.edit</note>
+      </trans-unit>
+      <trans-unit id="4cee4ab324127a55bbad1f6f278243b5f4d6d5fe" resname="versions.modified.language">
+        <source>Modified language</source>
+        <target>crwdns242574:0crwdne242574:0</target>
+        <note>key: versions.modified.language</note>
+      </trans-unit>
+      <trans-unit id="c5da841c5cfb95ad344560906b3704a2761fc9e8" resname="versions.owner">
+        <source>Owner</source>
+        <target>crwdns242576:0crwdne242576:0</target>
+        <note>key: versions.owner</note>
+      </trans-unit>
+      <trans-unit id="522ee1a38689c552703013e97d25490e259e8e5c" resname="versions.published">
+        <source>Published</source>
+        <target>crwdns242578:0crwdne242578:0</target>
+        <note>key: versions.published</note>
+      </trans-unit>
+      <trans-unit id="b17f6ef3673538bffa9a886f2b27d6a6da08523d" resname="versions.restore">
+        <source>Restore</source>
+        <target>crwdns242580:0crwdne242580:0</target>
+        <note>key: versions.restore</note>
+      </trans-unit>
+      <trans-unit id="352c05c19e5fab7c657850858ea40d49e5fb831a" resname="versions.status">
+        <source>Status</source>
+        <target>crwdns242582:0crwdne242582:0</target>
+        <note>key: versions.status</note>
+      </trans-unit>
+      <trans-unit id="c2171084e09c845f66be70d4562091a9f4f16c74" resname="versions.title">
+        <source>Versions</source>
+        <target>crwdns242584:0crwdne242584:0</target>
+        <note>key: versions.title</note>
+      </trans-unit>
+      <trans-unit id="2ff0468ad08a8cd0e54b166b3fb9f289143f4cfa" resname="versions.version">
+        <source>Version</source>
+        <target>crwdns242586:0crwdne242586:0</target>
+        <note>key: versions.version</note>
+      </trans-unit>
+      <trans-unit id="dd7c027f3d47d1c03a8454203f66a0f2b93eaedc" resname="versions.view">
+        <source>View</source>
+        <target>crwdns242588:0crwdne242588:0</target>
+        <note>key: versions.view</note>
+      </trans-unit>
+      <trans-unit id="42d18b1c2cf26b097b795edf09a81ad466f06c19" resname="versions.viewing">
+        <source>VIEWING</source>
+        <target>crwdns242590:0crwdne242590:0</target>
+        <note>key: versions.viewing</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
