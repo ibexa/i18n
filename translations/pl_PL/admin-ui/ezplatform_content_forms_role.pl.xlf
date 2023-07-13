@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="e797dbd775ecc5788f41ceeb960b70a9d7a116ca" resname="policy.limitation.member_of.self_user_group">
         <source>Self</source>
-        <target state="needs-translation">Self</target>
+        <target state="translated">Własne</target>
         <note>key: policy.limitation.member_of.self_user_group</note>
       </trans-unit>
       <trans-unit id="cc7c597ffa43ef724b881b127a4124fd35c8c6f6" resname="policy.limitation.owner.self">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="290f48ccc1eb2889852b730ac62b2b148594c85f" resname="role.policy.limitation.location_deleted">
         <source>Location deleted</source>
-        <target state="needs-translation">Location deleted</target>
+        <target state="translated">Lokalizacja usunięta</target>
         <note>key: role.policy.limitation.location_deleted</note>
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
