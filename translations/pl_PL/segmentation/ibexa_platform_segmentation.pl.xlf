@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="473691bfe0ea27b58d9054fc54b64411d72cf974" resname="change.content">
         <source>Change</source>
-        <target state="needs-translation">Change</target>
+        <target state="translated">Zmień</target>
         <note>key: change.content</note>
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="99291c19d4787ddbed7fe4a0f1c8a5e98c94c97e" resname="form.creating_new_segment">
         <source>Create segment</source>
-        <target state="needs-translation">Create segment</target>
+        <target state="translated">Utwórz segment</target>
         <note>key: form.creating_new_segment</note>
       </trans-unit>
       <trans-unit id="14f5710a26372cc286e60d1098f146ddaafffcf0" resname="form.creating_new_segment_group">
         <source>Create segment group</source>
-        <target state="needs-translation">Create segment group</target>
+        <target state="translated">Utwórz grupę segmentów</target>
         <note>key: form.creating_new_segment_group</note>
       </trans-unit>
       <trans-unit id="1ab8eff8f8a478baa5c6d8667ad75648cac1ea7f" resname="form.editing">
@@ -48,17 +48,17 @@
       </trans-unit>
       <trans-unit id="6d0b3761c7a30fcfe7ddcc1bba4eccf708638271" resname="segment.create.success">
         <source>Segment '%name%' added.</source>
-        <target state="needs-translation">Segment '%name%' added.</target>
+        <target state="translated">Segment '%name%' dodany.</target>
         <note>key: segment.create.success</note>
       </trans-unit>
       <trans-unit id="bb1ab9042f90f67a8d63cac13b6a7fd648fb0841" resname="segment.delete.success">
         <source>Segment '%segment%' removed.</source>
-        <target state="needs-translation">Segment '%segment%' removed.</target>
+        <target state="translated">Usunięto segment '%segment%.</target>
         <note>key: segment.delete.success</note>
       </trans-unit>
       <trans-unit id="c06f283e90ae30cc2ef96139e4d26f742f5c3562" resname="segment.update.success">
         <source>Segment '%name%' updated.</source>
-        <target state="needs-translation">Segment '%name%' updated.</target>
+        <target state="translated">Zaktualizowano segment '%name%.</target>
         <note>key: segment.update.success</note>
       </trans-unit>
       <trans-unit id="84987c1330d341b95bac668156c0e2b1db2db644" resname="segment_group.action.delete">
@@ -68,12 +68,12 @@
       </trans-unit>
       <trans-unit id="7e946592cc59b778faf63d3a840e42d87ff00a26" resname="segment_group.create.success">
         <source>Segment Group '%segment_group%' created.</source>
-        <target state="needs-translation">Segment Group '%segment_group%' created.</target>
+        <target state="translated">Grupa Segmentów '%segment_group%' została utworzona.</target>
         <note>key: segment_group.create.success</note>
       </trans-unit>
       <trans-unit id="2acd53f897aff262b550d178a9d43a44733cfd88" resname="segment_group.delete.success">
         <source>Segment Group '%segment_group%' removed.</source>
-        <target state="needs-translation">Segment Group '%segment_group%' removed.</target>
+        <target state="translated">Grupa segmentów '%segment_group%' usunięta.</target>
         <note>key: segment_group.delete.success</note>
       </trans-unit>
       <trans-unit id="ec792bba69b58c2f454919e5e5558d0d1c9c5a32" resname="segment_group.identifier">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="06b27025428818eb225cf1550f4eeafbc096af0d" resname="segment_group.segments.header">
         <source>Segments under this group</source>
-        <target state="needs-translation">Segments under this group</target>
+        <target state="translated">Segmenty w tej grupie</target>
         <note>key: segment_group.segments.header</note>
       </trans-unit>
       <trans-unit id="07dd1ff7e83c430af46ae267f0f14e3debc896c4" resname="segment_group.subtitle">
@@ -148,12 +148,12 @@
       </trans-unit>
       <trans-unit id="3cfdaca80b61c5c97dc042598d1b91753ba790b3" resname="segment_group.tab.header.segments">
         <source>Segments under this group</source>
-        <target state="needs-translation">Segments under this group</target>
+        <target state="translated">Segmenty w tej grupie</target>
         <note>key: segment_group.tab.header.segments</note>
       </trans-unit>
       <trans-unit id="ac3219c4ef255cc200f1c7cfdaf3191a0be5de39" resname="segment_group.update.success">
         <source>Segment Group '%segment_group%' updated.</source>
-        <target state="needs-translation">Segment Group '%segment_group%' updated.</target>
+        <target state="translated">Grupa Segmentów '%segment_group%' zaktualizowana.</target>
         <note>key: segment_group.update.success</note>
       </trans-unit>
       <trans-unit id="0c13dd5fadc3aee3d6e71563202f46f75f8b9dcd" resname="segment_group.view.segment_bulk_delete.modal.message">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="49ca1e24e1c1c2758509d7a8ce79e314d08b954d" resname="segment_groups.list.empty">
         <source>No Segment Groups.</source>
-        <target state="needs-translation">No Segment Groups.</target>
+        <target state="translated">Brak grup segmentów.</target>
         <note>key: segment_groups.list.empty</note>
       </trans-unit>
       <trans-unit id="447e390e05e47c271171f1585d35eb0f3a063240" resname="segment_groups.list.identifier">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="d6efa7124b1b5bcfbdd21c7ba5f95ef31b66e817" resname="segment_groups.list.segments_count">
         <source>Segments under this group</source>
-        <target state="needs-translation">Segments under this group</target>
+        <target state="translated">Segmenty w tej grupie</target>
         <note>key: segment_groups.list.segments_count</note>
       </trans-unit>
       <trans-unit id="9e55c95617a32088ec40c1b3e7af09e1e9891a21" resname="segment_groups.list.title">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="0265d77024894b8b89822d0275d9e5c60a2f5363" resname="segment_groups.segment_list.empty">
         <source>There are no Segments in this group.</source>
-        <target state="needs-translation">There are no Segments in this group.</target>
+        <target state="translated">Brak segmentów w tej grupie.</target>
         <note>key: segment_groups.segment_list.empty</note>
       </trans-unit>
       <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content" approved="yes">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="0b5f1e6b2375ec0fce792513699ca8d043eb175e" resname="tab.segments.no_segments">
         <source>User is not assigned to any segments.</source>
-        <target state="needs-translation">User is not assigned to any segments.</target>
+        <target state="translated">Użytkownik nie jest przypisany do żadnych segmentów.</target>
         <note>key: tab.segments.no_segments</note>
       </trans-unit>
       <trans-unit id="d0f8e46050e5ea97bb87ffa7d41d8b9b5c3148a4" resname="tab.segments.table.group">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="8c304e47a614ae318b1de7e89f2bd927beb85bf7" resname="tab.segments.table.no_segments">
         <source>User is not assigned to any segments or you don't have read permissions to view them.</source>
-        <target state="needs-translation">User is not assigned to any segments or you don't have read permissions to view them.</target>
+        <target state="translated">Użytkownik nie jest przypisany do żadnych segmentów lub nie masz uprawnień do odczytu, aby je zobaczyć.</target>
         <note>key: tab.segments.table.no_segments</note>
       </trans-unit>
     </body>
