@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="fe14b67513fcea11ed2cef38a90d5c4cf91aa532" resname="role.policy.segment">
+        <source>Segment</source>
+        <target>crwdns251389:0crwdne251389:0</target>
+        <note>key: role.policy.segment</note>
+      </trans-unit>
+      <trans-unit id="3939393469a4421bacb5ed2e75f992f6837240ab" resname="role.policy.segment.all_functions">
+        <source>Segment / All functions</source>
+        <target>crwdns251391:0crwdne251391:0</target>
+        <note>key: role.policy.segment.all_functions</note>
+      </trans-unit>
+      <trans-unit id="6b9aadd7750a5f4b5331660d42c358959335b826" resname="role.policy.segment.assign_to_user">
+        <source>Segment / Assign to user</source>
+        <target>crwdns251393:0crwdne251393:0</target>
+        <note>key: role.policy.segment.assign_to_user</note>
+      </trans-unit>
+      <trans-unit id="09a0c2388423585b64a6703b275eca4bb2e92777" resname="role.policy.segment.create">
+        <source>Segment / Create</source>
+        <target>crwdns251395:0crwdne251395:0</target>
+        <note>key: role.policy.segment.create</note>
+      </trans-unit>
+      <trans-unit id="506b3e8dca9edee470906099f4e5e766e47e1506" resname="role.policy.segment.read">
+        <source>Segment / Read</source>
+        <target>crwdns251397:0crwdne251397:0</target>
+        <note>key: role.policy.segment.read</note>
+      </trans-unit>
+      <trans-unit id="9cc5de1950915f9efcff2fcd8f7180eb7071c5cb" resname="role.policy.segment.remove">
+        <source>Segment / Remove</source>
+        <target>crwdns251399:0crwdne251399:0</target>
+        <note>key: role.policy.segment.remove</note>
+      </trans-unit>
+      <trans-unit id="0c055076bc059993f1e44092473b7006ae34df96" resname="role.policy.segment.update">
+        <source>Segment / Update</source>
+        <target>crwdns251401:0crwdne251401:0</target>
+        <note>key: role.policy.segment.update</note>
+      </trans-unit>
+      <trans-unit id="c105a8689a3c11e6c3cc7840662eab1832989141" resname="role.policy.segment.view_user_segment_list">
+        <source>Segment / View user segment list</source>
+        <target>crwdns251403:0crwdne251403:0</target>
+        <note>key: role.policy.segment.view_user_segment_list</note>
+      </trans-unit>
+      <trans-unit id="80900cd56c795ae32bc19af548c92ec378d7df63" resname="role.policy.segment_group">
+        <source>Segment Group</source>
+        <target>crwdns251405:0crwdne251405:0</target>
+        <note>key: role.policy.segment_group</note>
+      </trans-unit>
+      <trans-unit id="f9cfe551c8bc01921b694a54d0038e93e289d38f" resname="role.policy.segment_group.all_functions">
+        <source>Segment Group / All functions</source>
+        <target>crwdns251407:0crwdne251407:0</target>
+        <note>key: role.policy.segment_group.all_functions</note>
+      </trans-unit>
+      <trans-unit id="6540ac8a8b75f8b8865aba1ef496c7cf25230a2b" resname="role.policy.segment_group.create">
+        <source>Segment Group / Create</source>
+        <target>crwdns251409:0crwdne251409:0</target>
+        <note>key: role.policy.segment_group.create</note>
+      </trans-unit>
+      <trans-unit id="20ec96c7e8a543e6db46087e1bdf8d57536fa87f" resname="role.policy.segment_group.read">
+        <source>Segment Group / Read</source>
+        <target>crwdns251411:0crwdne251411:0</target>
+        <note>key: role.policy.segment_group.read</note>
+      </trans-unit>
+      <trans-unit id="7d82357527b29fc05f07816c1eaf134a07896df0" resname="role.policy.segment_group.remove">
+        <source>Segment Group / Remove</source>
+        <target>crwdns251413:0crwdne251413:0</target>
+        <note>key: role.policy.segment_group.remove</note>
+      </trans-unit>
+      <trans-unit id="85913834465cd211b38d0d8b21e6828f94b38df3" resname="role.policy.segment_group.update">
+        <source>Segment Group / Update</source>
+        <target>crwdns251415:0crwdne251415:0</target>
+        <note>key: role.policy.segment_group.update</note>
+      </trans-unit>
+      <trans-unit id="7977b91cf7f7467de74633ce7fd46a0714ab5412" resname="segment_bulk_delete_form.delete">
+        <source>Delete Segments</source>
+        <target>crwdns242270:0crwdne242270:0</target>
+        <note>key: segment_bulk_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="9a069765672a2f2b864751f1bb933202a8dab393" resname="segment_create_form.create">
+        <source>Create</source>
+        <target>crwdns242272:0crwdne242272:0</target>
+        <note>key: segment_create_form.create</note>
+      </trans-unit>
+      <trans-unit id="89b4e639fd50276fdaa2def0bd01f262c4ea0686" resname="segment_group_bulk_delete_form.delete">
+        <source>Delete</source>
+        <target>crwdns242274:0crwdne242274:0</target>
+        <note>key: segment_group_bulk_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="d4bad89505ed54f60df85a8d458fa2e4ac1ac8db" resname="segment_group_create.identifier">
+        <source>Identifier</source>
+        <target>crwdns242276:0crwdne242276:0</target>
+        <note>key: segment_group_create.identifier</note>
+      </trans-unit>
+      <trans-unit id="20d5e75dd76b6dc414be25970c59dd92a262182d" resname="segment_group_create.name">
+        <source>Name</source>
+        <target>crwdns242278:0crwdne242278:0</target>
+        <note>key: segment_group_create.name</note>
+      </trans-unit>
+      <trans-unit id="e21a084414105588c582871d94fe6aa3eb7fc986" resname="segment_group_create.segments">
+        <source>Segments</source>
+        <target>crwdns242280:0crwdne242280:0</target>
+        <note>key: segment_group_create.segments</note>
+      </trans-unit>
+      <trans-unit id="c8aa8e048b310f79beff0be025bbf0fa7b845635" resname="segment_group_create_form.create">
+        <source>Create</source>
+        <target>crwdns242282:0crwdne242282:0</target>
+        <note>key: segment_group_create_form.create</note>
+      </trans-unit>
+      <trans-unit id="ad7c607ca86930e2af197c0f1ad44c646fe499be" resname="segment_group_create_form.update">
+        <source>Update</source>
+        <target>crwdns242284:0crwdne242284:0</target>
+        <note>key: segment_group_create_form.update</note>
+      </trans-unit>
+      <trans-unit id="36cee6fed4b7db33951de85cd54ca60bb7822e1d" resname="segment_group_delete_form.delete">
+        <source>Delete</source>
+        <target>crwdns242286:0crwdne242286:0</target>
+        <note>key: segment_group_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="1346713c71d11a95fac08825d2e82fa8c9904162" resname="segment_update_form.update">
+        <source>Update</source>
+        <target>crwdns242288:0crwdne242288:0</target>
+        <note>key: segment_update_form.update</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
