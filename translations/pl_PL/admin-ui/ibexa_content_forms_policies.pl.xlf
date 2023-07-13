@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0ba4dd0a3e03edbb23ad81c27bb921449e811cdc" resname="policy.limitation.identifier.changeowner">
         <source>Change Owner</source>
-        <target state="needs-translation">Change Owner</target>
+        <target state="translated">Zmień właściciela</target>
         <note>key: policy.limitation.identifier.changeowner</note>
       </trans-unit>
     </body>
