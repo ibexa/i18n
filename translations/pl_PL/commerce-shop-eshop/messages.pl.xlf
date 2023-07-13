@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="0b4ca9f65bc89a77d4217838aeaaa072ba0804b5" resname="%count% results">
         <source>%count% results</source>
-        <target state="needs-translation">%count% results</target>
+        <target state="translated">%count% wyników</target>
         <note>key: %count% results</note>
       </trans-unit>
       <trans-unit id="3dcad638d088540a2dd7bed653bdadce0b357a55" resname="%vat% VAT">
