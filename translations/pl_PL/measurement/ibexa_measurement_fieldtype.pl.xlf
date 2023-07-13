@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="5157b0602c53597ca45dfcf2e3b5e28693443d16" resname="field_definition.ibexa_measurement.measurement_unit">
         <source>Measurement Unit</source>
-        <target state="needs-translation">Measurement Unit</target>
+        <target state="translated">Jednostka miary</target>
         <note>key: field_definition.ibexa_measurement.measurement_unit</note>
       </trans-unit>
     </body>
