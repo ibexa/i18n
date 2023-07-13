@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="e71610c4106a78f22cb355ee1b1b56904e59ec9e" resname="language.creating">
         <source>Adding</source>
-        <target state="needs-translation">Adding</target>
+        <target state="translated">Dodawanie</target>
         <note>key: language.creating</note>
       </trans-unit>
       <trans-unit id="7c8fcdc1c11d3c1cf2a4380f440ef3d157b68c12" resname="language.delete.success" approved="yes">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="ed7e6b485737184b494f399ea010f537c9a741f5" resname="language.new.title">
         <source>New Language</source>
-        <target state="needs-translation">New Language</target>
+        <target state="translated">Nowy Język</target>
         <note>key: language.new.title</note>
       </trans-unit>
       <trans-unit id="3b125675237475a6d5bef27ca92efd5fa734552b" resname="language.subtitle">
         <source>Languages</source>
-        <target state="needs-translation">Languages</target>
+        <target state="translated">Języki</target>
         <note>key: language.subtitle</note>
       </trans-unit>
       <trans-unit id="fba43c054072899f63d3e09cfd9f0a07d8768234" resname="language.update.success" approved="yes">
