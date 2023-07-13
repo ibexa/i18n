@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="6bb594e835f1d21be6212332db13ed01071337ff" resname="future_hide.action.reschedule.label">
         <source>Reschedule</source>
-        <target state="needs-translation">Reschedule</target>
+        <target state="translated">Zaplanuj ponownie</target>
         <note>key: future_hide.action.reschedule.label</note>
       </trans-unit>
       <trans-unit id="8f21eb3d7b46b1a2a079c5b8019e62d77f85f142" resname="future_hide.action.unschedule.label">
         <source>Cancel hiding</source>
-        <target state="needs-translation">Cancel hiding</target>
+        <target state="translated">Anuluj ukrywanie</target>
         <note>key: future_hide.action.unschedule.label</note>
       </trans-unit>
       <trans-unit id="bb4399374d3885ded0ee2e2b2d1c34fa4e4cae97" resname="future_hide.attribute.content_type.label">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="f01b2ae0dce2e28724b27d1ca71b44d764d2636e" resname="future_publication.action.reschedule.label">
         <source>Reschedule</source>
-        <target state="needs-translation">Reschedule</target>
+        <target state="translated">Zaplanuj ponownie</target>
         <note>key: future_publication.action.reschedule.label</note>
       </trans-unit>
       <trans-unit id="53a0be7e89d421b9dfa28ca9fa0fcf29c5a70675" resname="future_publication.action.unschedule.label">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="f959f501d6fe50e8cb2bba1d789cc29c3b3a31f2" resname="future_publication.attribute.modified_language.label">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">Zmodyfikowany język</target>
         <note>key: future_publication.attribute.modified_language.label</note>
       </trans-unit>
       <trans-unit id="b707401e387977dff9576ab9c9fcfa3a081ffbca" resname="future_publication.label">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="0f2c71401903537601bc0f7a376f2a045a3e300d" resname="modal.discard.button.confirm.label">
         <source>Cancel publication</source>
-        <target state="needs-translation">Cancel publication</target>
+        <target state="translated">Anuluj publikację</target>
         <note>key: modal.discard.button.confirm.label</note>
       </trans-unit>
       <trans-unit id="daae0a566e88afb5ab3cabfbc2cf570bc1d00087" resname="modal.discard.header">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="88df5f78dd3f9ca1d8a228bec1d5e93180c223bf" resname="modal.discard.table.header">
         <source>Selected content (%eventsCount%)</source>
-        <target state="needs-translation">Selected content (%eventsCount%)</target>
+        <target state="translated">Wybrana zawartość (%eventsCount%)</target>
         <note>key: modal.discard.table.header</note>
       </trans-unit>
       <trans-unit id="3ac0155a7aa68fb42895db7b88488dd6bca64259" resname="modal.discard.table.language.label">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">Zmodyfikowano język</target>
         <note>key: modal.discard.table.language.label</note>
       </trans-unit>
       <trans-unit id="009172790a92714b1fad31ff1ea9f9691f3b9953" resname="modal.discard.table.name.label">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="99f588ae4311b9253318557ac5004b357fe776b6" resname="modal.future_hide.reschedule.button.confirm.label">
         <source>Confirm rescheduling</source>
-        <target state="needs-translation">Confirm rescheduling</target>
+        <target state="translated">Potwierdź zmianę harmonogramu</target>
         <note>key: modal.future_hide.reschedule.button.confirm.label</note>
       </trans-unit>
       <trans-unit id="2ea5eec8428ac4d294341d300eee8233b4575e27" resname="modal.future_hide.reschedule.date_picker.label">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="f48c4e472bd9e86a066060225f621949424f2b81" resname="reschedule.error.message">
         <source>Cannot reschedule</source>
-        <target state="needs-translation">Cannot reschedule</target>
+        <target state="translated">Nie można zmienić harmonogramu</target>
         <note>key: reschedule.error.message</note>
       </trans-unit>
       <trans-unit id="efe280f52ff7d384892d51a05ca8fe577ab73d78" resname="unschedule.error.message">
