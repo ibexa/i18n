@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0ba4dd0a3e03edbb23ad81c27bb921449e811cdc" resname="policy.limitation.identifier.changeowner">
         <source>Change Owner</source>
-        <target state="needs-translation">Change Owner</target>
+        <target state="translated">Zmień właściciela</target>
         <note>key: policy.limitation.identifier.changeowner</note>
       </trans-unit>
       <trans-unit id="3742f2cc514848bd4a5eb03430e412d44f5d9ec2" resname="policy.limitation.identifier.class">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="57f04cb9d7b09f4314ca3855ee020325d3195ab3" resname="policy.limitation.identifier.fieldgroup">
         <source>Field Group</source>
-        <target state="needs-translation">Field Group</target>
+        <target state="translated">Grupa pól</target>
         <note>key: policy.limitation.identifier.fieldgroup</note>
       </trans-unit>
       <trans-unit id="76adf2a27f1ae0ab14b623729cd3f281a6e2c285" resname="policy.limitation.identifier.group">
@@ -78,17 +78,17 @@
       </trans-unit>
       <trans-unit id="1b6a38d05e399ed640e6497fcd79ac31e4aafd73" resname="policy.limitation.identifier.personalizationaccess">
         <source>Personalization Access</source>
-        <target state="needs-translation">Personalization Access</target>
+        <target state="translated">Dostęp do personalizacji</target>
         <note>key: policy.limitation.identifier.personalizationaccess</note>
       </trans-unit>
       <trans-unit id="af73694f5c5e5868af7948fb04f0d6bfe7ee6ad4" resname="policy.limitation.identifier.producttype">
         <source>Product Type</source>
-        <target state="needs-translation">Product Type</target>
+        <target state="translated">Typ produktu</target>
         <note>key: policy.limitation.identifier.producttype</note>
       </trans-unit>
       <trans-unit id="9f2e53e094725bbc243ad777547724ab923a31d1" resname="policy.limitation.identifier.role">
         <source>Role</source>
-        <target state="needs-translation">Role</target>
+        <target state="translated">Rola</target>
         <note>key: policy.limitation.identifier.role</note>
       </trans-unit>
       <trans-unit id="bb77b27363dad566197a200290f0f0b18baa4705" resname="policy.limitation.identifier.section">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="659face270db8822838d3efd32b3a9b72a6dc5f6" resname="policy.limitation.identifier.segmentgroup">
         <source>Segment Group</source>
-        <target state="needs-translation">Segment Group</target>
+        <target state="translated">Grupa segmentów</target>
         <note>key: policy.limitation.identifier.segmentgroup</note>
       </trans-unit>
       <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
@@ -128,12 +128,12 @@
       </trans-unit>
       <trans-unit id="097f571a3c731c66c83230e465f4b3c9af811add" resname="policy.limitation.identifier.userpermissions">
         <source>User Permissions</source>
-        <target state="needs-translation">User Permissions</target>
+        <target state="translated">Uprawnienia użytkownika</target>
         <note>key: policy.limitation.identifier.userpermissions</note>
       </trans-unit>
       <trans-unit id="ae8d9836b92dd7d303929104953d877fa9c14fed" resname="policy.limitation.identifier.versionlock">
         <source>Version Lock</source>
-        <target state="needs-translation">Version Lock</target>
+        <target state="translated">Blokada wersji</target>
         <note>key: policy.limitation.identifier.versionlock</note>
       </trans-unit>
       <trans-unit id="920f6a0525d6ba93ff83f46e22baa981ff0b483c" resname="policy.limitation.identifier.workflowstage">
