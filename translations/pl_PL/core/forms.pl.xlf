@@ -8,67 +8,67 @@
     <body>
       <trans-unit id="f52e45b25ff70b3d1d07c57911ceda58dcdf7431" resname="role.policy.class">
         <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <target state="translated">Typ treści</target>
         <note>key: role.policy.class</note>
       </trans-unit>
       <trans-unit id="2f746c35c587bdc84cacf38d0e63e08855e831ab" resname="role.policy.class.all_functions">
         <source>Content Type / All functions</source>
-        <target state="needs-translation">Content Type / All functions</target>
+        <target state="translated">Typ treści / Wszystkie funkcje</target>
         <note>key: role.policy.class.all_functions</note>
       </trans-unit>
       <trans-unit id="02049080d0f8dea3f723bbd1a280900b0657914e" resname="role.policy.class.create">
         <source>Content Type / Create</source>
-        <target state="needs-translation">Content Type / Create</target>
+        <target state="translated">Typ treści / Utwórz</target>
         <note>key: role.policy.class.create</note>
       </trans-unit>
       <trans-unit id="17ee6a3320ad9ac02c376bdcb875b266c28e34db" resname="role.policy.class.delete">
         <source>Content Type / Delete</source>
-        <target state="needs-translation">Content Type / Delete</target>
+        <target state="translated">Typ treści / Usuń</target>
         <note>key: role.policy.class.delete</note>
       </trans-unit>
       <trans-unit id="f47b14b0adc8b08abd44c37e801d6b2c3180a2ee" resname="role.policy.class.update">
         <source>Content Type / Update</source>
-        <target state="needs-translation">Content Type / Update</target>
+        <target state="translated">Typ treści / Zaktualizuj</target>
         <note>key: role.policy.class.update</note>
       </trans-unit>
       <trans-unit id="ffe83a713e8b33558df040efa1eeadd0b1cc18e0" resname="role.policy.content">
         <source>Content</source>
-        <target state="needs-translation">Content</target>
+        <target state="translated">Zawartość</target>
         <note>key: role.policy.content</note>
       </trans-unit>
       <trans-unit id="ea72f76a43bc0ec3eff965e68279dab5597b19c0" resname="role.policy.content.all_functions">
         <source>Content / All functions</source>
-        <target state="needs-translation">Content / All functions</target>
+        <target state="translated">Zawartość / wszystkie funkcje</target>
         <note>key: role.policy.content.all_functions</note>
       </trans-unit>
       <trans-unit id="e050709df5ae56b1e9168038182f4c52221ffab9" resname="role.policy.content.cleantrash">
         <source>Content / Cleantrash</source>
-        <target state="needs-translation">Content / Cleantrash</target>
+        <target state="translated">Zawartość / Czyszczenie</target>
         <note>key: role.policy.content.cleantrash</note>
       </trans-unit>
       <trans-unit id="597c25abf1e2d91e50b82d2699f8b85f68c9f305" resname="role.policy.content.create">
         <source>Content / Create</source>
-        <target state="needs-translation">Content / Create</target>
+        <target state="translated">Zawartość / Utwórz</target>
         <note>key: role.policy.content.create</note>
       </trans-unit>
       <trans-unit id="019bae55ae37c03117c05eb25cc208e9b2396827" resname="role.policy.content.diff">
         <source>Content / Diff</source>
-        <target state="needs-translation">Content / Diff</target>
+        <target state="translated">Zawartość / Porównaj</target>
         <note>key: role.policy.content.diff</note>
       </trans-unit>
       <trans-unit id="bdb3e6e10d770d20ffa7966acb58d3e9cf9805e2" resname="role.policy.content.edit">
         <source>Content / Edit</source>
-        <target state="needs-translation">Content / Edit</target>
+        <target state="translated">Zawartość / Edytuj</target>
         <note>key: role.policy.content.edit</note>
       </trans-unit>
       <trans-unit id="1049e14eb7fec2dc053571f607e0eb044a06e455" resname="role.policy.content.hide">
         <source>Content / Hide</source>
-        <target state="needs-translation">Content / Hide</target>
+        <target state="translated">Zawartość / Ukryj</target>
         <note>key: role.policy.content.hide</note>
       </trans-unit>
       <trans-unit id="d05f0b35c91f7d444c466871ff02886d74dc8f55" resname="role.policy.content.manage_locations">
         <source>Content / Manage locations</source>
-        <target state="needs-translation">Content / Manage locations</target>
+        <target state="translated">Zawartość / Zarządzaj lokalizacjami</target>
         <note>key: role.policy.content.manage_locations</note>
       </trans-unit>
       <trans-unit id="0c943bab11cd582ac439e67289d4efd86d8599e7" resname="role.policy.content.pendinglist">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="6f595f392af03d8b2e46449d527530e3e1f8eb94" resname="role.policy.content.publish">
         <source>Content / Publish</source>
-        <target state="needs-translation">Content / Publish</target>
+        <target state="translated">Zawartość / Opublikuj</target>
         <note>key: role.policy.content.publish</note>
       </trans-unit>
       <trans-unit id="2b5e52d4783100540d791657f21d9dc1a9fbbb30" resname="role.policy.content.read">
         <source>Content / Read</source>
-        <target state="needs-translation">Content / Read</target>
+        <target state="translated">Zawartość / Czytaj</target>
         <note>key: role.policy.content.read</note>
       </trans-unit>
       <trans-unit id="967c7d2238b619a63fd0fe00bc0ccd4589e9de4f" resname="role.policy.content.remove">
