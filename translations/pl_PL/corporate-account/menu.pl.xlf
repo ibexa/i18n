@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="a16131f7937e64e52a0373077db79502c9cba327" resname="main__corporateaccount__individuals">
         <source>Clients</source>
-        <target state="needs-translation">Clients</target>
+        <target state="translated">Klienci</target>
         <note>key: main__corporateaccount__individuals</note>
       </trans-unit>
       <trans-unit id="0c9c4cf942519a7fd59d5a23cf6b753064297ae1" resname="main__corporateaccount__settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">Ustawienia</target>
         <note>key: main__corporateaccount__settings</note>
       </trans-unit>
     </body>
