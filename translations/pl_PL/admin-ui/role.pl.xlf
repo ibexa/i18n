@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="b152833aa8e0248096e41ded7c2f10bb778e363b" resname="role_assignment.view.list.title">
         <source>Assignments</source>
-        <target state="needs-translation">Assignments</target>
+        <target state="translated">Przypisania</target>
         <note>key: role_assignment.view.list.title</note>
       </trans-unit>
       <trans-unit id="ed6ad791e1da76394f851307e19efdabb22a1595" resname="role_assignment.view.select.groups">
