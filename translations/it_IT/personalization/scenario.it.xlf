@@ -11,6 +11,11 @@
         <target state="translated"><![CDATA[Nome attributo <strong>%attr_name%</strong> Potenziamento di %number% posizioni]]></target>
         <note>key: ibexa_personalization.scenario.attribute_name_boost_by_positions</note>
       </trans-unit>
+      <trans-unit id="ab8aab1963ef72d571b9f8cb4ea1ca9b764aa710" resname="ibexa_personalization.scenario.commerce_settings.do_not_recommend_product_variants">
+        <source>Do not recommend product variants (only base products will be recommended)</source>
+        <target state="needs-translation">Do not recommend product variants (only base products will be recommended)</target>
+        <note>key: ibexa_personalization.scenario.commerce_settings.do_not_recommend_product_variants</note>
+      </trans-unit>
       <trans-unit id="58c4de4f2b038c7fc694aeac48b9e7c1f71ee6f3" resname="ibexa_personalization.scenario.do_not_recommend_if_price_unknown">
         <source>Do not recommend if price unknown</source>
         <target state="translated">Non raccomandare se il prezzo sconosciuto</target>

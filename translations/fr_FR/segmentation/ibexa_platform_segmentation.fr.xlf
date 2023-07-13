@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="473691bfe0ea27b58d9054fc54b64411d72cf974" resname="change.content">
+        <source>Change</source>
+        <target state="needs-translation">Change</target>
+        <note>key: change.content</note>
+      </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
         <source>Delete</source>
         <target state="translated">Supprimer</target>
@@ -17,13 +22,13 @@
         <note>key: form.cancel</note>
       </trans-unit>
       <trans-unit id="99291c19d4787ddbed7fe4a0f1c8a5e98c94c97e" resname="form.creating_new_segment">
-        <source>Creating a new segment</source>
-        <target state="translated">Créer une nouvelle segmentation</target>
+        <source>Create segment</source>
+        <target state="needs-translation">Create segment</target>
         <note>key: form.creating_new_segment</note>
       </trans-unit>
       <trans-unit id="14f5710a26372cc286e60d1098f146ddaafffcf0" resname="form.creating_new_segment_group">
-        <source>Creating a new segment group</source>
-        <target state="translated">Créer un  nouveau groupe de segmentation</target>
+        <source>Create segment group</source>
+        <target state="needs-translation">Create segment group</target>
         <note>key: form.creating_new_segment_group</note>
       </trans-unit>
       <trans-unit id="1ab8eff8f8a478baa5c6d8667ad75648cac1ea7f" resname="form.editing">
@@ -35,11 +40,6 @@
         <source>Editing segment</source>
         <target state="translated">Éditer segmentation</target>
         <note>key: form.editing_segment</note>
-      </trans-unit>
-      <trans-unit id="db99845855b2ecbfecca9a095062b96c3e27703f" resname="remove">
-        <source>Remove</source>
-        <target state="translated">Supprimer</target>
-        <note>key: remove</note>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
         <source>Edit</source>
@@ -132,8 +132,8 @@
         <note>key: segment_group.segment.remove</note>
       </trans-unit>
       <trans-unit id="06b27025428818eb225cf1550f4eeafbc096af0d" resname="segment_group.segments.header">
-        <source>Segment(s) under this group</source>
-        <target state="translated">Segmentation(s) sous ce groupe</target>
+        <source>Segments under this group</source>
+        <target state="needs-translation">Segments under this group</target>
         <note>key: segment_group.segments.header</note>
       </trans-unit>
       <trans-unit id="07dd1ff7e83c430af46ae267f0f14e3debc896c4" resname="segment_group.subtitle">
@@ -147,8 +147,8 @@
         <note>key: segment_group.tab.header.details</note>
       </trans-unit>
       <trans-unit id="3cfdaca80b61c5c97dc042598d1b91753ba790b3" resname="segment_group.tab.header.segments">
-        <source>Segment(s) under this group</source>
-        <target state="needs-translation">Segment(s) under this group</target>
+        <source>Segments under this group</source>
+        <target state="needs-translation">Segments under this group</target>
         <note>key: segment_group.tab.header.segments</note>
       </trans-unit>
       <trans-unit id="ac3219c4ef255cc200f1c7cfdaf3191a0be5de39" resname="segment_group.update.success">
@@ -187,8 +187,8 @@
         <note>key: segment_groups.list.name</note>
       </trans-unit>
       <trans-unit id="d6efa7124b1b5bcfbdd21c7ba5f95ef31b66e817" resname="segment_groups.list.segments_count">
-        <source>Segment(s) under this group</source>
-        <target state="translated">Segmentation(s) sous ce groupe</target>
+        <source>Segments under this group</source>
+        <target state="needs-translation">Segments under this group</target>
         <note>key: segment_groups.list.segments_count</note>
       </trans-unit>
       <trans-unit id="9e55c95617a32088ec40c1b3e7af09e1e9891a21" resname="segment_groups.list.title">

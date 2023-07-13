@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="f5954f78687f8dcf719d9db95bdb88f45dcb6a04" resname="ibexa.address.fields.email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">Email</target>
         <note>key: ibexa.address.fields.email</note>
       </trans-unit>
       <trans-unit id="5b8849721f5a591ec2937ec9d47d3c584f13edd5" resname="ibexa.address.fields.phone_number">
         <source>Phone number</source>
-        <target state="needs-translation">Phone number</target>
+        <target state="translated">Numer telefonu</target>
         <note>key: ibexa.address.fields.phone_number</note>
       </trans-unit>
     </body>

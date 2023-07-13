@@ -161,11 +161,6 @@
         <target state="needs-translation">[123][%attribut_source%] %key%</target>
         <note>key: model.details.numeric_submodel_name</note>
       </trans-unit>
-      <trans-unit id="59f1bee05ddd44884146ca3a43a4466e9592f96e" resname="model.details.relevant_history.title">
-        <source>Relevant history</source>
-        <target state="needs-translation">Relevant history</target>
-        <note>key: model.details.relevant_history.title</note>
-      </trans-unit>
       <trans-unit id="c22a96cb677a1bd48fbdbd2037072c356aa5f49e" resname="model.details.segments">
         <source>Segments</source>
         <target state="needs-translation">Segments</target>
@@ -186,10 +181,10 @@
         <target state="needs-translation">Model</target>
         <note>key: model.details.subtitle</note>
       </trans-unit>
-      <trans-unit id="1be5d7e1d40f3ae00359dd6e06aa5124a37edfc8" resname="model.edit.relevant_history.btn.label">
+      <trans-unit id="2744f40ab5536efc03ae9902102f04215ee20816" resname="model.edit.time_period.btn.apply">
         <source>Apply</source>
         <target state="needs-translation">Apply</target>
-        <note>key: model.edit.relevant_history.btn.label</note>
+        <note>key: model.edit.time_period.btn.apply</note>
       </trans-unit>
       <trans-unit id="bce5e42b9a06fa207cd9eae1c751b9a7be108ecd" resname="models.segments.sidebar.search">
         <source>Search...</source>
@@ -271,26 +266,6 @@
         <target state="translated">Da data - a data</target>
         <note>key: search.date.range</note>
       </trans-unit>
-      <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
-        <source><![CDATA[Got a question? We'd love to hear from you. Send us message to <a href="mailto:support@ibexa.co" target="_blank">support@ibexa.co</a> and we'll get in touch with you soon.]]></source>
-        <target state="translated"><![CDATA[<b>Hai una domanda?</b> Ci piacerebbe sentire la tua opinione. Inviaci un messaggio a support@ibexa.co e ti contatteremo presto.]]></target>
-        <note>key: welcome.activation_status.question</note>
-      </trans-unit>
-      <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">
-        <source>Your request was sent by %name% and is being processed.</source>
-        <target state="translated">La tua richiesta è stata inviata da %name% ed è in fase di elaborazione.</target>
-        <note>key: welcome.activation_status.subtitle</note>
-      </trans-unit>
-      <trans-unit id="607843716588d2e47b295b490af80a2019647351" resname="welcome.activation_status.title">
-        <source>Activation status</source>
-        <target state="translated">Stato di attivazione</target>
-        <note>key: welcome.activation_status.title</note>
-      </trans-unit>
-      <trans-unit id="152bb836a684191c6bb76588a609237b284bf59b" resname="welcome.form.subtitle">
-        <source>Please fill in the form to send in your request to activate Ibexa Personalization services. Please be advised that you need to have an active Ibexa DXP Subscription before you can activate the services.</source>
-        <target state="translated">Compila il modulo per inviare la tua richiesta per attivare i servizi di personalizzazione Ibexa. Si prega di notare che è necessario disporre di un abbonamento Ibexa DXP attivo prima di poter attivare i servizi.</target>
-        <note>key: welcome.form.subtitle</note>
-      </trans-unit>
       <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
         <source><![CDATA[I have read and agree to the <a class='ibexa-perso-welcome__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
         <target state="needs-translation"><![CDATA[I have read and agree to the <a class='ibexa-perso-welcome__show-modal-button' href='#'>Terms and Conditions.</a>]]></target>
@@ -300,11 +275,6 @@
         <source>If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</source>
         <target state="translated">Se si accettano queste condizioni per conto di un'altra persona o società o altra persona giuridica. Voi rappresentate e garantite di avere piena autorità di vincolare tale persona, società o entità giuridica a questi termini.</target>
         <note>key: welcome.form.tems_accept_description</note>
-      </trans-unit>
-      <trans-unit id="d1c4b3ce2e03e5b5fbed54d72c1db4a938eca745" resname="welcome.form.title">
-        <source>Request for account activation</source>
-        <target state="translated">Richiesta di attivazione account</target>
-        <note>key: welcome.form.title</note>
       </trans-unit>
     </body>
   </file>

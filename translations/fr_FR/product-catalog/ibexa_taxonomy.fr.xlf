@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="7e81b5b4198bb96bf51f686c23c58db0e22e0f03" resname="taxonomy.product_categories">
         <source>Product categories</source>
-        <target state="needs-translation">Product categories</target>
+        <target state="translated">Catégories de produits</target>
         <note>key: taxonomy.product_categories</note>
       </trans-unit>
     </body>

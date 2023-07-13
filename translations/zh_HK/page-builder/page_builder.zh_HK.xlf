@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="4469ef580653e092258a59f262e526230903fd7a" resname="airtime_popup.discard.btn">
-        <source>Discard</source>
-        <target state="translated">放棄</target>
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
         <note>key: airtime_popup.discard.btn</note>
       </trans-unit>
       <trans-unit id="ab252a2b69fb6f158ae38d8eb8c0d3e9d9a1635a" resname="airtime_popup.submit.btn">

@@ -6,6 +6,56 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="5c40e209cf61404fe0321482901de1ca032b56ca" resname="account.copied">
+        <source>Copied</source>
+        <target state="needs-translation">Copied</target>
+        <note>key: account.copied</note>
+      </trans-unit>
+      <trans-unit id="9f63fd9ab9e6f52d3ea63addd0adf0b66b5ad787" resname="account.create.name">
+        <source>Account name</source>
+        <target state="needs-translation">Account name</target>
+        <note>key: account.create.name</note>
+      </trans-unit>
+      <trans-unit id="9ac1e13435a751cf793725b682af4ff0e5f1c471" resname="account.create.next">
+        <source>Next</source>
+        <target state="needs-translation">Next</target>
+        <note>key: account.create.next</note>
+      </trans-unit>
+      <trans-unit id="2351c0a69c53539441435a4793aca5713bc96b3a" resname="account.create.type">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+        <note>key: account.create.type</note>
+      </trans-unit>
+      <trans-unit id="41f6a9d364b5792d2a2a9774470a47ea7cbbea9b" resname="account.details.id">
+        <source>ID</source>
+        <target state="needs-translation">ID</target>
+        <note>key: account.details.id</note>
+      </trans-unit>
+      <trans-unit id="8847e361317b35fc4329a27302ca8b7b10b04ccd" resname="account.details.license_key">
+        <source>Licence key</source>
+        <target state="needs-translation">Licence key</target>
+        <note>key: account.details.license_key</note>
+      </trans-unit>
+      <trans-unit id="d9d5773cf1ab37cd321c2f4ad2dde79beea07df8" resname="account.details.pass_credentials">
+        <source>Pass the credentials to your administrator to finish service account setup and start using the Personalization service.</source>
+        <target state="needs-translation">Pass the credentials to your administrator to finish service account setup and start using the Personalization service.</target>
+        <note>key: account.details.pass_credentials</note>
+      </trans-unit>
+      <trans-unit id="569d6c35cdca6beb9cc9e1b48f8aedbea57fd1b7" resname="account.set_up.service">
+        <source>Set up service account</source>
+        <target state="needs-translation">Set up service account</target>
+        <note>key: account.set_up.service</note>
+      </trans-unit>
+      <trans-unit id="39192f9ba4e1d6e98339237396bcd168e78eb729" resname="account.type.commerce">
+        <source>Commerce</source>
+        <target state="needs-translation">Commerce</target>
+        <note>key: account.type.commerce</note>
+      </trans-unit>
+      <trans-unit id="69b1c5c818445710019619cf9f4f9a06671f02b6" resname="account.type.publisher">
+        <source>Publisher</source>
+        <target state="needs-translation">Publisher</target>
+        <note>key: account.type.publisher</note>
+      </trans-unit>
       <trans-unit id="56c0da59355d07df01912947d83b628788c405c4" resname="activation_status.form.email">
         <source>Email</source>
         <target state="needs-translation">Email</target>
@@ -40,6 +90,11 @@
         <source>Scenarios</source>
         <target state="needs-translation">Scenarios</target>
         <note>key: breadcrumb.scenarios</note>
+      </trans-unit>
+      <trans-unit id="a5b7cf5e9c00d982d6d57267b2304c9b5e7ad926" resname="cannot_create_account">
+        <source>Failed to create new account. Please try again later</source>
+        <target state="needs-translation">Failed to create new account. Please try again later</target>
+        <note>key: cannot_create_account</note>
       </trans-unit>
       <trans-unit id="38598ef70257113edd62503231b2634aadfd5985" resname="category_path_select.select_path">
         <source>Select path</source>
@@ -85,6 +140,11 @@
         <source>Total</source>
         <target state="needs-translation">Total</target>
         <note>key: chart.total</note>
+      </trans-unit>
+      <trans-unit id="c0042805275438db157601bd4f535f2c4539c218" resname="create_account.step">
+        <source>Step %no%</source>
+        <target state="needs-translation">Step %no%</target>
+        <note>key: create_account.step</note>
       </trans-unit>
       <trans-unit id="28246cc490c8819ebabaa1ec0e45c09a18804d72" resname="dashboard.clicked">
         <source>Clicked</source>
@@ -306,6 +366,11 @@
         <target state="needs-translation">Identifier</target>
         <note>key: model.details.identifier</note>
       </trans-unit>
+      <trans-unit id="b959cfda0d499c225d510b34ed3e2db0b5b0dda9" resname="model.details.item_age.title">
+        <source>Item age</source>
+        <target state="needs-translation">Item age</target>
+        <note>key: model.details.item_age.title</note>
+      </trans-unit>
       <trans-unit id="4df75fe5c000a8fa91e6811c5613d6087f7edf22" resname="model.details.last_build">
         <source>Last build</source>
         <target state="needs-translation">Last build</target>
@@ -325,6 +390,11 @@
         <source>Number of recommendations</source>
         <target state="needs-translation">Number of recommendations</target>
         <note>key: model.details.number_recommendations</note>
+      </trans-unit>
+      <trans-unit id="59f1bee05ddd44884146ca3a43a4466e9592f96e" resname="model.details.relevant_history.title">
+        <source>Relevant history</source>
+        <target state="needs-translation">Relevant history</target>
+        <note>key: model.details.relevant_history.title</note>
       </trans-unit>
       <trans-unit id="ec2e77c833369d396a2b23edaae6fb57a3e6d752" resname="model.details.status">
         <source>Status</source>
@@ -911,6 +981,11 @@
         <target state="needs-translation">Most popular content (product, article, etc.) based on a weighted purchase history</target>
         <note>key: models.description.popular_predicted</note>
       </trans-unit>
+      <trans-unit id="4ea4c726b2089ee47db65058ebf5b429fa1b117c" resname="models.description.predictive_model">
+        <source>Foresees user’s purchase behavior and trends and recommends items based on this behavior</source>
+        <target state="needs-translation">Foresees user’s purchase behavior and trends and recommends items based on this behavior</target>
+        <note>key: models.description.predictive_model</note>
+      </trans-unit>
       <trans-unit id="e9c396e9d4b13df46b5f41ff9e1c6859f2847356" resname="models.description.profile">
         <source>profile</source>
         <target state="needs-translation">profile</target>
@@ -956,6 +1031,11 @@
         <target state="needs-translation">recently_clicked</target>
         <note>key: models.description.recently_clicked</note>
       </trans-unit>
+      <trans-unit id="29dba4b8aa40b0ee44475714e1b02b49f931ed9b" resname="models.description.recurring_purchase">
+        <source>Recognizes purchase patterns and returns recommendations for items where these patterns can occur.</source>
+        <target state="needs-translation">Recognizes purchase patterns and returns recommendations for items where these patterns can occur.</target>
+        <note>key: models.description.recurring_purchase</note>
+      </trans-unit>
       <trans-unit id="aa3a7c8c2b5735554a6270658c111796263067f3" resname="models.description.s1">
         <source>Configure static recommendations based on an editorial list</source>
         <target state="needs-translation">Configure static recommendations based on an editorial list</target>
@@ -980,6 +1060,11 @@
         <source>suggestion</source>
         <target state="needs-translation">suggestion</target>
         <note>key: models.description.suggestion</note>
+      </trans-unit>
+      <trans-unit id="b751a3ec080e5d282c3eb385c68c3559fad16ce3" resname="models.description.top_buy_weighted">
+        <source>Returns items which purchase date is closer to date of the request for these items.</source>
+        <target state="needs-translation">Returns items which purchase date is closer to date of the request for these items.</target>
+        <note>key: models.description.top_buy_weighted</note>
       </trans-unit>
       <trans-unit id="bb4917bfc82ba0f2c3af039f97bfb8aa42d42ff5" resname="models.description.top_clicked">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
@@ -1130,6 +1215,16 @@
         <source>upheaval_ctc</source>
         <target state="needs-translation">upheaval_ctc</target>
         <note>key: models.description.upheaval_ctc</note>
+      </trans-unit>
+      <trans-unit id="a605b20c36a6e0a2decd75b4940e7f210bebd842" resname="models.description.user_last_clicked">
+        <source>Shows the last (based on the timestamp), for example, 5 articles clicked by a user.</source>
+        <target state="needs-translation">Shows the last (based on the timestamp), for example, 5 articles clicked by a user.</target>
+        <note>key: models.description.user_last_clicked</note>
+      </trans-unit>
+      <trans-unit id="7c6d4400e9a670760d2592871c328fe78f8a04ee" resname="models.description.user_last_purchased">
+        <source>Returns the last (based on the timestamp), for example, 5 items purchased by a user.</source>
+        <target state="needs-translation">Returns the last (based on the timestamp), for example, 5 items purchased by a user.</target>
+        <note>key: models.description.user_last_purchased</note>
       </trans-unit>
       <trans-unit id="16160218c420237607b725485daaebb2fbd17014" resname="models.details.range.from">
         <source>From</source>
@@ -1701,6 +1796,11 @@
         <target state="needs-translation">Top purchased</target>
         <note>key: models.name.popular_predicted</note>
       </trans-unit>
+      <trans-unit id="88aa3972bbe8e12bf051bb7447e103679b21f9fb" resname="models.name.predictive_model">
+        <source>Predictive model</source>
+        <target state="needs-translation">Predictive model</target>
+        <note>key: models.name.predictive_model</note>
+      </trans-unit>
       <trans-unit id="1dbfc72129e2f8e0eae5de663d511ccb9d510579" resname="models.name.profile">
         <source>Profile</source>
         <target state="needs-translation">Profile</target>
@@ -1746,6 +1846,11 @@
         <target state="needs-translation">Recently clicked</target>
         <note>key: models.name.recently_clicked</note>
       </trans-unit>
+      <trans-unit id="a6aacdc755fdf8008ea999d209aa0adfe0e3e7a8" resname="models.name.recurring_purchase">
+        <source>Recurring purchase pattern</source>
+        <target state="needs-translation">Recurring purchase pattern</target>
+        <note>key: models.name.recurring_purchase</note>
+      </trans-unit>
       <trans-unit id="328a405e8596928c2244ae3826e07f0669717406" resname="models.name.s1">
         <source>Editorial list</source>
         <target state="needs-translation">Editorial list</target>
@@ -1770,6 +1875,11 @@
         <source>Suggestion</source>
         <target state="needs-translation">Suggestion</target>
         <note>key: models.name.suggestion</note>
+      </trans-unit>
+      <trans-unit id="04328047c393801ac11ecc16e676dd62ef969fe4" resname="models.name.top_buy_weighted">
+        <source> Weighted (based on buy events)</source>
+        <target state="needs-translation"> Weighted (based on buy events)</target>
+        <note>key: models.name.top_buy_weighted</note>
       </trans-unit>
       <trans-unit id="2b13504ff2670583843a764db725a251bde09446" resname="models.name.top_clicked">
         <source>Top clicked</source>
@@ -1921,6 +2031,16 @@
         <target state="needs-translation">Upheaval ctc</target>
         <note>key: models.name.upheaval_ctc</note>
       </trans-unit>
+      <trans-unit id="548eb4ed8f6fa3cd3a2ae9219f34da3e4d35b58d" resname="models.name.user_last_clicked">
+        <source>Last viewed by user</source>
+        <target state="needs-translation">Last viewed by user</target>
+        <note>key: models.name.user_last_clicked</note>
+      </trans-unit>
+      <trans-unit id="0ad410cd5b3e015b6c5f19f94643931678492edc" resname="models.name.user_last_purchased">
+        <source>Last purchased by user</source>
+        <target state="needs-translation">Last purchased by user</target>
+        <note>key: models.name.user_last_purchased</note>
+      </trans-unit>
       <trans-unit id="e4d4b2e0074f0fa2be41aacaf22da0ef5e01af06" resname="models.no_items_selected">
         <source>No items selected</source>
         <target state="needs-translation">No items selected</target>
@@ -1956,15 +2076,25 @@
         <target state="needs-translation">Drag and drop segments</target>
         <note>key: models.segments.group.empty.title</note>
       </trans-unit>
-      <trans-unit id="5c701556dc21f0b151f5328fad45197b55f16fa2" resname="models.segments.segment.status.active">
+      <trans-unit id="ed66660fd6e63b1546ee7856b9daf1027f8d40f0" resname="models.segments.segments.relation.and">
+        <source>and</source>
+        <target state="needs-translation">and</target>
+        <note>key: models.segments.segments.relation.and</note>
+      </trans-unit>
+      <trans-unit id="442d6ede5bfa6b6303d151d6b12e0ff1f68314f5" resname="models.segments.segments.relation.or">
+        <source>or</source>
+        <target state="needs-translation">or</target>
+        <note>key: models.segments.segments.relation.or</note>
+      </trans-unit>
+      <trans-unit id="cef19fec93f89c5bd50590c425f3440098ad10a9" resname="models.segments.segments.status.active">
         <source>active</source>
         <target state="needs-translation">active</target>
-        <note>key: models.segments.segment.status.active</note>
+        <note>key: models.segments.segments.status.active</note>
       </trans-unit>
-      <trans-unit id="7a3b4079ae192bd28a5952b24aab2d9c0c435c98" resname="models.segments.segment.status.inactive">
+      <trans-unit id="7139a6d1527401a966c419413ca5ed821f074b57" resname="models.segments.segments.status.inactive">
         <source>inactive</source>
         <target state="needs-translation">inactive</target>
-        <note>key: models.segments.segment.status.inactive</note>
+        <note>key: models.segments.segments.status.inactive</note>
       </trans-unit>
       <trans-unit id="f3d714108e6a871e551229a2554d23866650d601" resname="models.segments.sidebar.empty.img">
         <source>Empty library</source>
@@ -1986,10 +2116,10 @@
         <target state="needs-translation">Not Available</target>
         <note>key: models.segments.sidebar.group.not_available</note>
       </trans-unit>
-      <trans-unit id="846000e1016638c20088263404dce033964c9ef1" resname="models.segments.sidebar.relevant_history_info">
+      <trans-unit id="4af2772335393f916f98ab0ff7fa3985a0bf63dc" resname="models.segments.sidebar.time_period_info">
         <source>Selected timeframe %timeframe%</source>
         <target state="needs-translation">Selected timeframe %timeframe%</target>
-        <note>key: models.segments.sidebar.relevant_history_info</note>
+        <note>key: models.segments.sidebar.time_period_info</note>
       </trans-unit>
       <trans-unit id="4d9ff4a137e3994603844a83342c8976e6f50856" resname="models.segments.sidebar.title">
         <source>Elements</source>
@@ -2070,6 +2200,11 @@
         <source>Do not recommend items the user already purchased</source>
         <target state="needs-translation">Do not recommend items the user already purchased</target>
         <note>key: scenario.commerce_settings.do_not_recommend_items_the_user_already_purchased</note>
+      </trans-unit>
+      <trans-unit id="0db232997a03f52ca8de2e8531865eda929cee28" resname="scenario.commerce_settings.do_not_recommend_product_variants">
+        <source>Do not recommend product variants (only base products will be recommended)</source>
+        <target state="needs-translation">Do not recommend product variants (only base products will be recommended)</target>
+        <note>key: scenario.commerce_settings.do_not_recommend_product_variants</note>
       </trans-unit>
       <trans-unit id="e309221943467a614f28d6298bede4cf792e5542" resname="scenario.commerce_settings.item_price_should_equal_or_higher_than_the_price_of_the_context_item">
         <source>Item price should equal or higher than the price of the context item</source>
@@ -2175,6 +2310,11 @@
         <source>category level(s) and below</source>
         <target state="needs-translation">category level(s) and below</target>
         <note>key: scenario.strategy.category_level_and_below</note>
+      </trans-unit>
+      <trans-unit id="ec6a81ae8ff8e515fe823c3b481e86636cdcf278" resname="scenario.strategy.context">
+        <source>Context</source>
+        <target state="needs-translation">Context</target>
+        <note>key: scenario.strategy.context</note>
       </trans-unit>
       <trans-unit id="3dbd0107cf6aa0fa0e3879a67983c54363337740" resname="scenario.strategy.discard">
         <source>Cancel</source>
@@ -2346,6 +2486,21 @@
         <target state="needs-translation">No segments defined. Create Segments in the Admin panel to use this block.</target>
         <note>key: targeted_scenario_map.no_configuration</note>
       </trans-unit>
+      <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
+        <source><![CDATA[Got a question? We'd love to hear from you. Send us message to <a href="mailto:support@ibexa.co" target="_blank">support@ibexa.co</a> and we'll get in touch with you soon.]]></source>
+        <target state="needs-translation"><![CDATA[Got a question? We'd love to hear from you. Send us message to <a href="mailto:support@ibexa.co" target="_blank">support@ibexa.co</a> and we'll get in touch with you soon.]]></target>
+        <note>key: welcome.activation_status.question</note>
+      </trans-unit>
+      <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">
+        <source>Your request was sent by %name% and is being processed.</source>
+        <target state="needs-translation">Your request was sent by %name% and is being processed.</target>
+        <note>key: welcome.activation_status.subtitle</note>
+      </trans-unit>
+      <trans-unit id="607843716588d2e47b295b490af80a2019647351" resname="welcome.activation_status.title">
+        <source>Activation status</source>
+        <target state="needs-translation">Activation status</target>
+        <note>key: welcome.activation_status.title</note>
+      </trans-unit>
       <trans-unit id="4211a967e3d409c7706659ececa942e83ea4475d" resname="welcome.description.leverage_personalization">
         <source>Unified digital experiences can't be supported by data silos. Enrich your customer data by integrating Ibexa Personalization capabilities with existing business systems to boost the power of your personalized customer experiences.</source>
         <target state="needs-translation">Unified digital experiences can't be supported by data silos. Enrich your customer data by integrating Ibexa Personalization capabilities with existing business systems to boost the power of your personalized customer experiences.</target>
@@ -2360,6 +2515,26 @@
         <source>This installation key is not valid.</source>
         <target state="needs-translation">This installation key is not valid.</target>
         <note>key: welcome.form.invalid_installation_key</note>
+      </trans-unit>
+      <trans-unit id="152bb836a684191c6bb76588a609237b284bf59b" resname="welcome.form.subtitle">
+        <source>Fill in the form to send your request to activate Ibexa Personalization services. To activate the services, you need to have an active Ibexa Subscription.</source>
+        <target state="needs-translation">Fill in the form to send your request to activate Ibexa Personalization services. To activate the services, you need to have an active Ibexa Subscription.</target>
+        <note>key: welcome.form.subtitle</note>
+      </trans-unit>
+      <trans-unit id="d1c4b3ce2e03e5b5fbed54d72c1db4a938eca745" resname="welcome.form.title">
+        <source>Request for account activation</source>
+        <target state="needs-translation">Request for account activation</target>
+        <note>key: welcome.form.title</note>
+      </trans-unit>
+      <trans-unit id="eae39002d36e201c46471af72d3f30a07108ae44" resname="welcome.image.man">
+        <source>welcome working man</source>
+        <target state="needs-translation">welcome working man</target>
+        <note>key: welcome.image.man</note>
+      </trans-unit>
+      <trans-unit id="f0a4d79c7b8161e91644fb48c4fb006ce3780650" resname="welcome.image.woman">
+        <source>welcome working woman</source>
+        <target state="needs-translation">welcome working woman</target>
+        <note>key: welcome.image.woman</note>
       </trans-unit>
       <trans-unit id="26fe3943f55014fcf43f195f3b9fec2c07efc3f3" resname="welcome.link.developer_documentation">
         <source>Developer documentation</source>
