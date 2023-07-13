@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="3c4ed0ae5b77056c4d1782cd4ae42bce8fe72b45" resname="application.list.title">
         <source>Applications</source>
-        <target state="needs-translation">Applications</target>
+        <target state="translated">Wnioski</target>
         <note>key: application.list.title</note>
       </trans-unit>
       <trans-unit id="a43022a760d0ec5ed6ef561740779459b5d76680" resname="application.state">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="f1358c678420793e775218afddb8e61c0382aabe" resname="comapany.list.search.placeholder">
         <source>Search by name</source>
-        <target state="needs-translation">Search by name</target>
+        <target state="translated">Wyszukaj po nazwie</target>
         <note>key: comapany.list.search.placeholder</note>
       </trans-unit>
       <trans-unit id="99861990c138b88d8f5110c353747e4c61e06eca" resname="company.create.cancel_btn.label">
@@ -658,7 +658,7 @@
       </trans-unit>
       <trans-unit id="0091e2410347395f84291760ad9880e40da93e07" resname="company.list.title">
         <source>Companies</source>
-        <target state="needs-translation">Companies</target>
+        <target state="translated">Firmy</target>
         <note>key: company.list.title</note>
       </trans-unit>
       <trans-unit id="f33d6a8b82cedd04ad463f6ff546db609715fac1" resname="company.members.table.empty.info">
