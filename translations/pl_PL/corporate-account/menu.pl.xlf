@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="5fcb7aad323aa4d54420819fffa7a64c6ef4a325" resname="customer_portal__organization__address_book">
         <source>Address Book</source>
-        <target state="needs-translation">Address Book</target>
+        <target state="translated">Książka adresowa</target>
         <note>key: customer_portal__organization__address_book</note>
       </trans-unit>
       <trans-unit id="947808f69abaca65fe36e78ff9b68efd56fe5c46" resname="customer_portal__organization__contact">
