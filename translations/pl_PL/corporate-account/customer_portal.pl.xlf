@@ -470,7 +470,7 @@
       </trans-unit>
       <trans-unit id="6e15c014b9f9f66068ae58f70f331ceb03e308f7" resname="registration.form.contact_information_group.title">
         <source>Contact information</source>
-        <target state="needs-translation">Contact information</target>
+        <target state="translated">Dane kontaktowe</target>
         <note>key: registration.form.contact_information_group.title</note>
       </trans-unit>
       <trans-unit id="011d777a33fbe45b5a156621e8afdf3ce33562cf" resname="registration.form.submit.btn">
