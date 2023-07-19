@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="4846d544dad1052a505923d0c673f66ab6b053cf" resname="application.delete.bulk.submit.label">
         <source>Delete applications</source>
-        <target state="needs-translation">Delete applications</target>
+        <target state="translated">Usuń aplikacje</target>
         <note>key: application.delete.bulk.submit.label</note>
       </trans-unit>
       <trans-unit id="f8810d1bdb15c7a591bd4d79001457bb4c7d1909" resname="application.details.context_menu.edit.label">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="5eaefa894b6e91e3029b49b396c8dfcf3d2be1bb" resname="application.details.context_menu.workflow_on_hold.label">
         <source>Hold</source>
-        <target state="needs-translation">Hold</target>
+        <target state="translated">Wstrzymaj</target>
         <note>key: application.details.context_menu.workflow_on_hold.label</note>
       </trans-unit>
       <trans-unit id="16440942bb3a477b151ff22dffb661bf7183eedd" resname="application.details.context_menu.workflow_reject.label">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="3043d8b4cc653e0eac51e5a941660ed6aadd0a27" resname="application.details.subtitle">
         <source>Application</source>
-        <target state="needs-translation">Application</target>
+        <target state="translated">Aplikacja</target>
         <note>key: application.details.subtitle</note>
       </trans-unit>
       <trans-unit id="37a1a9d2a1fc66233bffd17a7d649a8cd8c16a69" resname="application.details.tab.summary.label">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="c33d9ecbf048ae37c8b68da1a3bf886aec15ddbe" resname="application.list.table.header.contact_email">
         <source>Contact Email</source>
-        <target state="needs-translation">Contact Email</target>
+        <target state="translated">E-mail kontaktowy</target>
         <note>key: application.list.table.header.contact_email</note>
       </trans-unit>
       <trans-unit id="1bf0c36481dc6797912d729027e9b7d255963b5f" resname="application.list.table.header.name">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="1146f2e87e01e9b97ff8700508fc03593044f34b" resname="application.tab.summary.basic_information.details.headline">
         <source>Basic information</source>
-        <target state="needs-translation">Basic information</target>
+        <target state="translated">Podstawowe informacje</target>
         <note>key: application.tab.summary.basic_information.details.headline</note>
       </trans-unit>
       <trans-unit id="9dab10d565cb75b436973def4495c4a69fdf3183" resname="application.tab.summary.basic_information.details.label.billing_address">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="5d3abcc25dfde222930a310632e2e17ed805236e" resname="application.tab.summary.basic_information.details.label.website">
         <source>Website</source>
-        <target state="needs-translation">Website</target>
+        <target state="translated">Strona internetowa</target>
         <note>key: application.tab.summary.basic_information.details.label.website</note>
       </trans-unit>
       <trans-unit id="081457fd3890374a6747031075c4ef3a6fce5c64" resname="application.tab.summary.contact_information.details.headline">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="50a3e28efad3099ccc1d61d393bd5c839a0c1ac6" resname="company.details.tab.address_book.label">
         <source>Address Book</source>
-        <target state="needs-translation">Address Book</target>
+        <target state="translated">Książka adresowa</target>
         <note>key: company.details.tab.address_book.label</note>
       </trans-unit>
       <trans-unit id="40a022b4f4ceb3f866f8083cfbdf99d53ae4f1cb" resname="company.details.tab.address_book.shipping_address.table.action.add_new.label">
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="991f170a6ff8326e1295be8b6b0c8009e3e234c5" resname="company.details.tab.address_book.shipping_address.table.header.deafault">
         <source>Default</source>
-        <target state="needs-translation">Default</target>
+        <target state="translated">Domyślny</target>
         <note>key: company.details.tab.address_book.shipping_address.table.header.deafault</note>
       </trans-unit>
       <trans-unit id="3f02f71de071dbaa6204a6095b017d10281885ea" resname="company.details.tab.address_book.shipping_address.table.header.email_address">
@@ -393,7 +393,7 @@
       </trans-unit>
       <trans-unit id="fee1b61032434c2ca517b42e072ae10fece8548b" resname="company.details.tab.company_profile.basic_information.website">
         <source>Website</source>
-        <target state="needs-translation">Website</target>
+        <target state="translated">Strona internetowa</target>
         <note>key: company.details.tab.company_profile.basic_information.website</note>
       </trans-unit>
       <trans-unit id="5aea599dca69529ff65b3bd7e1f1764fb7fe99b7" resname="company.details.tab.company_profile.contact.action.edit">
@@ -433,12 +433,12 @@
       </trans-unit>
       <trans-unit id="9e6000aba816f20b17c956bf5be9d359781241c0" resname="company.details.tab.invitations.table.invitations.action.invite">
         <source>Invite member</source>
-        <target state="needs-translation">Invite member</target>
+        <target state="translated">Zaproś członka</target>
         <note>key: company.details.tab.invitations.table.invitations.action.invite</note>
       </trans-unit>
       <trans-unit id="8ca0ef26c24c81f2294e23e42c39662df04e138d" resname="company.details.tab.members.label">
         <source>Members</source>
-        <target state="needs-translation">Members</target>
+        <target state="translated">Członkowie</target>
         <note>key: company.details.tab.members.label</note>
       </trans-unit>
       <trans-unit id="f722206893bf662fa93c9c57b7808f0778412649" resname="company.details.tab.members.table.users.action.add_new">
@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="69f153bfd59138126acbbf8d630081a38396c255" resname="company.details.tab.summary.basic_information.website">
         <source>Website</source>
-        <target state="needs-translation">Website</target>
+        <target state="translated">Strona internetowa</target>
         <note>key: company.details.tab.summary.basic_information.website</note>
       </trans-unit>
       <trans-unit id="576067a5c78b91acb8206980176526832215dff2" resname="company.details.tab.summary.commerce_stat.header">
@@ -478,7 +478,7 @@
       </trans-unit>
       <trans-unit id="124da6b46bebd5b7acc77443a7d1d128ee059b56" resname="company.details.tab.summary.commerce_stat.label.group">
         <source>Group</source>
-        <target state="needs-translation">Group</target>
+        <target state="translated">Grupa</target>
         <note>key: company.details.tab.summary.commerce_stat.label.group</note>
       </trans-unit>
       <trans-unit id="bc5720a07a48816ef3a117d718887ab6f97fef0e" resname="company.details.tab.summary.commerce_stat.label.sales_last_year">
