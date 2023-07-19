@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="c3996d1ec5bc6a06ac96db4a10f735466292f7be" resname="application.workflow.from">
         <source>From</source>
-        <target state="needs-translation">From</target>
+        <target state="translated">Od</target>
         <note>key: application.workflow.from</note>
       </trans-unit>
       <trans-unit id="621cf3c9f36f6249dceac233bd577f23f248acb6" resname="application.workflow.to">
         <source>To</source>
-        <target state="needs-translation">To</target>
+        <target state="translated">Do</target>
         <note>key: application.workflow.to</note>
       </trans-unit>
     </body>
