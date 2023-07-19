@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="3b97dd08c517fcf3b425912695ad1e3fbbbff455" resname="block.product_catalog.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: block.product_catalog.add</note>
       </trans-unit>
       <trans-unit id="9c60bc9300aa40cff41ea2ad21b5c9c4dbe60115" resname="block.product_catalog.cannot_preview_in_visibility">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="2e938e41a94ae34e34d1a2a653f8f4b1f1ecf5c7" resname="block.product_catalog.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: block.product_catalog.delete</note>
       </trans-unit>
       <trans-unit id="e137a5187903029a8788e4beb6fced4771824019" resname="block.product_catalog.empty_table">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: delete</note>
       </trans-unit>
       <trans-unit id="737a783e5098e8d94a74de030e58bd6a6c23fafa" resname="product.collection.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: product.collection.add</note>
       </trans-unit>
       <trans-unit id="2d7b0aabe9d6233ce35150d3ab4bac4c6af4f21f" resname="product.collection.add_only_base_products">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="81ce79ab2bb47f747c97597a64dac8d237d5687f" resname="product.collection.code">
         <source>Code</source>
-        <target state="needs-translation">Code</target>
+        <target state="translated">Kod</target>
         <note>key: product.collection.code</note>
       </trans-unit>
       <trans-unit id="3ca64755814ef844993055d8b8797e54642252be" resname="product.collection.empty_table">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="9bcbf7946b2c765d9716099d5c0e2c7618f4d59a" resname="product.collection.error.not_found">
         <source>Product not found</source>
-        <target state="needs-translation">Product not found</target>
+        <target state="translated">Nie znaleziono produktu</target>
         <note>key: product.collection.error.not_found</note>
       </trans-unit>
       <trans-unit id="1debb37be6f3300270ec8ceba80cd84def84855e" resname="product.collection.no_products">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="76116573f30b82c8f6271feb6b8a75b3eea224a2" resname="product.collection.or">
         <source>or</source>
-        <target state="needs-translation">or</target>
+        <target state="translated">lub</target>
         <note>key: product.collection.or</note>
       </trans-unit>
       <trans-unit id="b7094d4c32149f0308cf72e8d078e0dbcee21469" resname="product.collection.placeholder">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="eba8a94d81c7b8cd339a6e615d5dc8215e7836b2" resname="product.collection.product_name">
         <source>Product name</source>
-        <target state="needs-translation">Product name</target>
+        <target state="translated">Nazwa produktu</target>
         <note>key: product.collection.product_name</note>
       </trans-unit>
       <trans-unit id="48b30b9fac72a2582a7d28ae72266818679be5b1" resname="product.collection.product_type">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="0868db4da8b6d758388649bffaa28198591432c7" resname="product.collection.select_products">
         <source>Select products</source>
-        <target state="needs-translation">Select products</target>
+        <target state="translated">Wybierz produkty</target>
         <note>key: product.collection.select_products</note>
       </trans-unit>
     </body>
