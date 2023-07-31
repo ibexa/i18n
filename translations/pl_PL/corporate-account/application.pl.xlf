@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="4d0d0097c4b2ace606a9c4d8dfb5e513a59495d8" resname="application.delete.success">
         <source>Application '%name%' removed.</source>
-        <target state="needs-translation">Application '%name%' removed.</target>
+        <target state="translated">Aplikacja '%name%' usunięta.</target>
         <note>key: application.delete.success</note>
       </trans-unit>
     </body>

@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="f48c4e472bd9e86a066060225f621949424f2b81" resname="reschedule.error.message">
         <source>An unexpected error occurred while rescheduling the selected draft(s). Please try again.</source>
-        <target state="needs-translation">An unexpected error occurred while rescheduling the selected draft(s). Please try again.</target>
+        <target state="translated">Wystąpił nieoczekiwany błąd podczas przetwarzania elementu zawartości. Spróbuj ponownie później.</target>
         <note>key: reschedule.error.message</note>
       </trans-unit>
       <trans-unit id="3e7c7f7ed781f0f39037d2b9e624196918bfd739" resname="reschedule.fail.message">
         <source>%failedCount% out of %totalCount% selected drafts could not be rescheduled. Please try again.</source>
-        <target state="needs-translation">%failedCount% out of %totalCount% selected drafts could not be rescheduled. Please try again.</target>
+        <target state="translated">Nie można ponownie zaplanować %failedCount% z %totalCount% wybranych szkiców. Spróbuj ponownie.</target>
         <note>key: reschedule.fail.message</note>
       </trans-unit>
       <trans-unit id="cad872e276597b29864f43d081afa4be3aee742e" resname="reschedule.success.message">
         <source>Rescheduled all drafts.</source>
-        <target state="needs-translation">Rescheduled all drafts.</target>
+        <target state="translated">Zmieniono harmonogram wszystkich szkiców.</target>
         <note>key: reschedule.success.message</note>
       </trans-unit>
       <trans-unit id="efe280f52ff7d384892d51a05ca8fe577ab73d78" resname="unschedule.error.message">
         <source>An error occurred while removing the selected publication dates. Please try again.</source>
-        <target state="needs-translation">An error occurred while removing the selected publication dates. Please try again.</target>
+        <target state="translated">Wystąpił błąd podczas usuwania wybranych dat publikacji. Spróbuj ponownie.</target>
         <note>key: unschedule.error.message</note>
       </trans-unit>
       <trans-unit id="505c2e16d2d41c2b03c225ee8fa809135f20f30e" resname="unschedule.fail.message">
         <source>%failedCount% out of %totalCount% selected publication dates could not be removed. Please try again.</source>
-        <target state="needs-translation">%failedCount% out of %totalCount% selected publication dates could not be removed. Please try again.</target>
+        <target state="translated">Nie można usunąć %failedCount% z %totalCount% wybranych dat publikacji. Spróbuj ponownie.</target>
         <note>key: unschedule.fail.message</note>
       </trans-unit>
       <trans-unit id="fb26c08c460347ee25626a016ff11a9accbe08a6" resname="unschedule.success.message">

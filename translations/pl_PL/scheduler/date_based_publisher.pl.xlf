@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="c48bd427a263f448c5f9abe59519564ecc7eb434" resname="modal.scheduling.button.confirm.label">
         <source>Confirm date change</source>
-        <target state="needs-translation">Confirm date change</target>
+        <target state="translated">Potwierdź zmianę daty</target>
         <note>key: modal.scheduling.button.confirm.label</note>
       </trans-unit>
       <trans-unit id="6864b3e2e6cc7532fa3af087ffc73877b763a8b4" resname="modal.scheduling.button.discard.label">
@@ -278,7 +278,7 @@
       </trans-unit>
       <trans-unit id="464fe17fd02c91ad56ce520cc39645bb55ed1cc8" resname="modal.scheduling.date_picker.label">
         <source>Set publication date</source>
-        <target state="needs-translation">Set publication date</target>
+        <target state="translated">Ustaw datę publikacji</target>
         <note>key: modal.scheduling.date_picker.label</note>
       </trans-unit>
       <trans-unit id="4c1883ba5e2eb4e3a70391d122a474304c1d95df" resname="publish_later.confirm" approved="yes">

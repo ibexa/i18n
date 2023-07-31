@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="2744f40ab5536efc03ae9902102f04215ee20816" resname="model.edit.time_period.btn.apply">
         <source>Apply</source>
-        <target state="needs-translation">Apply</target>
+        <target state="translated">Zastosuj</target>
         <note>key: model.edit.time_period.btn.apply</note>
       </trans-unit>
       <trans-unit id="bce5e42b9a06fa207cd9eae1c751b9a7be108ecd" resname="models.segments.sidebar.search">

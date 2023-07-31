@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="34525fc5da381111c2104d20a55021eb8b698c7c" resname="trash.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: trash.name</note>
       </trans-unit>
       <trans-unit id="c28510c675be753842996980b0e5d175cec4a8d8" resname="trash.original_location">
@@ -93,17 +93,17 @@
       </trans-unit>
       <trans-unit id="3a46b65a9b678fb947285b2c9509943ee6764195" resname="trash.search.any_content_types">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Alle</target>
         <note>key: trash.search.any_content_types</note>
       </trans-unit>
       <trans-unit id="9a88e9a17cd461dcd7d54dca50c6d3b981aba7fc" resname="trash.search.any_time">
         <source>Any time</source>
-        <target state="needs-translation">Any time</target>
+        <target state="translated">Alle Zeitpunkte</target>
         <note>key: trash.search.any_time</note>
       </trans-unit>
       <trans-unit id="c2b2679781ad4a22bb232e2ab34669ffe49c760b" resname="trash.search.section.any">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Alle</target>
         <note>key: trash.search.section.any</note>
       </trans-unit>
       <trans-unit id="8b64a1510f907791766cbccffcff7898bda76bde" resname="trash.section">

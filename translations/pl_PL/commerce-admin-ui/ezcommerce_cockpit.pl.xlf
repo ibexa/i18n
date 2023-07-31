@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="0f67ad424c6bec3e6ffb8cb6f644c932e1536c30" resname="cockpit.breadcrumb.cockpit">
         <source>Cockpit</source>
-        <target state="needs-translation">Cockpit</target>
+        <target state="translated">Kokpit</target>
         <note>key: cockpit.breadcrumb.cockpit</note>
       </trans-unit>
       <trans-unit id="0dcc20efa4447b51beec0f49763eb587f07ebf7a" resname="cockpit.filters.currency">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="50c380badd9919619702b2f36588622c7ec439bf" resname="cockpit.page_title">
         <source>Cockpit</source>
-        <target state="needs-translation">Cockpit</target>
+        <target state="translated">Kokpit</target>
         <note>key: cockpit.page_title</note>
       </trans-unit>
       <trans-unit id="0ef8fe6b2c548406af5af4373a0e6c4a2014df14" resname="cockpit.products.and.sales.bestsellers">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="8bed8f6587de270802a12a5ac822520396d6f20d" resname="cockpit.products.and.sales.sku">
         <source>SKU</source>
-        <target state="needs-translation">SKU</target>
+        <target state="translated">SKU</target>
         <note>key: cockpit.products.and.sales.sku</note>
       </trans-unit>
       <trans-unit id="61fdd78a9584bbb69377cb506e98bca0e83c7848" resname="cockpit.products.and.sales.total.sales">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="dde35573bce4e5426192fc34863f5aff59f6f596" resname="cockpit.search.date.time">
         <source>Date/Time</source>
-        <target state="needs-translation">Date/Time</target>
+        <target state="translated">Data/Czas</target>
         <note>key: cockpit.search.date.time</note>
       </trans-unit>
       <trans-unit id="983d2867d87387edc164e7443f30b1a3685f5824" resname="cockpit.search.hits">
@@ -238,12 +238,12 @@
       </trans-unit>
       <trans-unit id="32af80f056fb97532cbe7b21556c4e73dc76193b" resname="cockpit.tabs.status.title">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Status</target>
         <note>key: cockpit.tabs.status.title</note>
       </trans-unit>
       <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Szukaj...</target>
         <note>key: dropdown.search</note>
       </trans-unit>
     </body>

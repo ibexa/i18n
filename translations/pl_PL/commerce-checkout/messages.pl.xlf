@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="7d7f408d7c2f5a7b086f59c33d239dbfeb4f78c5" resname="Browse...">
         <source>Browse...</source>
-        <target state="needs-translation">Browse...</target>
+        <target state="translated">Przeglądaj...</target>
         <note>key: Browse...</note>
       </trans-unit>
       <trans-unit id="3ac8e9e58c5abaddbf9d265d4965b9b8f0a3b787" resname="Checkout">
@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="d1f9b2f6ba844fc20b226d5edb697b8fd1b9f744" resname="basket.page.actions.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Wstecz</target>
         <note>key: basket.page.actions.back</note>
       </trans-unit>
       <trans-unit id="d190ac9ed65cc3c93c3cd2b0325b405a96976a2e" resname="basket.page.actions.checkout">
@@ -768,27 +768,27 @@
       </trans-unit>
       <trans-unit id="06f50bc800f44ef774a6a85243f8088e2e972dcd" resname="checkout.step.1_5">
         <source>1/5</source>
-        <target state="needs-translation">1/5</target>
+        <target state="translated">1/5</target>
         <note>key: checkout.step.1_5</note>
       </trans-unit>
       <trans-unit id="8e7cf8627a9ee60acc99c337d470edb2184603fe" resname="checkout.step.2_5">
         <source>2/5</source>
-        <target state="needs-translation">2/5</target>
+        <target state="translated">2/5</target>
         <note>key: checkout.step.2_5</note>
       </trans-unit>
       <trans-unit id="520f84e205a47d9913701bfec161db9b3987ad4b" resname="checkout.step.3_5">
         <source>3/5</source>
-        <target state="needs-translation">3/5</target>
+        <target state="translated">3/5</target>
         <note>key: checkout.step.3_5</note>
       </trans-unit>
       <trans-unit id="d8b9c49c9046a063099b0ba2c05762188e1aeebd" resname="checkout.step.4_5">
         <source>4/5</source>
-        <target state="needs-translation">4/5</target>
+        <target state="translated">4/5</target>
         <note>key: checkout.step.4_5</note>
       </trans-unit>
       <trans-unit id="0fe088495ce22b981ae49f6921acc66989a634d7" resname="checkout.step.5_5">
         <source>5/5</source>
-        <target state="needs-translation">5/5</target>
+        <target state="translated">5/5</target>
         <note>key: checkout.step.5_5</note>
       </trans-unit>
       <trans-unit id="aa5abf2197b320efad1297c1e882b5c8bac67157" resname="checkout.summary">

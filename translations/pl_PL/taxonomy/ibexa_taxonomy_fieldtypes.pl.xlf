@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="46d079247c2c8d13944cd404f5e8ba7136f12b47" resname="taxonomy.tag.content.modal.confirm">
         <source>Select</source>
-        <target state="needs-translation">Select</target>
+        <target state="translated">Wybierz</target>
         <note>key: taxonomy.tag.content.modal.confirm</note>
       </trans-unit>
       <trans-unit id="34023a9634f0e572d296b2de5a70c960c8c12e27" resname="taxonomy.tag.content.modal.subtitle">

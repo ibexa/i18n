@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="5c40e209cf61404fe0321482901de1ca032b56ca" resname="account.copied">
+        <source>Copied</source>
+        <target>crwdns251203:0crwdne251203:0</target>
+        <note>key: account.copied</note>
+      </trans-unit>
+      <trans-unit id="9f63fd9ab9e6f52d3ea63addd0adf0b66b5ad787" resname="account.create.name">
+        <source>Account name</source>
+        <target>crwdns251205:0crwdne251205:0</target>
+        <note>key: account.create.name</note>
+      </trans-unit>
+      <trans-unit id="9ac1e13435a751cf793725b682af4ff0e5f1c471" resname="account.create.next">
+        <source>Next</source>
+        <target>crwdns251207:0crwdne251207:0</target>
+        <note>key: account.create.next</note>
+      </trans-unit>
+      <trans-unit id="2351c0a69c53539441435a4793aca5713bc96b3a" resname="account.create.type">
+        <source>Type</source>
+        <target>crwdns251209:0crwdne251209:0</target>
+        <note>key: account.create.type</note>
+      </trans-unit>
+      <trans-unit id="41f6a9d364b5792d2a2a9774470a47ea7cbbea9b" resname="account.details.id">
+        <source>ID</source>
+        <target>crwdns251211:0crwdne251211:0</target>
+        <note>key: account.details.id</note>
+      </trans-unit>
+      <trans-unit id="8847e361317b35fc4329a27302ca8b7b10b04ccd" resname="account.details.license_key">
+        <source>Licence key</source>
+        <target>crwdns251213:0crwdne251213:0</target>
+        <note>key: account.details.license_key</note>
+      </trans-unit>
+      <trans-unit id="d9d5773cf1ab37cd321c2f4ad2dde79beea07df8" resname="account.details.pass_credentials">
+        <source>Pass the credentials to your administrator to finish service account setup and start using the Personalization service.</source>
+        <target>crwdns251215:0crwdne251215:0</target>
+        <note>key: account.details.pass_credentials</note>
+      </trans-unit>
+      <trans-unit id="569d6c35cdca6beb9cc9e1b48f8aedbea57fd1b7" resname="account.set_up.service">
+        <source>Set up service account</source>
+        <target>crwdns251217:0crwdne251217:0</target>
+        <note>key: account.set_up.service</note>
+      </trans-unit>
+      <trans-unit id="39192f9ba4e1d6e98339237396bcd168e78eb729" resname="account.type.commerce">
+        <source>Commerce</source>
+        <target>crwdns251219:0crwdne251219:0</target>
+        <note>key: account.type.commerce</note>
+      </trans-unit>
+      <trans-unit id="69b1c5c818445710019619cf9f4f9a06671f02b6" resname="account.type.publisher">
+        <source>Publisher</source>
+        <target>crwdns251221:0crwdne251221:0</target>
+        <note>key: account.type.publisher</note>
+      </trans-unit>
+      <trans-unit id="56c0da59355d07df01912947d83b628788c405c4" resname="activation_status.form.email">
+        <source>Email</source>
+        <target>crwdns243754:0crwdne243754:0</target>
+        <note>key: activation_status.form.email</note>
+      </trans-unit>
+      <trans-unit id="584b1646ab7795a2d37a682a9131d6b7a86e4111" resname="activation_status.form.full_name">
+        <source>Full name</source>
+        <target>crwdns243756:0crwdne243756:0</target>
+        <note>key: activation_status.form.full_name</note>
+      </trans-unit>
+      <trans-unit id="256aa74018353687a05876fb9f8b627435d767fd" resname="activation_status.form.terms_and_conditions">
+        <source>I have read and agree to the Terms and Conditions</source>
+        <target>crwdns243758:0crwdne243758:0</target>
+        <note>key: activation_status.form.terms_and_conditions</note>
+      </trans-unit>
+      <trans-unit id="34d07778b55d6b05956f292eb8360bd4429750f3" resname="breadcrumb.import">
+        <source>Import</source>
+        <target>crwdns243760:0crwdne243760:0</target>
+        <note>key: breadcrumb.import</note>
+      </trans-unit>
+      <trans-unit id="3e47cf979e591e5f0d01b92930499bd204da235d" resname="breadcrumb.models">
+        <source>Models</source>
+        <target>crwdns243762:0crwdne243762:0</target>
+        <note>key: breadcrumb.models</note>
+      </trans-unit>
+      <trans-unit id="1c5d787a5d5f4b2e3d9e14dcfe0cc9c78ee5939a" resname="breadcrumb.personalization">
+        <source>Personalization</source>
+        <target>crwdns243764:0crwdne243764:0</target>
+        <note>key: breadcrumb.personalization</note>
+      </trans-unit>
+      <trans-unit id="e68ace7e4c81cf8b6c6d333e92b573f6a6686223" resname="breadcrumb.scenarios">
+        <source>Scenarios</source>
+        <target>crwdns243766:0crwdne243766:0</target>
+        <note>key: breadcrumb.scenarios</note>
+      </trans-unit>
+      <trans-unit id="a5b7cf5e9c00d982d6d57267b2304c9b5e7ad926" resname="cannot_create_account">
+        <source>Failed to create new account. Please try again later</source>
+        <target>crwdns251223:0crwdne251223:0</target>
+        <note>key: cannot_create_account</note>
+      </trans-unit>
+      <trans-unit id="38598ef70257113edd62503231b2634aadfd5985" resname="category_path_select.select_path">
+        <source>Select path</source>
+        <target>crwdns243768:0crwdne243768:0</target>
+        <note>key: category_path_select.select_path</note>
+      </trans-unit>
+      <trans-unit id="a4dede5f896d11e9cbb3b0950c0076111efa52d3" resname="category_path_select.select_path.custom.btn.title">
+        <source>Add</source>
+        <target>crwdns243770:0crwdne243770:0</target>
+        <note>key: category_path_select.select_path.custom.btn.title</note>
+      </trans-unit>
+      <trans-unit id="aadf8f580f4e47471065b8b8165c1a8e1878e4a5" resname="category_path_select.select_path.custom.label">
+        <source>Path</source>
+        <target>crwdns243772:0crwdne243772:0</target>
+        <note>key: category_path_select.select_path.custom.label</note>
+      </trans-unit>
+      <trans-unit id="823fa4299d09aaad8e73fd440a2d99f51e0632ed" resname="category_path_select.select_path.or">
+        <source>Or</source>
+        <target>crwdns243774:0crwdne243774:0</target>
+        <note>key: category_path_select.select_path.or</note>
+      </trans-unit>
+      <trans-unit id="ec55a3d9a03d868c3a95e6339d7d59db74254d4d" resname="category_path_select.select_path.title">
+        <source>Set up a category path</source>
+        <target>crwdns243776:0crwdne243776:0</target>
+        <note>key: category_path_select.select_path.title</note>
+      </trans-unit>
+      <trans-unit id="b2c8483a1e8523c38d6b68b4ab24ac28f62e1b25" resname="category_path_select.select_path_udw_title">
+        <source>Select path</source>
+        <target>crwdns243778:0crwdne243778:0</target>
+        <note>key: category_path_select.select_path_udw_title</note>
+      </trans-unit>
+      <trans-unit id="0ac9bad7b4e93c7883bbf898f6b8787e3a246eb5" resname="chart.items_purchased">
+        <source>Items purchased</source>
+        <target>crwdns243780:0crwdne243780:0</target>
+        <note>key: chart.items_purchased</note>
+      </trans-unit>
+      <trans-unit id="11b29972214ced027ae7b45f4f07a4e6539f5b62" resname="chart.revenue">
+        <source>Revenue</source>
+        <target>crwdns243782:0crwdne243782:0</target>
+        <note>key: chart.revenue</note>
+      </trans-unit>
+      <trans-unit id="61ec537929f9c6f8ec6f92f039fc50c027e3f663" resname="chart.total">
+        <source>Total</source>
+        <target>crwdns243784:0crwdne243784:0</target>
+        <note>key: chart.total</note>
+      </trans-unit>
+      <trans-unit id="c0042805275438db157601bd4f535f2c4539c218" resname="create_account.step">
+        <source>Step %no%</source>
+        <target>crwdns251225:0%no%crwdne251225:0</target>
+        <note>key: create_account.step</note>
+      </trans-unit>
+      <trans-unit id="28246cc490c8819ebabaa1ec0e45c09a18804d72" resname="dashboard.clicked">
+        <source>Clicked</source>
+        <target>crwdns243786:0crwdne243786:0</target>
+        <note>key: dashboard.clicked</note>
+      </trans-unit>
+      <trans-unit id="ec075b87f475ee242a561598450eaa6dfadb88af" resname="dashboard.item_type">
+        <source>Item type</source>
+        <target>crwdns243788:0crwdne243788:0</target>
+        <note>key: dashboard.item_type</note>
+      </trans-unit>
+      <trans-unit id="25104b79057c490cc0c06824fd936825b5ac739e" resname="dashboard.no_popularity_items">
+        <source>No popularity items</source>
+        <target>crwdns243790:0crwdne243790:0</target>
+        <note>key: dashboard.no_popularity_items</note>
+      </trans-unit>
+      <trans-unit id="1b342e813cbd98471e1b97aea18a6bbdf486b0b3" resname="dashboard.recommendation_performance.recommendations_performance">
+        <source>Recommendations performance</source>
+        <target>crwdns243792:0crwdne243792:0</target>
+        <note>key: dashboard.recommendation_performance.recommendations_performance</note>
+      </trans-unit>
+      <trans-unit id="d25648afc679a2160f9dfac202540cf502db5e97" resname="dashboard.recommended">
+        <source>Recommended</source>
+        <target>crwdns243794:0crwdne243794:0</target>
+        <note>key: dashboard.recommended</note>
+      </trans-unit>
+      <trans-unit id="0a2cad7b32b2fd520c38b3e99022483de29829df" resname="dashboard.summary.clicked_recommendations">
+        <source>Clicked recommendations</source>
+        <target>crwdns243796:0crwdne243796:0</target>
+        <note>key: dashboard.summary.clicked_recommendations</note>
+      </trans-unit>
+      <trans-unit id="1d394377348ceddf640dab041bcb6064728f2c61" resname="dashboard.summary.events_collected">
+        <source>Events collected</source>
+        <target>crwdns243798:0crwdne243798:0</target>
+        <note>key: dashboard.summary.events_collected</note>
+      </trans-unit>
+      <trans-unit id="20373ac77794caa405815020e8ced517324720fe" resname="dashboard.summary.imported_items">
+        <source>Imported items</source>
+        <target>crwdns243800:0crwdne243800:0</target>
+        <note>key: dashboard.summary.imported_items</note>
+      </trans-unit>
+      <trans-unit id="718793d59a2b760b05aa36c193697cd4c485651f" resname="dashboard.summary.last_30_days">
+        <source>Last 30 days</source>
+        <target>crwdns243802:0crwdne243802:0</target>
+        <note>key: dashboard.summary.last_30_days</note>
+      </trans-unit>
+      <trans-unit id="feb82fd772697b433522e5fc67aa4b04f00a434f" resname="dashboard.summary.last_update">
+        <source>Last update %date%</source>
+        <target>crwdns243804:0%date%crwdne243804:0</target>
+        <note>key: dashboard.summary.last_update</note>
+      </trans-unit>
+      <trans-unit id="4fce840cb6ca00c22cd101fa83b2aca386cc37ef" resname="dashboard.summary.previous_month">
+        <source>Previous month %value%</source>
+        <target>crwdns243806:0%value%crwdne243806:0</target>
+        <note>key: dashboard.summary.previous_month</note>
+      </trans-unit>
+      <trans-unit id="789061607e938f706be41195c1bb23d6b475c24f" resname="dashboard.summary.recommendation_calls">
+        <source>Recommendation calls</source>
+        <target>crwdns243808:0crwdne243808:0</target>
+        <note>key: dashboard.summary.recommendation_calls</note>
+      </trans-unit>
+      <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
+        <source>Item clicked</source>
+        <target>crwdns247132:0crwdne247132:0</target>
+        <note>key: dashboard.title</note>
+      </trans-unit>
+      <trans-unit id="7abfc0a8a8b47b40e48b4f78f58a587eb45766d1" resname="dashboard.top_clicked_items">
+        <source>Top 10 clicked items</source>
+        <target>crwdns243812:0crwdne243812:0</target>
+        <note>key: dashboard.top_clicked_items</note>
+      </trans-unit>
+      <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
+        <source>Delete</source>
+        <target>crwdns247134:0crwdne247134:0</target>
+        <note>key: delete</note>
+      </trans-unit>
+      <trans-unit id="1e2a95e64da26b12063fd30d3accd927df7cf68c" resname="failed_to_trigger_model_build">
+        <source>Failed to trigger model build</source>
+        <target>crwdns248419:0crwdne248419:0</target>
+        <note>key: failed_to_trigger_model_build</note>
+      </trans-unit>
+      <trans-unit id="78a8e3b7dd2f680def2c3001ac5ed05abef54ec6" resname="form.scenario.model_data_type">
+        <source>Data type</source>
+        <target>crwdns243814:0crwdne243814:0</target>
+        <note>key: form.scenario.model_data_type</note>
+      </trans-unit>
+      <trans-unit id="51d683957a12b255bd4271e217c0a76d808963f5" resname="form.scenario.model_data_type.default">
+        <source>Default</source>
+        <target>crwdns247136:0crwdne247136:0</target>
+        <note>key: form.scenario.model_data_type.default</note>
+      </trans-unit>
+      <trans-unit id="747f4bf4dfbc7ae64341a20fd4ecef2fe61ef8e1" resname="form.scenario.model_data_type.segments">
+        <source>Segments</source>
+        <target>crwdns247138:0crwdne247138:0</target>
+        <note>key: form.scenario.model_data_type.segments</note>
+      </trans-unit>
+      <trans-unit id="e07be9755466b018865779ccff948b4e6afe5dfa" resname="form.scenario.model_data_type.submodels">
+        <source>Submodels</source>
+        <target>crwdns247140:0crwdne247140:0</target>
+        <note>key: form.scenario.model_data_type.submodels</note>
+      </trans-unit>
+      <trans-unit id="317058113941ff04b87fb62ef09b7e9275875243" resname="ibexa_personalization.dashboard.date_of_purchase">
+        <source>Date of purchase</source>
+        <target>crwdns243816:0crwdne243816:0</target>
+        <note>key: ibexa_personalization.dashboard.date_of_purchase</note>
+      </trans-unit>
+      <trans-unit id="e17d3e1491126d7f3805d685513784cf7526cf6c" resname="ibexa_personalization.dashboard.item_bought">
+        <source>Item bought</source>
+        <target>crwdns243818:0crwdne243818:0</target>
+        <note>key: ibexa_personalization.dashboard.item_bought</note>
+      </trans-unit>
+      <trans-unit id="5a0f88783a03d7e8d8848541ccfcf482d401b51d" resname="ibexa_personalization.dashboard.no_products_purchased">
+        <source>No products purchased</source>
+        <target>crwdns243820:0crwdne243820:0</target>
+        <note>key: ibexa_personalization.dashboard.no_products_purchased</note>
+      </trans-unit>
+      <trans-unit id="d43f23ab8e91b3334e2115e686e3e778b8abf134" resname="ibexa_personalization.dashboard.price">
+        <source>Price</source>
+        <target>crwdns243822:0crwdne243822:0</target>
+        <note>key: ibexa_personalization.dashboard.price</note>
+      </trans-unit>
+      <trans-unit id="6e7a8a2216686ba84d04f16114a6a9bc8d5dfe7d" resname="ibexa_personalization.date_time_range.custom_range">
+        <source>Custom range</source>
+        <target>crwdns243824:0crwdne243824:0</target>
+        <note>key: ibexa_personalization.date_time_range.custom_range</note>
+      </trans-unit>
+      <trans-unit id="2f1c5eeea5e27f7221e63ee2d39fc3dea707e33f" resname="ibexa_personalization.date_time_range.last_24h">
+        <source>Last 24h</source>
+        <target>crwdns243826:0crwdne243826:0</target>
+        <note>key: ibexa_personalization.date_time_range.last_24h</note>
+      </trans-unit>
+      <trans-unit id="b12bf18424da695783a23569e34f0efc437cdc9f" resname="ibexa_personalization.date_time_range.last_30_days">
+        <source>Last 30 days</source>
+        <target>crwdns243828:0crwdne243828:0</target>
+        <note>key: ibexa_personalization.date_time_range.last_30_days</note>
+      </trans-unit>
+      <trans-unit id="db6d8073db7e02acf280fda93a4448859b1b3494" resname="ibexa_personalization.date_time_range.last_7_days">
+        <source>Last 7 days</source>
+        <target>crwdns243830:0crwdne243830:0</target>
+        <note>key: ibexa_personalization.date_time_range.last_7_days</note>
+      </trans-unit>
+      <trans-unit id="b290f724a771c2efaa3cb908a32bf9c38c47a23c" resname="ibexa_personalization.date_time_range.last_month">
+        <source>Last month</source>
+        <target>crwdns243832:0crwdne243832:0</target>
+        <note>key: ibexa_personalization.date_time_range.last_month</note>
+      </trans-unit>
+      <trans-unit id="537d2eeb50537aa922d548761126cb1687aaee25" resname="ibexa_personalization.scenario.output_type_all">
+        <source>All</source>
+        <target>crwdns248186:0crwdne248186:0</target>
+        <note>key: ibexa_personalization.scenario.output_type_all</note>
+      </trans-unit>
+      <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
+        <source>Undefined</source>
+        <target>crwdns248188:0crwdne248188:0</target>
+        <note>key: ibexa_personalization.scenario.undefined</note>
+      </trans-unit>
+      <trans-unit id="62fdfbd55d19b2a4671102ad7bca17d875f8207a" resname="import">
+        <source>Import</source>
+        <target>crwdns243834:0crwdne243834:0</target>
+        <note>key: import</note>
+      </trans-unit>
+      <trans-unit id="93f7f60494a8ca773d68bcf3d2208c6b84caf741" resname="import.imported_items">
+        <source>Imported items</source>
+        <target>crwdns243836:0crwdne243836:0</target>
+        <note>key: import.imported_items</note>
+      </trans-unit>
+      <trans-unit id="27c13e5f13d5713b0c77e82b643435a58d502bba" resname="import.item_type">
+        <source>Item type</source>
+        <target>crwdns243838:0crwdne243838:0</target>
+        <note>key: import.item_type</note>
+      </trans-unit>
+      <trans-unit id="337424bb599a9046abc11be12a0e9fd6a561cc37" resname="import.item_type_id">
+        <source>Item type ID</source>
+        <target>crwdns243840:0crwdne243840:0</target>
+        <note>key: import.item_type_id</note>
+      </trans-unit>
+      <trans-unit id="01cfdca28f4437b0df9af3a5bd854bd92d6f7bab" resname="import.language">
+        <source>Language</source>
+        <target>crwdns243842:0crwdne243842:0</target>
+        <note>key: import.language</note>
+      </trans-unit>
+      <trans-unit id="5ed492920853d62272f044a731b64dffb486c73e" resname="import.last_update">
+        <source>Last update</source>
+        <target>crwdns243844:0crwdne243844:0</target>
+        <note>key: import.last_update</note>
+      </trans-unit>
+      <trans-unit id="259839e6315c4cd7ef4c8e08f0488f11b2041b04" resname="import.no_items_imported">
+        <source>No items imported</source>
+        <target>crwdns243846:0crwdne243846:0</target>
+        <note>key: import.no_items_imported</note>
+      </trans-unit>
+      <trans-unit id="032c3d291f2747bd18c632161b4c5c8c942d0ee0" resname="import.table_title">
+        <source>Imported items</source>
+        <target>crwdns243848:0crwdne243848:0</target>
+        <note>key: import.table_title</note>
+      </trans-unit>
+      <trans-unit id="b26cf18f4600baa01b7fecd963f893ca3424a2e6" resname="model.details.active">
+        <source>Active</source>
+        <target>crwdns243850:0crwdne243850:0</target>
+        <note>key: model.details.active</note>
+      </trans-unit>
+      <trans-unit id="736c8390cc639a1e94baff43ac6cf566ea20e5e7" resname="model.details.description">
+        <source>Model description</source>
+        <target>crwdns243852:0crwdne243852:0</target>
+        <note>key: model.details.description</note>
+      </trans-unit>
+      <trans-unit id="706d5289d4105fd8b6e076852cb8e8df8eeb1642" resname="model.details.event_history">
+        <source>Relevant event history</source>
+        <target>crwdns243854:0crwdne243854:0</target>
+        <note>key: model.details.event_history</note>
+      </trans-unit>
+      <trans-unit id="5349670bc14607a7d0b20eef5707d8de59d065a8" resname="model.details.general">
+        <source>General</source>
+        <target>crwdns243856:0crwdne243856:0</target>
+        <note>key: model.details.general</note>
+      </trans-unit>
+      <trans-unit id="3e7cb613ab82b863f6e9a7043921fefb670a7ed6" resname="model.details.identifier">
+        <source>Identifier</source>
+        <target>crwdns243858:0crwdne243858:0</target>
+        <note>key: model.details.identifier</note>
+      </trans-unit>
+      <trans-unit id="b959cfda0d499c225d510b34ed3e2db0b5b0dda9" resname="model.details.item_age.title">
+        <source>Item age</source>
+        <target>crwdns251227:0crwdne251227:0</target>
+        <note>key: model.details.item_age.title</note>
+      </trans-unit>
+      <trans-unit id="4df75fe5c000a8fa91e6811c5613d6087f7edf22" resname="model.details.last_build">
+        <source>Last build</source>
+        <target>crwdns243860:0crwdne243860:0</target>
+        <note>key: model.details.last_build</note>
+      </trans-unit>
+      <trans-unit id="f96553c14a4ffdd378138a03455a0891ce85a7e1" resname="model.details.name">
+        <source>Name</source>
+        <target>crwdns243862:0crwdne243862:0</target>
+        <note>key: model.details.name</note>
+      </trans-unit>
+      <trans-unit id="3d4bab614e2bf0348a662ba0345c2d1df14eadbd" resname="model.details.not_active">
+        <source>Not active</source>
+        <target>crwdns243864:0crwdne243864:0</target>
+        <note>key: model.details.not_active</note>
+      </trans-unit>
+      <trans-unit id="1fc9b4f6c966877097c7cb6c53ce6d7eb7ce6dc8" resname="model.details.number_recommendations">
+        <source>Number of recommendations</source>
+        <target>crwdns243866:0crwdne243866:0</target>
+        <note>key: model.details.number_recommendations</note>
+      </trans-unit>
+      <trans-unit id="59f1bee05ddd44884146ca3a43a4466e9592f96e" resname="model.details.relevant_history.title">
+        <source>Relevant history</source>
+        <target>crwdns251229:0crwdne251229:0</target>
+        <note>key: model.details.relevant_history.title</note>
+      </trans-unit>
+      <trans-unit id="ec2e77c833369d396a2b23edaae6fb57a3e6d752" resname="model.details.status">
+        <source>Status</source>
+        <target>crwdns243868:0crwdne243868:0</target>
+        <note>key: model.details.status</note>
+      </trans-unit>
+      <trans-unit id="c1e495f258d614d6a0f42eb02d225a1a6b161779" resname="model.details.submodels">
+        <source>Submodels</source>
+        <target>crwdns243870:0crwdne243870:0</target>
+        <note>key: model.details.submodels</note>
+      </trans-unit>
+      <trans-unit id="d9e2eef3492579519221003e3b55e3bbfa8892ac" resname="model.details.used_scenario">
+        <source>Used in scenario</source>
+        <target>crwdns243872:0crwdne243872:0</target>
+        <note>key: model.details.used_scenario</note>
+      </trans-unit>
+      <trans-unit id="5d2ff97e544ffec3511aff38904969ab634b77b3" resname="model.edit.actino_name">
+        <source>Editing</source>
+        <target>crwdns243874:0crwdne243874:0</target>
+        <note>key: model.edit.actino_name</note>
+      </trans-unit>
+      <trans-unit id="9fca83cee965c85c1d9952bb6f394dbb42a65527" resname="model.edit.anchor_navigation.segments">
+        <source>Segments</source>
+        <target>crwdns243876:0crwdne243876:0</target>
+        <note>key: model.edit.anchor_navigation.segments</note>
+      </trans-unit>
+      <trans-unit id="3173d7b7cc098e11b2253c46769f6405977305fd" resname="model.edit.anchor_navigation.submodels">
+        <source>Submodels</source>
+        <target>crwdns243878:0crwdne243878:0</target>
+        <note>key: model.edit.anchor_navigation.submodels</note>
+      </trans-unit>
+      <trans-unit id="d914448f5af58ab97b6ef5bb3ed5c193cb767bbe" resname="model.edit.editorial_list.title">
+        <source>Editor content list</source>
+        <target>crwdns243880:0crwdne243880:0</target>
+        <note>key: model.edit.editorial_list.title</note>
+      </trans-unit>
+      <trans-unit id="096e2b47d3b740cb238ceab207486abbe7695182" resname="model.edit.submodels.sidebar.empty.img">
+        <source>Empty library</source>
+        <target>crwdns247142:0crwdne247142:0</target>
+        <note>key: model.edit.submodels.sidebar.empty.img</note>
+      </trans-unit>
+      <trans-unit id="5e5e5275f63a9325fc326e4685483ee3414c1687" resname="model.edit.submodels.sidebar.empty.library">
+        <source>Your library is empty</source>
+        <target>crwdns247144:0crwdne247144:0</target>
+        <note>key: model.edit.submodels.sidebar.empty.library</note>
+      </trans-unit>
+      <trans-unit id="a8899af243bce36b0b413f00c831ce657fee9f3d" resname="model.edit.submodels.sidebar.title">
+        <source>Library</source>
+        <target>crwdns243882:0crwdne243882:0</target>
+        <note>key: model.edit.submodels.sidebar.title</note>
+      </trans-unit>
+      <trans-unit id="c6c09cc40d11ab92207f295720712bf55f19087b" resname="model.edit_short">
+        <source>Edit</source>
+        <target>crwdns243884:0crwdne243884:0</target>
+        <note>key: model.edit_short</note>
+      </trans-unit>
+      <trans-unit id="cf1abce1343ae4d0d9480a7102d7e89c63ed52ed" resname="model.quantifier.day">
+        <source>Day</source>
+        <target>crwdns243886:0crwdne243886:0</target>
+        <note>key: model.quantifier.day</note>
+      </trans-unit>
+      <trans-unit id="a74d1764e88f56ee10e72cf53e79178000df5d4e" resname="model.quantifier.hour">
+        <source>Hour</source>
+        <target>crwdns243888:0crwdne243888:0</target>
+        <note>key: model.quantifier.hour</note>
+      </trans-unit>
+      <trans-unit id="bb6102d5546962e51992e61bb51245cad7d680a2" resname="model_build.state.active">
+        <source>Active</source>
+        <target>crwdns248421:0crwdne248421:0</target>
+        <note>key: model_build.state.active</note>
+      </trans-unit>
+      <trans-unit id="98b19504122f3eae94e012a29e70bed705ef5f8b" resname="model_build.state.build_in_progress">
+        <source>Build in progress</source>
+        <target>crwdns248423:0crwdne248423:0</target>
+        <note>key: model_build.state.build_in_progress</note>
+      </trans-unit>
+      <trans-unit id="fa5c508429f7396605767fc0fd4ea92cdbf68d56" resname="model_build.state.failed">
+        <source>Failed</source>
+        <target>crwdns248425:0crwdne248425:0</target>
+        <note>key: model_build.state.failed</note>
+      </trans-unit>
+      <trans-unit id="6745f451dcbf71ecc541477e206cdbe28b7c8df8" resname="model_build_has_been_triggered">
+        <source>Model build has been triggered</source>
+        <target>crwdns248427:0crwdne248427:0</target>
+        <note>key: model_build_has_been_triggered</note>
+      </trans-unit>
+      <trans-unit id="5ba2688dffd71df813a468578a87c653e1575e1e" resname="models">
+        <source>Models</source>
+        <target>crwdns243890:0crwdne243890:0</target>
+        <note>key: models</note>
+      </trans-unit>
+      <trans-unit id="8a5d362f7867c4d490ec24abe1caf6564e3a0db2" resname="models.description.CF_I2Ix">
+        <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
+        <target>crwdns243892:0crwdne243892:0</target>
+        <note>key: models.description.CF_I2Ix</note>
+      </trans-unit>
+      <trans-unit id="4a18aab9ebe65fece5b9153272c9a7633a1c7445" resname="models.description.POPULARITY_LONGx">
+        <source>Most popular content based on a weighted amount of consumes</source>
+        <target>crwdns243894:0crwdne243894:0</target>
+        <note>key: models.description.POPULARITY_LONGx</note>
+      </trans-unit>
+      <trans-unit id="827c31ba82e83b129b09af0223b2a26b8b3f774b" resname="models.description.POPULARITY_SHORTx">
+        <source>Most popular content based on a weighted amount of consumes</source>
+        <target>crwdns243896:0crwdne243896:0</target>
+        <note>key: models.description.POPULARITY_SHORTx</note>
+      </trans-unit>
+      <trans-unit id="129991e3c98ef0e9f9e330842852e6965dfc37c2" resname="models.description.RANDOM_DOMAINx">
+        <source>Random model</source>
+        <target>crwdns243898:0crwdne243898:0</target>
+        <note>key: models.description.RANDOM_DOMAINx</note>
+      </trans-unit>
+      <trans-unit id="7d69995534aa896d5b450e04f6a0c422d2b0477d" resname="models.description.STEREOTYPES_CFx">
+        <source>Enables personalized recommendation based on clusters from user behaviour or content information</source>
+        <target>crwdns243900:0crwdne243900:0</target>
+        <note>key: models.description.STEREOTYPES_CFx</note>
+      </trans-unit>
+      <trans-unit id="5920550d09090e87ff1bbb4b2ce6cbf256f224d0" resname="models.description._todelete_also_purchased">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243902:0crwdne243902:0</target>
+        <note>key: models.description._todelete_also_purchased</note>
+      </trans-unit>
+      <trans-unit id="41af10423a07bc1202ed5872f1811ae962a60f54" resname="models.description._todelete_top_selling">
+        <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
+        <target>crwdns243904:0crwdne243904:0</target>
+        <note>key: models.description._todelete_top_selling</note>
+      </trans-unit>
+      <trans-unit id="5a6aec6b3022fc799ba1272fd14aa9c6efd3a671" resname="models.description._todelete_ultimately_bought">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns243906:0crwdne243906:0</target>
+        <note>key: models.description._todelete_ultimately_bought</note>
+      </trans-unit>
+      <trans-unit id="24cd0725061b863998e454b7e5b75907ebedf63a" resname="models.description.adv_also_clicked">
+        <source>adv_also_clicked</source>
+        <target>crwdns243908:0crwdne243908:0</target>
+        <note>key: models.description.adv_also_clicked</note>
+      </trans-unit>
+      <trans-unit id="adecadd6fc4749d37d27b8896f14bf021f1e79f4" resname="models.description.adv_also_clicked_2">
+        <source>adv_also_clicked_2</source>
+        <target>crwdns243910:0crwdne243910:0</target>
+        <note>key: models.description.adv_also_clicked_2</note>
+      </trans-unit>
+      <trans-unit id="a5481ce8d8abf34b48429c7cc99b19834c1fae7a" resname="models.description.adv_also_clicked_3">
+        <source>adv_also_clicked_3</source>
+        <target>crwdns243912:0crwdne243912:0</target>
+        <note>key: models.description.adv_also_clicked_3</note>
+      </trans-unit>
+      <trans-unit id="89c8aefc39a11a8b36b62419326858fe0ed2e289" resname="models.description.adv_also_purchased">
+        <source>adv_also_purchased</source>
+        <target>crwdns243914:0crwdne243914:0</target>
+        <note>key: models.description.adv_also_purchased</note>
+      </trans-unit>
+      <trans-unit id="007885a79dfd148f00266cb438645bb7fb6ac95d" resname="models.description.adv_also_purchased_2">
+        <source>adv_also_purchased_2</source>
+        <target>crwdns243916:0crwdne243916:0</target>
+        <note>key: models.description.adv_also_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="2bb15baa29bc6508ec98ce26ccea674d88bdc4b8" resname="models.description.adv_also_purchased_3">
+        <source>adv_also_purchased_3</source>
+        <target>crwdns243918:0crwdne243918:0</target>
+        <note>key: models.description.adv_also_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="efb21a49e2975c090fd00aa2672c72d842820cab" resname="models.description.adv_ultimately_basket">
+        <source>adv_ultimately_basket</source>
+        <target>crwdns243920:0crwdne243920:0</target>
+        <note>key: models.description.adv_ultimately_basket</note>
+      </trans-unit>
+      <trans-unit id="a3c90d711f009e8c02e4921ee20fefa271e09c88" resname="models.description.also_clicked">
+        <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
+        <target>crwdns243922:0crwdne243922:0</target>
+        <note>key: models.description.also_clicked</note>
+      </trans-unit>
+      <trans-unit id="5d7541e8444d7363f9a8097978575fd1c0b6dbcd" resname="models.description.also_clicked2">
+        <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
+        <target>crwdns243924:0crwdne243924:0</target>
+        <note>key: models.description.also_clicked2</note>
+      </trans-unit>
+      <trans-unit id="cc3b031429a0485a860fba5bc2046f2d0a1be765" resname="models.description.also_clicked3">
+        <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
+        <target>crwdns243926:0crwdne243926:0</target>
+        <note>key: models.description.also_clicked3</note>
+      </trans-unit>
+      <trans-unit id="12d0da8d0a1cffa87442b54ee7ef667254e7509c" resname="models.description.also_clicked_article">
+        <source>also_clicked_article</source>
+        <target>crwdns243928:0crwdne243928:0</target>
+        <note>key: models.description.also_clicked_article</note>
+      </trans-unit>
+      <trans-unit id="89f9a883b0d833f7612dc068c7005758d178526e" resname="models.description.also_clicked_article_to_product">
+        <source>also_clicked_article_to_product</source>
+        <target>crwdns243930:0crwdne243930:0</target>
+        <note>key: models.description.also_clicked_article_to_product</note>
+      </trans-unit>
+      <trans-unit id="930fdf3d5aad83e948bad58ce242211690658acb" resname="models.description.also_clicked_image">
+        <source>also_clicked_image</source>
+        <target>crwdns243932:0crwdne243932:0</target>
+        <note>key: models.description.also_clicked_image</note>
+      </trans-unit>
+      <trans-unit id="484b0796b819918c2cba072532b5140bdb994166" resname="models.description.also_clicked_product">
+        <source>also_clicked_product</source>
+        <target>crwdns243934:0crwdne243934:0</target>
+        <note>key: models.description.also_clicked_product</note>
+      </trans-unit>
+      <trans-unit id="04da23701977b8641937acf1a32824d34d0b7fa6" resname="models.description.also_consumed">
+        <source>User who consumed this content(read article, view image, etc.), also consumed the following content</source>
+        <target>crwdns243936:0crwdne243936:0</target>
+        <note>key: models.description.also_consumed</note>
+      </trans-unit>
+      <trans-unit id="09281fe53582cfc543eb8a281e6af17af2fb74f4" resname="models.description.also_consumed2">
+        <source>User who consumed this content(read article, view image, etc.), also consumed the following content</source>
+        <target>crwdns243938:0crwdne243938:0</target>
+        <note>key: models.description.also_consumed2</note>
+      </trans-unit>
+      <trans-unit id="4944d7404c7524ac2cf58a5b78cd26b37369dfb0" resname="models.description.also_consumed_article">
+        <source>also_consumed_article</source>
+        <target>crwdns243940:0crwdne243940:0</target>
+        <note>key: models.description.also_consumed_article</note>
+      </trans-unit>
+      <trans-unit id="acf1606f06b71b87b3788c4ea93421c206fbdf97" resname="models.description.also_consumed_image">
+        <source>also_consumed_image</source>
+        <target>crwdns243942:0crwdne243942:0</target>
+        <note>key: models.description.also_consumed_image</note>
+      </trans-unit>
+      <trans-unit id="218ac92b51e2bce7e5cfc5dfa2acec31b8657855" resname="models.description.also_followed">
+        <source>User who consumed this content(read article, view image, etc.), also consumed the following content</source>
+        <target>crwdns243944:0crwdne243944:0</target>
+        <note>key: models.description.also_followed</note>
+      </trans-unit>
+      <trans-unit id="0f860f1b41a0bc262c96040b03b63a3c638f23b9" resname="models.description.also_purchased">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243946:0crwdne243946:0</target>
+        <note>key: models.description.also_purchased</note>
+      </trans-unit>
+      <trans-unit id="0df29a6823c41c194e11e37c38518a7b1925f7b4" resname="models.description.also_purchased2">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243948:0crwdne243948:0</target>
+        <note>key: models.description.also_purchased2</note>
+      </trans-unit>
+      <trans-unit id="5195d4f10a42ddeb686bec0b5c6392ab830807b0" resname="models.description.also_purchased3">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243950:0crwdne243950:0</target>
+        <note>key: models.description.also_purchased3</note>
+      </trans-unit>
+      <trans-unit id="64459e093055c929bc3edbf880f5d2209438b7f9" resname="models.description.also_purchased4">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243952:0crwdne243952:0</target>
+        <note>key: models.description.also_purchased4</note>
+      </trans-unit>
+      <trans-unit id="fa004f77e0840b0306d351b3f69e74b3eb502d8d" resname="models.description.also_purchased_2">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243954:0crwdne243954:0</target>
+        <note>key: models.description.also_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="0c69887379f48d37e1eee30384c95062279a2901" resname="models.description.also_purchased_3">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243956:0crwdne243956:0</target>
+        <note>key: models.description.also_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="ecf3c6ca17cb00c1dd5f4f9b2c584758e67c2910" resname="models.description.also_purchased_article_to_product">
+        <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
+        <target>crwdns243958:0crwdne243958:0</target>
+        <note>key: models.description.also_purchased_article_to_product</note>
+      </trans-unit>
+      <trans-unit id="e84a857d1c17f62fac5bfddde1cbd93cc245d7c3" resname="models.description.also_purchased_product">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243960:0crwdne243960:0</target>
+        <note>key: models.description.also_purchased_product</note>
+      </trans-unit>
+      <trans-unit id="5af312fcbcef6e2b4ba756d686dc536ae9b9ce59" resname="models.description.also_purchased_short">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target>crwdns243962:0crwdne243962:0</target>
+        <note>key: models.description.also_purchased_short</note>
+      </trans-unit>
+      <trans-unit id="bf69d8cb8e241f26436ad5094471b0fe74f6402e" resname="models.description.also_similar_rated">
+        <source>Items that were similarly rated by users.</source>
+        <target>crwdns243964:0crwdne243964:0</target>
+        <note>key: models.description.also_similar_rated</note>
+      </trans-unit>
+      <trans-unit id="c45f6e31eb68964398b5b2623405534e3a5acf2f" resname="models.description.alternative">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns243966:0crwdne243966:0</target>
+        <note>key: models.description.alternative</note>
+      </trans-unit>
+      <trans-unit id="e01d62b3be728bf8efb96f124c036a9ca9805e7d" resname="models.description.bundle0">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns243968:0crwdne243968:0</target>
+        <note>key: models.description.bundle0</note>
+      </trans-unit>
+      <trans-unit id="294a0015643bc3f3e3c89b73400ed7f8dd7efba9" resname="models.description.bundle2">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns243970:0crwdne243970:0</target>
+        <note>key: models.description.bundle2</note>
+      </trans-unit>
+      <trans-unit id="a6abdd0f7ecc5033f1b40034e1f2d442aba855c8" resname="models.description.bundle3">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns243972:0crwdne243972:0</target>
+        <note>key: models.description.bundle3</note>
+      </trans-unit>
+      <trans-unit id="6c3bcfdf9bedd4d730f4401eedd1bf7a5e931613" resname="models.description.cb">
+        <source>cb</source>
+        <target>crwdns243974:0crwdne243974:0</target>
+        <note>key: models.description.cb</note>
+      </trans-unit>
+      <trans-unit id="8fe0c67e21e7b83b6fc4fc04af82cfb6ec9e1f1a" resname="models.description.cf_click">
+        <source>cf_click</source>
+        <target>crwdns243976:0crwdne243976:0</target>
+        <note>key: models.description.cf_click</note>
+      </trans-unit>
+      <trans-unit id="02676ca206b4e44415bc4dd2c557f01f3fe0dcfc" resname="models.description.cf_fbt">
+        <source>Items that were often bought together like a TV and cable. The current item is always included in the recommendations.</source>
+        <target>crwdns243978:0crwdne243978:0</target>
+        <note>key: models.description.cf_fbt</note>
+      </trans-unit>
+      <trans-unit id="34e9b6fe4711d0f580424c9be1fb00d0a21c4d79" resname="models.description.cf_fbt2">
+        <source>Items that were often bought together like a TV and cable. The current item is always included in the recommendations.</source>
+        <target>crwdns243980:0crwdne243980:0</target>
+        <note>key: models.description.cf_fbt2</note>
+      </trans-unit>
+      <trans-unit id="15d53747a9a35e8d9837b46a9a868c22910df803" resname="models.description.cf_purchased">
+        <source>cf_purchased</source>
+        <target>crwdns243982:0crwdne243982:0</target>
+        <note>key: models.description.cf_purchased</note>
+      </trans-unit>
+      <trans-unit id="82ea6a741819f74079812544735158e97863a1e1" resname="models.description.cf_purchased_after_clicked">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns243984:0crwdne243984:0</target>
+        <note>key: models.description.cf_purchased_after_clicked</note>
+      </trans-unit>
+      <trans-unit id="24fb3153eb94bda91133f33937885e6983f2d849" resname="models.description.click2buy">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns243986:0crwdne243986:0</target>
+        <note>key: models.description.click2buy</note>
+      </trans-unit>
+      <trans-unit id="df473700c90ec8709f166730967ab1494a319138" resname="models.description.click2click">
+        <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
+        <target>crwdns243988:0crwdne243988:0</target>
+        <note>key: models.description.click2click</note>
+      </trans-unit>
+      <trans-unit id="c10da65b6497a52621ad9da6c7739515439f4847" resname="models.description.click_after_consumed">
+        <source>User who clicked on this content (article, image, etc), immediately after consumed the following content</source>
+        <target>crwdns243990:0crwdne243990:0</target>
+        <note>key: models.description.click_after_consumed</note>
+      </trans-unit>
+      <trans-unit id="425edef060b7427ff889109c06f4d08f004dfb41" resname="models.description.click_to_purchased">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns243992:0crwdne243992:0</target>
+        <note>key: models.description.click_to_purchased</note>
+      </trans-unit>
+      <trans-unit id="37c02def82fbf07fa1b7fa3dacd14fbb78edcd48" resname="models.description.consume2consume">
+        <source>User who consumed this content(read article, view image, etc.), also consumed the following content</source>
+        <target>crwdns243994:0crwdne243994:0</target>
+        <note>key: models.description.consume2consume</note>
+      </trans-unit>
+      <trans-unit id="8d590e51a9722fc7387c6ff23c94a49657946a8f" resname="models.description.custom_model">
+        <source>Items that were similarly rated by users.</source>
+        <target>crwdns243996:0crwdne243996:0</target>
+        <note>key: models.description.custom_model</note>
+      </trans-unit>
+      <trans-unit id="a0d0050516178a8998505d041b2f0002b4150db3" resname="models.description.e1">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns243998:0crwdne243998:0</target>
+        <note>key: models.description.e1</note>
+      </trans-unit>
+      <trans-unit id="223b0677f9f64647e01df6e67572db826fcdfe3a" resname="models.description.e2">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244000:0crwdne244000:0</target>
+        <note>key: models.description.e2</note>
+      </trans-unit>
+      <trans-unit id="cac890da0eb4e265e9e4e2b3be2085a4457e2c73" resname="models.description.editor_1">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244002:0crwdne244002:0</target>
+        <note>key: models.description.editor_1</note>
+      </trans-unit>
+      <trans-unit id="572c7ac9d87bb2ea22dd3ba3ff495f88aa7bc9f9" resname="models.description.editor_2">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244004:0crwdne244004:0</target>
+        <note>key: models.description.editor_2</note>
+      </trans-unit>
+      <trans-unit id="e4b9ecfed7d0389da7e1ca779b15cb7046f0c880" resname="models.description.editor_blacklist">
+        <source>With a global blacklist predefined items can be filtered out of requested recommendations</source>
+        <target>crwdns244006:0crwdne244006:0</target>
+        <note>key: models.description.editor_blacklist</note>
+      </trans-unit>
+      <trans-unit id="5fae860ec55b5355481a3d61b3ee692cb3da5a18" resname="models.description.editorial_list">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244008:0crwdne244008:0</target>
+        <note>key: models.description.editorial_list</note>
+      </trans-unit>
+      <trans-unit id="020603c66183f53d65b737f94aeb6937a9b973aa" resname="models.description.editorial_list2">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244010:0crwdne244010:0</target>
+        <note>key: models.description.editorial_list2</note>
+      </trans-unit>
+      <trans-unit id="da30789714a5c37912399990e94da9e6dcf733a8" resname="models.description.editorial_list3">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244012:0crwdne244012:0</target>
+        <note>key: models.description.editorial_list3</note>
+      </trans-unit>
+      <trans-unit id="25b02923616be82e27e43497afb46e3c1f94ca29" resname="models.description.editorial_list4">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244014:0crwdne244014:0</target>
+        <note>key: models.description.editorial_list4</note>
+      </trans-unit>
+      <trans-unit id="f2440cf14c6a157fa5d44ebaa2558f31fb5dddf0" resname="models.description.editorial_list5">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244016:0crwdne244016:0</target>
+        <note>key: models.description.editorial_list5</note>
+      </trans-unit>
+      <trans-unit id="d143614f7c9014ea0d2f169af252b4dc641cd34a" resname="models.description.editorial_list6">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244018:0crwdne244018:0</target>
+        <note>key: models.description.editorial_list6</note>
+      </trans-unit>
+      <trans-unit id="c010d61a0476de5ed48cf9c572a7aa8d68705788" resname="models.description.editorial_list7">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244020:0crwdne244020:0</target>
+        <note>key: models.description.editorial_list7</note>
+      </trans-unit>
+      <trans-unit id="9cfac39a53954cc6f67466586226d5b26aab047b" resname="models.description.editorial_list_article">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244022:0crwdne244022:0</target>
+        <note>key: models.description.editorial_list_article</note>
+      </trans-unit>
+      <trans-unit id="3a17c7cfd3fc6ef300761248f9912c556f49f979" resname="models.description.editorial_list_b">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244024:0crwdne244024:0</target>
+        <note>key: models.description.editorial_list_b</note>
+      </trans-unit>
+      <trans-unit id="6eac17e5cbfd33cccca0ba8eb54d930f6fc06b39" resname="models.description.editorial_list_bestselger">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244026:0crwdne244026:0</target>
+        <note>key: models.description.editorial_list_bestselger</note>
+      </trans-unit>
+      <trans-unit id="b1d02e56b073c512c9d777e7d5678a7c843ae8bc" resname="models.description.editorial_list_blog">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244028:0crwdne244028:0</target>
+        <note>key: models.description.editorial_list_blog</note>
+      </trans-unit>
+      <trans-unit id="8eca4974701e37021d64c7555d93cb76c046647b" resname="models.description.editorial_list_crossselling">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244030:0crwdne244030:0</target>
+        <note>key: models.description.editorial_list_crossselling</note>
+      </trans-unit>
+      <trans-unit id="b76bada43ec6d51fdfd425be4da81ef77a80cf6c" resname="models.description.editorial_list_front">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244032:0crwdne244032:0</target>
+        <note>key: models.description.editorial_list_front</note>
+      </trans-unit>
+      <trans-unit id="43c45e947f2d9e9eee7a1a5efa9633b9ec9affa2" resname="models.description.editorial_list_kommende">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244034:0crwdne244034:0</target>
+        <note>key: models.description.editorial_list_kommende</note>
+      </trans-unit>
+      <trans-unit id="5c44999acb3c09b59771fb7f2e9568be64bc6d8e" resname="models.description.editorial_list_landingpage">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244036:0crwdne244036:0</target>
+        <note>key: models.description.editorial_list_landingpage</note>
+      </trans-unit>
+      <trans-unit id="643b200045340ee31a2a4da1578440c09ba07e89" resname="models.description.editorial_list_nyheter">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244038:0crwdne244038:0</target>
+        <note>key: models.description.editorial_list_nyheter</note>
+      </trans-unit>
+      <trans-unit id="11f6ee4fea5de212799bc9b611c62b157099a537" resname="models.description.editorial_list_personalized">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244040:0crwdne244040:0</target>
+        <note>key: models.description.editorial_list_personalized</note>
+      </trans-unit>
+      <trans-unit id="f361eff8b87c20d5b8bde28b474caffa89ddfe57" resname="models.description.editorial_list_related">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244042:0crwdne244042:0</target>
+        <note>key: models.description.editorial_list_related</note>
+      </trans-unit>
+      <trans-unit id="6185b69fbab04c58ffa728a0558c0a12806fde39" resname="models.description.editorial_list_tilbudstorget">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244044:0crwdne244044:0</target>
+        <note>key: models.description.editorial_list_tilbudstorget</note>
+      </trans-unit>
+      <trans-unit id="b978c87f763cb2538b9c8f81cadfab4e9e9b478a" resname="models.description.editorial_list_toppti">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244046:0crwdne244046:0</target>
+        <note>key: models.description.editorial_list_toppti</note>
+      </trans-unit>
+      <trans-unit id="1ab10b1b003bcc277793fd99354676f88620036f" resname="models.description.editorial_list_upselling">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244048:0crwdne244048:0</target>
+        <note>key: models.description.editorial_list_upselling</note>
+      </trans-unit>
+      <trans-unit id="4e27f4f0e75069ea480c4f3b1e3daff4a8b93c7a" resname="models.description.el_articles">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244050:0crwdne244050:0</target>
+        <note>key: models.description.el_articles</note>
+      </trans-unit>
+      <trans-unit id="6d59943e1f85dbbfb3b1943478396924525be1da" resname="models.description.el_blogposts">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244052:0crwdne244052:0</target>
+        <note>key: models.description.el_blogposts</note>
+      </trans-unit>
+      <trans-unit id="3c9d9686ca7f81d85beb5883cc686867afd162f1" resname="models.description.el_personalized">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244054:0crwdne244054:0</target>
+        <note>key: models.description.el_personalized</note>
+      </trans-unit>
+      <trans-unit id="5e06f29ebc6ca0377ba6dce02036fa30c6397908" resname="models.description.el_places">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244056:0crwdne244056:0</target>
+        <note>key: models.description.el_places</note>
+      </trans-unit>
+      <trans-unit id="2a0a5202653e1f10d649960c786ac464a0343a2e" resname="models.description.el_products">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244058:0crwdne244058:0</target>
+        <note>key: models.description.el_products</note>
+      </trans-unit>
+      <trans-unit id="28c45f4d3f2a7f07b37e5394097c0d3c09124e29" resname="models.description.girlmerry">
+        <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
+        <target>crwdns244060:0crwdne244060:0</target>
+        <note>key: models.description.girlmerry</note>
+      </trans-unit>
+      <trans-unit id="130019dde92c705b448fa7ea060492c052e7d9b2" resname="models.description.history">
+        <source>history</source>
+        <target>crwdns244062:0crwdne244062:0</target>
+        <note>key: models.description.history</note>
+      </trans-unit>
+      <trans-unit id="fa2764090af559af2702f4ed42813268d77c8a06" resname="models.description.history_blacklist">
+        <source>history_blacklist</source>
+        <target>crwdns244064:0crwdne244064:0</target>
+        <note>key: models.description.history_blacklist</note>
+      </trans-unit>
+      <trans-unit id="45cd67d16730fd4a157f475f94d67aa1742f11a2" resname="models.description.history_buy">
+        <source>history_buy</source>
+        <target>crwdns244066:0crwdne244066:0</target>
+        <note>key: models.description.history_buy</note>
+      </trans-unit>
+      <trans-unit id="345d745865a6be7a03877df26959c2e3e3075157" resname="models.description.history_clicked">
+        <source>Show the customer what he already viewed</source>
+        <target>crwdns244068:0crwdne244068:0</target>
+        <note>key: models.description.history_clicked</note>
+      </trans-unit>
+      <trans-unit id="0e6c94bb149876e0bb1b132fd72fb819f872ea68" resname="models.description.history_clicked1">
+        <source>history_clicked1</source>
+        <target>crwdns244070:0crwdne244070:0</target>
+        <note>key: models.description.history_clicked1</note>
+      </trans-unit>
+      <trans-unit id="859ac09043a9552f4639f374f7250d50377bd0fe" resname="models.description.history_clicked_in_period">
+        <source>Show the customer what he already viewed</source>
+        <target>crwdns244072:0crwdne244072:0</target>
+        <note>key: models.description.history_clicked_in_period</note>
+      </trans-unit>
+      <trans-unit id="59cfbff87f6cf541400e1ff25a8a7cd02d52bddf" resname="models.description.history_consumed">
+        <source>history_consumed</source>
+        <target>crwdns244074:0crwdne244074:0</target>
+        <note>key: models.description.history_consumed</note>
+      </trans-unit>
+      <trans-unit id="8c8f811bf9c1299cb239ce033f7a331507f6e7c2" resname="models.description.history_purchased">
+        <source>history_purchased</source>
+        <target>crwdns244076:0crwdne244076:0</target>
+        <note>key: models.description.history_purchased</note>
+      </trans-unit>
+      <trans-unit id="3ade620adb52a4d1ed6619769b2e45d8b6c1fa63" resname="models.description.history_purchased_in_period">
+        <source>Show the customer what he already purchased</source>
+        <target>crwdns244078:0crwdne244078:0</target>
+        <note>key: models.description.history_purchased_in_period</note>
+      </trans-unit>
+      <trans-unit id="7e5d2847ce3ae50c54aba0a395e067b64ba76475" resname="models.description.last_clicked">
+        <source>last_clicked</source>
+        <target>crwdns244080:0crwdne244080:0</target>
+        <note>key: models.description.last_clicked</note>
+      </trans-unit>
+      <trans-unit id="07aa2c8a6efd0a0bbc17b6ddd38ab126b0839d19" resname="models.description.last_purchased">
+        <source>last_purchased</source>
+        <target>crwdns244082:0crwdne244082:0</target>
+        <note>key: models.description.last_purchased</note>
+      </trans-unit>
+      <trans-unit id="f1aa932a6a986518f8a92959d2b1d1c054a3bf73" resname="models.description.popular">
+        <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
+        <target>crwdns244084:0crwdne244084:0</target>
+        <note>key: models.description.popular</note>
+      </trans-unit>
+      <trans-unit id="33e5615fdc8c8bba8fbb5f26e5e6958f6a1f15b1" resname="models.description.popular_click">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244086:0crwdne244086:0</target>
+        <note>key: models.description.popular_click</note>
+      </trans-unit>
+      <trans-unit id="0a9d00d8cd5bb8d4512f95dfa8f159d465be0283" resname="models.description.popular_predicted">
+        <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
+        <target>crwdns244088:0crwdne244088:0</target>
+        <note>key: models.description.popular_predicted</note>
+      </trans-unit>
+      <trans-unit id="4ea4c726b2089ee47db65058ebf5b429fa1b117c" resname="models.description.predictive_model">
+        <source>Foresees user’s purchase behavior and trends and recommends items based on this behavior</source>
+        <target>crwdns251231:0crwdne251231:0</target>
+        <note>key: models.description.predictive_model</note>
+      </trans-unit>
+      <trans-unit id="e9c396e9d4b13df46b5f41ff9e1c6859f2847356" resname="models.description.profile">
+        <source>profile</source>
+        <target>crwdns244090:0crwdne244090:0</target>
+        <note>key: models.description.profile</note>
+      </trans-unit>
+      <trans-unit id="54401adac13b0a7da91f060f6fa9d05a9138145b" resname="models.description.profile_buy">
+        <source>profile_buy</source>
+        <target>crwdns244092:0crwdne244092:0</target>
+        <note>key: models.description.profile_buy</note>
+      </trans-unit>
+      <trans-unit id="595af9123b79d934162ff6c3352db7e6e169bbbd" resname="models.description.profile_click">
+        <source>profile_click</source>
+        <target>crwdns244094:0crwdne244094:0</target>
+        <note>key: models.description.profile_click</note>
+      </trans-unit>
+      <trans-unit id="973614998a011e68809d35cb545e75cc364315ed" resname="models.description.random">
+        <source>Random model</source>
+        <target>crwdns244096:0crwdne244096:0</target>
+        <note>key: models.description.random</note>
+      </trans-unit>
+      <trans-unit id="86a636e53968cf7b770bf536490c8266c23e9806" resname="models.description.random_emdsartikel">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244098:0crwdne244098:0</target>
+        <note>key: models.description.random_emdsartikel</note>
+      </trans-unit>
+      <trans-unit id="5cf19b41517664be1f5048ecd3d372e11293328b" resname="models.description.random_short">
+        <source>Random model</source>
+        <target>crwdns244100:0crwdne244100:0</target>
+        <note>key: models.description.random_short</note>
+      </trans-unit>
+      <trans-unit id="c652eac84f81b37fd3b7de2534f3ad60b458fa31" resname="models.description.rated">
+        <source>Items that were similarly rated by users.</source>
+        <target>crwdns244102:0crwdne244102:0</target>
+        <note>key: models.description.rated</note>
+      </trans-unit>
+      <trans-unit id="ce9f8405241340a2087adcfd508ca1f5b2fdf75d" resname="models.description.recently_bought">
+        <source>recently_bought</source>
+        <target>crwdns244104:0crwdne244104:0</target>
+        <note>key: models.description.recently_bought</note>
+      </trans-unit>
+      <trans-unit id="4314b5ceef119e70b10d12d93315ba4ac6dffe07" resname="models.description.recently_clicked">
+        <source>recently_clicked</source>
+        <target>crwdns244106:0crwdne244106:0</target>
+        <note>key: models.description.recently_clicked</note>
+      </trans-unit>
+      <trans-unit id="29dba4b8aa40b0ee44475714e1b02b49f931ed9b" resname="models.description.recurring_purchase">
+        <source>Recognizes purchase patterns and returns recommendations for items where these patterns can occur.</source>
+        <target>crwdns251233:0crwdne251233:0</target>
+        <note>key: models.description.recurring_purchase</note>
+      </trans-unit>
+      <trans-unit id="aa3a7c8c2b5735554a6270658c111796263067f3" resname="models.description.s1">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244108:0crwdne244108:0</target>
+        <note>key: models.description.s1</note>
+      </trans-unit>
+      <trans-unit id="31f85200ea57ca769b8a619678030779025eb908" resname="models.description.s2">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns244110:0crwdne244110:0</target>
+        <note>key: models.description.s2</note>
+      </trans-unit>
+      <trans-unit id="18f93a1763e444c8e37a91878e33bbcff8937f1c" resname="models.description.similar_rated">
+        <source>Items that were similarly rated by users.</source>
+        <target>crwdns244112:0crwdne244112:0</target>
+        <note>key: models.description.similar_rated</note>
+      </trans-unit>
+      <trans-unit id="e5432b9ecebd9cd95c0e2877b741933121e92cbd" resname="models.description.stereotypes_cf">
+        <source>Enables personalized recommendation based on clusters from user behaviour or content information</source>
+        <target>crwdns244114:0crwdne244114:0</target>
+        <note>key: models.description.stereotypes_cf</note>
+      </trans-unit>
+      <trans-unit id="ea601c4c5e3d15ba7739d49b7bcb069ab8b08890" resname="models.description.suggestion">
+        <source>suggestion</source>
+        <target>crwdns244116:0crwdne244116:0</target>
+        <note>key: models.description.suggestion</note>
+      </trans-unit>
+      <trans-unit id="b751a3ec080e5d282c3eb385c68c3559fad16ce3" resname="models.description.top_buy_weighted">
+        <source>Returns items which purchase date is closer to date of the request for these items.</source>
+        <target>crwdns251235:0crwdne251235:0</target>
+        <note>key: models.description.top_buy_weighted</note>
+      </trans-unit>
+      <trans-unit id="bb4917bfc82ba0f2c3af039f97bfb8aa42d42ff5" resname="models.description.top_clicked">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244118:0crwdne244118:0</target>
+        <note>key: models.description.top_clicked</note>
+      </trans-unit>
+      <trans-unit id="43d94061f569b24cd0b8f36bf4518dea9253b357" resname="models.description.top_clicked2">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244120:0crwdne244120:0</target>
+        <note>key: models.description.top_clicked2</note>
+      </trans-unit>
+      <trans-unit id="19f3211cb7b7cc61ac91b523c439acd08abdaf1f" resname="models.description.top_clicked_2">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244122:0crwdne244122:0</target>
+        <note>key: models.description.top_clicked_2</note>
+      </trans-unit>
+      <trans-unit id="9ddd9c7e8dd9e35212757339ff4fafe723062e8e" resname="models.description.top_clicked_article">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244124:0crwdne244124:0</target>
+        <note>key: models.description.top_clicked_article</note>
+      </trans-unit>
+      <trans-unit id="08387ca51171cb76724dbd846a8b27299746a542" resname="models.description.top_clicked_image">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244126:0crwdne244126:0</target>
+        <note>key: models.description.top_clicked_image</note>
+      </trans-unit>
+      <trans-unit id="05279de2368e004201c8430cc06262cd101aacfa" resname="models.description.top_clicked_long">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244128:0crwdne244128:0</target>
+        <note>key: models.description.top_clicked_long</note>
+      </trans-unit>
+      <trans-unit id="6389b0293fb682d507f6988a8bb2d258a2c3ec51" resname="models.description.top_clicked_product">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244130:0crwdne244130:0</target>
+        <note>key: models.description.top_clicked_product</note>
+      </trans-unit>
+      <trans-unit id="651afdb4c2f7183418b0bab87bb466aaadf1bcd5" resname="models.description.top_clicked_short">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244132:0crwdne244132:0</target>
+        <note>key: models.description.top_clicked_short</note>
+      </trans-unit>
+      <trans-unit id="ba03c9b32233afe6d156fa4849ee84362a1655b5" resname="models.description.top_clicked_weighted">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244134:0crwdne244134:0</target>
+        <note>key: models.description.top_clicked_weighted</note>
+      </trans-unit>
+      <trans-unit id="ec6865ccab6bf3a7d34222e2ad3a33bdd4a9c325" resname="models.description.top_consumed">
+        <source>Most popular content based on a weighted amount of consumes</source>
+        <target>crwdns244136:0crwdne244136:0</target>
+        <note>key: models.description.top_consumed</note>
+      </trans-unit>
+      <trans-unit id="8330803dde7d831f071f6a69ee5e3d45ef411006" resname="models.description.top_consumed_article">
+        <source>Most popular content based on a weighted amount of consumes</source>
+        <target>crwdns244138:0crwdne244138:0</target>
+        <note>key: models.description.top_consumed_article</note>
+      </trans-unit>
+      <trans-unit id="1ae8ef812de744f40b3fdbb70af85e7b2cfde454" resname="models.description.top_consumed_image">
+        <source>Most popular content based on a weighted amount of consumes</source>
+        <target>crwdns244140:0crwdne244140:0</target>
+        <note>key: models.description.top_consumed_image</note>
+      </trans-unit>
+      <trans-unit id="d0f3bf779612d98ae4c0ed780d457c2a440dd088" resname="models.description.top_consumed_long">
+        <source>Most popular content based on a weighted amount of consumes</source>
+        <target>crwdns244142:0crwdne244142:0</target>
+        <note>key: models.description.top_consumed_long</note>
+      </trans-unit>
+      <trans-unit id="438ac1811c6dc836261719784f86cec8a771fdcd" resname="models.description.top_consumed_short">
+        <source>Most popular content based on a weighted amount of consumes</source>
+        <target>crwdns244144:0crwdne244144:0</target>
+        <note>key: models.description.top_consumed_short</note>
+      </trans-unit>
+      <trans-unit id="4c454be8c03d314af6e13344160deaeebee76fef" resname="models.description.top_purchased">
+        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
+        <target>crwdns244146:0crwdne244146:0</target>
+        <note>key: models.description.top_purchased</note>
+      </trans-unit>
+      <trans-unit id="b9a2ac614b900525317d3d6df464b3f52b6a8ebc" resname="models.description.top_purchased_2">
+        <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
+        <target>crwdns244148:0crwdne244148:0</target>
+        <note>key: models.description.top_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="70b1e205320c71374783c9f91e056de04c5cdbff" resname="models.description.top_purchased_3">
+        <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
+        <target>crwdns244150:0crwdne244150:0</target>
+        <note>key: models.description.top_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="0a7dae8a6dc0471c7d363b30974850da3109ba93" resname="models.description.top_purchased_product">
+        <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
+        <target>crwdns244152:0crwdne244152:0</target>
+        <note>key: models.description.top_purchased_product</note>
+      </trans-unit>
+      <trans-unit id="d4176a8073c60099d0b77b395c371cf8ff7aaeea" resname="models.description.top_rated">
+        <source>Most popular content based on a weighted amount of ratings</source>
+        <target>crwdns244154:0crwdne244154:0</target>
+        <note>key: models.description.top_rated</note>
+      </trans-unit>
+      <trans-unit id="0e2179211418c0f7d9bbe7abcf76ca4fadb57c01" resname="models.description.top_selling">
+        <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
+        <target>crwdns244156:0crwdne244156:0</target>
+        <note>key: models.description.top_selling</note>
+      </trans-unit>
+      <trans-unit id="dca16d9d3c0c04161ddeefbe304305ef77183f9e" resname="models.description.ultimately_bought">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns244158:0crwdne244158:0</target>
+        <note>key: models.description.ultimately_bought</note>
+      </trans-unit>
+      <trans-unit id="831979f6766fd31daa5ed42edc584a2d2fcffd86" resname="models.description.ultimately_consumed">
+        <source>User who clicked on this content (article, image, etc), immediately after consumed the following content</source>
+        <target>crwdns244160:0crwdne244160:0</target>
+        <note>key: models.description.ultimately_consumed</note>
+      </trans-unit>
+      <trans-unit id="7791942869b76b2f1fff96196e14a5b0ec0fe3bd" resname="models.description.ultimately_purchased">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns244162:0crwdne244162:0</target>
+        <note>key: models.description.ultimately_purchased</note>
+      </trans-unit>
+      <trans-unit id="1bca68df6d31e0b72176a25544a3ac944069bc00" resname="models.description.ultimately_purchased_2">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns244164:0crwdne244164:0</target>
+        <note>key: models.description.ultimately_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="438329e5f2be4c1015511ee177962f9356e29def" resname="models.description.ultimately_purchased_3">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns244166:0crwdne244166:0</target>
+        <note>key: models.description.ultimately_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="c5279772305f602be45cc8fa6b7a5bc7f9f1769e" resname="models.description.ultimately_purchased_long">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target>crwdns244168:0crwdne244168:0</target>
+        <note>key: models.description.ultimately_purchased_long</note>
+      </trans-unit>
+      <trans-unit id="00e5b67f298f1490ea3c34ca8c27fd5e27fd4277" resname="models.description.upheaval">
+        <source>upheaval</source>
+        <target>crwdns244170:0crwdne244170:0</target>
+        <note>key: models.description.upheaval</note>
+      </trans-unit>
+      <trans-unit id="ff522342dbc0469d4f28c530a82433f8a973da0a" resname="models.description.upheaval_ctb">
+        <source>upheaval_ctb</source>
+        <target>crwdns244172:0crwdne244172:0</target>
+        <note>key: models.description.upheaval_ctb</note>
+      </trans-unit>
+      <trans-unit id="f5d11f2aa5b5369f72f6773cbea033cf7460180c" resname="models.description.upheaval_ctbuy">
+        <source>upheaval_ctbuy</source>
+        <target>crwdns244174:0crwdne244174:0</target>
+        <note>key: models.description.upheaval_ctbuy</note>
+      </trans-unit>
+      <trans-unit id="7eb634c1d990f66c7f12ac890b318bb987ce5756" resname="models.description.upheaval_ctc">
+        <source>upheaval_ctc</source>
+        <target>crwdns244176:0crwdne244176:0</target>
+        <note>key: models.description.upheaval_ctc</note>
+      </trans-unit>
+      <trans-unit id="a605b20c36a6e0a2decd75b4940e7f210bebd842" resname="models.description.user_last_clicked">
+        <source>Shows the last (based on the timestamp), for example, 5 articles clicked by a user.</source>
+        <target>crwdns251237:0crwdne251237:0</target>
+        <note>key: models.description.user_last_clicked</note>
+      </trans-unit>
+      <trans-unit id="7c6d4400e9a670760d2592871c328fe78f8a04ee" resname="models.description.user_last_purchased">
+        <source>Returns the last (based on the timestamp), for example, 5 items purchased by a user.</source>
+        <target>crwdns251239:0crwdne251239:0</target>
+        <note>key: models.description.user_last_purchased</note>
+      </trans-unit>
+      <trans-unit id="16160218c420237607b725485daaebb2fbd17014" resname="models.details.range.from">
+        <source>From</source>
+        <target>crwdns244178:0crwdne244178:0</target>
+        <note>key: models.details.range.from</note>
+      </trans-unit>
+      <trans-unit id="de8051ea0cefe1bfc932a18f6e2b8d0e5dff78bd" resname="models.details.range.to">
+        <source>to</source>
+        <target>crwdns244180:0crwdne244180:0</target>
+        <note>key: models.details.range.to</note>
+      </trans-unit>
+      <trans-unit id="9caf0db029918665ed44e7a87b6fb03049d87224" resname="models.edit.editorial_list.add_items">
+        <source>Add items</source>
+        <target>crwdns244182:0crwdne244182:0</target>
+        <note>key: models.edit.editorial_list.add_items</note>
+      </trans-unit>
+      <trans-unit id="5f1dd7f17016d621a513cfef1ec6f1389e712935" resname="models.list.active">
+        <source>Active</source>
+        <target>crwdns244184:0crwdne244184:0</target>
+        <note>key: models.list.active</note>
+      </trans-unit>
+      <trans-unit id="30062db834ec20a1a983ca07590c14b9ab218ee4" resname="models.list.id">
+        <source>Identifier</source>
+        <target>crwdns244186:0crwdne244186:0</target>
+        <note>key: models.list.id</note>
+      </trans-unit>
+      <trans-unit id="cf9cc7c2b98eaea4b4557172cc49b27f0061994b" resname="models.list.in_scenario">
+        <source>In scenario</source>
+        <target>crwdns244188:0crwdne244188:0</target>
+        <note>key: models.list.in_scenario</note>
+      </trans-unit>
+      <trans-unit id="7a56245c808513330079dcb4173e474a8c00732f" resname="models.list.last_built">
+        <source>Last built</source>
+        <target>crwdns244190:0crwdne244190:0</target>
+        <note>key: models.list.last_built</note>
+      </trans-unit>
+      <trans-unit id="f5b3e6591ee4be3aafb6c35234b3592b0b67d86b" resname="models.list.name">
+        <source>Model name</source>
+        <target>crwdns244192:0crwdne244192:0</target>
+        <note>key: models.list.name</note>
+      </trans-unit>
+      <trans-unit id="a2bdca82c4b1c585ce53cec4a1e2f4972b2f65df" resname="models.list.no_of_items">
+        <source>No. of items</source>
+        <target>crwdns244194:0crwdne244194:0</target>
+        <note>key: models.list.no_of_items</note>
+      </trans-unit>
+      <trans-unit id="a87c53879b4215c5b27b7804102a0b73ed3b4c66" resname="models.list.not_active">
+        <source>Not Active</source>
+        <target>crwdns244198:0crwdne244198:0</target>
+        <note>key: models.list.not_active</note>
+      </trans-unit>
+      <trans-unit id="6e60a2dd3e6ee30ddad869c30cf82f024e5efe57" resname="models.list.status">
+        <source>Status</source>
+        <target>crwdns248429:0crwdne248429:0</target>
+        <note>key: models.list.status</note>
+      </trans-unit>
+      <trans-unit id="e1e1f20c00f1a8e35feceb56a5721bae3a46b175" resname="models.list.submodel">
+        <source>Submodel</source>
+        <target>crwdns244202:0crwdne244202:0</target>
+        <note>key: models.list.submodel</note>
+      </trans-unit>
+      <trans-unit id="2dc4977b5b96d7ac5fd85b7f908f7a0e729b6508" resname="models.name.CF_I2Ix">
+        <source>Also clicked</source>
+        <target>crwdns244204:0crwdne244204:0</target>
+        <note>key: models.name.CF_I2Ix</note>
+      </trans-unit>
+      <trans-unit id="d5b7e4725f692a5b1707256a6d4ee5de5b30f228" resname="models.name.POPULARITY_LONGx">
+        <source>Top consumed</source>
+        <target>crwdns244206:0crwdne244206:0</target>
+        <note>key: models.name.POPULARITY_LONGx</note>
+      </trans-unit>
+      <trans-unit id="32c969d7ac5f051e60548f20d92cbb831dd79244" resname="models.name.POPULARITY_SHORTx">
+        <source>Top consumed</source>
+        <target>crwdns244208:0crwdne244208:0</target>
+        <note>key: models.name.POPULARITY_SHORTx</note>
+      </trans-unit>
+      <trans-unit id="2931a2e73c0520a1ccc5ef0c2bcd228e40928f02" resname="models.name.RANDOM_DOMAINx">
+        <source>Random model</source>
+        <target>crwdns244210:0crwdne244210:0</target>
+        <note>key: models.name.RANDOM_DOMAINx</note>
+      </trans-unit>
+      <trans-unit id="d212b1a21ec3541332417bf8e911ce947f7a6950" resname="models.name.STEREOTYPES_CFx">
+        <source>Stereotype (consume)</source>
+        <target>crwdns244212:0crwdne244212:0</target>
+        <note>key: models.name.STEREOTYPES_CFx</note>
+      </trans-unit>
+      <trans-unit id="26b379c9556a57c188327aa7b7a7ff7061992c03" resname="models.name._todelete_also_purchased">
+        <source>Also purchased</source>
+        <target>crwdns244214:0crwdne244214:0</target>
+        <note>key: models.name._todelete_also_purchased</note>
+      </trans-unit>
+      <trans-unit id="7abdd2ea367fd8f663df8856bd082a226a4069b9" resname="models.name._todelete_top_selling">
+        <source>Top purchased</source>
+        <target>crwdns244216:0crwdne244216:0</target>
+        <note>key: models.name._todelete_top_selling</note>
+      </trans-unit>
+      <trans-unit id="e10396d1c58a4dc3e7b3297806af3f91706711e1" resname="models.name._todelete_ultimately_bought">
+        <source>Ultimately bought</source>
+        <target>crwdns244218:0crwdne244218:0</target>
+        <note>key: models.name._todelete_ultimately_bought</note>
+      </trans-unit>
+      <trans-unit id="040686214b99397f9353dc7887164bbd42ca5ed5" resname="models.name.adv_also_clicked">
+        <source>Adv also clicked</source>
+        <target>crwdns244220:0crwdne244220:0</target>
+        <note>key: models.name.adv_also_clicked</note>
+      </trans-unit>
+      <trans-unit id="73dd0858cd3840353592e36130433b1c5deb5ba1" resname="models.name.adv_also_clicked_2">
+        <source>Adv also clicked 2</source>
+        <target>crwdns244222:0crwdne244222:0</target>
+        <note>key: models.name.adv_also_clicked_2</note>
+      </trans-unit>
+      <trans-unit id="3727e06e3f3e90443a03b504a8201812bdadcc23" resname="models.name.adv_also_clicked_3">
+        <source>Adv also clicked 3</source>
+        <target>crwdns244224:0crwdne244224:0</target>
+        <note>key: models.name.adv_also_clicked_3</note>
+      </trans-unit>
+      <trans-unit id="31b66345185e11e46f4446f3ff9318ab54ea39a0" resname="models.name.adv_also_purchased">
+        <source>Adv also purchased</source>
+        <target>crwdns244226:0crwdne244226:0</target>
+        <note>key: models.name.adv_also_purchased</note>
+      </trans-unit>
+      <trans-unit id="29e8649453de1c45e88f77e37bf79bf90d1d48d0" resname="models.name.adv_also_purchased_2">
+        <source>Adv also purchased 2</source>
+        <target>crwdns244228:0crwdne244228:0</target>
+        <note>key: models.name.adv_also_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="6302abc29d005f00d791b9c61b5e6deca4c09af2" resname="models.name.adv_also_purchased_3">
+        <source>Adv also purchased 3</source>
+        <target>crwdns244230:0crwdne244230:0</target>
+        <note>key: models.name.adv_also_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="9c37aed72a3846c788ae540a1d7d29859c9840b9" resname="models.name.adv_ultimately_basket">
+        <source>Adv ultimately basket</source>
+        <target>crwdns244232:0crwdne244232:0</target>
+        <note>key: models.name.adv_ultimately_basket</note>
+      </trans-unit>
+      <trans-unit id="67705bcdbf0e5b0c1814a3bb056646369c06733a" resname="models.name.also_clicked">
+        <source>Also clicked</source>
+        <target>crwdns244234:0crwdne244234:0</target>
+        <note>key: models.name.also_clicked</note>
+      </trans-unit>
+      <trans-unit id="1647a6a62229b69f14a8f014c9d7c0ce8eb947b8" resname="models.name.also_clicked2">
+        <source>Also clicked</source>
+        <target>crwdns244236:0crwdne244236:0</target>
+        <note>key: models.name.also_clicked2</note>
+      </trans-unit>
+      <trans-unit id="898cb6f051d8ebffdec93765f2ea433af752c602" resname="models.name.also_clicked3">
+        <source>Also clicked</source>
+        <target>crwdns244238:0crwdne244238:0</target>
+        <note>key: models.name.also_clicked3</note>
+      </trans-unit>
+      <trans-unit id="ecab27d71d4c8595ad0fa03159c26fcff12dc06f" resname="models.name.also_clicked_article">
+        <source>Also clicked article</source>
+        <target>crwdns244240:0crwdne244240:0</target>
+        <note>key: models.name.also_clicked_article</note>
+      </trans-unit>
+      <trans-unit id="f0ea480deedbe05f2957ff672f6fe664de1e7603" resname="models.name.also_clicked_article_to_product">
+        <source>Also clicked article to product</source>
+        <target>crwdns244242:0crwdne244242:0</target>
+        <note>key: models.name.also_clicked_article_to_product</note>
+      </trans-unit>
+      <trans-unit id="df22964498e0adc14b024f68dda2ed86a96b8d7d" resname="models.name.also_clicked_image">
+        <source>Also clicked image</source>
+        <target>crwdns244244:0crwdne244244:0</target>
+        <note>key: models.name.also_clicked_image</note>
+      </trans-unit>
+      <trans-unit id="86c8ae5fa30a06d61aad19e0741e69b41bbc310f" resname="models.name.also_clicked_product">
+        <source>Also clicked product</source>
+        <target>crwdns244246:0crwdne244246:0</target>
+        <note>key: models.name.also_clicked_product</note>
+      </trans-unit>
+      <trans-unit id="2d61e79818ad8ad575dca9667fb61d6989981b9a" resname="models.name.also_consumed">
+        <source>Also consumed</source>
+        <target>crwdns244248:0crwdne244248:0</target>
+        <note>key: models.name.also_consumed</note>
+      </trans-unit>
+      <trans-unit id="6fec127ad14b1e32b7d5146aa3e78a987fa6d7ea" resname="models.name.also_consumed2">
+        <source>Also consumed</source>
+        <target>crwdns244250:0crwdne244250:0</target>
+        <note>key: models.name.also_consumed2</note>
+      </trans-unit>
+      <trans-unit id="cc7b242e45d9cb83c595bd3ecfe06deb60d4755d" resname="models.name.also_consumed_article">
+        <source>Also consumed article</source>
+        <target>crwdns244252:0crwdne244252:0</target>
+        <note>key: models.name.also_consumed_article</note>
+      </trans-unit>
+      <trans-unit id="e1ae1e8a8d70dc38c75b083671637b794b2c1f52" resname="models.name.also_consumed_image">
+        <source>Also consumed image</source>
+        <target>crwdns244254:0crwdne244254:0</target>
+        <note>key: models.name.also_consumed_image</note>
+      </trans-unit>
+      <trans-unit id="1e5591fed03283de5d235678a3072a4af9b7a2b9" resname="models.name.also_followed">
+        <source>Also consumed</source>
+        <target>crwdns244256:0crwdne244256:0</target>
+        <note>key: models.name.also_followed</note>
+      </trans-unit>
+      <trans-unit id="e1e709020a03dd9c1641508aa0dec6308b9b77d4" resname="models.name.also_purchased">
+        <source>Also purchased</source>
+        <target>crwdns244258:0crwdne244258:0</target>
+        <note>key: models.name.also_purchased</note>
+      </trans-unit>
+      <trans-unit id="f038999d7b6b695279d5faff4ba0ab39f7e60370" resname="models.name.also_purchased2">
+        <source>Also purchased</source>
+        <target>crwdns244260:0crwdne244260:0</target>
+        <note>key: models.name.also_purchased2</note>
+      </trans-unit>
+      <trans-unit id="bcffe6622d36e045fb1bc6e3d9c653f788850a82" resname="models.name.also_purchased3">
+        <source>Also purchased</source>
+        <target>crwdns244262:0crwdne244262:0</target>
+        <note>key: models.name.also_purchased3</note>
+      </trans-unit>
+      <trans-unit id="e26d8d19aa04da70d25fdacac0211ebfb5c2d5bb" resname="models.name.also_purchased4">
+        <source>Also purchased</source>
+        <target>crwdns244264:0crwdne244264:0</target>
+        <note>key: models.name.also_purchased4</note>
+      </trans-unit>
+      <trans-unit id="fc926780c4bcd1278ca637b1177b0648bd394d6a" resname="models.name.also_purchased_2">
+        <source>Also purchased</source>
+        <target>crwdns244266:0crwdne244266:0</target>
+        <note>key: models.name.also_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="e888a1e36c4dd47952bced7713908bebbbc7b470" resname="models.name.also_purchased_3">
+        <source>Also purchased</source>
+        <target>crwdns244268:0crwdne244268:0</target>
+        <note>key: models.name.also_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="e3bf26d8ea0f7c25bd7b3b3172c4ca9e3b5129a4" resname="models.name.also_purchased_article_to_product ">
+        <source>Also clicked</source>
+        <target>crwdns244270:0crwdne244270:0</target>
+        <note>key: models.name.also_purchased_article_to_product </note>
+      </trans-unit>
+      <trans-unit id="4c92ad1a8f2e1547d5c1c29a3132844481e14945" resname="models.name.also_purchased_product">
+        <source>Also purchased</source>
+        <target>crwdns244272:0crwdne244272:0</target>
+        <note>key: models.name.also_purchased_product</note>
+      </trans-unit>
+      <trans-unit id="8f33cfd55093d967aa663ac817ebb68d53e07207" resname="models.name.also_purchased_short">
+        <source>Also purchased</source>
+        <target>crwdns244274:0crwdne244274:0</target>
+        <note>key: models.name.also_purchased_short</note>
+      </trans-unit>
+      <trans-unit id="bad99fc8dee254f0a70510416b6d9a88103555ed" resname="models.name.also_similar_rated">
+        <source>Similar rated</source>
+        <target>crwdns244276:0crwdne244276:0</target>
+        <note>key: models.name.also_similar_rated</note>
+      </trans-unit>
+      <trans-unit id="fc983a937c7d27bc8067d691562e001373d9e73d" resname="models.name.alternative">
+        <source>Editorial list</source>
+        <target>crwdns244278:0crwdne244278:0</target>
+        <note>key: models.name.alternative</note>
+      </trans-unit>
+      <trans-unit id="db2f1d29c5c029e34e84c14c46c46a9005277a0d" resname="models.name.basket_history">
+        <source>Basket history</source>
+        <target>crwdns247146:0crwdne247146:0</target>
+        <note>key: models.name.basket_history</note>
+      </trans-unit>
+      <trans-unit id="a88057ab7a33faec55e54df9ca81d4fd2c871c1c" resname="models.name.bundle0">
+        <source>Editorial list</source>
+        <target>crwdns244280:0crwdne244280:0</target>
+        <note>key: models.name.bundle0</note>
+      </trans-unit>
+      <trans-unit id="f0538509024e8a72c16ad31707f70a5bf6a8dbf1" resname="models.name.bundle2">
+        <source>Editorial list</source>
+        <target>crwdns244282:0crwdne244282:0</target>
+        <note>key: models.name.bundle2</note>
+      </trans-unit>
+      <trans-unit id="b09031e8e483feab390db81f17b513a3fa08c886" resname="models.name.bundle3">
+        <source>Editorial list</source>
+        <target>crwdns244284:0crwdne244284:0</target>
+        <note>key: models.name.bundle3</note>
+      </trans-unit>
+      <trans-unit id="5e378bf03337fc45ee01c9d67b453ad383787b76" resname="models.name.cb">
+        <source>Cb</source>
+        <target>crwdns244286:0crwdne244286:0</target>
+        <note>key: models.name.cb</note>
+      </trans-unit>
+      <trans-unit id="52c19c28708d9ee7901a3b1e5d0bd1174871e46f" resname="models.name.cf_click">
+        <source>Cf click</source>
+        <target>crwdns244288:0crwdne244288:0</target>
+        <note>key: models.name.cf_click</note>
+      </trans-unit>
+      <trans-unit id="3bd57f4414864648dedce17f73a223f90b4390a1" resname="models.name.cf_fbt">
+        <source>Purchased together</source>
+        <target>crwdns244290:0crwdne244290:0</target>
+        <note>key: models.name.cf_fbt</note>
+      </trans-unit>
+      <trans-unit id="face991d248df4408e4d534dfa6251329b27c950" resname="models.name.cf_fbt2">
+        <source>Purchased together</source>
+        <target>crwdns244292:0crwdne244292:0</target>
+        <note>key: models.name.cf_fbt2</note>
+      </trans-unit>
+      <trans-unit id="b14e35fb57b3a8d91ae500360df838af5c2042fa" resname="models.name.cf_purchased">
+        <source>Cf purchased</source>
+        <target>crwdns244294:0crwdne244294:0</target>
+        <note>key: models.name.cf_purchased</note>
+      </trans-unit>
+      <trans-unit id="ebfb6bc4645045b1232223a56b29cf3877fcd45e" resname="models.name.cf_purchased_after_clicked">
+        <source>Ultimately bought</source>
+        <target>crwdns244296:0crwdne244296:0</target>
+        <note>key: models.name.cf_purchased_after_clicked</note>
+      </trans-unit>
+      <trans-unit id="ca0606336a0fe7071bcb37cacff4dbfb28876da7" resname="models.name.click2buy">
+        <source>Ultimately bought</source>
+        <target>crwdns244298:0crwdne244298:0</target>
+        <note>key: models.name.click2buy</note>
+      </trans-unit>
+      <trans-unit id="0e60da74f0cb3876e4c417d7bdc9ea68e9c9988b" resname="models.name.click2click">
+        <source>Also clicked</source>
+        <target>crwdns244300:0crwdne244300:0</target>
+        <note>key: models.name.click2click</note>
+      </trans-unit>
+      <trans-unit id="38d791c35a83dd84afbfe8ad5f1f83255f1f5c3e" resname="models.name.click_after_consumed">
+        <source>Ultimately consumed</source>
+        <target>crwdns244302:0crwdne244302:0</target>
+        <note>key: models.name.click_after_consumed</note>
+      </trans-unit>
+      <trans-unit id="d70748afe2a303344d4c649b2019d1ac82f44726" resname="models.name.click_to_purchased">
+        <source>Click to purchased</source>
+        <target>crwdns244304:0crwdne244304:0</target>
+        <note>key: models.name.click_to_purchased</note>
+      </trans-unit>
+      <trans-unit id="b1ebaa1f1acffd31660e3201dd4c677dd357b558" resname="models.name.consume2consume">
+        <source>Also consumed</source>
+        <target>crwdns244306:0crwdne244306:0</target>
+        <note>key: models.name.consume2consume</note>
+      </trans-unit>
+      <trans-unit id="7e0757a4add581d5ecc063562df673f338521937" resname="models.name.custom_model">
+        <source>Similar rated</source>
+        <target>crwdns244308:0crwdne244308:0</target>
+        <note>key: models.name.custom_model</note>
+      </trans-unit>
+      <trans-unit id="c8e8352e08197a1ff06b50554721345dcef9cb33" resname="models.name.e1">
+        <source>Editorial list</source>
+        <target>crwdns244310:0crwdne244310:0</target>
+        <note>key: models.name.e1</note>
+      </trans-unit>
+      <trans-unit id="a7d49c8fc1577a17b0914b72985fcea899fe3a22" resname="models.name.e2">
+        <source>Editorial list</source>
+        <target>crwdns244312:0crwdne244312:0</target>
+        <note>key: models.name.e2</note>
+      </trans-unit>
+      <trans-unit id="d970e7ad712c7bebcfdc2f0fca059d83db41d81c" resname="models.name.editor_1">
+        <source>Editorial list</source>
+        <target>crwdns244314:0crwdne244314:0</target>
+        <note>key: models.name.editor_1</note>
+      </trans-unit>
+      <trans-unit id="eecae8ca5b0e0d8c3899b71ef46cfd82cf03a4b7" resname="models.name.editor_2">
+        <source>Editorial list</source>
+        <target>crwdns244316:0crwdne244316:0</target>
+        <note>key: models.name.editor_2</note>
+      </trans-unit>
+      <trans-unit id="01ee003af705ab57cf224511065971151c5060bc" resname="models.name.editor_blacklist">
+        <source>Blacklist</source>
+        <target>crwdns244318:0crwdne244318:0</target>
+        <note>key: models.name.editor_blacklist</note>
+      </trans-unit>
+      <trans-unit id="05516103632d862df8a3735e6f2053f6789d85df" resname="models.name.editorial_list">
+        <source>Editorial list</source>
+        <target>crwdns244320:0crwdne244320:0</target>
+        <note>key: models.name.editorial_list</note>
+      </trans-unit>
+      <trans-unit id="355730d344dbf109fd49bfff932ddcac342985f9" resname="models.name.editorial_list2">
+        <source>Editorial list</source>
+        <target>crwdns244322:0crwdne244322:0</target>
+        <note>key: models.name.editorial_list2</note>
+      </trans-unit>
+      <trans-unit id="0798aa552e0071bf5cd928cbbf98d521e8329109" resname="models.name.editorial_list3">
+        <source>Editorial list</source>
+        <target>crwdns244324:0crwdne244324:0</target>
+        <note>key: models.name.editorial_list3</note>
+      </trans-unit>
+      <trans-unit id="88955ad8d1bb9b172cf6f9e73c944f1d9e092de3" resname="models.name.editorial_list4">
+        <source>Editorial list</source>
+        <target>crwdns244326:0crwdne244326:0</target>
+        <note>key: models.name.editorial_list4</note>
+      </trans-unit>
+      <trans-unit id="7d3e689ce4b19334be42a4e1e93be069de627599" resname="models.name.editorial_list5">
+        <source>Editorial list</source>
+        <target>crwdns244328:0crwdne244328:0</target>
+        <note>key: models.name.editorial_list5</note>
+      </trans-unit>
+      <trans-unit id="40f8d6b30a31791efc04b717bec2de2e0e6ba018" resname="models.name.editorial_list6">
+        <source>Editorial list</source>
+        <target>crwdns244330:0crwdne244330:0</target>
+        <note>key: models.name.editorial_list6</note>
+      </trans-unit>
+      <trans-unit id="d4973c5684d3d0eab7e35a6f5e058c1ee4f493cb" resname="models.name.editorial_list7">
+        <source>Editorial list</source>
+        <target>crwdns244332:0crwdne244332:0</target>
+        <note>key: models.name.editorial_list7</note>
+      </trans-unit>
+      <trans-unit id="2447c1ceefb19ea43079cb5db8ce9de1eed097f6" resname="models.name.editorial_list_2">
+        <source>Editorial list 2</source>
+        <target>crwdns247148:0crwdne247148:0</target>
+        <note>key: models.name.editorial_list_2</note>
+      </trans-unit>
+      <trans-unit id="35279f9c25bbf50c3d453d2e808162d4c68b5e5b" resname="models.name.editorial_list_3">
+        <source>Editorial list 3</source>
+        <target>crwdns247150:0crwdne247150:0</target>
+        <note>key: models.name.editorial_list_3</note>
+      </trans-unit>
+      <trans-unit id="9563a8394af7d9932ec7e0458981ced62eb430b5" resname="models.name.editorial_list_article">
+        <source>Editorial list</source>
+        <target>crwdns244334:0crwdne244334:0</target>
+        <note>key: models.name.editorial_list_article</note>
+      </trans-unit>
+      <trans-unit id="528f4b76fce34308b6dcfee89af3d9461a1b7ec7" resname="models.name.editorial_list_b">
+        <source>Editorial list</source>
+        <target>crwdns244336:0crwdne244336:0</target>
+        <note>key: models.name.editorial_list_b</note>
+      </trans-unit>
+      <trans-unit id="87ec75ff0b023e5cce4d126490ba28355ea1b4f5" resname="models.name.editorial_list_bestselger">
+        <source>Editorial list</source>
+        <target>crwdns244338:0crwdne244338:0</target>
+        <note>key: models.name.editorial_list_bestselger</note>
+      </trans-unit>
+      <trans-unit id="4e6ee2104f34efa5794845758f36e8b947b4fa93" resname="models.name.editorial_list_blog">
+        <source>Editorial list</source>
+        <target>crwdns244340:0crwdne244340:0</target>
+        <note>key: models.name.editorial_list_blog</note>
+      </trans-unit>
+      <trans-unit id="4bb5683d80495edf80a1ccbe20138ca2094c0aaf" resname="models.name.editorial_list_crossselling">
+        <source>Editorial list</source>
+        <target>crwdns244342:0crwdne244342:0</target>
+        <note>key: models.name.editorial_list_crossselling</note>
+      </trans-unit>
+      <trans-unit id="232f7cda5e2a78e08c01ad8079d365a6f4eb2d3c" resname="models.name.editorial_list_front">
+        <source>Editorial list</source>
+        <target>crwdns244344:0crwdne244344:0</target>
+        <note>key: models.name.editorial_list_front</note>
+      </trans-unit>
+      <trans-unit id="34fd3c9137f6cdb5d82ca195323a0c68460fed78" resname="models.name.editorial_list_kommende">
+        <source>Editorial list</source>
+        <target>crwdns244346:0crwdne244346:0</target>
+        <note>key: models.name.editorial_list_kommende</note>
+      </trans-unit>
+      <trans-unit id="17d8607700d84ed8afbc7cebf9942613e9d63c03" resname="models.name.editorial_list_landingpage">
+        <source>Editorial list</source>
+        <target>crwdns244348:0crwdne244348:0</target>
+        <note>key: models.name.editorial_list_landingpage</note>
+      </trans-unit>
+      <trans-unit id="0ce04721752f04a92916a8cfb31288083ac9da1f" resname="models.name.editorial_list_nyheter">
+        <source>Editorial list</source>
+        <target>crwdns244350:0crwdne244350:0</target>
+        <note>key: models.name.editorial_list_nyheter</note>
+      </trans-unit>
+      <trans-unit id="c35468bdd6c6414fe07aa414bbfa7e21e12ece1e" resname="models.name.editorial_list_personalized">
+        <source>Editorial list</source>
+        <target>crwdns244352:0crwdne244352:0</target>
+        <note>key: models.name.editorial_list_personalized</note>
+      </trans-unit>
+      <trans-unit id="d94504cf8a21da65ebaf64130c2456df91e41b12" resname="models.name.editorial_list_related">
+        <source>Editorial list</source>
+        <target>crwdns244354:0crwdne244354:0</target>
+        <note>key: models.name.editorial_list_related</note>
+      </trans-unit>
+      <trans-unit id="d62c170666bb9ed8b890e86373af025fbd5e79ae" resname="models.name.editorial_list_tilbudstorget">
+        <source>Editorial list</source>
+        <target>crwdns244356:0crwdne244356:0</target>
+        <note>key: models.name.editorial_list_tilbudstorget</note>
+      </trans-unit>
+      <trans-unit id="e36ee8917fbef0f5dd7c00c693e1e37874b7acd9" resname="models.name.editorial_list_toppti">
+        <source>Editorial list</source>
+        <target>crwdns244358:0crwdne244358:0</target>
+        <note>key: models.name.editorial_list_toppti</note>
+      </trans-unit>
+      <trans-unit id="da11660acd0f38a0e698c0bf0b9de8b62f72941c" resname="models.name.editorial_list_upselling">
+        <source>Editorial list</source>
+        <target>crwdns244360:0crwdne244360:0</target>
+        <note>key: models.name.editorial_list_upselling</note>
+      </trans-unit>
+      <trans-unit id="f9a755b79e7da8ce0627461023f5f9d20935a9e1" resname="models.name.el_articles">
+        <source>Editorial list</source>
+        <target>crwdns244362:0crwdne244362:0</target>
+        <note>key: models.name.el_articles</note>
+      </trans-unit>
+      <trans-unit id="d443ae9d0f54690a4cf214487b76b21bdb066717" resname="models.name.el_blogposts">
+        <source>Editorial list</source>
+        <target>crwdns244364:0crwdne244364:0</target>
+        <note>key: models.name.el_blogposts</note>
+      </trans-unit>
+      <trans-unit id="776230a4397ee242d95de7452d3a10bdd799b7c6" resname="models.name.el_personalized">
+        <source>Editorial list</source>
+        <target>crwdns244366:0crwdne244366:0</target>
+        <note>key: models.name.el_personalized</note>
+      </trans-unit>
+      <trans-unit id="e69e68a8ab7851d9601e308326b1dd87eae8102f" resname="models.name.el_places">
+        <source>Editorial list</source>
+        <target>crwdns244368:0crwdne244368:0</target>
+        <note>key: models.name.el_places</note>
+      </trans-unit>
+      <trans-unit id="5a0146b5dbda8d7d513a54be71eb049f5f5af3f7" resname="models.name.el_products">
+        <source>Editorial list</source>
+        <target>crwdns244370:0crwdne244370:0</target>
+        <note>key: models.name.el_products</note>
+      </trans-unit>
+      <trans-unit id="f4830b6344a61cea0436d7abd26a0c83eafa89aa" resname="models.name.girlmerry">
+        <source>Also clicked</source>
+        <target>crwdns244372:0crwdne244372:0</target>
+        <note>key: models.name.girlmerry</note>
+      </trans-unit>
+      <trans-unit id="8ecb3a70fce676bb0d8c6c71efe23b27c59a7b64" resname="models.name.history">
+        <source>History</source>
+        <target>crwdns244374:0crwdne244374:0</target>
+        <note>key: models.name.history</note>
+      </trans-unit>
+      <trans-unit id="9db716d5ab42e147d549c39b559dda7c96ba0278" resname="models.name.history_blacklist">
+        <source>History blacklist</source>
+        <target>crwdns244376:0crwdne244376:0</target>
+        <note>key: models.name.history_blacklist</note>
+      </trans-unit>
+      <trans-unit id="db8d676b0d887c09d44444970a35b2d929213971" resname="models.name.history_buy">
+        <source>History buy</source>
+        <target>crwdns244378:0crwdne244378:0</target>
+        <note>key: models.name.history_buy</note>
+      </trans-unit>
+      <trans-unit id="1b7c18e05bf82b6a9e524f5c8a9745ce42ea564d" resname="models.name.history_clicked">
+        <source>History clicked</source>
+        <target>crwdns244380:0crwdne244380:0</target>
+        <note>key: models.name.history_clicked</note>
+      </trans-unit>
+      <trans-unit id="db3c3e131f26d77c6ebcdefefd942f07e2bf6d2a" resname="models.name.history_clicked1">
+        <source>History clicked1</source>
+        <target>crwdns244382:0crwdne244382:0</target>
+        <note>key: models.name.history_clicked1</note>
+      </trans-unit>
+      <trans-unit id="40d1e7e4196ae835114872396d8ff7f5a282c234" resname="models.name.history_clicked_in_period">
+        <source>Click history</source>
+        <target>crwdns244384:0crwdne244384:0</target>
+        <note>key: models.name.history_clicked_in_period</note>
+      </trans-unit>
+      <trans-unit id="cabbb7d499c1c29c166896d969df86d69d8cc2b3" resname="models.name.history_consumed">
+        <source>History consumed</source>
+        <target>crwdns244386:0crwdne244386:0</target>
+        <note>key: models.name.history_consumed</note>
+      </trans-unit>
+      <trans-unit id="cc6b6b94ab49ab066e2a2550be535c8b5436d390" resname="models.name.history_purchased">
+        <source>History purchased</source>
+        <target>crwdns244388:0crwdne244388:0</target>
+        <note>key: models.name.history_purchased</note>
+      </trans-unit>
+      <trans-unit id="481520556cd466e7685e37bf8e3a60bf8ec01ac1" resname="models.name.history_purchased_in_period">
+        <source>Purchase history</source>
+        <target>crwdns244390:0crwdne244390:0</target>
+        <note>key: models.name.history_purchased_in_period</note>
+      </trans-unit>
+      <trans-unit id="92024daa0e78d92193fedb7d766ea33bdcfa3c07" resname="models.name.last_clicked">
+        <source>Last clicked</source>
+        <target>crwdns244392:0crwdne244392:0</target>
+        <note>key: models.name.last_clicked</note>
+      </trans-unit>
+      <trans-unit id="85a14915584e5d313c8ef4d83e5e197d6c712373" resname="models.name.last_purchased">
+        <source>Last purchased</source>
+        <target>crwdns244394:0crwdne244394:0</target>
+        <note>key: models.name.last_purchased</note>
+      </trans-unit>
+      <trans-unit id="5e3b410efe703bcbc8fcbbb7863a301b6d3fe758" resname="models.name.popular">
+        <source>Top purchased</source>
+        <target>crwdns244396:0crwdne244396:0</target>
+        <note>key: models.name.popular</note>
+      </trans-unit>
+      <trans-unit id="f3eea7ff77a2197d4f5bddaa0b657f18222da5c4" resname="models.name.popular_click">
+        <source>Top clicked</source>
+        <target>crwdns244398:0crwdne244398:0</target>
+        <note>key: models.name.popular_click</note>
+      </trans-unit>
+      <trans-unit id="cc14a8cabc0ce399c9c24aa64ca0dc9551e9390e" resname="models.name.popular_predicted">
+        <source>Top purchased</source>
+        <target>crwdns244400:0crwdne244400:0</target>
+        <note>key: models.name.popular_predicted</note>
+      </trans-unit>
+      <trans-unit id="88aa3972bbe8e12bf051bb7447e103679b21f9fb" resname="models.name.predictive_model">
+        <source>Predictive model</source>
+        <target>crwdns251241:0crwdne251241:0</target>
+        <note>key: models.name.predictive_model</note>
+      </trans-unit>
+      <trans-unit id="1dbfc72129e2f8e0eae5de663d511ccb9d510579" resname="models.name.profile">
+        <source>Profile</source>
+        <target>crwdns244402:0crwdne244402:0</target>
+        <note>key: models.name.profile</note>
+      </trans-unit>
+      <trans-unit id="6e490aece2e365cc0c3c830ef2d5e4bf1080aca5" resname="models.name.profile_buy">
+        <source>Profile buy</source>
+        <target>crwdns244404:0crwdne244404:0</target>
+        <note>key: models.name.profile_buy</note>
+      </trans-unit>
+      <trans-unit id="964f1852ab64e21872b8e0c3ac71012f27f8304e" resname="models.name.profile_click">
+        <source>Profile click</source>
+        <target>crwdns244406:0crwdne244406:0</target>
+        <note>key: models.name.profile_click</note>
+      </trans-unit>
+      <trans-unit id="1521abaefbec5c23c3eaadfc140461e418ed4d34" resname="models.name.random">
+        <source>Random model</source>
+        <target>crwdns244408:0crwdne244408:0</target>
+        <note>key: models.name.random</note>
+      </trans-unit>
+      <trans-unit id="482ede2e570cad30275805d2a22d163f32ade34b" resname="models.name.random_emdsartikel">
+        <source>Editorial list</source>
+        <target>crwdns244410:0crwdne244410:0</target>
+        <note>key: models.name.random_emdsartikel</note>
+      </trans-unit>
+      <trans-unit id="7c07f95cf9b670710824673fc0045f4ff178fa1c" resname="models.name.random_short">
+        <source>Random model</source>
+        <target>crwdns244412:0crwdne244412:0</target>
+        <note>key: models.name.random_short</note>
+      </trans-unit>
+      <trans-unit id="58dc5c11fdd3f3bb21f24fcca9ddc471cf80a39d" resname="models.name.rated">
+        <source>Similar rated</source>
+        <target>crwdns244414:0crwdne244414:0</target>
+        <note>key: models.name.rated</note>
+      </trans-unit>
+      <trans-unit id="f2fc5d02a36fa6b8522bcc53c02d36ac03969f84" resname="models.name.recently_bought">
+        <source>Recently bought</source>
+        <target>crwdns244416:0crwdne244416:0</target>
+        <note>key: models.name.recently_bought</note>
+      </trans-unit>
+      <trans-unit id="7d5f35bfd91f8ec060e0bdb74d306db34f6d0f23" resname="models.name.recently_clicked">
+        <source>Recently clicked</source>
+        <target>crwdns244418:0crwdne244418:0</target>
+        <note>key: models.name.recently_clicked</note>
+      </trans-unit>
+      <trans-unit id="a6aacdc755fdf8008ea999d209aa0adfe0e3e7a8" resname="models.name.recurring_purchase">
+        <source>Recurring purchase pattern</source>
+        <target>crwdns251243:0crwdne251243:0</target>
+        <note>key: models.name.recurring_purchase</note>
+      </trans-unit>
+      <trans-unit id="328a405e8596928c2244ae3826e07f0669717406" resname="models.name.s1">
+        <source>Editorial list</source>
+        <target>crwdns244420:0crwdne244420:0</target>
+        <note>key: models.name.s1</note>
+      </trans-unit>
+      <trans-unit id="098fd2391fc7af19278a10a9cccc14e97e1701a6" resname="models.name.s2">
+        <source>Editorial list</source>
+        <target>crwdns244422:0crwdne244422:0</target>
+        <note>key: models.name.s2</note>
+      </trans-unit>
+      <trans-unit id="8d23043625d4f2202129f692ad5673ed42700f6e" resname="models.name.similar_rated">
+        <source>Similar rated</source>
+        <target>crwdns244424:0crwdne244424:0</target>
+        <note>key: models.name.similar_rated</note>
+      </trans-unit>
+      <trans-unit id="3db1e2cef0cb655ff3d67d079fbe312fb7d15a7b" resname="models.name.stereotypes_cf">
+        <source>Stereotype (purchase)</source>
+        <target>crwdns244426:0crwdne244426:0</target>
+        <note>key: models.name.stereotypes_cf</note>
+      </trans-unit>
+      <trans-unit id="3d14467395132bfd972aaa45db0559a217194d02" resname="models.name.suggestion">
+        <source>Suggestion</source>
+        <target>crwdns244428:0crwdne244428:0</target>
+        <note>key: models.name.suggestion</note>
+      </trans-unit>
+      <trans-unit id="04328047c393801ac11ecc16e676dd62ef969fe4" resname="models.name.top_buy_weighted">
+        <source> Weighted (based on buy events)</source>
+        <target>crwdns251245:0crwdne251245:0</target>
+        <note>key: models.name.top_buy_weighted</note>
+      </trans-unit>
+      <trans-unit id="2b13504ff2670583843a764db725a251bde09446" resname="models.name.top_clicked">
+        <source>Top clicked</source>
+        <target>crwdns244430:0crwdne244430:0</target>
+        <note>key: models.name.top_clicked</note>
+      </trans-unit>
+      <trans-unit id="91c3d5c38e06c565b2291e6b5f20ec2ef9acafa2" resname="models.name.top_clicked2">
+        <source>Top clicked</source>
+        <target>crwdns244432:0crwdne244432:0</target>
+        <note>key: models.name.top_clicked2</note>
+      </trans-unit>
+      <trans-unit id="4a79efe4a1a3da82bf9aa38f58c8553b3a961a0e" resname="models.name.top_clicked_2">
+        <source>Top clicked</source>
+        <target>crwdns244434:0crwdne244434:0</target>
+        <note>key: models.name.top_clicked_2</note>
+      </trans-unit>
+      <trans-unit id="9e3bee27c11b938e90b3bc99097626a856e5cfc5" resname="models.name.top_clicked_article">
+        <source>Top clicked</source>
+        <target>crwdns244436:0crwdne244436:0</target>
+        <note>key: models.name.top_clicked_article</note>
+      </trans-unit>
+      <trans-unit id="960de8a439bb571f64491287257939b692537fd6" resname="models.name.top_clicked_image">
+        <source>Top clicked</source>
+        <target>crwdns244438:0crwdne244438:0</target>
+        <note>key: models.name.top_clicked_image</note>
+      </trans-unit>
+      <trans-unit id="2b3d09d9cbab4f8975d3af40ad2810e448c7ecfd" resname="models.name.top_clicked_long">
+        <source>Top clicked</source>
+        <target>crwdns244440:0crwdne244440:0</target>
+        <note>key: models.name.top_clicked_long</note>
+      </trans-unit>
+      <trans-unit id="b9354971e7cb622558af7bb84ad3561020bc9340" resname="models.name.top_clicked_product">
+        <source>Top clicked</source>
+        <target>crwdns244442:0crwdne244442:0</target>
+        <note>key: models.name.top_clicked_product</note>
+      </trans-unit>
+      <trans-unit id="2ff6a20390106fe55f362ed03924bbacaa9fb0aa" resname="models.name.top_clicked_short">
+        <source>Top clicked</source>
+        <target>crwdns244444:0crwdne244444:0</target>
+        <note>key: models.name.top_clicked_short</note>
+      </trans-unit>
+      <trans-unit id="8093d7b3b78bcb21b1e4f52b3618f3c8edd5be9b" resname="models.name.top_clicked_weighted">
+        <source>Top clicked</source>
+        <target>crwdns244446:0crwdne244446:0</target>
+        <note>key: models.name.top_clicked_weighted</note>
+      </trans-unit>
+      <trans-unit id="cf844b7ac6c761bb4e1625b46ffe819faefe49d6" resname="models.name.top_consumed">
+        <source>Top consumed</source>
+        <target>crwdns244448:0crwdne244448:0</target>
+        <note>key: models.name.top_consumed</note>
+      </trans-unit>
+      <trans-unit id="104f6494fdb5cf90316acf058f788e6b9c0aafc3" resname="models.name.top_consumed_article">
+        <source>Top consumed</source>
+        <target>crwdns244450:0crwdne244450:0</target>
+        <note>key: models.name.top_consumed_article</note>
+      </trans-unit>
+      <trans-unit id="3ef2dd43dcb1ba5322adb1c1434d731244c6f67a" resname="models.name.top_consumed_image">
+        <source>Top consumed</source>
+        <target>crwdns244452:0crwdne244452:0</target>
+        <note>key: models.name.top_consumed_image</note>
+      </trans-unit>
+      <trans-unit id="b2527ae3803c8150f89edecb83450f6a52f84c15" resname="models.name.top_consumed_long">
+        <source>Top consumed</source>
+        <target>crwdns244454:0crwdne244454:0</target>
+        <note>key: models.name.top_consumed_long</note>
+      </trans-unit>
+      <trans-unit id="f6772ca6052046ec1670cc9ab2aa86fb00a6913b" resname="models.name.top_consumed_short">
+        <source>Top consumed</source>
+        <target>crwdns244456:0crwdne244456:0</target>
+        <note>key: models.name.top_consumed_short</note>
+      </trans-unit>
+      <trans-unit id="3bbaa8d7e1b5dfb7ff941eb303e9e4826b42e352" resname="models.name.top_purchased">
+        <source>Top purchased</source>
+        <target>crwdns244458:0crwdne244458:0</target>
+        <note>key: models.name.top_purchased</note>
+      </trans-unit>
+      <trans-unit id="03ebc2676b41e801c6ca2a447b34f27c418fd753" resname="models.name.top_purchased_2">
+        <source>Top purchased</source>
+        <target>crwdns244460:0crwdne244460:0</target>
+        <note>key: models.name.top_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="e0644680775d322d7e8dccc7e6af61aeaa1d0f6d" resname="models.name.top_purchased_3">
+        <source>Top purchased</source>
+        <target>crwdns244462:0crwdne244462:0</target>
+        <note>key: models.name.top_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="3b948ec948c6775284bfdf62aa4f6b716f647564" resname="models.name.top_purchased_product">
+        <source>Top purchased</source>
+        <target>crwdns244464:0crwdne244464:0</target>
+        <note>key: models.name.top_purchased_product</note>
+      </trans-unit>
+      <trans-unit id="cf429fe4aeb997a54a5dc8b98bfd1ccbb48a0446" resname="models.name.top_rated">
+        <source>Top rated</source>
+        <target>crwdns244466:0crwdne244466:0</target>
+        <note>key: models.name.top_rated</note>
+      </trans-unit>
+      <trans-unit id="42cae99198b816e902446b1a617aab65db1d61f8" resname="models.name.top_selling">
+        <source>Top purchased</source>
+        <target>crwdns244468:0crwdne244468:0</target>
+        <note>key: models.name.top_selling</note>
+      </trans-unit>
+      <trans-unit id="5b1200f66aca3b96ef7a9c803e81c08b3d3f65a5" resname="models.name.ultimately_bought">
+        <source>Ultimately bought</source>
+        <target>crwdns244470:0crwdne244470:0</target>
+        <note>key: models.name.ultimately_bought</note>
+      </trans-unit>
+      <trans-unit id="31f416feb3e32d1c92eac4edfcbbf6e89e1e3562" resname="models.name.ultimately_consumed">
+        <source>Ultimately consumed</source>
+        <target>crwdns244472:0crwdne244472:0</target>
+        <note>key: models.name.ultimately_consumed</note>
+      </trans-unit>
+      <trans-unit id="2b941e3c876e3730abed4b0bb8947e92cc3a886a" resname="models.name.ultimately_purchased">
+        <source>Ultimately bought</source>
+        <target>crwdns244474:0crwdne244474:0</target>
+        <note>key: models.name.ultimately_purchased</note>
+      </trans-unit>
+      <trans-unit id="95c31bb2ad2e0d8097a73a1337bd58a7c05c78cc" resname="models.name.ultimately_purchased_2">
+        <source>Ultimately bought</source>
+        <target>crwdns244476:0crwdne244476:0</target>
+        <note>key: models.name.ultimately_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="88cbb6c679b8250fe0cbab251d5a07ba57c1c675" resname="models.name.ultimately_purchased_3">
+        <source>Ultimately bought</source>
+        <target>crwdns244478:0crwdne244478:0</target>
+        <note>key: models.name.ultimately_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="dc311a0b827e78d9d3b4baa5aa69b30867f7964b" resname="models.name.ultimately_purchased_long">
+        <source>Ultimately bought</source>
+        <target>crwdns244480:0crwdne244480:0</target>
+        <note>key: models.name.ultimately_purchased_long</note>
+      </trans-unit>
+      <trans-unit id="bb7443006c680966785880657155b8f7c99e8f1c" resname="models.name.upheaval">
+        <source>Upheaval</source>
+        <target>crwdns244482:0crwdne244482:0</target>
+        <note>key: models.name.upheaval</note>
+      </trans-unit>
+      <trans-unit id="d5cb57fe1c5498899843a105f77d1315b542f70d" resname="models.name.upheaval_ctb">
+        <source>Upheaval ctb</source>
+        <target>crwdns244484:0crwdne244484:0</target>
+        <note>key: models.name.upheaval_ctb</note>
+      </trans-unit>
+      <trans-unit id="23507814270c58c3f536c487dbf8a34154838d24" resname="models.name.upheaval_ctbuy">
+        <source>Upheaval ctbuy</source>
+        <target>crwdns244486:0crwdne244486:0</target>
+        <note>key: models.name.upheaval_ctbuy</note>
+      </trans-unit>
+      <trans-unit id="9218039cd1dedb8d767da1fbcfd85f88c2e87050" resname="models.name.upheaval_ctc">
+        <source>Upheaval ctc</source>
+        <target>crwdns244488:0crwdne244488:0</target>
+        <note>key: models.name.upheaval_ctc</note>
+      </trans-unit>
+      <trans-unit id="548eb4ed8f6fa3cd3a2ae9219f34da3e4d35b58d" resname="models.name.user_last_clicked">
+        <source>Last viewed by user</source>
+        <target>crwdns251247:0crwdne251247:0</target>
+        <note>key: models.name.user_last_clicked</note>
+      </trans-unit>
+      <trans-unit id="0ad410cd5b3e015b6c5f19f94643931678492edc" resname="models.name.user_last_purchased">
+        <source>Last purchased by user</source>
+        <target>crwdns251249:0crwdne251249:0</target>
+        <note>key: models.name.user_last_purchased</note>
+      </trans-unit>
+      <trans-unit id="e4d4b2e0074f0fa2be41aacaf22da0ef5e01af06" resname="models.no_items_selected">
+        <source>No items selected</source>
+        <target>crwdns244490:0crwdne244490:0</target>
+        <note>key: models.no_items_selected</note>
+      </trans-unit>
+      <trans-unit id="1226b834b9f64457ffa2096e0588f43d699912f7" resname="models.no_models_found">
+        <source>No models found</source>
+        <target>crwdns244492:0crwdne244492:0</target>
+        <note>key: models.no_models_found</note>
+      </trans-unit>
+      <trans-unit id="133df5d7ba195cb931e0a8372e8301e4b4627eab" resname="models.segments.existing_groups">
+        <source>Existing Groups</source>
+        <target>crwdns244494:0crwdne244494:0</target>
+        <note>key: models.segments.existing_groups</note>
+      </trans-unit>
+      <trans-unit id="dce8df8eaece9028ee5a31effe545aecff79de6f" resname="models.segments.group.delete_btn.label">
+        <source>Delete group</source>
+        <target>crwdns244496:0crwdne244496:0</target>
+        <note>key: models.segments.group.delete_btn.label</note>
+      </trans-unit>
+      <trans-unit id="8b351b72f23e6898b79f286973620819848d9da4" resname="models.segments.group.empty.image_alt">
+        <source>Empty group, please drag some segments</source>
+        <target>crwdns247152:0crwdne247152:0</target>
+        <note>key: models.segments.group.empty.image_alt</note>
+      </trans-unit>
+      <trans-unit id="3a7b7235f65c05d2272574a6d45a9070554065e6" resname="models.segments.group.empty.label">
+        <source>Your group is empty</source>
+        <target>crwdns247154:0crwdne247154:0</target>
+        <note>key: models.segments.group.empty.label</note>
+      </trans-unit>
+      <trans-unit id="d29516f86669674635c5374bac848996782b044c" resname="models.segments.group.empty.title">
+        <source>Drag and drop segments</source>
+        <target>crwdns247156:0crwdne247156:0</target>
+        <note>key: models.segments.group.empty.title</note>
+      </trans-unit>
+      <trans-unit id="ed66660fd6e63b1546ee7856b9daf1027f8d40f0" resname="models.segments.segments.relation.and">
+        <source>and</source>
+        <target>crwdns251251:0crwdne251251:0</target>
+        <note>key: models.segments.segments.relation.and</note>
+      </trans-unit>
+      <trans-unit id="442d6ede5bfa6b6303d151d6b12e0ff1f68314f5" resname="models.segments.segments.relation.or">
+        <source>or</source>
+        <target>crwdns251253:0crwdne251253:0</target>
+        <note>key: models.segments.segments.relation.or</note>
+      </trans-unit>
+      <trans-unit id="cef19fec93f89c5bd50590c425f3440098ad10a9" resname="models.segments.segments.status.active">
+        <source>active</source>
+        <target>crwdns251255:0crwdne251255:0</target>
+        <note>key: models.segments.segments.status.active</note>
+      </trans-unit>
+      <trans-unit id="7139a6d1527401a966c419413ca5ed821f074b57" resname="models.segments.segments.status.inactive">
+        <source>inactive</source>
+        <target>crwdns251257:0crwdne251257:0</target>
+        <note>key: models.segments.segments.status.inactive</note>
+      </trans-unit>
+      <trans-unit id="f3d714108e6a871e551229a2554d23866650d601" resname="models.segments.sidebar.empty.img">
+        <source>Empty library</source>
+        <target>crwdns247158:0crwdne247158:0</target>
+        <note>key: models.segments.sidebar.empty.img</note>
+      </trans-unit>
+      <trans-unit id="d4493c6d02115cb70c02fb6bc2eb925917166184" resname="models.segments.sidebar.empty.library">
+        <source>Your library is empty</source>
+        <target>crwdns247160:0crwdne247160:0</target>
+        <note>key: models.segments.sidebar.empty.library</note>
+      </trans-unit>
+      <trans-unit id="2ad765a509fbc5a1a3d96d9d835bd33ec8573114" resname="models.segments.sidebar.group.available">
+        <source>Available</source>
+        <target>crwdns244502:0crwdne244502:0</target>
+        <note>key: models.segments.sidebar.group.available</note>
+      </trans-unit>
+      <trans-unit id="2e5220d2a41ecd9be0ed1732c636d9400b663a36" resname="models.segments.sidebar.group.not_available">
+        <source>Not Available</source>
+        <target>crwdns244504:0crwdne244504:0</target>
+        <note>key: models.segments.sidebar.group.not_available</note>
+      </trans-unit>
+      <trans-unit id="4af2772335393f916f98ab0ff7fa3985a0bf63dc" resname="models.segments.sidebar.time_period_info">
+        <source>Selected timeframe %timeframe%</source>
+        <target>crwdns251259:0%timeframe%crwdne251259:0</target>
+        <note>key: models.segments.sidebar.time_period_info</note>
+      </trans-unit>
+      <trans-unit id="4d9ff4a137e3994603844a83342c8976e6f50856" resname="models.segments.sidebar.title">
+        <source>Elements</source>
+        <target>crwdns244508:0crwdne244508:0</target>
+        <note>key: models.segments.sidebar.title</note>
+      </trans-unit>
+      <trans-unit id="dc5f5b272c8ff55115997a3a03566fdcd8de6cf4" resname="models.submodel.add_group">
+        <source>Add group</source>
+        <target>crwdns244510:0crwdne244510:0</target>
+        <note>key: models.submodel.add_group</note>
+      </trans-unit>
+      <trans-unit id="af049bae133c2a66e00223d36b84c97785bd4570" resname="models.submodel.add_range">
+        <source>Add range</source>
+        <target>crwdns244512:0crwdne244512:0</target>
+        <note>key: models.submodel.add_range</note>
+      </trans-unit>
+      <trans-unit id="050c6688ca4e5f2cae7d305410e973e7dfad2a50" resname="models.submodel.delete_group">
+        <source>Delete group</source>
+        <target>crwdns244514:0crwdne244514:0</target>
+        <note>key: models.submodel.delete_group</note>
+      </trans-unit>
+      <trans-unit id="e0aa8b751c057afd0361ec03ae85fec591a4d68a" resname="models.submodel.existing_groups">
+        <source>Existing groups</source>
+        <target>crwdns244516:0crwdne244516:0</target>
+        <note>key: models.submodel.existing_groups</note>
+      </trans-unit>
+      <trans-unit id="fe6da97faca39d83d4e9107003d9a7604dc7e29b" resname="models.submodel.existing_ranges">
+        <source>Interval ranges</source>
+        <target>crwdns244518:0crwdne244518:0</target>
+        <note>key: models.submodel.existing_ranges</note>
+      </trans-unit>
+      <trans-unit id="66edc6fbb25029de99a8e6cf994f4b45938ddfe4" resname="models.submodels.interval-ranges">
+        <source>Interval ranges</source>
+        <target>crwdns244520:0crwdne244520:0</target>
+        <note>key: models.submodels.interval-ranges</note>
+      </trans-unit>
+      <trans-unit id="45fd1ac5513c46503322f526685fbf38f352c0d9" resname="models.table_title">
+        <source>List (%number_of_models%)</source>
+        <target>crwdns244522:0%number_of_models%crwdne244522:0</target>
+        <note>key: models.table_title</note>
+      </trans-unit>
+      <trans-unit id="957226291e073ca677e6d8832df124c10ca75005" resname="number.format.million_abbreviation">
+        <source>M</source>
+        <target>crwdns244524:0crwdne244524:0</target>
+        <note>key: number.format.million_abbreviation</note>
+      </trans-unit>
+      <trans-unit id="a0880a6e534e9e8274303ceca4e82de53c2894ce" resname="number.format.thousand_abbreviation">
+        <source>K</source>
+        <target>crwdns244526:0crwdne244526:0</target>
+        <note>key: number.format.thousand_abbreviation</note>
+      </trans-unit>
+      <trans-unit id="2450f91d0471b0d58b2328dbf2a6e8b4e8be3f63" resname="recommendation_engine_is_not_available">
+        <source>Recommendation engine is not available. Please try again later.</source>
+        <target>crwdns244528:0crwdne244528:0</target>
+        <note>key: recommendation_engine_is_not_available</note>
+      </trans-unit>
+      <trans-unit id="77d50e6fd072bffae00aa1c7ae530489c2002697" resname="scenario.action_name.creating">
+        <source>Creating</source>
+        <target>crwdns244530:0crwdne244530:0</target>
+        <note>key: scenario.action_name.creating</note>
+      </trans-unit>
+      <trans-unit id="0b3b381fddf5d4385b1b19455d33120f6553fd7b" resname="scenario.action_name.editing">
+        <source>Editing</source>
+        <target>crwdns244532:0crwdne244532:0</target>
+        <note>key: scenario.action_name.editing</note>
+      </trans-unit>
+      <trans-unit id="a29477d90934cf3d031f1e4b60c123d940c33903" resname="scenario.add_scenario">
+        <source>Add scenario</source>
+        <target>crwdns244534:0crwdne244534:0</target>
+        <note>key: scenario.add_scenario</note>
+      </trans-unit>
+      <trans-unit id="0822a677a1f1f08b54b364856fed6e26c196270c" resname="scenario.commerce_settings.do_not_recommend_if_price_unknown">
+        <source>Do not recommend if price unknown</source>
+        <target>crwdns244536:0crwdne244536:0</target>
+        <note>key: scenario.commerce_settings.do_not_recommend_if_price_unknown</note>
+      </trans-unit>
+      <trans-unit id="e158a5de95cd44e2fef6d556108abe393fe57132" resname="scenario.commerce_settings.do_not_recommend_items_the_user_already_purchased">
+        <source>Do not recommend items the user already purchased</source>
+        <target>crwdns244538:0crwdne244538:0</target>
+        <note>key: scenario.commerce_settings.do_not_recommend_items_the_user_already_purchased</note>
+      </trans-unit>
+      <trans-unit id="0db232997a03f52ca8de2e8531865eda929cee28" resname="scenario.commerce_settings.do_not_recommend_product_variants">
+        <source>Do not recommend product variants (only base products will be recommended)</source>
+        <target>crwdns251261:0crwdne251261:0</target>
+        <note>key: scenario.commerce_settings.do_not_recommend_product_variants</note>
+      </trans-unit>
+      <trans-unit id="e309221943467a614f28d6298bede4cf792e5542" resname="scenario.commerce_settings.item_price_should_equal_or_higher_than_the_price_of_the_context_item">
+        <source>Item price should equal or higher than the price of the context item</source>
+        <target>crwdns244540:0crwdne244540:0</target>
+        <note>key: scenario.commerce_settings.item_price_should_equal_or_higher_than_the_price_of_the_context_item</note>
+      </trans-unit>
+      <trans-unit id="a3cc484345546bc4f57f6d9660bbc435d685ac5c" resname="scenario.commerce_settings.minimum_price_of_the_recommended_product">
+        <source>Minimum price of the recommended product</source>
+        <target>crwdns244542:0crwdne244542:0</target>
+        <note>key: scenario.commerce_settings.minimum_price_of_the_recommended_product</note>
+      </trans-unit>
+      <trans-unit id="4108cf98b6abe211775013949207684f9e3b68ae" resname="scenario.commerce_settings.no_top_selling_items">
+        <source>No top-selling items</source>
+        <target>crwdns244544:0crwdne244544:0</target>
+        <note>key: scenario.commerce_settings.no_top_selling_items</note>
+      </trans-unit>
+      <trans-unit id="82daaeff32f8c8dc698d7a0612cc143c3955867e" resname="scenario.create">
+        <source>Scenario create</source>
+        <target>crwdns244546:0crwdne244546:0</target>
+        <note>key: scenario.create</note>
+      </trans-unit>
+      <trans-unit id="a7fa898aa96a70f49418d155040efe41198aeaf0" resname="scenario.create.anchor_navigation.general">
+        <source>General</source>
+        <target>crwdns244548:0crwdne244548:0</target>
+        <note>key: scenario.create.anchor_navigation.general</note>
+      </trans-unit>
+      <trans-unit id="6c2feed03a94346c88ff969b3bc59a0236936f4a" resname="scenario.create.anchor_navigation.strategy">
+        <source>Strategy</source>
+        <target>crwdns244550:0crwdne244550:0</target>
+        <note>key: scenario.create.anchor_navigation.strategy</note>
+      </trans-unit>
+      <trans-unit id="a3ab7ac517276adf518e461be28d61e9130040d8" resname="scenario.create.sidebar.title">
+        <source>Models</source>
+        <target>crwdns244552:0crwdne244552:0</target>
+        <note>key: scenario.create.sidebar.title</note>
+      </trans-unit>
+      <trans-unit id="39366ae8b5b753a4fc772be6239bdcd721cb07b6" resname="scenario.create.strategy.title">
+        <source>Strategy</source>
+        <target>crwdns244554:0crwdne244554:0</target>
+        <note>key: scenario.create.strategy.title</note>
+      </trans-unit>
+      <trans-unit id="d53c0c7652b41e863fb48794470f8409a902fc6e" resname="scenario.exclusions.exclude_categories">
+        <source>Exclude categories</source>
+        <target>crwdns244556:0crwdne244556:0</target>
+        <note>key: scenario.exclusions.exclude_categories</note>
+      </trans-unit>
+      <trans-unit id="82661332b25244945c08ee677470b8a73287aae4" resname="scenario.exclusions.exclude_context_items_categories">
+        <source>Exclude category of the context item</source>
+        <target>crwdns244558:0crwdne244558:0</target>
+        <note>key: scenario.exclusions.exclude_context_items_categories</note>
+      </trans-unit>
+      <trans-unit id="42cc1557b7e4cefd98a1be34903f1b81a139bcf8" resname="scenario.fail_safe_models">
+        <source>Fallback level 2</source>
+        <target>crwdns244560:0crwdne244560:0</target>
+        <note>key: scenario.fail_safe_models</note>
+      </trans-unit>
+      <trans-unit id="07d18774e803e0bfc4ef8891b733e24f90d5318b" resname="scenario.identifier">
+        <source>Identifier</source>
+        <target>crwdns244562:0crwdne244562:0</target>
+        <note>key: scenario.identifier</note>
+      </trans-unit>
+      <trans-unit id="b0d7aa4b4044afdbd36954c30159cbc71c65da40" resname="scenario.input_type">
+        <source>Input type</source>
+        <target>crwdns244564:0crwdne244564:0</target>
+        <note>key: scenario.input_type</note>
+      </trans-unit>
+      <trans-unit id="fd21013add7516ec3651ffe859a657139df441ab" resname="scenario.models">
+        <source>Models</source>
+        <target>crwdns244566:0crwdne244566:0</target>
+        <note>key: scenario.models</note>
+      </trans-unit>
+      <trans-unit id="3083439c9902ccfffb2ff72255ef411b19bca456" resname="scenario.name">
+        <source>Name</source>
+        <target>crwdns244568:0crwdne244568:0</target>
+        <note>key: scenario.name</note>
+      </trans-unit>
+      <trans-unit id="6695909a6c8e844c791c23966b14944ea7eb47a3" resname="scenario.no_of_calls">
+        <source>No. of calls</source>
+        <target>crwdns244570:0crwdne244570:0</target>
+        <note>key: scenario.no_of_calls</note>
+      </trans-unit>
+      <trans-unit id="0aada337ced6d6927b27360e60e7dab84a46b821" resname="scenario.no_scenarios_found">
+        <source>No scenarios found</source>
+        <target>crwdns244572:0crwdne244572:0</target>
+        <note>key: scenario.no_scenarios_found</note>
+      </trans-unit>
+      <trans-unit id="d8df16553d118738193650285b6cbf2eeace1a07" resname="scenario.non_operational">
+        <source>non-operational</source>
+        <target>crwdns244574:0crwdne244574:0</target>
+        <note>key: scenario.non_operational</note>
+      </trans-unit>
+      <trans-unit id="96f4e9998929f7d5ab572e85b5d3b35b49543849" resname="scenario.operational">
+        <source>operational</source>
+        <target>crwdns244576:0crwdne244576:0</target>
+        <note>key: scenario.operational</note>
+      </trans-unit>
+      <trans-unit id="9aaed75dcdd718cf02f0131e529fd584dee89b7a" resname="scenario.output_type">
+        <source>Output type</source>
+        <target>crwdns244578:0crwdne244578:0</target>
+        <note>key: scenario.output_type</note>
+      </trans-unit>
+      <trans-unit id="107c9129ae6652034044529556da977306ed8f50" resname="scenario.strategy.category_level_and_below">
+        <source>category level(s) and below</source>
+        <target>crwdns244580:0crwdne244580:0</target>
+        <note>key: scenario.strategy.category_level_and_below</note>
+      </trans-unit>
+      <trans-unit id="ec6a81ae8ff8e515fe823c3b481e86636cdcf278" resname="scenario.strategy.context">
+        <source>Context</source>
+        <target>crwdns251263:0crwdne251263:0</target>
+        <note>key: scenario.strategy.context</note>
+      </trans-unit>
+      <trans-unit id="3dbd0107cf6aa0fa0e3879a67983c54363337740" resname="scenario.strategy.discard">
+        <source>Cancel</source>
+        <target>crwdns247164:0crwdne247164:0</target>
+        <note>key: scenario.strategy.discard</note>
+      </trans-unit>
+      <trans-unit id="1ccee020b75348f4618bd5c3c6d664751ac85df9" resname="scenario.strategy.fail_safe">
+        <source>Fallback level 2</source>
+        <target>crwdns244584:0crwdne244584:0</target>
+        <note>key: scenario.strategy.fail_safe</note>
+      </trans-unit>
+      <trans-unit id="49bec5eeb413d40d2553c1db56438d40986f1b13" resname="scenario.strategy.fallback_name">
+        <source>Fallback level 1</source>
+        <target>crwdns244586:0crwdne244586:0</target>
+        <note>key: scenario.strategy.fallback_name</note>
+      </trans-unit>
+      <trans-unit id="140981d2f6a8cfed9ffa92ee5386a8f6ea725d1c" resname="scenario.strategy.include_parent_category_and_subcategories">
+        <source>Also include the parent category and its subcategories</source>
+        <target>crwdns244588:0crwdne244588:0</target>
+        <note>key: scenario.strategy.include_parent_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="b5ac7094ba86de6ba7937f4eceb62c3b582697f5" resname="scenario.strategy.levels_up">
+        <source>level(s) up</source>
+        <target>crwdns244590:0crwdne244590:0</target>
+        <note>key: scenario.strategy.levels_up</note>
+      </trans-unit>
+      <trans-unit id="9126ba347d953620c4df03f9ca32c1313b1f8702" resname="scenario.strategy.primary_models_name">
+        <source>Primary models</source>
+        <target>crwdns244592:0crwdne244592:0</target>
+        <note>key: scenario.strategy.primary_models_name</note>
+      </trans-unit>
+      <trans-unit id="6c7d37f03ac54dc1dae5ce4267f7e28c8b043083" resname="scenario.strategy.recommend_items_from_same_category">
+        <source>Recommend items from the same category</source>
+        <target>crwdns244594:0crwdne244594:0</target>
+        <note>key: scenario.strategy.recommend_items_from_same_category</note>
+      </trans-unit>
+      <trans-unit id="87e5d3204107b987171998db73732519da6c0467" resname="scenario.strategy.recommend_items_from_same_main_category_and_subcategories">
+        <source>Recommend items from the same main category and its subcategories</source>
+        <target>crwdns244596:0crwdne244596:0</target>
+        <note>key: scenario.strategy.recommend_items_from_same_main_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="c28ab504e134d797dea65b13e4e3dfb74c6e38e9" resname="scenario.strategy.recommend_items_from_whole_site">
+        <source>Recommend items from the whole site</source>
+        <target>crwdns244598:0crwdne244598:0</target>
+        <note>key: scenario.strategy.recommend_items_from_whole_site</note>
+      </trans-unit>
+      <trans-unit id="8c4cca6eaff42db3e1c8afa8ad54dbf86b20fb64" resname="scenario.strategy.save">
+        <source>Save</source>
+        <target>crwdns244600:0crwdne244600:0</target>
+        <note>key: scenario.strategy.save</note>
+      </trans-unit>
+      <trans-unit id="80dd45134e009a3446f7edd47881b631b1274136" resname="scenario.strategy.ultimately_fail_safe">
+        <source>Fail-safe</source>
+        <target>crwdns244602:0crwdne244602:0</target>
+        <note>key: scenario.strategy.ultimately_fail_safe</note>
+      </trans-unit>
+      <trans-unit id="e898621a4b60709756ebe7975a5a138b33b3495e" resname="scenario.strategy_fall_back">
+        <source>Fallback level 1</source>
+        <target>crwdns244604:0crwdne244604:0</target>
+        <note>key: scenario.strategy_fall_back</note>
+      </trans-unit>
+      <trans-unit id="2bccde9b875fb14154bc1dcf1582c4ebd53e9c5c" resname="scenario.strategy_model_context.automatic">
+        <source>Automatic</source>
+        <target>crwdns244606:0crwdne244606:0</target>
+        <note>key: scenario.strategy_model_context.automatic</note>
+      </trans-unit>
+      <trans-unit id="69a5692016c7345acfa9c3609786e328f279c3c6" resname="scenario.strategy_model_context.basket_history">
+        <source>Basket History</source>
+        <target>crwdns244608:0crwdne244608:0</target>
+        <note>key: scenario.strategy_model_context.basket_history</note>
+      </trans-unit>
+      <trans-unit id="4a1705839501095c591bd8ae405ff67653c24762" resname="scenario.strategy_model_context.buy_history">
+        <source>Buy History</source>
+        <target>crwdns244610:0crwdne244610:0</target>
+        <note>key: scenario.strategy_model_context.buy_history</note>
+      </trans-unit>
+      <trans-unit id="44b194ebf7e71aa9e19d33bdc235395ed752f401" resname="scenario.strategy_model_context.click_history">
+        <source>Click History</source>
+        <target>crwdns244612:0crwdne244612:0</target>
+        <note>key: scenario.strategy_model_context.click_history</note>
+      </trans-unit>
+      <trans-unit id="3de7cd4c96bb6fba616f8a9deeb0cace9e82ecc8" resname="scenario.strategy_model_context.consume_history">
+        <source>Consume History</source>
+        <target>crwdns244614:0crwdne244614:0</target>
+        <note>key: scenario.strategy_model_context.consume_history</note>
+      </trans-unit>
+      <trans-unit id="af4a226dbe1c9b3cfc58aac3c434d551e27e67db" resname="scenario.strategy_model_context.no_context">
+        <source>No context</source>
+        <target>crwdns244616:0crwdne244616:0</target>
+        <note>key: scenario.strategy_model_context.no_context</note>
+      </trans-unit>
+      <trans-unit id="4b88491ba4470791efc4de43b5ea8eb544f6d26b" resname="scenario.strategy_model_context.page_context">
+        <source>Page Context</source>
+        <target>crwdns244618:0crwdne244618:0</target>
+        <note>key: scenario.strategy_model_context.page_context</note>
+      </trans-unit>
+      <trans-unit id="19507ec33944fda4ba11fde0a2ec95921725cbad" resname="scenario.strategy_model_context.rate_history">
+        <source>Rate History</source>
+        <target>crwdns244620:0crwdne244620:0</target>
+        <note>key: scenario.strategy_model_context.rate_history</note>
+      </trans-unit>
+      <trans-unit id="793cca0d1d52f41c1c94b704661258da220fe9e3" resname="scenario.strategy_primary_models">
+        <source>Primary models</source>
+        <target>crwdns244622:0crwdne244622:0</target>
+        <note>key: scenario.strategy_primary_models</note>
+      </trans-unit>
+      <trans-unit id="3c66f443e1262186fe4a4cc853b50f1da743b6e1" resname="scenario.strategy_ultimately_fail_safe">
+        <source>Fail-safe</source>
+        <target>crwdns244624:0crwdne244624:0</target>
+        <note>key: scenario.strategy_ultimately_fail_safe</note>
+      </trans-unit>
+      <trans-unit id="1c18b5e05f3859be35785ef62bf6e409c994ad62" resname="scenario.user_profile_settings.boost_item">
+        <source>Boost item, if a user has an attribute with the same value</source>
+        <target>crwdns244626:0crwdne244626:0</target>
+        <note>key: scenario.user_profile_settings.boost_item</note>
+      </trans-unit>
+      <trans-unit id="b86c9a67a8c8aa01decdd751cc70566e3ec58e3c" resname="scenario.user_profile_settings.do_not_recommend_items_the_user_already_consumed">
+        <source>Do not recommend items the user already consumed</source>
+        <target>crwdns244628:0crwdne244628:0</target>
+        <note>key: scenario.user_profile_settings.do_not_recommend_items_the_user_already_consumed</note>
+      </trans-unit>
+      <trans-unit id="c3068f9af427a358f24161fa2166476d4e6b9601" resname="scenario.user_profile_settings.do_not_recommend_the_item_currently_viewed">
+        <source>Do not recommend the item currently viewed</source>
+        <target>crwdns244630:0crwdne244630:0</target>
+        <note>key: scenario.user_profile_settings.do_not_recommend_the_item_currently_viewed</note>
+      </trans-unit>
+      <trans-unit id="96eb1be0f79951ab878db92f25dc4278b4d2c6e7" resname="scenario.user_profile_settings.max_repeated_shows_of_identical_recommendation_per_session">
+        <source>Max. repeated shows of identical recommendations per session.</source>
+        <target>crwdns244632:0crwdne244632:0</target>
+        <note>key: scenario.user_profile_settings.max_repeated_shows_of_identical_recommendation_per_session</note>
+      </trans-unit>
+      <trans-unit id="1980b9fa8e8bf0d104cc996e3ea9035e6a2cbae8" resname="scenario.user_profile_settings.user_attribute_has_different_name">
+        <source>User attribute has different name</source>
+        <target>crwdns244634:0crwdne244634:0</target>
+        <note>key: scenario.user_profile_settings.user_attribute_has_different_name</note>
+      </trans-unit>
+      <trans-unit id="c254d16c513c1602851e083143881a5b23ebd8ed" resname="scenarios">
+        <source>Scenarios</source>
+        <target>crwdns244636:0crwdne244636:0</target>
+        <note>key: scenarios</note>
+      </trans-unit>
+      <trans-unit id="c0f835b914edd303384366f2440d18d56374da6d" resname="scenarios.preview.add_attribute_error">
+        <source>Fill attribute value</source>
+        <target>crwdns244638:0crwdne244638:0</target>
+        <note>key: scenarios.preview.add_attribute_error</note>
+      </trans-unit>
+      <trans-unit id="8ae07263a1d74e52a7813f04824c8a122c5da4e9" resname="scenarios.preview.copy_clipboard_error">
+        <source>Cannot copy the response due to browser limitations. Select and copy manually.</source>
+        <target>crwdns247166:0crwdne247166:0</target>
+        <note>key: scenarios.preview.copy_clipboard_error</note>
+      </trans-unit>
+      <trans-unit id="c7bc8b0d733191b7128bbbe79b1c883ae157c90c" resname="scenarios.table_title">
+        <source>List (%number_of_scenarios%)</source>
+        <target>crwdns244640:0%number_of_scenarios%crwdne244640:0</target>
+        <note>key: scenarios.table_title</note>
+      </trans-unit>
+      <trans-unit id="309c15d00bf4d8ba6998adfa12bbae21fe99ffd3" resname="settings.form.installation_key">
+        <source>Installation key</source>
+        <target>crwdns244642:0crwdne244642:0</target>
+        <note>key: settings.form.installation_key</note>
+      </trans-unit>
+      <trans-unit id="7b60fe663504c123790a0b4d779d141fb7eee8aa" resname="settings.form.submit">
+        <source>Save</source>
+        <target>crwdns244644:0crwdne244644:0</target>
+        <note>key: settings.form.submit</note>
+      </trans-unit>
+      <trans-unit id="09973b1c84a811003e4feb8789f4c6c2d066c82c" resname="targeted_scenario_map.no_configuration">
+        <source>No segments defined. Create Segments in the Admin panel to use this block.</source>
+        <target>crwdns247168:0crwdne247168:0</target>
+        <note>key: targeted_scenario_map.no_configuration</note>
+      </trans-unit>
+      <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
+        <source><![CDATA[Got a question? We'd love to hear from you. Send us message to <a href="mailto:support@ibexa.co" target="_blank">support@ibexa.co</a> and we'll get in touch with you soon.]]></source>
+        <target><![CDATA[crwdns251265:0crwdne251265:0]]></target>
+        <note>key: welcome.activation_status.question</note>
+      </trans-unit>
+      <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">
+        <source>Your request was sent by %name% and is being processed.</source>
+        <target>crwdns251267:0%name%crwdne251267:0</target>
+        <note>key: welcome.activation_status.subtitle</note>
+      </trans-unit>
+      <trans-unit id="607843716588d2e47b295b490af80a2019647351" resname="welcome.activation_status.title">
+        <source>Activation status</source>
+        <target>crwdns251269:0crwdne251269:0</target>
+        <note>key: welcome.activation_status.title</note>
+      </trans-unit>
+      <trans-unit id="4211a967e3d409c7706659ececa942e83ea4475d" resname="welcome.description.leverage_personalization">
+        <source>Unified digital experiences can't be supported by data silos. Enrich your customer data by integrating Ibexa Personalization capabilities with existing business systems to boost the power of your personalized customer experiences.</source>
+        <target>crwdns244646:0crwdne244646:0</target>
+        <note>key: welcome.description.leverage_personalization</note>
+      </trans-unit>
+      <trans-unit id="d474abac7f14c0c45306be8d7fa39d1bb1149ff8" resname="welcome.description.target_and_personalize">
+        <source>Listen to your users and capture their preferences and specific interests to offer personalized content. Empower your editorial and marketing teams to leverage this information to better target what content will be most relevant to each user.</source>
+        <target>crwdns244648:0crwdne244648:0</target>
+        <note>key: welcome.description.target_and_personalize</note>
+      </trans-unit>
+      <trans-unit id="09d565452082f720af42e27a5494cc88dc915077" resname="welcome.form.invalid_installation_key">
+        <source>This installation key is not valid.</source>
+        <target>crwdns244650:0crwdne244650:0</target>
+        <note>key: welcome.form.invalid_installation_key</note>
+      </trans-unit>
+      <trans-unit id="152bb836a684191c6bb76588a609237b284bf59b" resname="welcome.form.subtitle">
+        <source>Fill in the form to send your request to activate Ibexa Personalization services. To activate the services, you need to have an active Ibexa Subscription.</source>
+        <target>crwdns251271:0crwdne251271:0</target>
+        <note>key: welcome.form.subtitle</note>
+      </trans-unit>
+      <trans-unit id="d1c4b3ce2e03e5b5fbed54d72c1db4a938eca745" resname="welcome.form.title">
+        <source>Request for account activation</source>
+        <target>crwdns251273:0crwdne251273:0</target>
+        <note>key: welcome.form.title</note>
+      </trans-unit>
+      <trans-unit id="eae39002d36e201c46471af72d3f30a07108ae44" resname="welcome.image.man">
+        <source>welcome working man</source>
+        <target>crwdns251275:0crwdne251275:0</target>
+        <note>key: welcome.image.man</note>
+      </trans-unit>
+      <trans-unit id="f0a4d79c7b8161e91644fb48c4fb006ce3780650" resname="welcome.image.woman">
+        <source>welcome working woman</source>
+        <target>crwdns251277:0crwdne251277:0</target>
+        <note>key: welcome.image.woman</note>
+      </trans-unit>
+      <trans-unit id="26fe3943f55014fcf43f195f3b9fec2c07efc3f3" resname="welcome.link.developer_documentation">
+        <source>Developer documentation</source>
+        <target>crwdns244652:0crwdne244652:0</target>
+        <note>key: welcome.link.developer_documentation</note>
+      </trans-unit>
+      <trans-unit id="15bd28c2e2c2ac4f19f21c2ea72901f04110a1fe" resname="welcome.link.product_description">
+        <source>Product description</source>
+        <target>crwdns244654:0crwdne244654:0</target>
+        <note>key: welcome.link.product_description</note>
+      </trans-unit>
+      <trans-unit id="b871c85b6908215a4bf197e57b217dc2365a8be8" resname="welcome.link.user_documentation">
+        <source>User documentation</source>
+        <target>crwdns244656:0crwdne244656:0</target>
+        <note>key: welcome.link.user_documentation</note>
+      </trans-unit>
+      <trans-unit id="62e2122586e447622cf0b1bdf8acf7dc62f6600f" resname="welcome.subtitle">
+        <source>Personalize every part of your Customer Experience</source>
+        <target>crwdns244658:0crwdne244658:0</target>
+        <note>key: welcome.subtitle</note>
+      </trans-unit>
+      <trans-unit id="4535cf1ab875d58841ddf3f2fadc87f84c6c5e68" resname="welcome.terms.accept">
+        <source>Accept</source>
+        <target>crwdns244660:0crwdne244660:0</target>
+        <note>key: welcome.terms.accept</note>
+      </trans-unit>
+      <trans-unit id="316e9974a319973cc24c4d11f6b04a13150470cb" resname="welcome.terms.back">
+        <source>Back</source>
+        <target>crwdns244662:0crwdne244662:0</target>
+        <note>key: welcome.terms.back</note>
+      </trans-unit>
+      <trans-unit id="16a1e110c8c7ac7d3d806178b042706b3bd79af3" resname="welcome.terms.cancel">
+        <source>Cancel</source>
+        <target>crwdns244664:0crwdne244664:0</target>
+        <note>key: welcome.terms.cancel</note>
+      </trans-unit>
+      <trans-unit id="099ebf8b2b9aa235a7dbcfb79fc0d522be42eb7d" resname="welcome.terms.download_pdf">
+        <source>Download PDF</source>
+        <target>crwdns244666:0crwdne244666:0</target>
+        <note>key: welcome.terms.download_pdf</note>
+      </trans-unit>
+      <trans-unit id="3b055403c050c64d43114df3792df1ced71d84f3" resname="welcome.terms.table_of_contents">
+        <source>Table of contents</source>
+        <target>crwdns244668:0crwdne244668:0</target>
+        <note>key: welcome.terms.table_of_contents</note>
+      </trans-unit>
+      <trans-unit id="1fdb5ec00f03e84d7b41ffb68e5f77c10182196c" resname="welcome.terms.terms_and_conditions">
+        <source>Terms and conditions</source>
+        <target>crwdns244670:0crwdne244670:0</target>
+        <note>key: welcome.terms.terms_and_conditions</note>
+      </trans-unit>
+      <trans-unit id="363496cd7f043616a71338c37d9464559580278b" resname="welcome.title">
+        <source>Welcome to Ibexa Personalization</source>
+        <target>crwdns244672:0crwdne244672:0</target>
+        <note>key: welcome.title</note>
+      </trans-unit>
+      <trans-unit id="80a2ba9054260eef7b96f8dcde4fd14b75381f32" resname="welcome.title.leverage_personalization">
+        <source>Leverage personalization data across your business</source>
+        <target>crwdns244674:0crwdne244674:0</target>
+        <note>key: welcome.title.leverage_personalization</note>
+      </trans-unit>
+      <trans-unit id="986596df65f1c63399c824776e40ff53320b68c0" resname="welcome.title.please_visit">
+        <source>To find out more, please visit</source>
+        <target>crwdns244676:0crwdne244676:0</target>
+        <note>key: welcome.title.please_visit</note>
+      </trans-unit>
+      <trans-unit id="2b8f74b3c839315414dc831a80c31d132a76b8eb" resname="welcome.title.target_and_personalize">
+        <source><![CDATA[Target & personalize with user choices]]></source>
+        <target><![CDATA[crwdns244678:0crwdne244678:0]]></target>
+        <note>key: welcome.title.target_and_personalize</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

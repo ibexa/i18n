@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="052696d7bef6d8f4db1a3989bbcfe6c2a226ef2d" resname="Version is assigned to another user (%name%) since %modified%.">
         <source>Version is assigned to another user (%name%) since %modified%.</source>
-        <target state="needs-translation">Version is assigned to another user (%name%) since %modified%.</target>
+        <target state="translated">Wersja jest przypisana do innego użytkownika (%name%) od %modified%.</target>
         <note>key: Version is assigned to another user (%name%) since %modified%.</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
-        <target state="needs-translation">Admin</target>
+        <target state="translated">Admin</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
       <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
         <source>From:</source>
-        <target state="needs-translation">From:</target>
+        <target state="translated">Od:</target>
         <note>key: content.review.from</note>
       </trans-unit>
       <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
         <source>Read more</source>
-        <target state="needs-translation">Read more</target>
+        <target state="translated">Czytaj więcej</target>
         <note>key: content.review.read_more</note>
       </trans-unit>
     </body>

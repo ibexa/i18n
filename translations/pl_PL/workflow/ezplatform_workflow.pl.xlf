@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="7c6e325dd52179c8f9262c5321f93788b6fe7f8c" resname="content.review.title">
         <source>Title:</source>
-        <target state="needs-translation">Title:</target>
+        <target state="translated">Tytuł:</target>
         <note>key: content.review.title</note>
       </trans-unit>
       <trans-unit id="b7578d210bb0a2f0f03a30ee0fc33a0e377cc227" resname="content.unlock.accept">
         <source>Accept</source>
-        <target state="needs-translation">Accept</target>
+        <target state="translated">Akceptuj</target>
         <note>key: content.unlock.accept</note>
       </trans-unit>
       <trans-unit id="40824da1203ecd7402887434c46c4107d02f85d7" resname="content.unlock.request">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="03b3eebd6de51e6ab83ae31dd89afb4be4d487aa" resname="dashboard.tab.my_drafts_under_review.empty">
         <source>No content to review.</source>
-        <target state="needs-translation">No content to review.</target>
+        <target state="translated">Brak treści do wyświetlenia.</target>
         <note>key: dashboard.tab.my_drafts_under_review.empty</note>
       </trans-unit>
       <trans-unit id="af4a30229997bc086a9e66b1d3551c98a07b6fad" resname="dashboard.tab.my_drafts_under_review.empty.action_text">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="4a1d2c697ba3a33846c2d9ecaea722b6144820b6" resname="dashboard.table.activity.locked">
         <source>%user% has been assigned to this draft %relativeTime%</source>
-        <target state="needs-translation">%user% has been assigned to this draft %relativeTime%</target>
+        <target state="translated">%user% został przypisany do tego szkicu %relativeTime%</target>
         <note>key: dashboard.table.activity.locked</note>
       </trans-unit>
       <trans-unit id="d096efa85dcf934eff6c290ce3d7d36d6302a654" resname="dashboard.table.assigned_to">
         <source>Assigned to</source>
-        <target state="needs-translation">Assigned to</target>
+        <target state="translated">Przypisano do</target>
         <note>key: dashboard.table.assigned_to</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="149b6c8f2d0d25c74fbcb7f242e7a71e9fdd6ea8" resname="dashboard.table.draft.unlock">
         <source>Unlock</source>
-        <target state="needs-translation">Unlock</target>
+        <target state="translated">Odblokuj</target>
         <note>key: dashboard.table.draft.unlock</note>
       </trans-unit>
       <trans-unit id="eb02a089823e8728654697a70ee8dddfbfb2903c" resname="dashboard.table.draft.unlock.ask">
         <source>Request access</source>
-        <target state="needs-translation">Request access</target>
+        <target state="translated">Poproś o dostęp</target>
         <note>key: dashboard.table.draft.unlock.ask</note>
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="7529fdc51d8c1e668c8a1c2c1d508e870acbb695" resname="dashboard.table.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Status</target>
         <note>key: dashboard.table.status</note>
       </trans-unit>
       <trans-unit id="06db78bf8a5c250a54b5915335ca8b37b04ef7d1" resname="draft.edit.locked">
@@ -128,12 +128,12 @@
       </trans-unit>
       <trans-unit id="d9842006a04cc421f6c53ae0a7a7ae74e4d41f7c" resname="draft.edit.locked.notification">
         <source>Version is assigned to another user (%name%).</source>
-        <target state="needs-translation">Version is assigned to another user (%name%).</target>
+        <target state="translated">Wersja jest przypisana do innego użytkownika (%name%).</target>
         <note>key: draft.edit.locked.notification</note>
       </trans-unit>
       <trans-unit id="ffe14749c2f509a9f17abedfcb859431f9fa5c4c" resname="draft.unlock.ask.notification">
         <source>Request access has been sent</source>
-        <target state="needs-translation">Request access has been sent</target>
+        <target state="translated">Żądanie zostało wysłane</target>
         <note>key: draft.unlock.ask.notification</note>
       </trans-unit>
       <trans-unit id="ce7ec27cb7ed669df0c7863ccf9d7059b804bbeb" resname="location_view.tab.versions.column.workflow">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="4b66d4ba05f56aa2be819bdc8f75010d3a78d093" resname="policy.limitation.versionlock.assigned_only">
         <source>Assigned only</source>
-        <target state="needs-translation">Assigned only</target>
+        <target state="translated">Tylko przypisane</target>
         <note>key: policy.limitation.versionlock.assigned_only</note>
       </trans-unit>
       <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="86c591b194c7849d9efaacc4c3f19f5722ace8e9" resname="transition.list.entry.date">
         <source>on %date%</source>
-        <target state="needs-translation">on %date%</target>
+        <target state="translated">na %date%</target>
         <note>key: transition.list.entry.date</note>
       </trans-unit>
       <trans-unit id="db84cfaed6f2b9a52d159b6d9b12e41bdf2c27bf" resname="transition.list.entry.title">
@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="101b75a4d7cd2e88611810107868fdf7ee813937" resname="workflow.list.title">
         <source>Workflow</source>
-        <target state="needs-translation">Workflow</target>
+        <target state="translated">Przepływ pracy</target>
         <note>key: workflow.list.title</note>
       </trans-unit>
       <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">Zmodyfikowano język</target>
         <note>key: workflow.view.content_list.table.modified_language</note>
       </trans-unit>
       <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
         <source>Workflow diagram</source>
-        <target state="needs-translation">Workflow diagram</target>
+        <target state="translated">Schemat przepływu pracy</target>
         <note>key: workflow.view.diagram</note>
       </trans-unit>
       <trans-unit id="2852fd5a9fd7bc497fa5fe26d6f0f0ad3cb0cdf4" resname="workflow.view.tab.content_list">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="d383f9c102d01c10e71c120aa1b08f80dcd20fe9" resname="workflow.view.title">
         <source>Workflow information</source>
-        <target state="needs-translation">Workflow information</target>
+        <target state="translated">Informacje o przepływie pracy</target>
         <note>key: workflow.view.title</note>
       </trans-unit>
     </body>

@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="5c40e209cf61404fe0321482901de1ca032b56ca" resname="account.copied">
         <source>Copied</source>
-        <target state="needs-translation">Copied</target>
+        <target state="translated">Skopiowano</target>
         <note>key: account.copied</note>
       </trans-unit>
       <trans-unit id="9f63fd9ab9e6f52d3ea63addd0adf0b66b5ad787" resname="account.create.name">
         <source>Account name</source>
-        <target state="needs-translation">Account name</target>
+        <target state="translated">Nazwa konta</target>
         <note>key: account.create.name</note>
       </trans-unit>
       <trans-unit id="9ac1e13435a751cf793725b682af4ff0e5f1c471" resname="account.create.next">
         <source>Next</source>
-        <target state="needs-translation">Next</target>
+        <target state="translated">Dalej</target>
         <note>key: account.create.next</note>
       </trans-unit>
       <trans-unit id="2351c0a69c53539441435a4793aca5713bc96b3a" resname="account.create.type">
         <source>Type</source>
-        <target state="needs-translation">Type</target>
+        <target state="translated">Typ</target>
         <note>key: account.create.type</note>
       </trans-unit>
       <trans-unit id="41f6a9d364b5792d2a2a9774470a47ea7cbbea9b" resname="account.details.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: account.details.id</note>
       </trans-unit>
       <trans-unit id="8847e361317b35fc4329a27302ca8b7b10b04ccd" resname="account.details.license_key">
         <source>Licence key</source>
-        <target state="needs-translation">Licence key</target>
+        <target state="translated">Klucz licencyjny</target>
         <note>key: account.details.license_key</note>
       </trans-unit>
       <trans-unit id="d9d5773cf1ab37cd321c2f4ad2dde79beea07df8" resname="account.details.pass_credentials">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="317058113941ff04b87fb62ef09b7e9275875243" resname="ibexa_personalization.dashboard.date_of_purchase">
         <source>Date of purchase</source>
-        <target state="needs-translation">Date of purchase</target>
+        <target state="translated">Data zakupu:</target>
         <note>key: ibexa_personalization.dashboard.date_of_purchase</note>
       </trans-unit>
       <trans-unit id="e17d3e1491126d7f3805d685513784cf7526cf6c" resname="ibexa_personalization.dashboard.item_bought">
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="5349670bc14607a7d0b20eef5707d8de59d065a8" resname="model.details.general">
         <source>General</source>
-        <target state="needs-translation">General</target>
+        <target state="translated">Ogólne</target>
         <note>key: model.details.general</note>
       </trans-unit>
       <trans-unit id="3e7cb613ab82b863f6e9a7043921fefb670a7ed6" resname="model.details.identifier">
@@ -373,7 +373,7 @@
       </trans-unit>
       <trans-unit id="4df75fe5c000a8fa91e6811c5613d6087f7edf22" resname="model.details.last_build">
         <source>Last build</source>
-        <target state="needs-translation">Last build</target>
+        <target state="translated">Ostatnia kompilacja</target>
         <note>key: model.details.last_build</note>
       </trans-unit>
       <trans-unit id="f96553c14a4ffdd378138a03455a0891ce85a7e1" resname="model.details.name">
@@ -2078,22 +2078,22 @@
       </trans-unit>
       <trans-unit id="ed66660fd6e63b1546ee7856b9daf1027f8d40f0" resname="models.segments.segments.relation.and">
         <source>and</source>
-        <target state="needs-translation">and</target>
+        <target state="translated">i</target>
         <note>key: models.segments.segments.relation.and</note>
       </trans-unit>
       <trans-unit id="442d6ede5bfa6b6303d151d6b12e0ff1f68314f5" resname="models.segments.segments.relation.or">
         <source>or</source>
-        <target state="needs-translation">or</target>
+        <target state="translated">lub</target>
         <note>key: models.segments.segments.relation.or</note>
       </trans-unit>
       <trans-unit id="cef19fec93f89c5bd50590c425f3440098ad10a9" resname="models.segments.segments.status.active">
         <source>active</source>
-        <target state="needs-translation">active</target>
+        <target state="translated">aktywny</target>
         <note>key: models.segments.segments.status.active</note>
       </trans-unit>
       <trans-unit id="7139a6d1527401a966c419413ca5ed821f074b57" resname="models.segments.segments.status.inactive">
         <source>inactive</source>
-        <target state="needs-translation">inactive</target>
+        <target state="translated">nieaktywny</target>
         <note>key: models.segments.segments.status.inactive</note>
       </trans-unit>
       <trans-unit id="f3d714108e6a871e551229a2554d23866650d601" resname="models.segments.sidebar.empty.img">
@@ -2163,12 +2163,12 @@
       </trans-unit>
       <trans-unit id="957226291e073ca677e6d8832df124c10ca75005" resname="number.format.million_abbreviation">
         <source>M</source>
-        <target state="needs-translation">M</target>
+        <target state="translated"> mln</target>
         <note>key: number.format.million_abbreviation</note>
       </trans-unit>
       <trans-unit id="a0880a6e534e9e8274303ceca4e82de53c2894ce" resname="number.format.thousand_abbreviation">
         <source>K</source>
-        <target state="needs-translation">K</target>
+        <target state="translated"> tys</target>
         <note>key: number.format.thousand_abbreviation</note>
       </trans-unit>
       <trans-unit id="2450f91d0471b0d58b2328dbf2a6e8b4e8be3f63" resname="recommendation_engine_is_not_available">

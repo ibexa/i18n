@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="03002e3e9483870d40a0b546c3f958e8707a2300" resname="load.reviewers.error">
         <source>Can't load reviewer list</source>
-        <target state="needs-translation">Can't load reviewer list</target>
+        <target state="translated">Nie można załadować listy recenzentów</target>
         <note>key: load.reviewers.error</note>
       </trans-unit>
     </body>

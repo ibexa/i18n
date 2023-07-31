@@ -13,32 +13,32 @@
       </trans-unit>
       <trans-unit id="eba0da3aab2eda230b1843d6167e1d721346979b" resname="build.form">
         <source>Build form</source>
-        <target state="needs-translation">Build form</target>
+        <target state="translated">Zbuduj formularz</target>
         <note>key: build.form</note>
       </trans-unit>
       <trans-unit id="e3e94b5f80551cb49f285d818c8f59d7ad3d3903" resname="building.form">
         <source>Build form</source>
-        <target state="needs-translation">Build form</target>
+        <target state="translated">Zbuduj formularz</target>
         <note>key: building.form</note>
       </trans-unit>
       <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
         <source>Create your form.</source>
-        <target state="needs-translation">Create your form.</target>
+        <target state="translated">Utwórz formularz.</target>
         <note>key: create.form</note>
       </trans-unit>
       <trans-unit id="3f906d4d0bd35a175f501ab96fc7d4c2b2c3ec71" resname="drag.drop.call.to.action">
         <source>Create a form by dragging elements here</source>
-        <target state="needs-translation">Create a form by dragging elements here</target>
+        <target state="translated">Utwórz formularz przeciągając tutaj elementy</target>
         <note>key: drag.drop.call.to.action</note>
       </trans-unit>
       <trans-unit id="2f108f0f306c6aa52bad5f1569f8616dadc13918" resname="drag.drop.empty.zone.headline">
         <source>Build your form</source>
-        <target state="needs-translation">Build your form</target>
+        <target state="translated">Utwórz swój formularz</target>
         <note>key: drag.drop.empty.zone.headline</note>
       </trans-unit>
       <trans-unit id="a3a9c6fc7591e6a73154fe376ab3b569ec6297b8" resname="drag.drop.empty.zone.message">
         <source>Drag and drop item from library to build form</source>
-        <target state="needs-translation">Drag and drop item from library to build form</target>
+        <target state="translated">Przeciągnij i upuść element z biblioteki aby zbudować formularz</target>
         <note>key: drag.drop.empty.zone.message</note>
       </trans-unit>
       <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove" approved="yes">
@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="0afed63453cf94e289b83788d8051a84c0477de0" resname="form_builder.validator.regex.pattern.alpha">
         <source>Alphabets</source>
-        <target state="needs-translation">Alphabets</target>
+        <target state="translated">Alfabety</target>
         <note>key: form_builder.validator.regex.pattern.alpha</note>
       </trans-unit>
       <trans-unit id="71c3e1f8784415b29443d47570d96485d35675cd" resname="form_builder.validator.regex.pattern.custom">
         <source>Custom</source>
-        <target state="needs-translation">Custom</target>
+        <target state="translated">Niestandardowe</target>
         <note>key: form_builder.validator.regex.pattern.custom</note>
       </trans-unit>
       <trans-unit id="777511800f0e95bf9e666213cc65f4cd414f0488" resname="form_builder.validator.regex.pattern.none">
@@ -138,17 +138,17 @@
       </trans-unit>
       <trans-unit id="fcd82220602951cb309c6b53d8a1a5c85f241a21" resname="invalid.fields">
         <source>Not all the fields were configured correctly. Provide missing configuration.</source>
-        <target state="needs-translation">Not all the fields were configured correctly. Provide missing configuration.</target>
+        <target state="translated">Nie wszystkie pola zostały poprawnie skonfigurowane. Podaj brakującą konfigurację.</target>
         <note>key: invalid.fields</note>
       </trans-unit>
       <trans-unit id="0a01e36bbd3d88beacae4e0c3b9f79d8523c2daa" resname="moved.field.data.not.exists">
         <source>Moved field data does not exist.</source>
-        <target state="needs-translation">Moved field data does not exist.</target>
+        <target state="translated">Przeniesione pole danych nie istnieje.</target>
         <note>key: moved.field.data.not.exists</note>
       </trans-unit>
       <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
         <source>There are no fields in this form.</source>
-        <target state="needs-translation">There are no fields in this form.</target>
+        <target state="translated">Brak pól w tym formularzu.</target>
         <note>key: no.fields.in.form</note>
       </trans-unit>
       <trans-unit id="c40a2e3f1570ca5c4aa1cd2e068691ad1b7e52e2" resname="option.add">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="5d82996cbebc558c2732e513337c747a7d966f50" resname="option.headline">
         <source>Add option values</source>
-        <target state="needs-translation">Add option values</target>
+        <target state="translated">Dodaj wartości opcji</target>
         <note>key: option.headline</note>
       </trans-unit>
       <trans-unit id="e2ec5b398adced7f94883c30e3e73e58026ea12e" resname="redirecting" approved="yes">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="66fe51277fc59cd5cf5f56feaf51ccf873eedf4f" resname="select.content.item.headline">
         <source>Set up a Relation with one Item</source>
-        <target state="needs-translation">Set up a Relation with one Item</target>
+        <target state="translated">Ustaw relację z jednym elementem</target>
         <note>key: select.content.item.headline</note>
       </trans-unit>
       <trans-unit id="adeb39923f4d5d49076afb0685646baeb996b104" resname="select.content.item.info">
