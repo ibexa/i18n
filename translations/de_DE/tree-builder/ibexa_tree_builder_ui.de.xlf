@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="a1125450055f79e2d96dcdda9faa1072d74124f2" resname="actions.collapse_all">
         <source>Collapse all</source>
-        <target state="needs-translation">Collapse all</target>
+        <target state="translated">Alles zusammenbrechen</target>
         <note>key: actions.collapse_all</note>
       </trans-unit>
       <trans-unit id="86114ef28488e072f5328f84470b17ea4cd68e1d" resname="actions.copy">
