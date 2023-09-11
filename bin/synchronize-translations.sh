@@ -37,6 +37,7 @@ packages[shipping]=vendor/ibexa/shipping/src/bundle/Resources/translations
 packages[site-factory]=vendor/ibexa/site-factory/src/bundle/Resources/translations
 packages[segmentation]=vendor/ibexa/segmentation/src/bundle/Resources/translations
 packages[tree-builder]=vendor/ibexa/tree-builder/src/bundle/Resources/translations
+packages[rest]=vendor/ibexa/rest/src/bundle/Resources/translations
 packages[personalization]=vendor/ibexa/personalization/src/bundle/Resources/translations
 packages[cart]=vendor/ibexa/cart/src/bundle/Resources/translations
 packages[calendar]=vendor/ibexa/calendar/src/bundle/Resources/translations
