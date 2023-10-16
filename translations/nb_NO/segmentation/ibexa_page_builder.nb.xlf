@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="nb" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="b3d3426dfed8fca217e6162be7ea5693194e7c10" resname="block.segmentation.add">
+        <source>Add</source>
+        <target state="needs-translation">Add</target>
+        <note>key: block.segmentation.add</note>
+      </trans-unit>
+      <trans-unit id="bf38870aa8602b40015c50f7aae9f39a8a580dcb" resname="block.segmentation.label.content">
+        <source>Content</source>
+        <target state="needs-translation">Content</target>
+        <note>key: block.segmentation.label.content</note>
+      </trans-unit>
+      <trans-unit id="bdba43b4f6baeaefc73246f1933e3c7332444115" resname="block.segmentation.label.segment">
+        <source>Segment</source>
+        <target state="needs-translation">Segment</target>
+        <note>key: block.segmentation.label.segment</note>
+      </trans-unit>
+      <trans-unit id="3b19f63d1cb2b66e98542149bf055772eca3fd3d" resname="config_form.widgets.segmentation.udw.title">
+        <source>Select content</source>
+        <target state="needs-translation">Select content</target>
+        <note>key: config_form.widgets.segmentation.udw.title</note>
+      </trans-unit>
+      <trans-unit id="5002c27750f5445bb77859990aeeac8b9a6538e1" resname="segments.config_panel.more_button">
+        <source>More</source>
+        <target state="needs-translation">More</target>
+        <note>key: segments.config_panel.more_button</note>
+      </trans-unit>
+      <trans-unit id="dc92ad9147001702dc7997c3615d4ee244a943c4" resname="segments.config_panel.none_option.label">
+        <source>None</source>
+        <target state="needs-translation">None</target>
+        <note>key: segments.config_panel.none_option.label</note>
+      </trans-unit>
+      <trans-unit id="0d02f7c061f6d2fb3c38bad4b43ba4035486a0e6" resname="segments.config_panel.title">
+        <source>Segments</source>
+        <target state="needs-translation">Segments</target>
+        <note>key: segments.config_panel.title</note>
+      </trans-unit>
+      <trans-unit id="5b8a9a5fceb4991b77b50983c34df8a18a900a09" resname="select_location.error">
+        <source>Cannot find children Locations with ID %idList%</source>
+        <target state="needs-translation">Cannot find children Locations with ID %idList%</target>
+        <note>key: select_location.error</note>
+      </trans-unit>
+      <trans-unit id="9822444f9678d810cd6d3076721a7b9bcd124737" resname="targeted_content_map.no_configuration">
+        <source>No segments defined. Create Segments in the Admin panel to use this block.</source>
+        <target state="needs-translation">No segments defined. Create Segments in the Admin panel to use this block.</target>
+        <note>key: targeted_content_map.no_configuration</note>
+      </trans-unit>
+      <trans-unit id="4b70ae03eb9f3d1a03af779f706a9c4a22cc12b5" resname="visibility.action_btn.title">
+        <source>Visibility</source>
+        <target state="needs-translation">Visibility</target>
+        <note>key: visibility.action_btn.title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
