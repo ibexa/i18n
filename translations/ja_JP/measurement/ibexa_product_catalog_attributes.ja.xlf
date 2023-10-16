@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ja" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="11abd66e76f0f57f8515504c77608f533a674999" resname="measurement.name">
+        <source>Measurement (deprecated)</source>
+        <target state="needs-translation">Measurement (deprecated)</target>
+        <note>key: measurement.name</note>
+      </trans-unit>
+      <trans-unit id="9997aecbb7c5fca9074d214be56a822fae25a0ed" resname="measurement_range.name">
+        <source>Measurement (range)</source>
+        <target state="needs-translation">Measurement (range)</target>
+        <note>key: measurement_range.name</note>
+      </trans-unit>
+      <trans-unit id="3a51c5334faa2f7a4a37bb8cec861ba9beedc97e" resname="measurement_single.name">
+        <source>Measurement (single)</source>
+        <target state="needs-translation">Measurement (single)</target>
+        <note>key: measurement_single.name</note>
+      </trans-unit>
+      <trans-unit id="c81c5b47ca025e724b968f7f0d9b47334565d0fc" resname="product_catalog.attribute.ibexa_measurement.defaultRangeMinimumValue">
+        <source>Default Value</source>
+        <target state="needs-translation">Default Value</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.defaultRangeMinimumValue</note>
+      </trans-unit>
+      <trans-unit id="1ecf060ab5604be0f1f1c2f9bf9eb6707565090c" resname="product_catalog.attribute.ibexa_measurement.default_value">
+        <source>Default value</source>
+        <target state="needs-translation">Default value</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.default_value</note>
+      </trans-unit>
+      <trans-unit id="06f7b577c7efd6d098d97d69443d01e34a96ec1b" resname="product_catalog.attribute.ibexa_measurement.maximum">
+        <source>Maximum Value</source>
+        <target state="needs-translation">Maximum Value</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.maximum</note>
+      </trans-unit>
+      <trans-unit id="a23253007d4d5c51f0109ff665e169654b651dbc" resname="product_catalog.attribute.ibexa_measurement.measurement_input_type">
+        <source>Input Type</source>
+        <target state="needs-translation">Input Type</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_input_type</note>
+      </trans-unit>
+      <trans-unit id="989de1fbc8169d11e917adff660d5ec3977f4562" resname="product_catalog.attribute.ibexa_measurement.measurement_input_type.value.range">
+        <source>Range</source>
+        <target state="needs-translation">Range</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_input_type.value.range</note>
+      </trans-unit>
+      <trans-unit id="1585542db1db16405cadc22d0e490daf058707b3" resname="product_catalog.attribute.ibexa_measurement.measurement_input_type.value.simple">
+        <source>Simple Input</source>
+        <target state="needs-translation">Simple Input</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_input_type.value.simple</note>
+      </trans-unit>
+      <trans-unit id="2ff3452b951a880aacd153868935f40c7827b5cf" resname="product_catalog.attribute.ibexa_measurement.measurement_sign">
+        <source>Sign</source>
+        <target state="needs-translation">Sign</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign</note>
+      </trans-unit>
+      <trans-unit id="d9b8d5eb40a1f7c79be594010d298b2a4917f3f7" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.gt">
+        <source><![CDATA[> greater than]]></source>
+        <target state="needs-translation"><![CDATA[> greater than]]></target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.gt</note>
+      </trans-unit>
+      <trans-unit id="3146a31ae8f14a16e2bf410a8e3522c8f14af227" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.gte">
+        <source>≥ greater than or equal to</source>
+        <target state="needs-translation">≥ greater than or equal to</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.gte</note>
+      </trans-unit>
+      <trans-unit id="114e08f4e1a3034fbd1f189563fd8968cae24602" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.lt">
+        <source><![CDATA[< less than]]></source>
+        <target state="needs-translation"><![CDATA[< less than]]></target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.lt</note>
+      </trans-unit>
+      <trans-unit id="3172231e5a4a04d985cbd1eb95e784b128a5e8c6" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.lte">
+        <source>≤ less than or equal to</source>
+        <target state="needs-translation">≤ less than or equal to</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.lte</note>
+      </trans-unit>
+      <trans-unit id="0bb967a82b822a6c21fa66827fe902183c2c298a" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.none">
+        <source>none</source>
+        <target state="needs-translation">none</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.none</note>
+      </trans-unit>
+      <trans-unit id="12a7e2f084b9b82c67caf5f6379575af15d110e1" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.pm">
+        <source>± plus/minus</source>
+        <target state="needs-translation">± plus/minus</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.pm</note>
+      </trans-unit>
+      <trans-unit id="1a6a3b71027e294ee90147f0d441e4c1bd365eba" resname="product_catalog.attribute.ibexa_measurement.measurement_type">
+        <source>Measurement Type</source>
+        <target state="needs-translation">Measurement Type</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_type</note>
+      </trans-unit>
+      <trans-unit id="0976e619a23ccf05b8f6c4a2990ca9f9fbfbed21" resname="product_catalog.attribute.ibexa_measurement.measurement_unit">
+        <source>Base Unit</source>
+        <target state="needs-translation">Base Unit</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.measurement_unit</note>
+      </trans-unit>
+      <trans-unit id="8f1484a93a693b41876c0f6c9a1b5c068f17bed0" resname="product_catalog.attribute.ibexa_measurement.minimum">
+        <source>Minimum Value</source>
+        <target state="needs-translation">Minimum Value</target>
+        <note>key: product_catalog.attribute.ibexa_measurement.minimum</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
