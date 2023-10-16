@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="pt-PT" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="0f316440cb89c58d3fd1ff34782f83715909f602" resname="basic_information">
+        <source>Basic information</source>
+        <target state="needs-translation">Basic information</target>
+        <note>key: basic_information</note>
+      </trans-unit>
+      <trans-unit id="bc2c6f07dfa926df59e804c841049e5c44090e92" resname="billing_address">
+        <source>Billing address</source>
+        <target state="needs-translation">Billing address</target>
+        <note>key: billing_address</note>
+      </trans-unit>
+      <trans-unit id="71b21161ffa1e6516bcc072aaf5ef38cbe85b511" resname="company">
+        <source>Company</source>
+        <target state="needs-translation">Company</target>
+        <note>key: company</note>
+      </trans-unit>
+      <trans-unit id="9f33a7c798af6fd6abb28049d9c1b3edfa2fd24a" resname="internal">
+        <source>Internal</source>
+        <target state="needs-translation">Internal</target>
+        <note>key: internal</note>
+      </trans-unit>
+      <trans-unit id="6467baa3b187373e3931422e2a8ef22f3e447d77" resname="member">
+        <source>Member</source>
+        <target state="needs-translation">Member</target>
+        <note>key: member</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
