@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="7097c09e36067bb7d7c3b53aa21fca21a89e030c" resname="add.field.group">
+        <source>Add</source>
+        <target state="translated">Ajouter</target>
+        <note>key: add.field.group</note>
+      </trans-unit>
+      <trans-unit id="256dfe3478991ae080ce94b03e7a05d0eeba10f3" resname="delete.field.group">
+        <source>Delete</source>
+        <target state="translated">Supprimer</target>
+        <note>key: delete.field.group</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
