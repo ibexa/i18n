@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="a4a4af14149baeec06c2e212202b0e9b863e964c" resname="Could not find Page for '%identifier%'">
-        <source>Could not find Page for '%identifier%'</source>
-        <target state="translated">Impossibile trovare la pagina per "% identifier%"</target>
-        <note>key: Could not find Page for '%identifier%'</note>
-      </trans-unit>
       <trans-unit id="2c2ed6384cc0f144856a569e8420e413c2d06986" resname="landing_page_ft.settings.edit_mode.field_view">
         <source>Field view</source>
         <target state="needs-translation">Field view</target>
