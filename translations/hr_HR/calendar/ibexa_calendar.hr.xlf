@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="hr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="bf52e03de74c601f385e858268f03285e7d4df8e" resname="breadcrumb.calendar">
+        <source>Calendar</source>
+        <target state="needs-translation">Calendar</target>
+        <note>key: breadcrumb.calendar</note>
+      </trans-unit>
+      <trans-unit id="eaa605d0699f9a10367d5023476b8d0fc6499ec4" resname="calendar.view.title">
+        <source>Calendar</source>
+        <target state="needs-translation">Calendar</target>
+        <note>key: calendar.view.title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
