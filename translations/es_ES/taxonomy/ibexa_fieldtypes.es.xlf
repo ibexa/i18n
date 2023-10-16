@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="4ba5365c709d6167e9e56858c309a5e36503c0db" resname="ibexa_taxonomy_entry.name">
+        <source>Taxonomy Entry</source>
+        <target state="needs-translation">Taxonomy Entry</target>
+        <note>key: ibexa_taxonomy_entry.name</note>
+      </trans-unit>
+      <trans-unit id="e9cd68453303e92dbd7a3c81da9f41c556014dba" resname="ibexa_taxonomy_entry_assignment.name">
+        <source>Taxonomy Entry Assignment</source>
+        <target state="needs-translation">Taxonomy Entry Assignment</target>
+        <note>key: ibexa_taxonomy_entry_assignment.name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
