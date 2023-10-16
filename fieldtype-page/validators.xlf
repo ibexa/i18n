@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="6e67415bab373d3c039b95555fe5dd32b58ff488" resname="ezplatform.content.is_not_expected_content_container">
         <source>The selected Content item isn't a container.</source>
-        <target state="new">he selected Content item isn't a container.</target>
+        <target state="new">The selected Content item isn't a container.</target>
         <note>key: ezplatform.content.is_not_expected_content_container</note>
       </trans-unit>
       <trans-unit id="1ebd18b27bb58dd8d34bb3ad0da7162a5aec36ff" resname="ezplatform.content.is_not_expected_content_type">
