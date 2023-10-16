@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-US" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="4ff3eb43aa4a55f256abee7ac4351dce58fa1685" resname="back_to_current_time.info.text">
+        <source>Back to current time</source>
+        <target state="needs-translation">Back to current time</target>
+        <note>key: back_to_current_time.info.text</note>
+      </trans-unit>
+      <trans-unit id="258c0c6baf5618d7e07897b16e391bbfb59096d9" resname="back_to_current_time.warning.text">
+        <source>Previewing in the future</source>
+        <target state="needs-translation">Previewing in the future</target>
+        <note>key: back_to_current_time.warning.text</note>
+      </trans-unit>
+      <trans-unit id="de7248ddafdc4964d17e793da131caa059208be8" resname="timeline.calendar">
+        <source>Timeline calendar</source>
+        <target state="needs-translation">Timeline calendar</target>
+        <note>key: timeline.calendar</note>
+      </trans-unit>
+      <trans-unit id="a0bea7082c6e50c703558eab3141453ca1be8778" resname="timeline.close_btn">
+        <source>Close timeline</source>
+        <target state="needs-translation">Close timeline</target>
+        <note>key: timeline.close_btn</note>
+      </trans-unit>
+      <trans-unit id="d5554733563784c9682d71e6d1955fac70b4ed6e" resname="timeline.events_list_popup.toggler.label">
+        <source>Jump to event</source>
+        <target state="needs-translation">Jump to event</target>
+        <note>key: timeline.events_list_popup.toggler.label</note>
+      </trans-unit>
+      <trans-unit id="bb645c51a07d2c29a4cd8b3225ca5e0cddec45c5" resname="timeline.schedule.config_panel.hide_timeline">
+        <source>Hide timeline</source>
+        <target state="needs-translation">Hide timeline</target>
+        <note>key: timeline.schedule.config_panel.hide_timeline</note>
+      </trans-unit>
+      <trans-unit id="2e837c400344095b33750c4f5305b87b388a7bce" resname="timeline.schedule.config_panel.no_events.subtitle">
+        <source>Your events will show up here</source>
+        <target state="needs-translation">Your events will show up here</target>
+        <note>key: timeline.schedule.config_panel.no_events.subtitle</note>
+      </trans-unit>
+      <trans-unit id="f36348459221958214763321b25f9899ef4aa15f" resname="timeline.schedule.config_panel.no_events.title">
+        <source>No events</source>
+        <target state="needs-translation">No events</target>
+        <note>key: timeline.schedule.config_panel.no_events.title</note>
+      </trans-unit>
+      <trans-unit id="8f6dd4bd82aa0c42094385ba93e8998bd2330f0b" resname="timeline.schedule.config_panel.show_timeline">
+        <source>Show timeline</source>
+        <target state="needs-translation">Show timeline</target>
+        <note>key: timeline.schedule.config_panel.show_timeline</note>
+      </trans-unit>
+      <trans-unit id="84c5b195d7c9fed3675ac10835044f6ae3e98ee5" resname="timeline.schedule.config_panel.title">
+        <source>Schedule</source>
+        <target state="needs-translation">Schedule</target>
+        <note>key: timeline.schedule.config_panel.title</note>
+      </trans-unit>
+      <trans-unit id="1e9b15d69a542afb34c22bd16a43c1a9ad6d0b0d" resname="timeline.schedule.config_panel.view">
+        <source>View</source>
+        <target state="needs-translation">View</target>
+        <note>key: timeline.schedule.config_panel.view</note>
+      </trans-unit>
+      <trans-unit id="1110185ea564e8ec2566f1e060a3470a8f40b917" resname="timeline.schedule.config_panel.view_switcher.calendar_view">
+        <source>Calendar</source>
+        <target state="needs-translation">Calendar</target>
+        <note>key: timeline.schedule.config_panel.view_switcher.calendar_view</note>
+      </trans-unit>
+      <trans-unit id="69115608d5dab8c597d7749727bbe533055c7d55" resname="timeline.schedule.config_panel.view_switcher.list_view">
+        <source>List</source>
+        <target state="needs-translation">List</target>
+        <note>key: timeline.schedule.config_panel.view_switcher.list_view</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
