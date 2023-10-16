@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="6e0958c7a386a5288b6afc35c441dd0191473139" resname="user_invitation.send.reinvite">
+        <source>Reinvited '%email%'.</source>
+        <target state="needs-translation">Reinvited '%email%'.</target>
+        <note>key: user_invitation.send.reinvite</note>
+      </trans-unit>
+      <trans-unit id="d82351adba50084607015c8758b3e0890e91b5bf" resname="user_invitation.send.resend">
+        <source>Invitation to '%email%' resend.</source>
+        <target state="needs-translation">Invitation to '%email%' resend.</target>
+        <note>key: user_invitation.send.resend</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
