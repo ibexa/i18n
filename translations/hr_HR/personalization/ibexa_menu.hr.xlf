@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="hr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="92144f225024c826b6a6ae4ef637723d17193014" resname="main__personalization">
+        <source>Personalization</source>
+        <target state="needs-translation">Personalization</target>
+        <note>key: main__personalization</note>
+      </trans-unit>
+      <trans-unit id="b627800b4a0644f193458ef5b848d6643cd0f28a" resname="main__personalization__dashboard">
+        <source>Dashboard</source>
+        <target state="needs-translation">Dashboard</target>
+        <note>key: main__personalization__dashboard</note>
+      </trans-unit>
+      <trans-unit id="514366de7dcb2116c1200099d0d84bc1ccaac1b7" resname="main__personalization__import">
+        <source>Import</source>
+        <target state="needs-translation">Import</target>
+        <note>key: main__personalization__import</note>
+      </trans-unit>
+      <trans-unit id="fce4b533bf5d4046b33d2e97e8f44e7018d11bd5" resname="main__personalization__models">
+        <source>Models</source>
+        <target state="needs-translation">Models</target>
+        <note>key: main__personalization__models</note>
+      </trans-unit>
+      <trans-unit id="8157ef75749e4afbf647e1398c1f1c2883fbf6cc" resname="main__personalization__scenarios">
+        <source>Scenarios</source>
+        <target state="needs-translation">Scenarios</target>
+        <note>key: main__personalization__scenarios</note>
+      </trans-unit>
+      <trans-unit id="11617cd15d2e7484d395eb9d797a65e9c0ef0260" resname="model_edit__sidebar_right__close">
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
+        <note>key: model_edit__sidebar_right__close</note>
+      </trans-unit>
+      <trans-unit id="6bc82f75a31450fd71f04991c30b832ffadcc00d" resname="model_edit__sidebar_right__save">
+        <source>Save</source>
+        <target state="needs-translation">Save</target>
+        <note>key: model_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="ff2272b1d250c9040b35a76ff7396a956ec3339e" resname="model_edit__sidebar_right__save_and_close">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
+        <note>key: model_edit__sidebar_right__save_and_close</note>
+      </trans-unit>
+      <trans-unit id="90c78b58b852ede27b2e7b67f7d306ebed69a9a5" resname="model_edit__sidebar_right__trigger_model_build">
+        <source>Trigger model build</source>
+        <target state="needs-translation">Trigger model build</target>
+        <note>key: model_edit__sidebar_right__trigger_model_build</note>
+      </trans-unit>
+      <trans-unit id="7c86d8817e27d0e61eb405c75f8024d7694d6421" resname="scenario_create__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
+        <note>key: scenario_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="19238e1383ec8b3e2db4533ed268ded1d62a1586" resname="scenario_create__sidebar_right__create-and-close">
+        <source>Create</source>
+        <target state="needs-translation">Create</target>
+        <note>key: scenario_create__sidebar_right__create-and-close</note>
+      </trans-unit>
+      <trans-unit id="acbdba6c4b6a0a49b3a99bff7ff87c2071e1899e" resname="scenario_edit__sidebar_right__close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+        <note>key: scenario_edit__sidebar_right__close</note>
+      </trans-unit>
+      <trans-unit id="5a4d415304b5787e511bdab98e858dd019548f0e" resname="scenario_edit__sidebar_right__remove">
+        <source>Remove scenario</source>
+        <target state="needs-translation">Remove scenario</target>
+        <note>key: scenario_edit__sidebar_right__remove</note>
+      </trans-unit>
+      <trans-unit id="bcad1aec3e9381ddb625e287bceb33033752e5d3" resname="scenario_edit__sidebar_right__reset">
+        <source>Reset settings</source>
+        <target state="needs-translation">Reset settings</target>
+        <note>key: scenario_edit__sidebar_right__reset</note>
+      </trans-unit>
+      <trans-unit id="4e22a0aa9b06911cc8c7ac281fa43061ee6ab827" resname="scenario_edit__sidebar_right__save">
+        <source>Save</source>
+        <target state="needs-translation">Save</target>
+        <note>key: scenario_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="3127a9cb816f7ddfb33494e0ab080410fe374a18" resname="scenario_edit__sidebar_right__save_and_close">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
+        <note>key: scenario_edit__sidebar_right__save_and_close</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
