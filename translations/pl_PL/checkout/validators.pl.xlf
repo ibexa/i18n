@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="431995ad0effd3197cca1370076a1425608ed888" resname="ibexa.checkout.validator.product_has_changed">
         <source>Product "{{ productCode }}" has changed since order "{{ orderIdentifier }}" was placed.</source>
-        <target state="needs-translation">Product "{{ productCode }}" has changed since order "{{ orderIdentifier }}" was placed.</target>
+        <target state="translated">Produkt "{{ productCode }}" zmienił się od czasu złożenia zamówienia "{{ orderIdentifier }}".</target>
         <note>key: ibexa.checkout.validator.product_has_changed</note>
       </trans-unit>
     </body>
