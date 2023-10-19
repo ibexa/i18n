@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5c48ac36c2a46c2dc2a89fd4c91a2a3d684eb5d8" resname="tab.urls.action.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: tab.urls.action.add</note>
       </trans-unit>
       <trans-unit id="9b4504fd2e75dffb2c22283be3e9816e8142538a" resname="tab.urls.action.delete">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="c1277a6823f4d281355e706e54cd723b5ed4adf7" resname="tab.urls.add.root_location_id.helper_secondary">
         <source>If no SiteAccess selected, the alias will be placed at main root Location.</source>
-        <target state="needs-translation">If no SiteAccess selected, the alias will be placed at main root Location.</target>
+        <target state="translated">Jeśli pozostawisz pusty, alias zostanie umieszczony w główym katalogu lokalizacji.</target>
         <note>key: tab.urls.add.root_location_id.helper_secondary</note>
       </trans-unit>
       <trans-unit id="f933f01aef7b171904b5c0b1ed4327413828f96f" resname="tab.urls.add.site_access">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="0d3138c0198569f427ab4568fffa5d9d894db72a" resname="tab.urls.modal.message">
         <source>Delete the selected custom URL aliases permanently?</source>
-        <target state="needs-translation">Delete the selected custom URL aliases permanently?</target>
+        <target state="translated">Usunąć wybrane niestandardowe aliasy URL?</target>
         <note>key: tab.urls.modal.message</note>
       </trans-unit>
       <trans-unit id="56d218db883ed4cc59dbbca53364dc2e725013e4" resname="tab.urls.no_custom_urls">
@@ -103,12 +103,12 @@
       </trans-unit>
       <trans-unit id="61f03f8e307131c37fed1b46302b43efcc519d07" resname="tab.urls.no_custom_urls.action">
         <source>Add new custom URL aliases manually</source>
-        <target state="needs-translation">Add new custom URL aliases manually</target>
+        <target state="translated">Dodaj nowe niestandardowe aliasy URL ręcznie</target>
         <note>key: tab.urls.no_custom_urls.action</note>
       </trans-unit>
       <trans-unit id="c9fdd1434b44a4592626e8fe493c19141aab24d5" resname="tab.urls.no_system_urls">
         <source>This item has no system URLs.</source>
-        <target state="needs-translation">This item has no system URLs.</target>
+        <target state="translated">Ten element nie posiada systemowych adresów URL.</target>
         <note>key: tab.urls.no_system_urls</note>
       </trans-unit>
       <trans-unit id="902beb4ac170382cb95bd554cb1e763d8fdd413c" resname="tab.urls.system.title" approved="yes">
