@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
-        <target state="needs-translation">Admin</target>
+        <target state="translated">Admin</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
       <trans-unit id="35e8277cc95cf8aaf1e8e9ffcb5ea39e6502bbd0" resname="bundles">
@@ -48,17 +48,17 @@
       </trans-unit>
       <trans-unit id="ed1f723e05fbc74c1c90cfc6f64c2bcda6f4bb9d" resname="ibexa.eol">
         <source>End of life</source>
-        <target state="needs-translation">End of life</target>
+        <target state="translated">End of Life</target>
         <note>key: ibexa.eol</note>
       </trans-unit>
       <trans-unit id="4a9e6f9b28c3203784cb5f01ebe73e67661cc823" resname="ibexa.eom">
         <source>End of maintenance</source>
-        <target state="needs-translation">End of maintenance</target>
+        <target state="translated">End of Maintenance</target>
         <note>key: ibexa.eom</note>
       </trans-unit>
       <trans-unit id="804e14084add4426182add3b4a0a710506ef742b" resname="ibexa.is_trial">
         <source>Is trial</source>
-        <target state="needs-translation">Is trial</target>
+        <target state="translated">Wersja próbna</target>
         <note>key: ibexa.is_trial</note>
       </trans-unit>
       <trans-unit id="44a7ad63689c19af8aa173293e0da9e2055e4df9" resname="ibexa.is_trial.no">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="b7ffaa791bbf39db2ea700efec5362a0bc4e2021" resname="ibexa.name">
         <source>Edition</source>
-        <target state="needs-translation">Edition</target>
+        <target state="translated">Edycja</target>
         <note>key: ibexa.name</note>
       </trans-unit>
       <trans-unit id="d87becd0d1497fe04536d2e9291290a8b07e9dfb" resname="ibexa.product">
@@ -153,22 +153,22 @@
       </trans-unit>
       <trans-unit id="ca27c822aa4f52351a6a89150fc5ac970d052fca" resname="repository.content_types_count">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Typy treści</target>
         <note>key: repository.content_types_count</note>
       </trans-unit>
       <trans-unit id="f17704b4dda4d61ecc379a0960655f35c6abef2d" resname="repository.drafts_count">
         <source>Draft</source>
-        <target state="needs-translation">Draft</target>
+        <target state="translated">Szkic</target>
         <note>key: repository.drafts_count</note>
       </trans-unit>
       <trans-unit id="5cf8f6236aedc711f36f4ecc00f2366351ec9630" resname="repository.header.label.element">
         <source>Element</source>
-        <target state="needs-translation">Element</target>
+        <target state="translated">Element</target>
         <note>key: repository.header.label.element</note>
       </trans-unit>
       <trans-unit id="10f3b8bca9e42617f9413433d39bffb1f1406c27" resname="repository.header.label.number">
         <source>Number</source>
-        <target state="needs-translation">Number</target>
+        <target state="translated">Liczba</target>
         <note>key: repository.header.label.number</note>
       </trans-unit>
       <trans-unit id="b08856f94643075c9a7a13c29010d09165a28015" resname="repository.host">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="5de05c757e2ce051da58581c67074f5fa96fe424" resname="repository.published_content_objects_count">
         <source>Published content object</source>
-        <target state="needs-translation">Published content object</target>
+        <target state="translated">Liczba opublikowanych obiektów</target>
         <note>key: repository.published_content_objects_count</note>
       </trans-unit>
       <trans-unit id="b5b5d12b45fa443c42cf45488d124305c39df1d5" resname="repository.type">
@@ -198,12 +198,12 @@
       </trans-unit>
       <trans-unit id="2f9d49c355e4660fbb8cc89c39d048b53edc7e3c" resname="repository.users_count">
         <source>User</source>
-        <target state="needs-translation">User</target>
+        <target state="translated">Użytkownik</target>
         <note>key: repository.users_count</note>
       </trans-unit>
       <trans-unit id="6fdeb59a15d4eea938b956273b9944a5c483dd57" resname="repository.versions_count">
         <source>Version</source>
-        <target state="needs-translation">Version</target>
+        <target state="translated">Wersja</target>
         <note>key: repository.versions_count</note>
       </trans-unit>
       <trans-unit id="3e7aaa79601ad9b577f333a67d082c3752b7e357" resname="services">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="21ef9f0a078dbc4e4c45be12f1cfaf8a3864dfa7" resname="systeminfo">
         <source>System information</source>
-        <target state="needs-translation">System information</target>
+        <target state="translated">Informacje o systemie</target>
         <note>key: systeminfo</note>
       </trans-unit>
       <trans-unit id="a2a92e9d0e41ea4a14c99ab0f702d5df3ea017c3" resname="tab.name.composer">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="7dd1b2ca71037e00112dfe0297383f47c6904c77" resname="tab.name.ibexa">
         <source>Product</source>
-        <target state="needs-translation">Product</target>
+        <target state="translated">Produkt</target>
         <note>key: tab.name.ibexa</note>
       </trans-unit>
       <trans-unit id="b71f0d567a424182b8c83a6b90a262b29819241b" resname="tab.name.php">
