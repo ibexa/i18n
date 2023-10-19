@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="920f6a0525d6ba93ff83f46e22baa981ff0b483c" resname="policy.limitation.identifier.workflowstage">
         <source>Workflow Stage</source>
-        <target state="needs-translation">Workflow Stage</target>
+        <target state="translated">Etap przepływu pracy</target>
         <note>key: policy.limitation.identifier.workflowstage</note>
       </trans-unit>
       <trans-unit id="017b3370e919f545dbf4e889252c00419fde6fde" resname="policy.limitation.identifier.workflowtransition">
         <source>Workflow Transition</source>
-        <target state="needs-translation">Workflow Transition</target>
+        <target state="translated">Przejście do przepływu pracy</target>
         <note>key: policy.limitation.identifier.workflowtransition</note>
       </trans-unit>
     </body>
