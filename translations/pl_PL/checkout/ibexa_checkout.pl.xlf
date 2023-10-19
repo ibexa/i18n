@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="e45a509e781a9c664a58969ac5eba2b9bf2f824e" resname="ibexa_checkout.ui.billing_address.tax_id">
         <source>Tax ID</source>
-        <target state="needs-translation">Tax ID</target>
+        <target state="translated">NIP</target>
         <note>key: ibexa_checkout.ui.billing_address.tax_id</note>
       </trans-unit>
       <trans-unit id="3003a9eb739585d47b1e95eaacd3d6bb623c4416" resname="ibexa_checkout.ui.choose_payment_method.label">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="c616ef8f48dd5788641b051346d62f0084240f4c" resname="ibexa_checkout.ui.go_to.summary.label">
         <source>Go to summary</source>
-        <target state="needs-translation">Go to summary</target>
+        <target state="translated">Przejdź do podsumowania</target>
         <note>key: ibexa_checkout.ui.go_to.summary.label</note>
       </trans-unit>
       <trans-unit id="9fbb69dc0bfcbbbdf95cbcde81fb8cc7d98e5239" resname="ibexa_checkout.ui.go_to_payment_and_summary.label">
         <source>Go to payment and summary</source>
-        <target state="needs-translation">Go to payment and summary</target>
+        <target state="translated">Przejdź do płatności i podsumowanie</target>
         <note>key: ibexa_checkout.ui.go_to_payment_and_summary.label</note>
       </trans-unit>
       <trans-unit id="3b4c268ff8dddd4cc899b6b9d5e26f496cbfaae8" resname="ibexa_checkout.ui.go_to_payment_method.label">
