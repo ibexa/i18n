@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="7caaa79d36b0520845802cfa3f7ebcc94318115b" resname="content_type.action.copy">
         <source>Duplicate</source>
-        <target state="needs-translation">Duplicate</target>
+        <target state="translated">Duplikuj</target>
         <note>key: content_type.action.copy</note>
       </trans-unit>
       <trans-unit id="779646634b8d89b40f5abaa2ccd6107b300bf429" resname="content_type.action.edit" approved="yes">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
         <source>Content Type '%name%' cannot be copied.</source>
-        <target state="needs-translation">Content Type '%name%' cannot be copied.</target>
+        <target state="translated">Typ treści '%name%' nie może być skopiowany.</target>
         <note>key: content_type.copy.error</note>
       </trans-unit>
       <trans-unit id="31674753c7d944af06b98387a96ce93f36f6adb4" resname="content_type.copy.success">
         <source>Content Type '%name%' copied.</source>
-        <target state="needs-translation">Content Type '%name%' copied.</target>
+        <target state="translated">Typ treści '%name%' skopiowany.</target>
         <note>key: content_type.copy.success</note>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create" approved="yes">
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
         <source>Enable %type% for this Content Type</source>
-        <target state="needs-translation">Enable %type% for this Content Type</target>
+        <target state="translated">Włącz %type% dla tego typu treści</target>
         <note>key: meta.enabled</note>
       </trans-unit>
       <trans-unit id="fd1286353570c5703799ba76999323b7c7447b06" resname="no">
