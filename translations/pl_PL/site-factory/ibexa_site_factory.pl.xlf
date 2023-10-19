@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
-        <target state="needs-translation">Admin</target>
+        <target state="translated">Admin</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: delete</note>
       </trans-unit>
       <trans-unit id="8a848dd69c514b773958b84bc5973ce638a8c0c3" resname="edit_site">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="f2b182ac0f78d68d059e24c6d0364dac9bba1f79" resname="site.action.domain">
         <source>Open link in browser</source>
-        <target state="needs-translation">Open link in browser</target>
+        <target state="translated">Otwórz link w przeglądarce</target>
         <note>key: site.action.domain</note>
       </trans-unit>
       <trans-unit id="ee77ac5c5ffd206c915b52de8934529284cc6576" resname="site.action.root">
@@ -113,27 +113,27 @@
       </trans-unit>
       <trans-unit id="81bd5dd3c979d2e3105c77611ce12b16882c4c19" resname="site.label.actions">
         <source>Actions</source>
-        <target state="needs-translation">Actions</target>
+        <target state="translated">Akcje</target>
         <note>key: site.label.actions</note>
       </trans-unit>
       <trans-unit id="d578e1f85cbd8df68aebb09e488a60d2869f467e" resname="site.label.created">
         <source>Created date</source>
-        <target state="needs-translation">Created date</target>
+        <target state="translated">Data utworzenia</target>
         <note>key: site.label.created</note>
       </trans-unit>
       <trans-unit id="b1d61ef9df17aed58ac638a002b77ae0339315bc" resname="site.label.domains">
         <source>Domains</source>
-        <target state="needs-translation">Domains</target>
+        <target state="translated">Domeny</target>
         <note>key: site.label.domains</note>
       </trans-unit>
       <trans-unit id="2e615a5fd6dfb27060236fbda119f04a58b5fcc0" resname="site.label.main_languages">
         <source>Main languages</source>
-        <target state="needs-translation">Main languages</target>
+        <target state="translated">Główne języki</target>
         <note>key: site.label.main_languages</note>
       </trans-unit>
       <trans-unit id="28f4324b209c4a68dd684a336b5efc5e38119262" resname="site.label.name">
         <source>Site name</source>
-        <target state="needs-translation">Site name</target>
+        <target state="translated">Tytuł strony</target>
         <note>key: site.label.name</note>
       </trans-unit>
       <trans-unit id="6c045a143a764bfdd04985e957bb1b9cbef43b9f" resname="site.list">
@@ -143,12 +143,12 @@
       </trans-unit>
       <trans-unit id="d6f2b314ec4b5a99492d686dd9bb96692c20b093" resname="site.list.action.delete">
         <source>Delete Site</source>
-        <target state="needs-translation">Delete Site</target>
+        <target state="translated">Usuń witrynę</target>
         <note>key: site.list.action.delete</note>
       </trans-unit>
       <trans-unit id="cf96c20090b52044fbadd8f5c5bfd54e7f028340" resname="site.list.cannot_delete_notice">
         <source>You cannot delete active sites.</source>
-        <target state="needs-translation">You cannot delete active sites.</target>
+        <target state="translated">Nie możesz usunąć aktywnych witryn.</target>
         <note>key: site.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="89d0c7b6270f68d1a44de718c59a3d8b63b9cd5f" resname="site.list.create">
@@ -158,17 +158,17 @@
       </trans-unit>
       <trans-unit id="6283b1a55392feb5035f4362b61a96b263728164" resname="site.list.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: site.list.delete</note>
       </trans-unit>
       <trans-unit id="9c4befbbe23d5f95db84568be39e30a6c9479881" resname="site.list.no_sites">
         <source>-</source>
-        <target state="needs-translation">-</target>
+        <target state="translated">-</target>
         <note>key: site.list.no_sites</note>
       </trans-unit>
       <trans-unit id="f2f1dd53787cf1ab3289b6c1f1aa4c9b0ead41e4" resname="site.locked">
         <source>Edit the site in config files</source>
-        <target state="needs-translation">Edit the site in config files</target>
+        <target state="translated">Edytuj witrynę w plikach konfiguracyjnych</target>
         <note>key: site.locked</note>
       </trans-unit>
       <trans-unit id="8b94081bbe2854988afb5e47ea8362219f08942e" resname="site.modal.delete.message">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="fd695d5f1aa4bd7efd0ac256a6cfe7b2de8618f9" resname="site.modal.message">
         <source>Do you want to delete the Site(s)?</source>
-        <target state="needs-translation">Do you want to delete the Site(s)?</target>
+        <target state="translated">Czy chcesz usunąć witryny?</target>
         <note>key: site.modal.message</note>
       </trans-unit>
       <trans-unit id="5369420ba17d5d62a4ebebfade4873d2b82cf591" resname="site.update.success">
@@ -188,17 +188,17 @@
       </trans-unit>
       <trans-unit id="224958e1c5cbe332ebc239e5083a14036407323d" resname="site.view.add_domains">
         <source>Add domains</source>
-        <target state="needs-translation">Add domains</target>
+        <target state="translated">Dodaj domenę</target>
         <note>key: site.view.add_domains</note>
       </trans-unit>
       <trans-unit id="e9480475bf75134fde3504b523de2f8e2971f9d7" resname="site.view.add_new_domain">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Dodaj</target>
         <note>key: site.view.add_new_domain</note>
       </trans-unit>
       <trans-unit id="fb67639d775ccef0abfcb2033c503519e40cf113" resname="site.view.create.access.label">
         <source>Domain name</source>
-        <target state="needs-translation">Domain name</target>
+        <target state="translated">Nazwa domeny</target>
         <note>key: site.view.create.access.label</note>
       </trans-unit>
       <trans-unit id="54c847d70c86d68aa2a4c739cc3380d5082ceb15" resname="site.view.create.global_properties">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="87251807b10d307d313a1b078390e5dd78537d5e" resname="site.view.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: site.view.delete</note>
       </trans-unit>
       <trans-unit id="d65595de6f19312712dcec874774aed93c745ce8" resname="site.view.edit.choose_language">
@@ -278,7 +278,7 @@
       </trans-unit>
       <trans-unit id="29a25045cc2d91fa13ec36cff92985570ae4ba43" resname="site.view_switcher.view">
         <source>View</source>
-        <target state="needs-translation">View</target>
+        <target state="translated">Widok</target>
         <note>key: site.view_switcher.view</note>
       </trans-unit>
     </body>
