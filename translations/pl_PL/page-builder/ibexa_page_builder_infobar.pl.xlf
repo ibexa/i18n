@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="3cd2629de3e6baae6395f4a2e30702380db52c39" resname="infobar.timeline">
         <source>Schedule</source>
-        <target state="needs-translation">Schedule</target>
+        <target state="translated">Harmonogram</target>
         <note>key: infobar.timeline</note>
       </trans-unit>
       <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add">
         <source>Add translation</source>
-        <target state="needs-translation">Add translation</target>
+        <target state="translated">Dodaj tłumaczenie</target>
         <note>key: infobar.translation.add</note>
       </trans-unit>
       <trans-unit id="60ccc34e85fea1e10d1340926cd10d2d692e75b3" resname="infobar.translation.no_fallback_language" approved="yes">
