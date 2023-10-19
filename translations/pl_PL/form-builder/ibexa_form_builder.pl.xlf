@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="e3e94b5f80551cb49f285d818c8f59d7ad3d3903" resname="building.form">
         <source>Building form</source>
-        <target state="needs-translation">Building form</target>
+        <target state="translated">Zbuduj formularz</target>
         <note>key: building.form</note>
       </trans-unit>
       <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
