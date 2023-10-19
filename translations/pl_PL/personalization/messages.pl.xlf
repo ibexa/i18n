@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="99b247413362b7dc6eb69a76ed96b9d6421fcf43" resname="scenario.edit.boost_item.positions">
         <source>positions</source>
-        <target state="needs-translation">positions</target>
+        <target state="translated">pozycja</target>
         <note>key: scenario.edit.boost_item.positions</note>
       </trans-unit>
       <trans-unit id="d6d9cb1457e10f9fd7f647869f142cf41c1f7eb2" resname="scenario.edit.exclude_minimal_item_price">
