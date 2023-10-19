@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="daae0a566e88afb5ab3cabfbc2cf570bc1d00087" resname="modal.discard.header">
         <source>Are you sure you want to cancel the publication of the selected content?</source>
-        <target state="needs-translation">Are you sure you want to cancel the publication of the selected content?</target>
+        <target state="translated">Czy na pewno chcesz anulować publikację wybranej treści?</target>
         <note>key: modal.discard.header</note>
       </trans-unit>
       <trans-unit id="d4c0952a328cbef394d7555e1d0b7de8e15309d8" resname="modal.discard.table.event.label">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="e1a3b25d2c19e1d9ed8e6af7b4e5187a793f2bfd" resname="modal.future_hide.discard.header">
         <source>Are you sure you want to cancel the hide of the selected content?</source>
-        <target state="needs-translation">Are you sure you want to cancel the hide of the selected content?</target>
+        <target state="translated">Czy na pewno chcesz anulować ukrycie wybranej zawartości?</target>
         <note>key: modal.future_hide.discard.header</note>
       </trans-unit>
       <trans-unit id="1a2f2d6804fcdcb1c6303601f113fb57f53b13e0" resname="modal.future_hide.discard.table.event.label">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="8273c51c9fe29e93d52f8ca01e3866ab99c50e1f" resname="modal.future_hide.reschedule.header">
         <source>Reschedule hide</source>
-        <target state="needs-translation">Reschedule hide</target>
+        <target state="translated">Zmień harmonogram ukrycia</target>
         <note>key: modal.future_hide.reschedule.header</note>
       </trans-unit>
       <trans-unit id="4feddda3ea92d0dfe185e404d947f995ce63e6a9" resname="modal.reschedule.button.cancel.label">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="4159d061bfaf75e9176056da9d23dd7cc84c0384" resname="modal.reschedule.button.confirm.label">
         <source>Confirm rescheduling</source>
-        <target state="needs-translation">Confirm rescheduling</target>
+        <target state="translated">Potwierdź zmianę harmonogramu</target>
         <note>key: modal.reschedule.button.confirm.label</note>
       </trans-unit>
       <trans-unit id="fc49c887310579624a70c278ba3165543b062fb8" resname="modal.reschedule.date_picker.label">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="08e266144cfe7944b220247a8643ac5261e0a400" resname="modal.reschedule.header">
         <source>Reschedule publication</source>
-        <target state="needs-translation">Reschedule publication</target>
+        <target state="translated">Zmień harmonogram publikacji</target>
         <note>key: modal.reschedule.header</note>
       </trans-unit>
       <trans-unit id="f48c4e472bd9e86a066060225f621949424f2b81" resname="reschedule.error.message">
@@ -158,12 +158,12 @@
       </trans-unit>
       <trans-unit id="efe280f52ff7d384892d51a05ca8fe577ab73d78" resname="unschedule.error.message">
         <source>Cannot cancel selected publication(s)</source>
-        <target state="needs-translation">Cannot cancel selected publication(s)</target>
+        <target state="translated">Nie można anulować wybranych publikacji</target>
         <note>key: unschedule.error.message</note>
       </trans-unit>
       <trans-unit id="77eef3d0eaf019da502760210df92d209f23bcd6" resname="unschedule.future_hide.error.message">
         <source>Cannot cancel selected hide(s)</source>
-        <target state="needs-translation">Cannot cancel selected hide(s)</target>
+        <target state="translated">Nie można anulować wybranych ukryć</target>
         <note>key: unschedule.future_hide.error.message</note>
       </trans-unit>
     </body>
