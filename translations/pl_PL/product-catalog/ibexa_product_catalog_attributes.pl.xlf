@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="d210b6a7ee1a56a8a515426ef37a53db971068b7" resname="selection.name">
         <source>Selection</source>
-        <target state="needs-translation">Selection</target>
+        <target state="translated">Wybór</target>
         <note>key: selection.name</note>
       </trans-unit>
     </body>
