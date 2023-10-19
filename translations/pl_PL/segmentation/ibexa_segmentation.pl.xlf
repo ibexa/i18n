@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
-        <target state="needs-translation">Admin</target>
+        <target state="translated">Admin</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
       <trans-unit id="473691bfe0ea27b58d9054fc54b64411d72cf974" resname="change.content">
@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="0c13dd5fadc3aee3d6e71563202f46f75f8b9dcd" resname="segment_group.view.segment_bulk_delete.modal.message">
         <source>Do you want to delete the Segments?</source>
-        <target state="needs-translation">Do you want to delete the Segments?</target>
+        <target state="translated">Czy chcesz usunąć Segmenty?</target>
         <note>key: segment_group.view.segment_bulk_delete.modal.message</note>
       </trans-unit>
       <trans-unit id="321ebffb584bc412cd9ba377d9f0a78f7de48ccc" resname="segment_group.view.segments.action.delete">
