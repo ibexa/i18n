@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="90c78b58b852ede27b2e7b67f7d306ebed69a9a5" resname="model_edit__sidebar_right__trigger_model_build">
         <source>Trigger model build</source>
-        <target state="needs-translation">Trigger model build</target>
+        <target state="translated">Wyzwalacz budowy modelu</target>
         <note>key: model_edit__sidebar_right__trigger_model_build</note>
       </trans-unit>
       <trans-unit id="7c86d8817e27d0e61eb405c75f8024d7694d6421" resname="scenario_create__sidebar_right__cancel">
