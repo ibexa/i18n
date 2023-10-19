@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="a8c78354005b82690d25244c10c2914d1c7cc620" resname="ibexa_notifications">
         <source>Notifications</source>
-        <target state="needs-translation">Notifications</target>
+        <target state="translated">Powiadomienia</target>
         <note>key: ibexa_notifications</note>
       </trans-unit>
       <trans-unit id="2e6761d0506e8b330fe5e2350a82f7e2e74b13ee" resname="menu.notification" approved="yes">
