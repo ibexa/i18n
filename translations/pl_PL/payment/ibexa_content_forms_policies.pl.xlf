@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="650d542741c17c1f5dc3ab825b4001db00c8781a" resname="policy.limitation.identifier.paymentowner">
         <source>Payment Owner</source>
-        <target state="needs-translation">Payment Owner</target>
+        <target state="translated">Właściciel płatności</target>
         <note>key: policy.limitation.identifier.paymentowner</note>
       </trans-unit>
     </body>
