@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="8522985ba99235f18afed6ef6947effccaecd065" resname="main__commerce">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">E-commerce</target>
         <note>key: main__commerce</note>
       </trans-unit>
       <trans-unit id="a73f66554f47b3fd758151ea8349ed255c6d3717" resname="main__commerce__orders">
