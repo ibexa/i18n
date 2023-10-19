@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2cbdbd8a31d4b7f5b991f1a3b35814051b24d77e" resname="submission.delete.success">
         <source>Removed submission from '%name%'.</source>
-        <target state="needs-translation">Removed submission from '%name%'.</target>
+        <target state="translated">Usunięto wersję(e) z '%name%'.</target>
         <note>key: submission.delete.success</note>
       </trans-unit>
       <trans-unit id="6e2039400ce3ef8466238211710d65725846940b" resname="submissions.details.header" approved="yes">
@@ -18,22 +18,22 @@
       </trans-unit>
       <trans-unit id="872e093ee76ab96665db76573be0e773b9c989af" resname="tab.submissions.action.delete">
         <source>Delete submission</source>
-        <target state="needs-translation">Delete submission</target>
+        <target state="translated">Usuń zgłoszenie</target>
         <note>key: tab.submissions.action.delete</note>
       </trans-unit>
       <trans-unit id="c98a82f0c02be7b3a9958a2fc08326f8dc464edf" resname="tab.submissions.download">
         <source>Download submissions</source>
-        <target state="needs-translation">Download submissions</target>
+        <target state="translated">Pobierz odpowiedzi</target>
         <note>key: tab.submissions.download</note>
       </trans-unit>
       <trans-unit id="2f12976349f9817982b345a27697cf260579dcd4" resname="tab.submissions.modal.message">
         <source>Do you want to delete the submission(s)?</source>
-        <target state="needs-translation">Do you want to delete the submission(s)?</target>
+        <target state="translated">Czy chcesz usunąć odpowiedź?</target>
         <note>key: tab.submissions.modal.message</note>
       </trans-unit>
       <trans-unit id="9d6392988953776a755089a0d93dae4512cb2758" resname="tab.submissions.no_submissions">
         <source>This form has no submissions.</source>
-        <target state="needs-translation">This form has no submissions.</target>
+        <target state="translated">Ten element nie ma odpowiedzi.</target>
         <note>key: tab.submissions.no_submissions</note>
       </trans-unit>
       <trans-unit id="6039d73f32eecd317821da4068d559bedf487549" resname="tab.submissions.submissions" approved="yes">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
         <source>View submission</source>
-        <target state="needs-translation">View submission</target>
+        <target state="translated">Zobacz odpowiedź</target>
         <note>key: tab.versions.table.action.draft.edit</note>
       </trans-unit>
     </body>
