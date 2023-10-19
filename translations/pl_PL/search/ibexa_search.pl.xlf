@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
         <source>Viewing %viewing% out of %total% items</source>
-        <target state="needs-translation">Viewing %viewing% out of %total% items</target>
+        <target state="translated">%viewing% z %total% elementów</target>
         <note>key: pagination.viewing</note>
       </trans-unit>
       <trans-unit id="2c0d71c1688c1f04ff156bb9dff167ca5ae663b6" resname="search.any.content.type">
