@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="165bc69608e9381d80c19d35528f634dd226955a" resname="ibexa.segmentation.validator.segment_group_unique_identifier">
         <source>Segment Group identifier "{{ identifier }}" is not unique</source>
-        <target state="needs-translation">Segment Group identifier "{{ identifier }}" is not unique</target>
+        <target state="translated">Identyfikator grupy grup "{{ identifier }}" nie jest unikalny</target>
         <note>key: ibexa.segmentation.validator.segment_group_unique_identifier</note>
       </trans-unit>
       <trans-unit id="7fc43a432ed845c07508ca856b12d0e5b36a6452" resname="ibexa.segmentation.validator.segment_unique_identifier">
         <source>Segment identifier "{{ identifier }}" is not unique</source>
-        <target state="needs-translation">Segment identifier "{{ identifier }}" is not unique</target>
+        <target state="translated">Identyfikator segmentu "{{ identifier }}" nie jest unikalny</target>
         <note>key: ibexa.segmentation.validator.segment_unique_identifier</note>
       </trans-unit>
     </body>
