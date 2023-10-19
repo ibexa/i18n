@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="8f1484a93a693b41876c0f6c9a1b5c068f17bed0" resname="product_catalog.attribute.ibexa_measurement.minimum">
         <source>Minimum Value</source>
-        <target state="needs-translation">Minimum Value</target>
+        <target state="translated">Wartość minimalna</target>
         <note>key: product_catalog.attribute.ibexa_measurement.minimum</note>
       </trans-unit>
     </body>
