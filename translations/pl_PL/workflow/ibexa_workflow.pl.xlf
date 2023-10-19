@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="40824da1203ecd7402887434c46c4107d02f85d7" resname="content.unlock.request">
         <source>Unlock request</source>
-        <target state="needs-translation">Unlock request</target>
+        <target state="translated">Odblokuj żądanie</target>
         <note>key: content.unlock.request</note>
       </trans-unit>
       <trans-unit id="c682e81e5f634fa80a21c654aa254f8aea97eb59" resname="content_edit.component.events">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="03b3eebd6de51e6ab83ae31dd89afb4be4d487aa" resname="dashboard.tab.my_drafts_under_review.empty">
         <source>There is no content to review.</source>
-        <target state="needs-translation">There is no content to review.</target>
+        <target state="translated">Brak treści do przejrzenia.</target>
         <note>key: dashboard.tab.my_drafts_under_review.empty</note>
       </trans-unit>
       <trans-unit id="af4a30229997bc086a9e66b1d3551c98a07b6fad" resname="dashboard.tab.my_drafts_under_review.empty.action_text">
         <source>Content items which you or your User group can review will show up here.</source>
-        <target state="needs-translation">Content items which you or your User group can review will show up here.</target>
+        <target state="translated">Treści które możesz przejrzeć Ty lub twoja grupy użytkowników pojawią się tutaj.</target>
         <note>key: dashboard.tab.my_drafts_under_review.empty.action_text</note>
       </trans-unit>
       <trans-unit id="a878bd15386bacea4af5e3356c731640710d3618" resname="dashboard.table.activity">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="06db78bf8a5c250a54b5915335ca8b37b04ef7d1" resname="draft.edit.locked">
         <source>This content is now assigned to you for review. It will unlock when you exit this screen.</source>
-        <target state="needs-translation">This content is now assigned to you for review. It will unlock when you exit this screen.</target>
+        <target state="translated">Ta zawartość jest teraz przypisana do sprawdzenia. Zostanie odblokowana, gdy opuścisz ten ekran.</target>
         <note>key: draft.edit.locked</note>
       </trans-unit>
       <trans-unit id="d9842006a04cc421f6c53ae0a7a7ae74e4d41f7c" resname="draft.edit.locked.notification">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="03002e3e9483870d40a0b546c3f958e8707a2300" resname="load.reviewers.error">
         <source>Can't load reviewer list</source>
-        <target state="needs-translation">Can't load reviewer list</target>
+        <target state="translated">Nie można załadować listy recenzentów</target>
         <note>key: load.reviewers.error</note>
       </trans-unit>
       <trans-unit id="ce7ec27cb7ed669df0c7863ccf9d7059b804bbeb" resname="location_view.tab.versions.column.workflow">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="2be785be35c3a8f0ade224cfa68292614a943d78" resname="workflow.list.empty">
         <source>No workflows configured. All workflows will show up here.</source>
-        <target state="needs-translation">No workflows configured. All workflows will show up here.</target>
+        <target state="translated">Nie skonfigurowano przepływu pracy. Wszystkie przepływy pracy pojawią się tutaj.</target>
         <note>key: workflow.list.empty</note>
       </trans-unit>
       <trans-unit id="80d070fe8257420d8f890afbf18c47475f7ddc24" resname="workflow.list.limitations">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="0ce5b99c4ebf3a06b4291b9cc7587a01c0c54a73" resname="workflow.view.content_list.table.empty">
         <source>There is no content to review. Content items to review in the %stageName% stage will show up here.</source>
-        <target state="needs-translation">There is no content to review. Content items to review in the %stageName% stage will show up here.</target>
+        <target state="translated">Brak treści do sprawdzenia. Elementy zawartości do przejrzenia na etapie %stageName% pojawią się tutaj.</target>
         <note>key: workflow.view.content_list.table.empty</note>
       </trans-unit>
       <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
         <source>Content in %stageName% stage (%count%)</source>
-        <target state="needs-translation">Content in %stageName% stage (%count%)</target>
+        <target state="translated">Treść(i) na etapie %stageName% (%count%)</target>
         <note>key: workflow.view.content_list.table.title</note>
       </trans-unit>
       <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="2852fd5a9fd7bc497fa5fe26d6f0f0ad3cb0cdf4" resname="workflow.view.tab.content_list">
         <source>Content under review</source>
-        <target state="needs-translation">Content under review</target>
+        <target state="translated">Przesłano do recenzji</target>
         <note>key: workflow.view.tab.content_list</note>
       </trans-unit>
       <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
