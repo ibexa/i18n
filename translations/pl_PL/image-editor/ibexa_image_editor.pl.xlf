@@ -13,147 +13,147 @@
       </trans-unit>
       <trans-unit id="4294334bff13b551ac9192cabbaa9440a7f80ff2" resname="ibexa_image_editor">
         <source>Image Editor</source>
-        <target state="needs-translation">Image Editor</target>
+        <target state="translated">Edytor obrazów</target>
         <note>key: ibexa_image_editor</note>
       </trans-unit>
       <trans-unit id="3a84d148e1d745c9197d33618b721e38a8de7add" resname="image_editor.actions.crop.abbreviation.height">
         <source>H</source>
-        <target state="needs-translation">H</target>
+        <target state="translated">H</target>
         <note>key: image_editor.actions.crop.abbreviation.height</note>
       </trans-unit>
       <trans-unit id="0e2b79d0b2ca4229dfbe407adce8886f1d08d3fc" resname="image_editor.actions.crop.abbreviation.width">
         <source>W</source>
-        <target state="needs-translation">W</target>
+        <target state="translated">W</target>
         <note>key: image_editor.actions.crop.abbreviation.width</note>
       </trans-unit>
       <trans-unit id="efd41cbbf18ffdfc6f3aecfaa153d463e922ed46" resname="image_editor.actions.crop.crop_size">
         <source>Crop size</source>
-        <target state="needs-translation">Crop size</target>
+        <target state="translated">Wielkość przycinania</target>
         <note>key: image_editor.actions.crop.crop_size</note>
       </trans-unit>
       <trans-unit id="51c96b0d9b8e984c453b7a759bd7101775ff1e85" resname="image_editor.actions.crop.label">
         <source>Crop</source>
-        <target state="needs-translation">Crop</target>
+        <target state="translated">Kadruj</target>
         <note>key: image_editor.actions.crop.label</note>
       </trans-unit>
       <trans-unit id="843ae8783a9e710b7821363d582890cde2c8bfae" resname="image_editor.actions.crop.ratio">
         <source>Ratio</source>
-        <target state="needs-translation">Ratio</target>
+        <target state="translated">Proporcje</target>
         <note>key: image_editor.actions.crop.ratio</note>
       </trans-unit>
       <trans-unit id="15ed133ec163074eb0f215eb45e84294e8f150d3" resname="image_editor.actions.crop.warning">
         <source>Adjust the focal point, crop might change its parameters</source>
-        <target state="needs-translation">Adjust the focal point, crop might change its parameters</target>
+        <target state="translated">Dostosuj punkt centralny, przycinanie może zmienić jego parametry</target>
         <note>key: image_editor.actions.crop.warning</note>
       </trans-unit>
       <trans-unit id="134b698047fe264a2a211c55f0471ff12a299c58" resname="image_editor.actions.flip.horizontal">
         <source>Horizontal</source>
-        <target state="needs-translation">Horizontal</target>
+        <target state="translated">Poziomo</target>
         <note>key: image_editor.actions.flip.horizontal</note>
       </trans-unit>
       <trans-unit id="8150fac19adea2fc1a9372b10c3ddc111796bc48" resname="image_editor.actions.flip.label">
         <source>Flip</source>
-        <target state="needs-translation">Flip</target>
+        <target state="translated">Odbij</target>
         <note>key: image_editor.actions.flip.label</note>
       </trans-unit>
       <trans-unit id="eae77c9127c6bf6971c8dd47f8fe5ae209da9aa3" resname="image_editor.actions.flip.vertical">
         <source>Vertical</source>
-        <target state="needs-translation">Vertical</target>
+        <target state="translated">Pionowo</target>
         <note>key: image_editor.actions.flip.vertical</note>
       </trans-unit>
       <trans-unit id="9219cc19507469abbd8222ab2d769a5509fd00f9" resname="image_editor.actions.focal_point.abbreviation.position_x">
         <source>X</source>
-        <target state="needs-translation">X</target>
+        <target state="translated">X</target>
         <note>key: image_editor.actions.focal_point.abbreviation.position_x</note>
       </trans-unit>
       <trans-unit id="ad7f4690be5c73361e2a2ed13628fdc5ae911137" resname="image_editor.actions.focal_point.abbreviation.position_y">
         <source>Y</source>
-        <target state="needs-translation">Y</target>
+        <target state="translated">Y</target>
         <note>key: image_editor.actions.focal_point.abbreviation.position_y</note>
       </trans-unit>
       <trans-unit id="2203c32d4bb3070d4a0162b68ef729f3c62b7100" resname="image_editor.actions.focal_point.label">
         <source>Focal point</source>
-        <target state="needs-translation">Focal point</target>
+        <target state="translated">Punkt centralny</target>
         <note>key: image_editor.actions.focal_point.label</note>
       </trans-unit>
       <trans-unit id="4eb81bfd61541fc302852a9551f10a21d095cc06" resname="image_editor.actions.focal_point.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">Usuń</target>
         <note>key: image_editor.actions.focal_point.remove</note>
       </trans-unit>
       <trans-unit id="da83bd9dc2bb70378a6d992e1ec5afb537d6c0f1" resname="image_editor.actions.focal_point.settings.title">
         <source>Position</source>
-        <target state="needs-translation">Position</target>
+        <target state="translated">Pozycja</target>
         <note>key: image_editor.actions.focal_point.settings.title</note>
       </trans-unit>
       <trans-unit id="776866961a1df295f28beb7397126b4f6a412ed1" resname="image_editor.actions.focal_point.show">
         <source>Show point</source>
-        <target state="needs-translation">Show point</target>
+        <target state="translated">Pokaż punkt</target>
         <note>key: image_editor.actions.focal_point.show</note>
       </trans-unit>
       <trans-unit id="07a21b5880f85bd6bac3ce4fb386416a791839bf" resname="image_editor.apply_to_all">
         <source>Apply changes to all</source>
-        <target state="needs-translation">Apply changes to all</target>
+        <target state="translated">Zastosuj wszystkie zmiany </target>
         <note>key: image_editor.apply_to_all</note>
       </trans-unit>
       <trans-unit id="55ffc35113c5f37fa09a25ce222163c042e3ba14" resname="image_editor.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Wstecz</target>
         <note>key: image_editor.back</note>
       </trans-unit>
       <trans-unit id="8f18dae80b35c667f5078299dfef8eab35468e1f" resname="image_editor.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Anuluj</target>
         <note>key: image_editor.cancel</note>
       </trans-unit>
       <trans-unit id="9f4bce2356266e08e7fc658ef668bd94aca3130c" resname="image_editor.dimension">
         <source>Dimension</source>
-        <target state="needs-translation">Dimension</target>
+        <target state="translated">Wymiar</target>
         <note>key: image_editor.dimension</note>
       </trans-unit>
       <trans-unit id="6e0622d5171e80561b807a544cc2fe638710aca6" resname="image_editor.edit_image">
         <source>Edit image</source>
-        <target state="needs-translation">Edit image</target>
+        <target state="translated">Edytuj obraz</target>
         <note>key: image_editor.edit_image</note>
       </trans-unit>
       <trans-unit id="bd499e574059518dde520fd569e1afb7affc9f7c" resname="image_editor.redo">
         <source>Redo</source>
-        <target state="needs-translation">Redo</target>
+        <target state="translated">Powtórz</target>
         <note>key: image_editor.redo</note>
       </trans-unit>
       <trans-unit id="ba9eda3a8dfc23e2a2d3b9d5a5406f473ae644a8" resname="image_editor.reset_image">
         <source>Reset image</source>
-        <target state="needs-translation">Reset image</target>
+        <target state="translated">Resetuj obraz</target>
         <note>key: image_editor.reset_image</note>
       </trans-unit>
       <trans-unit id="d72457349c7f5c8320e27b2df480c21a0bede392" resname="image_editor.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Zapisz</target>
         <note>key: image_editor.save</note>
       </trans-unit>
       <trans-unit id="35e89ed6988b0d9462a720df596a7c84421e9ecd" resname="image_editor.save_as">
         <source>Save as...</source>
-        <target state="needs-translation">Save as...</target>
+        <target state="translated">Zapisz jako...</target>
         <note>key: image_editor.save_as</note>
       </trans-unit>
       <trans-unit id="36dcd9173d6cb34a3395ddccfcb707c548d52f36" resname="image_editor.save_as.sub_warning">
         <source>If you click 'Apply changes to all' you will modify this image which is used in other Content items.</source>
-        <target state="needs-translation">If you click 'Apply changes to all' you will modify this image which is used in other Content items.</target>
+        <target state="translated">Jeśli klikniesz 'Zastosuj zmiany do wszystkich' zmodyfikujesz ten obraz, który jest używany w innych elementach zawartości.</target>
         <note>key: image_editor.save_as.sub_warning</note>
       </trans-unit>
       <trans-unit id="953559e538accd59edc2e1bc4087dbdd15f4bdf4" resname="image_editor.save_as.warning">
         <source>Clicking 'Save as new' will create a copy of the modified image.</source>
-        <target state="needs-translation">Clicking 'Save as new' will create a copy of the modified image.</target>
+        <target state="translated">Kliknięcie "Zapisz jako nowy" utworzy kopię zmodyfikowanego obrazu.</target>
         <note>key: image_editor.save_as.warning</note>
       </trans-unit>
       <trans-unit id="986a7439f195ccd70f02a02d34690b0f081366b7" resname="image_editor.save_as_new">
         <source>Save as new</source>
-        <target state="needs-translation">Save as new</target>
+        <target state="translated">Zapisz jako nowy</target>
         <note>key: image_editor.save_as_new</note>
       </trans-unit>
       <trans-unit id="251671b48b33e5e6c91e9dd76cfdd835ef5209eb" resname="image_editor.undo">
         <source>Undo</source>
-        <target state="needs-translation">Undo</target>
+        <target state="translated">Cofnij</target>
         <note>key: image_editor.undo</note>
       </trans-unit>
     </body>
