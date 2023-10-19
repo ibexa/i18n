@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="5b8849721f5a591ec2937ec9d47d3c584f13edd5" resname="ibexa.address.fields.phone_number">
         <source>Phone</source>
-        <target state="needs-translation">Phone</target>
+        <target state="translated">Telefon</target>
         <note>key: ibexa.address.fields.phone_number</note>
       </trans-unit>
     </body>
