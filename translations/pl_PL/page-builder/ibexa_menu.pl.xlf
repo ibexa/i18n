@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="690e22d98e836a0f471b77a96f2f5ea56ca3db81" resname="page_builder__infobar__preview__tools__send_to_trash">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: page_builder__infobar__preview__tools__send_to_trash</note>
       </trans-unit>
       <trans-unit id="6e3c5ada174db65381c85e6d12eed44ffe78f23b" resname="page_builder__infobar__preview__tools__versions" approved="yes">
