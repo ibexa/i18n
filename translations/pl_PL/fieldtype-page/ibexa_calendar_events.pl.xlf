@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="15204acbfb66b707e1870987e2df8dd43d87fb23" resname="page_block_hide.label">
         <source>Future hide</source>
-        <target state="needs-translation">Future hide</target>
+        <target state="translated">Przyszłe ukrycie</target>
         <note>key: page_block_hide.label</note>
       </trans-unit>
       <trans-unit id="e9e749d54f8be230e31ce9eeec8f66e6fe0656e0" resname="page_block_reveal.label">
         <source>Future reveal</source>
-        <target state="needs-translation">Future reveal</target>
+        <target state="translated">Przyszłe pokazanie</target>
         <note>key: page_block_reveal.label</note>
       </trans-unit>
       <trans-unit id="353ee0baf1d2304e82aaaf541340699f797db3ea" resname="page_block_visibility.attribute.block_type.label">
