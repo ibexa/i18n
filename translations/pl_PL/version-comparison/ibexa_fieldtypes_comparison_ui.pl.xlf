@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="7d61d1117395c8c60ee55b37a1103b212f56492f" resname="tab.versions.table.action.version_compare">
         <source>Version compare</source>
-        <target state="needs-translation">Version compare</target>
+        <target state="translated">Porównanie wersji</target>
         <note>key: tab.versions.table.action.version_compare</note>
       </trans-unit>
       <trans-unit id="664d2e29c7d676aa99c558d7d2bb663168b70e8e" resname="version_info.comparison.select_name">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="ce9e882347182c3131045e8139681bb856864faf" resname="version_info.language.select_placeholder">
         <source>Language select placeholder</source>
-        <target state="needs-translation">Language select placeholder</target>
+        <target state="translated">Język wybranego placeholder'a</target>
         <note>key: version_info.language.select_placeholder</note>
       </trans-unit>
       <trans-unit id="2606e3196d40ee3cdfbdb7c62334d8c4e0dfb87a" resname="version_info.status.archived">
