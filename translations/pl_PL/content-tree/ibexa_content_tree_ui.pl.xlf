@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="fda5d31392f746288f371fdb64897146e018a606" resname="load_content_types.error">
         <source>Cannot load Content Types</source>
-        <target state="needs-translation">Cannot load Content Types</target>
+        <target state="translated">Nie można załadować typów treści</target>
         <note>key: load_content_types.error</note>
       </trans-unit>
     </body>
