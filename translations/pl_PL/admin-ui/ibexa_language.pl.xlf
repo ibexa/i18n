@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="2a52961302ce7dfa4a21c5e0bcc239f5a9a36cfe" resname="language.modal.message">
         <source>Delete the languages?</source>
-        <target state="needs-translation">Delete the languages?</target>
+        <target state="translated">Usunąć języki?</target>
         <note>key: language.modal.message</note>
       </trans-unit>
       <trans-unit id="c0ccfb7e7bc6d434ca93e998637fe775ba4a2de0" resname="language.name" approved="yes">
