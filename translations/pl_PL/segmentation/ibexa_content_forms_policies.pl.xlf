@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="659face270db8822838d3efd32b3a9b72a6dc5f6" resname="policy.limitation.identifier.segmentgroup">
         <source>Segment Group</source>
-        <target state="needs-translation">Segment Group</target>
+        <target state="translated">Grupa segmentów</target>
         <note>key: policy.limitation.identifier.segmentgroup</note>
       </trans-unit>
     </body>
