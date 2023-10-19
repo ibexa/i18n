@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
         <source>You have no drafts yet. Your drafts will show up here.</source>
-        <target state="needs-translation">You have no drafts yet. Your drafts will show up here.</target>
+        <target state="translated">Nie masz jeszcze żadnych wersji roboczych. Twoje szkice pojawią się tutaj.</target>
         <note>key: dashboard.tab.my_drafts.empty</note>
       </trans-unit>
       <trans-unit id="9ef83b3497fae569ba56b6a8ab96004f359ae918" resname="dashboard.tab.my_media.empty">
@@ -38,17 +38,17 @@
       </trans-unit>
       <trans-unit id="749d4759e304735bcec6ef6ec10af43e70f1f289" resname="dashboard.table.all.content.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: dashboard.table.all.content.edit</note>
       </trans-unit>
       <trans-unit id="d55b4e897f7b7f5748c600e865a61eae6c9fe3da" resname="dashboard.table.all.media.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: dashboard.table.all.media.edit</note>
       </trans-unit>
       <trans-unit id="f0adf5df30310686ce6864bef32325c9a6988b49" resname="dashboard.table.content.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: dashboard.table.content.edit</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type" approved="yes">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
         <source>Modified</source>
-        <target state="needs-translation">Modified</target>
+        <target state="translated">Zmodyfikowano</target>
         <note>key: dashboard.table.last_saved</note>
       </trans-unit>
       <trans-unit id="ec988391649c3e25028a629b4e38dc426f4c4615" resname="dashboard.table.media.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Edytuj</target>
         <note>key: dashboard.table.media.edit</note>
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language" approved="yes">
