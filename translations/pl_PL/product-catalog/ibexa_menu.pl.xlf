@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="8522985ba99235f18afed6ef6947effccaecd065" resname="main__commerce">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">E-commerce</target>
         <note>key: main__commerce</note>
       </trans-unit>
       <trans-unit id="e73bd7db6d4346504e0f69e5204a9f587a05bc40" resname="main__product_catalog" approved="yes">
