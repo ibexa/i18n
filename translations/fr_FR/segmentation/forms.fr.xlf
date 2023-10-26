@@ -108,22 +108,22 @@
       </trans-unit>
       <trans-unit id="c8aa8e048b310f79beff0be025bbf0fa7b845635" resname="segment_group_create_form.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: segment_group_create_form.create</note>
       </trans-unit>
       <trans-unit id="ad7c607ca86930e2af197c0f1ad44c646fe499be" resname="segment_group_create_form.update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">Mettre à jour</target>
         <note>key: segment_group_create_form.update</note>
       </trans-unit>
       <trans-unit id="36cee6fed4b7db33951de85cd54ca60bb7822e1d" resname="segment_group_delete_form.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: segment_group_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="1346713c71d11a95fac08825d2e82fa8c9904162" resname="segment_update_form.update">
         <source>Update</source>
-        <target state="needs-translation">Update</target>
+        <target state="translated">Mettre à jour</target>
         <note>key: segment_update_form.update</note>
       </trans-unit>
     </body>
