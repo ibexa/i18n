@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="1c443dd3f8d2dd7bdfce645c7a8d59b110316d7b" resname="tab.name.url_wildcards">
         <source>URL wildcards</source>
-        <target state="needs-translation">URL wildcards</target>
+        <target state="translated">URL avec joker</target>
         <note>key: tab.name.url_wildcards</note>
       </trans-unit>
       <trans-unit id="716de64f24448f5be29249e0b5156158a6a0bbdd" resname="url_wildcard.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: url_wildcard.action.edit</note>
       </trans-unit>
       <trans-unit id="562cbcb1ed087fd514f78a8b0de9a68ccc03f5e7" resname="url_wildcard.breadcrumb.edit">
@@ -23,32 +23,32 @@
       </trans-unit>
       <trans-unit id="2451ff2ec3f769b1d2492cba373ddcf07c27d5e1" resname="url_wildcard.breadcrumb.list">
         <source>URL management</source>
-        <target state="needs-translation">URL management</target>
+        <target state="translated">Gestion des URL</target>
         <note>key: url_wildcard.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="0d4e2915af539759633ce2317d17e4df6131d739" resname="url_wildcard.create.identifier">
         <source>Destination URL</source>
-        <target state="needs-translation">Destination URL</target>
+        <target state="translated">URL de destination</target>
         <note>key: url_wildcard.create.identifier</note>
       </trans-unit>
       <trans-unit id="51df229352cfd712057d2838eea22362c6c627f0" resname="url_wildcard.create.source_url">
         <source>Source URL</source>
-        <target state="needs-translation">Source URL</target>
+        <target state="translated">URL source</target>
         <note>key: url_wildcard.create.source_url</note>
       </trans-unit>
       <trans-unit id="63ccc5088f619a05bd33117e5545d24bda4f4b7a" resname="url_wildcard.create.submit">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: url_wildcard.create.submit</note>
       </trans-unit>
       <trans-unit id="ed6eb46311d0d99a1221cf8676a5df8cf4fdd533" resname="url_wildcard.create.success">
         <source>URL Wildcard created.</source>
-        <target state="needs-translation">URL Wildcard created.</target>
+        <target state="translated">URL avec joker créée.</target>
         <note>key: url_wildcard.create.success</note>
       </trans-unit>
       <trans-unit id="ecf02677fe877b84d5dfffc2cba4021b0bb2e1a3" resname="url_wildcard.delete.success">
         <source>URL Wildcard(s) deleted.</source>
-        <target state="needs-translation">URL Wildcard(s) deleted.</target>
+        <target state="translated">URL avec joker supprimées.</target>
         <note>key: url_wildcard.delete.success</note>
       </trans-unit>
       <trans-unit id="8fe44f043fa71a16c618cde88dd0e1098e5479bb" resname="url_wildcard.disabled">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="744a5ddc1ab83b98c6b70a5d9650efa62147b324" resname="url_wildcard.update.success">
         <source>URL Wildcard updated.</source>
-        <target state="needs-translation">URL Wildcard updated.</target>
+        <target state="translated">URL avec joker mise à jour.</target>
         <note>key: url_wildcard.update.success</note>
       </trans-unit>
     </body>
