@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="77a237f996d4f37680ad60963e3eba4088e8d319" resname="block.nested_attribute.setup_for_field_groups">
         <source>Setup for field groups %attributeName%</source>
-        <target state="needs-translation">Setup for field groups %attributeName%</target>
+        <target state="translated">Configuration pour les groupes de champs %attributeName%</target>
         <note>key: block.nested_attribute.setup_for_field_groups</note>
       </trans-unit>
       <trans-unit id="e709525d3616f6a7d78ded79d7dfaf9c9df025cf" resname="blocks.select_blocks">
@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="99cd4cdb8f35ab90854987053d6b21504cb9bcfd" resname="blocks.select_blocks_warning">
         <source>Deselecting a block will hide any related block(s) included in the Landing page during next edit. The user will have to delete the block(s) in order to publish the page</source>
-        <target state="needs-translation">Deselecting a block will hide any related block(s) included in the Landing page during next edit. The user will have to delete the block(s) in order to publish the page</target>
+        <target state="translated">La désélection d'un bloc masquera tout bloc lié inclus dans la page d'accueil lors de l'édition suivante. L'utilisateur devra supprimer le(s) bloc(s) pour publier la page</target>
         <note>key: blocks.select_blocks_warning</note>
       </trans-unit>
       <trans-unit id="3caffd18afafbb2669cd72c21ba488d8119920f7" resname="editor_mode.select_editor_launch_mode">
         <source>Select Editor launch mode</source>
-        <target state="needs-translation">Select Editor launch mode</target>
+        <target state="translated">Sélectionner le mode de lancement de l'éditeur</target>
         <note>key: editor_mode.select_editor_launch_mode</note>
       </trans-unit>
       <trans-unit id="fdd142fc2e5c77d28fea2e33ff339237b28c77a7" resname="item.select_all">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="2e3afabe437a888c663498e7bb86dba37c35fdcd" resname="landingpage.no_preview">
         <source>Preview is not available.</source>
-        <target state="needs-translation">Preview is not available.</target>
+        <target state="translated">La prévisualisation n'est pas disponible.</target>
         <note>key: landingpage.no_preview</note>
       </trans-unit>
       <trans-unit id="4e6b467aeed03b748276c99091952733f2ab538c" resname="layouts.select_layouts">
