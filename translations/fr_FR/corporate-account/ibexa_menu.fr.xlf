@@ -8,87 +8,87 @@
     <body>
       <trans-unit id="b8e18a121a5a126029e6318b7769b1912fb6980a" resname="customer_portal__account_settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">Réglages</target>
         <note>key: customer_portal__account_settings</note>
       </trans-unit>
       <trans-unit id="797de736e8e87ef43e283efb03f4df7d5d25a00c" resname="customer_portal__account_settings__my_profile">
         <source>My profile</source>
-        <target state="needs-translation">My profile</target>
+        <target state="translated">Mon profil</target>
         <note>key: customer_portal__account_settings__my_profile</note>
       </trans-unit>
       <trans-unit id="f33087e36f780a7a7762a03dad4e220245d35b2c" resname="customer_portal__dashboard">
         <source>Dashboard</source>
-        <target state="needs-translation">Dashboard</target>
+        <target state="translated">Tableau de bord</target>
         <note>key: customer_portal__dashboard</note>
       </trans-unit>
       <trans-unit id="0c7336855c87312e5401c4a135e17c27069eb5a0" resname="customer_portal__order_management">
         <source>Order management</source>
-        <target state="needs-translation">Order management</target>
+        <target state="translated">Gestion des commandes</target>
         <note>key: customer_portal__order_management</note>
       </trans-unit>
       <trans-unit id="7046d195ad90d74bd72643bcc18dccaeb1a58874" resname="customer_portal__order_management__past_orders">
         <source>Past orders</source>
-        <target state="needs-translation">Past orders</target>
+        <target state="translated">Commandes passées</target>
         <note>key: customer_portal__order_management__past_orders</note>
       </trans-unit>
       <trans-unit id="1de8f0dda8cdb6974f3ad67f8555b47fc6905818" resname="customer_portal__order_management__pending_orders">
         <source>Pending orders</source>
-        <target state="needs-translation">Pending orders</target>
+        <target state="translated">Commandes en cours</target>
         <note>key: customer_portal__order_management__pending_orders</note>
       </trans-unit>
       <trans-unit id="448318fa3af29106ac205a386f8f2f75fca4f230" resname="customer_portal__organization">
         <source>Organization</source>
-        <target state="needs-translation">Organization</target>
+        <target state="translated">Organisation</target>
         <note>key: customer_portal__organization</note>
       </trans-unit>
       <trans-unit id="5fcb7aad323aa4d54420819fffa7a64c6ef4a325" resname="customer_portal__organization__address_book">
         <source>Address book</source>
-        <target state="needs-translation">Address book</target>
+        <target state="translated">Carnet d’adresses</target>
         <note>key: customer_portal__organization__address_book</note>
       </trans-unit>
       <trans-unit id="947808f69abaca65fe36e78ff9b68efd56fe5c46" resname="customer_portal__organization__contact">
         <source>Contact</source>
-        <target state="needs-translation">Contact</target>
+        <target state="translated">Contact</target>
         <note>key: customer_portal__organization__contact</note>
       </trans-unit>
       <trans-unit id="d9785980b899b3b7ba84121b3bf49720d362bb1d" resname="customer_portal__organization__members">
         <source>Members</source>
-        <target state="needs-translation">Members</target>
+        <target state="translated">Membres</target>
         <note>key: customer_portal__organization__members</note>
       </trans-unit>
       <trans-unit id="1268cef29e1976872a40640cfa1f845bc11c7995" resname="main__content__corporateaccount">
         <source>Corporate</source>
-        <target state="needs-translation">Corporate</target>
+        <target state="translated">Entreprise</target>
         <note>key: main__content__corporateaccount</note>
       </trans-unit>
       <trans-unit id="f0f9efa7cb6f487bb8a15f6e4b81991e5447c99a" resname="main__corporateaccount">
         <source>Customers</source>
-        <target state="needs-translation">Customers</target>
+        <target state="translated">Clients</target>
         <note>key: main__corporateaccount</note>
       </trans-unit>
       <trans-unit id="cd0b713549681ad5fc76eb22b02c664b017f7528" resname="main__corporateaccount__applications">
         <source>Applications</source>
-        <target state="needs-translation">Applications</target>
+        <target state="translated">Applications</target>
         <note>key: main__corporateaccount__applications</note>
       </trans-unit>
       <trans-unit id="de510ce299f61480d5fba13e1f98ecb5b309f22d" resname="main__corporateaccount__companies">
         <source>Companies</source>
-        <target state="needs-translation">Companies</target>
+        <target state="translated">Entreprises</target>
         <note>key: main__corporateaccount__companies</note>
       </trans-unit>
       <trans-unit id="b64e2f9e73a44906c54697df0161320b9df9e28a" resname="main__corporateaccount__content_types">
         <source>B2B types</source>
-        <target state="needs-translation">B2B types</target>
+        <target state="translated">Types B2B</target>
         <note>key: main__corporateaccount__content_types</note>
       </trans-unit>
       <trans-unit id="a16131f7937e64e52a0373077db79502c9cba327" resname="main__corporateaccount__individuals">
         <source>Clients</source>
-        <target state="needs-translation">Clients</target>
+        <target state="translated">Clients</target>
         <note>key: main__corporateaccount__individuals</note>
       </trans-unit>
       <trans-unit id="0c9c4cf942519a7fd59d5a23cf6b753064297ae1" resname="main__corporateaccount__settings">
         <source>Settings</source>
-        <target state="needs-translation">Settings</target>
+        <target state="translated">Réglages</target>
         <note>key: main__corporateaccount__settings</note>
       </trans-unit>
     </body>
