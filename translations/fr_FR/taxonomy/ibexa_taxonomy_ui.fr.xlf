@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="602e920599c6264cc84f988569c2d34c6f0a22d3" resname="taxonomy.delete.confirm">
         <source>Are you sure you want to delete selected tree item(s)?</source>
-        <target state="needs-translation">Are you sure you want to delete selected tree item(s)?</target>
+        <target state="translated">Êtes-vous sûr de vouloir supprimer le(s) élément(s) sélectionné(s) ?</target>
         <note>key: taxonomy.delete.confirm</note>
       </trans-unit>
       <trans-unit id="b8a6f4d567d4da3b20d94da7a6e0938602cf3d21" resname="taxonomy.empty">
