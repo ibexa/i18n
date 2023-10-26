@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="aa6b4bece2c401e90fc0828a11ad372eaf2f3695" resname="fielddefinition.default-value.current_author">
         <source>Current User</source>
-        <target state="needs-translation">Current User</target>
+        <target state="translated">Utilisateur actuel</target>
         <note>key: fielddefinition.default-value.current_author</note>
       </trans-unit>
       <trans-unit id="3410f38fd1f44cb841ec374c13daca04dcc5910b" resname="fielddefinition.default-value.current_date" approved="yes">
