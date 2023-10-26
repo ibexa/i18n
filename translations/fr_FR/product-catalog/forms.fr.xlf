@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="517e3666a759ee26e02fcc468446ef39b3ae9bf0" resname="role.policy.catalog">
         <source>Catalog</source>
-        <target state="needs-translation">Catalog</target>
+        <target state="translated">Catalogue</target>
         <note>key: role.policy.catalog</note>
       </trans-unit>
       <trans-unit id="f0db798b7ae5b93b395d0f688ea80784faddcd6b" resname="role.policy.catalog.all_functions">
         <source>Catalog / All functions</source>
-        <target state="needs-translation">Catalog / All functions</target>
+        <target state="translated">Catalogue / Toutes les fonctions</target>
         <note>key: role.policy.catalog.all_functions</note>
       </trans-unit>
       <trans-unit id="9bab6251a421ba09e54114cd858abdc9a2a59f55" resname="role.policy.catalog.create">
         <source>Catalog / Create</source>
-        <target state="needs-translation">Catalog / Create</target>
+        <target state="translated">Catalogue / Créer</target>
         <note>key: role.policy.catalog.create</note>
       </trans-unit>
       <trans-unit id="6844731afb7e5c4fc7414f157749ca064a82d798" resname="role.policy.catalog.delete">
         <source>Catalog / Delete</source>
-        <target state="needs-translation">Catalog / Delete</target>
+        <target state="translated">Catalogue / Supprimer</target>
         <note>key: role.policy.catalog.delete</note>
       </trans-unit>
       <trans-unit id="f3f6d817abf52411d94909850040df8aebaf2c03" resname="role.policy.catalog.edit">
         <source>Catalog / Edit</source>
-        <target state="needs-translation">Catalog / Edit</target>
+        <target state="translated">Catalogue / Modifier</target>
         <note>key: role.policy.catalog.edit</note>
       </trans-unit>
       <trans-unit id="d9ced925ac206beb427c609d73e8adefb43346fb" resname="role.policy.catalog.view">
         <source>Catalog / View</source>
-        <target state="needs-translation">Catalog / View</target>
+        <target state="translated">Catalogue / Voir</target>
         <note>key: role.policy.catalog.view</note>
       </trans-unit>
       <trans-unit id="3551d9a7a066b2a0941f244fa91f766c089fd063" resname="role.policy.commerce">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">Commerce</target>
         <note>key: role.policy.commerce</note>
       </trans-unit>
       <trans-unit id="b5a03c317caa2abbc2a833f7a1bd96dabe75f707" resname="role.policy.commerce.all_functions">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="77103c77012fbfb57e2f042714bcc8641e51c67c" resname="role.policy.customer_group.edit">
         <source>Customer Group / Edit</source>
-        <target state="needs-translation">Customer Group / Edit</target>
+        <target state="translated">Groupe de clients / Modifier</target>
         <note>key: role.policy.customer_group.edit</note>
       </trans-unit>
       <trans-unit id="24d592ca917cb069849dd655cf9c48293bb7e3c1" resname="role.policy.customer_group.view">
