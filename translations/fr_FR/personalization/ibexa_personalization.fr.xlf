@@ -313,47 +313,47 @@
       </trans-unit>
       <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
         <source>Scenario ID</source>
-        <target state="needs-translation">Scenario ID</target>
+        <target state="translated">Scenario ID</target>
         <note>key: ibexa_personalization.scenario.id</note>
       </trans-unit>
       <trans-unit id="89e671883aca6d0a3662cf8ed62769108969577c" resname="ibexa_personalization.scenario.input_type">
         <source>Input type</source>
-        <target state="needs-translation">Input type</target>
+        <target state="translated">Type de l'entrée</target>
         <note>key: ibexa_personalization.scenario.input_type</note>
       </trans-unit>
       <trans-unit id="cf899da8652f04a34a0a8cb932446109606d84ad" resname="ibexa_personalization.scenario.output_type">
         <source>Output type</source>
-        <target state="needs-translation">Output type</target>
+        <target state="translated">Type de sortie</target>
         <note>key: ibexa_personalization.scenario.output_type</note>
       </trans-unit>
       <trans-unit id="537d2eeb50537aa922d548761126cb1687aaee25" resname="ibexa_personalization.scenario.output_type_all">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Tous</target>
         <note>key: ibexa_personalization.scenario.output_type_all</note>
       </trans-unit>
       <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
         <source>Scenario name</source>
-        <target state="needs-translation">Scenario name</target>
+        <target state="translated">Nom du scénario</target>
         <note>key: ibexa_personalization.scenario.scenario_name</note>
       </trans-unit>
       <trans-unit id="cd5bce5ba0adfa62b8aba0814b6ad94c61a4ccaa" resname="ibexa_personalization.scenario.strategy">
         <source>Strategy</source>
-        <target state="needs-translation">Strategy</target>
+        <target state="translated">Stratégie</target>
         <note>key: ibexa_personalization.scenario.strategy</note>
       </trans-unit>
       <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
         <source>Undefined</source>
-        <target state="needs-translation">Undefined</target>
+        <target state="translated">Non défini</target>
         <note>key: ibexa_personalization.scenario.undefined</note>
       </trans-unit>
       <trans-unit id="a12bb101b80ee4a2f65ff4072fc9d89c87b65883" resname="ibexa_personalization.scenario.user_profile_setting">
         <source>User profile setting</source>
-        <target state="needs-translation">User profile setting</target>
+        <target state="translated">Paramètre du profil utilisateur</target>
         <note>key: ibexa_personalization.scenario.user_profile_setting</note>
       </trans-unit>
       <trans-unit id="62fdfbd55d19b2a4671102ad7bca17d875f8207a" resname="import">
         <source>Import</source>
-        <target state="needs-translation">Import</target>
+        <target state="translated">Import</target>
         <note>key: import</note>
       </trans-unit>
       <trans-unit id="93f7f60494a8ca773d68bcf3d2208c6b84caf741" resname="import.imported_items">
@@ -378,12 +378,12 @@
       </trans-unit>
       <trans-unit id="5ed492920853d62272f044a731b64dffb486c73e" resname="import.last_update">
         <source>Last update</source>
-        <target state="needs-translation">Last update</target>
+        <target state="translated">Dernière mise à jour</target>
         <note>key: import.last_update</note>
       </trans-unit>
       <trans-unit id="259839e6315c4cd7ef4c8e08f0488f11b2041b04" resname="import.no_items_imported">
         <source>No items imported</source>
-        <target state="needs-translation">No items imported</target>
+        <target state="translated">Aucun élément importé</target>
         <note>key: import.no_items_imported</note>
       </trans-unit>
       <trans-unit id="032c3d291f2747bd18c632161b4c5c8c942d0ee0" resname="import.table_title">
@@ -403,17 +403,17 @@
       </trans-unit>
       <trans-unit id="706d5289d4105fd8b6e076852cb8e8df8eeb1642" resname="model.details.event_history">
         <source>Relevant event history</source>
-        <target state="needs-translation">Relevant event history</target>
+        <target state="translated">Historique des événements pertinents</target>
         <note>key: model.details.event_history</note>
       </trans-unit>
       <trans-unit id="5349670bc14607a7d0b20eef5707d8de59d065a8" resname="model.details.general">
         <source>General</source>
-        <target state="needs-translation">General</target>
+        <target state="translated">Général</target>
         <note>key: model.details.general</note>
       </trans-unit>
       <trans-unit id="3e7cb613ab82b863f6e9a7043921fefb670a7ed6" resname="model.details.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identifiant</target>
         <note>key: model.details.identifier</note>
       </trans-unit>
       <trans-unit id="b959cfda0d499c225d510b34ed3e2db0b5b0dda9" resname="model.details.item_age.title">
@@ -428,17 +428,17 @@
       </trans-unit>
       <trans-unit id="f96553c14a4ffdd378138a03455a0891ce85a7e1" resname="model.details.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nom</target>
         <note>key: model.details.name</note>
       </trans-unit>
       <trans-unit id="3d4bab614e2bf0348a662ba0345c2d1df14eadbd" resname="model.details.not_active">
         <source>Not active</source>
-        <target state="needs-translation">Not active</target>
+        <target state="translated">Inactif</target>
         <note>key: model.details.not_active</note>
       </trans-unit>
       <trans-unit id="1fc9b4f6c966877097c7cb6c53ce6d7eb7ce6dc8" resname="model.details.number_recommendations">
         <source>Number of recommendations</source>
-        <target state="needs-translation">Number of recommendations</target>
+        <target state="translated">Nombre de recommandations</target>
         <note>key: model.details.number_recommendations</note>
       </trans-unit>
       <trans-unit id="59f1bee05ddd44884146ca3a43a4466e9592f96e" resname="model.details.relevant_history.title">
@@ -448,132 +448,132 @@
       </trans-unit>
       <trans-unit id="ec2e77c833369d396a2b23edaae6fb57a3e6d752" resname="model.details.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: model.details.status</note>
       </trans-unit>
       <trans-unit id="c1e495f258d614d6a0f42eb02d225a1a6b161779" resname="model.details.submodels">
         <source>Submodels</source>
-        <target state="needs-translation">Submodels</target>
+        <target state="translated">Sous-modèles</target>
         <note>key: model.details.submodels</note>
       </trans-unit>
       <trans-unit id="d9e2eef3492579519221003e3b55e3bbfa8892ac" resname="model.details.used_scenario">
         <source>Used in scenario</source>
-        <target state="needs-translation">Used in scenario</target>
+        <target state="translated">Utilisé dans le scénario</target>
         <note>key: model.details.used_scenario</note>
       </trans-unit>
       <trans-unit id="5d2ff97e544ffec3511aff38904969ab634b77b3" resname="model.edit.actino_name">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Édition en cours</target>
         <note>key: model.edit.actino_name</note>
       </trans-unit>
       <trans-unit id="9fca83cee965c85c1d9952bb6f394dbb42a65527" resname="model.edit.anchor_navigation.segments">
         <source>Segments</source>
-        <target state="needs-translation">Segments</target>
+        <target state="translated">Segments</target>
         <note>key: model.edit.anchor_navigation.segments</note>
       </trans-unit>
       <trans-unit id="3173d7b7cc098e11b2253c46769f6405977305fd" resname="model.edit.anchor_navigation.submodels">
         <source>Submodels</source>
-        <target state="needs-translation">Submodels</target>
+        <target state="translated">Sous-modèles</target>
         <note>key: model.edit.anchor_navigation.submodels</note>
       </trans-unit>
       <trans-unit id="d914448f5af58ab97b6ef5bb3ed5c193cb767bbe" resname="model.edit.editorial_list.title">
         <source>Editor content list</source>
-        <target state="needs-translation">Editor content list</target>
+        <target state="translated">Liste de contenu de l'éditeur</target>
         <note>key: model.edit.editorial_list.title</note>
       </trans-unit>
       <trans-unit id="096e2b47d3b740cb238ceab207486abbe7695182" resname="model.edit.submodels.sidebar.empty.img">
         <source>Empty library</source>
-        <target state="needs-translation">Empty library</target>
+        <target state="translated">Bibliothèque vide</target>
         <note>key: model.edit.submodels.sidebar.empty.img</note>
       </trans-unit>
       <trans-unit id="5e5e5275f63a9325fc326e4685483ee3414c1687" resname="model.edit.submodels.sidebar.empty.library">
         <source>Your library is empty</source>
-        <target state="needs-translation">Your library is empty</target>
+        <target state="translated">Votre bibliothèque est vide</target>
         <note>key: model.edit.submodels.sidebar.empty.library</note>
       </trans-unit>
       <trans-unit id="a8899af243bce36b0b413f00c831ce657fee9f3d" resname="model.edit.submodels.sidebar.title">
         <source>Library</source>
-        <target state="needs-translation">Library</target>
+        <target state="translated">Bibliothèque</target>
         <note>key: model.edit.submodels.sidebar.title</note>
       </trans-unit>
       <trans-unit id="c6c09cc40d11ab92207f295720712bf55f19087b" resname="model.edit_short">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: model.edit_short</note>
       </trans-unit>
       <trans-unit id="cf1abce1343ae4d0d9480a7102d7e89c63ed52ed" resname="model.quantifier.day">
         <source>Day</source>
-        <target state="needs-translation">Day</target>
+        <target state="translated">Jour</target>
         <note>key: model.quantifier.day</note>
       </trans-unit>
       <trans-unit id="a74d1764e88f56ee10e72cf53e79178000df5d4e" resname="model.quantifier.hour">
         <source>Hour</source>
-        <target state="needs-translation">Hour</target>
+        <target state="translated">Heure</target>
         <note>key: model.quantifier.hour</note>
       </trans-unit>
       <trans-unit id="bb6102d5546962e51992e61bb51245cad7d680a2" resname="model_build.state.active">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Actif</target>
         <note>key: model_build.state.active</note>
       </trans-unit>
       <trans-unit id="98b19504122f3eae94e012a29e70bed705ef5f8b" resname="model_build.state.build_in_progress">
         <source>Build in progress</source>
-        <target state="needs-translation">Build in progress</target>
+        <target state="translated">Compilation en cours</target>
         <note>key: model_build.state.build_in_progress</note>
       </trans-unit>
       <trans-unit id="fa5c508429f7396605767fc0fd4ea92cdbf68d56" resname="model_build.state.failed">
         <source>Failed</source>
-        <target state="needs-translation">Failed</target>
+        <target state="translated">Echoué</target>
         <note>key: model_build.state.failed</note>
       </trans-unit>
       <trans-unit id="6745f451dcbf71ecc541477e206cdbe28b7c8df8" resname="model_build_has_been_triggered">
         <source>Model build has been triggered</source>
-        <target state="needs-translation">Model build has been triggered</target>
+        <target state="translated">La construction du modèle a été déclenchée</target>
         <note>key: model_build_has_been_triggered</note>
       </trans-unit>
       <trans-unit id="5ba2688dffd71df813a468578a87c653e1575e1e" resname="models">
         <source>Models</source>
-        <target state="needs-translation">Models</target>
+        <target state="translated">Modèles</target>
         <note>key: models</note>
       </trans-unit>
       <trans-unit id="8a5d362f7867c4d490ec24abe1caf6564e3a0db2" resname="models.description.CF_I2Ix">
         <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
-        <target state="needs-translation">User who clicked on this item (article, image, etc.), also clicked on the following items</target>
+        <target state="translated">L'utilisateur qui a cliqué sur cet élément (article, image, etc.), a également cliqué sur les éléments suivants</target>
         <note>key: models.description.CF_I2Ix</note>
       </trans-unit>
       <trans-unit id="4a18aab9ebe65fece5b9153272c9a7633a1c7445" resname="models.description.POPULARITY_LONGx">
         <source>Most popular content based on a weighted amount of consumes</source>
-        <target state="needs-translation">Most popular content based on a weighted amount of consumes</target>
+        <target state="translated">Contenu le plus populaire basé sur une quantité pondérée de consommation</target>
         <note>key: models.description.POPULARITY_LONGx</note>
       </trans-unit>
       <trans-unit id="827c31ba82e83b129b09af0223b2a26b8b3f774b" resname="models.description.POPULARITY_SHORTx">
         <source>Most popular content based on a weighted amount of consumes</source>
-        <target state="needs-translation">Most popular content based on a weighted amount of consumes</target>
+        <target state="translated">Contenu le plus populaire basé sur une quantité pondérée de consommation</target>
         <note>key: models.description.POPULARITY_SHORTx</note>
       </trans-unit>
       <trans-unit id="129991e3c98ef0e9f9e330842852e6965dfc37c2" resname="models.description.RANDOM_DOMAINx">
         <source>Random model</source>
-        <target state="needs-translation">Random model</target>
+        <target state="translated">Modèle aléatoire</target>
         <note>key: models.description.RANDOM_DOMAINx</note>
       </trans-unit>
       <trans-unit id="7d69995534aa896d5b450e04f6a0c422d2b0477d" resname="models.description.STEREOTYPES_CFx">
         <source>Enables personalized recommendation based on clusters from user behaviour or content information</source>
-        <target state="needs-translation">Enables personalized recommendation based on clusters from user behaviour or content information</target>
+        <target state="translated">Active la recommandation personnalisée basée sur les grappes à partir du comportement de l'utilisateur ou des informations de contenu</target>
         <note>key: models.description.STEREOTYPES_CFx</note>
       </trans-unit>
       <trans-unit id="5920550d09090e87ff1bbb4b2ce6cbf256f224d0" resname="models.description._todelete_also_purchased">
         <source>User who bought this item (movie, etc.), also bought the following items</source>
-        <target state="needs-translation">User who bought this item (movie, etc.), also bought the following items</target>
+        <target state="translated">L'utilisateur qui a acheté cet article (film, etc.), a également acheté les objets suivants</target>
         <note>key: models.description._todelete_also_purchased</note>
       </trans-unit>
       <trans-unit id="41af10423a07bc1202ed5872f1811ae962a60f54" resname="models.description._todelete_top_selling">
         <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
-        <target state="needs-translation">Most popular content (product, article, etc.) based on a weighted purchase history</target>
+        <target state="translated">Contenu le plus populaire (produit, article, etc.) basé sur un historique d'achat pondéré</target>
         <note>key: models.description._todelete_top_selling</note>
       </trans-unit>
       <trans-unit id="5a6aec6b3022fc799ba1272fd14aa9c6efd3a671" resname="models.description._todelete_ultimately_bought">
         <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
-        <target state="needs-translation">User who clicked on this content (articles, images, etc), also bought the following products</target>
+        <target state="translated">L'utilisateur qui a cliqué sur ce contenu (articles, images, etc.), a également acheté les produits suivants</target>
         <note>key: models.description._todelete_ultimately_bought</note>
       </trans-unit>
       <trans-unit id="24cd0725061b863998e454b7e5b75907ebedf63a" resname="models.description.adv_also_clicked">
