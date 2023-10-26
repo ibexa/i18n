@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="245265a629e4d9fe109e2dea3564749962d6b89d" resname="page_builder__infobar__create__actions__cancel">
         <source>Delete draft</source>
-        <target state="translated">Annuler modifications</target>
+        <target state="translated">Supprimer le brouillon</target>
         <note>key: page_builder__infobar__create__actions__cancel</note>
       </trans-unit>
       <trans-unit id="ac75313b8718241146e5cb531ab017a84a224d89" resname="page_builder__infobar__create__actions__publish">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="690e22d98e836a0f471b77a96f2f5ea56ca3db81" resname="page_builder__infobar__preview__tools__send_to_trash">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: page_builder__infobar__preview__tools__send_to_trash</note>
       </trans-unit>
       <trans-unit id="6e3c5ada174db65381c85e6d12eed44ffe78f23b" resname="page_builder__infobar__preview__tools__versions">
