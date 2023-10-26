@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="d6743e31593a616ab93fa9b497582ce862a49069" resname="ibexa.corporate_account.invitation.invalid_site_access">
         <source>SiteAccess "{{ name }}" isn’t a part of corporate SiteAccess group</source>
-        <target state="needs-translation">SiteAccess "{{ name }}" isn’t a part of corporate SiteAccess group</target>
+        <target state="translated">SiteAccess "{{ name }}" ne fait pas partie du groupe des SiteAccess</target>
         <note>key: ibexa.corporate_account.invitation.invalid_site_access</note>
       </trans-unit>
     </body>
