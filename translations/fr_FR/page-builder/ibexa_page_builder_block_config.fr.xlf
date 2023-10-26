@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="24714070f91ffe1c9b511be2703efb8e2f00b907" resname="embed_preview.change">
         <source>Change</source>
-        <target state="needs-translation">Change</target>
+        <target state="translated">Changer</target>
         <note>key: embed_preview.change</note>
       </trans-unit>
       <trans-unit id="8f471b1b27d61346fdea81d93fc467fe08637010" resname="page_builder.block_configuration.class">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="736317ee24b04dca3922094f41fcec739ad7b83a" resname="tab.scheduler.schedule_visibility">
         <source>Schedule block visibility</source>
-        <target state="needs-translation">Schedule block visibility</target>
+        <target state="translated">Planifier la visibilité des blocs</target>
         <note>key: tab.scheduler.schedule_visibility</note>
       </trans-unit>
     </body>
