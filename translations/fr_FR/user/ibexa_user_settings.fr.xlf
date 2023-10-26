@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="da2c0674f840a052662187106d621f2e3180d631" resname="settings.group.browsing.name">
         <source>Browsing</source>
-        <target state="needs-translation">Browsing</target>
+        <target state="translated">Parcourir</target>
         <note>key: settings.group.browsing.name</note>
       </trans-unit>
       <trans-unit id="c9a8a7a02d6e5a8526e883fc7a6e3e35f40cf809" resname="settings.group.edit_content.description">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="9fb4add1a9e6148b11b25ddbcaf4e77d97b4ab45" resname="settings.group.edit_content.name">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: settings.group.edit_content.name</note>
       </trans-unit>
       <trans-unit id="377f69d650dee0a54486fea8f8a89b82203b7755" resname="settings.group.generic.description">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="7566f07975d6ac51eb07463ea7719286528aac39" resname="settings.group.generic.name">
         <source>Custom Group</source>
-        <target state="needs-translation">Custom Group</target>
+        <target state="translated">Groupe personnalisé</target>
         <note>key: settings.group.generic.name</note>
       </trans-unit>
       <trans-unit id="64ca3f69fd80ec2885e8bdce3393e99d681d8527" resname="settings.group.location.description">
@@ -103,12 +103,12 @@
       </trans-unit>
       <trans-unit id="bd70b10ce1c6e7fa2b82938496f27116fb10b1d9" resname="settings.group.location.name">
         <source>Location</source>
-        <target state="needs-translation">Location</target>
+        <target state="translated">Emplacement</target>
         <note>key: settings.group.location.name</note>
       </trans-unit>
       <trans-unit id="3a4946ea2a7aaa360112cf1e657617e7ce7c7d9b" resname="settings.language.value.description">
         <source>Language</source>
-        <target state="needs-translation">Language</target>
+        <target state="translated">Langue</target>
         <note>key: settings.language.value.description</note>
       </trans-unit>
       <trans-unit id="593fb98cf76c44e48e00ce4ee027a6e54b6625fd" resname="settings.language.value.title">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="7f90e23e086f56c5f7b4a82c6e4b8f40732e6e6a" resname="user_setting.update.success">
         <source>User settings '%identifier%' updated.</source>
-        <target state="needs-translation">User settings '%identifier%' updated.</target>
+        <target state="translated">Les paramètres utilisateur '%identifier%' ont été mis à jour.</target>
         <note>key: user_setting.update.success</note>
       </trans-unit>
     </body>
