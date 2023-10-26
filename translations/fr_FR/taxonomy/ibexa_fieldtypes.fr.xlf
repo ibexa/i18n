@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="4ba5365c709d6167e9e56858c309a5e36503c0db" resname="ibexa_taxonomy_entry.name">
         <source>Taxonomy Entry</source>
-        <target state="needs-translation">Taxonomy Entry</target>
+        <target state="translated">Entrée de taxonomie</target>
         <note>key: ibexa_taxonomy_entry.name</note>
       </trans-unit>
       <trans-unit id="e9cd68453303e92dbd7a3c81da9f41c556014dba" resname="ibexa_taxonomy_entry_assignment.name">
