@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="57d5902302017c54f7a0965ff6bcd69a3dc03458" resname="policy.limitation.change_owner.forbid">
         <source>Forbid</source>
-        <target state="needs-translation">Forbid</target>
+        <target state="translated">Interdire</target>
         <note>key: policy.limitation.change_owner.forbid</note>
       </trans-unit>
       <trans-unit id="f6b396a2d7ba20e291c364b91a3189b672c4d4b9" resname="policy.limitation.group.self">
