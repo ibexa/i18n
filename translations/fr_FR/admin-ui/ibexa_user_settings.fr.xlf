@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="9f3b1a45a0ce10a940f96bdba73bba914cc78bb6" resname="list.title">
         <source>User settings</source>
-        <target state="needs-translation">User settings</target>
+        <target state="translated">Paramètres utilisateur</target>
         <note>key: list.title</note>
       </trans-unit>
       <trans-unit id="ecbb0cf3b32660e173d0b1e4af6a5c8470045128" resname="section.my_account_settings">
         <source>My account settings</source>
-        <target state="needs-translation">My account settings</target>
+        <target state="translated">Paramètres de mon compte</target>
         <note>key: section.my_account_settings</note>
       </trans-unit>
       <trans-unit id="a225cd02a97a3cff5001bf4651bbe84dc62c3631" resname="section.my_preferences">
         <source>My preferences</source>
-        <target state="needs-translation">My preferences</target>
+        <target state="translated">Mes préférences</target>
         <note>key: section.my_preferences</note>
       </trans-unit>
       <trans-unit id="53b6d0de00a5f914e863bed8b805457da18742ac" resname="settings.autosave.value.description">
@@ -58,22 +58,22 @@
       </trans-unit>
       <trans-unit id="3e6a40d77072c330caa54630a0ee78371e3b5bcc" resname="settings.in_context_translation.value.description">
         <source>Toggle In-Context translation feature</source>
-        <target state="needs-translation">Toggle In-Context translation feature</target>
+        <target state="translated">Activer/désactiver la fonction de traduction dans le contexte</target>
         <note>key: settings.in_context_translation.value.description</note>
       </trans-unit>
       <trans-unit id="3f33c08a95b774bfdcb67ade54bce7f62bd2ac54" resname="settings.in_context_translation.value.disabled">
         <source>disabled</source>
-        <target state="needs-translation">disabled</target>
+        <target state="translated">désactivé</target>
         <note>key: settings.in_context_translation.value.disabled</note>
       </trans-unit>
       <trans-unit id="08e33cb64156307a5a8197a0cdb4e254e6c4c5c5" resname="settings.in_context_translation.value.enabled">
         <source>enabled</source>
-        <target state="needs-translation">enabled</target>
+        <target state="translated">activé</target>
         <note>key: settings.in_context_translation.value.enabled</note>
       </trans-unit>
       <trans-unit id="655baeb177f1234a01684cf79c22ccdcaf5bee51" resname="settings.in_context_translation.value.title">
         <source>In-Context translation</source>
-        <target state="needs-translation">In-Context translation</target>
+        <target state="translated">Traduction dans le contexte</target>
         <note>key: settings.in_context_translation.value.title</note>
       </trans-unit>
     </body>
