@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="7caaa79d36b0520845802cfa3f7ebcc94318115b" resname="content_type.action.copy">
         <source>Duplicate</source>
-        <target state="needs-translation">Duplicate</target>
+        <target state="translated">Dupliquer</target>
         <note>key: content_type.action.copy</note>
       </trans-unit>
       <trans-unit id="779646634b8d89b40f5abaa2ccd6107b300bf429" resname="content_type.action.edit">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
         <source>Content Type '%name%' cannot be copied.</source>
-        <target state="needs-translation">Content Type '%name%' cannot be copied.</target>
+        <target state="translated">Le type de contenu '%name%' ne peut pas être copié.</target>
         <note>key: content_type.copy.error</note>
       </trans-unit>
       <trans-unit id="31674753c7d944af06b98387a96ce93f36f6adb4" resname="content_type.copy.success">
         <source>Content Type '%name%' copied.</source>
-        <target state="needs-translation">Content Type '%name%' copied.</target>
+        <target state="translated">Type de contenu '%name%' copié.</target>
         <note>key: content_type.copy.success</note>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: content_type.view.edit.add</note>
       </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="74aead78c735bbbce032dc9b00f9ca7a3632f166" resname="content_type.view.edit.default_header">
         <source>New field type</source>
-        <target state="needs-translation">New field type</target>
+        <target state="translated">Nouveau type de champ</target>
         <note>key: content_type.view.edit.default_header</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: content_type.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="da5f710198c48c803b3d0e2272e488903f92e569" resname="content_type.view.list.cannot_delete_notice">
@@ -833,12 +833,12 @@
       </trans-unit>
       <trans-unit id="fdcfd21005fcd975636d979b1be61e28bb88d875" resname="field_definition.ezuser.require_not_compromised_password">
         <source>Password must not be contained in a public breach.</source>
-        <target state="needs-translation">Password must not be contained in a public breach.</target>
+        <target state="translated">Le mot de passe ne doit pas être contenu dans une violation publique.</target>
         <note>key: field_definition.ezuser.require_not_compromised_password</note>
       </trans-unit>
       <trans-unit id="73a71072b428bec8a32c4ca1cf4813314b2a783d" resname="field_definition.ezuser.require_not_compromised_password_help">
         <source>This uses the API at %link% to securely check breach data. The password is not transmitted to the API.</source>
-        <target state="needs-translation">This uses the API at %link% to securely check breach data. The password is not transmitted to the API.</target>
+        <target state="translated">Cela utilise l'API à %link% pour vérifier de façon sécurisée les données de brèche. Le mot de passe n'est pas transmis à l'API.</target>
         <note>key: field_definition.ezuser.require_not_compromised_password_help</note>
       </trans-unit>
       <trans-unit id="100096c9b93ce532e7bf2f184d8e3f43374ae921" resname="field_definition.ezuser.require_unique_email">
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
         <source>Enable %type% for this Content Type</source>
-        <target state="needs-translation">Enable %type% for this Content Type</target>
+        <target state="translated">Activer %type% pour ce type de contenu</target>
         <note>key: meta.enabled</note>
       </trans-unit>
       <trans-unit id="fd1286353570c5703799ba76999323b7c7447b06" resname="no">
