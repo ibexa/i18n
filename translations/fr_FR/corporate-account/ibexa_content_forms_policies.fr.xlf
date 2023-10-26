@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="eb6b86434a36f71198b3d783c75748b43b1e1785" resname="policy.limitation.identifier.applicationstate">
         <source>Application State</source>
-        <target state="needs-translation">Application State</target>
+        <target state="translated">État de l'application</target>
         <note>key: policy.limitation.identifier.applicationstate</note>
       </trans-unit>
     </body>
