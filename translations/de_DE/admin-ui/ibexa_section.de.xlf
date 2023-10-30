@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name">
         <source>Name</source>
-        <target state="translated">Nom</target>
+        <target state="translated">Name</target>
         <note>key: section.name</note>
       </trans-unit>
       <trans-unit id="12023a25e9c04ceef708820416f14a5a1e188688" resname="section.new">
