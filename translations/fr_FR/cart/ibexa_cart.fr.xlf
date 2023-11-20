@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="6285fab36331fa98cf8ecfa7fef32ceac6259a7e" resname="add_to_cart.add_btn">
         <source>Add to cart</source>
-        <target state="needs-translation">Add to cart</target>
+        <target state="translated">Ajouter au panier</target>
         <note>key: add_to_cart.add_btn</note>
       </trans-unit>
       <trans-unit id="b65cff1cb06737742a728819507fc1a75c8ae4c9" resname="maincart.item.remove_btn.label">
         <source>Remove product</source>
-        <target state="needs-translation">Remove product</target>
+        <target state="translated">Retirer produit</target>
         <note>key: maincart.item.remove_btn.label</note>
       </trans-unit>
       <trans-unit id="36e01594025abca417d46248009ad6bdc5831764" resname="maincart.net_price">
         <source>%price% net</source>
-        <target state="needs-translation">%price% net</target>
+        <target state="translated">%price% net</target>
         <note>key: maincart.net_price</note>
       </trans-unit>
       <trans-unit id="cdeaef6396fd0c7c3b072e7326e3752de1ceb380" resname="policy.limitation.cartowner.self">
