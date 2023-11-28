@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="56b04a937d711b70b09f8b28110cd20f146117e3" resname="application.list.table.header.submitted_time">
         <source>Submitted Time</source>
-        <target state="needs-translation">Submitted Time</target>
+        <target state="translated">Heure de soumission</target>
         <note>key: application.list.table.header.submitted_time</note>
       </trans-unit>
       <trans-unit id="383771fe427ec3ea70ee9a80846de8727613eef7" resname="application.list.table.headline">
@@ -263,127 +263,127 @@
       </trans-unit>
       <trans-unit id="1fda2485755270b930fb0b950f9cbb643bb0182b" resname="application.workflow.extra_actions.sales_rep">
         <source>Select Sales Representative</source>
-        <target state="needs-translation">Select Sales Representative</target>
+        <target state="translated">Sélectionnez un représentant de vente</target>
         <note>key: application.workflow.extra_actions.sales_rep</note>
       </trans-unit>
       <trans-unit id="1ae4d5429736291ab1313721b848c30fe6723121" resname="comapany.create.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création en cours</target>
         <note>key: comapany.create.action_name</note>
       </trans-unit>
       <trans-unit id="8fa0d5464c0ab82e43f3a908bb4292b0b15445ff" resname="comapany.create.section.basic_information.title">
         <source>Company information</source>
-        <target state="needs-translation">Company information</target>
+        <target state="translated">Informations sur la société</target>
         <note>key: comapany.create.section.basic_information.title</note>
       </trans-unit>
       <trans-unit id="10d9a9f866b45df65fc46ec0cfb52eda1e034a49" resname="comapany.create.section.billing_address.title">
         <source>Billing address</source>
-        <target state="needs-translation">Billing address</target>
+        <target state="translated">Adresse de facturation</target>
         <note>key: comapany.create.section.billing_address.title</note>
       </trans-unit>
       <trans-unit id="e9a7b3c857c480488e33fef33331da4993e75d38" resname="comapany.create.section.company.title">
         <source>Company</source>
-        <target state="needs-translation">Company</target>
+        <target state="translated">Entreprise</target>
         <note>key: comapany.create.section.company.title</note>
       </trans-unit>
       <trans-unit id="ee14c2582cf6e9fd44f37d8c7b8f0ba62310562f" resname="comapany.create.section.member.title">
         <source>Member</source>
-        <target state="needs-translation">Member</target>
+        <target state="translated">Membre</target>
         <note>key: comapany.create.section.member.title</note>
       </trans-unit>
       <trans-unit id="18dc733bcbd70e1dfcb5e26899fc1d4f30d2d55b" resname="comapany.create.title">
         <source>New %contentType%</source>
-        <target state="needs-translation">New %contentType%</target>
+        <target state="translated">Nouveau %contentType%</target>
         <note>key: comapany.create.title</note>
       </trans-unit>
       <trans-unit id="f1358c678420793e775218afddb8e61c0382aabe" resname="comapany.list.search.placeholder">
         <source>Search by name</source>
-        <target state="needs-translation">Search by name</target>
+        <target state="translated">Rechercher par nom</target>
         <note>key: comapany.list.search.placeholder</note>
       </trans-unit>
       <trans-unit id="99861990c138b88d8f5110c353747e4c61e06eca" resname="company.create.cancel_btn.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: company.create.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="43e48b14b1577a4b32f12feb7b0264f5c4405449" resname="company.create.save_btn.label">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Sauver</target>
         <note>key: company.create.save_btn.label</note>
       </trans-unit>
       <trans-unit id="4f7e4db7570b510049f37cd9c2d269ee73daad19" resname="company.create.success">
         <source>Company created.</source>
-        <target state="needs-translation">Company created.</target>
+        <target state="translated">Société créée.</target>
         <note>key: company.create.success</note>
       </trans-unit>
       <trans-unit id="98f3af0d92904d5d7836337146411b52f50b5216" resname="company.deactivate.success">
         <source>Company '%name%' de-activated.</source>
-        <target state="needs-translation">Company '%name%' de-activated.</target>
+        <target state="translated">La société '%name%' a été désactivée.</target>
         <note>key: company.deactivate.success</note>
       </trans-unit>
       <trans-unit id="50a3e28efad3099ccc1d61d393bd5c839a0c1ac6" resname="company.details.tab.address_book.label">
         <source>Address book</source>
-        <target state="needs-translation">Address book</target>
+        <target state="translated">Carnet d’adresses</target>
         <note>key: company.details.tab.address_book.label</note>
       </trans-unit>
       <trans-unit id="40a022b4f4ceb3f866f8083cfbdf99d53ae4f1cb" resname="company.details.tab.address_book.shipping_address.table.action.add_new.label">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: company.details.tab.address_book.shipping_address.table.action.add_new.label</note>
       </trans-unit>
       <trans-unit id="73bd6e82d1d42c656e482adda87b8f7432e0e3f9" resname="company.details.tab.address_book.shipping_address.table.action.delete.label">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: company.details.tab.address_book.shipping_address.table.action.delete.label</note>
       </trans-unit>
       <trans-unit id="0f71c1f7b5eb2beb5d2e950ae2dc3949a2f9b48e" resname="company.details.tab.address_book.shipping_address.table.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: company.details.tab.address_book.shipping_address.table.action.edit</note>
       </trans-unit>
       <trans-unit id="bb0610e0c96f3401684538d02c9f3a9a9479e1c1" resname="company.details.tab.address_book.shipping_address.table.header.address">
         <source>Address</source>
-        <target state="needs-translation">Address</target>
+        <target state="translated">Adresse</target>
         <note>key: company.details.tab.address_book.shipping_address.table.header.address</note>
       </trans-unit>
       <trans-unit id="991f170a6ff8326e1295be8b6b0c8009e3e234c5" resname="company.details.tab.address_book.shipping_address.table.header.deafault">
         <source>Default</source>
-        <target state="needs-translation">Default</target>
+        <target state="translated">Défaut</target>
         <note>key: company.details.tab.address_book.shipping_address.table.header.deafault</note>
       </trans-unit>
       <trans-unit id="3f02f71de071dbaa6204a6095b017d10281885ea" resname="company.details.tab.address_book.shipping_address.table.header.email_address">
         <source>Email address</source>
-        <target state="needs-translation">Email address</target>
+        <target state="translated">Adresse E-mail</target>
         <note>key: company.details.tab.address_book.shipping_address.table.header.email_address</note>
       </trans-unit>
       <trans-unit id="96be803067e724cc96ecbe57d4d9a277ee1509d3" resname="company.details.tab.address_book.shipping_address.table.header.phone">
         <source>Phone</source>
-        <target state="needs-translation">Phone</target>
+        <target state="translated">Téléphone</target>
         <note>key: company.details.tab.address_book.shipping_address.table.header.phone</note>
       </trans-unit>
       <trans-unit id="c023ca4853523a807e7ba05c215171e2fd874c71" resname="company.details.tab.company_profile.basic_information.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: company.details.tab.company_profile.basic_information.action.edit</note>
       </trans-unit>
       <trans-unit id="ee0a0ef9266893d288b7d02672edf10121aa294a" resname="company.details.tab.company_profile.basic_information.customer_group">
         <source>Customer Group</source>
-        <target state="needs-translation">Customer Group</target>
+        <target state="translated">Groupe de clients</target>
         <note>key: company.details.tab.company_profile.basic_information.customer_group</note>
       </trans-unit>
       <trans-unit id="e9575ba42fd1424616ee8647024e3bfb5069749c" resname="company.details.tab.company_profile.basic_information.headline">
         <source>Basic information</source>
-        <target state="needs-translation">Basic information</target>
+        <target state="translated">Informations générales</target>
         <note>key: company.details.tab.company_profile.basic_information.headline</note>
       </trans-unit>
       <trans-unit id="db21d3291f9026d964a47a4997cea83dea2977eb" resname="company.details.tab.company_profile.basic_information.name">
         <source>Company name</source>
-        <target state="needs-translation">Company name</target>
+        <target state="translated">Nom de la société</target>
         <note>key: company.details.tab.company_profile.basic_information.name</note>
       </trans-unit>
       <trans-unit id="57bcecc0f4450a9d3896baaf853f995e5e551bd9" resname="company.details.tab.company_profile.basic_information.sales_rep">
         <source>Sales Representative</source>
-        <target state="needs-translation">Sales Representative</target>
+        <target state="translated">Représentant des ventes</target>
         <note>key: company.details.tab.company_profile.basic_information.sales_rep</note>
       </trans-unit>
       <trans-unit id="0242efecf054e3347303a46f82087c9470a07149" resname="company.details.tab.company_profile.basic_information.vat">
@@ -393,72 +393,72 @@
       </trans-unit>
       <trans-unit id="fee1b61032434c2ca517b42e072ae10fece8548b" resname="company.details.tab.company_profile.basic_information.website">
         <source>Website</source>
-        <target state="needs-translation">Website</target>
+        <target state="translated">Site Web</target>
         <note>key: company.details.tab.company_profile.basic_information.website</note>
       </trans-unit>
       <trans-unit id="5aea599dca69529ff65b3bd7e1f1764fb7fe99b7" resname="company.details.tab.company_profile.contact.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: company.details.tab.company_profile.contact.action.edit</note>
       </trans-unit>
       <trans-unit id="16b80ff453a225a02c4cc47349cd88fbe6eaf9ad" resname="company.details.tab.company_profile.contact.email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">E-mail</target>
         <note>key: company.details.tab.company_profile.contact.email</note>
       </trans-unit>
       <trans-unit id="db173cad4d89dfde98ec4ab5259af2b09d49eb77" resname="company.details.tab.company_profile.contact.headline">
         <source>Contact person</source>
-        <target state="needs-translation">Contact person</target>
+        <target state="translated">Personne de contact</target>
         <note>key: company.details.tab.company_profile.contact.headline</note>
       </trans-unit>
       <trans-unit id="8756d5ae89840b6588a98e558f5d5ef8cd6e05d4" resname="company.details.tab.company_profile.contact.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nom</target>
         <note>key: company.details.tab.company_profile.contact.name</note>
       </trans-unit>
       <trans-unit id="33c2371602d8eac4ea6b07c172f8117829b53f8b" resname="company.details.tab.company_profile.contact.phone">
         <source>Phone</source>
-        <target state="needs-translation">Phone</target>
+        <target state="translated">Téléphone</target>
         <note>key: company.details.tab.company_profile.contact.phone</note>
       </trans-unit>
       <trans-unit id="72a5beecc2213b0b2a4a4fd85863525544619602" resname="company.details.tab.company_profile.label">
         <source>Company profile</source>
-        <target state="needs-translation">Company profile</target>
+        <target state="translated">Profil de la société</target>
         <note>key: company.details.tab.company_profile.label</note>
       </trans-unit>
       <trans-unit id="d16e46742bde7c65e4d89cf6b3526ad47d61abca" resname="company.details.tab.invitations.label">
         <source>Invitations</source>
-        <target state="needs-translation">Invitations</target>
+        <target state="translated">Invitations</target>
         <note>key: company.details.tab.invitations.label</note>
       </trans-unit>
       <trans-unit id="9e6000aba816f20b17c956bf5be9d359781241c0" resname="company.details.tab.invitations.table.invitations.action.invite">
         <source>Invite member</source>
-        <target state="needs-translation">Invite member</target>
+        <target state="translated">Inviter un membre</target>
         <note>key: company.details.tab.invitations.table.invitations.action.invite</note>
       </trans-unit>
       <trans-unit id="8ca0ef26c24c81f2294e23e42c39662df04e138d" resname="company.details.tab.members.label">
         <source>Members</source>
-        <target state="needs-translation">Members</target>
+        <target state="translated">Membres</target>
         <note>key: company.details.tab.members.label</note>
       </trans-unit>
       <trans-unit id="f722206893bf662fa93c9c57b7808f0778412649" resname="company.details.tab.members.table.users.action.add_new">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: company.details.tab.members.table.users.action.add_new</note>
       </trans-unit>
       <trans-unit id="29919e7346d79b09ed0e3426178f2727d17dc44d" resname="company.details.tab.summary.basic_information.headline">
         <source>Basic information</source>
-        <target state="needs-translation">Basic information</target>
+        <target state="translated">Informations générales</target>
         <note>key: company.details.tab.summary.basic_information.headline</note>
       </trans-unit>
       <trans-unit id="0d007b76e0d8cac6cd395c063d1d6a9116389b81" resname="company.details.tab.summary.basic_information.location">
         <source>Location</source>
-        <target state="needs-translation">Location</target>
+        <target state="translated">Localisation</target>
         <note>key: company.details.tab.summary.basic_information.location</note>
       </trans-unit>
       <trans-unit id="655d2298a12267e20817f4eae10dacbff065bb21" resname="company.details.tab.summary.basic_information.sales_rep">
         <source>Sales Representative</source>
-        <target state="needs-translation">Sales Representative</target>
+        <target state="translated">Représentant des ventes</target>
         <note>key: company.details.tab.summary.basic_information.sales_rep</note>
       </trans-unit>
       <trans-unit id="ad42bf98c54e456c6c21340f4dc1bc3dd28cbd20" resname="company.details.tab.summary.basic_information.vat">
@@ -468,32 +468,32 @@
       </trans-unit>
       <trans-unit id="69f153bfd59138126acbbf8d630081a38396c255" resname="company.details.tab.summary.basic_information.website">
         <source>Website</source>
-        <target state="needs-translation">Website</target>
+        <target state="translated">Site Web</target>
         <note>key: company.details.tab.summary.basic_information.website</note>
       </trans-unit>
       <trans-unit id="576067a5c78b91acb8206980176526832215dff2" resname="company.details.tab.summary.commerce_stat.header">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">Commerce</target>
         <note>key: company.details.tab.summary.commerce_stat.header</note>
       </trans-unit>
       <trans-unit id="124da6b46bebd5b7acc77443a7d1d128ee059b56" resname="company.details.tab.summary.commerce_stat.label.group">
         <source>Group</source>
-        <target state="needs-translation">Group</target>
+        <target state="translated">Groupe</target>
         <note>key: company.details.tab.summary.commerce_stat.label.group</note>
       </trans-unit>
       <trans-unit id="bc5720a07a48816ef3a117d718887ab6f97fef0e" resname="company.details.tab.summary.commerce_stat.label.sales_last_year">
         <source>Sales last year</source>
-        <target state="needs-translation">Sales last year</target>
+        <target state="translated">Ventes de l'année dernière</target>
         <note>key: company.details.tab.summary.commerce_stat.label.sales_last_year</note>
       </trans-unit>
       <trans-unit id="648cdc5a35d5c386b2af96483d38ffc8caf0e838" resname="company.details.tab.summary.commerce_stat.label.sales_this_year">
         <source>Sales this year</source>
-        <target state="needs-translation">Sales this year</target>
+        <target state="translated">Ventes de cette année</target>
         <note>key: company.details.tab.summary.commerce_stat.label.sales_this_year</note>
       </trans-unit>
       <trans-unit id="3bea514f5bf107b55bf53e82bbc9239acde5779d" resname="company.details.tab.summary.contact_person.header">
         <source>Contact person</source>
-        <target state="needs-translation">Contact person</target>
+        <target state="translated">Personne de contact</target>
         <note>key: company.details.tab.summary.contact_person.header</note>
       </trans-unit>
       <trans-unit id="87b22f50b17f79b3c430565aa30390b44a175bf3" resname="company.details.tab.summary.contact_person.label.email">
@@ -748,7 +748,7 @@
       </trans-unit>
       <trans-unit id="326bdebfa0b6b3a9a4ec7b93fd328df395d53551" resname="individual.list.breadcrumbs">
         <source>Clients</source>
-        <target state="needs-translation">Clients</target>
+        <target state="translated">Clients</target>
         <note>key: individual.list.breadcrumbs</note>
       </trans-unit>
       <trans-unit id="c2251ea6f675f9591be47958ef7df7769b38c6c8" resname="individual.list.edit.title">
@@ -988,12 +988,12 @@
       </trans-unit>
       <trans-unit id="7a7883de3358a7a3204b40417fec24b809646684" resname="table.billing_address.empty.info">
         <source>Company has no billing address.</source>
-        <target state="needs-translation">Company has no billing address.</target>
+        <target state="translated">L'entreprise n'a pas d'adresse de facturation.</target>
         <note>key: table.billing_address.empty.info</note>
       </trans-unit>
       <trans-unit id="bba40409510cf66ce90caed27f5b7650a53c0838" resname="table.billing_address.header.address">
         <source>Address</source>
-        <target state="needs-translation">Address</target>
+        <target state="translated">Adresse</target>
         <note>key: table.billing_address.header.address</note>
       </trans-unit>
       <trans-unit id="6e8441ceb5dda46a58e024a5ece4e391eabd774d" resname="table.billing_address.header.email">
