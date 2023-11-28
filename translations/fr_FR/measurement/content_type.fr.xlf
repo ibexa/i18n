@@ -8,87 +8,87 @@
     <body>
       <trans-unit id="1f56990d9a1672db3eaf09513cf61e793775db7d" resname="field_definition.ibexa_measurement.default_range_maximum">
         <source>Default Range Maximum</source>
-        <target state="needs-translation">Default Range Maximum</target>
+        <target state="translated">Plage maximale par défaut</target>
         <note>key: field_definition.ibexa_measurement.default_range_maximum</note>
       </trans-unit>
       <trans-unit id="b9fe4e2707a4d80cdc33861e0759a94c462e5700" resname="field_definition.ibexa_measurement.default_range_minimum">
         <source>Default Range Minimum</source>
-        <target state="needs-translation">Default Range Minimum</target>
+        <target state="translated">Plage minimale par défaut</target>
         <note>key: field_definition.ibexa_measurement.default_range_minimum</note>
       </trans-unit>
       <trans-unit id="94448b912742870cba5118671e6eeed0c51ab597" resname="field_definition.ibexa_measurement.default_value">
         <source>Default Value</source>
-        <target state="needs-translation">Default Value</target>
+        <target state="translated">Valeur par défaut</target>
         <note>key: field_definition.ibexa_measurement.default_value</note>
       </trans-unit>
       <trans-unit id="2d213f41b76c96a3ae533eda5a2f4342c68f0b19" resname="field_definition.ibexa_measurement.maximum">
         <source>Maximum Value</source>
-        <target state="needs-translation">Maximum Value</target>
+        <target state="translated">Valeur maximale</target>
         <note>key: field_definition.ibexa_measurement.maximum</note>
       </trans-unit>
       <trans-unit id="0f48418fc0f28490e24e8f95083e6b2df3786966" resname="field_definition.ibexa_measurement.measurement_input_type">
         <source>Input Type</source>
-        <target state="needs-translation">Input Type</target>
+        <target state="translated">Type de champ</target>
         <note>key: field_definition.ibexa_measurement.measurement_input_type</note>
       </trans-unit>
       <trans-unit id="fda0aaa81dc79a71fca3284291433ee3d366a973" resname="field_definition.ibexa_measurement.measurement_input_type.value.range">
         <source>Range</source>
-        <target state="needs-translation">Range</target>
+        <target state="translated">Plage</target>
         <note>key: field_definition.ibexa_measurement.measurement_input_type.value.range</note>
       </trans-unit>
       <trans-unit id="192af71075c37719fdd26a30c1e536b1a9b60aad" resname="field_definition.ibexa_measurement.measurement_input_type.value.simple">
         <source>Simple Input</source>
-        <target state="needs-translation">Simple Input</target>
+        <target state="translated">Champ simple</target>
         <note>key: field_definition.ibexa_measurement.measurement_input_type.value.simple</note>
       </trans-unit>
       <trans-unit id="3357035ab76b1dc59b9640878df01920509f7800" resname="field_definition.ibexa_measurement.measurement_sign">
         <source>Sign</source>
-        <target state="needs-translation">Sign</target>
+        <target state="translated">Signer</target>
         <note>key: field_definition.ibexa_measurement.measurement_sign</note>
       </trans-unit>
       <trans-unit id="98fe5cd54903d29fb1c4901b288f0ed26a024bb6" resname="field_definition.ibexa_measurement.measurement_sign.value.gt">
         <source><![CDATA[> greater than]]></source>
-        <target state="needs-translation"><![CDATA[> greater than]]></target>
+        <target state="translated"><![CDATA[> (supérieur à)]]></target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.gt</note>
       </trans-unit>
       <trans-unit id="d756b9e2c92ff95381e7ebd0c10385394b4330a0" resname="field_definition.ibexa_measurement.measurement_sign.value.gte">
         <source>≥ greater than or equal to</source>
-        <target state="needs-translation">≥ greater than or equal to</target>
+        <target state="translated">≥ (supérieur ou égal)</target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.gte</note>
       </trans-unit>
       <trans-unit id="b1871008b3cad47a3776440e76f83b62a5e328a3" resname="field_definition.ibexa_measurement.measurement_sign.value.lt">
         <source><![CDATA[< less than]]></source>
-        <target state="needs-translation"><![CDATA[< less than]]></target>
+        <target state="translated"><![CDATA[< (inférieur à)]]></target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.lt</note>
       </trans-unit>
       <trans-unit id="7d6bab04f37a015b3cd49b796fd91ebd6d018db9" resname="field_definition.ibexa_measurement.measurement_sign.value.lte">
         <source>≤ less than or equal to</source>
-        <target state="needs-translation">≤ less than or equal to</target>
+        <target state="translated">≤ (inférieur ou égal)</target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.lte</note>
       </trans-unit>
       <trans-unit id="c665f2a1e5cf2ba3dbc062911f38dcd9ccce7a2f" resname="field_definition.ibexa_measurement.measurement_sign.value.none">
         <source>none</source>
-        <target state="needs-translation">none</target>
+        <target state="translated">aucun</target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.none</note>
       </trans-unit>
       <trans-unit id="18d9c60e97eabafe82aabe2b43e5cd02006d3842" resname="field_definition.ibexa_measurement.measurement_sign.value.pm">
         <source>± plus/minus</source>
-        <target state="needs-translation">± plus/minus</target>
+        <target state="translated">± plus/moins</target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.pm</note>
       </trans-unit>
       <trans-unit id="ab648d85011d331f8adf4c56b97dc68d45b63f95" resname="field_definition.ibexa_measurement.measurement_type">
         <source>Measurement Type</source>
-        <target state="needs-translation">Measurement Type</target>
+        <target state="translated">Type de mesure</target>
         <note>key: field_definition.ibexa_measurement.measurement_type</note>
       </trans-unit>
       <trans-unit id="5157b0602c53597ca45dfcf2e3b5e28693443d16" resname="field_definition.ibexa_measurement.measurement_unit">
         <source>Base Unit</source>
-        <target state="needs-translation">Base Unit</target>
+        <target state="translated">Unité de base</target>
         <note>key: field_definition.ibexa_measurement.measurement_unit</note>
       </trans-unit>
       <trans-unit id="0f3a5cf2d0467ee8b3689221be5ece5b9deb95f1" resname="field_definition.ibexa_measurement.minimum">
         <source>Minimum Value</source>
-        <target state="needs-translation">Minimum Value</target>
+        <target state="translated">Valeur minimale</target>
         <note>key: field_definition.ibexa_measurement.minimum</note>
       </trans-unit>
     </body>
