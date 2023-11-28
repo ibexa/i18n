@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="7b351cb752fb361875b3eca35b0dc5810c3ee76c" resname="content.field_type.ibexa_measurement.range_maximum_value">
         <source>Maximum</source>
-        <target state="needs-translation">Maximum</target>
+        <target state="translated">Maximum</target>
         <note>key: content.field_type.ibexa_measurement.range_maximum_value</note>
       </trans-unit>
       <trans-unit id="77ce1e3c613ae56f36a5c8cac08bceedc82af214" resname="content.field_type.ibexa_measurement.range_minimum_value">
         <source>Minimum</source>
-        <target state="needs-translation">Minimum</target>
+        <target state="translated">Minimum</target>
         <note>key: content.field_type.ibexa_measurement.range_minimum_value</note>
       </trans-unit>
       <trans-unit id="c8b39c7a010713902ffde37e1f5ec81d200eb3dd" resname="content.field_type.ibexa_measurement.value">
         <source>Value</source>
-        <target state="needs-translation">Value</target>
+        <target state="translated">Valeur</target>
         <note>key: content.field_type.ibexa_measurement.value</note>
       </trans-unit>
       <trans-unit id="5157b0602c53597ca45dfcf2e3b5e28693443d16" resname="field_definition.ibexa_measurement.measurement_unit">
         <source>Measurement Unit</source>
-        <target state="needs-translation">Measurement Unit</target>
+        <target state="translated">Unité de mesure</target>
         <note>key: field_definition.ibexa_measurement.measurement_unit</note>
       </trans-unit>
     </body>
