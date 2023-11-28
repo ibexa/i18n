@@ -173,47 +173,47 @@
       </trans-unit>
       <trans-unit id="306b38eeccd457e430728f21bf8b526d39ca6dc7" resname="scenario.edit.exclude_minimal_item_price.label">
         <source>Amount</source>
-        <target state="needs-translation">Amount</target>
+        <target state="translated">Montant</target>
         <note>key: scenario.edit.exclude_minimal_item_price.label</note>
       </trans-unit>
       <trans-unit id="ed15523a6915ee689ea6ecf441c42e317662447e" resname="scenario.edit.exclude_repeated_recommendations.">
         <source>Max. repeated shows of identical recommendations per session.</source>
-        <target state="needs-translation">Max. repeated shows of identical recommendations per session.</target>
+        <target state="translated">Max. séries répétées de recommandations identiques par session.</target>
         <note>key: scenario.edit.exclude_repeated_recommendations.</note>
       </trans-unit>
       <trans-unit id="179113ce1d5ce4a4d252cbe1db23bbc8686ab52e" resname="scenario.edit.exclude_repeated_recommendations.label">
         <source>Amount</source>
-        <target state="needs-translation">Amount</target>
+        <target state="translated">Montant</target>
         <note>key: scenario.edit.exclude_repeated_recommendations.label</note>
       </trans-unit>
       <trans-unit id="d0d43d3599208e43af3a077e5b64093ce9de34e8" resname="scenario.edit.user_attribute_name">
         <source>User attribute has different name</source>
-        <target state="needs-translation">User attribute has different name</target>
+        <target state="translated">L'attribut utilisateur a un nom différent</target>
         <note>key: scenario.edit.user_attribute_name</note>
       </trans-unit>
       <trans-unit id="f8cb075e68ee0d4580e70b92da8912e2ace02c6e" resname="scenarios.add_item">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: scenarios.add_item</note>
       </trans-unit>
       <trans-unit id="556c8f71713b16de4fc1f2c51a439eda65c422c9" resname="scenarios.context_items.title">
         <source>Set up items</source>
-        <target state="needs-translation">Set up items</target>
+        <target state="translated">Configurez les éléments</target>
         <note>key: scenarios.context_items.title</note>
       </trans-unit>
       <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
         <source>From date - to date</source>
-        <target state="needs-translation">From date - to date</target>
+        <target state="translated">De la date - jusqu'à la date</target>
         <note>key: search.date.range</note>
       </trans-unit>
       <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
         <source><![CDATA[I have read and agree to the <a class='ibexa-perso-welcome__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
-        <target state="needs-translation"><![CDATA[I have read and agree to the <a class='ibexa-perso-welcome__show-modal-button' href='#'>Terms and Conditions.</a>]]></target>
+        <target state="translated"><![CDATA[J'ai lu et j'accepte les <a class='ibexa-perso-welcome__show-modal-button' href='#'>Conditions Générales.</a>]]></target>
         <note>key: welcome.form.tems_accept</note>
       </trans-unit>
       <trans-unit id="8ca1884015c59d5115a04c940d0eaa0cb6d938b6" resname="welcome.form.tems_accept_description">
         <source>If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</source>
-        <target state="needs-translation">If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</target>
+        <target state="translated">Si vous acceptez ces conditions pour le compte d'une autre personne ou société ou d'une autre personne morale. Vous déclarez et garantissez que vous avez pleine autorité pour lier cette personne, cette société ou cette entité juridique aux présentes conditions.</target>
         <note>key: welcome.form.tems_accept_description</note>
       </trans-unit>
     </body>
