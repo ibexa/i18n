@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="cdeaef6396fd0c7c3b072e7326e3752de1ceb380" resname="policy.limitation.cartowner.self">
         <source>Self</source>
-        <target state="needs-translation">Self</target>
+        <target state="translated">Soi-même</target>
         <note>key: policy.limitation.cartowner.self</note>
       </trans-unit>
       <trans-unit id="7f3ae93be6562e2257084010674446e01bb38b1e" resname="quick_order.add_entry">
