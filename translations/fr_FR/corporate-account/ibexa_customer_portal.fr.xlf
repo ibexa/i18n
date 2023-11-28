@@ -497,77 +497,77 @@
       </trans-unit>
       <trans-unit id="fa81b7a926fe90fcad4e5affde9e55dda7378d66" resname="registration_confirmation.image">
         <source>registration confirmation</source>
-        <target state="needs-translation">registration confirmation</target>
+        <target state="translated">confirmation d'inscription</target>
         <note>key: registration_confirmation.image</note>
       </trans-unit>
       <trans-unit id="49c6026a629b3dbe922fe8e824acc26763d9273f" resname="registration_confirmation.image.alt.success">
         <source>Registration successful</source>
-        <target state="needs-translation">Registration successful</target>
+        <target state="translated">Enregistrement réussi</target>
         <note>key: registration_confirmation.image.alt.success</note>
       </trans-unit>
       <trans-unit id="6fc866ce4a39797136c01cfcea23618b85215fce" resname="registration_confirmation.info.after_info">
         <source>Once your application has been approved, you will be able to customize your account.</source>
-        <target state="needs-translation">Once your application has been approved, you will be able to customize your account.</target>
+        <target state="translated">Une fois votre demande approuvée, vous pourrez personnaliser votre compte.</target>
         <note>key: registration_confirmation.info.after_info</note>
       </trans-unit>
       <trans-unit id="a7cb31f8dc3d307861502b44c2b496c385d17fe6" resname="registration_confirmation.info.appoval_info.notified">
         <source>You will be notified when the application is approved.</source>
-        <target state="needs-translation">You will be notified when the application is approved.</target>
+        <target state="translated">Vous serez averti lorsque la demande sera approuvée.</target>
         <note>key: registration_confirmation.info.appoval_info.notified</note>
       </trans-unit>
       <trans-unit id="28696414989edd11797cb69a337c2fc9521ed446" resname="registration_confirmation.info.appoval_info.will_be_reviewed">
         <source>Your application has been submitted and will be reviewed for approval.</source>
-        <target state="needs-translation">Your application has been submitted and will be reviewed for approval.</target>
+        <target state="translated">Votre demande a été soumise et sera examinée pour approbation.</target>
         <note>key: registration_confirmation.info.appoval_info.will_be_reviewed</note>
       </trans-unit>
       <trans-unit id="c4e6ef896ca736301761f12d5be2f8241e5d496c" resname="registration_confirmation.info.title">
         <source>Thanks for registration!</source>
-        <target state="needs-translation">Thanks for registration!</target>
+        <target state="translated">Merci pour votre inscription!</target>
         <note>key: registration_confirmation.info.title</note>
       </trans-unit>
       <trans-unit id="19f3e919f2c0f7a4c6ba864454f9740262058da9" resname="registration_wait.image.alt">
         <source>registration is currently locked</source>
-        <target state="needs-translation">registration is currently locked</target>
+        <target state="translated">l'inscription est actuellement verrouillée</target>
         <note>key: registration_wait.image.alt</note>
       </trans-unit>
       <trans-unit id="a452422825b43e61f1c0475af0028f3b56916380" resname="registration_wait.info.explanation">
         <source>As a security measure, registration is locked for another 5 minutes to prevent malicious behaviour.</source>
-        <target state="needs-translation">As a security measure, registration is locked for another 5 minutes to prevent malicious behaviour.</target>
+        <target state="translated">À titre de mesure de sécurité, l'enregistrement est verrouillé pendant 5 minutes supplémentaires pour prévenir les comportements malveillants.</target>
         <note>key: registration_wait.info.explanation</note>
       </trans-unit>
       <trans-unit id="073a3a0d9fe3cbdb0465e8db803ec3b5e04a26d7" resname="registration_wait.info.title">
         <source>Registration is currently locked.</source>
-        <target state="needs-translation">Registration is currently locked.</target>
+        <target state="translated">L'inscription est actuellement verrouillée.</target>
         <note>key: registration_wait.info.title</note>
       </trans-unit>
       <trans-unit id="92d4e1c85e73e214d86a7343938fe45c8e6e80ed" resname="registration_wait.info.try_again">
         <source>Please, try again later.</source>
-        <target state="needs-translation">Please, try again later.</target>
+        <target state="translated">Veuillez réessayer plus tard.</target>
         <note>key: registration_wait.info.try_again</note>
       </trans-unit>
       <trans-unit id="91738d66d84b6f1586b56099ef60b525d611862b" resname="user_profile.email.label">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">E-mail</target>
         <note>key: user_profile.email.label</note>
       </trans-unit>
       <trans-unit id="94c2a9315a0efe1dc22dc0708ae5ca29169848c3" resname="user_profile.phone.label">
         <source>Phone</source>
-        <target state="needs-translation">Phone</target>
+        <target state="translated">Téléphone</target>
         <note>key: user_profile.phone.label</note>
       </trans-unit>
       <trans-unit id="1e2e623cc917d695a57bd1e9208b133a3449b13b" resname="website.brand">
         <source>Customer Portal</source>
-        <target state="needs-translation">Customer Portal</target>
+        <target state="translated">Portail client</target>
         <note>key: website.brand</note>
       </trans-unit>
       <trans-unit id="82d3800f1e161691a8a24cc55a9b5575977d2b42" resname="website.header.user_menu.logout">
         <source>Logout</source>
-        <target state="needs-translation">Logout</target>
+        <target state="translated">Déconnexion</target>
         <note>key: website.header.user_menu.logout</note>
       </trans-unit>
       <trans-unit id="c59dc9464cf7dbb571f86d9f823996586285c113" resname="website.title">
         <source>Customer Portal</source>
-        <target state="needs-translation">Customer Portal</target>
+        <target state="translated">Portail client</target>
         <note>key: website.title</note>
       </trans-unit>
     </body>
