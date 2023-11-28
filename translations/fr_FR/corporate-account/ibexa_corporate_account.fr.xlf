@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="141135f7d86a61a9af89ba66f89a81e06e094a84" resname="application.workflow.extra_actions.reject.title">
         <source>Rejecting application</source>
-        <target state="needs-translation">Rejecting application</target>
+        <target state="translated">Refus de la demande</target>
         <note>key: application.workflow.extra_actions.reject.title</note>
       </trans-unit>
       <trans-unit id="1fda2485755270b930fb0b950f9cbb643bb0182b" resname="application.workflow.extra_actions.sales_rep">
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="0242efecf054e3347303a46f82087c9470a07149" resname="company.details.tab.company_profile.basic_information.vat">
         <source>Tax ID</source>
-        <target state="needs-translation">Tax ID</target>
+        <target state="translated">ID de taxe</target>
         <note>key: company.details.tab.company_profile.basic_information.vat</note>
       </trans-unit>
       <trans-unit id="fee1b61032434c2ca517b42e072ae10fece8548b" resname="company.details.tab.company_profile.basic_information.website">
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="ad42bf98c54e456c6c21340f4dc1bc3dd28cbd20" resname="company.details.tab.summary.basic_information.vat">
         <source>Tax ID</source>
-        <target state="needs-translation">Tax ID</target>
+        <target state="translated">ID de taxe</target>
         <note>key: company.details.tab.summary.basic_information.vat</note>
       </trans-unit>
       <trans-unit id="69f153bfd59138126acbbf8d630081a38396c255" resname="company.details.tab.summary.basic_information.website">
@@ -753,237 +753,237 @@
       </trans-unit>
       <trans-unit id="c2251ea6f675f9591be47958ef7df7769b38c6c8" resname="individual.list.edit.title">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: individual.list.edit.title</note>
       </trans-unit>
       <trans-unit id="1c6c6633952f88ab59655e8eb3141cab907f5565" resname="individual.list.search.placeholder">
         <source>Search by name</source>
-        <target state="needs-translation">Search by name</target>
+        <target state="translated">Rechercher par nom</target>
         <note>key: individual.list.search.placeholder</note>
       </trans-unit>
       <trans-unit id="9d598cd7470834b5cffa64e00e0ae6a73fecf7b4" resname="individual.list.table.customer_group">
         <source>Customer Group</source>
-        <target state="needs-translation">Customer Group</target>
+        <target state="translated">Groupe de clients</target>
         <note>key: individual.list.table.customer_group</note>
       </trans-unit>
       <trans-unit id="0bb54244bb9de1805c6e51e50dc48d3c21e01ba2" resname="individual.list.table.empty">
         <source>Clients list is empty</source>
-        <target state="needs-translation">Clients list is empty</target>
+        <target state="translated">La liste des clients est vide</target>
         <note>key: individual.list.table.empty</note>
       </trans-unit>
       <trans-unit id="51144bcba98929e2570babdb721e512026183a83" resname="individual.list.table.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nom</target>
         <note>key: individual.list.table.name</note>
       </trans-unit>
       <trans-unit id="7b09ff249bf0515baabe9461cd99619adf5071bd" resname="individual.list.table.sales_rep">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: individual.list.table.sales_rep</note>
       </trans-unit>
       <trans-unit id="f655629ebbc0e54177efacf0f9458835778c269c" resname="individual.list.table.status.active.label">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Actif</target>
         <note>key: individual.list.table.status.active.label</note>
       </trans-unit>
       <trans-unit id="0ee41fd7a755f8d5f13e062bcc450b13353f58f0" resname="individual.list.table.status.deactivated.label">
         <source>De-activated</source>
-        <target state="needs-translation">De-activated</target>
+        <target state="translated">Désactiver</target>
         <note>key: individual.list.table.status.deactivated.label</note>
       </trans-unit>
       <trans-unit id="76e5bc67f21662288ce539192b51282267023cb2" resname="individual.list.title">
         <source>Clients</source>
-        <target state="needs-translation">Clients</target>
+        <target state="translated">Clients</target>
         <note>key: individual.list.title</note>
       </trans-unit>
       <trans-unit id="ab34a68619ee2345e9eed68aef18670c7f5a6c1c" resname="invite_members.modal.email_address">
         <source>Email address</source>
-        <target state="needs-translation">Email address</target>
+        <target state="translated">Adresse E-mail</target>
         <note>key: invite_members.modal.email_address</note>
       </trans-unit>
       <trans-unit id="7670d648474f67bb4fdf9dce88e13c53c1ce9b73" resname="invite_members.modal.info">
         <source>Enter your team members email addresses, and select the role they should be assigned.</source>
-        <target state="needs-translation">Enter your team members email addresses, and select the role they should be assigned.</target>
+        <target state="translated">Entrez les adresses e-mail des membres de votre équipe, et sélectionnez le rôle qui leur est attribué.</target>
         <note>key: invite_members.modal.info</note>
       </trans-unit>
       <trans-unit id="c014c6345151ed9b58f644e46f25a652defaca9c" resname="invite_members.modal.role">
         <source>Role</source>
-        <target state="needs-translation">Role</target>
+        <target state="translated">Rôle</target>
         <note>key: invite_members.modal.role</note>
       </trans-unit>
       <trans-unit id="b95696575dd280c6d311237f0dbcff3fd8285e94" resname="member.create.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création en cours</target>
         <note>key: member.create.action_name</note>
       </trans-unit>
       <trans-unit id="ce5f3e4d7ecd3c04d8362a58f5acd4d06ed35361" resname="member.create.cancel_btn.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: member.create.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="d1cb29393add5b969ae26c473fa9768c19ae27b6" resname="member.create.save_btn.label">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Sauver</target>
         <note>key: member.create.save_btn.label</note>
       </trans-unit>
       <trans-unit id="eb25272b63f7419bdaa48e007ee297dbc1a0aa1e" resname="member.create.success">
         <source>Member created.</source>
-        <target state="needs-translation">Member created.</target>
+        <target state="translated">Membre créé.</target>
         <note>key: member.create.success</note>
       </trans-unit>
       <trans-unit id="eb2ae42e75f9970b693056d99baf7c61e219ec23" resname="member.create.title">
         <source>New %contentType%</source>
-        <target state="needs-translation">New %contentType%</target>
+        <target state="translated">Nouveau %contentType%</target>
         <note>key: member.create.title</note>
       </trans-unit>
       <trans-unit id="1eef10adc8917823b4941b454473cfa0890a447d" resname="member.edit.cancel_btn.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: member.edit.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="acc5c68952087e2ddc74a06b8f959eecb3f2747f" resname="member.edit.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">En cours d'édition</target>
         <note>key: member.edit.editing</note>
       </trans-unit>
       <trans-unit id="669423155a274137cdaccd1ef90b4f3e9a5cb530" resname="member.edit.save_btn.label">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Sauver</target>
         <note>key: member.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="d40309cb9c6f16d95a722e82775b5a607d79573e" resname="member.edit.success">
         <source>Member '%name%' updated.</source>
-        <target state="needs-translation">Member '%name%' updated.</target>
+        <target state="translated">Membre '%name%' mis à jour.</target>
         <note>key: member.edit.success</note>
       </trans-unit>
       <trans-unit id="f13eb5859f13791aed242ee640ef3a762df6317b" resname="members">
         <source>Customers</source>
-        <target state="needs-translation">Customers</target>
+        <target state="translated">Clients</target>
         <note>key: members</note>
       </trans-unit>
       <trans-unit id="d1de2e96fb344ce3f77e7305175de0c438525031" resname="modal.user_status_change.note.activate">
         <source>This user will get access to their account.</source>
-        <target state="needs-translation">This user will get access to their account.</target>
+        <target state="translated">Cet utilisateur aura accès à son compte.</target>
         <note>key: modal.user_status_change.note.activate</note>
       </trans-unit>
       <trans-unit id="826a0b663860c7c8cfea453a8d78504049134194" resname="modal.user_status_change.note.deactivate">
         <source>This user will lose access to their account.</source>
-        <target state="needs-translation">This user will lose access to their account.</target>
+        <target state="translated">Cet utilisateur perdra l'accès à son compte.</target>
         <note>key: modal.user_status_change.note.deactivate</note>
       </trans-unit>
       <trans-unit id="63d825a989cbfb20adfec5f2a7f9da125cb28929" resname="modal.user_status_change.question.activate">
         <source>Are you sure you want to activate %username%?</source>
-        <target state="needs-translation">Are you sure you want to activate %username%?</target>
+        <target state="translated">Etes-vous certain de vouloir supprimer l'utilisateur %username% ?</target>
         <note>key: modal.user_status_change.question.activate</note>
       </trans-unit>
       <trans-unit id="f97de7764b664a78bcbed6c2f675e1c6c081524b" resname="modal.user_status_change.question.deactivate">
         <source>Are you sure you want to de-activate %username%?</source>
-        <target state="needs-translation">Are you sure you want to de-activate %username%?</target>
+        <target state="translated">Êtes-vous sûr de vouloir désactiver %username%?</target>
         <note>key: modal.user_status_change.question.deactivate</note>
       </trans-unit>
       <trans-unit id="7216324d5bc46eea164a8fa047eaeb6f63e4854e" resname="modal.user_status_change.title.activate">
         <source>Activate user</source>
-        <target state="needs-translation">Activate user</target>
+        <target state="translated">Activer l'utilisateur</target>
         <note>key: modal.user_status_change.title.activate</note>
       </trans-unit>
       <trans-unit id="508904d012f9b58789b4aa04b19ac1d7d53878ef" resname="modal.user_status_change.title.deactivate">
         <source>De-activate user</source>
-        <target state="needs-translation">De-activate user</target>
+        <target state="translated">Désactiver l'utilisateur</target>
         <note>key: modal.user_status_change.title.deactivate</note>
       </trans-unit>
       <trans-unit id="0d62749863987c8f20db3b04774814b8e64d91a9" resname="orders.table.empty.action">
         <source>Check currencies configuration for SiteAccess</source>
-        <target state="needs-translation">Check currencies configuration for SiteAccess</target>
+        <target state="translated">Vérifier la configuration des devises pour SiteAccess</target>
         <note>key: orders.table.empty.action</note>
       </trans-unit>
       <trans-unit id="a7a38016d2e085290addea0d2e7a500a50da6eb1" resname="orders.table.empty.info">
         <source>No orders</source>
-        <target state="needs-translation">No orders</target>
+        <target state="translated">Aucune commande</target>
         <note>key: orders.table.empty.info</note>
       </trans-unit>
       <trans-unit id="e8abeb3e3d565a7d6cf0915cba0c82aca79a2f4f" resname="orders.table.empty_no_currency.info">
         <source>Cannot display orders</source>
-        <target state="needs-translation">Cannot display orders</target>
+        <target state="translated">Impossible d'afficher les commandes</target>
         <note>key: orders.table.empty_no_currency.info</note>
       </trans-unit>
       <trans-unit id="d3091c2eff6debdad58736440276dc074e4ee7be" resname="orders.table.header.customer_name">
         <source>Customer name</source>
-        <target state="needs-translation">Customer name</target>
+        <target state="translated">Nom du Client</target>
         <note>key: orders.table.header.customer_name</note>
       </trans-unit>
       <trans-unit id="1481293a5d223b5e1325fa5a9989f424cdb681cf" resname="orders.table.header.identifier">
         <source>Order ID</source>
-        <target state="needs-translation">Order ID</target>
+        <target state="translated">ID de commande</target>
         <note>key: orders.table.header.identifier</note>
       </trans-unit>
       <trans-unit id="9565c3f674ed00e169efc215751b46b9809d5455" resname="orders.table.header.order_created_date">
         <source>Created date</source>
-        <target state="needs-translation">Created date</target>
+        <target state="translated">Date de création</target>
         <note>key: orders.table.header.order_created_date</note>
       </trans-unit>
       <trans-unit id="b9763471659ddcaea97c705cb788e7f6db95c689" resname="orders.table.header.shipping_method">
         <source>Shipping method</source>
-        <target state="needs-translation">Shipping method</target>
+        <target state="translated">Méthode de livraison</target>
         <note>key: orders.table.header.shipping_method</note>
       </trans-unit>
       <trans-unit id="710c286c15de322189879af8a6c32789ff266ef9" resname="orders.table.header.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: orders.table.header.status</note>
       </trans-unit>
       <trans-unit id="9f2ace35433a12c69146fb06ca9bec588b212210" resname="orders.table.header.total_value">
         <source>Total value</source>
-        <target state="needs-translation">Total value</target>
+        <target state="translated">Valeur totale</target>
         <note>key: orders.table.header.total_value</note>
       </trans-unit>
       <trans-unit id="e4da370666b60cff8d2ab49b895c87957ff766d6" resname="shipping_address.create.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création en cours</target>
         <note>key: shipping_address.create.action_name</note>
       </trans-unit>
       <trans-unit id="5d613e18b935c3ea460095b8d43212d834e4b7e0" resname="shipping_address.create.cancel_btn.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: shipping_address.create.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="c77a5d1f4dad75453607c37e9c73acae5dab6f85" resname="shipping_address.create.save_btn.label">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Sauver</target>
         <note>key: shipping_address.create.save_btn.label</note>
       </trans-unit>
       <trans-unit id="1285ed7718679b8b51b6af28fc1375a0198507f6" resname="shipping_address.create.success">
         <source>Address created.</source>
-        <target state="needs-translation">Address created.</target>
+        <target state="translated">Adresse créée.</target>
         <note>key: shipping_address.create.success</note>
       </trans-unit>
       <trans-unit id="a0e02d4a46f6ddee4e289049243597b5bf121fa9" resname="shipping_address.create.title">
         <source>New %contentType%</source>
-        <target state="needs-translation">New %contentType%</target>
+        <target state="translated">Nouveau %contentType%</target>
         <note>key: shipping_address.create.title</note>
       </trans-unit>
       <trans-unit id="18c3bf60f2b520ec324d6475268fbe3b4c013bd2" resname="shipping_address.edit.cancel_btn.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: shipping_address.edit.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="aebf5753733025029bf25a3a724e3874de2f6720" resname="shipping_address.edit.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">En cours d'édition</target>
         <note>key: shipping_address.edit.editing</note>
       </trans-unit>
       <trans-unit id="bff5fa5e7037df4987da76edbe2eaa8eac81bd57" resname="shipping_address.edit.save_btn.label">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Sauver</target>
         <note>key: shipping_address.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="472f89dd53c117d88bc51cf97c1d385b37dbc84a" resname="shipping_address.edit.success">
         <source>Shipping address '%name%' updated.</source>
-        <target state="needs-translation">Shipping address '%name%' updated.</target>
+        <target state="translated">L'adresse de livraison '%name%' a été mise à jour.</target>
         <note>key: shipping_address.edit.success</note>
       </trans-unit>
       <trans-unit id="43d0d1893cc7bdfed70ab3544dd190c4bae5e50c" resname="table.billing_address.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: table.billing_address.action.edit</note>
       </trans-unit>
       <trans-unit id="7a7883de3358a7a3204b40417fec24b809646684" resname="table.billing_address.empty.info">
