@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="5853e50d2a588d6640c2594fc644e8d7e0bf1a69" resname="ibexa_storefront.checkout.confirmation_main.subtext">
         <source><![CDATA[Your order #<b>%order_identifier%</b> has been placed and is being processed.]]></source>
-        <target state="needs-translation"><![CDATA[Your order #<b>%order_identifier%</b> has been placed and is being processed.]]></target>
+        <target state="translated"><![CDATA[Votre commande n°<b>%order_identifier%</b> a été passée et est en cours de traitement.]]></target>
         <note>key: ibexa_storefront.checkout.confirmation_main.subtext</note>
       </trans-unit>
       <trans-unit id="12fa1d62e13328f8d4b990080d6f4d69af4cc817" resname="ibexa_storefront.checkout.layout.continue.shopping">
         <source>Continue shopping</source>
-        <target state="needs-translation">Continue shopping</target>
+        <target state="translated">Continuer mes achats</target>
         <note>key: ibexa_storefront.checkout.layout.continue.shopping</note>
       </trans-unit>
       <trans-unit id="a7e4efa258dbf99023c761e8749710166c215c24" resname="ibexa_storefront.checkout.summary.quick_summary.label">
         <source>Order</source>
-        <target state="needs-translation">Order</target>
+        <target state="translated">Commande</target>
         <note>key: ibexa_storefront.checkout.summary.quick_summary.label</note>
       </trans-unit>
       <trans-unit id="2301c2da33b2d8af2cbfef5b9d01f5ca0ef313eb" resname="ibexa_storefront.checkout.summary.subtotal">
         <source>Subtotal</source>
-        <target state="needs-translation">Subtotal</target>
+        <target state="translated">Sous-total</target>
         <note>key: ibexa_storefront.checkout.summary.subtotal</note>
       </trans-unit>
       <trans-unit id="b777bcbcb0e09456fd54efed31791ee00bf186e4" resname="ibexa_storefront.confirmation_cta.continue_action">
         <source>Continue shopping</source>
-        <target state="needs-translation">Continue shopping</target>
+        <target state="translated">Continuer mes achats</target>
         <note>key: ibexa_storefront.confirmation_cta.continue_action</note>
       </trans-unit>
       <trans-unit id="55f0f7eae7f487aa654b3d45ea5bc76e36ab2ee1" resname="ibexa_storefront.confirmation_cta.get_order_details_action">
         <source>Check order details</source>
-        <target state="needs-translation">Check order details</target>
+        <target state="translated">Vérifier les détails de la commande</target>
         <note>key: ibexa_storefront.confirmation_cta.get_order_details_action</note>
       </trans-unit>
       <trans-unit id="b250b5e255b537dd4dfc267e659c498c7e2b61ea" resname="ibexa_storefront.confirmation_main.header">
         <source>Thank you for your order</source>
-        <target state="needs-translation">Thank you for your order</target>
+        <target state="translated">Merci pour votre commande</target>
         <note>key: ibexa_storefront.confirmation_main.header</note>
       </trans-unit>
     </body>
