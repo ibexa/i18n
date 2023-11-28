@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="8522985ba99235f18afed6ef6947effccaecd065" resname="main__commerce">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">Commerce</target>
         <note>key: main__commerce</note>
       </trans-unit>
       <trans-unit id="829b64659f95ca247a2327a9884147821e8499c3" resname="main__commerce__payment_methods">
         <source>Payment methods</source>
-        <target state="needs-translation">Payment methods</target>
+        <target state="translated">Moyens de paiement</target>
         <note>key: main__commerce__payment_methods</note>
       </trans-unit>
       <trans-unit id="ad088f96e4f305345ccb181bbd8b211598341002" resname="main__commerce__payments">
         <source>Payments</source>
-        <target state="needs-translation">Payments</target>
+        <target state="translated">Paiements</target>
         <note>key: main__commerce__payments</note>
       </trans-unit>
     </body>
