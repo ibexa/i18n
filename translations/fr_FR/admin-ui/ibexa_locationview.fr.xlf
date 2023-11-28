@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
         <source>Content locations</source>
-        <target state="needs-translation">Content locations</target>
+        <target state="translated">Emplacements du contenu</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
       <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
