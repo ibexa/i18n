@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="05338e98ea979339da87e0637cbbc731ee662a14" resname="policy.limitation.identifier.orderowner">
         <source>Order Owner</source>
-        <target state="needs-translation">Order Owner</target>
+        <target state="translated">Propriétaire de la commande</target>
         <note>key: policy.limitation.identifier.orderowner</note>
       </trans-unit>
     </body>
