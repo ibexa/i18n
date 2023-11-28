@@ -8,117 +8,117 @@
     <body>
       <trans-unit id="3b97dd08c517fcf3b425912695ad1e3fbbbff455" resname="block.product_catalog.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: block.product_catalog.add</note>
       </trans-unit>
       <trans-unit id="9c60bc9300aa40cff41ea2ad21b5c9c4dbe60115" resname="block.product_catalog.cannot_preview_in_visibility">
         <source>You cannot preview Catalog block using Visibility tab</source>
-        <target state="needs-translation">You cannot preview Catalog block using Visibility tab</target>
+        <target state="translated">Vous ne pouvez pas prévisualiser le bloc catalogue en utilisant l'onglet Visibilité</target>
         <note>key: block.product_catalog.cannot_preview_in_visibility</note>
       </trans-unit>
       <trans-unit id="2e938e41a94ae34e34d1a2a653f8f4b1f1ecf5c7" resname="block.product_catalog.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: block.product_catalog.delete</note>
       </trans-unit>
       <trans-unit id="e137a5187903029a8788e4beb6fced4771824019" resname="block.product_catalog.empty_table">
         <source>Table is empty</source>
-        <target state="needs-translation">Table is empty</target>
+        <target state="translated">La table est vide</target>
         <note>key: block.product_catalog.empty_table</note>
       </trans-unit>
       <trans-unit id="34b086d608251d2731fee12ae2d3174f83830d38" resname="block.product_catalog.list_label.label">
         <source>Customer group</source>
-        <target state="needs-translation">Customer group</target>
+        <target state="translated">Groupe de clients</target>
         <note>key: block.product_catalog.list_label.label</note>
       </trans-unit>
       <trans-unit id="6875d9141e1e54139e273e735381ed59b88e3c64" resname="block.product_catalog.list_label.value">
         <source>Catalog</source>
-        <target state="needs-translation">Catalog</target>
+        <target state="translated">Catalogue</target>
         <note>key: block.product_catalog.list_label.value</note>
       </trans-unit>
       <trans-unit id="14347d38255ee30ad20217aef0873e17847cbe28" resname="block.product_catalog.no_options">
         <source>No customer group and catalog defined. Create customer group and catalog in Admin panel to use this block.</source>
-        <target state="needs-translation">No customer group and catalog defined. Create customer group and catalog in Admin panel to use this block.</target>
+        <target state="translated">Aucun groupe de clients et catalogue définis. Créez un groupe de clients et un catalogue dans le panneau d'administration pour utiliser ce bloc.</target>
         <note>key: block.product_catalog.no_options</note>
       </trans-unit>
       <trans-unit id="9c591204b0caf3c3513b8830196ef35e0ac7b705" resname="block.product_catalog.select_only_published">
         <source>You can select only catalogs with status "Published"</source>
-        <target state="needs-translation">You can select only catalogs with status "Published"</target>
+        <target state="translated">Vous ne pouvez sélectionner que les catalogues avec le statut "Publié"</target>
         <note>key: block.product_catalog.select_only_published</note>
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: delete</note>
       </trans-unit>
       <trans-unit id="737a783e5098e8d94a74de030e58bd6a6c23fafa" resname="product.collection.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: product.collection.add</note>
       </trans-unit>
       <trans-unit id="2d7b0aabe9d6233ce35150d3ab4bac4c6af4f21f" resname="product.collection.add_only_base_products">
         <source>You can add or select only base products.</source>
-        <target state="needs-translation">You can add or select only base products.</target>
+        <target state="translated">Vous pouvez ajouter ou sélectionner uniquement des produits de base.</target>
         <note>key: product.collection.add_only_base_products</note>
       </trans-unit>
       <trans-unit id="81ce79ab2bb47f747c97597a64dac8d237d5687f" resname="product.collection.code">
         <source>Code</source>
-        <target state="needs-translation">Code</target>
+        <target state="translated">Code</target>
         <note>key: product.collection.code</note>
       </trans-unit>
       <trans-unit id="3ca64755814ef844993055d8b8797e54642252be" resname="product.collection.empty_table">
         <source>Table is empty</source>
-        <target state="needs-translation">Table is empty</target>
+        <target state="translated">La table est vide</target>
         <note>key: product.collection.empty_table</note>
       </trans-unit>
       <trans-unit id="b1c0004ea5bfaa82b767ea9e0c754b649e7f4203" resname="product.collection.error.already_added">
         <source>Product already added to the list below</source>
-        <target state="needs-translation">Product already added to the list below</target>
+        <target state="translated">Produit déjà ajouté à la liste ci-dessous</target>
         <note>key: product.collection.error.already_added</note>
       </trans-unit>
       <trans-unit id="6cf87d8a373c7304d5cc49b5077b3e296c25fe2f" resname="product.collection.error.cannot_add_variant">
         <source>You cannot add product variant</source>
-        <target state="needs-translation">You cannot add product variant</target>
+        <target state="translated">Vous ne pouvez pas ajouter de variante de produit</target>
         <note>key: product.collection.error.cannot_add_variant</note>
       </trans-unit>
       <trans-unit id="9bcbf7946b2c765d9716099d5c0e2c7618f4d59a" resname="product.collection.error.not_found">
         <source>Product not found</source>
-        <target state="needs-translation">Product not found</target>
+        <target state="translated">Le produit n'a pas été trouvé</target>
         <note>key: product.collection.error.not_found</note>
       </trans-unit>
       <trans-unit id="1debb37be6f3300270ec8ceba80cd84def84855e" resname="product.collection.no_products">
         <source>There are currently no added products in the list</source>
-        <target state="needs-translation">There are currently no added products in the list</target>
+        <target state="translated">Il n'y a actuellement aucun produit ajouté dans la liste</target>
         <note>key: product.collection.no_products</note>
       </trans-unit>
       <trans-unit id="76116573f30b82c8f6271feb6b8a75b3eea224a2" resname="product.collection.or">
         <source>or</source>
-        <target state="needs-translation">or</target>
+        <target state="translated">ou</target>
         <note>key: product.collection.or</note>
       </trans-unit>
       <trans-unit id="b7094d4c32149f0308cf72e8d078e0dbcee21469" resname="product.collection.placeholder">
         <source>Enter product code</source>
-        <target state="needs-translation">Enter product code</target>
+        <target state="translated">Entrez le code du produit</target>
         <note>key: product.collection.placeholder</note>
       </trans-unit>
       <trans-unit id="eb078e7b55778a1bc6bc61956dff2bf1e29af780" resname="product.collection.product_list">
         <source>Product list (%count%)</source>
-        <target state="needs-translation">Product list (%count%)</target>
+        <target state="translated">Liste des produits (%count%)</target>
         <note>key: product.collection.product_list</note>
       </trans-unit>
       <trans-unit id="eba8a94d81c7b8cd339a6e615d5dc8215e7836b2" resname="product.collection.product_name">
         <source>Product name</source>
-        <target state="needs-translation">Product name</target>
+        <target state="translated">Nom du produit</target>
         <note>key: product.collection.product_name</note>
       </trans-unit>
       <trans-unit id="48b30b9fac72a2582a7d28ae72266818679be5b1" resname="product.collection.product_type">
         <source>Product Type</source>
-        <target state="needs-translation">Product Type</target>
+        <target state="translated">Type de produit</target>
         <note>key: product.collection.product_type</note>
       </trans-unit>
       <trans-unit id="0868db4da8b6d758388649bffaa28198591432c7" resname="product.collection.select_products">
         <source>Select products</source>
-        <target state="needs-translation">Select products</target>
+        <target state="translated">Sélectionner les produits</target>
         <note>key: product.collection.select_products</note>
       </trans-unit>
     </body>
