@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="c662180230cad14787d4ab7e77aa08681ce783fa" resname="address">
         <source>Address</source>
-        <target state="needs-translation">Address</target>
+        <target state="translated">Adresse</target>
         <note>key: address</note>
       </trans-unit>
     </body>
