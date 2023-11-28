@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="8522985ba99235f18afed6ef6947effccaecd065" resname="main__commerce">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">Commerce</target>
         <note>key: main__commerce</note>
       </trans-unit>
       <trans-unit id="843fba002ab3e77b0b4c2fc72ebf828d775974cb" resname="main__commerce__shipments">
         <source>Shipments</source>
-        <target state="needs-translation">Shipments</target>
+        <target state="translated">Livraisons</target>
         <note>key: main__commerce__shipments</note>
       </trans-unit>
       <trans-unit id="6c4afcf12786f009d49c22d61358888bb6f2b718" resname="main__commerce__shipping_methods">
         <source>Shipping methods</source>
-        <target state="needs-translation">Shipping methods</target>
+        <target state="translated">Modes de livraison</target>
         <note>key: main__commerce__shipping_methods</note>
       </trans-unit>
       <trans-unit id="9662deb24bfe8819679791fb5f22c93463863352" resname="shipping_method_view__context_menu__delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: shipping_method_view__context_menu__delete</note>
       </trans-unit>
       <trans-unit id="0d2d07e9ed5bc92807eaf6679489963f19da3393" resname="shipping_method_view__context_menu__edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: shipping_method_view__context_menu__edit</note>
       </trans-unit>
     </body>
