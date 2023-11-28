@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="3c8e362f900d886ce75b34d0fd952128612a2b12" resname="ez.field_definition.identifier.unique">
         <source>The Field definition identifier "%identifier%" is used by another Field definition. Enter a unique identifier.</source>
-        <target state="needs-translation">The Field definition identifier "%identifier%" is used by another Field definition. Enter a unique identifier.</target>
+        <target state="translated">L'identifiant de type de contenu "%identifier%" est utilisé par un autre type de contenu. Entrez un identifiant unique.</target>
         <note>key: ez.field_definition.identifier.unique</note>
       </trans-unit>
       <trans-unit id="0f7d936836760a506042c4d25cd38c5a30c3d9de" resname="ez.field_definition.names">
