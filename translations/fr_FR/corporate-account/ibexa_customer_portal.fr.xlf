@@ -8,77 +8,77 @@
     <body>
       <trans-unit id="7029d07a97dadf7ba8616316ed99d2b8ff3294a9" resname="account.authentication.forgot_password">
         <source>Forgot your password?</source>
-        <target state="needs-translation">Forgot your password?</target>
+        <target state="translated">Mot de passe oublié ?</target>
         <note>key: account.authentication.forgot_password</note>
       </trans-unit>
       <trans-unit id="438a2a31ac2543303c4df96d0c40c9eccec0c017" resname="account.authentication.get_started">
         <source>Get started</source>
-        <target state="needs-translation">Get started</target>
+        <target state="translated">Commencer</target>
         <note>key: account.authentication.get_started</note>
       </trans-unit>
       <trans-unit id="0cf7a342fcb087ce22048600cacaade760f0af04" resname="account.authentication.login">
         <source>Login</source>
-        <target state="needs-translation">Login</target>
+        <target state="translated">Se connecter</target>
         <note>key: account.authentication.login</note>
       </trans-unit>
       <trans-unit id="1d3dd1a605be597b2a36b846fdc1713e2365f0a9" resname="account.authentication.password">
         <source>Password</source>
-        <target state="needs-translation">Password</target>
+        <target state="translated">Mot de passe</target>
         <note>key: account.authentication.password</note>
       </trans-unit>
       <trans-unit id="9611a50d34f4facccf324625e4bd47a396fdee72" resname="account.authentication.username">
         <source>Username</source>
-        <target state="needs-translation">Username</target>
+        <target state="translated">Nom d'utilisateur</target>
         <note>key: account.authentication.username</note>
       </trans-unit>
       <trans-unit id="c9c6c1963c557f261b78b3e89da54f750671dd5d" resname="account.change_password.action">
         <source>Change</source>
-        <target state="needs-translation">Change</target>
+        <target state="translated">Modifier</target>
         <note>key: account.change_password.action</note>
       </trans-unit>
       <trans-unit id="d677e547c8e21a4f293e046b4818670d45a18d90" resname="account.change_password.cancel_btn.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: account.change_password.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="8dc41fb95788740eaa9b6dc604a9efff8a8840ff" resname="account.change_password.save_btn.label">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Sauver</target>
         <note>key: account.change_password.save_btn.label</note>
       </trans-unit>
       <trans-unit id="16382436b9077cc711766935dd39dbeb6dcf6d6f" resname="account.change_password.title">
         <source>Change my password</source>
-        <target state="needs-translation">Change my password</target>
+        <target state="translated">Changer mon mot de passe</target>
         <note>key: account.change_password.title</note>
       </trans-unit>
       <trans-unit id="04efa66a2dfbb2bb2b53246976b37bbe3acbba51" resname="account.forgot_user_password.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Précédent</target>
         <note>key: account.forgot_user_password.back</note>
       </trans-unit>
       <trans-unit id="0e3054510c504aaac36dd7f4494acede560626c2" resname="account.forgot_user_password.confrimation.back">
         <source>Back</source>
-        <target state="needs-translation">Back</target>
+        <target state="translated">Précédent</target>
         <note>key: account.forgot_user_password.confrimation.back</note>
       </trans-unit>
       <trans-unit id="78f3ae13d90af2002efcad6e2d9780a6f59843ab" resname="account.forgot_user_password.confrimation.back_to_sign_in">
         <source>Go back to Sign in</source>
-        <target state="needs-translation">Go back to Sign in</target>
+        <target state="translated">Revenir à la connexion</target>
         <note>key: account.forgot_user_password.confrimation.back_to_sign_in</note>
       </trans-unit>
       <trans-unit id="9b57f809cf03a20045266650dc08f54a59368c5a" resname="account.forgot_user_password.confrimation.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">Réinitialiser votre mot de passe</target>
         <note>key: account.forgot_user_password.confrimation.reset_your_password</note>
       </trans-unit>
       <trans-unit id="7f3165d28b44a7e018dd007804056fab2b1cac34" resname="account.forgot_user_password.confrimation.success.alert">
         <source>We’ve sent to your email account a link to reset your password.</source>
-        <target state="needs-translation">We’ve sent to your email account a link to reset your password.</target>
+        <target state="translated">Nous avons envoyé à votre compte e-mail un lien pour réinitialiser votre mot de passe.</target>
         <note>key: account.forgot_user_password.confrimation.success.alert</note>
       </trans-unit>
       <trans-unit id="624f884f90db2c4d55a998cd9dfe24a6bcac74a6" resname="account.forgot_user_password.confrimation.success.message">
         <source><![CDATA[<p>If you don’t receive the email, double check that you entered the correct email address and check your spam folder.</p>]]></source>
-        <target state="needs-translation"><![CDATA[<p>If you don’t receive the email, double check that you entered the correct email address and check your spam folder.</p>]]></target>
+        <target state="translated"><![CDATA[<p>Si vous ne recevez pas l'e-mail, vérifiez que vous avez entré la bonne adresse e-mail et vérifiez votre dossier spam.</p>]]></target>
         <note>key: account.forgot_user_password.confrimation.success.message</note>
       </trans-unit>
       <trans-unit id="f186551da03090fd03a722bb286b5a64c245dc6e" resname="account.forgot_user_password.mail.message">
@@ -89,153 +89,153 @@
         <a href="%reset_password%">Reset password</a>
         <br /><br />
         If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
-        <target state="needs-translation"><![CDATA[Hi,
+        <target state="translated"><![CDATA[Bonjour,
         <br /><br />
-        We have received a request to reset the password for your Customer Portal account. Click “reset password” below to choose a new password:
+        Nous avons reçu une demande de réinitialisation du mot de passe pour votre compte du Portail Client. Cliquez sur « réinitialiser le mot de passe » ci-dessous pour choisir un nouveau mot de passe :
         <br /><br />
-        <a href="%reset_password%">Reset password</a>
+        <a href="%reset_password%">Réinitialiser le mot de passe</a>
         <br /><br />
-        If you did not request a password reset, please ignore this email, and your password will remain the same.]]></target>
+        Si vous n'avez pas demandé de réinitialisation de mot de passe, veuillez ignorer cet e-mail, et votre mot de passe restera le même.]]></target>
         <note>key: account.forgot_user_password.mail.message</note>
       </trans-unit>
       <trans-unit id="d021f3be1567b2c5903acabc37ebd159e49f5a39" resname="account.forgot_user_password.mail.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">Réinitialiser votre mot de passe</target>
         <note>key: account.forgot_user_password.mail.reset_your_password</note>
       </trans-unit>
       <trans-unit id="bb9d963889fbcebb7dc70a375b3ac8a66898a7f3" resname="account.forgot_user_password.reason.migration">
         <source>Your password has expired, change it.</source>
-        <target state="needs-translation">Your password has expired, change it.</target>
+        <target state="translated">Votre mot de passe a expiré, veuillez le changer.</target>
         <note>key: account.forgot_user_password.reason.migration</note>
       </trans-unit>
       <trans-unit id="75dadec2552b1541f6ce96b3776bb8afa1bdc5a5" resname="account.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">Réinitialiser votre mot de passe</target>
         <note>key: account.forgot_user_password.reset_your_password</note>
       </trans-unit>
       <trans-unit id="f8527540e797042b323cf2b85a47de5bdf990016" resname="account.forgot_user_password.with_login.contact_administrator">
         <source>If you do not remember your login, contact your Administrator.</source>
-        <target state="needs-translation">If you do not remember your login, contact your Administrator.</target>
+        <target state="translated">Si vous ne vous souvenez pas de votre identifiant, veuillez contacter l'administrateur du site.</target>
         <note>key: account.forgot_user_password.with_login.contact_administrator</note>
       </trans-unit>
       <trans-unit id="a53a24c317e798e64aa132a4b4326383c3faa2af" resname="account.forgot_user_password.with_login.login">
         <source>This email is connected with several accounts. Enter your login instead.</source>
-        <target state="needs-translation">This email is connected with several accounts. Enter your login instead.</target>
+        <target state="translated">Cette adresse e-mail est connectée avec plusieurs comptes. Entrez votre identifiant.</target>
         <note>key: account.forgot_user_password.with_login.login</note>
       </trans-unit>
       <trans-unit id="6f0a4c250de854fc0b90a60f1b4545aeec376def" resname="account.forgot_user_password.with_login.reset_your_password">
         <source>Reset your password</source>
-        <target state="needs-translation">Reset your password</target>
+        <target state="translated">Réinitialiser votre mot de passe</target>
         <note>key: account.forgot_user_password.with_login.reset_your_password</note>
       </trans-unit>
       <trans-unit id="fd832f255d5843d3db954c94203eb52c5b44ccbd" resname="account.login.headline">
         <source>Welcome to Customer Portal</source>
-        <target state="needs-translation">Welcome to Customer Portal</target>
+        <target state="translated">Bienvenue sur le portail client</target>
         <note>key: account.login.headline</note>
       </trans-unit>
       <trans-unit id="205c0027856c8922547687628e6360468177af36" resname="account.login.page_title">
         <source>Customer Portal</source>
-        <target state="needs-translation">Customer Portal</target>
+        <target state="translated">Portail Client</target>
         <note>key: account.login.page_title</note>
       </trans-unit>
       <trans-unit id="69e629ff0c4fc96403b3f109d7c66e8effc16926" resname="account.register.actions.action_name">
         <source>Create account</source>
-        <target state="needs-translation">Create account</target>
+        <target state="translated">Créer un compte</target>
         <note>key: account.register.actions.action_name</note>
       </trans-unit>
       <trans-unit id="071f3b6d9b556e322731bfd8c3c5935154253565" resname="account.register.actions.headline">
         <source>Your profile</source>
-        <target state="needs-translation">Your profile</target>
+        <target state="translated">Votre profil</target>
         <note>key: account.register.actions.headline</note>
       </trans-unit>
       <trans-unit id="6e8598de826a0f3aad27196df68398af6f619745" resname="account.register.headline">
         <source>You have been invited to create an account.</source>
-        <target state="needs-translation">You have been invited to create an account.</target>
+        <target state="translated">Vous avez été invité à créer un compte.</target>
         <note>key: account.register.headline</note>
       </trans-unit>
       <trans-unit id="f888e936aaaf968655a8e696e7e6e83557480637" resname="account.register.sub_headline">
         <source>Register here to access the Customer Portal</source>
-        <target state="needs-translation">Register here to access the Customer Portal</target>
+        <target state="translated">Inscrivez-vous ici pour accéder au portail client</target>
         <note>key: account.register.sub_headline</note>
       </trans-unit>
       <trans-unit id="22b0278db5e720eaa98ac3c7dc4387e57ebad1ed" resname="account.register_confirmation.header">
         <source>Your account has been created</source>
-        <target state="needs-translation">Your account has been created</target>
+        <target state="translated">Votre compte a été créé</target>
         <note>key: account.register_confirmation.header</note>
       </trans-unit>
       <trans-unit id="846d1a3fe12f6ec79c426207e63bcc0a8577d2ed" resname="account.register_confirmation.message">
         <source><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></source>
-        <target state="needs-translation"><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></target>
+        <target state="translated"><![CDATA[Merci d'avoir créer un compte. Vous pouvez maintenant vous <a href="%login%">connecter</a>]]></target>
         <note>key: account.register_confirmation.message</note>
       </trans-unit>
       <trans-unit id="f842146b2a7b0b3c9f70a2ab6ea104f6d46c611c" resname="account.reset_user_password.change_password">
         <source>Change password</source>
-        <target state="needs-translation">Change password</target>
+        <target state="translated">Modifier mot de passe</target>
         <note>key: account.reset_user_password.change_password</note>
       </trans-unit>
       <trans-unit id="52c69bbd7888b3591a7ef48359095bf846192ac8" resname="account.reset_user_password.link_is_not_valid">
         <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
-        <target state="needs-translation"><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></target>
+        <target state="translated"><![CDATA[Ce lien n'est plus valide, vous pouvez <a href="%forgot_user_password%">générer un nouveau lien</a> pour réinitialiser votre mot de passe.]]></target>
         <note>key: account.reset_user_password.link_is_not_valid</note>
       </trans-unit>
       <trans-unit id="23609714f1576bcd2500875557dee0be12589ad0" resname="account.reset_user_password.success">
         <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to Customer Portal.]]></source>
-        <target state="needs-translation"><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to Customer Portal.]]></target>
+        <target state="translated"><![CDATA[Votre mot de passe a été modifié, vous pouvez maintenant vous <a href="%login%">connecter</a> à votre compte.]]></target>
         <note>key: account.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="99365a37afbae39d10db919c155dcfd4f6280a29" resname="address_book.breadcrumb">
         <source>Address book</source>
-        <target state="needs-translation">Address book</target>
+        <target state="translated">Carnet d’adresses</target>
         <note>key: address_book.breadcrumb</note>
       </trans-unit>
       <trans-unit id="379b8916af53e569d8cf1c4aaa250a92c2126b97" resname="address_book.header">
         <source>Address book</source>
-        <target state="needs-translation">Address book</target>
+        <target state="translated">Carnet d’adresses</target>
         <note>key: address_book.header</note>
       </trans-unit>
       <trans-unit id="aa92dc5c22f4d2642f9c3d36b6558cfb9a9193b7" resname="block.order.column.company_name">
         <source>Company name</source>
-        <target state="needs-translation">Company name</target>
+        <target state="translated">Nom de la société</target>
         <note>key: block.order.column.company_name</note>
       </trans-unit>
       <trans-unit id="9556b42014fe91a4145e4539f6b307e797ae7408" resname="block.order.column.created_at">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Date de création</target>
         <note>key: block.order.column.created_at</note>
       </trans-unit>
       <trans-unit id="eaf05253103e1511aa5b0dc8250ef213ff43fbaa" resname="block.order.column.customer_name">
         <source>Customer name</source>
-        <target state="needs-translation">Customer name</target>
+        <target state="translated">Nom du Client</target>
         <note>key: block.order.column.customer_name</note>
       </trans-unit>
       <trans-unit id="e3399f29aae3a0b569dc6f45d9fef3ad60f132fc" resname="block.order.column.id">
         <source>Order number</source>
-        <target state="needs-translation">Order number</target>
+        <target state="translated">Numéro de commande</target>
         <note>key: block.order.column.id</note>
       </trans-unit>
       <trans-unit id="300ac1632a379e0713f107edfdf7ec35ee76a5c1" resname="block.order.column.identifier">
         <source>Order ID</source>
-        <target state="needs-translation">Order ID</target>
+        <target state="translated">ID de commande</target>
         <note>key: block.order.column.identifier</note>
       </trans-unit>
       <trans-unit id="02f92dc6f1ba951c3c1a11416b74099d55ac14ac" resname="block.order.column.modified_at">
         <source>Updated</source>
-        <target state="needs-translation">Updated</target>
+        <target state="translated">Actualisé</target>
         <note>key: block.order.column.modified_at</note>
       </trans-unit>
       <trans-unit id="2063983d2fc77588bd224c581dc4f1b1db098057" resname="block.order.column.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: block.order.column.status</note>
       </trans-unit>
       <trans-unit id="2026a40b85882366cde23bf8427993dec635b083" resname="block.order.column.total_value">
         <source>Total value</source>
-        <target state="needs-translation">Total value</target>
+        <target state="translated">Valeur totale</target>
         <note>key: block.order.column.total_value</note>
       </trans-unit>
       <trans-unit id="8afb5fa854965fa208b0ae15895880c6debd564c" resname="block.order.table.empty">
         <source>No orders</source>
-        <target state="needs-translation">No orders</target>
+        <target state="translated">Aucune commande</target>
         <note>key: block.order.table.empty</note>
       </trans-unit>
       <trans-unit id="53b8a911d5bed608c86276dc1d0cbfb23249c60d" resname="block.order.table.headline">
@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="f802137b961209a99ce1856511f2e580a234ba43" resname="registration.banner.step_4.action">
         <source>Set up and manage your team</source>
-        <target state="needs-translation">Set up and manage your team</target>
+        <target state="translated">Configurez et gérez votre équipe</target>
         <note>key: registration.banner.step_4.action</note>
       </trans-unit>
       <trans-unit id="57c9c36e1a93351755329536192ffed8c7549e5f" resname="registration.banner.step_4.title">
@@ -492,7 +492,7 @@
       </trans-unit>
       <trans-unit id="fa25dd4e34e214653fba103113d3a2349d734d4d" resname="registration_already_exists.info.todo">
         <source>Please contact us directly if you think this is a mistake.</source>
-        <target state="needs-translation">Please contact us directly if you think this is a mistake.</target>
+        <target state="translated">Veuillez nous contacter directement si vous pensez qu'il s'agit d'une erreur.</target>
         <note>key: registration_already_exists.info.todo</note>
       </trans-unit>
       <trans-unit id="fa81b7a926fe90fcad4e5affde9e55dda7378d66" resname="registration_confirmation.image">
