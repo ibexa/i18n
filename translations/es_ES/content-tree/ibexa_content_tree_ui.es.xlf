@@ -73,17 +73,17 @@
       </trans-unit>
       <trans-unit id="99402f0925918d4d739c4c61a90182a733824fa5" resname="bulk_delete.error.message.nonusers">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be sent to Trash because you do not have proper user permissions. Contact your Administrator.</source>
-        <target state="needs-translation">%notDeletedCount% of the %totalCount% selected item(s) could not be sent to Trash because you do not have proper user permissions. Contact your Administrator.</target>
+        <target state="translated">%notDeletedCount% de %totalCount% elemento(s) seleccionado no pudo ser enviado a la papelera porque no tiene los permisos de usuario adecuados. Contacte con su administrador.</target>
         <note>key: bulk_delete.error.message.nonusers</note>
       </trans-unit>
       <trans-unit id="c74a6c9cb4bb7cbcf4a652e03e4fe9344514f38f" resname="bulk_delete.error.message.users">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted because you do not have proper user permissions. Contact your Administrator.</source>
-        <target state="needs-translation">%notDeletedCount% of the %totalCount% selected item(s) could not be deleted because you do not have proper user permissions. Contact your Administrator.</target>
+        <target state="translated">%notDeletedCount% de %totalCount% elemento(s) seleccionado no pudo ser enviado a la papelera porque no tiene los permisos de usuario adecuados. Contacte con su administrador.</target>
         <note>key: bulk_delete.error.message.users</note>
       </trans-unit>
       <trans-unit id="a873d91c27d787399ce6dfe9a96c4541e718bacf" resname="bulk_delete.error.message.users_with_nonusers">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted or sent to Trash because you do not have proper user permissions. Contact your Administrator.</source>
-        <target state="needs-translation">%notDeletedCount% of the %totalCount% selected item(s) could not be deleted or sent to Trash because you do not have proper user permissions. Contact your Administrator.</target>
+        <target state="translated">%notDeletedCount% de %totalCount% elemento(s) seleccionado no pudo ser enviado a la papelera porque no tiene los permisos de usuario adecuados. Contacte con su administrador.</target>
         <note>key: bulk_delete.error.message.users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
         <source>User(s) deleted.</source>
-        <target state="needs-translation">User(s) deleted.</target>
+        <target state="translated">Usuario(s) eliminado(s).</target>
         <note>key: bulk_delete.success.message.users</note>
       </trans-unit>
       <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="856eedf1cbc5db3b541b944d72f52fb1b5efa9e7" resname="bulk_unbookmark.error.message.multi">
         <source>%notBookmarkedCount% of the %totalCount% selected item(s) could not be removed from bookmarks.</source>
-        <target state="needs-translation">%notBookmarkedCount% of the %totalCount% selected item(s) could not be removed from bookmarks.</target>
+        <target state="translated">%notBookmarkedCount% de %totalCount% artículo(s) seleccionado(s) no pudo ser eliminado de favoritos.</target>
         <note>key: bulk_unbookmark.error.message.multi</note>
       </trans-unit>
       <trans-unit id="fb96f94b2f4dece448eeda96f3110267256c3bb5" resname="bulk_unbookmark.error.message.single">
         <source>Selected item could not be removed from bookmarks.</source>
-        <target state="needs-translation">Selected item could not be removed from bookmarks.</target>
+        <target state="translated">Los elementos seleccionados no se han podido eliminar de los marcadores.</target>
         <note>key: bulk_unbookmark.error.message.single</note>
       </trans-unit>
       <trans-unit id="16b09292d91ae157dea699657c6d76f6c6c4133e" resname="bulk_unbookmark.success.message">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="fda5d31392f746288f371fdb64897146e018a606" resname="load_content_types.error">
         <source>Cannot load Content Types</source>
-        <target state="needs-translation">Cannot load Content Types</target>
+        <target state="translated">No se pueden cargar los tipos de contenido</target>
         <note>key: load_content_types.error</note>
       </trans-unit>
     </body>
