@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="bbd52fcfa2661eacbdabf1ff63518d146164734a" resname="ibexa.state.transition.modal.transition.body">
-        <source>Are you sure you want to change the catalog status to %status%?</source>
-        <target>crwdns250267:0%status%crwdne250267:0</target>
+        <source>Change payment status to %status%?</source>
+        <target>crwdns252138:0%status%crwdne252138:0</target>
         <note>key: ibexa.state.transition.modal.transition.body</note>
       </trans-unit>
     </body>

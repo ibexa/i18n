@@ -57,8 +57,8 @@
         <note>key: ibexa.payment.list.column.created</note>
       </trans-unit>
       <trans-unit id="3d4bb2fe940abaf3fe96a5fd63920e190f6b307c" resname="ibexa.payment.list.column.identifier">
-        <source>Identifier</source>
-        <target>crwdns250107:0crwdne250107:0</target>
+        <source>Payment ID</source>
+        <target>crwdns252134:0crwdne252134:0</target>
         <note>key: ibexa.payment.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="2d118e43f7b6644eec1ce8137568039f5867379c" resname="ibexa.payment.list.column.order_id">
@@ -392,8 +392,8 @@
         <note>key: policy.limitation.paymentowner.self</note>
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
-        <source>Add new</source>
-        <target>crwdns250241:0crwdne250241:0</target>
+        <source>Add</source>
+        <target>crwdns252136:0crwdne252136:0</target>
         <note>key: tab.translations.action.add</note>
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">

@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="bbd52fcfa2661eacbdabf1ff63518d146164734a" resname="ibexa.state.transition.modal.transition.body">
-        <source>Are you sure you want to change the catalog status to %status%?</source>
-        <target state="needs-translation">Are you sure you want to change the catalog status to %status%?</target>
+        <source>Change payment status to %status%?</source>
+        <target state="translated">Changer le statut de paiement en %status%?</target>
         <note>key: ibexa.state.transition.modal.transition.body</note>
       </trans-unit>
     </body>

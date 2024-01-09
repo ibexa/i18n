@@ -8,442 +8,442 @@
     <body>
       <trans-unit id="7cb6efb98ba5972a9b5090dc2e517fe14d12cb04" resname="false">
         <source>false</source>
-        <target state="needs-translation">false</target>
+        <target state="translated">faux</target>
         <note>key: false</note>
       </trans-unit>
       <trans-unit id="0ad1ab73287b181912e3f7acb75df74049668611" resname="ibexa.commerce">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">Commerce</target>
         <note>key: ibexa.commerce</note>
       </trans-unit>
       <trans-unit id="111be73ca0458ab8747e3bae8920ed04f21b62df" resname="ibexa.modal.delete.payment_method.confirm_message">
         <source>Are you sure you want to delete this Payment Method?</source>
-        <target state="needs-translation">Are you sure you want to delete this Payment Method?</target>
+        <target state="translated">Êtes-vous sûr de vouloir supprimer cette méthode de paiement ?</target>
         <note>key: ibexa.modal.delete.payment_method.confirm_message</note>
       </trans-unit>
       <trans-unit id="decad011a0ed40528aa9cb187f3f7e662a712a81" resname="ibexa.payment.breadcrumb.list">
         <source>Payments</source>
-        <target state="needs-translation">Payments</target>
+        <target state="translated">Paiements</target>
         <note>key: ibexa.payment.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="78a0b4b8932410845aed4d5b29de26ff1e52f486" resname="ibexa.payment.breadcrumb.view">
         <source>Details</source>
-        <target state="needs-translation">Details</target>
+        <target state="translated">Détails</target>
         <note>key: ibexa.payment.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="f511d74c1c98e02f8ab1e4c15e718cd635c27135" resname="ibexa.payment.details.column.created">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Date de création</target>
         <note>key: ibexa.payment.details.column.created</note>
       </trans-unit>
       <trans-unit id="fb7f417438d002e443cdb6fa7293d45946b6a679" resname="ibexa.payment.details.column.payment_method">
         <source>Payment method</source>
-        <target state="needs-translation">Payment method</target>
+        <target state="translated">Moyen de paiement</target>
         <note>key: ibexa.payment.details.column.payment_method</note>
       </trans-unit>
       <trans-unit id="1b14303408478714eff25d12f0d11c76783f5b69" resname="ibexa.payment.details.header">
         <source>Basic information</source>
-        <target state="needs-translation">Basic information</target>
+        <target state="translated">Informations générales</target>
         <note>key: ibexa.payment.details.header</note>
       </trans-unit>
       <trans-unit id="151e14deb84c736138ecee3098d4147e5c8352af" resname="ibexa.payment.details.tab.summary.label">
         <source>Summary</source>
-        <target state="needs-translation">Summary</target>
+        <target state="translated">Résumé</target>
         <note>key: ibexa.payment.details.tab.summary.label</note>
       </trans-unit>
       <trans-unit id="f6c32e96df818ce33a83fdc07ab12b215a8215b7" resname="ibexa.payment.list.column.created">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Date de création</target>
         <note>key: ibexa.payment.list.column.created</note>
       </trans-unit>
       <trans-unit id="3d4bb2fe940abaf3fe96a5fd63920e190f6b307c" resname="ibexa.payment.list.column.identifier">
-        <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <source>Payment ID</source>
+        <target state="translated">ID de paiement</target>
         <note>key: ibexa.payment.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="2d118e43f7b6644eec1ce8137568039f5867379c" resname="ibexa.payment.list.column.order_id">
         <source>Order ID</source>
-        <target state="needs-translation">Order ID</target>
+        <target state="translated">ID de commande</target>
         <note>key: ibexa.payment.list.column.order_id</note>
       </trans-unit>
       <trans-unit id="9fce30daf4106b1ddd0ebade24caab1263d8c48a" resname="ibexa.payment.list.column.payment_method">
         <source>Payment method</source>
-        <target state="needs-translation">Payment method</target>
+        <target state="translated">Moyen de paiement</target>
         <note>key: ibexa.payment.list.column.payment_method</note>
       </trans-unit>
       <trans-unit id="20bb7b5a22e1f92e749f1dc8f6e25fb767df7dcd" resname="ibexa.payment.list.column.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: ibexa.payment.list.column.status</note>
       </trans-unit>
       <trans-unit id="38bab3481f185753b0c01598a5e4a8bbad8554b3" resname="ibexa.payment.list.column.total_value">
         <source>Total value</source>
-        <target state="needs-translation">Total value</target>
+        <target state="translated">Valeur totale</target>
         <note>key: ibexa.payment.list.column.total_value</note>
       </trans-unit>
       <trans-unit id="b2324ffb3536f452f1223a3b8a918c768f7e5ff2" resname="ibexa.payment.list.column.updated">
         <source>Updated</source>
-        <target state="needs-translation">Updated</target>
+        <target state="translated">Actualisé</target>
         <note>key: ibexa.payment.list.column.updated</note>
       </trans-unit>
       <trans-unit id="1c6791b4c3170a88ffb5bf60929360535b5dc6c7" resname="ibexa.payment.list.no_search_results.action_text">
         <source>Try again with new search criteria</source>
-        <target state="needs-translation">Try again with new search criteria</target>
+        <target state="translated">Essayez à nouveau avec d'autres critères de recherche</target>
         <note>key: ibexa.payment.list.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="0b5b99b221eb7b59e474ba769bf54387373d18ae" resname="ibexa.payment.list.no_search_results.info_text">
         <source>Sorry, there are no payments for your search</source>
-        <target state="needs-translation">Sorry, there are no payments for your search</target>
+        <target state="translated">Désolé, il n'y a aucun paiement pour votre recherche</target>
         <note>key: ibexa.payment.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="ce9f74bf6b9fdeef3d5968a12bff13db1c9f6e02" resname="ibexa.payment.list.search.query.placeholder">
         <source>Search by Order id, Identifier</source>
-        <target state="needs-translation">Search by Order id, Identifier</target>
+        <target state="translated">Recherche par ID de commande, Identifiant</target>
         <note>key: ibexa.payment.list.search.query.placeholder</note>
       </trans-unit>
       <trans-unit id="10778d850eecf278440a25f5586ba96c3e1fa11a" resname="ibexa.payment.payment_method.create.success">
         <source>Payment method '%name%' created.</source>
-        <target state="needs-translation">Payment method '%name%' created.</target>
+        <target state="translated">Le mode de paiement '%name%' a été créé.</target>
         <note>key: ibexa.payment.payment_method.create.success</note>
       </trans-unit>
       <trans-unit id="35f298f5ebb91378048b92657b11684b246d100e" resname="ibexa.payment.search.created_at.label">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Date de création</target>
         <note>key: ibexa.payment.search.created_at.label</note>
       </trans-unit>
       <trans-unit id="735e607e10fee87f6361aece565f953282594080" resname="ibexa.payment.search.payment_methods.label">
         <source>Payment method</source>
-        <target state="needs-translation">Payment method</target>
+        <target state="translated">Moyen de paiement</target>
         <note>key: ibexa.payment.search.payment_methods.label</note>
       </trans-unit>
       <trans-unit id="2b932de6c4eaafa4e08b8b2e51bcab116767c221" resname="ibexa.payment.search.statuses.label">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: ibexa.payment.search.statuses.label</note>
       </trans-unit>
       <trans-unit id="083586debdd5ae02d6d5a8269a4463c615a70708" resname="ibexa.payment.search.updated_at.label">
         <source>Updated</source>
-        <target state="needs-translation">Updated</target>
+        <target state="translated">Actualisé</target>
         <note>key: ibexa.payment.search.updated_at.label</note>
       </trans-unit>
       <trans-unit id="f96039d34ca65c0d5d9d5850aa86a666e528c74a" resname="ibexa.payment.summary.created.label">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Date de création</target>
         <note>key: ibexa.payment.summary.created.label</note>
       </trans-unit>
       <trans-unit id="618ed384b94e5e6975601c0c16fc6011937c5ae7" resname="ibexa.payment.summary.go_to_details">
         <source>Go to details</source>
-        <target state="needs-translation">Go to details</target>
+        <target state="translated">Voir les détails</target>
         <note>key: ibexa.payment.summary.go_to_details</note>
       </trans-unit>
       <trans-unit id="d74455bbcd7f5735e008b0177861a5db06aa3ee4" resname="ibexa.payment.summary.method.label">
         <source>Payment method</source>
-        <target state="needs-translation">Payment method</target>
+        <target state="translated">Moyen de paiement</target>
         <note>key: ibexa.payment.summary.method.label</note>
       </trans-unit>
       <trans-unit id="a1dd66731d48ac86159d1ac3577d74dfe018028f" resname="ibexa.payment.summary.status.label">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: ibexa.payment.summary.status.label</note>
       </trans-unit>
       <trans-unit id="a2eda1ee63cbf89b09538c0acfc931ec21cea202" resname="ibexa.payment.summary.updated.label">
         <source>Updated</source>
-        <target state="needs-translation">Updated</target>
+        <target state="translated">Mis à jour</target>
         <note>key: ibexa.payment.summary.updated.label</note>
       </trans-unit>
       <trans-unit id="1508ff880170d661d73bb1a0d9229214d406bd05" resname="ibexa.payment.summary_stats.order_id.label">
         <source>Order ID</source>
-        <target state="needs-translation">Order ID</target>
+        <target state="translated">ID de commande</target>
         <note>key: ibexa.payment.summary_stats.order_id.label</note>
       </trans-unit>
       <trans-unit id="a346f00c75ec730dffde1bd7cf8dcb604a269b03" resname="ibexa.payment.summary_stats.total_value.label">
         <source>Total value</source>
-        <target state="needs-translation">Total value</target>
+        <target state="translated">Valeur totale</target>
         <note>key: ibexa.payment.summary_stats.total_value.label</note>
       </trans-unit>
       <trans-unit id="edab3868554cd39956295c86c6b42f733c01644a" resname="ibexa.payment.summary_stats.updated.label">
         <source>Updated</source>
-        <target state="needs-translation">Updated</target>
+        <target state="translated">Mis à jour</target>
         <note>key: ibexa.payment.summary_stats.updated.label</note>
       </trans-unit>
       <trans-unit id="d495600613f976c009c2c918bc768788345926d2" resname="ibexa.payment.update.success">
         <source>Payment '%identifier%' update.</source>
-        <target state="needs-translation">Payment '%identifier%' update.</target>
+        <target state="translated">Mise à jour du paiement '%identifier%'.</target>
         <note>key: ibexa.payment.update.success</note>
       </trans-unit>
       <trans-unit id="b778d28d23d4d01dbc5941627a179d54df293e3b" resname="ibexa.payment.view.title">
         <source>Payment #%identifier%</source>
-        <target state="needs-translation">Payment #%identifier%</target>
+        <target state="translated">Commande n°%identifier%</target>
         <note>key: ibexa.payment.view.title</note>
       </trans-unit>
       <trans-unit id="3e5a2d597828985912ed23e8935249815d9c50a5" resname="ibexa.payment_method.action.create.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: ibexa.payment_method.action.create.cancel</note>
       </trans-unit>
       <trans-unit id="0fe69f821527da19e339572ae1e98e6f836a72cc" resname="ibexa.payment_method.action.create.header">
         <source>Create payment method</source>
-        <target state="needs-translation">Create payment method</target>
+        <target state="translated">Créer un mode de paiement</target>
         <note>key: ibexa.payment_method.action.create.header</note>
       </trans-unit>
       <trans-unit id="63ab59249d27b2ca0a5a4c809a2ff77aeeafa8f9" resname="ibexa.payment_method.action.create.submit">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: ibexa.payment_method.action.create.submit</note>
       </trans-unit>
       <trans-unit id="4a697744aa1e4f423b10483a21cd712a187f8c64" resname="ibexa.payment_method.availability.active">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Actif</target>
         <note>key: ibexa.payment_method.availability.active</note>
       </trans-unit>
       <trans-unit id="25a6c64d7be1a8a1ae1c1dddfe26e1cc22d3165f" resname="ibexa.payment_method.availability.inactive">
         <source>Inactive</source>
-        <target state="needs-translation">Inactive</target>
+        <target state="translated">Inactif</target>
         <note>key: ibexa.payment_method.availability.inactive</note>
       </trans-unit>
       <trans-unit id="0d02ac7232a82005e07fdd4b1e4371e7754b2f0e" resname="ibexa.payment_method.breadcrumb.list">
         <source>Payment methods</source>
-        <target state="needs-translation">Payment methods</target>
+        <target state="translated">Moyens de paiement</target>
         <note>key: ibexa.payment_method.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="890d43cc5e22dbb587396e9dae6268c309b39677" resname="ibexa.payment_method.breadcrumb.view">
         <source>%name% </source>
-        <target state="needs-translation">%name% </target>
+        <target state="translated">%name% </target>
         <note>key: ibexa.payment_method.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="bd82580db50d0605cf891c3dcd38f8ebeb47f270" resname="ibexa.payment_method.creating.title">
         <source>New Payment method</source>
-        <target state="needs-translation">New Payment method</target>
+        <target state="translated">Nouveau moyen de paiement</target>
         <note>key: ibexa.payment_method.creating.title</note>
       </trans-unit>
       <trans-unit id="511d038948aa970a2e778f017749223e1151995b" resname="ibexa.payment_method.delete.label">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: ibexa.payment_method.delete.label</note>
       </trans-unit>
       <trans-unit id="96e204b644ac571fac14843b048a2d8e92a4358e" resname="ibexa.payment_method.delete.success">
         <source>Payment method '%name%' removed.</source>
-        <target state="needs-translation">Payment method '%name%' removed.</target>
+        <target state="translated">Méthode de paiement '%name%' supprimée.</target>
         <note>key: ibexa.payment_method.delete.success</note>
       </trans-unit>
       <trans-unit id="80787de412812e7964c24fdd8c860517c19d62b2" resname="ibexa.payment_method.details.column.description">
         <source>Description</source>
-        <target state="needs-translation">Description</target>
+        <target state="translated">Description</target>
         <note>key: ibexa.payment_method.details.column.description</note>
       </trans-unit>
       <trans-unit id="ab1e1f214331567b2731dc437593b761accf2481" resname="ibexa.payment_method.details.column.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identifiant</target>
         <note>key: ibexa.payment_method.details.column.identifier</note>
       </trans-unit>
       <trans-unit id="871e85bbe23b4bc25083892bb0910acea964bd03" resname="ibexa.payment_method.details.column.method_type">
         <source>Method type</source>
-        <target state="needs-translation">Method type</target>
+        <target state="translated">Type de méthode</target>
         <note>key: ibexa.payment_method.details.column.method_type</note>
       </trans-unit>
       <trans-unit id="fc53ab721f4da8ffca422bfd811f10bb33e5852a" resname="ibexa.payment_method.details.tab.global_properties.label">
         <source>Global properties</source>
-        <target state="needs-translation">Global properties</target>
+        <target state="translated">Propriétés globales</target>
         <note>key: ibexa.payment_method.details.tab.global_properties.label</note>
       </trans-unit>
       <trans-unit id="8a13b720f5499d6575420d2abf9ae2cf54e8bce8" resname="ibexa.payment_method.details.tab.translations.label">
         <source>Translations</source>
-        <target state="needs-translation">Translations</target>
+        <target state="translated">Traductions</target>
         <note>key: ibexa.payment_method.details.tab.translations.label</note>
       </trans-unit>
       <trans-unit id="665c01798228f4d8e6cd2d30cbb80329dc7cfd53" resname="ibexa.payment_method.edit.action_name">
         <source>Editing Payment method</source>
-        <target state="needs-translation">Editing Payment method</target>
+        <target state="translated">Modification du moyen de paiement</target>
         <note>key: ibexa.payment_method.edit.action_name</note>
       </trans-unit>
       <trans-unit id="8edaa6aabaf91a104c0d988c1b9472cb75e2afc1" resname="ibexa.payment_method.edit.label">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: ibexa.payment_method.edit.label</note>
       </trans-unit>
       <trans-unit id="01a8bed00ede1be30fc400c3bb8a6fdd2505109e" resname="ibexa.payment_method.enabled.value.false">
         <source>Inactive</source>
-        <target state="needs-translation">Inactive</target>
+        <target state="translated">Inactif</target>
         <note>key: ibexa.payment_method.enabled.value.false</note>
       </trans-unit>
       <trans-unit id="f3c19ced2986c3413ae9a958210f61ef46066551" resname="ibexa.payment_method.enabled.value.true">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Actif</target>
         <note>key: ibexa.payment_method.enabled.value.true</note>
       </trans-unit>
       <trans-unit id="d8a8c77c79024b0e81501eaad7c09425e4d294c2" resname="ibexa.payment_method.list.action.create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: ibexa.payment_method.list.action.create</note>
       </trans-unit>
       <trans-unit id="61f8d8c4b672216a9daf9d06285a4e1ccdf18356" resname="ibexa.payment_method.list.column.availability">
         <source>Availability</source>
-        <target state="needs-translation">Availability</target>
+        <target state="translated">Disponibilité</target>
         <note>key: ibexa.payment_method.list.column.availability</note>
       </trans-unit>
       <trans-unit id="0259b373821f2e3d1a13578a9fd8cbfa703bd8da" resname="ibexa.payment_method.list.column.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identifiant</target>
         <note>key: ibexa.payment_method.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="aa1589bc63bdcf29030d5defdafc078229ed6753" resname="ibexa.payment_method.list.column.method_type">
         <source>Method type</source>
-        <target state="needs-translation">Method type</target>
+        <target state="translated">Type de méthode</target>
         <note>key: ibexa.payment_method.list.column.method_type</note>
       </trans-unit>
       <trans-unit id="1c7e2b95683abede5439943b43a0040881a826c2" resname="ibexa.payment_method.list.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nom</target>
         <note>key: ibexa.payment_method.list.column.name</note>
       </trans-unit>
       <trans-unit id="15bb5e11f360734b2a382ea7d81294c92cc084fd" resname="ibexa.payment_method.list.no_search_results.action_text">
         <source>Try again with new search criteria</source>
-        <target state="needs-translation">Try again with new search criteria</target>
+        <target state="translated">Réessayez avec de nouveaux critères de recherche</target>
         <note>key: ibexa.payment_method.list.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="ee3a153257bdf9130d4f08dafa48552893e6df9c" resname="ibexa.payment_method.list.no_search_results.info_text">
         <source>Sorry, there are no payment methods for your search</source>
-        <target state="needs-translation">Sorry, there are no payment methods for your search</target>
+        <target state="translated">Désolé, il n'y a pas de méthode de paiement pour votre recherche</target>
         <note>key: ibexa.payment_method.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="e6a734fbd0274ea78814b3330723ba353582fac4" resname="ibexa.payment_method.list.search.query.placeholder">
         <source>Search by name, identifier</source>
-        <target state="needs-translation">Search by name, identifier</target>
+        <target state="translated">Recherche par nom, identifiant</target>
         <note>key: ibexa.payment_method.list.search.query.placeholder</note>
       </trans-unit>
       <trans-unit id="079a581bbd608d133fd7ffcac387b1af46ed4901" resname="ibexa.payment_method.list.status.active">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Actif</target>
         <note>key: ibexa.payment_method.list.status.active</note>
       </trans-unit>
       <trans-unit id="48a344ea04f26285036bcedd27891f0601a79477" resname="ibexa.payment_method.list.status.inactive">
         <source>Inactive</source>
-        <target state="needs-translation">Inactive</target>
+        <target state="translated">Inactif</target>
         <note>key: ibexa.payment_method.list.status.inactive</note>
       </trans-unit>
       <trans-unit id="9e6f462e79097b2bca7b1a5ec40bf5fbf959e3c2" resname="ibexa.payment_method.new.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: ibexa.payment_method.new.action_name</note>
       </trans-unit>
       <trans-unit id="dca520098f9e300de1c5007da846a44c48396096" resname="ibexa.payment_method.search.enabled.label">
         <source>Availability</source>
-        <target state="needs-translation">Availability</target>
+        <target state="translated">Disponibilité</target>
         <note>key: ibexa.payment_method.search.enabled.label</note>
       </trans-unit>
       <trans-unit id="6c80e03980a9ed2bab2ad6c4db56fb66627d4f9e" resname="ibexa.payment_method.search.method_type.label">
         <source>Method type</source>
-        <target state="needs-translation">Method type</target>
+        <target state="translated">Type de méthode</target>
         <note>key: ibexa.payment_method.search.method_type.label</note>
       </trans-unit>
       <trans-unit id="0576c778981df2e8464f8dd58f0c1e4e984e2e31" resname="ibexa.payment_method.status.active">
         <source>Active</source>
-        <target state="needs-translation">Active</target>
+        <target state="translated">Actif</target>
         <note>key: ibexa.payment_method.status.active</note>
       </trans-unit>
       <trans-unit id="5deaf0e963dd96faf84b093bbf343aab48bf8d13" resname="ibexa.payment_method.status.inactive">
         <source>Inactive</source>
-        <target state="needs-translation">Inactive</target>
+        <target state="translated">Inactif</target>
         <note>key: ibexa.payment_method.status.inactive</note>
       </trans-unit>
       <trans-unit id="a6cfa09c3e2410709acb805179ed61fa723e39ce" resname="ibexa.payment_method.update.success">
         <source>Payment method '%name%' updated.</source>
-        <target state="needs-translation">Payment method '%name%' updated.</target>
+        <target state="translated">Méthode de paiement '%name%' mise à jour.</target>
         <note>key: ibexa.payment_method.update.success</note>
       </trans-unit>
       <trans-unit id="e63983f2bac0df80b8702713f6ee58c0d4a7c83a" resname="ibexa.payment_method.view.title">
         <source>%name% Payment method</source>
-        <target state="needs-translation">%name% Payment method</target>
+        <target state="translated">Moyen de paiement %name%</target>
         <note>key: ibexa.payment_method.view.title</note>
       </trans-unit>
       <trans-unit id="befbea8290503a357999638605e45d69f699bbb0" resname="ibexa.payment_methods.list.title">
         <source>Payment methods</source>
-        <target state="needs-translation">Payment methods</target>
+        <target state="translated">Moyens de paiement</target>
         <note>key: ibexa.payment_methods.list.title</note>
       </trans-unit>
       <trans-unit id="d9ebb6c42365163f4259227047d99bb7d68f182e" resname="ibexa.payments.list.title">
         <source>Payments</source>
-        <target state="needs-translation">Payments</target>
+        <target state="translated">Paiements</target>
         <note>key: ibexa.payments.list.title</note>
       </trans-unit>
       <trans-unit id="af1fe0120398e5165f0b88a937a41a4944c04b31" resname="modal.state.transition.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: modal.state.transition.cancel.label</note>
       </trans-unit>
       <trans-unit id="00fd5128d6e7babee89951d351293cd1ceea2aba" resname="modal.state.transition.change.label">
         <source>Change</source>
-        <target state="needs-translation">Change</target>
+        <target state="translated">Modifier</target>
         <note>key: modal.state.transition.change.label</note>
       </trans-unit>
       <trans-unit id="4d67ad5d865268fa2e46b11583e258ac67e739a2" resname="modal.state.transition.confirm_message">
         <source>Are you sure you want to change payment status?</source>
-        <target state="needs-translation">Are you sure you want to change payment status?</target>
+        <target state="translated">Êtes-vous sûr de vouloir changer le statut du paiement ?</target>
         <note>key: modal.state.transition.confirm_message</note>
       </trans-unit>
       <trans-unit id="7ac59a0add9833932761c2e945a68f3b72b68f6d" resname="order.tab.summary.payment.details.headline">
         <source>Payment</source>
-        <target state="needs-translation">Payment</target>
+        <target state="translated">Paiement</target>
         <note>key: order.tab.summary.payment.details.headline</note>
       </trans-unit>
       <trans-unit id="983ef20da8e6501abdf6d0e7f19d776c66eaffb3" resname="policy.limitation.paymentowner.self">
         <source>Self</source>
-        <target state="needs-translation">Self</target>
+        <target state="translated">Soi-même</target>
         <note>key: policy.limitation.paymentowner.self</note>
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
-        <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <source>Add</source>
+        <target state="translated">Ajouter</target>
         <note>key: tab.translations.action.add</note>
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: tab.translations.action.delete</note>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: tab.translations.add.cancel</note>
       </trans-unit>
       <trans-unit id="8e8e7e0b1aafc4199ae1a55b40e21531f5fde298" resname="tab.translations.add.submit">
         <source>Add translation</source>
-        <target state="needs-translation">Add translation</target>
+        <target state="translated">Ajouter une traduction</target>
         <note>key: tab.translations.add.submit</note>
       </trans-unit>
       <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
         <source>Create a new translation</source>
-        <target state="needs-translation">Create a new translation</target>
+        <target state="translated">Créer une nouvelle traduction</target>
         <note>key: tab.translations.add.title</note>
       </trans-unit>
       <trans-unit id="d494d753de03a08f7a10792b727ec88ca74d4913" resname="tab.translations.language_code">
         <source>Language code</source>
-        <target state="needs-translation">Language code</target>
+        <target state="translated">Code de la langue</target>
         <note>key: tab.translations.language_code</note>
       </trans-unit>
       <trans-unit id="0becdca42cbaa039a6166b8aa778a86657bb362f" resname="tab.translations.language_name">
         <source>Language name</source>
-        <target state="needs-translation">Language name</target>
+        <target state="translated">Nom de la langue</target>
         <note>key: tab.translations.language_name</note>
       </trans-unit>
       <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
         <source>Do you want to delete the translation ?</source>
-        <target state="needs-translation">Do you want to delete the translation ?</target>
+        <target state="translated">Voulez-vous vraiment supprimer la traduction ?</target>
         <note>key: tab.translations.modal.message</note>
       </trans-unit>
       <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
         <source>Translation manager</source>
-        <target state="needs-translation">Translation manager</target>
+        <target state="translated">Gestionnaire de traduction</target>
         <note>key: tab.translations.translation_manger</note>
       </trans-unit>
       <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">
         <source>No language</source>
-        <target state="needs-translation">No language</target>
+        <target state="translated">Aucune langue</target>
         <note>key: translation.base_language.no_language</note>
       </trans-unit>
       <trans-unit id="5ffe533b830f08a0326348a9160afafc8ada44db" resname="true">
         <source>true</source>
-        <target state="needs-translation">true</target>
+        <target state="translated">vrai</target>
         <note>key: true</note>
       </trans-unit>
     </body>

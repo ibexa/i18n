@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ja" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="500d59b943eb26ead023762c7b3482f086bee0fa" resname="block.personalization.add">
+        <source>Add</source>
+        <target state="needs-translation">Add</target>
+        <note>key: block.personalization.add</note>
+      </trans-unit>
+      <trans-unit id="2567f904927186a6ce8cdd3843cdb3d5d51885e0" resname="block.personalization.label.output_type">
+        <source>Output type</source>
+        <target state="needs-translation">Output type</target>
+        <note>key: block.personalization.label.output_type</note>
+      </trans-unit>
+      <trans-unit id="5bc3e74aeb57bb5a2db9e3d617a3f6eda0e342b3" resname="block.personalization.label.scenario">
+        <source>Scenario</source>
+        <target state="needs-translation">Scenario</target>
+        <note>key: block.personalization.label.scenario</note>
+      </trans-unit>
+      <trans-unit id="7cddc1f0f196e91a7bf027e8bc55eced6514b540" resname="block.personalization.label.segment">
+        <source>Segment</source>
+        <target state="needs-translation">Segment</target>
+        <note>key: block.personalization.label.segment</note>
+      </trans-unit>
+      <trans-unit id="4a951b52415744b29645614ece741630608e5fe0" resname="personalization.page_builder.block.bestsellers">
+        <source>Bestsellers</source>
+        <target state="needs-translation">Bestsellers</target>
+        <note>key: personalization.page_builder.block.bestsellers</note>
+      </trans-unit>
+      <trans-unit id="ec631464149c44e065eb4dd410ae90fd0a85b2f5" resname="personalization.page_builder.block.last_purchased">
+        <source>Last purchased</source>
+        <target state="needs-translation">Last purchased</target>
+        <note>key: personalization.page_builder.block.last_purchased</note>
+      </trans-unit>
+      <trans-unit id="fc7788d8f536e9122554dddda77150a10c689522" resname="personalization.page_builder.block.last_viewed">
+        <source>Last viewed</source>
+        <target state="needs-translation">Last viewed</target>
+        <note>key: personalization.page_builder.block.last_viewed</note>
+      </trans-unit>
+      <trans-unit id="7ff992a7de5317311f4c72471510fec74add2557" resname="personalization.page_builder.block.recently_added">
+        <source>Recently added</source>
+        <target state="needs-translation">Recently added</target>
+        <note>key: personalization.page_builder.block.recently_added</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

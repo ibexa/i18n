@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="4ec99016d9af53130aaf043f9b6bce7ced2a1739" resname="role.policy.workflow.change_stage">
         <source>Workflow / Change Stage</source>
-        <target state="needs-translation">Workflow / Change Stage</target>
+        <target state="translated">Przepływ pracy / Zmień etap</target>
         <note>key: role.policy.workflow.change_stage</note>
       </trans-unit>
     </body>

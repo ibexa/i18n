@@ -291,15 +291,65 @@
         <target state="needs-translation">Last month</target>
         <note>key: ibexa_personalization.date_time_range.last_month</note>
       </trans-unit>
+      <trans-unit id="8c7eb09b4326c7c04b214d941b1d9552ddd28f94" resname="ibexa_personalization.scenario.commerce_settings">
+        <source>Commerce settings</source>
+        <target state="needs-translation">Commerce settings</target>
+        <note>key: ibexa_personalization.scenario.commerce_settings</note>
+      </trans-unit>
+      <trans-unit id="2b0d80953c40e5424aa4c482cca1e5742adc3a07" resname="ibexa_personalization.scenario.description">
+        <source>Scenario description</source>
+        <target state="needs-translation">Scenario description</target>
+        <note>key: ibexa_personalization.scenario.description</note>
+      </trans-unit>
+      <trans-unit id="5513f899d5b3b82eb8c8a529c9e70ddaff8419d7" resname="ibexa_personalization.scenario.details.details">
+        <source>Scenario details</source>
+        <target state="needs-translation">Scenario details</target>
+        <note>key: ibexa_personalization.scenario.details.details</note>
+      </trans-unit>
+      <trans-unit id="94104f5f11945854392d47db58284a39437bdc85" resname="ibexa_personalization.scenario.edit_short">
+        <source>Edit</source>
+        <target state="needs-translation">Edit</target>
+        <note>key: ibexa_personalization.scenario.edit_short</note>
+      </trans-unit>
+      <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
+        <source>Scenario ID</source>
+        <target state="needs-translation">Scenario ID</target>
+        <note>key: ibexa_personalization.scenario.id</note>
+      </trans-unit>
+      <trans-unit id="89e671883aca6d0a3662cf8ed62769108969577c" resname="ibexa_personalization.scenario.input_type">
+        <source>Input type</source>
+        <target state="needs-translation">Input type</target>
+        <note>key: ibexa_personalization.scenario.input_type</note>
+      </trans-unit>
+      <trans-unit id="cf899da8652f04a34a0a8cb932446109606d84ad" resname="ibexa_personalization.scenario.output_type">
+        <source>Output type</source>
+        <target state="needs-translation">Output type</target>
+        <note>key: ibexa_personalization.scenario.output_type</note>
+      </trans-unit>
       <trans-unit id="537d2eeb50537aa922d548761126cb1687aaee25" resname="ibexa_personalization.scenario.output_type_all">
         <source>All</source>
         <target state="needs-translation">All</target>
         <note>key: ibexa_personalization.scenario.output_type_all</note>
       </trans-unit>
+      <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
+        <source>Scenario name</source>
+        <target state="needs-translation">Scenario name</target>
+        <note>key: ibexa_personalization.scenario.scenario_name</note>
+      </trans-unit>
+      <trans-unit id="cd5bce5ba0adfa62b8aba0814b6ad94c61a4ccaa" resname="ibexa_personalization.scenario.strategy">
+        <source>Strategy</source>
+        <target state="needs-translation">Strategy</target>
+        <note>key: ibexa_personalization.scenario.strategy</note>
+      </trans-unit>
       <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
         <source>Undefined</source>
         <target state="needs-translation">Undefined</target>
         <note>key: ibexa_personalization.scenario.undefined</note>
+      </trans-unit>
+      <trans-unit id="a12bb101b80ee4a2f65ff4072fc9d89c87b65883" resname="ibexa_personalization.scenario.user_profile_setting">
+        <source>User profile setting</source>
+        <target state="needs-translation">User profile setting</target>
+        <note>key: ibexa_personalization.scenario.user_profile_setting</note>
       </trans-unit>
       <trans-unit id="62fdfbd55d19b2a4671102ad7bca17d875f8207a" resname="import">
         <source>Import</source>
@@ -684,6 +734,21 @@
         <target state="translated">Konfigurieren Sie statische Empfehlungen basierend auf einer redaktionellen Liste</target>
         <note>key: models.description.alternative</note>
       </trans-unit>
+      <trans-unit id="2ea83319a10c680dc990ce385856737319975abe" resname="models.description.b2b_last_clicked">
+        <source>Model shows which items were recently clicked for a particular segment group of a company.</source>
+        <target state="needs-translation">Model shows which items were recently clicked for a particular segment group of a company.</target>
+        <note>key: models.description.b2b_last_clicked</note>
+      </trans-unit>
+      <trans-unit id="c574cc47d8f96920c5979e5bfc0a037033282333" resname="models.description.b2b_last_purchased">
+        <source>Model shows which items were recently purchased for a particular segment group of a company.</source>
+        <target state="needs-translation">Model shows which items were recently purchased for a particular segment group of a company.</target>
+        <note>key: models.description.b2b_last_purchased</note>
+      </trans-unit>
+      <trans-unit id="d6c33328fc530976332ac1fdae463228ca6aaaab" resname="models.description.basket_history">
+        <source>Shows the customer what they added to the basket in the past</source>
+        <target state="needs-translation">Shows the customer what they added to the basket in the past</target>
+        <note>key: models.description.basket_history</note>
+      </trans-unit>
       <trans-unit id="e01d62b3be728bf8efb96f124c036a9ca9805e7d" resname="models.description.bundle0">
         <source>Configure static recommendations based on an editorial list</source>
         <target state="translated">Konfigurieren Sie statische Empfehlungen basierend auf einer redaktionellen Liste</target>
@@ -786,6 +851,11 @@
 </target>
         <note>key: models.description.editor_blacklist</note>
       </trans-unit>
+      <trans-unit id="f4cd6cde65004c8c844f56564fa45af71f68fa81" resname="models.description.editor_blocklist">
+        <source>Items from this list are not recommended in any scenario</source>
+        <target state="needs-translation">Items from this list are not recommended in any scenario</target>
+        <note>key: models.description.editor_blocklist</note>
+      </trans-unit>
       <trans-unit id="5fae860ec55b5355481a3d61b3ee692cb3da5a18" resname="models.description.editorial_list">
         <source>Configure static recommendations based on an editorial list</source>
         <target state="translated">Konfigurieren Sie statische Empfehlungen basierend auf einer redaktionellen Liste</target>
@@ -820,6 +890,16 @@
         <source>Configure static recommendations based on an editorial list</source>
         <target state="translated">Konfigurieren Sie statische Empfehlungen basierend auf einer redaktionellen Liste</target>
         <note>key: models.description.editorial_list7</note>
+      </trans-unit>
+      <trans-unit id="339d5926d5c2276e2175222f1ca181d437d05ebf" resname="models.description.editorial_list_2">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target state="needs-translation">Configure static recommendations based on an editorial list</target>
+        <note>key: models.description.editorial_list_2</note>
+      </trans-unit>
+      <trans-unit id="8dd1731ea7e520e4dd7ff11a28556cf5a2fcb98e" resname="models.description.editorial_list_3">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target state="needs-translation">Configure static recommendations based on an editorial list</target>
+        <note>key: models.description.editorial_list_3</note>
       </trans-unit>
       <trans-unit id="9cfac39a53954cc6f67466586226d5b26aab047b" resname="models.description.editorial_list_article">
         <source>Configure static recommendations based on an editorial list</source>
@@ -947,8 +1027,8 @@
         <note>key: models.description.history_clicked1</note>
       </trans-unit>
       <trans-unit id="859ac09043a9552f4639f374f7250d50377bd0fe" resname="models.description.history_clicked_in_period">
-        <source>Show the customer what he already viewed</source>
-        <target state="needs-translation">Show the customer what he already viewed</target>
+        <source>Returns items user clicked the most within a configured time period. The items clicked more than once have higher priority.</source>
+        <target state="needs-translation">Returns items user clicked the most within a configured time period. The items clicked more than once have higher priority.</target>
         <note>key: models.description.history_clicked_in_period</note>
       </trans-unit>
       <trans-unit id="59cfbff87f6cf541400e1ff25a8a7cd02d52bddf" resname="models.description.history_consumed">
@@ -962,19 +1042,34 @@
         <note>key: models.description.history_purchased</note>
       </trans-unit>
       <trans-unit id="3ade620adb52a4d1ed6619769b2e45d8b6c1fa63" resname="models.description.history_purchased_in_period">
-        <source>Show the customer what he already purchased</source>
-        <target state="needs-translation">Show the customer what he already purchased</target>
+        <source>Shows the customer what they already purchased.</source>
+        <target state="needs-translation">Shows the customer what they already purchased.</target>
         <note>key: models.description.history_purchased_in_period</note>
       </trans-unit>
       <trans-unit id="7e5d2847ce3ae50c54aba0a395e067b64ba76475" resname="models.description.last_clicked">
-        <source>last_clicked</source>
-        <target state="translated">zuletzt geklickt</target>
+        <source>Shows the last (based on the timestamp), for example, 5 clicked items.</source>
+        <target state="needs-translation">Shows the last (based on the timestamp), for example, 5 clicked items.</target>
         <note>key: models.description.last_clicked</note>
       </trans-unit>
       <trans-unit id="07aa2c8a6efd0a0bbc17b6ddd38ab126b0839d19" resname="models.description.last_purchased">
-        <source>last_purchased</source>
-        <target state="translated">zuletzt gekauft</target>
+        <source>Shows the last (based on the timestamp), for example, 5 items purchased by all users.</source>
+        <target state="needs-translation">Shows the last (based on the timestamp), for example, 5 items purchased by all users.</target>
         <note>key: models.description.last_purchased</note>
+      </trans-unit>
+      <trans-unit id="2bca8527288e75fa76d8fee8b38680be6ec33b71" resname="models.description.ml_cp_also_clicked">
+        <source>Also clicked model supported by Machine Learning mechanism that has been trained to recognize certain types of patterns.</source>
+        <target state="needs-translation">Also clicked model supported by Machine Learning mechanism that has been trained to recognize certain types of patterns.</target>
+        <note>key: models.description.ml_cp_also_clicked</note>
+      </trans-unit>
+      <trans-unit id="58b477177255e7977e4ddf70b975be5c509311e2" resname="models.description.ml_cp_top_clicked">
+        <source>Top clicked model supported by Machine Learning mechanism that has been trained to recognize certain types of patterns.</source>
+        <target state="needs-translation">Top clicked model supported by Machine Learning mechanism that has been trained to recognize certain types of patterns.</target>
+        <note>key: models.description.ml_cp_top_clicked</note>
+      </trans-unit>
+      <trans-unit id="588fb38bddf122c751dc1b99d3073de39175dbcb" resname="models.description.ml_model">
+        <source>A Machine Learning model is a mechanism that can find patterns or make decisions from a previously unseen dataset.</source>
+        <target state="needs-translation">A Machine Learning model is a mechanism that can find patterns or make decisions from a previously unseen dataset.</target>
+        <note>key: models.description.ml_model</note>
       </trans-unit>
       <trans-unit id="f1aa932a6a986518f8a92959d2b1d1c054a3bf73" resname="models.description.popular">
         <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
@@ -1011,11 +1106,14 @@
         <target state="translated">profil_klicke</target>
         <note>key: models.description.profile_click</note>
       </trans-unit>
+      <trans-unit id="fa5e0b3b4e0551175487d95c80d4e258c220e4ac" resname="models.description.purchased_together">
+        <source>Model Purchased together refers to a data analysis technique that identifies patterns of items frequently bought together by customers</source>
+        <target state="needs-translation">Model Purchased together refers to a data analysis technique that identifies patterns of items frequently bought together by customers</target>
+        <note>key: models.description.purchased_together</note>
+      </trans-unit>
       <trans-unit id="973614998a011e68809d35cb545e75cc364315ed" resname="models.description.random">
-        <source>Random model</source>
-        <target state="translated">Zufälliges Modell
-
-</target>
+        <source> Returns list of items from the recent items added in a configured time period.</source>
+        <target state="needs-translation"> Returns list of items from the recent items added in a configured time period.</target>
         <note>key: models.description.random</note>
       </trans-unit>
       <trans-unit id="86a636e53968cf7b770bf536490c8266c23e9806" resname="models.description.random_emdsartikel">
@@ -1119,8 +1217,8 @@
         <note>key: models.description.top_clicked_short</note>
       </trans-unit>
       <trans-unit id="ba03c9b32233afe6d156fa4849ee84362a1655b5" resname="models.description.top_clicked_weighted">
-        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">Die beliebtesten Inhalte (Produkt, Artikel usw.) basieren auf einem gewichteten Gesamtnutzungsverlauf</target>
+        <source>Returns items which click date is closer to date of the request for these items.</source>
+        <target state="needs-translation">Returns items which click date is closer to date of the request for these items.</target>
         <note>key: models.description.top_clicked_weighted</note>
       </trans-unit>
       <trans-unit id="ec6865ccab6bf3a7d34222e2ad3a33bdd4a9c325" resname="models.description.top_consumed">
@@ -1492,6 +1590,16 @@
         <target state="translated">Redaktionelle Liste</target>
         <note>key: models.name.alternative</note>
       </trans-unit>
+      <trans-unit id="148be925b3056b6ec3aa40dba48fa4b3d0e2e2b4" resname="models.name.b2b_last_clicked">
+        <source>B2B last clicked</source>
+        <target state="needs-translation">B2B last clicked</target>
+        <note>key: models.name.b2b_last_clicked</note>
+      </trans-unit>
+      <trans-unit id="8224ad2ce456f03eb9f747cfd5f0ea2debaf1432" resname="models.name.b2b_last_purchased">
+        <source>B2B last purchased</source>
+        <target state="needs-translation">B2B last purchased</target>
+        <note>key: models.name.b2b_last_purchased</note>
+      </trans-unit>
       <trans-unit id="db2f1d29c5c029e34e84c14c46c46a9005277a0d" resname="models.name.basket_history">
         <source>Basket history</source>
         <target state="needs-translation">Basket history</target>
@@ -1596,6 +1704,11 @@
         <source>Blacklist</source>
         <target state="needs-translation">Blacklist</target>
         <note>key: models.name.editor_blacklist</note>
+      </trans-unit>
+      <trans-unit id="7e208305225e17ea18c11af3561061b352268184" resname="models.name.editor_blocklist">
+        <source>Blocklist</source>
+        <target state="needs-translation">Blocklist</target>
+        <note>key: models.name.editor_blocklist</note>
       </trans-unit>
       <trans-unit id="05516103632d862df8a3735e6f2053f6789d85df" resname="models.name.editorial_list">
         <source>Editorial list</source>
@@ -1788,14 +1901,29 @@
         <note>key: models.name.history_purchased_in_period</note>
       </trans-unit>
       <trans-unit id="92024daa0e78d92193fedb7d766ea33bdcfa3c07" resname="models.name.last_clicked">
-        <source>Last clicked</source>
-        <target state="translated">Zuletzt angeklickt</target>
+        <source>Last viewed</source>
+        <target state="needs-translation">Last viewed</target>
         <note>key: models.name.last_clicked</note>
       </trans-unit>
       <trans-unit id="85a14915584e5d313c8ef4d83e5e197d6c712373" resname="models.name.last_purchased">
         <source>Last purchased</source>
         <target state="translated">Zuletzt gekauft</target>
         <note>key: models.name.last_purchased</note>
+      </trans-unit>
+      <trans-unit id="bd1e6a7ec9353fb5cc2196d4298db2678df2d6d8" resname="models.name.ml_cp_also_clicked">
+        <source>ML - also clicked</source>
+        <target state="needs-translation">ML - also clicked</target>
+        <note>key: models.name.ml_cp_also_clicked</note>
+      </trans-unit>
+      <trans-unit id="c9f3a39785dbe72575db601d8960951446389efc" resname="models.name.ml_cp_top_clicked">
+        <source>ML - top clicked</source>
+        <target state="needs-translation">ML - top clicked</target>
+        <note>key: models.name.ml_cp_top_clicked</note>
+      </trans-unit>
+      <trans-unit id="6fe9d7b6b888c0a02daba02701e8eb5af5d89d1d" resname="models.name.ml_model">
+        <source>ML - dynamic pattern model</source>
+        <target state="needs-translation">ML - dynamic pattern model</target>
+        <note>key: models.name.ml_model</note>
       </trans-unit>
       <trans-unit id="5e3b410efe703bcbc8fcbbb7863a301b6d3fe758" resname="models.name.popular">
         <source>Top purchased</source>
@@ -1832,9 +1960,14 @@
         <target state="translated">Profilklick</target>
         <note>key: models.name.profile_click</note>
       </trans-unit>
+      <trans-unit id="29bb149419834dfc346c06eefd24f0c432d2f99f" resname="models.name.purchased_together">
+        <source>Purchased together</source>
+        <target state="needs-translation">Purchased together</target>
+        <note>key: models.name.purchased_together</note>
+      </trans-unit>
       <trans-unit id="1521abaefbec5c23c3eaadfc140461e418ed4d34" resname="models.name.random">
-        <source>Random model</source>
-        <target state="translated">Zufälliges Modell</target>
+        <source>Recently added</source>
+        <target state="needs-translation">Recently added</target>
         <note>key: models.name.random</note>
       </trans-unit>
       <trans-unit id="482ede2e570cad30275805d2a22d163f32ade34b" resname="models.name.random_emdsartikel">
@@ -1893,8 +2026,8 @@
         <note>key: models.name.suggestion</note>
       </trans-unit>
       <trans-unit id="04328047c393801ac11ecc16e676dd62ef969fe4" resname="models.name.top_buy_weighted">
-        <source> Weighted (based on buy events)</source>
-        <target state="needs-translation"> Weighted (based on buy events)</target>
+        <source>Weighted (based on buy events)</source>
+        <target state="needs-translation">Weighted (based on buy events)</target>
         <note>key: models.name.top_buy_weighted</note>
       </trans-unit>
       <trans-unit id="2b13504ff2670583843a764db725a251bde09446" resname="models.name.top_clicked">
@@ -1938,8 +2071,8 @@
         <note>key: models.name.top_clicked_short</note>
       </trans-unit>
       <trans-unit id="8093d7b3b78bcb21b1e4f52b3618f3c8edd5be9b" resname="models.name.top_clicked_weighted">
-        <source>Top clicked</source>
-        <target state="translated">Top geklickt</target>
+        <source>Weighted (based on click events)</source>
+        <target state="needs-translation">Weighted (based on click events)</target>
         <note>key: models.name.top_clicked_weighted</note>
       </trans-unit>
       <trans-unit id="cf844b7ac6c761bb4e1625b46ffe819faefe49d6" resname="models.name.top_consumed">

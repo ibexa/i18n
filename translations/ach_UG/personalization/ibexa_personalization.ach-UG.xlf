@@ -291,15 +291,65 @@
         <target>crwdns243832:0crwdne243832:0</target>
         <note>key: ibexa_personalization.date_time_range.last_month</note>
       </trans-unit>
+      <trans-unit id="8c7eb09b4326c7c04b214d941b1d9552ddd28f94" resname="ibexa_personalization.scenario.commerce_settings">
+        <source>Commerce settings</source>
+        <target>crwdns252142:0crwdne252142:0</target>
+        <note>key: ibexa_personalization.scenario.commerce_settings</note>
+      </trans-unit>
+      <trans-unit id="2b0d80953c40e5424aa4c482cca1e5742adc3a07" resname="ibexa_personalization.scenario.description">
+        <source>Scenario description</source>
+        <target>crwdns252144:0crwdne252144:0</target>
+        <note>key: ibexa_personalization.scenario.description</note>
+      </trans-unit>
+      <trans-unit id="5513f899d5b3b82eb8c8a529c9e70ddaff8419d7" resname="ibexa_personalization.scenario.details.details">
+        <source>Scenario details</source>
+        <target>crwdns252146:0crwdne252146:0</target>
+        <note>key: ibexa_personalization.scenario.details.details</note>
+      </trans-unit>
+      <trans-unit id="94104f5f11945854392d47db58284a39437bdc85" resname="ibexa_personalization.scenario.edit_short">
+        <source>Edit</source>
+        <target>crwdns252148:0crwdne252148:0</target>
+        <note>key: ibexa_personalization.scenario.edit_short</note>
+      </trans-unit>
+      <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
+        <source>Scenario ID</source>
+        <target>crwdns252150:0crwdne252150:0</target>
+        <note>key: ibexa_personalization.scenario.id</note>
+      </trans-unit>
+      <trans-unit id="89e671883aca6d0a3662cf8ed62769108969577c" resname="ibexa_personalization.scenario.input_type">
+        <source>Input type</source>
+        <target>crwdns252152:0crwdne252152:0</target>
+        <note>key: ibexa_personalization.scenario.input_type</note>
+      </trans-unit>
+      <trans-unit id="cf899da8652f04a34a0a8cb932446109606d84ad" resname="ibexa_personalization.scenario.output_type">
+        <source>Output type</source>
+        <target>crwdns252154:0crwdne252154:0</target>
+        <note>key: ibexa_personalization.scenario.output_type</note>
+      </trans-unit>
       <trans-unit id="537d2eeb50537aa922d548761126cb1687aaee25" resname="ibexa_personalization.scenario.output_type_all">
         <source>All</source>
         <target>crwdns248186:0crwdne248186:0</target>
         <note>key: ibexa_personalization.scenario.output_type_all</note>
       </trans-unit>
+      <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
+        <source>Scenario name</source>
+        <target>crwdns252156:0crwdne252156:0</target>
+        <note>key: ibexa_personalization.scenario.scenario_name</note>
+      </trans-unit>
+      <trans-unit id="cd5bce5ba0adfa62b8aba0814b6ad94c61a4ccaa" resname="ibexa_personalization.scenario.strategy">
+        <source>Strategy</source>
+        <target>crwdns252158:0crwdne252158:0</target>
+        <note>key: ibexa_personalization.scenario.strategy</note>
+      </trans-unit>
       <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
         <source>Undefined</source>
         <target>crwdns248188:0crwdne248188:0</target>
         <note>key: ibexa_personalization.scenario.undefined</note>
+      </trans-unit>
+      <trans-unit id="a12bb101b80ee4a2f65ff4072fc9d89c87b65883" resname="ibexa_personalization.scenario.user_profile_setting">
+        <source>User profile setting</source>
+        <target>crwdns252160:0crwdne252160:0</target>
+        <note>key: ibexa_personalization.scenario.user_profile_setting</note>
       </trans-unit>
       <trans-unit id="62fdfbd55d19b2a4671102ad7bca17d875f8207a" resname="import">
         <source>Import</source>
@@ -676,6 +726,21 @@
         <target>crwdns243966:0crwdne243966:0</target>
         <note>key: models.description.alternative</note>
       </trans-unit>
+      <trans-unit id="2ea83319a10c680dc990ce385856737319975abe" resname="models.description.b2b_last_clicked">
+        <source>Model shows which items were recently clicked for a particular segment group of a company.</source>
+        <target>crwdns252162:0crwdne252162:0</target>
+        <note>key: models.description.b2b_last_clicked</note>
+      </trans-unit>
+      <trans-unit id="c574cc47d8f96920c5979e5bfc0a037033282333" resname="models.description.b2b_last_purchased">
+        <source>Model shows which items were recently purchased for a particular segment group of a company.</source>
+        <target>crwdns252164:0crwdne252164:0</target>
+        <note>key: models.description.b2b_last_purchased</note>
+      </trans-unit>
+      <trans-unit id="d6c33328fc530976332ac1fdae463228ca6aaaab" resname="models.description.basket_history">
+        <source>Shows the customer what they added to the basket in the past</source>
+        <target>crwdns252166:0crwdne252166:0</target>
+        <note>key: models.description.basket_history</note>
+      </trans-unit>
       <trans-unit id="e01d62b3be728bf8efb96f124c036a9ca9805e7d" resname="models.description.bundle0">
         <source>Configure static recommendations based on an editorial list</source>
         <target>crwdns243968:0crwdne243968:0</target>
@@ -776,6 +841,11 @@
         <target>crwdns244006:0crwdne244006:0</target>
         <note>key: models.description.editor_blacklist</note>
       </trans-unit>
+      <trans-unit id="f4cd6cde65004c8c844f56564fa45af71f68fa81" resname="models.description.editor_blocklist">
+        <source>Items from this list are not recommended in any scenario</source>
+        <target>crwdns252168:0crwdne252168:0</target>
+        <note>key: models.description.editor_blocklist</note>
+      </trans-unit>
       <trans-unit id="5fae860ec55b5355481a3d61b3ee692cb3da5a18" resname="models.description.editorial_list">
         <source>Configure static recommendations based on an editorial list</source>
         <target>crwdns244008:0crwdne244008:0</target>
@@ -810,6 +880,16 @@
         <source>Configure static recommendations based on an editorial list</source>
         <target>crwdns244020:0crwdne244020:0</target>
         <note>key: models.description.editorial_list7</note>
+      </trans-unit>
+      <trans-unit id="339d5926d5c2276e2175222f1ca181d437d05ebf" resname="models.description.editorial_list_2">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns252170:0crwdne252170:0</target>
+        <note>key: models.description.editorial_list_2</note>
+      </trans-unit>
+      <trans-unit id="8dd1731ea7e520e4dd7ff11a28556cf5a2fcb98e" resname="models.description.editorial_list_3">
+        <source>Configure static recommendations based on an editorial list</source>
+        <target>crwdns252172:0crwdne252172:0</target>
+        <note>key: models.description.editorial_list_3</note>
       </trans-unit>
       <trans-unit id="9cfac39a53954cc6f67466586226d5b26aab047b" resname="models.description.editorial_list_article">
         <source>Configure static recommendations based on an editorial list</source>
@@ -937,8 +1017,8 @@
         <note>key: models.description.history_clicked1</note>
       </trans-unit>
       <trans-unit id="859ac09043a9552f4639f374f7250d50377bd0fe" resname="models.description.history_clicked_in_period">
-        <source>Show the customer what he already viewed</source>
-        <target>crwdns244072:0crwdne244072:0</target>
+        <source>Returns items user clicked the most within a configured time period. The items clicked more than once have higher priority.</source>
+        <target>crwdns252174:0crwdne252174:0</target>
         <note>key: models.description.history_clicked_in_period</note>
       </trans-unit>
       <trans-unit id="59cfbff87f6cf541400e1ff25a8a7cd02d52bddf" resname="models.description.history_consumed">
@@ -952,19 +1032,34 @@
         <note>key: models.description.history_purchased</note>
       </trans-unit>
       <trans-unit id="3ade620adb52a4d1ed6619769b2e45d8b6c1fa63" resname="models.description.history_purchased_in_period">
-        <source>Show the customer what he already purchased</source>
-        <target>crwdns244078:0crwdne244078:0</target>
+        <source>Shows the customer what they already purchased.</source>
+        <target>crwdns252176:0crwdne252176:0</target>
         <note>key: models.description.history_purchased_in_period</note>
       </trans-unit>
       <trans-unit id="7e5d2847ce3ae50c54aba0a395e067b64ba76475" resname="models.description.last_clicked">
-        <source>last_clicked</source>
-        <target>crwdns244080:0crwdne244080:0</target>
+        <source>Shows the last (based on the timestamp), for example, 5 clicked items.</source>
+        <target>crwdns252178:0crwdne252178:0</target>
         <note>key: models.description.last_clicked</note>
       </trans-unit>
       <trans-unit id="07aa2c8a6efd0a0bbc17b6ddd38ab126b0839d19" resname="models.description.last_purchased">
-        <source>last_purchased</source>
-        <target>crwdns244082:0crwdne244082:0</target>
+        <source>Shows the last (based on the timestamp), for example, 5 items purchased by all users.</source>
+        <target>crwdns252180:0crwdne252180:0</target>
         <note>key: models.description.last_purchased</note>
+      </trans-unit>
+      <trans-unit id="2bca8527288e75fa76d8fee8b38680be6ec33b71" resname="models.description.ml_cp_also_clicked">
+        <source>Also clicked model supported by Machine Learning mechanism that has been trained to recognize certain types of patterns.</source>
+        <target>crwdns252182:0crwdne252182:0</target>
+        <note>key: models.description.ml_cp_also_clicked</note>
+      </trans-unit>
+      <trans-unit id="58b477177255e7977e4ddf70b975be5c509311e2" resname="models.description.ml_cp_top_clicked">
+        <source>Top clicked model supported by Machine Learning mechanism that has been trained to recognize certain types of patterns.</source>
+        <target>crwdns252184:0crwdne252184:0</target>
+        <note>key: models.description.ml_cp_top_clicked</note>
+      </trans-unit>
+      <trans-unit id="588fb38bddf122c751dc1b99d3073de39175dbcb" resname="models.description.ml_model">
+        <source>A Machine Learning model is a mechanism that can find patterns or make decisions from a previously unseen dataset.</source>
+        <target>crwdns252186:0crwdne252186:0</target>
+        <note>key: models.description.ml_model</note>
       </trans-unit>
       <trans-unit id="f1aa932a6a986518f8a92959d2b1d1c054a3bf73" resname="models.description.popular">
         <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
@@ -1001,9 +1096,14 @@
         <target>crwdns244094:0crwdne244094:0</target>
         <note>key: models.description.profile_click</note>
       </trans-unit>
+      <trans-unit id="fa5e0b3b4e0551175487d95c80d4e258c220e4ac" resname="models.description.purchased_together">
+        <source>Model Purchased together refers to a data analysis technique that identifies patterns of items frequently bought together by customers</source>
+        <target>crwdns252188:0crwdne252188:0</target>
+        <note>key: models.description.purchased_together</note>
+      </trans-unit>
       <trans-unit id="973614998a011e68809d35cb545e75cc364315ed" resname="models.description.random">
-        <source>Random model</source>
-        <target>crwdns244096:0crwdne244096:0</target>
+        <source> Returns list of items from the recent items added in a configured time period.</source>
+        <target>crwdns252190:0crwdne252190:0</target>
         <note>key: models.description.random</note>
       </trans-unit>
       <trans-unit id="86a636e53968cf7b770bf536490c8266c23e9806" resname="models.description.random_emdsartikel">
@@ -1107,8 +1207,8 @@
         <note>key: models.description.top_clicked_short</note>
       </trans-unit>
       <trans-unit id="ba03c9b32233afe6d156fa4849ee84362a1655b5" resname="models.description.top_clicked_weighted">
-        <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target>crwdns244134:0crwdne244134:0</target>
+        <source>Returns items which click date is closer to date of the request for these items.</source>
+        <target>crwdns252192:0crwdne252192:0</target>
         <note>key: models.description.top_clicked_weighted</note>
       </trans-unit>
       <trans-unit id="ec6865ccab6bf3a7d34222e2ad3a33bdd4a9c325" resname="models.description.top_consumed">
@@ -1476,6 +1576,16 @@
         <target>crwdns244278:0crwdne244278:0</target>
         <note>key: models.name.alternative</note>
       </trans-unit>
+      <trans-unit id="148be925b3056b6ec3aa40dba48fa4b3d0e2e2b4" resname="models.name.b2b_last_clicked">
+        <source>B2B last clicked</source>
+        <target>crwdns252194:0crwdne252194:0</target>
+        <note>key: models.name.b2b_last_clicked</note>
+      </trans-unit>
+      <trans-unit id="8224ad2ce456f03eb9f747cfd5f0ea2debaf1432" resname="models.name.b2b_last_purchased">
+        <source>B2B last purchased</source>
+        <target>crwdns252196:0crwdne252196:0</target>
+        <note>key: models.name.b2b_last_purchased</note>
+      </trans-unit>
       <trans-unit id="db2f1d29c5c029e34e84c14c46c46a9005277a0d" resname="models.name.basket_history">
         <source>Basket history</source>
         <target>crwdns247146:0crwdne247146:0</target>
@@ -1580,6 +1690,11 @@
         <source>Blacklist</source>
         <target>crwdns244318:0crwdne244318:0</target>
         <note>key: models.name.editor_blacklist</note>
+      </trans-unit>
+      <trans-unit id="7e208305225e17ea18c11af3561061b352268184" resname="models.name.editor_blocklist">
+        <source>Blocklist</source>
+        <target>crwdns252198:0crwdne252198:0</target>
+        <note>key: models.name.editor_blocklist</note>
       </trans-unit>
       <trans-unit id="05516103632d862df8a3735e6f2053f6789d85df" resname="models.name.editorial_list">
         <source>Editorial list</source>
@@ -1772,14 +1887,29 @@
         <note>key: models.name.history_purchased_in_period</note>
       </trans-unit>
       <trans-unit id="92024daa0e78d92193fedb7d766ea33bdcfa3c07" resname="models.name.last_clicked">
-        <source>Last clicked</source>
-        <target>crwdns244392:0crwdne244392:0</target>
+        <source>Last viewed</source>
+        <target>crwdns252200:0crwdne252200:0</target>
         <note>key: models.name.last_clicked</note>
       </trans-unit>
       <trans-unit id="85a14915584e5d313c8ef4d83e5e197d6c712373" resname="models.name.last_purchased">
         <source>Last purchased</source>
         <target>crwdns244394:0crwdne244394:0</target>
         <note>key: models.name.last_purchased</note>
+      </trans-unit>
+      <trans-unit id="bd1e6a7ec9353fb5cc2196d4298db2678df2d6d8" resname="models.name.ml_cp_also_clicked">
+        <source>ML - also clicked</source>
+        <target>crwdns252202:0crwdne252202:0</target>
+        <note>key: models.name.ml_cp_also_clicked</note>
+      </trans-unit>
+      <trans-unit id="c9f3a39785dbe72575db601d8960951446389efc" resname="models.name.ml_cp_top_clicked">
+        <source>ML - top clicked</source>
+        <target>crwdns252204:0crwdne252204:0</target>
+        <note>key: models.name.ml_cp_top_clicked</note>
+      </trans-unit>
+      <trans-unit id="6fe9d7b6b888c0a02daba02701e8eb5af5d89d1d" resname="models.name.ml_model">
+        <source>ML - dynamic pattern model</source>
+        <target>crwdns252206:0crwdne252206:0</target>
+        <note>key: models.name.ml_model</note>
       </trans-unit>
       <trans-unit id="5e3b410efe703bcbc8fcbbb7863a301b6d3fe758" resname="models.name.popular">
         <source>Top purchased</source>
@@ -1816,9 +1946,14 @@
         <target>crwdns244406:0crwdne244406:0</target>
         <note>key: models.name.profile_click</note>
       </trans-unit>
+      <trans-unit id="29bb149419834dfc346c06eefd24f0c432d2f99f" resname="models.name.purchased_together">
+        <source>Purchased together</source>
+        <target>crwdns252208:0crwdne252208:0</target>
+        <note>key: models.name.purchased_together</note>
+      </trans-unit>
       <trans-unit id="1521abaefbec5c23c3eaadfc140461e418ed4d34" resname="models.name.random">
-        <source>Random model</source>
-        <target>crwdns244408:0crwdne244408:0</target>
+        <source>Recently added</source>
+        <target>crwdns252210:0crwdne252210:0</target>
         <note>key: models.name.random</note>
       </trans-unit>
       <trans-unit id="482ede2e570cad30275805d2a22d163f32ade34b" resname="models.name.random_emdsartikel">
@@ -1877,8 +2012,8 @@
         <note>key: models.name.suggestion</note>
       </trans-unit>
       <trans-unit id="04328047c393801ac11ecc16e676dd62ef969fe4" resname="models.name.top_buy_weighted">
-        <source> Weighted (based on buy events)</source>
-        <target>crwdns251245:0crwdne251245:0</target>
+        <source>Weighted (based on buy events)</source>
+        <target>crwdns252212:0crwdne252212:0</target>
         <note>key: models.name.top_buy_weighted</note>
       </trans-unit>
       <trans-unit id="2b13504ff2670583843a764db725a251bde09446" resname="models.name.top_clicked">
@@ -1922,8 +2057,8 @@
         <note>key: models.name.top_clicked_short</note>
       </trans-unit>
       <trans-unit id="8093d7b3b78bcb21b1e4f52b3618f3c8edd5be9b" resname="models.name.top_clicked_weighted">
-        <source>Top clicked</source>
-        <target>crwdns244446:0crwdne244446:0</target>
+        <source>Weighted (based on click events)</source>
+        <target>crwdns252214:0crwdne252214:0</target>
         <note>key: models.name.top_clicked_weighted</note>
       </trans-unit>
       <trans-unit id="cf844b7ac6c761bb4e1625b46ffe819faefe49d6" resname="models.name.top_consumed">

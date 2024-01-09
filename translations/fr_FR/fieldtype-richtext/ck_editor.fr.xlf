@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="a31bc2d766bef988d3d4e2e0892c79b64d2aadd9" resname="anchor_btn.error.unique">
         <source>Anchor name must be unique.</source>
-        <target state="needs-translation">Anchor name must be unique.</target>
+        <target state="translated">Le nom de l'ancre doit être unique.</target>
         <note>key: anchor_btn.error.unique</note>
       </trans-unit>
       <trans-unit id="88d893050d5eea476d9559abba8b7cdda519154a" resname="anchor_btn.error.valid">
         <source>A valid anchor link is needed.</source>
-        <target state="needs-translation">A valid anchor link is needed.</target>
+        <target state="translated">Un lien d'ancre valide est nécessaire.</target>
         <note>key: anchor_btn.error.valid</note>
       </trans-unit>
       <trans-unit id="2fec67b71cd77563c4e494477e691ba9661d95fe" resname="anchor_btn.label">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="b4f97f21f1ca738b786232732212d980e2509dfa" resname="embed_inline_btn.label">
         <source>Embed inline</source>
-        <target state="needs-translation">Embed inline</target>
+        <target state="translated">Encapsuler "en ligne"</target>
         <note>key: embed_inline_btn.label</note>
       </trans-unit>
       <trans-unit id="60187109a21e0437d6b91e9762fd1c69a79062be" resname="formatted_btn.label">

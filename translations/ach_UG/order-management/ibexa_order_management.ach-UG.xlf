@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="aa92dc5c22f4d2642f9c3d36b6558cfb9a9193b7" resname="block.order.column.company_name">
+        <source>Company name</source>
+        <target>crwdns249829:0crwdne249829:0</target>
+        <note>key: block.order.column.company_name</note>
+      </trans-unit>
+      <trans-unit id="9556b42014fe91a4145e4539f6b307e797ae7408" resname="block.order.column.created_at">
+        <source>Created</source>
+        <target>crwdns249831:0crwdne249831:0</target>
+        <note>key: block.order.column.created_at</note>
+      </trans-unit>
+      <trans-unit id="eaf05253103e1511aa5b0dc8250ef213ff43fbaa" resname="block.order.column.customer_name">
+        <source>Customer name</source>
+        <target>crwdns249833:0crwdne249833:0</target>
+        <note>key: block.order.column.customer_name</note>
+      </trans-unit>
+      <trans-unit id="e3399f29aae3a0b569dc6f45d9fef3ad60f132fc" resname="block.order.column.id">
+        <source>Order number</source>
+        <target>crwdns252112:0crwdne252112:0</target>
+        <note>key: block.order.column.id</note>
+      </trans-unit>
+      <trans-unit id="300ac1632a379e0713f107edfdf7ec35ee76a5c1" resname="block.order.column.identifier">
+        <source>Order ID</source>
+        <target>crwdns252114:0crwdne252114:0</target>
+        <note>key: block.order.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="02f92dc6f1ba951c3c1a11416b74099d55ac14ac" resname="block.order.column.modified_at">
+        <source>Updated</source>
+        <target>crwdns249839:0crwdne249839:0</target>
+        <note>key: block.order.column.modified_at</note>
+      </trans-unit>
+      <trans-unit id="2063983d2fc77588bd224c581dc4f1b1db098057" resname="block.order.column.status">
+        <source>Status</source>
+        <target>crwdns249841:0crwdne249841:0</target>
+        <note>key: block.order.column.status</note>
+      </trans-unit>
+      <trans-unit id="2026a40b85882366cde23bf8427993dec635b083" resname="block.order.column.total_value">
+        <source>Total value</source>
+        <target>crwdns249843:0crwdne249843:0</target>
+        <note>key: block.order.column.total_value</note>
+      </trans-unit>
+      <trans-unit id="d1f9508b7130bd0fd1718e90a7c55f59051cf6bc" resname="block.order.column.unique_items">
+        <source>Unique items</source>
+        <target>crwdns252116:0crwdne252116:0</target>
+        <note>key: block.order.column.unique_items</note>
+      </trans-unit>
+      <trans-unit id="343ba7ff4cdd6c9da72b64fa60a09a775d61b952" resname="block.order.empty">
+        <source>Recent orders will show up here</source>
+        <target>crwdns249845:0crwdne249845:0</target>
+        <note>key: block.order.empty</note>
+      </trans-unit>
+      <trans-unit id="b1f3b601fce41948337b9143875ce3b18a486498" resname="order.cancel.failed">
+        <source>Order '%cancelledIdentifier%' cannot be cancelled. Errors: '%errors%'</source>
+        <target>crwdns249847:0%cancelledIdentifier%crwdnd249847:0%errors%crwdne249847:0</target>
+        <note>key: order.cancel.failed</note>
+      </trans-unit>
+      <trans-unit id="79cf1542e533ac0fa68fb2b0bd8e1d4eb6fe5644" resname="order.cancel.success">
+        <source>Order '%cancelledIdentifier%' cancelled.</source>
+        <target>crwdns249849:0%cancelledIdentifier%crwdne249849:0</target>
+        <note>key: order.cancel.success</note>
+      </trans-unit>
+      <trans-unit id="981f2118f318549004bcfedf2027cf8d573653dc" resname="order.complete.failed">
+        <source>Order '%completedIdentifier%' cannot be completed. Errors: '%errors%'</source>
+        <target>crwdns249851:0%completedIdentifier%crwdnd249851:0%errors%crwdne249851:0</target>
+        <note>key: order.complete.failed</note>
+      </trans-unit>
+      <trans-unit id="d9a09df7c538ed1d5e7ced2e5879328cdd4877ee" resname="order.complete.success">
+        <source>Order '%completedIdentifier%' completed.</source>
+        <target>crwdns249853:0%completedIdentifier%crwdne249853:0</target>
+        <note>key: order.complete.success</note>
+      </trans-unit>
+      <trans-unit id="4f0941e056d3b59572eb86ad7993dabc756b28bb" resname="order.confirm.failed">
+        <source>Order '%confirmedIdentifier%' cannot be confirmed. Errors: '%errors%'</source>
+        <target>crwdns249855:0%confirmedIdentifier%crwdnd249855:0%errors%crwdne249855:0</target>
+        <note>key: order.confirm.failed</note>
+      </trans-unit>
+      <trans-unit id="fc451833b9600922f6f274d5a0bae176b5fee3ec" resname="order.confirm.success">
+        <source>Order '%confirmedIdentifier%' confirmed.</source>
+        <target>crwdns249857:0%confirmedIdentifier%crwdne249857:0</target>
+        <note>key: order.confirm.success</note>
+      </trans-unit>
+      <trans-unit id="9dc20f387d71ed78f844514fb3f72eee2cec3e19" resname="order.details.breadcrumb.list">
+        <source>Orders</source>
+        <target>crwdns249859:0crwdne249859:0</target>
+        <note>key: order.details.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="813a29bfed02ff75526cac30c796ccc5d7d6b0cc" resname="order.details.breadcrumbs.commerce">
+        <source>Commerce</source>
+        <target>crwdns249861:0crwdne249861:0</target>
+        <note>key: order.details.breadcrumbs.commerce</note>
+      </trans-unit>
+      <trans-unit id="60b6d20c718090258233a073cd6a6a54fcd008b9" resname="order.details.cancel_order.modal.cancel">
+        <source>Cancel</source>
+        <target>crwdns249863:0crwdne249863:0</target>
+        <note>key: order.details.cancel_order.modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="cf1da9164b515af653e9fe77ed36db7d75b51687" resname="order.details.cancel_order.modal.dismiss">
+        <source>Do not cancel</source>
+        <target>crwdns249865:0crwdne249865:0</target>
+        <note>key: order.details.cancel_order.modal.dismiss</note>
+      </trans-unit>
+      <trans-unit id="65815da17e96400b5a84262aaf77a49e961bf0de" resname="order.details.cancel_order.modal.message">
+        <source>Do you want to cancel the order?</source>
+        <target>crwdns249867:0crwdne249867:0</target>
+        <note>key: order.details.cancel_order.modal.message</note>
+      </trans-unit>
+      <trans-unit id="31b9d3a07768f5f3883f87c223e3287694001f2e" resname="order.details.cart_cost_summary.item.label.shipping_cost">
+        <source>Shipping cost</source>
+        <target>crwdns249869:0crwdne249869:0</target>
+        <note>key: order.details.cart_cost_summary.item.label.shipping_cost</note>
+      </trans-unit>
+      <trans-unit id="cc7da8b97db2e8356eb3ff35e0fe7e2ced2fd696" resname="order.details.cart_cost_summary.item.label.subtotal_net">
+        <source>Subtotal (net)</source>
+        <target>crwdns249871:0crwdne249871:0</target>
+        <note>key: order.details.cart_cost_summary.item.label.subtotal_net</note>
+      </trans-unit>
+      <trans-unit id="8ffa40a1c78b23881ecb97b8e0de652b736dd543" resname="order.details.cart_cost_summary.item.label.taxes">
+        <source>Taxes</source>
+        <target>crwdns249873:0crwdne249873:0</target>
+        <note>key: order.details.cart_cost_summary.item.label.taxes</note>
+      </trans-unit>
+      <trans-unit id="596dbdbce12e03558e67f8abea0bbfa65a2b23d4" resname="order.details.cart_cost_summary.total.label">
+        <source>Total value (gross)</source>
+        <target>crwdns249875:0crwdne249875:0</target>
+        <note>key: order.details.cart_cost_summary.total.label</note>
+      </trans-unit>
+      <trans-unit id="c46b9835ad2f7669314cb8afe69fd26dc1f8f351" resname="order.details.complete_order.modal.complete">
+        <source>Complete</source>
+        <target>crwdns249877:0crwdne249877:0</target>
+        <note>key: order.details.complete_order.modal.complete</note>
+      </trans-unit>
+      <trans-unit id="4e973cbbaeb9ba68c6fb3801cf7fb823720edd26" resname="order.details.complete_order.modal.dismiss">
+        <source>Dismiss</source>
+        <target>crwdns249879:0crwdne249879:0</target>
+        <note>key: order.details.complete_order.modal.dismiss</note>
+      </trans-unit>
+      <trans-unit id="7936cf205855f933bc02e1292a3ac6fff5bca879" resname="order.details.complete_order.modal.message">
+        <source>Do you want to complete the order?</source>
+        <target>crwdns249881:0crwdne249881:0</target>
+        <note>key: order.details.complete_order.modal.message</note>
+      </trans-unit>
+      <trans-unit id="baad56cefc2c79b57b53ccbe627c8691b18788d5" resname="order.details.confirm_order.modal.confirm">
+        <source>Confirm</source>
+        <target>crwdns249883:0crwdne249883:0</target>
+        <note>key: order.details.confirm_order.modal.confirm</note>
+      </trans-unit>
+      <trans-unit id="0682c369e2d978bfa3ccb27de90094a2104cc87a" resname="order.details.confirm_order.modal.dismiss">
+        <source>Dismiss</source>
+        <target>crwdns249885:0crwdne249885:0</target>
+        <note>key: order.details.confirm_order.modal.dismiss</note>
+      </trans-unit>
+      <trans-unit id="d77ffb882411d58e0406806d8fcfe18e07634e96" resname="order.details.confirm_order.modal.message">
+        <source>Do you want to confirm the order?</source>
+        <target>crwdns249887:0crwdne249887:0</target>
+        <note>key: order.details.confirm_order.modal.message</note>
+      </trans-unit>
+      <trans-unit id="e63f7b0522f10a205d77a5e687dbc7f9c24da24c" resname="order.details.context_menu.workflow_cancel.label">
+        <source>Cancel</source>
+        <target>crwdns249889:0crwdne249889:0</target>
+        <note>key: order.details.context_menu.workflow_cancel.label</note>
+      </trans-unit>
+      <trans-unit id="a4dbf8ad5944c4d9c892e797dfb1cb3c6fca4a9f" resname="order.details.context_menu.workflow_complete.label">
+        <source>Complete</source>
+        <target>crwdns249891:0crwdne249891:0</target>
+        <note>key: order.details.context_menu.workflow_complete.label</note>
+      </trans-unit>
+      <trans-unit id="45d72d5643ffd669cbd34aa4a68fc4deae36db68" resname="order.details.context_menu.workflow_confirm.label">
+        <source>Confirm</source>
+        <target>crwdns249893:0crwdne249893:0</target>
+        <note>key: order.details.context_menu.workflow_confirm.label</note>
+      </trans-unit>
+      <trans-unit id="f9b51be9065c1af4600e7bbbe8db308d3618246b" resname="order.details.price_details.headline">
+        <source>Price details</source>
+        <target>crwdns249895:0crwdne249895:0</target>
+        <note>key: order.details.price_details.headline</note>
+      </trans-unit>
+      <trans-unit id="a5402719a424e99367bc6f6f667fea2f919d3abb" resname="order.details.tab.items.label">
+        <source>Items (%count%)</source>
+        <target>crwdns249897:0%count%crwdne249897:0</target>
+        <note>key: order.details.tab.items.label</note>
+      </trans-unit>
+      <trans-unit id="eb544634fbbb12706d476128406f21a17f9c7da3" resname="order.details.tab.summary.label">
+        <source>Summary</source>
+        <target>crwdns249899:0crwdne249899:0</target>
+        <note>key: order.details.tab.summary.label</note>
+      </trans-unit>
+      <trans-unit id="e012606d8df001f8ffeadb7314b81ed7c2b3ec3d" resname="order.details.title">
+        <source>Order #%identifier%</source>
+        <target>crwdns249901:0%identifier%crwdne249901:0</target>
+        <note>key: order.details.title</note>
+      </trans-unit>
+      <trans-unit id="632abeb4a15f76e3fd7539d75e4fd17836e6f30d" resname="order.filter.label.currency">
+        <source>Currency</source>
+        <target>crwdns249903:0crwdne249903:0</target>
+        <note>key: order.filter.label.currency</note>
+      </trans-unit>
+      <trans-unit id="4d8ddbd0466df818781656a77aa293c2d1b67852" resname="order.filter.label.order_created_at">
+        <source>Created</source>
+        <target>crwdns249905:0crwdne249905:0</target>
+        <note>key: order.filter.label.order_created_at</note>
+      </trans-unit>
+      <trans-unit id="a6e1314caa5e1da39f2604f165f958f6e6472a6c" resname="order.filter.label.order_price">
+        <source>Total value</source>
+        <target>crwdns249907:0crwdne249907:0</target>
+        <note>key: order.filter.label.order_price</note>
+      </trans-unit>
+      <trans-unit id="5ebc82d79d0b23044d101edd51fc0dfe24f8663b" resname="order.filter.label.order_source">
+        <source>Order source</source>
+        <target>crwdns249909:0crwdne249909:0</target>
+        <note>key: order.filter.label.order_source</note>
+      </trans-unit>
+      <trans-unit id="5d6b7f2e081156af708ba15acb8404635db4b6bc" resname="order.filter.missing.currency">
+        <source>Currency must be specified</source>
+        <target>crwdns249911:0crwdne249911:0</target>
+        <note>key: order.filter.missing.currency</note>
+      </trans-unit>
+      <trans-unit id="aa2a005b0efb3cd577bd46f28d1f57baf986f8b0" resname="order.filter.value.client_type_b2b">
+        <source>B2B</source>
+        <target>crwdns249913:0crwdne249913:0</target>
+        <note>key: order.filter.value.client_type_b2b</note>
+      </trans-unit>
+      <trans-unit id="8747602d761c2d009e3dd17d04022da0a042d312" resname="order.filter.value.client_type_b2c">
+        <source>B2C</source>
+        <target>crwdns249915:0crwdne249915:0</target>
+        <note>key: order.filter.value.client_type_b2c</note>
+      </trans-unit>
+      <trans-unit id="89f5b91c6e32c9ed03623e8f75b6ce0b07086428" resname="order.list.breadcrumb">
+        <source>Orders</source>
+        <target>crwdns249917:0crwdne249917:0</target>
+        <note>key: order.list.breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="2161fba7d84c094865a40d0572bebd72ee5e0979" resname="order.list.breadcrumbs.commerce">
+        <source>Commerce</source>
+        <target>crwdns249919:0crwdne249919:0</target>
+        <note>key: order.list.breadcrumbs.commerce</note>
+      </trans-unit>
+      <trans-unit id="271980e4063c3d3e9993ffa0c869987de7d37cb6" resname="order.list.column.company_name">
+        <source>Company name</source>
+        <target>crwdns249921:0crwdne249921:0</target>
+        <note>key: order.list.column.company_name</note>
+      </trans-unit>
+      <trans-unit id="c1bf1a488a203c5c330e11042b2232920c508453" resname="order.list.column.created">
+        <source>Created</source>
+        <target>crwdns249923:0crwdne249923:0</target>
+        <note>key: order.list.column.created</note>
+      </trans-unit>
+      <trans-unit id="89cd5f55077b90bad10b60774aea9d53929fe53c" resname="order.list.column.customer_name">
+        <source>Customer name</source>
+        <target>crwdns249925:0crwdne249925:0</target>
+        <note>key: order.list.column.customer_name</note>
+      </trans-unit>
+      <trans-unit id="adfe400600548675f8742d105e26461eb0d00bc0" resname="order.list.column.order_id">
+        <source>Order ID</source>
+        <target>crwdns249929:0crwdne249929:0</target>
+        <note>key: order.list.column.order_id</note>
+      </trans-unit>
+      <trans-unit id="b46e769b61e64529df242e5d0e9350a028349acb" resname="order.list.column.order_number">
+        <source>Order number</source>
+        <target>crwdns252118:0crwdne252118:0</target>
+        <note>key: order.list.column.order_number</note>
+      </trans-unit>
+      <trans-unit id="dc390226a57b139225bbee232fa5efee1df0e45d" resname="order.list.column.order_status">
+        <source>Order status</source>
+        <target>crwdns249931:0crwdne249931:0</target>
+        <note>key: order.list.column.order_status</note>
+      </trans-unit>
+      <trans-unit id="e2b353126357442e849ea1e1d474304c79143342" resname="order.list.column.source">
+        <source>Source</source>
+        <target>crwdns249933:0crwdne249933:0</target>
+        <note>key: order.list.column.source</note>
+      </trans-unit>
+      <trans-unit id="9bb30a6051fe6f3b67aa8eb2d7634ad8569572f0" resname="order.list.column.total_value">
+        <source>Total value</source>
+        <target>crwdns249935:0crwdne249935:0</target>
+        <note>key: order.list.column.total_value</note>
+      </trans-unit>
+      <trans-unit id="0dd2ecc7edb551b3817dd0870d6905432b8d0697" resname="order.list.column.unique_items">
+        <source>Unique items</source>
+        <target>crwdns249937:0crwdne249937:0</target>
+        <note>key: order.list.column.unique_items</note>
+      </trans-unit>
+      <trans-unit id="7097f42283a55f614434dc7c212b84c63bc2ac9f" resname="order.list.column.updated">
+        <source>Updated</source>
+        <target>crwdns249939:0crwdne249939:0</target>
+        <note>key: order.list.column.updated</note>
+      </trans-unit>
+      <trans-unit id="e423f0f9a21b8db369a5e5812290ffd7870f2341" resname="order.list.no_orders.action_text">
+        <source>When your customers place first order, it will appear here.</source>
+        <target>crwdns249941:0crwdne249941:0</target>
+        <note>key: order.list.no_orders.action_text</note>
+      </trans-unit>
+      <trans-unit id="df44ae65dc45fd0aa38d5d39e9bf9f410251576d" resname="order.list.no_orders.info_text">
+        <source>No orders yet</source>
+        <target>crwdns249943:0crwdne249943:0</target>
+        <note>key: order.list.no_orders.info_text</note>
+      </trans-unit>
+      <trans-unit id="c732ca5d859e4c7d8b1d8271b6709a12ce3adee6" resname="order.list.no_search_results.action_text">
+        <source>Try again with new search criteria.</source>
+        <target>crwdns249945:0crwdne249945:0</target>
+        <note>key: order.list.no_search_results.action_text</note>
+      </trans-unit>
+      <trans-unit id="4c39dd26f41eec8ded6c157165400fa2a77f5e78" resname="order.list.no_search_results.info_text">
+        <source>Sorry, there are no orders for your search</source>
+        <target>crwdns249947:0crwdne249947:0</target>
+        <note>key: order.list.no_search_results.info_text</note>
+      </trans-unit>
+      <trans-unit id="8359954d0c874b1639ec1ce162c254b24a56581d" resname="order.list.title">
+        <source>Orders</source>
+        <target>crwdns249949:0crwdne249949:0</target>
+        <note>key: order.list.title</note>
+      </trans-unit>
+      <trans-unit id="b4daab440993b9a08a61892cf964464a9697d52e" resname="order.placeholder.label.currency">
+        <source>All</source>
+        <target>crwdns249951:0crwdne249951:0</target>
+        <note>key: order.placeholder.label.currency</note>
+      </trans-unit>
+      <trans-unit id="3d91febc321065f72e43cfd9c2d5d84aced1a5bf" resname="order.sort_clause.created_asc">
+        <source>Created (oldest, newest)</source>
+        <target>crwdns249953:0crwdne249953:0</target>
+        <note>key: order.sort_clause.created_asc</note>
+      </trans-unit>
+      <trans-unit id="7e854f1f6d10fbca1a55be674988c59fe07a0a9f" resname="order.sort_clause.created_desc">
+        <source>Created (newest, oldest)</source>
+        <target>crwdns249955:0crwdne249955:0</target>
+        <note>key: order.sort_clause.created_desc</note>
+      </trans-unit>
+      <trans-unit id="5e7b1a815fdedcb7b2d06cbedecd26d410feace1" resname="order.sort_clause.id_asc">
+        <source>ID (lowest, highest)</source>
+        <target>crwdns249957:0crwdne249957:0</target>
+        <note>key: order.sort_clause.id_asc</note>
+      </trans-unit>
+      <trans-unit id="8e568835cbd58912993c1fcc24bf919ee82a2ed9" resname="order.sort_clause.id_desc">
+        <source>ID (highest, lowest)</source>
+        <target>crwdns249959:0crwdne249959:0</target>
+        <note>key: order.sort_clause.id_desc</note>
+      </trans-unit>
+      <trans-unit id="b185f0e74a731c890f08c62cb68094288b63a98d" resname="order.sort_clause.status_asc">
+        <source>Status (A-Z)</source>
+        <target>crwdns249961:0crwdne249961:0</target>
+        <note>key: order.sort_clause.status_asc</note>
+      </trans-unit>
+      <trans-unit id="dff42d5b7c937b736365625a4193dd4462cc17e3" resname="order.sort_clause.status_desc">
+        <source>Status (Z-A)</source>
+        <target>crwdns249963:0crwdne249963:0</target>
+        <note>key: order.sort_clause.status_desc</note>
+      </trans-unit>
+      <trans-unit id="ebd11cf23756ef70cbf5a91671ddafb5a0935d44" resname="order.sort_clause.updated_asc">
+        <source>Updated (oldest, newest)</source>
+        <target>crwdns249965:0crwdne249965:0</target>
+        <note>key: order.sort_clause.updated_asc</note>
+      </trans-unit>
+      <trans-unit id="f4e7652606368a061eebd4c11689f55a82d98876" resname="order.sort_clause.updated_desc">
+        <source>Updated (newest, oldest)</source>
+        <target>crwdns249967:0crwdne249967:0</target>
+        <note>key: order.sort_clause.updated_desc</note>
+      </trans-unit>
+      <trans-unit id="43f9d1244300d304f754d8c5cc479e608f248dff" resname="order.status.label.cancelled">
+        <source>Cancelled</source>
+        <target>crwdns249969:0crwdne249969:0</target>
+        <note>key: order.status.label.cancelled</note>
+      </trans-unit>
+      <trans-unit id="48e1b81c8287626bdcb71257438cfd0c755c98ff" resname="order.status.label.completed">
+        <source>Completed</source>
+        <target>crwdns249971:0crwdne249971:0</target>
+        <note>key: order.status.label.completed</note>
+      </trans-unit>
+      <trans-unit id="8606e0af6f777dc4d9c08e54116db4bbf229bd66" resname="order.status.label.confirmed">
+        <source>Confirmed</source>
+        <target>crwdns249973:0crwdne249973:0</target>
+        <note>key: order.status.label.confirmed</note>
+      </trans-unit>
+      <trans-unit id="1ad933d481264c4814af17945ede5dd7724a46d4" resname="order.status.label.failed">
+        <source>Failed</source>
+        <target>crwdns249975:0crwdne249975:0</target>
+        <note>key: order.status.label.failed</note>
+      </trans-unit>
+      <trans-unit id="6518a8fff7a94e4c1e025c1b0439ba6ca007656a" resname="order.status.label.pending">
+        <source>Pending</source>
+        <target>crwdns249977:0crwdne249977:0</target>
+        <note>key: order.status.label.pending</note>
+      </trans-unit>
+      <trans-unit id="472c5121670becba148887a0541f8a1a57f5e0ae" resname="order.status.label.processing">
+        <source>Processing</source>
+        <target>crwdns249979:0crwdne249979:0</target>
+        <note>key: order.status.label.processing</note>
+      </trans-unit>
+      <trans-unit id="c6ee3dc322f77690a7e54469504887496424e234" resname="order.summary_stats.created.label">
+        <source>Created</source>
+        <target>crwdns249981:0crwdne249981:0</target>
+        <note>key: order.summary_stats.created.label</note>
+      </trans-unit>
+      <trans-unit id="cd6a6604cdd3d3a3b76c0144996df402e42e2e27" resname="order.summary_stats.total_value.label">
+        <source>Total value</source>
+        <target>crwdns249983:0crwdne249983:0</target>
+        <note>key: order.summary_stats.total_value.label</note>
+      </trans-unit>
+      <trans-unit id="ac26c5789e6f2188ab1d822faa255f5aa7a8f273" resname="order.summary_stats.updated.label">
+        <source>Updated</source>
+        <target>crwdns249985:0crwdne249985:0</target>
+        <note>key: order.summary_stats.updated.label</note>
+      </trans-unit>
+      <trans-unit id="8ac9eb6b4d574f5c9e93ee29e41fe95117ac9ecd" resname="order.tab.summary.billing_address.details.city.label">
+        <source>City</source>
+        <target>crwdns249987:0crwdne249987:0</target>
+        <note>key: order.tab.summary.billing_address.details.city.label</note>
+      </trans-unit>
+      <trans-unit id="4a8d3672d1130248968d7cfa689fefc29a6bc9d1" resname="order.tab.summary.billing_address.details.country.label">
+        <source>Country</source>
+        <target>crwdns249989:0crwdne249989:0</target>
+        <note>key: order.tab.summary.billing_address.details.country.label</note>
+      </trans-unit>
+      <trans-unit id="d26b055938d44841099b76597379500a0d7226eb" resname="order.tab.summary.billing_address.details.headline">
+        <source>Billing address</source>
+        <target>crwdns249991:0crwdne249991:0</target>
+        <note>key: order.tab.summary.billing_address.details.headline</note>
+      </trans-unit>
+      <trans-unit id="ec4ca02a3f8f6fee20c478758d508e9b773b4577" resname="order.tab.summary.billing_address.details.postal_code.label">
+        <source>Postal code</source>
+        <target>crwdns249993:0crwdne249993:0</target>
+        <note>key: order.tab.summary.billing_address.details.postal_code.label</note>
+      </trans-unit>
+      <trans-unit id="d37d1a4cc218d735c5b12552546402fce3dff1ac" resname="order.tab.summary.billing_address.details.region.label">
+        <source>Region</source>
+        <target>crwdns249995:0crwdne249995:0</target>
+        <note>key: order.tab.summary.billing_address.details.region.label</note>
+      </trans-unit>
+      <trans-unit id="23f7037a5b3116a896c81e857de397fcd918b3b0" resname="order.tab.summary.billing_address.details.street.label">
+        <source>Street</source>
+        <target>crwdns249997:0crwdne249997:0</target>
+        <note>key: order.tab.summary.billing_address.details.street.label</note>
+      </trans-unit>
+      <trans-unit id="c8fda09bd6d838b6043c8160a6602d343ecc62f0" resname="order.tab.summary.billing_address.details.tax_id.label">
+        <source>Tax ID</source>
+        <target>crwdns249999:0crwdne249999:0</target>
+        <note>key: order.tab.summary.billing_address.details.tax_id.label</note>
+      </trans-unit>
+      <trans-unit id="57c7164c2c15d98f78ed758438ca1d09e875216d" resname="order.tab.summary.customer_details.details.company_name.label">
+        <source>Company name</source>
+        <target>crwdns250001:0crwdne250001:0</target>
+        <note>key: order.tab.summary.customer_details.details.company_name.label</note>
+      </trans-unit>
+      <trans-unit id="62eb8e3f239a5be676b71d88495c78c7c07475d3" resname="order.tab.summary.customer_details.details.customer_name.label">
+        <source>Customer name</source>
+        <target>crwdns250003:0crwdne250003:0</target>
+        <note>key: order.tab.summary.customer_details.details.customer_name.label</note>
+      </trans-unit>
+      <trans-unit id="925675c98931f43de8b61f30a171734a6e62270f" resname="order.tab.summary.customer_details.details.email.label">
+        <source>Email</source>
+        <target>crwdns250005:0crwdne250005:0</target>
+        <note>key: order.tab.summary.customer_details.details.email.label</note>
+      </trans-unit>
+      <trans-unit id="6608cccef047d8a788946e1c66c7ef597188b353" resname="order.tab.summary.customer_details.details.headline">
+        <source>Customer details</source>
+        <target>crwdns250007:0crwdne250007:0</target>
+        <note>key: order.tab.summary.customer_details.details.headline</note>
+      </trans-unit>
+      <trans-unit id="de8fb33348f872b179c486e4f831bb3458a8cbf4" resname="order.tab.summary.customer_details.details.phone_number.label">
+        <source>Phone</source>
+        <target>crwdns252120:0crwdne252120:0</target>
+        <note>key: order.tab.summary.customer_details.details.phone_number.label</note>
+      </trans-unit>
+      <trans-unit id="0247ef030d53caa20989cce2df4d722bcb405306" resname="order.tab.summary.shipping_address.details.city.label">
+        <source>City</source>
+        <target>crwdns250013:0crwdne250013:0</target>
+        <note>key: order.tab.summary.shipping_address.details.city.label</note>
+      </trans-unit>
+      <trans-unit id="2895824b7760b9bd598e0d4605dd2de95c98ce6a" resname="order.tab.summary.shipping_address.details.country.label">
+        <source>Country</source>
+        <target>crwdns250015:0crwdne250015:0</target>
+        <note>key: order.tab.summary.shipping_address.details.country.label</note>
+      </trans-unit>
+      <trans-unit id="441c186f7ece761869e48cbb717c987c2b17820d" resname="order.tab.summary.shipping_address.details.headline">
+        <source>Shipping address</source>
+        <target>crwdns250017:0crwdne250017:0</target>
+        <note>key: order.tab.summary.shipping_address.details.headline</note>
+      </trans-unit>
+      <trans-unit id="517d6761ecbdaca139ca64a1b05501312e9ba0d9" resname="order.tab.summary.shipping_address.details.postal_code.label">
+        <source>Postal code</source>
+        <target>crwdns250019:0crwdne250019:0</target>
+        <note>key: order.tab.summary.shipping_address.details.postal_code.label</note>
+      </trans-unit>
+      <trans-unit id="d767695c341df836278f110a06d0ffc7fdc7020f" resname="order.tab.summary.shipping_address.details.region.label">
+        <source>Region</source>
+        <target>crwdns250021:0crwdne250021:0</target>
+        <note>key: order.tab.summary.shipping_address.details.region.label</note>
+      </trans-unit>
+      <trans-unit id="9a13cbf945650ba8711a96770235058f137c6581" resname="order.tab.summary.shipping_address.details.street.label">
+        <source>Street</source>
+        <target>crwdns250023:0crwdne250023:0</target>
+        <note>key: order.tab.summary.shipping_address.details.street.label</note>
+      </trans-unit>
+      <trans-unit id="c7611a7ac6339624851041d86ee4e3d2aebf3e8d" resname="order_items.list.table.header.product_code">
+        <source>Product code</source>
+        <target>crwdns250025:0crwdne250025:0</target>
+        <note>key: order_items.list.table.header.product_code</note>
+      </trans-unit>
+      <trans-unit id="9c2a4de2363544488c85a4e69e8a516c45d792b8" resname="order_items.list.table.header.product_name">
+        <source>Product name</source>
+        <target>crwdns250027:0crwdne250027:0</target>
+        <note>key: order_items.list.table.header.product_name</note>
+      </trans-unit>
+      <trans-unit id="bb28228129b9d2359bb962ea4572aa113ddcb1d4" resname="order_items.list.table.header.quantity">
+        <source>Quantity</source>
+        <target>crwdns250029:0crwdne250029:0</target>
+        <note>key: order_items.list.table.header.quantity</note>
+      </trans-unit>
+      <trans-unit id="0327c63fb7c2c5d491590c553faf0f2772e8752e" resname="order_items.list.table.header.subtotal_gross">
+        <source>Subtotal gross</source>
+        <target>crwdns250031:0crwdne250031:0</target>
+        <note>key: order_items.list.table.header.subtotal_gross</note>
+      </trans-unit>
+      <trans-unit id="433341dd7efaf47766a83ec5cbea2f11442c90cc" resname="order_items.list.table.header.subtotal_net">
+        <source>Subtotal net</source>
+        <target>crwdns250033:0crwdne250033:0</target>
+        <note>key: order_items.list.table.header.subtotal_net</note>
+      </trans-unit>
+      <trans-unit id="5d39f2c082ebb1057d2be296f10650e6c03c87c9" resname="order_items.list.table.header.unit_price_gross">
+        <source>Unit price gross</source>
+        <target>crwdns250035:0crwdne250035:0</target>
+        <note>key: order_items.list.table.header.unit_price_gross</note>
+      </trans-unit>
+      <trans-unit id="32419a25df403146b6cbfac26f536148607b5f83" resname="order_items.list.table.header.unit_price_net">
+        <source>Unit price net</source>
+        <target>crwdns250037:0crwdne250037:0</target>
+        <note>key: order_items.list.table.header.unit_price_net</note>
+      </trans-unit>
+      <trans-unit id="9aa1930ce150f96949a539dce79e669b72c92085" resname="order_items.list.table.header.vat">
+        <source>Tax</source>
+        <target>crwdns250039:0crwdne250039:0</target>
+        <note>key: order_items.list.table.header.vat</note>
+      </trans-unit>
+      <trans-unit id="e41831ecc4451a4fa350214d566ecdc3a20971cc" resname="order_items.list.table.headline">
+        <source>Order items (%count%)</source>
+        <target>crwdns250041:0%count%crwdne250041:0</target>
+        <note>key: order_items.list.table.headline</note>
+      </trans-unit>
+      <trans-unit id="164c5d9b47b06269229f52e21083875dbcae4df6" resname="policy.limitation.orderowner.self">
+        <source>Self</source>
+        <target>crwdns250043:0crwdne250043:0</target>
+        <note>key: policy.limitation.orderowner.self</note>
+      </trans-unit>
+      <trans-unit id="0515dfe194e0b90b7f7e6f2d2aea9c1bd7d5c273" resname="search_form.currency.information.message">
+        <source>To use total value filter, select currency.</source>
+        <target>crwdns250045:0crwdne250045:0</target>
+        <note>key: search_form.currency.information.message</note>
+      </trans-unit>
+      <trans-unit id="608d8a1c5b50a1247a4770ca557b5118dbacf0af" resname="search_form.search_placeholder">
+        <source>Search by order identifier, customer, company</source>
+        <target>crwdns250047:0crwdne250047:0</target>
+        <note>key: search_form.search_placeholder</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="pt-PT" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="d678f06484db09b324fcc056117c6f2d8b6637a5" resname="action.redirect.udw.title">
+        <source>Select content</source>
+        <target state="needs-translation">Select content</target>
+        <note>key: action.redirect.udw.title</note>
+      </trans-unit>
+      <trans-unit id="eba0da3aab2eda230b1843d6167e1d721346979b" resname="build.form">
+        <source>Build form</source>
+        <target state="needs-translation">Build form</target>
+        <note>key: build.form</note>
+      </trans-unit>
+      <trans-unit id="e3e94b5f80551cb49f285d818c8f59d7ad3d3903" resname="building.form">
+        <source>Building form</source>
+        <target state="needs-translation">Building form</target>
+        <note>key: building.form</note>
+      </trans-unit>
+      <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
+        <source>Create your form.</source>
+        <target state="needs-translation">Create your form.</target>
+        <note>key: create.form</note>
+      </trans-unit>
+      <trans-unit id="3f906d4d0bd35a175f501ab96fc7d4c2b2c3ec71" resname="drag.drop.call.to.action">
+        <source>Create a form by dragging elements here</source>
+        <target state="needs-translation">Create a form by dragging elements here</target>
+        <note>key: drag.drop.call.to.action</note>
+      </trans-unit>
+      <trans-unit id="2f108f0f306c6aa52bad5f1569f8616dadc13918" resname="drag.drop.empty.zone.headline">
+        <source>Build your form</source>
+        <target state="needs-translation">Build your form</target>
+        <note>key: drag.drop.empty.zone.headline</note>
+      </trans-unit>
+      <trans-unit id="a3a9c6fc7591e6a73154fe376ab3b569ec6297b8" resname="drag.drop.empty.zone.message">
+        <source>Drag and drop item from library to build form</source>
+        <target state="needs-translation">Drag and drop item from library to build form</target>
+        <note>key: drag.drop.empty.zone.message</note>
+      </trans-unit>
+      <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove">
+        <source>Remove</source>
+        <target state="needs-translation">Remove</target>
+        <note>key: field.remove</note>
+      </trans-unit>
+      <trans-unit id="b2df64a559c6f9166c782a24eee835d78f4f402b" resname="field.settings">
+        <source>Settings</source>
+        <target state="needs-translation">Settings</target>
+        <note>key: field.settings</note>
+      </trans-unit>
+      <trans-unit id="1ef0657bf94b6c1594d67f719920c7fb66d51ed6" resname="form.cannot.be.empty">
+        <source>Form field is required</source>
+        <target state="needs-translation">Form field is required</target>
+        <note>key: form.cannot.be.empty</note>
+      </trans-unit>
+      <trans-unit id="9120005386b03a0ecff11f99fc6da8fa465c5895" resname="form.close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+        <note>key: form.close</note>
+      </trans-unit>
+      <trans-unit id="a928b07ca6312a18de68c5813e52d48f10e375fd" resname="form.edit">
+        <source>Edit</source>
+        <target state="needs-translation">Edit</target>
+        <note>key: form.edit</note>
+      </trans-unit>
+      <trans-unit id="99c07fbdbe0c40a68138652eb91532d9737ed7b2" resname="form.no_preview">
+        <source>Preview is not available.</source>
+        <target state="needs-translation">Preview is not available.</target>
+        <note>key: form.no_preview</note>
+      </trans-unit>
+      <trans-unit id="8803c513c5b29257e5e622f1d74b7b32007ab42c" resname="form.remove">
+        <source>Delete</source>
+        <target state="needs-translation">Delete</target>
+        <note>key: form.remove</note>
+      </trans-unit>
+      <trans-unit id="9d9a3840f5ab21538b5df82ff8dc176cc9d8a06e" resname="form_builder.attribute.action.message.label">
+        <source>Message to display</source>
+        <target state="needs-translation">Message to display</target>
+        <note>key: form_builder.attribute.action.message.label</note>
+      </trans-unit>
+      <trans-unit id="fceee88c1cb6fb09b447c17e4202c73e556791ed" resname="form_builder.attribute.action.url.label">
+        <source>Redirection URL</source>
+        <target state="needs-translation">Redirection URL</target>
+        <note>key: form_builder.attribute.action.url.label</note>
+      </trans-unit>
+      <trans-unit id="e59a9bc08909c5317a5bbb26eafd46ed15948021" resname="form_builder.attribute.button.action.empty">
+        <source>Select what happens after the form is submitted</source>
+        <target state="needs-translation">Select what happens after the form is submitted</target>
+        <note>key: form_builder.attribute.button.action.empty</note>
+      </trans-unit>
+      <trans-unit id="91032a3db10886a27944d24b423e40b7237205e8" resname="form_builder.attribute.button.action.location_id">
+        <source>Redirect to a Content item</source>
+        <target state="needs-translation">Redirect to a Content item</target>
+        <note>key: form_builder.attribute.button.action.location_id</note>
+      </trans-unit>
+      <trans-unit id="cbee6bba404b084caf023187307292057b5bf510" resname="form_builder.attribute.button.action.message">
+        <source>Show a message</source>
+        <target state="needs-translation">Show a message</target>
+        <note>key: form_builder.attribute.button.action.message</note>
+      </trans-unit>
+      <trans-unit id="43674c0b8bc95876a42040af25012c52eed5cc8a" resname="form_builder.attribute.button.action.url">
+        <source>Redirect to a URL</source>
+        <target state="needs-translation">Redirect to a URL</target>
+        <note>key: form_builder.attribute.button.action.url</note>
+      </trans-unit>
+      <trans-unit id="f476b2afcc5cefebd29d6d0136ad8c1f0d721194" resname="form_builder.submission.boolean.false">
+        <source>False</source>
+        <target state="needs-translation">False</target>
+        <note>key: form_builder.submission.boolean.false</note>
+      </trans-unit>
+      <trans-unit id="a99073f43bf62086e850220f5cb59f030dafd4b7" resname="form_builder.submission.boolean.true">
+        <source>True</source>
+        <target state="needs-translation">True</target>
+        <note>key: form_builder.submission.boolean.true</note>
+      </trans-unit>
+      <trans-unit id="c5df2f428976997cfd702d1795b54e6967b5dab3" resname="form_builder.validator.regex.pattern.alnum">
+        <source>Alphanumeric</source>
+        <target state="needs-translation">Alphanumeric</target>
+        <note>key: form_builder.validator.regex.pattern.alnum</note>
+      </trans-unit>
+      <trans-unit id="0afed63453cf94e289b83788d8051a84c0477de0" resname="form_builder.validator.regex.pattern.alpha">
+        <source>Alphabets</source>
+        <target state="needs-translation">Alphabets</target>
+        <note>key: form_builder.validator.regex.pattern.alpha</note>
+      </trans-unit>
+      <trans-unit id="71c3e1f8784415b29443d47570d96485d35675cd" resname="form_builder.validator.regex.pattern.custom">
+        <source>Custom</source>
+        <target state="needs-translation">Custom</target>
+        <note>key: form_builder.validator.regex.pattern.custom</note>
+      </trans-unit>
+      <trans-unit id="777511800f0e95bf9e666213cc65f4cd414f0488" resname="form_builder.validator.regex.pattern.none">
+        <source>None</source>
+        <target state="needs-translation">None</target>
+        <note>key: form_builder.validator.regex.pattern.none</note>
+      </trans-unit>
+      <trans-unit id="fcd82220602951cb309c6b53d8a1a5c85f241a21" resname="invalid.fields">
+        <source>Not all the fields were configured correctly. Provide missing configuration.</source>
+        <target state="needs-translation">Not all the fields were configured correctly. Provide missing configuration.</target>
+        <note>key: invalid.fields</note>
+      </trans-unit>
+      <trans-unit id="0a01e36bbd3d88beacae4e0c3b9f79d8523c2daa" resname="moved.field.data.not.exists">
+        <source>Moved field data does not exist.</source>
+        <target state="needs-translation">Moved field data does not exist.</target>
+        <note>key: moved.field.data.not.exists</note>
+      </trans-unit>
+      <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
+        <source>There are no fields in this form.</source>
+        <target state="needs-translation">There are no fields in this form.</target>
+        <note>key: no.fields.in.form</note>
+      </trans-unit>
+      <trans-unit id="c40a2e3f1570ca5c4aa1cd2e068691ad1b7e52e2" resname="option.add">
+        <source>Add</source>
+        <target state="needs-translation">Add</target>
+        <note>key: option.add</note>
+      </trans-unit>
+      <trans-unit id="5d82996cbebc558c2732e513337c747a7d966f50" resname="option.headline">
+        <source>Add option values</source>
+        <target state="needs-translation">Add option values</target>
+        <note>key: option.headline</note>
+      </trans-unit>
+      <trans-unit id="e2ec5b398adced7f94883c30e3e73e58026ea12e" resname="redirecting">
+        <source>Redirecting ...</source>
+        <target state="needs-translation">Redirecting ...</target>
+        <note>key: redirecting</note>
+      </trans-unit>
+      <trans-unit id="a794978c8a73ee98bb2b7499d370b4c057dd6da8" resname="remove.item">
+        <source>Remove item</source>
+        <target state="needs-translation">Remove item</target>
+        <note>key: remove.item</note>
+      </trans-unit>
+      <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
+        <source>Select content</source>
+        <target state="needs-translation">Select content</target>
+        <note>key: select.content</note>
+      </trans-unit>
+      <trans-unit id="ecd39f5f51085813a2ee59a9801b8dc2a7a93b87" resname="select.content.item.created_date">
+        <source>Created</source>
+        <target state="needs-translation">Created</target>
+        <note>key: select.content.item.created_date</note>
+      </trans-unit>
+      <trans-unit id="66fe51277fc59cd5cf5f56feaf51ccf873eedf4f" resname="select.content.item.headline">
+        <source>Set up a Relation with one Item</source>
+        <target state="needs-translation">Set up a Relation with one Item</target>
+        <note>key: select.content.item.headline</note>
+      </trans-unit>
+      <trans-unit id="adeb39923f4d5d49076afb0685646baeb996b104" resname="select.content.item.info">
+        <source>Select a Content item</source>
+        <target state="needs-translation">Select a Content item</target>
+        <note>key: select.content.item.info</note>
+      </trans-unit>
+      <trans-unit id="aa27c57d534c5738d4fbda86ffd671fa70507422" resname="select.content.item.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+        <note>key: select.content.item.name</note>
+      </trans-unit>
+      <trans-unit id="eb7f06d788027fe9673c51ffd8a33b0c4b753fa8" resname="select.content.item.type">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+        <note>key: select.content.item.type</note>
+      </trans-unit>
+      <trans-unit id="a222ac7eb0b12403933b1910feef92899ca7db08" resname="sidebar.fields">
+        <source>Fields</source>
+        <target state="needs-translation">Fields</target>
+        <note>key: sidebar.fields</note>
+      </trans-unit>
+      <trans-unit id="c682e88956548a3bb2c733b3054d4145f9b8ba78" resname="sidebar_filter.placeholder">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: sidebar_filter.placeholder</note>
+      </trans-unit>
+      <trans-unit id="cc90fcb1fe96f887d06d7148fd31b9a26de1bfaf" resname="type.different.field.name">
+        <source>Field name '%oldFieldName%' is already in use.</source>
+        <target state="needs-translation">Field name '%oldFieldName%' is already in use.</target>
+        <note>key: type.different.field.name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

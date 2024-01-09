@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="cfba8aa1f9a4e5948ec73f46c8461f6ce35aa856" resname="ibexa.user.invitation.user_with_email_exists">
         <source>The email '%email%' is already in your member list.</source>
-        <target state="needs-translation">The email '%email%' is already in your member list.</target>
+        <target state="translated">L'e-mail '%email%' est déjà dans votre liste de membres.</target>
         <note>key: ibexa.user.invitation.user_with_email_exists</note>
       </trans-unit>
     </body>

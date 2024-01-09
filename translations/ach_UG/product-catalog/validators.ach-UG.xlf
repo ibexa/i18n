@@ -86,6 +86,16 @@
         <target>crwdns248539:0%product_variant_code%crwdne248539:0</target>
         <note>key: ibexa.product.variant.attributes.unique</note>
       </trans-unit>
+      <trans-unit id="d469e3648b5682b7868ac9d06f9f653cb7858f61" resname="ibexa.product_price.customer_group.price_exists">
+        <source>Product price already exists for customer group %customer_group_identifier%, product with code %product_code%, for currency %currency_code%</source>
+        <target>crwdns252304:0%customer_group_identifier%crwdnd252304:0%product_code%crwdnd252304:0%currency_code%crwdne252304:0</target>
+        <note>key: ibexa.product_price.customer_group.price_exists</note>
+      </trans-unit>
+      <trans-unit id="ac7e95455d0b340800797dd8c3a0e979b5821107" resname="ibexa.product_price.price_exists">
+        <source>Product price already exists for product with code %product_code% for currency %currency_code%</source>
+        <target>crwdns252306:0%product_code%crwdnd252306:0%currency_code%crwdne252306:0</target>
+        <note>key: ibexa.product_price.price_exists</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

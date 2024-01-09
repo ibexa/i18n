@@ -47,8 +47,8 @@
         <note>key: content_types_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
-        <source>%fieldName% Field is required</source>
-        <target state="translated">Pole %fieldName% jest wymagane</target>
+        <source>%fieldName% cannot be empty</source>
+        <target state="translated">%fieldName% nie może być puste</target>
         <note>key: error.required.field</note>
       </trans-unit>
       <trans-unit id="6090b5d2c17e00053a576ede5c82afba67f0cc49" resname="error.required.field_not_blank">
@@ -132,17 +132,17 @@
         <note>key: location_move.move</note>
       </trans-unit>
       <trans-unit id="4b7b2b4de853db0d1fb1851e07f3ccc51e5713fc" resname="location_trash_form.default_trash">
-        <source>Send only this Content item to Trash</source>
+        <source>Send only this Content item to trash</source>
         <target state="translated">Wyślij tylko ten element zawartości do kosza</target>
         <note>key: location_trash_form.default_trash</note>
       </trans-unit>
-      <trans-unit id="796f8196b2bc086fe788e6689a6189c79b8e047e" resname="location_trash_form.trash" approved="yes">
-        <source>Send to Trash</source>
-        <target state="final">Wyślij do kosza</target>
+      <trans-unit id="796f8196b2bc086fe788e6689a6189c79b8e047e" resname="location_trash_form.trash">
+        <source>Send to trash</source>
+        <target state="translated">Wyślij do kosza</target>
         <note>key: location_trash_form.trash</note>
       </trans-unit>
       <trans-unit id="2598fe0050f38f3c02014a404ed14aee248e27d1" resname="location_trash_form.trash_with_asset">
-        <source>Send the Content item and its related assets to Trash</source>
+        <source>Send the Content item and its related assets to trash</source>
         <target state="translated">Wyślij element i powiązane z nim zasoby do kosza</target>
         <note>key: location_trash_form.trash_with_asset</note>
       </trans-unit>
@@ -282,7 +282,7 @@
         <note>key: section_form.name</note>
       </trans-unit>
       <trans-unit id="c33da889af5b91c7a19b0b6e522757d65b81a40d" resname="section_subtree_assign_form.assign">
-        <source>Change Section</source>
+        <source>Change section</source>
         <target state="translated">Zmień sekcję</target>
         <note>key: section_subtree_assign_form.assign</note>
       </trans-unit>
@@ -316,9 +316,9 @@
         <target state="translated">Język docelowy</target>
         <note>key: translation.language.label</note>
       </trans-unit>
-      <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty" approved="yes">
-        <source>Delete permanently</source>
-        <target state="final">Usuń trwale</target>
+      <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
+        <source>Delete</source>
+        <target state="translated">Usuń</target>
         <note>key: trash_empty_form.empty</note>
       </trans-unit>
       <trans-unit id="4d530164d6f917754a1625bae48c2a323197ac7a" resname="user.invitation.submit">

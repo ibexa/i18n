@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ru" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="8522985ba99235f18afed6ef6947effccaecd065" resname="main__commerce">
+        <source>Commerce</source>
+        <target state="needs-translation">Commerce</target>
+        <note>key: main__commerce</note>
+      </trans-unit>
+      <trans-unit id="829b64659f95ca247a2327a9884147821e8499c3" resname="main__commerce__payment_methods">
+        <source>Payment methods</source>
+        <target state="needs-translation">Payment methods</target>
+        <note>key: main__commerce__payment_methods</note>
+      </trans-unit>
+      <trans-unit id="ad088f96e4f305345ccb181bbd8b211598341002" resname="main__commerce__payments">
+        <source>Payments</source>
+        <target state="needs-translation">Payments</target>
+        <note>key: main__commerce__payments</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

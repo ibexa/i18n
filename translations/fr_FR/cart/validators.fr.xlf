@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="c1134e431d0a1e992f569d7bf51a5ac32d7fba4b" resname="ibexa.cart.batch_order.base_product.error">
         <source>Cannot add base product "{{ productName }}" to the cart.</source>
-        <target state="needs-translation">Cannot add base product "{{ productName }}" to the cart.</target>
+        <target state="translated">Impossible d'ajouter le produit de base "{{ productName }}" au panier.</target>
         <note>key: ibexa.cart.batch_order.base_product.error</note>
       </trans-unit>
       <trans-unit id="7c28cf09bc3b65c78b0c9f54abdb6a2a058017f4" resname="ibexa.cart.batch_order.cannot_be_added_to_cart.error">
         <source>Cannot add "{{ productName }}" to the cart.</source>
-        <target state="needs-translation">Cannot add "{{ productName }}" to the cart.</target>
+        <target state="translated">Impossible d'ajouter «{{ productName }}» au panier.</target>
         <note>key: ibexa.cart.batch_order.cannot_be_added_to_cart.error</note>
       </trans-unit>
       <trans-unit id="2eede357c5fe83b5a23dc114f896c7cdf38b3b67" resname="ibexa.cart.product_available_for_quantity_increase.error">
         <source>Product "{{ productName }}" (code "{{ productCode }}") is not available in the required quantity {{ quantity }}.</source>
-        <target state="needs-translation">Product "{{ productName }}" (code "{{ productCode }}") is not available in the required quantity {{ quantity }}.</target>
+        <target state="translated">Le produit "{{ productName }}" (code "{{ productCode }}") n'est pas disponible dans la quantité {{ quantity }} demandée.</target>
         <note>key: ibexa.cart.product_available_for_quantity_increase.error</note>
       </trans-unit>
       <trans-unit id="7c4cbd3d48ef3441e81a468b189575ee82f88d04" resname="ibexa.cart.product_with_code_exists.error">
         <source>Product with code "{{ productCode }}" doesn't exist.</source>
-        <target state="needs-translation">Product with code "{{ productCode }}" doesn't exist.</target>
+        <target state="translated">Le produit avec le code "{{ productCode }}" n'existe pas.</target>
         <note>key: ibexa.cart.product_with_code_exists.error</note>
       </trans-unit>
       <trans-unit id="ab04ce2894e8c7c9ca7c635ad41be1ae9b55be9e" resname="ibexa.cart.quick_order.entry">
         <source>The quantity field cannot be empty.</source>
-        <target state="needs-translation">The quantity field cannot be empty.</target>
+        <target state="translated">Le champ quantité ne peut pas être vide.</target>
         <note>key: ibexa.cart.quick_order.entry</note>
       </trans-unit>
     </body>

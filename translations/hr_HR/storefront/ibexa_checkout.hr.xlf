@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="hr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="5853e50d2a588d6640c2594fc644e8d7e0bf1a69" resname="ibexa_storefront.checkout.confirmation_main.subtext">
+        <source><![CDATA[Your order #<b>%order_identifier%</b> has been placed and is being processed.]]></source>
+        <target state="needs-translation"><![CDATA[Your order #<b>%order_identifier%</b> has been placed and is being processed.]]></target>
+        <note>key: ibexa_storefront.checkout.confirmation_main.subtext</note>
+      </trans-unit>
+      <trans-unit id="12fa1d62e13328f8d4b990080d6f4d69af4cc817" resname="ibexa_storefront.checkout.layout.continue.shopping">
+        <source>Continue shopping</source>
+        <target state="needs-translation">Continue shopping</target>
+        <note>key: ibexa_storefront.checkout.layout.continue.shopping</note>
+      </trans-unit>
+      <trans-unit id="a7e4efa258dbf99023c761e8749710166c215c24" resname="ibexa_storefront.checkout.summary.quick_summary.label">
+        <source>Order</source>
+        <target state="needs-translation">Order</target>
+        <note>key: ibexa_storefront.checkout.summary.quick_summary.label</note>
+      </trans-unit>
+      <trans-unit id="2301c2da33b2d8af2cbfef5b9d01f5ca0ef313eb" resname="ibexa_storefront.checkout.summary.subtotal">
+        <source>Subtotal</source>
+        <target state="needs-translation">Subtotal</target>
+        <note>key: ibexa_storefront.checkout.summary.subtotal</note>
+      </trans-unit>
+      <trans-unit id="b777bcbcb0e09456fd54efed31791ee00bf186e4" resname="ibexa_storefront.confirmation_cta.continue_action">
+        <source>Continue shopping</source>
+        <target state="needs-translation">Continue shopping</target>
+        <note>key: ibexa_storefront.confirmation_cta.continue_action</note>
+      </trans-unit>
+      <trans-unit id="55f0f7eae7f487aa654b3d45ea5bc76e36ab2ee1" resname="ibexa_storefront.confirmation_cta.get_order_details_action">
+        <source>Check order details</source>
+        <target state="needs-translation">Check order details</target>
+        <note>key: ibexa_storefront.confirmation_cta.get_order_details_action</note>
+      </trans-unit>
+      <trans-unit id="b250b5e255b537dd4dfc267e659c498c7e2b61ea" resname="ibexa_storefront.confirmation_main.header">
+        <source>Thank you for your order</source>
+        <target state="needs-translation">Thank you for your order</target>
+        <note>key: ibexa_storefront.confirmation_main.header</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

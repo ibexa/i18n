@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="4469ef580653e092258a59f262e526230903fd7a" resname="airtime_popup.discard.btn">
+        <source>Cancel</source>
+        <target>crwdns251201:0crwdne251201:0</target>
+        <note>key: airtime_popup.discard.btn</note>
+      </trans-unit>
+      <trans-unit id="ab252a2b69fb6f158ae38d8eb8c0d3e9d9a1635a" resname="airtime_popup.submit.btn">
+        <source>Submit</source>
+        <target>crwdns242444:0crwdne242444:0</target>
+        <note>key: airtime_popup.submit.btn</note>
+      </trans-unit>
+      <trans-unit id="9717fa924c93123aa1f57b01a3e231670d690052" resname="airtime_popup.title">
+        <source>Content airtime settings</source>
+        <target>crwdns242446:0crwdne242446:0</target>
+        <note>key: airtime_popup.title</note>
+      </trans-unit>
+      <trans-unit id="e61d69c5b35faa8c43084885c01641cd96683877" resname="block.delete">
+        <source>Delete block</source>
+        <target>crwdns242448:0crwdne242448:0</target>
+        <note>key: block.delete</note>
+      </trans-unit>
+      <trans-unit id="b264e5fe26bc4d10d5ca3becf3ab73542f738925" resname="block.no_availability">
+        <source>One or more blocks is not available in this page</source>
+        <target>crwdns242450:0crwdne242450:0</target>
+        <note>key: block.no_availability</note>
+      </trans-unit>
+      <trans-unit id="c2bafa11a7a79aa55273eda0981c33424c1d12d4" resname="block.no_availability.content">
+        <source>You have to delete it to publish</source>
+        <target>crwdns242452:0crwdne242452:0</target>
+        <note>key: block.no_availability.content</note>
+      </trans-unit>
+      <trans-unit id="9a04c1252a90155788d459f44b624d895993a151" resname="block.no_availability.delete">
+        <source>Delete</source>
+        <target>crwdns242454:0crwdne242454:0</target>
+        <note>key: block.no_availability.delete</note>
+      </trans-unit>
+      <trans-unit id="0158828df9fbd639bd687854ed04a7df932fb90d" resname="block.no_availability.title">
+        <source>This element is not available in this page</source>
+        <target>crwdns242456:0crwdne242456:0</target>
+        <note>key: block.no_availability.title</note>
+      </trans-unit>
+      <trans-unit id="2a2fe3def10e04d741369aa5ddf4d4ea00680ca6" resname="block.settings">
+        <source>Block settings</source>
+        <target>crwdns242458:0crwdne242458:0</target>
+        <note>key: block.settings</note>
+      </trans-unit>
+      <trans-unit id="27557cc8101e53aa465cdb6d32850673a348e953" resname="block_filter.placeholder">
+        <source>Search...</source>
+        <target>crwdns247126:0crwdne247126:0</target>
+        <note>key: block_filter.placeholder</note>
+      </trans-unit>
+      <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title">
+        <source>Browse content</source>
+        <target>crwdns242462:0crwdne242462:0</target>
+        <note>key: config_form.block_config.embed_field_base.udw.title</note>
+      </trans-unit>
+      <trans-unit id="1cea3c1fab7233ec7948b0aa22fb3e45643b7a9a" resname="config_form.widgets.collection.udw.title">
+        <source>Select content</source>
+        <target>crwdns242464:0crwdne242464:0</target>
+        <note>key: config_form.widgets.collection.udw.title</note>
+      </trans-unit>
+      <trans-unit id="0b4c883fbcdbb12f3612d374db26c3303757640a" resname="config_form.widgets.schedule.udw.title">
+        <source>Select content</source>
+        <target>crwdns242466:0crwdne242466:0</target>
+        <note>key: config_form.widgets.schedule.udw.title</note>
+      </trans-unit>
+      <trans-unit id="5a88a93c8b1cd819dc183fcd3b252b24acbe487b" resname="config_popup.close.label">
+        <source>Close</source>
+        <target>crwdns242468:0crwdne242468:0</target>
+        <note>key: config_popup.close.label</note>
+      </trans-unit>
+      <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
+        <source>Creating %content_type_name%</source>
+        <target>crwdns252124:0%content_type_name%crwdne252124:0</target>
+        <note>key: creating</note>
+      </trans-unit>
+      <trans-unit id="195a806c1a0668adbea700cd92ec432cd9e08854" resname="date_picker.label">
+        <source>Date and time</source>
+        <target>crwdns242472:0crwdne242472:0</target>
+        <note>key: date_picker.label</note>
+      </trans-unit>
+      <trans-unit id="6eab7e919136479499cfa377b9f63bae39d22c54" resname="drop.block.here">
+        <source>Drop block here</source>
+        <target>crwdns242474:0crwdne242474:0</target>
+        <note>key: drop.block.here</note>
+      </trans-unit>
+      <trans-unit id="602346fbb59fa13321388beb02c3ac56122fd318" resname="drop.blocks.here">
+        <source>Drop blocks here</source>
+        <target>crwdns242476:0crwdne242476:0</target>
+        <note>key: drop.blocks.here</note>
+      </trans-unit>
+      <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
+        <source>Editing %content_type_name%</source>
+        <target>crwdns252126:0%content_type_name%crwdne252126:0</target>
+        <note>key: editing</note>
+      </trans-unit>
+      <trans-unit id="79bf5a9df7f033c0b853263adb274a8045791ab0" resname="empty_block.info.text">
+        <source>%name% block</source>
+        <target>crwdns242478:0%name%crwdne242478:0</target>
+        <note>key: empty_block.info.text</note>
+      </trans-unit>
+      <trans-unit id="36cdc651708919d9a830acb2c742b325fd23aeb5" resname="error.message">
+        <source>Something went wrong</source>
+        <target>crwdns242480:0crwdne242480:0</target>
+        <note>key: error.message</note>
+      </trans-unit>
+      <trans-unit id="bae55c4f6b57464225cfd31dbd0394aee5325786" resname="fields_editing_details">
+        <source>Location: %location% in %language_name%</source>
+        <target>crwdns252128:0%location%crwdnd252128:0%language_name%crwdne252128:0</target>
+        <note>key: fields_editing_details</note>
+      </trans-unit>
+      <trans-unit id="4a59666b61e8dc389b7390ad051bb8ef705ae1e4" resname="fieldtype.landing_page.missing_proper_configuration.error.message">
+        <source>Some blocks are missing configuration</source>
+        <target>crwdns242482:0crwdne242482:0</target>
+        <note>key: fieldtype.landing_page.missing_proper_configuration.error.message</note>
+      </trans-unit>
+      <trans-unit id="abad744958b567e0ff5f5d26144e3701b8a0f823" resname="layout_selector.cancel.label">
+        <source>Cancel</source>
+        <target>crwdns242484:0crwdne242484:0</target>
+        <note>key: layout_selector.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="d261894808d96929e7ff95449a433021cb9476ec" resname="layout_selector.create.confirm.label">
+        <source>Create draft</source>
+        <target>crwdns242486:0crwdne242486:0</target>
+        <note>key: layout_selector.create.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="cacca78c6c00e60e652f42e41b6c404d76548a59" resname="layout_selector.create.title">
+        <source>Page creation</source>
+        <target>crwdns242488:0crwdne242488:0</target>
+        <note>key: layout_selector.create.title</note>
+      </trans-unit>
+      <trans-unit id="b64b29a6cd5b945bee2aaa605c1d8984a4a79fd9" resname="layout_selector.error.change_layout">
+        <source>Change layout</source>
+        <target>crwdns242490:0crwdne242490:0</target>
+        <note>key: layout_selector.error.change_layout</note>
+      </trans-unit>
+      <trans-unit id="c17ec5ea18318c6cd0431c0d009d3d9e18bdfd42" resname="layout_selector.error.label">
+        <source>The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</source>
+        <target>crwdns242492:0crwdne242492:0</target>
+        <note>key: layout_selector.error.label</note>
+      </trans-unit>
+      <trans-unit id="4a825e3c6cecb70c8488d232e887a76396c53022" resname="layout_selector.switch.confirm.label">
+        <source>Submit</source>
+        <target>crwdns242494:0crwdne242494:0</target>
+        <note>key: layout_selector.switch.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="e62232514d32c4702bff65aff020543ecfa920dc" resname="layout_selector.switch.title">
+        <source>Switch layout</source>
+        <target>crwdns242496:0crwdne242496:0</target>
+        <note>key: layout_selector.switch.title</note>
+      </trans-unit>
+      <trans-unit id="71c903ad87f59b59b56f8275b47d53204d3632b8" resname="layout_selector.warning.message">
+        <source>Switching layout saves the current Page draft</source>
+        <target>crwdns242498:0crwdne242498:0</target>
+        <note>key: layout_selector.warning.message</note>
+      </trans-unit>
+      <trans-unit id="3757c8d49f2f414947ad6e44afc53498b4474d55" resname="sidebar.title">
+        <source>Elements</source>
+        <target>crwdns242500:0crwdne242500:0</target>
+        <note>key: sidebar.title</note>
+      </trans-unit>
+      <trans-unit id="720578005f4f9df5991d84e11d283389de3f5801" resname="switch_layout.label">
+        <source>Switch layout</source>
+        <target>crwdns242502:0crwdne242502:0</target>
+        <note>key: switch_layout.label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

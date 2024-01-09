@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="el" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="1d9755d4562a723fa419b87fd04433a27468152e" resname="field_definition.ibexa_address.type">
+        <source>Address Type</source>
+        <target state="needs-translation">Address Type</target>
+        <note>key: field_definition.ibexa_address.type</note>
+      </trans-unit>
+      <trans-unit id="ea1d334e8259ba01e530a69c2fa34f0bbad6cffb" resname="field_definition.ibexa_address.type.personal">
+        <source>Personal</source>
+        <target state="needs-translation">Personal</target>
+        <note>key: field_definition.ibexa_address.type.personal</note>
+      </trans-unit>
+      <trans-unit id="aaeaea5ec3512b99a6e1d7437a238ae6258de6d6" resname="ibexa.address.country">
+        <source>Country</source>
+        <target state="needs-translation">Country</target>
+        <note>key: ibexa.address.country</note>
+      </trans-unit>
+      <trans-unit id="841264ffb30bbec6ea9917af2df640567d45f8ae" resname="ibexa.address.country.validation.empty">
+        <source>Country cannot be empty.</source>
+        <target state="needs-translation">Country cannot be empty.</target>
+        <note>key: ibexa.address.country.validation.empty</note>
+      </trans-unit>
+      <trans-unit id="c1783abdbe42ce685ab182d8016139f4d9f4c78a" resname="ibexa.address.fields.address">
+        <source>Address</source>
+        <target state="needs-translation">Address</target>
+        <note>key: ibexa.address.fields.address</note>
+      </trans-unit>
+      <trans-unit id="2f6c774019d4c6d44e42d1955fe6aca702d32cd0" resname="ibexa.address.fields.locality">
+        <source>City</source>
+        <target state="needs-translation">City</target>
+        <note>key: ibexa.address.fields.locality</note>
+      </trans-unit>
+      <trans-unit id="bd1f628dca2d6976de609f8398244012413f876a" resname="ibexa.address.fields.postal_code">
+        <source>Postal Code</source>
+        <target state="needs-translation">Postal Code</target>
+        <note>key: ibexa.address.fields.postal_code</note>
+      </trans-unit>
+      <trans-unit id="4fcde32cdb31aa6754efb041462b7f67f640d414" resname="ibexa.address.fields.region">
+        <source>Region</source>
+        <target state="needs-translation">Region</target>
+        <note>key: ibexa.address.fields.region</note>
+      </trans-unit>
+      <trans-unit id="fd68c9668ea0611dc15505a4d857a9327c130eed" resname="ibexa.address.fields.street">
+        <source>Street</source>
+        <target state="needs-translation">Street</target>
+        <note>key: ibexa.address.fields.street</note>
+      </trans-unit>
+      <trans-unit id="fded8caf2b15a0b0698bc770e58cc563f01de2b9" resname="ibexa.address.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+        <note>key: ibexa.address.name</note>
+      </trans-unit>
+      <trans-unit id="84c1ec7e5b84fb525ec8a44b81a0d191c95224bb" resname="ibexa.address.name.validation.empty">
+        <source>Name cannot be empty.</source>
+        <target state="needs-translation">Name cannot be empty.</target>
+        <note>key: ibexa.address.name.validation.empty</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

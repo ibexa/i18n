@@ -8,72 +8,72 @@
     <body>
       <trans-unit id="6285fab36331fa98cf8ecfa7fef32ceac6259a7e" resname="add_to_cart.add_btn">
         <source>Add to cart</source>
-        <target state="needs-translation">Add to cart</target>
+        <target state="translated">Ajouter au panier</target>
         <note>key: add_to_cart.add_btn</note>
       </trans-unit>
       <trans-unit id="b65cff1cb06737742a728819507fc1a75c8ae4c9" resname="maincart.item.remove_btn.label">
         <source>Remove product</source>
-        <target state="needs-translation">Remove product</target>
+        <target state="translated">Retirer produit</target>
         <note>key: maincart.item.remove_btn.label</note>
       </trans-unit>
       <trans-unit id="36e01594025abca417d46248009ad6bdc5831764" resname="maincart.net_price">
         <source>%price% net</source>
-        <target state="needs-translation">%price% net</target>
+        <target state="translated">%price% net</target>
         <note>key: maincart.net_price</note>
       </trans-unit>
       <trans-unit id="cdeaef6396fd0c7c3b072e7326e3752de1ceb380" resname="policy.limitation.cartowner.self">
         <source>Self</source>
-        <target state="needs-translation">Self</target>
+        <target state="translated">Soi-même</target>
         <note>key: policy.limitation.cartowner.self</note>
       </trans-unit>
       <trans-unit id="7f3ae93be6562e2257084010674446e01bb38b1e" resname="quick_order.add_entry">
         <source>Add item</source>
-        <target state="needs-translation">Add item</target>
+        <target state="translated">Ajouter un élément</target>
         <note>key: quick_order.add_entry</note>
       </trans-unit>
       <trans-unit id="8764dc7ac913ad84f018779d2958a9945ded077c" resname="quick_order.add_to_cart">
         <source>Add to cart</source>
-        <target state="needs-translation">Add to cart</target>
+        <target state="translated">Ajouter au panier</target>
         <note>key: quick_order.add_to_cart</note>
       </trans-unit>
       <trans-unit id="0d2bd58cc0be916d6fbcc58db6d27c04bac40e2c" resname="quick_order.delete_entry">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: quick_order.delete_entry</note>
       </trans-unit>
       <trans-unit id="8b3e5df02a734e77256161e8d6ed8fe2ed0c390b" resname="summary.headline">
         <source>Summary</source>
-        <target state="needs-translation">Summary</target>
+        <target state="translated">Résumé</target>
         <note>key: summary.headline</note>
       </trans-unit>
       <trans-unit id="ec94e2b23007a8a93e5f1ce01419d91b863f302a" resname="summary.item.percentage.label">
         <source>Tax %percentage%%</source>
-        <target state="needs-translation">Tax %percentage%%</target>
+        <target state="translated">Taxe %percentage%%</target>
         <note>key: summary.item.percentage.label</note>
       </trans-unit>
       <trans-unit id="db0aa96d7320762a79db2bf1da231d54348c2256" resname="summary.item.shipping_cost.label">
         <source>Shipping cost</source>
-        <target state="needs-translation">Shipping cost</target>
+        <target state="translated">Frais de livraison</target>
         <note>key: summary.item.shipping_cost.label</note>
       </trans-unit>
       <trans-unit id="dd192106c7608690ea1a6de7c87c48760724a168" resname="summary.item.shipping_cost.value">
         <source>Calculated at checkout</source>
-        <target state="needs-translation">Calculated at checkout</target>
+        <target state="translated">Calculé lors de la commande</target>
         <note>key: summary.item.shipping_cost.value</note>
       </trans-unit>
       <trans-unit id="1efe4d907513991cdbd4689f48487c221bc5eab9" resname="summary.item.subtotal.label">
         <source>Subtotal</source>
-        <target state="needs-translation">Subtotal</target>
+        <target state="translated">Sous-total</target>
         <note>key: summary.item.subtotal.label</note>
       </trans-unit>
       <trans-unit id="8c121556a8642239bb0de29a2e32fa04501c0419" resname="summary.item.total.label">
         <source>Total value</source>
-        <target state="needs-translation">Total value</target>
+        <target state="translated">Valeur totale</target>
         <note>key: summary.item.total.label</note>
       </trans-unit>
       <trans-unit id="2911dcab962051a4823e5c2989af747b6c253d8a" resname="summary.net_price">
         <source>%price% net</source>
-        <target state="needs-translation">%price% net</target>
+        <target state="translated">%price% net</target>
         <note>key: summary.net_price</note>
       </trans-unit>
     </body>

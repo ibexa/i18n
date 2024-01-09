@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="2eb8a586427858062ce796bfaad8464027da3793" resname="field_definition.ibexa_taxonomy_entry.taxonomy">
-        <source>Taxonomy</source>
-        <target state="translated">Taxonomie</target>
-        <note>key: field_definition.ibexa_taxonomy_entry.taxonomy</note>
-      </trans-unit>
       <trans-unit id="7bd79f56f041d05aa05dd6a1456fb1406c7a24b2" resname="taxonomy.select_parent">
         <source>Select parent</source>
         <target state="translated">Sélectionner un parent</target>
@@ -18,7 +13,7 @@
       </trans-unit>
       <trans-unit id="46d079247c2c8d13944cd404f5e8ba7136f12b47" resname="taxonomy.tag.content.modal.confirm">
         <source>Select</source>
-        <target state="needs-translation">Select</target>
+        <target state="translated">Sélectionner</target>
         <note>key: taxonomy.tag.content.modal.confirm</note>
       </trans-unit>
       <trans-unit id="34023a9634f0e572d296b2de5a70c960c8c12e27" resname="taxonomy.tag.content.modal.subtitle">
@@ -27,18 +22,13 @@
         <note>key: taxonomy.tag.content.modal.subtitle</note>
       </trans-unit>
       <trans-unit id="dddc97c66d483ea17123c23accf45f2dcb0ac930" resname="taxonomy.tag.content.modal.title">
-        <source>Select %name%</source>
-        <target state="translated">Sélectionner %name%</target>
+        <source>Select %name% Entries</source>
+        <target state="translated">Sélectionner les entrées %name%</target>
         <note>key: taxonomy.tag.content.modal.title</note>
       </trans-unit>
-      <trans-unit id="3f89b2c513d273629c278caabc057a8b6af5ed38" resname="taxonomy.tag.content.select.taxonomy.entries">
-        <source>Select %name%</source>
-        <target state="translated">Sélectionner %name%</target>
-        <note>key: taxonomy.tag.content.select.taxonomy.entries</note>
-      </trans-unit>
       <trans-unit id="abd5e66209441cecae249d0df13d8057af4f3002" resname="taxonomy.tag.content.type.taxonomy.entries">
-        <source>%name%</source>
-        <target state="translated">%name%</target>
+        <source>Taxonomy %name%</source>
+        <target state="translated">Taxonomie %name%</target>
         <note>key: taxonomy.tag.content.type.taxonomy.entries</note>
       </trans-unit>
     </body>

@@ -72,8 +72,8 @@
         <note>key: ibexa.shipment.list.column.customer_name</note>
       </trans-unit>
       <trans-unit id="00cc40ed3744783cc9df2cf506458b8514a22efb" resname="ibexa.shipment.list.column.identifier">
-        <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <source>Shipping ID</source>
+        <target state="needs-translation">Shipping ID</target>
         <note>key: ibexa.shipment.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="7d2b10f20f10d69d0c0f13a8cae156129a40c8b3" resname="ibexa.shipment.list.column.order_id">
@@ -142,8 +142,8 @@
         <note>key: ibexa.shipment.update.success</note>
       </trans-unit>
       <trans-unit id="3806780c212cc715dae9cfffafe3004d15604869" resname="ibexa.shipment.view.title">
-        <source>Shipment "%identifier%"</source>
-        <target state="needs-translation">Shipment "%identifier%"</target>
+        <source>Shipment #%identifier%</source>
+        <target state="needs-translation">Shipment #%identifier%</target>
         <note>key: ibexa.shipment.view.title</note>
       </trans-unit>
       <trans-unit id="7b8da29410ec1259f1a32b812a981807ae33a9e3" resname="ibexa.shipping.list.bulk_delete.confirm_message">
@@ -467,8 +467,8 @@
         <note>key: shipment.tab.summary.customer_details.details.email.label</note>
       </trans-unit>
       <trans-unit id="ae990f846f9b0d7e01a5d5e50b3c3d7bdea5f2c0" resname="shipment.tab.summary.customer_details.details.phone_number.label">
-        <source>Phone number</source>
-        <target state="needs-translation">Phone number</target>
+        <source>Phone</source>
+        <target state="needs-translation">Phone</target>
         <note>key: shipment.tab.summary.customer_details.details.phone_number.label</note>
       </trans-unit>
       <trans-unit id="9aae74077abd03be0f63e88fd26982cd8fac926a" resname="shipment.tab.summary.shipping_address.details.city.label">
@@ -547,8 +547,8 @@
         <note>key: tab.name.cost</note>
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
-        <source>Add new</source>
-        <target state="needs-translation">Add new</target>
+        <source>Add</source>
+        <target state="needs-translation">Add</target>
         <note>key: tab.translations.action.add</note>
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">

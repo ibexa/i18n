@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="1961063ce8607bd090a318298a6e3f7c077bad41" resname="content.preview.label.resolved">
         <source>resolved</source>
-        <target state="needs-translation">resolved</target>
+        <target state="translated">résolu</target>
         <note>key: content.preview.label.resolved</note>
       </trans-unit>
       <trans-unit id="bb952452cc410ad12cd822f55d4d9525ca506f26" resname="tab.name.seo_content">
         <source>SEO</source>
-        <target state="needs-translation">SEO</target>
+        <target state="translated">SEO</target>
         <note>key: tab.name.seo_content</note>
       </trans-unit>
     </body>

@@ -6,16 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="1c5d787a5d5f4b2e3d9e14dcfe0cc9c78ee5939a" resname="breadcrumb.personalization">
-        <source>Personalization</source>
-        <target state="needs-translation">Personalization</target>
-        <note>key: breadcrumb.personalization</note>
-      </trans-unit>
-      <trans-unit id="e68ace7e4c81cf8b6c6d333e92b573f6a6686223" resname="breadcrumb.scenarios">
-        <source>Scenarios</source>
-        <target state="needs-translation">Scenarios</target>
-        <note>key: breadcrumb.scenarios</note>
-      </trans-unit>
       <trans-unit id="7cf4c5c82eb9aa188d9b8514ef884df8eb46e807" resname="dashboard.charts.collected_events">
         <source>Collected events</source>
         <target state="needs-translation">Collected events</target>
@@ -66,55 +56,10 @@
         <target state="needs-translation">Last 24h</target>
         <note>key: ibexa_personalization.date_time_range.last_24h</note>
       </trans-unit>
-      <trans-unit id="8c7eb09b4326c7c04b214d941b1d9552ddd28f94" resname="ibexa_personalization.scenario.commerce_settings">
-        <source>Commerce settings</source>
-        <target state="needs-translation">Commerce settings</target>
-        <note>key: ibexa_personalization.scenario.commerce_settings</note>
-      </trans-unit>
-      <trans-unit id="2b0d80953c40e5424aa4c482cca1e5742adc3a07" resname="ibexa_personalization.scenario.description">
-        <source>Scenario description</source>
-        <target state="needs-translation">Scenario description</target>
-        <note>key: ibexa_personalization.scenario.description</note>
-      </trans-unit>
-      <trans-unit id="5513f899d5b3b82eb8c8a529c9e70ddaff8419d7" resname="ibexa_personalization.scenario.details.details">
-        <source>Scenario details</source>
-        <target state="needs-translation">Scenario details</target>
-        <note>key: ibexa_personalization.scenario.details.details</note>
-      </trans-unit>
       <trans-unit id="7d0862a335ea32fae985fe56660fe17109747c27" resname="ibexa_personalization.scenario.details.subtitle">
         <source>Scenario</source>
         <target state="needs-translation">Scenario</target>
         <note>key: ibexa_personalization.scenario.details.subtitle</note>
-      </trans-unit>
-      <trans-unit id="94104f5f11945854392d47db58284a39437bdc85" resname="ibexa_personalization.scenario.edit_short">
-        <source>Edit</source>
-        <target state="translated">編集</target>
-        <note>key: ibexa_personalization.scenario.edit_short</note>
-      </trans-unit>
-      <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
-        <source>Scenario ID</source>
-        <target state="needs-translation">Scenario ID</target>
-        <note>key: ibexa_personalization.scenario.id</note>
-      </trans-unit>
-      <trans-unit id="89e671883aca6d0a3662cf8ed62769108969577c" resname="ibexa_personalization.scenario.input_type">
-        <source>Input type</source>
-        <target state="needs-translation">Input type</target>
-        <note>key: ibexa_personalization.scenario.input_type</note>
-      </trans-unit>
-      <trans-unit id="cf899da8652f04a34a0a8cb932446109606d84ad" resname="ibexa_personalization.scenario.output_type">
-        <source>Output type</source>
-        <target state="needs-translation">Output type</target>
-        <note>key: ibexa_personalization.scenario.output_type</note>
-      </trans-unit>
-      <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
-        <source>Scenario name</source>
-        <target state="needs-translation">Scenario name</target>
-        <note>key: ibexa_personalization.scenario.scenario_name</note>
-      </trans-unit>
-      <trans-unit id="cd5bce5ba0adfa62b8aba0814b6ad94c61a4ccaa" resname="ibexa_personalization.scenario.strategy">
-        <source>Strategy</source>
-        <target state="needs-translation">Strategy</target>
-        <note>key: ibexa_personalization.scenario.strategy</note>
       </trans-unit>
       <trans-unit id="836be051596f7132ce48db43b554e00455255fe9" resname="ibexa_personalization.scenario.trash.cancel">
         <source>No</source>
@@ -140,11 +85,6 @@
         <source>Are you sure you want to delete new scenario?</source>
         <target state="needs-translation">Are you sure you want to delete new scenario?</target>
         <note>key: ibexa_personalization.scenario.trash.modal.message.new_scenario</note>
-      </trans-unit>
-      <trans-unit id="a12bb101b80ee4a2f65ff4072fc9d89c87b65883" resname="ibexa_personalization.scenario.user_profile_setting">
-        <source>User profile setting</source>
-        <target state="needs-translation">User profile setting</target>
-        <note>key: ibexa_personalization.scenario.user_profile_setting</note>
       </trans-unit>
       <trans-unit id="48697d3cdd15ff4c2556b2234191d02514e1ed1d" resname="list.more_items">
         <source>+%count% more</source>

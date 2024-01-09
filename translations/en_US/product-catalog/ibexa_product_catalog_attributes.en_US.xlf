@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en-US" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="70c638133dda12940cee6b804993cc540a8f345e" resname="checkbox.name">
+        <source>Checkbox</source>
+        <target state="needs-translation">Checkbox</target>
+        <note>key: checkbox.name</note>
+      </trans-unit>
+      <trans-unit id="1ea54547b847d83bcf286a367b7596ebb26c0549" resname="color.name">
+        <source>Color</source>
+        <target state="needs-translation">Color</target>
+        <note>key: color.name</note>
+      </trans-unit>
+      <trans-unit id="36bb21cfaec4a50a7c5e9f5e6973608fff173d75" resname="float.name">
+        <source>Float</source>
+        <target state="needs-translation">Float</target>
+        <note>key: float.name</note>
+      </trans-unit>
+      <trans-unit id="36e77759dfa52de5d449dad44f41c380d179f2ea" resname="integer.name">
+        <source>Integer</source>
+        <target state="needs-translation">Integer</target>
+        <note>key: integer.name</note>
+      </trans-unit>
+      <trans-unit id="d210b6a7ee1a56a8a515426ef37a53db971068b7" resname="selection.name">
+        <source>Selection</source>
+        <target state="needs-translation">Selection</target>
+        <note>key: selection.name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
