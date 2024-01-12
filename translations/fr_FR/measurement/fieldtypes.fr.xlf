@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="ff5d71fa988566c3143b7d29278224249d73a252" resname="ibexa_measurement.name">
         <source>Measurement</source>
-        <target state="needs-translation">Measurement</target>
+        <target state="translated">Mesure</target>
         <note>key: ibexa_measurement.name</note>
       </trans-unit>
     </body>

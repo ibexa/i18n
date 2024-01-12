@@ -7,13 +7,13 @@
     </header>
     <body>
       <trans-unit id="15204acbfb66b707e1870987e2df8dd43d87fb23" resname="page_block_hide.label">
-        <source>Block hide</source>
-        <target state="translated">Cacher le bloc</target>
+        <source>Future hide</source>
+        <target state="translated">Masquage à venir</target>
         <note>key: page_block_hide.label</note>
       </trans-unit>
       <trans-unit id="e9e749d54f8be230e31ce9eeec8f66e6fe0656e0" resname="page_block_reveal.label">
-        <source>Block reveal</source>
-        <target state="translated">Révéler le bloc</target>
+        <source>Future reveal</source>
+        <target state="translated">Révélation à venir</target>
         <note>key: page_block_reveal.label</note>
       </trans-unit>
       <trans-unit id="353ee0baf1d2304e82aaaf541340699f797db3ea" resname="page_block_visibility.attribute.block_type.label">

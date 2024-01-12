@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="9f897e0a8684c5fcf61d4d121bd7122a12f99c32" resname="infobar.author.name">
         <source><![CDATA[by <span class="ibexa-content-details__author">%name%</span>]]></source>
-        <target state="needs-translation"><![CDATA[by <span class="ibexa-content-details__author">%name%</span>]]></target>
+        <target state="translated"><![CDATA[par <span class="ibexa-content-details__author">%name%</span>]]></target>
         <note>key: infobar.author.name</note>
       </trans-unit>
       <trans-unit id="4fe48dd2501989467cec918b66ccdf0e89c274f3" resname="infobar.create">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="01673cd18fd4cc76a17b5a8c8dcec7012fe0e7c4" resname="infobar.options">
         <source>Options</source>
-        <target state="needs-translation">Options</target>
+        <target state="translated">Options</target>
         <note>key: infobar.options</note>
       </trans-unit>
       <trans-unit id="0037583914dd6b96fb00416feb97ab193dbb36cc" resname="versions.archived">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="c2171084e09c845f66be70d4562091a9f4f16c74" resname="versions.title">
         <source>Versions</source>
-        <target state="needs-translation">Versions</target>
+        <target state="translated">Versions</target>
         <note>key: versions.title</note>
       </trans-unit>
       <trans-unit id="2ff0468ad08a8cd0e54b166b3fb9f289143f4cfa" resname="versions.version">
         <source>Version</source>
-        <target state="needs-translation">Version</target>
+        <target state="translated">Version</target>
         <note>key: versions.version</note>
       </trans-unit>
       <trans-unit id="dd7c027f3d47d1c03a8454203f66a0f2b93eaedc" resname="versions.view">

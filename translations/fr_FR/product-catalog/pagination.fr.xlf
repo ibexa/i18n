@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
         <source>Viewing %viewing% out of %total% items</source>
-        <target state="needs-translation">Viewing %viewing% out of %total% items</target>
+        <target state="translated">Visualisation des éléments %viewing% sur %total%</target>
         <note>key: pagination.viewing</note>
       </trans-unit>
     </body>

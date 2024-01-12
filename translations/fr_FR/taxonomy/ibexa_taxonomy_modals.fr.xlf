@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="3816282a6673a4a07c0e56585b7c4215816951a9" resname="delete.form.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: delete.form.cancel</note>
       </trans-unit>
       <trans-unit id="bd2693d22f74954ebfeec334da5b3a4816ea6c11" resname="delete.modal.message">
         <source>Are you sure you want to delete this entry?</source>
-        <target state="needs-translation">Are you sure you want to delete this entry?</target>
+        <target state="translated">Voulez-vous vraiment supprimer cette entrée ?</target>
         <note>key: delete.modal.message</note>
       </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: modal.cancel</note>
       </trans-unit>
       <trans-unit id="c794d1017650675a9547beb7ed1f3ee4c479ff86" resname="unassign.modal.message">
         <source>Unassign</source>
-        <target state="needs-translation">Unassign</target>
+        <target state="translated">Désassigner</target>
         <note>key: unassign.modal.message</note>
       </trans-unit>
     </body>

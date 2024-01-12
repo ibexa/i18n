@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="097f571a3c731c66c83230e465f4b3c9af811add" resname="policy.limitation.identifier.userpermissions">
         <source>Roles and/or User Groups</source>
-        <target state="needs-translation">Roles and/or User Groups</target>
+        <target state="translated">Rôles et/ou groupes d'utilisateurs</target>
         <note>key: policy.limitation.identifier.userpermissions</note>
       </trans-unit>
     </body>

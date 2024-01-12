@@ -7,7 +7,7 @@
     </header>
     <body>
       <trans-unit id="4469ef580653e092258a59f262e526230903fd7a" resname="airtime_popup.discard.btn">
-        <source>Discard</source>
+        <source>Cancel</source>
         <target state="translated">Annuler</target>
         <note>key: airtime_popup.discard.btn</note>
       </trans-unit>
@@ -28,22 +28,22 @@
       </trans-unit>
       <trans-unit id="b264e5fe26bc4d10d5ca3becf3ab73542f738925" resname="block.no_availability">
         <source>One or more blocks is not available in this page</source>
-        <target state="needs-translation">One or more blocks is not available in this page</target>
+        <target state="translated">Un ou plusieurs blocs ne sont pas disponibles dans cette page</target>
         <note>key: block.no_availability</note>
       </trans-unit>
       <trans-unit id="c2bafa11a7a79aa55273eda0981c33424c1d12d4" resname="block.no_availability.content">
         <source>You have to delete it to publish</source>
-        <target state="needs-translation">You have to delete it to publish</target>
+        <target state="translated">Vous devez le supprimer pour publier</target>
         <note>key: block.no_availability.content</note>
       </trans-unit>
       <trans-unit id="9a04c1252a90155788d459f44b624d895993a151" resname="block.no_availability.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: block.no_availability.delete</note>
       </trans-unit>
       <trans-unit id="0158828df9fbd639bd687854ed04a7df932fb90d" resname="block.no_availability.title">
         <source>This element is not available in this page</source>
-        <target state="needs-translation">This element is not available in this page</target>
+        <target state="translated">Cet élément n'est pas disponible dans cette page</target>
         <note>key: block.no_availability.title</note>
       </trans-unit>
       <trans-unit id="2a2fe3def10e04d741369aa5ddf4d4ea00680ca6" resname="block.settings">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="27557cc8101e53aa465cdb6d32850673a348e953" resname="block_filter.placeholder">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Rechercher...</target>
         <note>key: block_filter.placeholder</note>
       </trans-unit>
       <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title">
@@ -76,6 +76,11 @@
         <target state="translated">Fermer</target>
         <note>key: config_popup.close.label</note>
       </trans-unit>
+      <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
+        <source>Creating %content_type_name%</source>
+        <target state="translated">Création de %content_type_name%</target>
+        <note>key: creating</note>
+      </trans-unit>
       <trans-unit id="195a806c1a0668adbea700cd92ec432cd9e08854" resname="date_picker.label">
         <source>Date and time</source>
         <target state="translated">Date et heure</target>
@@ -91,6 +96,11 @@
         <target state="translated">Déposer les blocs ici</target>
         <note>key: drop.blocks.here</note>
       </trans-unit>
+      <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
+        <source>Editing %content_type_name%</source>
+        <target state="translated">Modification de %content_type_name%</target>
+        <note>key: editing</note>
+      </trans-unit>
       <trans-unit id="79bf5a9df7f033c0b853263adb274a8045791ab0" resname="empty_block.info.text">
         <source>%name% block</source>
         <target state="translated">Bloc %name%</target>
@@ -101,6 +111,11 @@
         <target state="translated">Une erreur s'est produite</target>
         <note>key: error.message</note>
       </trans-unit>
+      <trans-unit id="bae55c4f6b57464225cfd31dbd0394aee5325786" resname="fields_editing_details">
+        <source>Location: %location% in %language_name%</source>
+        <target state="translated">Emplacement: %location% en %language_name%</target>
+        <note>key: fields_editing_details</note>
+      </trans-unit>
       <trans-unit id="4a59666b61e8dc389b7390ad051bb8ef705ae1e4" resname="fieldtype.landing_page.missing_proper_configuration.error.message">
         <source>Some blocks are missing configuration</source>
         <target state="translated">Certains blocs n'ont pas une configuration correcte</target>
@@ -108,7 +123,7 @@
       </trans-unit>
       <trans-unit id="abad744958b567e0ff5f5d26144e3701b8a0f823" resname="layout_selector.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: layout_selector.cancel.label</note>
       </trans-unit>
       <trans-unit id="d261894808d96929e7ff95449a433021cb9476ec" resname="layout_selector.create.confirm.label">
@@ -123,12 +138,12 @@
       </trans-unit>
       <trans-unit id="b64b29a6cd5b945bee2aaa605c1d8984a4a79fd9" resname="layout_selector.error.change_layout">
         <source>Change layout</source>
-        <target state="needs-translation">Change layout</target>
+        <target state="translated">Modifier la mise en page</target>
         <note>key: layout_selector.error.change_layout</note>
       </trans-unit>
       <trans-unit id="c17ec5ea18318c6cd0431c0d009d3d9e18bdfd42" resname="layout_selector.error.label">
         <source>The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</source>
-        <target state="needs-translation">The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</target>
+        <target state="translated">La mise en page de cette page n'est plus disponible et vous ne pouvez pas la publier. Veuillez sélectionner une mise en page différente.</target>
         <note>key: layout_selector.error.label</note>
       </trans-unit>
       <trans-unit id="4a825e3c6cecb70c8488d232e887a76396c53022" resname="layout_selector.switch.confirm.label">

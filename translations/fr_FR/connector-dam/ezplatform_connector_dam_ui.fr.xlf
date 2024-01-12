@@ -12,13 +12,13 @@
         <note>key: dam.error.message</note>
       </trans-unit>
       <trans-unit id="d292169990f89742e58d1ade4e91c698f764699e" resname="dam.modal.title">
-        <source>Search for asset</source>
-        <target state="needs-translation">Search for asset</target>
+        <source>Select Image Asset</source>
+        <target state="translated">Sélectionner l'image</target>
         <note>key: dam.modal.title</note>
       </trans-unit>
       <trans-unit id="ef06a84c0f7befded548575fa9659bac170ad8bd" resname="fieldtype.ezimageasset.dam_select.label">
         <source>Select from DAM</source>
-        <target state="needs-translation">Select from DAM</target>
+        <target state="translated">Sélectionner à partir du DAM</target>
         <note>key: fieldtype.ezimageasset.dam_select.label</note>
       </trans-unit>
       <trans-unit id="3559d7accf00360971961ca18989adc0614089c0" resname="search">

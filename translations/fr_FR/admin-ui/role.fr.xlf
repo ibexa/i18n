@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="50fbff4724e8543718a7a0fe08fc1f134bbeb7d6" resname="limitation_type.none">
-        <source>No Limitations</source>
-        <target state="translated">Aucune limitation</target>
+        <source>No limitations</source>
+        <target state="translated">Pas de limitation</target>
         <note>key: limitation_type.none</note>
       </trans-unit>
       <trans-unit id="e4eb27643d4149122e8009b8ca930678eadcd713" resname="limitation_type.section">
@@ -22,7 +22,7 @@
         <note>key: limitation_type.subtree</note>
       </trans-unit>
       <trans-unit id="0dbfb3fd5136aa1d54a82ba5e5f399c2908d26f2" resname="locations.select_subtree">
-        <source>Select Subtree</source>
+        <source>Select subtree</source>
         <target state="translated">Sélectionnez la sous-arborescence</target>
         <note>key: locations.select_subtree</note>
       </trans-unit>
@@ -87,8 +87,8 @@
         <note>key: policy.view.edit.title</note>
       </trans-unit>
       <trans-unit id="e182986ba1f94484d60ea6b1db7cc2707478f2a1" resname="policy.view.limitations.title">
-        <source>Edit Limitations</source>
-        <target state="translated">Éditer les limitations</target>
+        <source>Edit</source>
+        <target state="translated">Modifier</target>
         <note>key: policy.view.limitations.title</note>
       </trans-unit>
       <trans-unit id="35aa96a30453aa7b604432885032fd961a7f508a" resname="policy.view.list.panel.policies.action.edit">
@@ -110,11 +110,6 @@
         <source>Policies</source>
         <target state="translated">Politiques de sécurité</target>
         <note>key: policy.view.list.title</note>
-      </trans-unit>
-      <trans-unit id="bcb306dff55cc9a5c5b0277414dd1aab59c96176" resname="policy.view.list.title.count">
-        <source>Policies (%count%)</source>
-        <target state="translated">Politiques de sécurité (%count%)</target>
-        <note>key: policy.view.list.title.count</note>
       </trans-unit>
       <trans-unit id="9b1c2c53df24e9d0d141037860eb87d2878bdb05" resname="policy.view.policy.title">
         <source>Policy type:</source>
@@ -231,11 +226,6 @@
         <target state="translated">Nom</target>
         <note>key: role.view.list.column.name</note>
       </trans-unit>
-      <trans-unit id="a0c33e3728b23f13b825e36808834a6930551873" resname="role.view.list.title">
-        <source>Roles</source>
-        <target state="translated">Rôles</target>
-        <note>key: role.view.list.title</note>
-      </trans-unit>
       <trans-unit id="ed20cb1159498f2085d5df44b0d43c977abaa791" resname="role.view.view.title">
         <source>Role "%identifier%"</source>
         <target state="translated">Rôle «%identifier%»</target>
@@ -291,10 +281,10 @@
         <target state="translated">Utilisateur/groupe</target>
         <note>key: role_assignment.view.list.panel.assignments.column.user_group</note>
       </trans-unit>
-      <trans-unit id="4b3ecf13ffafd795bc971bc6292ea7f5a0bbe64c" resname="role_assignment.view.list.title.count">
-        <source>Assignments (%count%)</source>
-        <target state="translated">Assignation (%count%)</target>
-        <note>key: role_assignment.view.list.title.count</note>
+      <trans-unit id="b152833aa8e0248096e41ded7c2f10bb778e363b" resname="role_assignment.view.list.title">
+        <source>Assignments</source>
+        <target state="translated">Affectations</target>
+        <note>key: role_assignment.view.list.title</note>
       </trans-unit>
       <trans-unit id="ed6ad791e1da76394f851307e19efdabb22a1595" resname="role_assignment.view.select.groups">
         <source>Select User Groups</source>

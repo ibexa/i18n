@@ -22,8 +22,8 @@
         <note>key: language.create.success</note>
       </trans-unit>
       <trans-unit id="e71610c4106a78f22cb355ee1b1b56904e59ec9e" resname="language.creating">
-        <source>Creating</source>
-        <target state="translated">Création</target>
+        <source>Adding</source>
+        <target state="translated">Ajout en cours</target>
         <note>key: language.creating</note>
       </trans-unit>
       <trans-unit id="7c8fcdc1c11d3c1cf2a4380f440ef3d157b68c12" resname="language.delete.success">
@@ -91,14 +91,9 @@
         <target state="translated">Langues</target>
         <note>key: language.list</note>
       </trans-unit>
-      <trans-unit id="ce129521119cb2cd7bf10d1f95657390fb9cccfd" resname="language.list.number_of_results">
-        <source>List (%number_of_results%)</source>
-        <target state="translated">Liste (%number_of_results%)</target>
-        <note>key: language.list.number_of_results</note>
-      </trans-unit>
       <trans-unit id="2a52961302ce7dfa4a21c5e0bcc239f5a9a36cfe" resname="language.modal.message">
-        <source>Do you want to delete the language(s)?</source>
-        <target state="translated">Voulez-vous vraiment supprimer la ou les langue(s) ?</target>
+        <source>Delete the languages?</source>
+        <target state="translated">Supprimer les langues ?</target>
         <note>key: language.modal.message</note>
       </trans-unit>
       <trans-unit id="c0ccfb7e7bc6d434ca93e998637fe775ba4a2de0" resname="language.name">
@@ -117,9 +112,14 @@
         <note>key: language.new</note>
       </trans-unit>
       <trans-unit id="ed7e6b485737184b494f399ea010f537c9a741f5" resname="language.new.title">
-        <source>Creating a new language</source>
-        <target state="translated">Créer une nouvelle langue</target>
+        <source>New Language</source>
+        <target state="translated">Nouvelle langue</target>
         <note>key: language.new.title</note>
+      </trans-unit>
+      <trans-unit id="3b125675237475a6d5bef27ca92efd5fa734552b" resname="language.subtitle">
+        <source>Languages</source>
+        <target state="translated">Langues</target>
+        <note>key: language.subtitle</note>
       </trans-unit>
       <trans-unit id="fba43c054072899f63d3e09cfd9f0a07d8768234" resname="language.update.success">
         <source>Language '%name%' updated.</source>

@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="d08ac27baca6cb2d3a0fd16b5e877534bbb04aa9" resname="action_bar.action_btn.fields.title">
         <source>Fields</source>
-        <target state="needs-translation">Fields</target>
+        <target state="translated">Champs</target>
         <note>key: action_bar.action_btn.fields.title</note>
       </trans-unit>
       <trans-unit id="d26b774a53b05859274bc881ff26338791df7101" resname="infobar.content_name.default">
         <source>New landing page</source>
-        <target state="needs-translation">New landing page</target>
+        <target state="translated">Nouvelle page</target>
         <note>key: infobar.content_name.default</note>
       </trans-unit>
       <trans-unit id="6d037e40791b42019dc9de45a770945c4ec905cb" resname="infobar.form.error.message">
@@ -28,17 +28,17 @@
       </trans-unit>
       <trans-unit id="25f32c541336f865a36461a626f335a752c95a16" resname="infobar.page.layout.error.label">
         <source>The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</source>
-        <target state="needs-translation">The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</target>
+        <target state="translated">La mise en page de cette page n'est plus disponible et vous ne pouvez pas la publier. Veuillez sélectionner une mise en page différente.</target>
         <note>key: infobar.page.layout.error.label</note>
       </trans-unit>
       <trans-unit id="3cd2629de3e6baae6395f4a2e30702380db52c39" resname="infobar.timeline">
-        <source>Timeline</source>
-        <target state="translated">Chronologie</target>
+        <source>Schedule</source>
+        <target state="translated">Planifier</target>
         <note>key: infobar.timeline</note>
       </trans-unit>
       <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add">
-        <source>Add new translation</source>
-        <target state="translated">Ajouter une nouvelle traduction</target>
+        <source>Add translation</source>
+        <target state="translated">Ajouter une traduction</target>
         <note>key: infobar.translation.add</note>
       </trans-unit>
       <trans-unit id="60ccc34e85fea1e10d1340926cd10d2d692e75b3" resname="infobar.translation.no_fallback_language">
@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="c490c1cbc57823605f1e9a5a7fb8ac7c3e07262c" resname="menu_bar.close_btn.label">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">Fermer</target>
         <note>key: menu_bar.close_btn.label</note>
       </trans-unit>
       <trans-unit id="d1e0675bdb4ccf37ae0be5e65be934d74e0d19e6" resname="menu_bar.page_buider.label">
         <source>Page Builder</source>
-        <target state="needs-translation">Page Builder</target>
+        <target state="translated">Constructeur de page</target>
         <note>key: menu_bar.page_buider.label</note>
       </trans-unit>
     </body>

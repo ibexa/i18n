@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5545db232bd86319ec49973648fb5d0efa6794ad" resname="notification_email.data.empty">
         <source>-</source>
-        <target state="needs-translation">-</target>
+        <target state="translated">-</target>
         <note>key: notification_email.data.empty</note>
       </trans-unit>
       <trans-unit id="5e3b0ae0b553effddeea6f015e2803051524b41f" resname="notification_email.data.header.field">

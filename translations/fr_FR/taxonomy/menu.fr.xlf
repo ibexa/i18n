@@ -6,29 +6,24 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="c2a45b6467f0540eabe9f8ab2f93ee40dc81503d" resname="taxonomy_context__copy">
-        <source>Copy</source>
-        <target state="needs-translation">Copy</target>
-        <note>key: taxonomy_context__copy</note>
-      </trans-unit>
       <trans-unit id="157d0d237cf4695bc0394d69309b658234aa5ca3" resname="taxonomy_context__create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Créer</target>
         <note>key: taxonomy_context__create</note>
       </trans-unit>
       <trans-unit id="a1f5b9d3848851f6ee132d59981dde6bf7fa3ee4" resname="taxonomy_context__delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Supprimer</target>
         <note>key: taxonomy_context__delete</note>
       </trans-unit>
       <trans-unit id="70a172e27ea2f9ea6f9d88cfbfb7c3543b04f124" resname="taxonomy_context__edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: taxonomy_context__edit</note>
       </trans-unit>
       <trans-unit id="cd11464fc57338bb1fc528b219285efa3ab7a5b1" resname="taxonomy_context__move">
         <source>Move</source>
-        <target state="needs-translation">Move</target>
+        <target state="translated">Déplacer</target>
         <note>key: taxonomy_context__move</note>
       </trans-unit>
     </body>

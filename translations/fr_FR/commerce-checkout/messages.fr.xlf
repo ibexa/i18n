@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="3e18361540b6479942c0d50d74ce2def3025fae4" resname="Add a comment">
         <source>Add a comment</source>
-        <target state="needs-translation">Add a comment</target>
+        <target state="translated">Ajouter un commentaire</target>
         <note>key: Add a comment</note>
       </trans-unit>
       <trans-unit id="531e5c229e541de937c09d780f8d9b872c1cb788" resname="Add products to stored basket">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="7d7f408d7c2f5a7b086f59c33d239dbfeb4f78c5" resname="Browse...">
         <source>Browse...</source>
-        <target state="needs-translation">Browse...</target>
+        <target state="translated">Parcourir...</target>
         <note>key: Browse...</note>
       </trans-unit>
       <trans-unit id="3ac8e9e58c5abaddbf9d265d4965b9b8f0a3b787" resname="Checkout">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="1f63936b6c4cd6daac3f49f931bccdbe8736648b" resname="Delivery Address">
         <source>Delivery Address</source>
-        <target state="needs-translation">Delivery Address</target>
+        <target state="translated">Adresse de livraison</target>
         <note>key: Delivery Address</note>
       </trans-unit>
       <trans-unit id="ab2129b396fd2e0d481d6742801a8c01482b2478" resname="Delivery and invoice address are the same">

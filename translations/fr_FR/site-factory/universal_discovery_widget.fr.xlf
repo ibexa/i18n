@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5b8a9a5fceb4991b77b50983c34df8a18a900a09" resname="select_location.error">
         <source>Cannot find children Locations with ID %idList%</source>
-        <target state="needs-translation">Cannot find children Locations with ID %idList%</target>
+        <target state="translated">Impossible de trouver des emplacements enfants avec l'ID %idList%</target>
         <note>key: select_location.error</note>
       </trans-unit>
     </body>

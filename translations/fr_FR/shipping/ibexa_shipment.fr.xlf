@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="26b5c5064adb7527f9774ae3ea7eef3a8709134b" resname="ibexa.shipment.summary.created.label">
+        <source>Created</source>
+        <target state="translated">Date de création</target>
+        <note>key: ibexa.shipment.summary.created.label</note>
+      </trans-unit>
+      <trans-unit id="906e072d68e6e85ead728cd1c73e47b4e1301368" resname="ibexa.shipment.summary.go_to_details">
+        <source>Go to details</source>
+        <target state="translated">Voir les détails</target>
+        <note>key: ibexa.shipment.summary.go_to_details</note>
+      </trans-unit>
+      <trans-unit id="b806860630f8539b52368e36419778348193c96f" resname="ibexa.shipment.summary.method.label">
+        <source>Shipment method</source>
+        <target state="translated">Mode de livraison</target>
+        <note>key: ibexa.shipment.summary.method.label</note>
+      </trans-unit>
+      <trans-unit id="ae7b63f5f1410a961dd586a35d6508a44e7bc75c" resname="ibexa.shipment.summary.status.label">
+        <source>Status</source>
+        <target state="translated">Statut</target>
+        <note>key: ibexa.shipment.summary.status.label</note>
+      </trans-unit>
+      <trans-unit id="0865872588ef0352dffc8c11f848ee07e2cc0bee" resname="ibexa.shipment.summary.updated.label">
+        <source>Updated</source>
+        <target state="translated">Mis à jour</target>
+        <note>key: ibexa.shipment.summary.updated.label</note>
+      </trans-unit>
+      <trans-unit id="bbd52fcfa2661eacbdabf1ff63518d146164734a" resname="ibexa.state.transition.modal.transition.body">
+        <source>Are you sure you want to change the shipment status to %status%?</source>
+        <target state="translated">Êtes-vous sûr de vouloir changer le statut de livraison à %status%?</target>
+        <note>key: ibexa.state.transition.modal.transition.body</note>
+      </trans-unit>
+      <trans-unit id="ce713870f98dc3a86773bc380239e68aebb2d605" resname="order.tab.summary.shipment.details.headline">
+        <source>Shipment</source>
+        <target state="translated">Livraison</target>
+        <note>key: order.tab.summary.shipment.details.headline</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

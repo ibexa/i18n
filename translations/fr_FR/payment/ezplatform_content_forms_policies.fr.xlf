@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="650d542741c17c1f5dc3ab825b4001db00c8781a" resname="policy.limitation.identifier.paymentowner">
+        <source>Payment Owner</source>
+        <target state="translated">Propriétaire du paiement</target>
+        <note>key: policy.limitation.identifier.paymentowner</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

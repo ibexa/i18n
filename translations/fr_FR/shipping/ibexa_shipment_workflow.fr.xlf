@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="fa2eead2e447546a080e31b95ec46afa67f4872d" resname="ibexa.shipment.workflow.button.cancel.label">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: ibexa.shipment.workflow.button.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="6fbcd5e5dd996352a827762904cbf58a141ef832" resname="ibexa.shipment.workflow.button.deliver.label">
+        <source>Deliver</source>
+        <target state="translated">Livrer</target>
+        <note>key: ibexa.shipment.workflow.button.deliver.label</note>
+      </trans-unit>
+      <trans-unit id="df77c5321d0e544c78780f8e94ffadf95e992fdf" resname="ibexa.shipment.workflow.button.prepare.label">
+        <source>Prepare</source>
+        <target state="translated">Préparer</target>
+        <note>key: ibexa.shipment.workflow.button.prepare.label</note>
+      </trans-unit>
+      <trans-unit id="b00ca69a150d7290b57cf0679f96aedfb2b34f9c" resname="ibexa.shipment.workflow.button.send.label">
+        <source>Send</source>
+        <target state="translated">Envoyer</target>
+        <note>key: ibexa.shipment.workflow.button.send.label</note>
+      </trans-unit>
+      <trans-unit id="8420e72c55be595373211477236b644e7dbd4a6b" resname="ibexa.shipment.workflow.place.cancelled.label">
+        <source>Cancelled</source>
+        <target state="translated">Annulé</target>
+        <note>key: ibexa.shipment.workflow.place.cancelled.label</note>
+      </trans-unit>
+      <trans-unit id="2cefba089a4871b220a7e20de0902678f208ac4f" resname="ibexa.shipment.workflow.place.delivered.label">
+        <source>Delivered</source>
+        <target state="translated">Livré</target>
+        <note>key: ibexa.shipment.workflow.place.delivered.label</note>
+      </trans-unit>
+      <trans-unit id="0287f8974bbb0eb004aba7effed3ee99f138f2c2" resname="ibexa.shipment.workflow.place.pending.label">
+        <source>Pending</source>
+        <target state="translated">En attente</target>
+        <note>key: ibexa.shipment.workflow.place.pending.label</note>
+      </trans-unit>
+      <trans-unit id="2c7bcb6ac788c905a2f56194277f7cfbab7c56ff" resname="ibexa.shipment.workflow.place.ready_to_ship.label">
+        <source>Ready to ship</source>
+        <target state="translated">Prête à expédier</target>
+        <note>key: ibexa.shipment.workflow.place.ready_to_ship.label</note>
+      </trans-unit>
+      <trans-unit id="ac4f0ada37935eced231d73fb3c6c5e518f87c19" resname="ibexa.shipment.workflow.place.shipped.label">
+        <source>Shipped</source>
+        <target state="translated">Expédié</target>
+        <note>key: ibexa.shipment.workflow.place.shipped.label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
