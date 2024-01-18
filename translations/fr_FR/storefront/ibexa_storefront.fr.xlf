@@ -258,237 +258,237 @@
       </trans-unit>
       <trans-unit id="2d34056361f9281583645a15ee53d7e8c0787f0d" resname="order.detail.details.title">
         <source>Details</source>
-        <target state="needs-translation">Details</target>
+        <target state="translated">Détails</target>
         <note>key: order.detail.details.title</note>
       </trans-unit>
       <trans-unit id="76275a4970e73439b299b17ea77d82ddfe95b888" resname="order.detail.items.column.code">
         <source>Code</source>
-        <target state="needs-translation">Code</target>
+        <target state="translated">Code</target>
         <note>key: order.detail.items.column.code</note>
       </trans-unit>
       <trans-unit id="5b6795a8e002e0d1bb3fb9724adc62873eb742a7" resname="order.detail.items.column.product_name">
         <source>Product name</source>
-        <target state="needs-translation">Product name</target>
+        <target state="translated">Nom du produit</target>
         <note>key: order.detail.items.column.product_name</note>
       </trans-unit>
       <trans-unit id="4e36ae0e8129c481eba1c78638e464867e14dc6a" resname="order.detail.items.column.quantity">
         <source>Quantity</source>
-        <target state="needs-translation">Quantity</target>
+        <target state="translated">Quantité</target>
         <note>key: order.detail.items.column.quantity</note>
       </trans-unit>
       <trans-unit id="d734512aff048e93b28356a8e72ce71598645b2b" resname="order.detail.items.column.subtotal_gross">
         <source>Subtotal gross</source>
-        <target state="needs-translation">Subtotal gross</target>
+        <target state="translated">Sous-total brut</target>
         <note>key: order.detail.items.column.subtotal_gross</note>
       </trans-unit>
       <trans-unit id="5ec27e02fb4d6295cddf35a8878dfc353dee794b" resname="order.detail.items.column.subtotal_net">
         <source>Subtotal net</source>
-        <target state="needs-translation">Subtotal net</target>
+        <target state="translated">Sous-total net</target>
         <note>key: order.detail.items.column.subtotal_net</note>
       </trans-unit>
       <trans-unit id="0238ea5d1520f36fecd722486b0b9cf90f555263" resname="order.detail.items.column.tax">
         <source>Tax</source>
-        <target state="needs-translation">Tax</target>
+        <target state="translated">Taxe</target>
         <note>key: order.detail.items.column.tax</note>
       </trans-unit>
       <trans-unit id="8c2e3eecaf1efd522454e3d7f57bb67b5cfa4452" resname="order.detail.items.column.unit_price_gross">
         <source>Unit price gross</source>
-        <target state="needs-translation">Unit price gross</target>
+        <target state="translated">Prix unitaire brut</target>
         <note>key: order.detail.items.column.unit_price_gross</note>
       </trans-unit>
       <trans-unit id="0031096741351605287d749418b2dd5dd4c55bae" resname="order.detail.items.column.unit_price_net">
         <source>Unit price net</source>
-        <target state="needs-translation">Unit price net</target>
+        <target state="translated">Prix unitaire net</target>
         <note>key: order.detail.items.column.unit_price_net</note>
       </trans-unit>
       <trans-unit id="743bee0704086e7bb2df9decf914b56de212ef1c" resname="order.detail.items.title">
         <source>Products</source>
-        <target state="needs-translation">Products</target>
+        <target state="translated">Produits</target>
         <note>key: order.detail.items.title</note>
       </trans-unit>
       <trans-unit id="4f645f67c1a87843efe3b9262e7a35d4ba4e9a2f" resname="order.detail.price_details.shipping_cost.label">
         <source>Shipping cost</source>
-        <target state="needs-translation">Shipping cost</target>
+        <target state="translated">Frais de livraison</target>
         <note>key: order.detail.price_details.shipping_cost.label</note>
       </trans-unit>
       <trans-unit id="f2fd74f39058c7a3689a4dbb4df5e22a06d8b96a" resname="order.detail.price_details.subtotal_net.label">
         <source>Subtotal (net)</source>
-        <target state="needs-translation">Subtotal (net)</target>
+        <target state="translated">Sous-total (net)</target>
         <note>key: order.detail.price_details.subtotal_net.label</note>
       </trans-unit>
       <trans-unit id="f5e3a5cf34e7e76bfc676aa6292278d52d448ab0" resname="order.detail.price_details.tax.label">
         <source>Tax</source>
-        <target state="needs-translation">Tax</target>
+        <target state="translated">Taxe</target>
         <note>key: order.detail.price_details.tax.label</note>
       </trans-unit>
       <trans-unit id="fcda60175465d1515ec89d68e637be93dc47b8cf" resname="order.detail.price_details.title">
         <source>Price details</source>
-        <target state="needs-translation">Price details</target>
+        <target state="translated">Détails du prix</target>
         <note>key: order.detail.price_details.title</note>
       </trans-unit>
       <trans-unit id="6074aa1b1d17f09c8499102fbd160c7fac36b8e9" resname="order.detail.price_details.total_value.label">
         <source>Total value</source>
-        <target state="needs-translation">Total value</target>
+        <target state="translated">Valeur totale</target>
         <note>key: order.detail.price_details.total_value.label</note>
       </trans-unit>
       <trans-unit id="a7d013edd76a0d154b9482cf99ca93e542f84fc7" resname="order.detail.reorder.btn">
         <source>Reorder</source>
-        <target state="needs-translation">Reorder</target>
+        <target state="translated">Réordonner</target>
         <note>key: order.detail.reorder.btn</note>
       </trans-unit>
       <trans-unit id="ecd2fcfcf901b67113e7bc8b7b5fd902645c96e8" resname="order.detail.title">
         <source>Order #%identifier%</source>
-        <target state="needs-translation">Order #%identifier%</target>
+        <target state="translated">Commande n°%identifier%</target>
         <note>key: order.detail.title</note>
       </trans-unit>
       <trans-unit id="936763ac64ca68a62d68d780f443e24831922202" resname="order.filter.label.created_at">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Créé</target>
         <note>key: order.filter.label.created_at</note>
       </trans-unit>
       <trans-unit id="64dece24d070c1563dc2df7baef2741f311a64cb" resname="order.filter.label.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: order.filter.label.status</note>
       </trans-unit>
       <trans-unit id="c807e3d7374ec5a2669393dddd2c19e549533cab" resname="order.filter.placeholder">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Tous</target>
         <note>key: order.filter.placeholder</note>
       </trans-unit>
       <trans-unit id="c1bf1a488a203c5c330e11042b2232920c508453" resname="order.list.column.created">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Créé</target>
         <note>key: order.list.column.created</note>
       </trans-unit>
       <trans-unit id="c12c5989d701900dd99f78a27b38e83416cf5d3a" resname="order.list.column.identifier">
         <source>Order ID</source>
-        <target state="needs-translation">Order ID</target>
+        <target state="translated">ID de commande</target>
         <note>key: order.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="dc390226a57b139225bbee232fa5efee1df0e45d" resname="order.list.column.order_status">
         <source>Order status</source>
-        <target state="needs-translation">Order status</target>
+        <target state="translated">Statut de la commande</target>
         <note>key: order.list.column.order_status</note>
       </trans-unit>
       <trans-unit id="9bb30a6051fe6f3b67aa8eb2d7634ad8569572f0" resname="order.list.column.total_value">
         <source>Total value</source>
-        <target state="needs-translation">Total value</target>
+        <target state="translated">Valeur totale</target>
         <note>key: order.list.column.total_value</note>
       </trans-unit>
       <trans-unit id="0dd2ecc7edb551b3817dd0870d6905432b8d0697" resname="order.list.column.unique_items">
         <source>Unique items</source>
-        <target state="needs-translation">Unique items</target>
+        <target state="translated">Éléments uniques</target>
         <note>key: order.list.column.unique_items</note>
       </trans-unit>
       <trans-unit id="2fe66bcf7d3176c08af55b2002908e99fb8c80e7" resname="order.list.filters.query.placeholder">
         <source>Search by order ID</source>
-        <target state="needs-translation">Search by order ID</target>
+        <target state="translated">Recherche par ID de commande</target>
         <note>key: order.list.filters.query.placeholder</note>
       </trans-unit>
       <trans-unit id="e423f0f9a21b8db369a5e5812290ffd7870f2341" resname="order.list.no_orders.action_text">
         <source>When you place your first order, it will appear here.</source>
-        <target state="needs-translation">When you place your first order, it will appear here.</target>
+        <target state="translated">Lorsque vous passez votre première commande, elle apparaîtra ici.</target>
         <note>key: order.list.no_orders.action_text</note>
       </trans-unit>
       <trans-unit id="df44ae65dc45fd0aa38d5d39e9bf9f410251576d" resname="order.list.no_orders.info_text">
         <source>No orders yet</source>
-        <target state="needs-translation">No orders yet</target>
+        <target state="translated">Pas encore de commandes</target>
         <note>key: order.list.no_orders.info_text</note>
       </trans-unit>
       <trans-unit id="c732ca5d859e4c7d8b1d8271b6709a12ce3adee6" resname="order.list.no_search_results.action_text">
         <source>Try again with new search criteria.</source>
-        <target state="needs-translation">Try again with new search criteria.</target>
+        <target state="translated">Réessayez avec de nouveaux critères de recherche.</target>
         <note>key: order.list.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="4c39dd26f41eec8ded6c157165400fa2a77f5e78" resname="order.list.no_search_results.info_text">
         <source>Sorry, there are no orders for your search</source>
-        <target state="needs-translation">Sorry, there are no orders for your search</target>
+        <target state="translated">Désolé, il n'y a pas de lignes pour votre recherche</target>
         <note>key: order.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="732d66bad97d7f2742b453dcc806b6a12eeb7642" resname="order.list.reorder.btn">
         <source>Reorder</source>
-        <target state="needs-translation">Reorder</target>
+        <target state="translated">Réordonner</target>
         <note>key: order.list.reorder.btn</note>
       </trans-unit>
       <trans-unit id="8359954d0c874b1639ec1ce162c254b24a56581d" resname="order.list.title">
         <source>Orders</source>
-        <target state="needs-translation">Orders</target>
+        <target state="translated">Commandes</target>
         <note>key: order.list.title</note>
       </trans-unit>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
         <source>%file_name% added</source>
-        <target state="needs-translation">%file_name% added</target>
+        <target state="translated">%file_name% ajouté</target>
         <note>key: pagination.viewing</note>
       </trans-unit>
       <trans-unit id="3cfe75ff79c46f043f991ce35ab18415d28fc9b2" resname="product.sort_clause.created_at_asc">
         <source>Oldest</source>
-        <target state="needs-translation">Oldest</target>
+        <target state="translated">Plus ancien</target>
         <note>key: product.sort_clause.created_at_asc</note>
       </trans-unit>
       <trans-unit id="4616b2dff02a6f8d4f8ed24672b5a46c8797e55c" resname="product.sort_clause.created_at_desc">
         <source>Newest</source>
-        <target state="needs-translation">Newest</target>
+        <target state="translated">Plus récent</target>
         <note>key: product.sort_clause.created_at_desc</note>
       </trans-unit>
       <trans-unit id="2bb0ac949cf75d80ac39a7b6f614ba75ce7be6da" resname="product.sort_clause.name_asc">
         <source>Name A-Z</source>
-        <target state="needs-translation">Name A-Z</target>
+        <target state="translated">Nom de A à Z</target>
         <note>key: product.sort_clause.name_asc</note>
       </trans-unit>
       <trans-unit id="896f0b4cbf788ed4079cfee3fd8ce9e671a38a06" resname="product.sort_clause.name_desc">
         <source>Name Z-A</source>
-        <target state="needs-translation">Name Z-A</target>
+        <target state="translated">Nom de Z à A</target>
         <note>key: product.sort_clause.name_desc</note>
       </trans-unit>
       <trans-unit id="b239dc19446839d1533d70efba9ec14acebe0248" resname="product.variant.choice.select_variant_placeholder">
         <source>Select variant...</source>
-        <target state="needs-translation">Select variant...</target>
+        <target state="translated">Choisir une variante...</target>
         <note>key: product.variant.choice.select_variant_placeholder</note>
       </trans-unit>
       <trans-unit id="aecedc57ec948d6ac88962bb890429b259dc976a" resname="quick_order.file.add_btn.label">
         <source>Add your file</source>
-        <target state="needs-translation">Add your file</target>
+        <target state="translated">Ajouter votre fichier</target>
         <note>key: quick_order.file.add_btn.label</note>
       </trans-unit>
       <trans-unit id="102133ac7229b88f70914ae3fd184a64d1a7e38b" resname="quick_order.file.description">
         <source>Drag and drop  your own XLS, XLSX or CSV file and add products to cart.</source>
-        <target state="needs-translation">Drag and drop  your own XLS, XLSX or CSV file and add products to cart.</target>
+        <target state="translated">Glissez et déposez votre propre fichier XLS, XLSX ou CSV et ajoutez des produits au panier.</target>
         <note>key: quick_order.file.description</note>
       </trans-unit>
       <trans-unit id="2d899cce15da0017066d1c4a137c16fd86932d9a" resname="quick_order.file.headline">
         <source>Add your order</source>
-        <target state="needs-translation">Add your order</target>
+        <target state="translated">Ajouter votre commande</target>
         <note>key: quick_order.file.headline</note>
       </trans-unit>
       <trans-unit id="90af2fbf836143131b87287114e65cc78a62d1ca" resname="quick_order.file.max_size">
         <source>Max file size: %max_file_size%</source>
-        <target state="needs-translation">Max file size: %max_file_size%</target>
+        <target state="translated">Taille maximale du fichier : %max_file_size%</target>
         <note>key: quick_order.file.max_size</note>
       </trans-unit>
       <trans-unit id="b97a064b6c5327c78cf77b876e56198249433a0e" resname="quick_order.file.template.link">
         <source>Download sample csv file</source>
-        <target state="needs-translation">Download sample csv file</target>
+        <target state="translated">Télécharger l'exemple de fichier csv</target>
         <note>key: quick_order.file.template.link</note>
       </trans-unit>
       <trans-unit id="28953e338f4e8aa4e032befea0566f058df7c6c5" resname="quick_order.header">
         <source>Quick order</source>
-        <target state="needs-translation">Quick order</target>
+        <target state="translated">Commande rapide</target>
         <note>key: quick_order.header</note>
       </trans-unit>
       <trans-unit id="4f69a8795fcc58e62d174fb5872703f14ebad4bc" resname="quick_order.success">
         <source>All products entered in Quick order have been added successfully.</source>
-        <target state="needs-translation">All products entered in Quick order have been added successfully.</target>
+        <target state="translated">Tous les produits entrés dans l'ordre rapide ont été ajoutés avec succès.</target>
         <note>key: quick_order.success</note>
       </trans-unit>
       <trans-unit id="0a43a5c7cc8a874fa6f7699914940389f79cef65" resname="user.setting.currency.description">
         <source>Default currency</source>
-        <target state="needs-translation">Default currency</target>
+        <target state="translated">Devise par défaut</target>
         <note>key: user.setting.currency.description</note>
       </trans-unit>
       <trans-unit id="0a96c12b4985f63dae4addb88a46d40ea2d7086d" resname="user.setting.currency.name">
         <source>Currency</source>
-        <target state="needs-translation">Currency</target>
+        <target state="translated">Devise</target>
         <note>key: user.setting.currency.name</note>
       </trans-unit>
     </body>
