@@ -258,252 +258,252 @@
       </trans-unit>
       <trans-unit id="f270a049c00e0652d67761dc484eb19056e3570d" resname="ibexa.shipping_method.breadcrumb.list">
         <source>Shipping methods</source>
-        <target state="needs-translation">Shipping methods</target>
+        <target state="translated">Modes de livraison</target>
         <note>key: ibexa.shipping_method.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="843de7068203a9c4bfdd524e94ba3fc503b54c5b" resname="ibexa.shipping_method.breadcrumb.view">
         <source>%shipping_method_name%</source>
-        <target state="needs-translation">%shipping_method_name%</target>
+        <target state="translated">%shipping_method_name%</target>
         <note>key: ibexa.shipping_method.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="f85f6bae7efe52a66b236597236504da9aef7aa7" resname="ibexa.shipping_method.create.region_help">
         <source>Only regions with VAT categories assigned are displayed here.</source>
-        <target state="needs-translation">Only regions with VAT categories assigned are displayed here.</target>
+        <target state="translated">Seules les régions avec des catégories de TVA attribuées sont affichées ici.</target>
         <note>key: ibexa.shipping_method.create.region_help</note>
       </trans-unit>
       <trans-unit id="e7963318cf7322707eabcca1bda335cfeb690722" resname="ibexa.shipping_method.delete.success">
         <source>Shipping method '%name%' removed.</source>
-        <target state="needs-translation">Shipping method '%name%' removed.</target>
+        <target state="translated">Le mode de livraison '%name%' a été supprimé.</target>
         <note>key: ibexa.shipping_method.delete.success</note>
       </trans-unit>
       <trans-unit id="e648b559076473d666baaa36d27cc5fe3f2d9267" resname="ibexa.shipping_method.edit.action_name">
         <source>Editing %shipping_method_type% shipping method</source>
-        <target state="needs-translation">Editing %shipping_method_type% shipping method</target>
+        <target state="translated">Modification du mode d'expédition %shipping_method_type%</target>
         <note>key: ibexa.shipping_method.edit.action_name</note>
       </trans-unit>
       <trans-unit id="a326968dea31a7f52a204a6dd9f9e6691674a154" resname="ibexa.shipping_method.edit.subtitle">
         <source>in %language_name%</source>
-        <target state="needs-translation">in %language_name%</target>
+        <target state="translated">en %language_name%</target>
         <note>key: ibexa.shipping_method.edit.subtitle</note>
       </trans-unit>
       <trans-unit id="e5ba72c3f9474982ed744c50148235c44ae3db06" resname="ibexa.shipping_method.enabled.label">
         <source>Availability</source>
-        <target state="needs-translation">Availability</target>
+        <target state="translated">Disponibilité</target>
         <note>key: ibexa.shipping_method.enabled.label</note>
       </trans-unit>
       <trans-unit id="fe6e32f608ccec8a8543510d48a4464668e3904d" resname="ibexa.shipping_method.flat_rate.cost.label">
         <source>Cost value</source>
-        <target state="needs-translation">Cost value</target>
+        <target state="translated">Valeur économique</target>
         <note>key: ibexa.shipping_method.flat_rate.cost.label</note>
       </trans-unit>
       <trans-unit id="ff287f3f717bb356bd9f5f92e56e9712f6cd6917" resname="ibexa.shipping_method.flat_rate.help">
         <source>You can choose from activated currencies</source>
-        <target state="needs-translation">You can choose from activated currencies</target>
+        <target state="translated">Vous pouvez choisir parmi les devises activées</target>
         <note>key: ibexa.shipping_method.flat_rate.help</note>
       </trans-unit>
       <trans-unit id="8b97f845b637993f30b805e581c27fabb3696c2b" resname="ibexa.shipping_method.free.cost.label">
         <source>Minimum order value</source>
-        <target state="needs-translation">Minimum order value</target>
+        <target state="translated">Montant de commande minimum</target>
         <note>key: ibexa.shipping_method.free.cost.label</note>
       </trans-unit>
       <trans-unit id="9e1629dfb639af92c479a2381baaf927ce9b3590" resname="ibexa.shipping_method.free.cost.prefix">
         <source>Limit Free shipping to orders over</source>
-        <target state="needs-translation">Limit Free shipping to orders over</target>
+        <target state="translated">Limiter l'expédition gratuite aux commandes passées</target>
         <note>key: ibexa.shipping_method.free.cost.prefix</note>
       </trans-unit>
       <trans-unit id="b5c6da9e5dce74e7f5f471faeac5c0f87d1ee76c" resname="ibexa.shipping_method.free.help">
         <source>You can choose from activated currencies</source>
-        <target state="needs-translation">You can choose from activated currencies</target>
+        <target state="translated">Vous pouvez choisir parmi les devises activées</target>
         <note>key: ibexa.shipping_method.free.help</note>
       </trans-unit>
       <trans-unit id="50eea9b159190b3a7626e5672bb0f373f4ea825c" resname="ibexa.shipping_method.list.title">
         <source>Shipping methods</source>
-        <target state="needs-translation">Shipping methods</target>
+        <target state="translated">Modes de livraison</target>
         <note>key: ibexa.shipping_method.list.title</note>
       </trans-unit>
       <trans-unit id="5a09a59762576b53b33ef692b19fcbb9c7ef1ce2" resname="ibexa.shipping_method.new.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Création</target>
         <note>key: ibexa.shipping_method.new.action_name</note>
       </trans-unit>
       <trans-unit id="974c0f614a0701980a63224525cec4a3c0b0661c" resname="ibexa.shipping_method.new.subtitle">
         <source>in %language_name%</source>
-        <target state="needs-translation">in %language_name%</target>
+        <target state="translated">en %language_name%</target>
         <note>key: ibexa.shipping_method.new.subtitle</note>
       </trans-unit>
       <trans-unit id="d0b1a1b15b8222c6917f4f4c161ecf466a366f92" resname="ibexa.shipping_method.new.title">
         <source>New %shipping_method_type_name% shipping method</source>
-        <target state="needs-translation">New %shipping_method_type_name% shipping method</target>
+        <target state="translated">Nouvelle méthode d'expédition %shipping_method_type_name%</target>
         <note>key: ibexa.shipping_method.new.title</note>
       </trans-unit>
       <trans-unit id="ff8015f74f055803fcd5cd4df62c527df8207a91" resname="ibexa.shipping_method.pre_create.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Ajouter</target>
         <note>key: ibexa.shipping_method.pre_create.add</note>
       </trans-unit>
       <trans-unit id="7ccd7e32f3dd09437c12f3d07dd314f4e7c8f503" resname="ibexa.shipping_method.pre_create.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: ibexa.shipping_method.pre_create.cancel</note>
       </trans-unit>
       <trans-unit id="0b6c5e4e942f0072eb1af02dcd7a5aa001b86046" resname="ibexa.shipping_method.pre_create.title">
         <source>Create shipping method</source>
-        <target state="needs-translation">Create shipping method</target>
+        <target state="translated">Créer un mode de livraison</target>
         <note>key: ibexa.shipping_method.pre_create.title</note>
       </trans-unit>
       <trans-unit id="db499466297a5b035efe3289bda03bd98243e5eb" resname="ibexa.shipping_method.type.label">
         <source>Method type</source>
-        <target state="needs-translation">Method type</target>
+        <target state="translated">Type de méthode</target>
         <note>key: ibexa.shipping_method.type.label</note>
       </trans-unit>
       <trans-unit id="2512f1ebc6577259bc1d8b9da0d1e93e8112a175" resname="ibexa.shipping_method.view.tab.cost.cost_value">
         <source>Cost value</source>
-        <target state="needs-translation">Cost value</target>
+        <target state="translated">Valeur économique</target>
         <note>key: ibexa.shipping_method.view.tab.cost.cost_value</note>
       </trans-unit>
       <trans-unit id="348f3671fac66f381c45ab4267f7b62217bff3b9" resname="ibexa.shipping_method.view.tab.cost.vat_category">
         <source>Vat category</source>
-        <target state="needs-translation">Vat category</target>
+        <target state="translated">Catégorie de TVA</target>
         <note>key: ibexa.shipping_method.view.tab.cost.vat_category</note>
       </trans-unit>
       <trans-unit id="657e9862cb3965a7481261ad00936f6fe0617cd9" resname="ibexa.shipping_method.view.tab.global_properties.description">
         <source>Description</source>
-        <target state="needs-translation">Description</target>
+        <target state="translated">Description</target>
         <note>key: ibexa.shipping_method.view.tab.global_properties.description</note>
       </trans-unit>
       <trans-unit id="2a4372309d60c2c36e420b5e5f3dd73cc8e2bcde" resname="ibexa.shipping_method.view.tab.global_properties.identifier">
         <source>Identifier</source>
-        <target state="needs-translation">Identifier</target>
+        <target state="translated">Identifiant</target>
         <note>key: ibexa.shipping_method.view.tab.global_properties.identifier</note>
       </trans-unit>
       <trans-unit id="de1a61bdff1d27f0691df8065bd00afe49a6baf4" resname="ibexa.shipping_method.view.tab.global_properties.label">
         <source>Global properties</source>
-        <target state="needs-translation">Global properties</target>
+        <target state="translated">Propriétés globales</target>
         <note>key: ibexa.shipping_method.view.tab.global_properties.label</note>
       </trans-unit>
       <trans-unit id="7f4097547f05d4cc04dee933f99a8bc749d7fe82" resname="ibexa.shipping_method.view.tab.global_properties.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nom</target>
         <note>key: ibexa.shipping_method.view.tab.global_properties.name</note>
       </trans-unit>
       <trans-unit id="f3dd216dde237977043d92089b9a41ee5149ac54" resname="ibexa.shipping_method.view.tab.global_properties.region">
         <source>Region</source>
-        <target state="needs-translation">Region</target>
+        <target state="translated">Région</target>
         <note>key: ibexa.shipping_method.view.tab.global_properties.region</note>
       </trans-unit>
       <trans-unit id="3d84661ca423ff2c7496b563ae726cf678099a54" resname="ibexa.shipping_method.view.title">
         <source>%shipping_method_name% shipping method</source>
-        <target state="needs-translation">%shipping_method_name% shipping method</target>
+        <target state="translated">Méthode d'expédition %shipping_method_name%</target>
         <note>key: ibexa.shipping_method.view.title</note>
       </trans-unit>
       <trans-unit id="15eb571018a813c9ec4edde1cfc068334b022a63" resname="ibexa.shipping_types.flat_rate.name">
         <source>Flat rate</source>
-        <target state="needs-translation">Flat rate</target>
+        <target state="translated">Taux forfaitaire</target>
         <note>key: ibexa.shipping_types.flat_rate.name</note>
       </trans-unit>
       <trans-unit id="fa6bd0d474279372887569496144e9b4b72c459d" resname="ibexa.shipping_types.free.name">
         <source>Free shipping</source>
-        <target state="needs-translation">Free shipping</target>
+        <target state="translated">Livraison gratuite</target>
         <note>key: ibexa.shipping_types.free.name</note>
       </trans-unit>
       <trans-unit id="9bca9a160ee6cbac69bde2db23b051d6dbd88a89" resname="ibexa_shipping_method_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="needs-translation">Remove translation</target>
+        <target state="translated">Supprimer la traduction</target>
         <note>key: ibexa_shipping_method_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="af1fe0120398e5165f0b88a937a41a4944c04b31" resname="modal.state.transition.cancel.label">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: modal.state.transition.cancel.label</note>
       </trans-unit>
       <trans-unit id="00fd5128d6e7babee89951d351293cd1ceea2aba" resname="modal.state.transition.change.label">
         <source>Change</source>
-        <target state="needs-translation">Change</target>
+        <target state="translated">Changer</target>
         <note>key: modal.state.transition.change.label</note>
       </trans-unit>
       <trans-unit id="4d67ad5d865268fa2e46b11583e258ac67e739a2" resname="modal.state.transition.confirm_message">
         <source>Are you sure you want to change shipment status?</source>
-        <target state="needs-translation">Are you sure you want to change shipment status?</target>
+        <target state="translated">Êtes-vous sûr de vouloir changer le statut du paiement ?</target>
         <note>key: modal.state.transition.confirm_message</note>
       </trans-unit>
       <trans-unit id="455d880856d81c36703e91d83d3755ce00ed4c76" resname="policy.limitation.shipmentowner.self">
         <source>Self</source>
-        <target state="needs-translation">Self</target>
+        <target state="translated">Soi-même</target>
         <note>key: policy.limitation.shipmentowner.self</note>
       </trans-unit>
       <trans-unit id="2cd9af7f7dc729ea116360503f71dfb0c2440a14" resname="shipment.search.created_at.label">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Créé</target>
         <note>key: shipment.search.created_at.label</note>
       </trans-unit>
       <trans-unit id="8fc3cea372266fe0cdf827b3b38ad194267c1fd3" resname="shipment.search.shipping_methods.label">
         <source>Shipping method</source>
-        <target state="needs-translation">Shipping method</target>
+        <target state="translated">Mode de livraison</target>
         <note>key: shipment.search.shipping_methods.label</note>
       </trans-unit>
       <trans-unit id="11e97fec17ee8f8ebc87d71e3838c338acc33741" resname="shipment.search.statuses.label">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: shipment.search.statuses.label</note>
       </trans-unit>
       <trans-unit id="311dafa1931069f48774b7fee6f5029b8449eba2" resname="shipment.search.updated_at.label">
         <source>Updated</source>
-        <target state="needs-translation">Updated</target>
+        <target state="translated">Mis à jour</target>
         <note>key: shipment.search.updated_at.label</note>
       </trans-unit>
       <trans-unit id="3f9430b1f37a2b576484b76d551b31c091d1b7f7" resname="shipment.tab.summary.customer_details.details.company_name.label">
         <source>Company name</source>
-        <target state="needs-translation">Company name</target>
+        <target state="translated">Nom de la société</target>
         <note>key: shipment.tab.summary.customer_details.details.company_name.label</note>
       </trans-unit>
       <trans-unit id="b412f6087a0fa782311a06f4838e54f07b56ccb9" resname="shipment.tab.summary.customer_details.details.customer_name.label">
         <source>Customer name</source>
-        <target state="needs-translation">Customer name</target>
+        <target state="translated">Nom du Client</target>
         <note>key: shipment.tab.summary.customer_details.details.customer_name.label</note>
       </trans-unit>
       <trans-unit id="a4f47b8c916d08a1303772b440102cf62e8f2f7a" resname="shipment.tab.summary.customer_details.details.email.label">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">E-mail</target>
         <note>key: shipment.tab.summary.customer_details.details.email.label</note>
       </trans-unit>
       <trans-unit id="ae990f846f9b0d7e01a5d5e50b3c3d7bdea5f2c0" resname="shipment.tab.summary.customer_details.details.phone_number.label">
         <source>Phone</source>
-        <target state="needs-translation">Phone</target>
+        <target state="translated">Téléphone</target>
         <note>key: shipment.tab.summary.customer_details.details.phone_number.label</note>
       </trans-unit>
       <trans-unit id="9aae74077abd03be0f63e88fd26982cd8fac926a" resname="shipment.tab.summary.shipping_address.details.city.label">
         <source>City</source>
-        <target state="needs-translation">City</target>
+        <target state="translated">Ville</target>
         <note>key: shipment.tab.summary.shipping_address.details.city.label</note>
       </trans-unit>
       <trans-unit id="6b9bceaf6d1cd3285fd1cb05514f93501f302d1c" resname="shipment.tab.summary.shipping_address.details.country.label">
         <source>Country</source>
-        <target state="needs-translation">Country</target>
+        <target state="translated">Pays</target>
         <note>key: shipment.tab.summary.shipping_address.details.country.label</note>
       </trans-unit>
       <trans-unit id="0e0bb1339fcfbfa0cbf4a58cf7051ddbf15d4e90" resname="shipment.tab.summary.shipping_address.details.headline">
         <source>Shipping address</source>
-        <target state="needs-translation">Shipping address</target>
+        <target state="translated">Adresse de livraison</target>
         <note>key: shipment.tab.summary.shipping_address.details.headline</note>
       </trans-unit>
       <trans-unit id="43235da38199739d3bea98bc6d3edd4f3260e7cb" resname="shipment.tab.summary.shipping_address.details.postal_code.label">
         <source>Postal code</source>
-        <target state="needs-translation">Postal code</target>
+        <target state="translated">Code postal</target>
         <note>key: shipment.tab.summary.shipping_address.details.postal_code.label</note>
       </trans-unit>
       <trans-unit id="d5991c7c8a613115510b6c06a6616a02c5ca0d1a" resname="shipment.tab.summary.shipping_address.details.region.label">
         <source>Region</source>
-        <target state="needs-translation">Region</target>
+        <target state="translated">Région</target>
         <note>key: shipment.tab.summary.shipping_address.details.region.label</note>
       </trans-unit>
       <trans-unit id="d05f95138a18e2ec789cdb3ce361c9c3223d0d82" resname="shipment.tab.summary.shipping_address.details.street.label">
         <source>Street</source>
-        <target state="needs-translation">Street</target>
+        <target state="translated">Rue</target>
         <note>key: shipment.tab.summary.shipping_address.details.street.label</note>
       </trans-unit>
       <trans-unit id="c843c090608ed647e2ea1a34da043af8ec78d6be" resname="shipment.tab.view-summary.customer_details.details.headline">
         <source>Customer details</source>
-        <target state="needs-translation">Customer details</target>
+        <target state="translated">Détails du client</target>
         <note>key: shipment.tab.view-summary.customer_details.details.headline</note>
       </trans-unit>
       <trans-unit id="7ff8dd9aa1c9135dd3a9929c8003f3a5eebbf545" resname="shipping_method.create.success">
