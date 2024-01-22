@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="3d9f547776de4846ff54fcd1cd173ac5937e5a46" resname="search.creator_input.placeholder">
-        <source>Search by creator</source>
-        <target state="translated">Recherche par créateur</target>
+        <source>Type creator's name</source>
+        <target state="translated">Nom du créateur de type</target>
         <note>key: search.creator_input.placeholder</note>
       </trans-unit>
       <trans-unit id="6aa460340bed42d0d1baf9d1ea542c83a3f00821" resname="trash">
@@ -37,8 +37,8 @@
         <note>key: trash.creator</note>
       </trans-unit>
       <trans-unit id="a05764fe660902e89eefa65d4834f03cf3954160" resname="trash.date">
-        <source>Trashed</source>
-        <target state="translated">Corbeille</target>
+        <source>Sent to trash date</source>
+        <target state="translated">Date d'envoi à la corbeille</target>
         <note>key: trash.date</note>
       </trans-unit>
       <trans-unit id="45548aed8adb5019c3b806992e903965699c7e08" resname="trash.deleted.success">
@@ -62,8 +62,8 @@
         <note>key: trash.headline</note>
       </trans-unit>
       <trans-unit id="5d4b7350cb3bfc77e9edd02190eb530d866c7565" resname="trash.item.ancesor_in_trash">
-        <source>Ancestor is unknown</source>
-        <target state="translated">L'ancêtre est inconnu</target>
+        <source>Ancestor is in the Trash</source>
+        <target state="translated">Ancêtre est dans la corbeille</target>
         <note>key: trash.item.ancesor_in_trash</note>
       </trans-unit>
       <trans-unit id="02b7fe2ffdf670f9d5e2dadd3cd1be5109a22b49" resname="trash.item.deleted_user">
@@ -77,8 +77,8 @@
         <note>key: trash.name</note>
       </trans-unit>
       <trans-unit id="c28510c675be753842996980b0e5d175cec4a8d8" resname="trash.original_location">
-        <source>Location</source>
-        <target state="translated">Emplacement</target>
+        <source>Original Location</source>
+        <target state="translated">Emplacement original</target>
         <note>key: trash.original_location</note>
       </trans-unit>
       <trans-unit id="a8c2da925faa48def8e407037a6115f1340070c7" resname="trash.restore_new_location.success">
@@ -92,8 +92,8 @@
         <note>key: trash.restore_original_location.success</note>
       </trans-unit>
       <trans-unit id="3a46b65a9b678fb947285b2c9509943ee6764195" resname="trash.search.any_content_types">
-        <source>All</source>
-        <target state="translated">Tous</target>
+        <source>Any Content Types</source>
+        <target state="translated">Tous les types de contenu</target>
         <note>key: trash.search.any_content_types</note>
       </trans-unit>
       <trans-unit id="9a88e9a17cd461dcd7d54dca50c6d3b981aba7fc" resname="trash.search.any_time">
@@ -102,14 +102,19 @@
         <note>key: trash.search.any_time</note>
       </trans-unit>
       <trans-unit id="c2b2679781ad4a22bb232e2ab34669ffe49c760b" resname="trash.search.section.any">
-        <source>All</source>
-        <target state="translated">Tous</target>
+        <source>Any Section</source>
+        <target state="translated">N'importe quelle section</target>
         <note>key: trash.search.section.any</note>
       </trans-unit>
       <trans-unit id="8b64a1510f907791766cbccffcff7898bda76bde" resname="trash.section">
         <source>Section</source>
         <target state="translated">Section</target>
         <note>key: trash.section</note>
+      </trans-unit>
+      <trans-unit id="06b530d8c8b3d7af7b3f2df9f5102927e7275de4" resname="trash.table.header">
+        <source>Trash</source>
+        <target state="translated">Corbeille</target>
+        <note>key: trash.table.header</note>
       </trans-unit>
     </body>
   </file>

@@ -31,7 +31,7 @@
         <target state="translated">Rejeter</target>
         <note>key: application.details.context_menu.workflow_reject.label</note>
       </trans-unit>
-      <trans-unit id="3043d8b4cc653e0eac51e5a941660ed6aadd0a27" resname="application.details.subtitle">
+<trans-unit id="3043d8b4cc653e0eac51e5a941660ed6aadd0a27" resname="application.details.subtitle">
         <source>Application</source>
         <target state="translated">Application</target>
         <note>key: application.details.subtitle</note>
@@ -71,7 +71,7 @@
         <target state="translated">Informations de contact</target>
         <note>key: application.edit.section.contact_information.title</note>
       </trans-unit>
-      <trans-unit id="ef6305783ac2f857737f988c0114691f6a45f17e" resname="application.edit.section.internal.title">
+<trans-unit id="ef6305783ac2f857737f988c0114691f6a45f17e" resname="application.edit.section.internal.title">
         <source>Internal</source>
         <target state="translated">Interne</target>
         <note>key: application.edit.section.internal.title</note>
@@ -96,7 +96,7 @@
         <target state="translated">Clients</target>
         <note>key: application.list.breadcrumbs.members</note>
       </trans-unit>
-      <trans-unit id="17e85bfb65ac28f05e593a6dbda8453b194635da" resname="application.list.table.action.assign.label">
+<trans-unit id="17e85bfb65ac28f05e593a6dbda8453b194635da" resname="application.list.table.action.assign.label">
         <source>Assign</source>
         <target state="translated">Assigner</target>
         <note>key: application.list.table.action.assign.label</note>
@@ -106,7 +106,7 @@
         <target state="translated">Modifier</target>
         <note>key: application.list.table.action.edit.label</note>
       </trans-unit>
-      <trans-unit id="3816f708b3c324abe11156d2178dcfb78ccfc56e" resname="application.list.table.actions.delete.btn.label">
+<trans-unit id="3816f708b3c324abe11156d2178dcfb78ccfc56e" resname="application.list.table.actions.delete.btn.label">
         <source>Delete</source>
         <target state="translated">Supprimer</target>
         <note>key: application.list.table.actions.delete.btn.label</note>
@@ -121,7 +121,7 @@
         <target state="translated">Il n'y a pas encore d'applications.</target>
         <note>key: application.list.table.empty.info</note>
       </trans-unit>
-      <trans-unit id="c33d9ecbf048ae37c8b68da1a3bf886aec15ddbe" resname="application.list.table.header.contact_email">
+<trans-unit id="c33d9ecbf048ae37c8b68da1a3bf886aec15ddbe" resname="application.list.table.header.contact_email">
         <source>Contact Email</source>
         <target state="translated">E-mail de contact</target>
         <note>key: application.list.table.header.contact_email</note>
@@ -131,7 +131,7 @@
         <target state="translated">Nom</target>
         <note>key: application.list.table.header.name</note>
       </trans-unit>
-      <trans-unit id="dd208a1e85ef89c4bfe7d218fc43f9516e13c361" resname="application.list.table.header.sales_rep">
+<trans-unit id="dd208a1e85ef89c4bfe7d218fc43f9516e13c361" resname="application.list.table.header.sales_rep">
         <source>Sales Representative</source>
         <target state="translated">Représentant des ventes</target>
         <note>key: application.list.table.header.sales_rep</note>
@@ -141,7 +141,7 @@
         <target state="translated">Statut</target>
         <note>key: application.list.table.header.status</note>
       </trans-unit>
-      <trans-unit id="56b04a937d711b70b09f8b28110cd20f146117e3" resname="application.list.table.header.submitted_time">
+<trans-unit id="56b04a937d711b70b09f8b28110cd20f146117e3" resname="application.list.table.header.submitted_time">
         <source>Submitted Time</source>
         <target state="translated">Heure de soumission</target>
         <note>key: application.list.table.header.submitted_time</note>
@@ -151,7 +151,7 @@
         <target state="translated">Liste (%count%)</target>
         <note>key: application.list.table.headline</note>
       </trans-unit>
-      <trans-unit id="3c4ed0ae5b77056c4d1782cd4ae42bce8fe72b45" resname="application.list.title">
+            <trans-unit id="3c4ed0ae5b77056c4d1782cd4ae42bce8fe72b45" resname="application.list.title">
         <source>Applications</source>
         <target state="translated">Applications</target>
         <note>key: application.list.title</note>
@@ -236,7 +236,7 @@
         <target state="translated">Approbation de l'application</target>
         <note>key: application.workflow.extra_actions.approve.title</note>
       </trans-unit>
-      <trans-unit id="7b11e36fcc1489fe9dc3548b6cfc83deaaf736eb" resname="application.workflow.extra_actions.cancel_btn.label">
+<trans-unit id="7b11e36fcc1489fe9dc3548b6cfc83deaaf736eb" resname="application.workflow.extra_actions.cancel_btn.label">
         <source>Cancel</source>
         <target state="translated">Annuler</target>
         <note>key: application.workflow.extra_actions.cancel_btn.label</note>
@@ -261,7 +261,7 @@
         <target state="translated">Refus de la demande</target>
         <note>key: application.workflow.extra_actions.reject.title</note>
       </trans-unit>
-      <trans-unit id="1fda2485755270b930fb0b950f9cbb643bb0182b" resname="application.workflow.extra_actions.sales_rep">
+<trans-unit id="1fda2485755270b930fb0b950f9cbb643bb0182b" resname="application.workflow.extra_actions.sales_rep">
         <source>Select Sales Representative</source>
         <target state="translated">Sélectionnez un représentant de vente</target>
         <note>key: application.workflow.extra_actions.sales_rep</note>
@@ -581,7 +581,7 @@
         <target state="translated">Créer</target>
         <note>key: company.list.create</note>
       </trans-unit>
-      <trans-unit id="e10b61bb2feb310fb9b76869591bd0b1e997f4b6" resname="company.list.empty_list.action_text">
+<trans-unit id="e10b61bb2feb310fb9b76869591bd0b1e997f4b6" resname="company.list.empty_list.action_text">
         <source>Create and manage companies, invite members, and edit contact information.</source>
         <target state="translated">Créez et gérez des entreprises, invitez des membres et modifiez les informations de contact.</target>
         <note>key: company.list.empty_list.action_text</note>
@@ -670,6 +670,31 @@
         <source>Corporate</source>
         <target state="translated">Entreprise</target>
         <note>key: corporate</note>
+      </trans-unit>
+      <trans-unit id="8fc201497d4d510ff182fb6a0b34a92b79c77c5a" resname="corporate_account.application_search.status">
+        <source>Status</source>
+        <target state="needs-translation">Status</target>
+        <note>key: corporate_account.application_search.status</note>
+      </trans-unit>
+      <trans-unit id="6a9f08ca1f2db9e3ce0c1b33298fd1dec04ab5c8" resname="corporate_account.application_search.status.choice.approved">
+        <source>Approved</source>
+        <target state="needs-translation">Approved</target>
+        <note>key: corporate_account.application_search.status.choice.approved</note>
+      </trans-unit>
+      <trans-unit id="29af7c5d946a620f4efc33108c834a9f242431f9" resname="corporate_account.application_search.status.choice.new">
+        <source>New</source>
+        <target state="needs-translation">New</target>
+        <note>key: corporate_account.application_search.status.choice.new</note>
+      </trans-unit>
+      <trans-unit id="159dccb7ee9c6d582dd3e7c533d00c7efd211d53" resname="corporate_account.application_search.status.choice.on_hold">
+        <source>On Hold</source>
+        <target state="needs-translation">On Hold</target>
+        <note>key: corporate_account.application_search.status.choice.on_hold</note>
+      </trans-unit>
+      <trans-unit id="78c51fbfff323a9c793431e986a493ca8a0a5376" resname="corporate_account.application_search.status.choice.rejected">
+        <source>Approved</source>
+        <target state="needs-translation">Approved</target>
+        <note>key: corporate_account.application_search.status.choice.rejected</note>
       </trans-unit>
       <trans-unit id="27446f276c3d85f5329b0dcba1393bf62d2b587e" resname="corporate_account.company_search.customer_group.label">
         <source>Customer group</source>
@@ -771,7 +796,7 @@
         <target state="translated">La liste des clients est vide</target>
         <note>key: individual.list.table.empty</note>
       </trans-unit>
-      <trans-unit id="51144bcba98929e2570babdb721e512026183a83" resname="individual.list.table.name">
+            <trans-unit id="51144bcba98929e2570babdb721e512026183a83" resname="individual.list.table.name">
         <source>Name</source>
         <target state="translated">Nom</target>
         <note>key: individual.list.table.name</note>
@@ -891,7 +916,7 @@
         <target state="translated">Désactiver l'utilisateur</target>
         <note>key: modal.user_status_change.title.deactivate</note>
       </trans-unit>
-      <trans-unit id="0d62749863987c8f20db3b04774814b8e64d91a9" resname="orders.table.empty.action">
+<trans-unit id="0d62749863987c8f20db3b04774814b8e64d91a9" resname="orders.table.empty.action">
         <source>Check currencies configuration for SiteAccess</source>
         <target state="translated">Vérifier la configuration des devises pour SiteAccess</target>
         <note>key: orders.table.empty.action</note>

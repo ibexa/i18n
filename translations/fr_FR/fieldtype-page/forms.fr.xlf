@@ -671,6 +671,21 @@
         <target state="translated">Utilisateur / Auto-édition</target>
         <note>key: role.policy.user.selfedit</note>
       </trans-unit>
+      <trans-unit id="30c5e1c11a520e499ad68130a2c7b844c2243888" resname="role.policy.workflow">
+        <source>Workflow</source>
+        <target state="needs-translation">Workflow</target>
+        <note>key: role.policy.workflow</note>
+      </trans-unit>
+      <trans-unit id="2b2742373d60445d02b866c30e21db99f0755ae6" resname="role.policy.workflow.all_functions">
+        <source>Workflow / All functions</source>
+        <target state="needs-translation">Workflow / All functions</target>
+        <note>key: role.policy.workflow.all_functions</note>
+      </trans-unit>
+      <trans-unit id="4ec99016d9af53130aaf043f9b6bce7ced2a1739" resname="role.policy.workflow.change_stage">
+        <source>Workflow / Change stage</source>
+        <target state="needs-translation">Workflow / Change stage</target>
+        <note>key: role.policy.workflow.change_stage</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

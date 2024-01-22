@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
+        <source>%fieldName% Field is required</source>
+        <target state="translated">Le champ %fieldName% est requis</target>
+        <note>key: error.required.field</note>
+      </trans-unit>
+      <trans-unit id="6090b5d2c17e00053a576ede5c82afba67f0cc49" resname="error.required.field_not_blank">
+        <source>This value should not be blank</source>
+        <target state="needs-translation">This value should not be blank</target>
+        <note>key: error.required.field_not_blank</note>
+      </trans-unit>
       <trans-unit id="517e3666a759ee26e02fcc468446ef39b3ae9bf0" resname="role.policy.catalog">
         <source>Catalog</source>
         <target state="translated">Catalogue</target>

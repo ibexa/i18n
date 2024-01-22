@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="48e4eb02443e58b9ff501ca03bdc4008e842eba4" resname="content.field_type.ezmedia.loop">
         <source>Loop</source>
-        <target state="translated">Boucle</target>
+        <target state="translated">En boucle</target>
         <note>key: content.field_type.ezmedia.loop</note>
       </trans-unit>
       <trans-unit id="e5940ee516f3edb1d09e7ac4eed4fe7a28d3cacd" resname="content.field_type.ezmedia.width">
@@ -111,7 +111,7 @@
         <target state="translated">Nom d'utilisateur</target>
         <note>key: content.field_type.ezuser.username</note>
       </trans-unit>
-      <trans-unit id="1d777459cd2f508bdb4676d48eaeee62e11d3009" resname="content_forms.relation.location_type">
+<trans-unit id="1d777459cd2f508bdb4676d48eaeee62e11d3009" resname="content_forms.relation.location_type">
         <source>Select Starting Location</source>
         <target state="translated">Sélectionnez un emplacement de départ</target>
         <note>key: content_forms.relation.location_type</note>

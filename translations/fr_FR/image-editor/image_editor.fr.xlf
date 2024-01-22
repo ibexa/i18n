@@ -6,15 +6,15 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="0e70eaeb76b239bd72fbfeff1359fb3dc28d4af7" resname="content.field_type.ezimage.edit">
+        <trans-unit id="0e70eaeb76b239bd72fbfeff1359fb3dc28d4af7" resname="content.field_type.ezimage.edit">
         <source>Edit image</source>
         <target state="translated">Modifier l'image</target>
         <note>key: content.field_type.ezimage.edit</note>
       </trans-unit>
-      <trans-unit id="4294334bff13b551ac9192cabbaa9440a7f80ff2" resname="ibexa_image_editor">
+      <trans-unit id="956eb63580c6ccafb6dbb9f891b08417451202be" resname="image_editor">
         <source>Image Editor</source>
         <target state="translated">Éditeur d'image</target>
-        <note>key: ibexa_image_editor</note>
+        <note>key: image_editor</note>
       </trans-unit>
       <trans-unit id="3a84d148e1d745c9197d33618b721e38a8de7add" resname="image_editor.actions.crop.abbreviation.height">
         <source>H</source>
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="953559e538accd59edc2e1bc4087dbdd15f4bdf4" resname="image_editor.save_as.warning">
         <source>Clicking 'Save as new' will create a copy of the modified image.</source>
-        <target state="translated">Cliquer sur 'Sauvegarder comme nouveau' créera une copie de l'image modifiée.</target>
+        <target state="translated">Cliquer sur 'Enregistrer comme nouveau' créera une copie de l'image modifiée.</target>
         <note>key: image_editor.save_as.warning</note>
       </trans-unit>
       <trans-unit id="986a7439f195ccd70f02a02d34690b0f081366b7" resname="image_editor.save_as_new">

@@ -6,6 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+        <source>No content. Drafts you create will show up here</source>
+        <target state="translated">Aucun contenu. Les brouillons que vous créez apparaîtront ici</target>
+        <note>key: dashboard.tab.my_drafts.empty</note>
+      </trans-unit>
       <trans-unit id="128df491a522e7af4916cd002d9e11a3d2bc4078" resname="section.action.delete">
         <source>Delete</source>
         <target state="translated">Supprimer la section</target>
@@ -35,6 +39,11 @@
         <source>Content items you assign to this Section will show up here.</source>
         <target state="translated">Les éléments de contenu que vous assignerez à cette section apparaîtront ici.</target>
         <note>key: section.assigned_content.empty_desc</note>
+      </trans-unit>
+      <trans-unit id="60771f4109f17ae27080b34e9322fd7cb02f45b3" resname="section.assigned_content.header">
+        <source>Content items in '%name%' (%count%)</source>
+        <target state="translated">Éléments de contenu appartenant à '%name%' (%count%)</target>
+        <note>key: section.assigned_content.header</note>
       </trans-unit>
       <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name">
         <source>Name</source>

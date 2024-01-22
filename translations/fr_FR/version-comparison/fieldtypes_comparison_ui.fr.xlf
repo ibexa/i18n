@@ -66,7 +66,7 @@
         <target state="final">Sélectionner une version à comparer</target>
         <note>key: version_info.comparison.select_placeholder</note>
       </trans-unit>
-      <trans-unit id="ce9e882347182c3131045e8139681bb856864faf" resname="version_info.language.select_placeholder">
+<trans-unit id="ce9e882347182c3131045e8139681bb856864faf" resname="version_info.language.select_placeholder">
         <source>Language select placeholder</source>
         <target state="needs-translation">Language select placeholder</target>
         <note>key: version_info.language.select_placeholder</note>

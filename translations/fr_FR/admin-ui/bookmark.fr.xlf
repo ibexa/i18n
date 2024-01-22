@@ -17,8 +17,8 @@
         <note>key: bookmark.headline</note>
       </trans-unit>
       <trans-unit id="5001931b6bf98acefb5138b1cdba97d97fed4844" resname="bookmark.list.content.edit">
-        <source>Edit</source>
-        <target state="translated">Modifier</target>
+        <source>Edit content</source>
+        <target state="translated">Modifier le Contenu</target>
         <note>key: bookmark.list.content.edit</note>
       </trans-unit>
       <trans-unit id="cf687b0218c513d53ad3f52b2547c23500242c48" resname="bookmark.list.content_type">
@@ -40,6 +40,11 @@
         <source>Path</source>
         <target state="translated">Chemin</target>
         <note>key: bookmark.list.path</note>
+      </trans-unit>
+      <trans-unit id="0cf4491e1bb4fde851986596d3adfb4dbe2f5a17" resname="bookmark.table.header">
+        <source>Bookmarks</source>
+        <target state="translated">Favoris</target>
+        <note>key: bookmark.table.header</note>
       </trans-unit>
     </body>
   </file>

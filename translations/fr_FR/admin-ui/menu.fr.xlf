@@ -51,9 +51,9 @@
         <target state="translated">Rendre visible</target>
         <note>key: content__sidebar_right__reveal</note>
       </trans-unit>
-      <trans-unit id="9445b360492505d3a8d7be4c316e2cc62f381e03" resname="content__sidebar_right__send_to_trash">
-        <source>Send to trash</source>
-        <target state="translated">Envoyer à la corbeille</target>
+      <trans-unit id="9445b360492505d3a8d7be4c316e2cc62f381e03" resname="content__sidebar_right__send_to_trash" approved="yes">
+        <source>Send to Trash</source>
+        <target state="final">Envoyer à la corbeille</target>
         <note>key: content__sidebar_right__send_to_trash</note>
       </trans-unit>
       <trans-unit id="0a801de04935a4bf73c70d29b6c594e1d10811cc" resname="content_create__sidebar_right__cancel" approved="yes">
@@ -111,9 +111,9 @@
         <target state="translated">Modifier</target>
         <note>key: content_type__sidebar_right__edit</note>
       </trans-unit>
-      <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="translated">Annuler</target>
+      <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel" approved="yes">
+        <source>Discard changes</source>
+        <target state="final">Annuler modifications</target>
         <note>key: content_type_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="5a66806014c6a6ca1f79270a8dd381ae6c0e0d7b" resname="content_type_create__sidebar_right__save" approved="yes">
@@ -131,9 +131,9 @@
         <target state="translated">Propriétés globales</target>
         <note>key: content_type_edit__anchor_menu__global_properties</note>
       </trans-unit>
-      <trans-unit id="17d86a1011976758251b804acfbe8092d2860946" resname="content_type_edit__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="translated">Annuler</target>
+      <trans-unit id="17d86a1011976758251b804acfbe8092d2860946" resname="content_type_edit__sidebar_right__cancel" approved="yes">
+        <source>Discard changes</source>
+        <target state="final">Annuler modifications</target>
         <note>key: content_type_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="f1ac6aebd0e5474137a997b41677e5ae6c78670b" resname="content_type_edit__sidebar_right__save" approved="yes">
@@ -161,14 +161,14 @@
         <target state="final">Sauvegarder</target>
         <note>key: content_type_group_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="translated">Annuler</target>
+      <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel" approved="yes">
+        <source>Discard changes</source>
+        <target state="final">Annuler modifications</target>
         <note>key: language_create__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="43db6515a6b373d14e37f88c19c7663a9fa3ae8f" resname="language_create__sidebar_right__create">
-        <source>Add</source>
-        <target state="translated">Ajouter</target>
+      <trans-unit id="43db6515a6b373d14e37f88c19c7663a9fa3ae8f" resname="language_create__sidebar_right__create" approved="yes">
+        <source>Create</source>
+        <target state="final">Créer</target>
         <note>key: language_create__sidebar_right__create</note>
       </trans-unit>
       <trans-unit id="09a41e6afdef6eda2c027b7e742777f3a9bd1749" resname="language_edit__sidebar_right__cancel" approved="yes">
@@ -332,8 +332,8 @@
         <note>key: role_copy__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="36e448abb1ab7844befaf5a70ac65edf976bae85" resname="role_copy__sidebar_right__save">
-        <source>Copy</source>
-        <target state="translated">Copier</target>
+        <source>Save</source>
+        <target state="translated">Sauvegarder</target>
         <note>key: role_copy__sidebar_right__save</note>
       </trans-unit>
       <trans-unit id="ec3a03215b15b79b7db72bac312b5e59734ac99c" resname="role_create__sidebar_right__cancel" approved="yes">

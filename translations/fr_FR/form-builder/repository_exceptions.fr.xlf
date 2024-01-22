@@ -16,6 +16,16 @@
         <target state="translated">Impossible de trouver le formulaire pour '%identifier%'</target>
         <note>key: Could not find Form for '%identifier%'</note>
       </trans-unit>
+      <trans-unit id="dc6b58d8cccd4a805c93c1ade6bb94056c7b11d1" resname="captcha.failed_to_load">
+        <source>Captcha could not be loaded. Try refreshing page.</source>
+        <target state="translated">Le captcha n'a pas pu être chargé. Essayez de rafraîchir la page.</target>
+        <note>key: captcha.failed_to_load</note>
+      </trans-unit>
+      <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
+        <source>In Trash</source>
+        <target state="translated">Dans la corbeille</target>
+        <note>key: content.in_trash</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

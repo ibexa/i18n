@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="7caaa79d36b0520845802cfa3f7ebcc94318115b" resname="content_type.action.copy">
-        <source>Duplicate</source>
-        <target state="translated">Dupliquer</target>
+        <source>Copy</source>
+        <target state="translated">Copier</target>
         <note>key: content_type.action.copy</note>
       </trans-unit>
       <trans-unit id="779646634b8d89b40f5abaa2ccd6107b300bf429" resname="content_type.action.edit">
@@ -37,13 +37,13 @@
         <note>key: content_type.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
-        <source>Content Type '%name%' cannot be copied.</source>
-        <target state="translated">Le type de contenu '%name%' ne peut pas être copié.</target>
+        <source>Error occoured while copying the '%name%' Content Type.</source>
+        <target state="translated">Erreur lors de la copie du type de contenu '%name%'.</target>
         <note>key: content_type.copy.error</note>
       </trans-unit>
       <trans-unit id="31674753c7d944af06b98387a96ce93f36f6adb4" resname="content_type.copy.success">
-        <source>Content Type '%name%' copied.</source>
-        <target state="translated">Type de contenu '%name%' copié.</target>
+        <source>Content Type '%name%' successfully copied.</source>
+        <target state="translated">Type de contenu '%name%' copié avec succès.</target>
         <note>key: content_type.copy.success</note>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
@@ -306,7 +306,7 @@
         <target state="translated">autre utilisateur</target>
         <note>key: content_type.user_name.can_not_be_fetched</note>
       </trans-unit>
-      <trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
+<trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
         <source>Add</source>
         <target state="translated">Ajouter</target>
         <note>key: content_type.view.edit.add</note>
@@ -316,7 +316,7 @@
         <target state="translated">Définitions de champs</target>
         <note>key: content_type.view.edit.content_field_definitions</note>
       </trans-unit>
-      <trans-unit id="74aead78c735bbbce032dc9b00f9ca7a3632f166" resname="content_type.view.edit.default_header">
+<trans-unit id="74aead78c735bbbce032dc9b00f9ca7a3632f166" resname="content_type.view.edit.default_header">
         <source>New field type</source>
         <target state="translated">Nouveau type de champ</target>
         <note>key: content_type.view.edit.default_header</note>
@@ -331,7 +331,7 @@
         <target state="translated">Certains champs sont désactivés lors de la traduction d'un type de contenu. Pour les modifier, éditez le type de contenu dans sa langue principale.</target>
         <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
-      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+<trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
         <source>Create</source>
         <target state="translated">Créer</target>
         <note>key: content_type.view.list.action.add</note>
@@ -360,6 +360,11 @@
         <source>Name</source>
         <target state="translated">Nom</target>
         <note>key: content_type.view.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title">
+        <source>Content Types in '%identifier%'</source>
+        <target state="translated">Types de contenu dans %identifier%</target>
+        <note>key: content_type.view.list.title</note>
       </trans-unit>
       <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
         <source>%name%</source>
@@ -831,7 +836,7 @@
         <target state="translated">Empêcher la réutilisation de l'ancien mot de passe</target>
         <note>key: field_definition.ezuser.require_new_password</note>
       </trans-unit>
-      <trans-unit id="fdcfd21005fcd975636d979b1be61e28bb88d875" resname="field_definition.ezuser.require_not_compromised_password">
+<trans-unit id="fdcfd21005fcd975636d979b1be61e28bb88d875" resname="field_definition.ezuser.require_not_compromised_password">
         <source>Password must not be contained in a public breach.</source>
         <target state="translated">Le mot de passe ne doit pas être contenu dans une violation publique.</target>
         <note>key: field_definition.ezuser.require_not_compromised_password</note>
@@ -901,7 +906,7 @@
         <target state="translated">Mettre à jour</target>
         <note>key: location_update_form.update</note>
       </trans-unit>
-      <trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
+<trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
         <source>Enable %type% for this Content Type</source>
         <target state="translated">Activer %type% pour ce type de contenu</target>
         <note>key: meta.enabled</note>

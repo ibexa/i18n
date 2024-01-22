@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="c2a45b6467f0540eabe9f8ab2f93ee40dc81503d" resname="taxonomy_context__copy">
+        <source>Copy</source>
+        <target state="needs-translation">Copier</target>
+        <note>key: taxonomy_context__copy</note>
+      </trans-unit>
       <trans-unit id="157d0d237cf4695bc0394d69309b658234aa5ca3" resname="taxonomy_context__create">
         <source>Create</source>
         <target state="translated">Créer</target>

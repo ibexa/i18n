@@ -66,6 +66,11 @@
         <target state="translated">Vous ne pouvez pas supprimer des sites actifs.</target>
         <note>key: site.list.cannot_delete_notice</note>
       </trans-unit>
+      <trans-unit id="fe8a976fe946a1a248b13f520f1781bac44ec729" resname="site.list.count_results">
+        <source>%count% results</source>
+        <target state="needs-translation">%count% results</target>
+        <note>key: site.list.count_results</note>
+      </trans-unit>
       <trans-unit id="6283b1a55392feb5035f4362b61a96b263728164" resname="site.list.delete">
         <source>Delete</source>
         <target state="translated">Supprimer</target>

@@ -136,7 +136,7 @@
         <target state="translated">La demande d'accès a été envoyée</target>
         <note>key: draft.unlock.ask.notification</note>
       </trans-unit>
-      <trans-unit id="03002e3e9483870d40a0b546c3f958e8707a2300" resname="load.reviewers.error">
+<trans-unit id="03002e3e9483870d40a0b546c3f958e8707a2300" resname="load.reviewers.error">
         <source>Can't load reviewer list</source>
         <target state="translated">Impossible de charger la liste des réviseurs</target>
         <note>key: load.reviewers.error</note>

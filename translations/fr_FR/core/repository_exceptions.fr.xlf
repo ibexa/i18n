@@ -15,37 +15,37 @@
         <source>'%actualValue%' is incorrect value in class '%className%'</source>
         <target state="translated">« %actualValue% » est une valeur incorrecte dans la classe « %className% »</target>
         <note>key: '%actualValue%' is incorrect value in class '%className%'</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="80e5a0a47ac1df407b0218c2283872a86aba0fc1" resname="Argument '%argumentName%' has a bad state: %whatIsWrong%">
         <source>Argument '%argumentName%' has a bad state: %whatIsWrong%</source>
         <target state="translated">L'argument '%argumentName%' a un état incorrect : %whatIsWrong%</target>
         <note>key: Argument '%argumentName%' has a bad state: %whatIsWrong%</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="ec22a1547bcd0b3131346b94db7783d8ba4fc12f" resname="Argument '%argumentName%' is invalid: %whatIsWrong%">
         <source>Argument '%argumentName%' is invalid: %whatIsWrong%</source>
         <target state="translated">L'argument '%argumentName%' est invalide : %whatIsWrong%</target>
         <note>key: Argument '%argumentName%' is invalid: %whatIsWrong%</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="ddc2eb42746874988689fbc618bce5487f245b5c" resname="Argument '%argumentName%' is invalid: value must be of type '%expectedType%'">
         <source>Argument '%argumentName%' is invalid: value must be of type '%expectedType%'</source>
         <target state="translated">L'argument '%argumentName%' est invalide : la valeur attendue doit être de type '%expectedType%'</target>
         <note>key: Argument '%argumentName%' is invalid: value must be of type '%expectedType%'</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="ea737c09fcf59eb54ff1a1caca4242bdb2afda03" resname="Argument '%argumentName%' is invalid: value must be of type '%expectedType%', not '%actualType%'">
         <source>Argument '%argumentName%' is invalid: value must be of type '%expectedType%', not '%actualType%'</source>
         <target state="translated">L'argument '%argumentName%' est invalide : la valeur doit être de type '%expectedType%', et non '%actualType%'</target>
         <note>key: Argument '%argumentName%' is invalid: value must be of type '%expectedType%', not '%actualType%'</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="6a5a5e4df0f09cc7587d11571aa90c31e68c15c6" resname="Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'">
         <source>Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'</source>
         <target state="translated">L'argument 'BinaryFile::id' est invalide : %id% est une valeur incorrecte, les Ids de fichiers binaires ne peuvent pas commencer par '/'</target>
         <note>key: Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="0afe736d44da00b87ed3fe777775661ddf10a455" resname="Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?">
         <source>Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?</source>
         <target state="translated">L'argument 'BinaryFile::id' est invalide : %id% est une valeur incorrecte, qui ne contient pas le préfixe %prefix%. La directive 'var_dir' est-elle correctement configurée ?</target>
         <note>key: Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="e88ed78511f95299a41927e3ca7336fed174046b" resname="Content &quot;%contentName%&quot; fields did not validate: %errors%">
         <source>Content "%contentName%" fields did not validate: %errors%</source>
         <target state="translated">Les champs "%contentName%" du contenu n'ont pas été validés : %errors%</target>
@@ -60,22 +60,23 @@
         <source>Content fields did not validate</source>
         <target state="translated">Les champs de contenu n'ont pas été validés</target>
         <note>key: Content fields did not validate</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="dbf0b883e33a6e7c433ffa9a536fd214cda39b5c" resname="Could not find %classType% class '%className%'">
         <source>Could not find %classType% class '%className%'</source>
         <target state="translated">La classe '%className%' de type %classType% est introuvable</target>
         <note>key: Could not find %classType% class '%className%'</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="ff3e1dacaa764a0e94a86b173f9c93509fcaadeb" resname="Could not find '%what%' with identifier '%identifier%'">
         <source>Could not find '%what%' with identifier '%identifier%'</source>
         <target state="translated">'%what%' avec pour identifiant '%identifier%' est introuvable</target>
         <note>key: Could not find '%what%' with identifier '%identifier%'</note>
+        <jms:reference-file line="36">src/lib/Base/Exceptions/NotFoundException.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="2b84fad03f5a98d0fa25c78b1d3717ba108835e6" resname="Could not find class '%className%'">
         <source>Could not find class '%className%'</source>
         <target state="translated">La classe '%className%' est introuvable</target>
         <note>key: Could not find class '%className%'</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="c6136a74d1562ea6d15321ee75b9b307fc787e79" resname="Field Type '%fieldType%' not found. It must be implemented or configured to use %nullType%">
         <source>Field Type '%fieldType%' not found. It must be implemented or configured to use %nullType%</source>
         <target state="translated">Type de champ '%fieldType%' non trouvé. Il doit être implémenté ou configuré pour utiliser %nullType%</target>
@@ -85,7 +86,7 @@
         <source>Field definition '%identifier%' does not exist in given Content Type</source>
         <target state="translated">La définition du champ '%identifier%' n'existe pas dans le type de contenu donné</target>
         <note>key: Field definition '%identifier%' does not exist in given Content Type</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="5cfc2b732a8368cdd7f3d64ca4ab90a1af2939fb" resname="Field definition '%identifier%' does not exist in the given Content Type">
         <source>Field definition '%identifier%' does not exist in the given Content Type</source>
         <target state="translated">La définition du champ '%identifier%' n'existe pas dans le type de contenu donné</target>
@@ -100,17 +101,17 @@
         <source>Limitation '%limitation%' not found. It must be implemented or configured to use %blockingLimitation%</source>
         <target state="translated">Limitation '%limitation%' non trouvée. Elle doit être implémentée ou configurée pour utiliser %blockingLimitation%</target>
         <note>key: Limitation '%limitation%' not found. It must be implemented or configured to use %blockingLimitation%</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="71fd5f8839faaadfe7c61def7e4b42d429959952" resname="Limitations did not validate">
         <source>Limitations did not validate</source>
         <target state="translated">Les limitations sont invalides</target>
         <note>key: Limitations did not validate</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="ef12e750e94380df0d1de86b1cc274b45dc94e94" resname="Path '%path%' already exists for the given context">
         <source>Path '%path%' already exists for the given context</source>
         <target state="translated">Le chemin '%path%' existe déjà pour le contexte donné</target>
         <note>key: Path '%path%' already exists for the given context</note>
-      </trans-unit>
+              </trans-unit>
       <trans-unit id="300b5656b51de352e89aa5d7dd4ec6abb173bf6f" resname="Placeholders do not match the wildcards.">
         <source>Placeholders do not match the wildcards.</source>
         <target state="translated">Les espaces réservés ne correspondent pas aux jokers.</target>
