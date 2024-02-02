@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="c01c090bbfe9cd32a0a37ffc5727688abe01c30f" resname="actions.apply_btn">
         <source>Apply</source>
-        <target state="needs-translation">Apply</target>
+        <target state="translated">Aplicar</target>
         <note>key: actions.apply_btn</note>
       </trans-unit>
       <trans-unit id="e3eeaff256b4c7e7597477c8ab94aca52265d5b8" resname="actions.clear_btn">
         <source>Clear filters</source>
-        <target state="needs-translation">Clear filters</target>
+        <target state="translated">Borrar filtros</target>
         <note>key: actions.clear_btn</note>
       </trans-unit>
       <trans-unit id="67fc4ec6b05265db6a275d88f8df4e09c727fa58" resname="toggler.close">
         <source>Less filters</source>
-        <target state="needs-translation">Less filters</target>
+        <target state="translated">Menos filtros</target>
         <note>key: toggler.close</note>
       </trans-unit>
       <trans-unit id="3d0affb0e0a5f08df3390232a861d63d283d6b1d" resname="toggler.open">
         <source>More filters</source>
-        <target state="needs-translation">More filters</target>
+        <target state="translated">Más filtros</target>
         <note>key: toggler.open</note>
       </trans-unit>
     </body>
