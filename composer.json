@@ -1,14 +1,14 @@
 {
-  "name": "ibexa/i18n",
-  "description": "Ibexa translations",
-  "license": "(GPL-2.0-only or proprietary)",
-  "require": {
-    "ibexa/core": "~4.6.0@dev"
-  },
-  "require-dev": {},
-  "extra": {
-    "branch-alias": {
-      "dev-main": "4.6.x-dev"
+    "name": "ibexa/i18n",
+    "description": "Ibexa translations",
+    "license": "(GPL-2.0-only or proprietary)",
+    "require": {
+        "ibexa/core": "~4.6.0"
+    },
+    "require-dev": {},
+    "extra": {
+        "branch-alias": {
+            "dev-main": "4.6.x-dev"
+        }
     }
-  }
 }
