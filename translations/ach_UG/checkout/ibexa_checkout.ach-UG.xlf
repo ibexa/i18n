@@ -46,10 +46,20 @@
         <target>crwdns249589:0crwdne249589:0</target>
         <note>key: ibexa_checkout.ui.billing_address.company</note>
       </trans-unit>
+      <trans-unit id="48860202acc8447a9f03ac10b2117f20a5470ad4" resname="ibexa_checkout.ui.billing_address.first_name">
+        <source>First name</source>
+        <target>crwdns253352:0crwdne253352:0</target>
+        <note>key: ibexa_checkout.ui.billing_address.first_name</note>
+      </trans-unit>
       <trans-unit id="fb9880912ec85fdebcfe28e550b2378572e45048" resname="ibexa_checkout.ui.billing_address.label">
         <source>Billing address</source>
         <target>crwdns249591:0crwdne249591:0</target>
         <note>key: ibexa_checkout.ui.billing_address.label</note>
+      </trans-unit>
+      <trans-unit id="09421d4df4f5551e0e09c9fd40c026a62cccfb4c" resname="ibexa_checkout.ui.billing_address.last_name">
+        <source>Last name</source>
+        <target>crwdns253354:0crwdne253354:0</target>
+        <note>key: ibexa_checkout.ui.billing_address.last_name</note>
       </trans-unit>
       <trans-unit id="0e4bb074f2a99b418e5fe6d3fee7f298c8281656" resname="ibexa_checkout.ui.billing_address.phone">
         <source>Phone</source>
