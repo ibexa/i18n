@@ -42,8 +42,8 @@
         <note>key: dashboard.products_purchased</note>
       </trans-unit>
       <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
-        <source>Dashboard</source>
-        <target state="needs-translation">Dashboard</target>
+        <source>Data and analytics</source>
+        <target state="needs-translation">Data and analytics</target>
         <note>key: dashboard.title</note>
       </trans-unit>
       <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
