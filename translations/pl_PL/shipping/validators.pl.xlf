@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0ffd3f7f20682d95acf359787fc40b568bbb52d9" resname="Currency value cannot be null">
         <source>Currency value cannot be null</source>
-        <target state="needs-translation">Currency value cannot be null</target>
+        <target state="translated">Wartość waluty nie może być pusta</target>
         <note>key: Currency value cannot be null</note>
       </trans-unit>
       <trans-unit id="c17619fb0a3724f1e1db64c8c05eacfaf20bada6" resname="Money amount must be greater than 0">
