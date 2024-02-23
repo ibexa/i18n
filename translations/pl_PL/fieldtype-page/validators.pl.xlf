@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="1ebd18b27bb58dd8d34bb3ad0da7162a5aec36ff" resname="ezplatform.content.is_not_expected_content_type">
         <source>The selected Content item isn't of the expected content type.</source>
-        <target state="needs-translation">The selected Content item isn't of the expected content type.</target>
+        <target state="translated">Wybrany element zawartości nie jest oczekiwanym typem zawartości.</target>
         <note>key: ezplatform.content.is_not_expected_content_type</note>
       </trans-unit>
     </body>
