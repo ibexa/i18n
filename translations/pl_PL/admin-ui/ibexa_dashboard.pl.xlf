@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="8e0df121f055f3d6217967eaae5b9530d3ed4e3d" resname="dashboard.breadcrumbs.dashboard">
         <source>Dashboard</source>
-        <target state="needs-translation">Dashboard</target>
+        <target state="translated">Panel sterowania</target>
         <note>key: dashboard.breadcrumbs.dashboard</note>
       </trans-unit>
       <trans-unit id="b9b7f78038b71a27e7b4c2d2978a3946bb48c90b" resname="dashboard.create" approved="yes">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Typy treści</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor" approved="yes">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">Zmodyfikowano język</target>
         <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name" approved="yes">
