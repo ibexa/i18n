@@ -36,6 +36,16 @@
         <target state="translated">Nom</target>
         <note>key: name.label</note>
       </trans-unit>
+      <trans-unit id="4f64932a8e6184e5ca765574a331828a77bd38e5" resname="object_state.update.save">
+        <source>Save</source>
+        <target state="needs-translation">Save</target>
+        <note>key: object_state.update.save</note>
+      </trans-unit>
+      <trans-unit id="8b0cdd1fff0afd68d0716c1d8dc122a13b5f2e58" resname="object_state.update.save_and_close">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
+        <note>key: object_state.update.save_and_close</note>
+      </trans-unit>
       <trans-unit id="a9bfc35dc8d3c037bc4268ec0ce4dc548c832790" resname="parent_location.label">
         <source>Parent Location</source>
         <target state="translated">Emplacement parent</target>
