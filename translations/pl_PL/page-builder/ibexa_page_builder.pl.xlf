@@ -23,27 +23,27 @@
       </trans-unit>
       <trans-unit id="02e961b3df3878793a33a6ed347a20567ef1a12f" resname="block.cannot_update">
         <source>Cannot update blocks preview</source>
-        <target state="needs-translation">Cannot update blocks preview</target>
+        <target state="translated">Nie można zaktualizować podglądu bloków</target>
         <note>key: block.cannot_update</note>
       </trans-unit>
       <trans-unit id="e61d69c5b35faa8c43084885c01641cd96683877" resname="block.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Usuń</target>
         <note>key: block.delete</note>
       </trans-unit>
       <trans-unit id="004c6e30a0aae148a9a83a6b9ed16b9d90f41de6" resname="block.duplicate">
         <source>Duplicate</source>
-        <target state="needs-translation">Duplicate</target>
+        <target state="translated">Duplikuj</target>
         <note>key: block.duplicate</note>
       </trans-unit>
       <trans-unit id="3401bb1dcfef98108a504e912e0b3fcf621d9411" resname="block.move.down">
         <source>Move down block</source>
-        <target state="needs-translation">Move down block</target>
+        <target state="translated">Przesuń blok w dół</target>
         <note>key: block.move.down</note>
       </trans-unit>
       <trans-unit id="6a6fbc64b9487be9c68fb11031141e934aea579a" resname="block.move.up">
         <source>Move up block</source>
-        <target state="needs-translation">Move up block</target>
+        <target state="translated">Przesuń blok w górę</target>
         <note>key: block.move.up</note>
       </trans-unit>
       <trans-unit id="b264e5fe26bc4d10d5ca3becf3ab73542f738925" resname="block.no_availability">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="40932eb015c698a95f55867405525edf2df592de" resname="block.refresh">
         <source>Refresh</source>
-        <target state="needs-translation">Refresh</target>
+        <target state="translated">Odśwież</target>
         <note>key: block.refresh</note>
       </trans-unit>
       <trans-unit id="2a2fe3def10e04d741369aa5ddf4d4ea00680ca6" resname="block.settings">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="35d2114d55123561f0f625894fb5ef3807d4e3e3" resname="drag.drop.blocks.here">
         <source>Drag and drop blocks here</source>
-        <target state="needs-translation">Drag and drop blocks here</target>
+        <target state="translated">Przeciągnij i upuść pliki tutaj</target>
         <note>key: drag.drop.blocks.here</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
@@ -138,22 +138,22 @@
       </trans-unit>
       <trans-unit id="39e5be1a5ad879d51619ff58db63c7c727eadfc7" resname="layout_selector.create.select.label">
         <source>Select</source>
-        <target state="needs-translation">Select</target>
+        <target state="translated">Wybierz</target>
         <note>key: layout_selector.create.select.label</note>
       </trans-unit>
       <trans-unit id="f4f449bcfb82f0fdd95ad75a37dc4b41edfa1d3c" resname="layout_selector.create.subtitle">
         <source>Choose layout</source>
-        <target state="needs-translation">Choose layout</target>
+        <target state="translated">Wybierz układ</target>
         <note>key: layout_selector.create.subtitle</note>
       </trans-unit>
       <trans-unit id="cacca78c6c00e60e652f42e41b6c404d76548a59" resname="layout_selector.create.title">
         <source>Select layout</source>
-        <target state="needs-translation">Select layout</target>
+        <target state="translated">Wybierz układ</target>
         <note>key: layout_selector.create.title</note>
       </trans-unit>
       <trans-unit id="e94ad19ea2af271f43328447db78ed70274121df" resname="layout_selector.discard.label">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Odrzuć</target>
         <note>key: layout_selector.discard.label</note>
       </trans-unit>
       <trans-unit id="b64b29a6cd5b945bee2aaa605c1d8984a4a79fd9" resname="layout_selector.error.change_layout">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="df76ed2d59214595b7b9b002dce1f723892dcdf5" resname="notification.no_dropzone">
         <source>This page does not have a designed dropzone area for adding content</source>
-        <target state="needs-translation">This page does not have a designed dropzone area for adding content</target>
+        <target state="translated">Ta strona nie ma zaprojektowanego obszaru do dodawania treści</target>
         <note>key: notification.no_dropzone</note>
       </trans-unit>
       <trans-unit id="0b2dafc4e64f7587b08008c137c6861abc8232d2" resname="settings.popup.add_block_info">
@@ -193,12 +193,12 @@
       </trans-unit>
       <trans-unit id="2aacee9e3b82f82bcfea2e7083d42c7d27b5d501" resname="settings.popup.change_settings">
         <source>Change settings</source>
-        <target state="needs-translation">Change settings</target>
+        <target state="translated">Zmień ustawienia</target>
         <note>key: settings.popup.change_settings</note>
       </trans-unit>
       <trans-unit id="daf62054e49ace7a87b59196f7a7b6af2b7dc62d" resname="settings.popup.continue">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Kontynuuj</target>
         <note>key: settings.popup.continue</note>
       </trans-unit>
       <trans-unit id="c137f8e9a3f57ea45f3a310439f6340af6e91150" resname="settings.popup.default_behaviour">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="2b8b924ef8398e7ba16486e7646511119ec6f722" resname="settings.popup.title">
         <source>How builder works</source>
-        <target state="needs-translation">How builder works</target>
+        <target state="translated">Jak działa konstruktor</target>
         <note>key: settings.popup.title</note>
       </trans-unit>
       <trans-unit id="3757c8d49f2f414947ad6e44afc53498b4474d55" resname="sidebar.title" approved="yes">
@@ -218,27 +218,27 @@
       </trans-unit>
       <trans-unit id="4b8c13f811dc9e5093557dff59b266355bb5197f" resname="structure.action.configuration">
         <source>Configuration</source>
-        <target state="needs-translation">Configuration</target>
+        <target state="translated">Konfiguracja</target>
         <note>key: structure.action.configuration</note>
       </trans-unit>
       <trans-unit id="d696a75de4e11076e1b9499e64aef2a8582dcf00" resname="structure.action.duplicate">
         <source>Duplicate</source>
-        <target state="needs-translation">Duplicate</target>
+        <target state="translated">Duplikuj</target>
         <note>key: structure.action.duplicate</note>
       </trans-unit>
       <trans-unit id="0ffa494ed399bd73df6cc82d6da3e3a42b2adbbd" resname="structure.action.move.down">
         <source>Move down</source>
-        <target state="needs-translation">Move down</target>
+        <target state="translated">Przenieś w dół</target>
         <note>key: structure.action.move.down</note>
       </trans-unit>
       <trans-unit id="5043a2c65a3bb720e05d772456c41ac626e0cbd3" resname="structure.action.move.up">
         <source>Move up</source>
-        <target state="needs-translation">Move up</target>
+        <target state="translated">Przenieś w górę</target>
         <note>key: structure.action.move.up</note>
       </trans-unit>
       <trans-unit id="568e891a8e9a931ebc3ccd6b4a12ca975edc6a3c" resname="structure.action.refresh">
         <source>Refresh</source>
-        <target state="needs-translation">Refresh</target>
+        <target state="translated">Odśwież</target>
         <note>key: structure.action.refresh</note>
       </trans-unit>
       <trans-unit id="9a1f012b46edc1cfc75ef000163ea898fb35a16c" resname="structure.drop.zone">
@@ -253,12 +253,12 @@
       </trans-unit>
       <trans-unit id="737f5482b6104ace11a578a45c3cf2a185e2f8e8" resname="toolbox.structure.view">
         <source>Structure view</source>
-        <target state="needs-translation">Structure view</target>
+        <target state="translated">Widok struktury</target>
         <note>key: toolbox.structure.view</note>
       </trans-unit>
       <trans-unit id="f101cb8261e36b0d5e513e37fe157c8d3c0ba047" resname="toolbox.title">
         <source>Elements</source>
-        <target state="needs-translation">Elements</target>
+        <target state="translated">Elementy</target>
         <note>key: toolbox.title</note>
       </trans-unit>
       <trans-unit id="3e1605f26b2df05fc721d6a0b91e9e4011fdf9f1" resname="user.settings.automatically_open_block_settings.description">
@@ -273,12 +273,12 @@
       </trans-unit>
       <trans-unit id="4e32b8b746cdf9471b433d25ec36d5a4793dd8bf" resname="user.settings.automatically_open_block_settings.value.disabled">
         <source>disabled</source>
-        <target state="needs-translation">disabled</target>
+        <target state="translated">wyłączony</target>
         <note>key: user.settings.automatically_open_block_settings.value.disabled</note>
       </trans-unit>
       <trans-unit id="4a286f075175595ce7527359c30b5f92226029db" resname="user.settings.automatically_open_block_settings.value.enabled">
         <source>enabled</source>
-        <target state="needs-translation">enabled</target>
+        <target state="translated">włączony</target>
         <note>key: user.settings.automatically_open_block_settings.value.enabled</note>
       </trans-unit>
     </body>
