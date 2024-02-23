@@ -42,8 +42,8 @@
         <note>key: dashboard.products_purchased</note>
       </trans-unit>
       <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
-        <source>Dashboard</source>
-        <target>crwdns243658:0crwdne243658:0</target>
+        <source>Data and analytics</source>
+        <target>crwdns253520:0crwdne253520:0</target>
         <note>key: dashboard.title</note>
       </trans-unit>
       <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
@@ -93,12 +93,12 @@
       </trans-unit>
       <trans-unit id="9aba3f49645a0abdc34dc18ae35c8d63aad4a5a5" resname="model.details.nominal_submodel_name">
         <source>[ABC][%attribut_source%] %key%</source>
-        <target>crwdns243696:0[ABC]crwdnd243696:0[%attribut_source%]crwdnd243696:0%key%crwdne243696:0</target>
+        <target>crwdns243696:0%attribut_source%crwdnd243696:0%key%crwdne243696:0</target>
         <note>key: model.details.nominal_submodel_name</note>
       </trans-unit>
       <trans-unit id="80c957555e73ba53940e0f48357a73373bcebdd5" resname="model.details.numeric_submodel_name">
         <source>[123][%attribut_source%] %key%</source>
-        <target>crwdns243698:0[123]crwdnd243698:0[%attribut_source%]crwdnd243698:0%key%crwdne243698:0</target>
+        <target>crwdns243698:0%attribut_source%crwdnd243698:0%key%crwdne243698:0</target>
         <note>key: model.details.numeric_submodel_name</note>
       </trans-unit>
       <trans-unit id="c22a96cb677a1bd48fbdbd2037072c356aa5f49e" resname="model.details.segments">
