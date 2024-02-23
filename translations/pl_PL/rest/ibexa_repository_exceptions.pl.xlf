@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="18a38f6c46cc84d27fa3d24cbd09aee62125be8d" resname="Cannot publish an empty content type draft">
         <source>Cannot publish an empty content type draft</source>
-        <target state="needs-translation">Cannot publish an empty content type draft</target>
+        <target state="translated">Nie można opublikować pustego szkicu typu treści</target>
         <note>key: Cannot publish an empty content type draft</note>
       </trans-unit>
       <trans-unit id="8bfebd32a3304d378cf1219c4b25b1044d9dde34" resname="Cannot unlink the content type from its only remaining group">
         <source>Cannot unlink the content type from its only remaining group</source>
-        <target state="needs-translation">Cannot unlink the content type from its only remaining group</target>
+        <target state="translated">Nie można odłączyć typu treści od jego jedynej pozostałej grupy</target>
         <note>key: Cannot unlink the content type from its only remaining group</note>
       </trans-unit>
       <trans-unit id="0b525944af0bdcb0dd04bcaa4a027212bffc9738" resname="Current version already has DRAFT status">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="f915c78ee350c1b4fb3d3adac7584a12fcc0cfdf" resname="Only empty content type groups can be deleted">
         <source>Only empty content type groups can be deleted</source>
-        <target state="needs-translation">Only empty content type groups can be deleted</target>
+        <target state="translated">Wyłącznie puste grupy typów treści mogą zostać usunięte</target>
         <note>key: Only empty content type groups can be deleted</note>
       </trans-unit>
       <trans-unit id="309f294f925bf5343de6ca4507a303bbc762090f" resname="Only versions with DRAFT status can be published">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="7d98c91ecfe4814f6268eb889de59ada9eec6a1d" resname="The content type is already linked to the provided group">
         <source>The content type is already linked to the provided group</source>
-        <target state="needs-translation">The content type is already linked to the provided group</target>
+        <target state="translated">Typ treści jest już połączony z wybraną grupą</target>
         <note>key: The content type is already linked to the provided group</note>
       </trans-unit>
       <trans-unit id="d71c63955373cbd73161528026feb878e5e042b8" resname="Translation can be deleted from a DRAFT version only">
