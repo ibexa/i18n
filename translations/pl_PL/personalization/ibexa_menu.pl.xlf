@@ -12,9 +12,14 @@
         <note>key: main__personalization</note>
       </trans-unit>
       <trans-unit id="b627800b4a0644f193458ef5b848d6643cd0f28a" resname="main__personalization__dashboard">
-        <source>Dashboard</source>
-        <target state="translated">Pulpit</target>
+        <source>Data and analytics</source>
+        <target state="needs-translation">Data and analytics</target>
         <note>key: main__personalization__dashboard</note>
+      </trans-unit>
+      <trans-unit id="01fa73ca53d3a0532182ef65def2ca8756924332" resname="main__personalization__group_settings">
+        <source>Settings</source>
+        <target state="needs-translation">Settings</target>
+        <note>key: main__personalization__group_settings</note>
       </trans-unit>
       <trans-unit id="514366de7dcb2116c1200099d0d84bc1ccaac1b7" resname="main__personalization__import">
         <source>Import</source>
@@ -32,8 +37,8 @@
         <note>key: main__personalization__scenarios</note>
       </trans-unit>
       <trans-unit id="11617cd15d2e7484d395eb9d797a65e9c0ef0260" resname="model_edit__sidebar_right__close">
-        <source>Cancel</source>
-        <target state="translated">Anuluj</target>
+        <source>Discard changes</source>
+        <target state="needs-translation">Discard changes</target>
         <note>key: model_edit__sidebar_right__close</note>
       </trans-unit>
       <trans-unit id="6bc82f75a31450fd71f04991c30b832ffadcc00d" resname="model_edit__sidebar_right__save">
@@ -52,28 +57,33 @@
         <note>key: model_edit__sidebar_right__trigger_model_build</note>
       </trans-unit>
       <trans-unit id="7c86d8817e27d0e61eb405c75f8024d7694d6421" resname="scenario_create__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="translated">Anuluj</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: scenario_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="19238e1383ec8b3e2db4533ed268ded1d62a1586" resname="scenario_create__sidebar_right__create-and-close">
-        <source>Create</source>
-        <target state="translated">Utwórz</target>
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
         <note>key: scenario_create__sidebar_right__create-and-close</note>
       </trans-unit>
+      <trans-unit id="9d006a1ab5c9436c2bb8584c95150301f38e0e97" resname="scenario_create__sidebar_right__save">
+        <source>Save</source>
+        <target state="needs-translation">Save</target>
+        <note>key: scenario_create__sidebar_right__save</note>
+      </trans-unit>
       <trans-unit id="acbdba6c4b6a0a49b3a99bff7ff87c2071e1899e" resname="scenario_edit__sidebar_right__close">
-        <source>Close</source>
-        <target state="translated">Zamknij</target>
+        <source>Discard changes</source>
+        <target state="needs-translation">Discard changes</target>
         <note>key: scenario_edit__sidebar_right__close</note>
       </trans-unit>
       <trans-unit id="5a4d415304b5787e511bdab98e858dd019548f0e" resname="scenario_edit__sidebar_right__remove">
-        <source>Remove scenario</source>
-        <target state="translated">Usuń scenariusz</target>
+        <source>Delete scenario</source>
+        <target state="needs-translation">Delete scenario</target>
         <note>key: scenario_edit__sidebar_right__remove</note>
       </trans-unit>
       <trans-unit id="bcad1aec3e9381ddb625e287bceb33033752e5d3" resname="scenario_edit__sidebar_right__reset">
-        <source>Reset settings</source>
-        <target state="translated">Zresetuj ustawienia</target>
+        <source>Reset scenario</source>
+        <target state="needs-translation">Reset scenario</target>
         <note>key: scenario_edit__sidebar_right__reset</note>
       </trans-unit>
       <trans-unit id="4e22a0aa9b06911cc8c7ac281fa43061ee6ab827" resname="scenario_edit__sidebar_right__save">
