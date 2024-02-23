@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
         <source>Do you want to delete the content type?</source>
-        <target state="needs-translation">Do you want to delete the content type?</target>
+        <target state="translated">Czy chcesz usunąć ten Typ treści?</target>
         <note>key: content_type.modal.message</note>
       </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
         <source>Do you want to delete the content type group?</source>
-        <target state="needs-translation">Do you want to delete the content type group?</target>
+        <target state="translated">Czy chcesz usunąć grupę typów treści?</target>
         <note>key: content_type_group.modal.message</note>
       </trans-unit>
       <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="ac9c8e4ba677f57a59ea64aa615cb0b153bae149" resname="dashboard.charts.no_results">
         <source>No results found</source>
-        <target state="needs-translation">No results found</target>
+        <target state="translated">Nie znaleziono wyników</target>
         <note>key: dashboard.charts.no_results</note>
       </trans-unit>
       <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
@@ -495,7 +495,7 @@
       </trans-unit>
       <trans-unit id="0305297fa410b3bfb22eb87fa2bea63dabf7e2d6" resname="my_account_settings.password.message">
         <source>You don't have permissions to change the password. Contact your administrator.</source>
-        <target state="needs-translation">You don't have permissions to change the password. Contact your administrator.</target>
+        <target state="translated">Nie masz uprawnień do zmiany hasła. Skontaktuj się z administratorem.</target>
         <note>key: my_account_settings.password.message</note>
       </trans-unit>
       <trans-unit id="2273b0c5061ff374bd0d5a75e9301721f7312b65" resname="my_account_settings.password.title">
