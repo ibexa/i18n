@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="3f33d0924567a52a3b81e930591e5fcfa899dfd3" resname="page_block_visibility.attribute.content_type.label">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Typ treści</target>
         <note>key: page_block_visibility.attribute.content_type.label</note>
       </trans-unit>
       <trans-unit id="c9f927de803212415a68ff596c26821af8585bc3" resname="page_block_visibility.attribute.modified_language.label">
