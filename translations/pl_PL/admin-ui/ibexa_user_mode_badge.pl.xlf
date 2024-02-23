@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="c508a02952c5583b9eaf96fb65e8e0d479c602f2" resname="user_mode_badge.focus">
         <source>Focus mode</source>
-        <target state="needs-translation">Focus mode</target>
+        <target state="translated">Tryb skupienia</target>
         <note>key: user_mode_badge.focus</note>
       </trans-unit>
     </body>
