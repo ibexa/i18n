@@ -42,8 +42,8 @@
         <note>key: catalog_view__context_menu__publish</note>
       </trans-unit>
       <trans-unit id="02575ef0a9b0b7830fdaedc7ef55f20ed9a58a77" resname="copy_form__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="translated">Anuluj</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: copy_form__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="e09060b71f77de9de7ea7f7758637b6138843433" resname="copy_form__sidebar_right__copy">
@@ -51,14 +51,14 @@
         <target state="translated">Kopiuj</target>
         <note>key: copy_form__sidebar_right__copy</note>
       </trans-unit>
-      <trans-unit id="e6d711b654cc77e353dd44ec2ac0403cc6363379" resname="create_form__sidebar_right__cancel" approved="yes">
-        <source>Cancel</source>
-        <target state="final">Anuluj</target>
+      <trans-unit id="e6d711b654cc77e353dd44ec2ac0403cc6363379" resname="create_form__sidebar_right__cancel">
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: create_form__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="a4bbf87eeab7a1d31fdf3f517b5240ba1d8dd573" resname="create_form__sidebar_right__create" approved="yes">
-        <source>Create</source>
-        <target state="final">Utwórz</target>
+      <trans-unit id="a4bbf87eeab7a1d31fdf3f517b5240ba1d8dd573" resname="create_form__sidebar_right__create">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
         <note>key: create_form__sidebar_right__create</note>
       </trans-unit>
       <trans-unit id="ec24cdc78b683ede74c013cf4037c8745b55ba6e" resname="customer_group_view__context_menu__delete">
@@ -147,13 +147,13 @@
         <note>key: product_view__context_menu__edit</note>
       </trans-unit>
       <trans-unit id="b450183446de8118e16cebbd17b065bf55767c35" resname="update_form__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="translated">Anuluj</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: update_form__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="e64b83da92e68d70aa32dd8bf1dedaf154d39a7d" resname="update_form__sidebar_right__update">
-        <source>Update</source>
-        <target state="translated">Aktualizuj</target>
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
         <note>key: update_form__sidebar_right__update</note>
       </trans-unit>
     </body>
