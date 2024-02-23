@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="fdc7d270cec1081be5a6888bf565ff03eebc6ce9" resname="content.create.cancel_btn.label">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Odrzuć</target>
         <note>key: content.create.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="5767dfeb60cb37c40e6df7dc69ebbede4a996b47" resname="content.create.tag.editing_details">
         <source>under: %content%</source>
-        <target state="needs-translation">under: %content%</target>
+        <target state="translated">pod %content%</target>
         <note>key: content.create.tag.editing_details</note>
       </trans-unit>
     </body>
