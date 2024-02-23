@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="e675883f8fbcd6f810ff30127f4b533ade3e1404" resname="ibexa_storefront.checkout.confirmation_main.payment_fail.subtext">
+        <source><![CDATA[Your order #<b>%order_identifier%</b> has been placed but there was problem with your payment.]]></source>
+        <target state="needs-translation"><![CDATA[Your order #<b>%order_identifier%</b> has been placed but there was problem with your payment.]]></target>
+        <note>key: ibexa_storefront.checkout.confirmation_main.payment_fail.subtext</note>
+      </trans-unit>
       <trans-unit id="5853e50d2a588d6640c2594fc644e8d7e0bf1a69" resname="ibexa_storefront.checkout.confirmation_main.subtext">
         <source><![CDATA[Your order #<b>%order_identifier%</b> has been placed and is being processed.]]></source>
         <target state="translated"><![CDATA[Votre commande n°<b>%order_identifier%</b> a été passée et est en cours de traitement.]]></target>
