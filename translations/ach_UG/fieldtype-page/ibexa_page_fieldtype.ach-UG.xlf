@@ -42,8 +42,8 @@
         <note>key: landing_page_ft.block_id_fetch.failed</note>
       </trans-unit>
       <trans-unit id="2e3afabe437a888c663498e7bb86dba37c35fdcd" resname="landingpage.no_preview">
-        <source>Preview is not available.</source>
-        <target>crwdns252042:0crwdne252042:0</target>
+        <source>To get preview, choose site context and go to "View" tab or click the "Preview" button.</source>
+        <target>crwdns253398:0crwdne253398:0</target>
         <note>key: landingpage.no_preview</note>
       </trans-unit>
       <trans-unit id="4e6b467aeed03b748276c99091952733f2ab538c" resname="layouts.select_layouts">
