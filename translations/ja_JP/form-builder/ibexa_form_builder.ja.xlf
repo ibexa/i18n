@@ -17,8 +17,8 @@
         <note>key: build.form</note>
       </trans-unit>
       <trans-unit id="e3e94b5f80551cb49f285d818c8f59d7ad3d3903" resname="building.form">
-        <source>Building form</source>
-        <target state="needs-translation">Building form</target>
+        <source>Build form</source>
+        <target state="needs-translation">Build form</target>
         <note>key: building.form</note>
       </trans-unit>
       <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
@@ -57,8 +57,8 @@
         <note>key: form.cannot.be.empty</note>
       </trans-unit>
       <trans-unit id="9120005386b03a0ecff11f99fc6da8fa465c5895" resname="form.close">
-        <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: form.close</note>
       </trans-unit>
       <trans-unit id="a928b07ca6312a18de68c5813e52d48f10e375fd" resname="form.edit">
@@ -75,6 +75,16 @@
         <source>Delete</source>
         <target state="translated">削除</target>
         <note>key: form.remove</note>
+      </trans-unit>
+      <trans-unit id="b17e663256279c22d4d81c0f442d03b726ddbcaa" resname="form.save">
+        <source>Save</source>
+        <target state="needs-translation">Save</target>
+        <note>key: form.save</note>
+      </trans-unit>
+      <trans-unit id="3a73d5516ef5d5b46149351c9a8b920b7187c373" resname="form.save_and_close">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
+        <note>key: form.save_and_close</note>
       </trans-unit>
       <trans-unit id="9d9a3840f5ab21538b5df82ff8dc176cc9d8a06e" resname="form_builder.attribute.action.message.label">
         <source>Message to display</source>
