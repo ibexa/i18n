@@ -131,11 +131,6 @@
         <target state="needs-translation">%total% products found</target>
         <note>key: ibexa_storefront.pagination.total</note>
       </trans-unit>
-      <trans-unit id="9fbc7d3e528b8781b97768825597ec7a4e548409" resname="ibexa_storefront.product_catalog.title">
-        <source>Product catalog</source>
-        <target state="needs-translation">Product catalog</target>
-        <note>key: ibexa_storefront.product_catalog.title</note>
-      </trans-unit>
       <trans-unit id="349f54ff4408405ec8534f3a109208850a5ffd56" resname="ibexa_storefront.product.code">
         <source>Code %code%</source>
         <target state="needs-translation">Code %code%</target>
@@ -175,6 +170,11 @@
         <source>View details</source>
         <target state="needs-translation">View details</target>
         <note>key: ibexa_storefront.product_card.view_details_btn.label</note>
+      </trans-unit>
+      <trans-unit id="275e19a2856b2308a9707abffcdbb35f51e3913a" resname="ibexa_storefront.product_catalog.title">
+        <source>Product catalog</source>
+        <target state="needs-translation">Product catalog</target>
+        <note>key: ibexa_storefront.product_catalog.title</note>
       </trans-unit>
       <trans-unit id="2f528d4b2fd384e59bf655f270bf5bee4a9a639b" resname="ibexa_storefront.region_switcher.label">
         <source>Region: %region%</source>
@@ -490,6 +490,11 @@
         <source>Currency</source>
         <target state="needs-translation">Currency</target>
         <note>key: user.setting.currency.name</note>
+      </trans-unit>
+      <trans-unit id="6dce9fec029221078e32a8cfb647c7049b07d07c" resname="user.setting.currency.undefined">
+        <source>undefined</source>
+        <target state="needs-translation">undefined</target>
+        <note>key: user.setting.currency.undefined</note>
       </trans-unit>
     </body>
   </file>
