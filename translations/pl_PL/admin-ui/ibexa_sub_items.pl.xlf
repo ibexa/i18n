@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="2f2de7291ed87063841f5d65e5d73c1c50eaa3be" resname="instant.filter.placeholder">
         <source>Search by content type</source>
-        <target state="needs-translation">Search by content type</target>
+        <target state="translated">Szukaj według typu treści</target>
         <note>key: instant.filter.placeholder</note>
       </trans-unit>
       <trans-unit id="2a9e4002be191374ee14674d2e67eb9fe2d631d2" resname="items_list.title" approved="yes">
@@ -203,72 +203,72 @@
       </trans-unit>
       <trans-unit id="a56dd82e28edbd75b7c55283b5b44dd1490384ce" resname="items_table.columns.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Typ treści</target>
         <note>key: items_table.columns.content_type</note>
       </trans-unit>
       <trans-unit id="fa6e7e45abf61567e0d1ab3e5b8855a5085cadae" resname="items_table.columns.contributor">
         <source>Contributor</source>
-        <target state="needs-translation">Contributor</target>
+        <target state="translated">Współtwórca</target>
         <note>key: items_table.columns.contributor</note>
       </trans-unit>
       <trans-unit id="8e8d14262fcea6fa7081e817b89c58c98bda7da4" resname="items_table.columns.creator">
         <source>Creator</source>
-        <target state="needs-translation">Creator</target>
+        <target state="translated">Autor</target>
         <note>key: items_table.columns.creator</note>
       </trans-unit>
       <trans-unit id="b39a09f106e84c99140ab662398683d31167f187" resname="items_table.columns.location_id">
         <source>Location ID</source>
-        <target state="needs-translation">Location ID</target>
+        <target state="translated">ID lokalizacji</target>
         <note>key: items_table.columns.location_id</note>
       </trans-unit>
       <trans-unit id="28d58f5a1ea14e412362c48a13f0ec1944b435f5" resname="items_table.columns.location_remote_id">
         <source>Location remote ID</source>
-        <target state="needs-translation">Location remote ID</target>
+        <target state="translated">Zdalne ID lokalizacji</target>
         <note>key: items_table.columns.location_remote_id</note>
       </trans-unit>
       <trans-unit id="6417f1ee0b87d142e672c6b8b40c91bfba774ea6" resname="items_table.columns.modified">
         <source>Modified</source>
-        <target state="needs-translation">Modified</target>
+        <target state="translated">Zmodyfikowano</target>
         <note>key: items_table.columns.modified</note>
       </trans-unit>
       <trans-unit id="a2f9a18449417e2f3d377ebf5b4ac121b97f01bc" resname="items_table.columns.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nazwa</target>
         <note>key: items_table.columns.name</note>
       </trans-unit>
       <trans-unit id="f43363086beadd2015800ea855d3c7fca39decde" resname="items_table.columns.object_id">
         <source>Object ID</source>
-        <target state="needs-translation">Object ID</target>
+        <target state="translated">ID obiektu</target>
         <note>key: items_table.columns.object_id</note>
       </trans-unit>
       <trans-unit id="00933a7c2d24ecd374e80b45453c3143ada80bcc" resname="items_table.columns.object_remote_id">
         <source>Object remote ID</source>
-        <target state="needs-translation">Object remote ID</target>
+        <target state="translated">Zdalne ID obiektu</target>
         <note>key: items_table.columns.object_remote_id</note>
       </trans-unit>
       <trans-unit id="bf7e8b547e1597b4862f76e4a5374df05fffae82" resname="items_table.columns.priority">
         <source>Priority</source>
-        <target state="needs-translation">Priority</target>
+        <target state="translated">Priotytet</target>
         <note>key: items_table.columns.priority</note>
       </trans-unit>
       <trans-unit id="d64063d4bc7a810257b1831d187083c5dcb5d8ba" resname="items_table.columns.pubished">
         <source>Published</source>
-        <target state="needs-translation">Published</target>
+        <target state="translated">Opublikowano</target>
         <note>key: items_table.columns.pubished</note>
       </trans-unit>
       <trans-unit id="edf9d69f4f4424fe683396fb1752dead42a6053b" resname="items_table.columns.section">
         <source>Section</source>
-        <target state="needs-translation">Section</target>
+        <target state="translated">Sekcja</target>
         <note>key: items_table.columns.section</note>
       </trans-unit>
       <trans-unit id="acd68e6e17ecbb38a2359e362034130d47b3a85e" resname="items_table.columns.translations">
         <source>Translations</source>
-        <target state="needs-translation">Translations</target>
+        <target state="translated">Tłumaczenia</target>
         <note>key: items_table.columns.translations</note>
       </trans-unit>
       <trans-unit id="ffeb0fd8579ca369a5a42375b1673f0c9d003562" resname="items_table.columns.visibility">
         <source>Visibility</source>
-        <target state="needs-translation">Visibility</target>
+        <target state="translated">Widoczność</target>
         <note>key: items_table.columns.visibility</note>
       </trans-unit>
       <trans-unit id="0d59826a85ae0f5cc7f6d56efa18d2b9cbe7c687" resname="items_table.row.not_visible.label">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="712c8bc3c12cd6e3f3940ae76271148a9e4b0818" resname="view_columns_toggler.label">
         <source>Columns</source>
-        <target state="needs-translation">Columns</target>
+        <target state="translated">Kolumny</target>
         <note>key: view_columns_toggler.label</note>
       </trans-unit>
       <trans-unit id="71163c5c559fc7ddbd92441dc94c4eddc7e58274" resname="view_switcher.grid_view">
