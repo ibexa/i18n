@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="46eac77ae02f91344e4239e517a2c2806f628b57" resname="url.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Zapisz</target>
         <note>key: url.save</note>
       </trans-unit>
       <trans-unit id="781fe2cec5471ca0afb64ee844770e054754d570" resname="url.save_and_close">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Zapisz i zamknij</target>
         <note>key: url.save_and_close</note>
       </trans-unit>
       <trans-unit id="bce60197735a1f604ba70517b0f1b4b0d838d56a" resname="url.status.all">
