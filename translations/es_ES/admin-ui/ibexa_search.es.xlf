@@ -6,14 +6,44 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="61592766b16351f37d5ed4d286a6a789d4ee01ab" resname="autocomplete.no_results">
+        <source>No suggestions available.</source>
+        <target state="needs-translation">No suggestions available.</target>
+        <note>key: autocomplete.no_results</note>
+      </trans-unit>
+      <trans-unit id="d68ca850f0a4efdfd3457cd2c36ce6b57f13f1a3" resname="autocomplete.request.error">
+        <source>Cannot load suggestions</source>
+        <target state="needs-translation">Cannot load suggestions</target>
+        <note>key: autocomplete.request.error</note>
+      </trans-unit>
+      <trans-unit id="95d62d3e38a2c9042e56a3c7fb087d8645384229" resname="autocomplete.results_count">
+        <source>Results</source>
+        <target state="needs-translation">Results</target>
+        <note>key: autocomplete.results_count</note>
+      </trans-unit>
+      <trans-unit id="9909b3aba5a51f5fd34ba6c9fdba12115ced5564" resname="autocomplete.view_all_results">
+        <source>View all results</source>
+        <target state="needs-translation">View all results</target>
+        <note>key: autocomplete.view_all_results</note>
+      </trans-unit>
+      <trans-unit id="75d6d16d28be17ef015b223c19696f17e99f2be3" resname="global_search.focus.hint">
+        <source>Search</source>
+        <target state="needs-translation">Search</target>
+        <note>key: global_search.focus.hint</note>
+      </trans-unit>
+      <trans-unit id="7100bfb6741e032fcfcc681f3eceef78650e4672" resname="header.search">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: header.search</note>
+      </trans-unit>
       <trans-unit id="3559d7accf00360971961ca18989adc0614089c0" resname="search">
         <source>Search</source>
         <target state="translated">Buscar</target>
         <note>key: search</note>
       </trans-unit>
       <trans-unit id="2c0d71c1688c1f04ff156bb9dff167ca5ae663b6" resname="search.any.content.type">
-        <source>Any Content Type</source>
-        <target state="translated">Cualquier tipo de contenido</target>
+        <source>Any content type</source>
+        <target state="needs-translation">Any content type</target>
         <note>key: search.any.content.type</note>
       </trans-unit>
       <trans-unit id="08232f4c5c3ca88a7f2fd8e29eda7e20ec346aae" resname="search.any_time">
@@ -32,8 +62,8 @@
         <note>key: search.clear</note>
       </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
-        <source>Content Type</source>
-        <target state="translated">Tipo de contenido</target>
+        <source>Content type</source>
+        <target state="needs-translation">Content type</target>
         <note>key: search.content.type</note>
       </trans-unit>
       <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
@@ -156,6 +186,11 @@
         <target state="translated">Sección</target>
         <note>key: search.section</note>
       </trans-unit>
+      <trans-unit id="923ca53f6602fe7eabe79838efdca27c2756b0fd" resname="search.spellcheck.suggestion">
+        <source>Did you mean %s?</source>
+        <target state="needs-translation">Did you mean %s?</target>
+        <note>key: search.spellcheck.suggestion</note>
+      </trans-unit>
       <trans-unit id="b484be9d33f5cd9961f4ddd89c628f2cbca2a6a1" resname="search.subtree">
         <source>Subtree</source>
         <target state="translated">Subárbol</target>
@@ -172,8 +207,8 @@
         <note>key: search.translation</note>
       </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
-        <source>Content Type</source>
-        <target state="translated">Tipo de contenido</target>
+        <source>Content type</source>
+        <target state="needs-translation">Content type</target>
         <note>key: search.type</note>
       </trans-unit>
     </body>
