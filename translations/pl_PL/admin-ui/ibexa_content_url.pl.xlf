@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Utwórz</target>
         <note>key: custom_url_alias_add_form.add</note>
       </trans-unit>
       <trans-unit id="71a3521d37991dc43b665d2cc94b7e1589360f48" resname="custom_url_alias_add_form.site_access.placeholder">
         <source>None</source>
-        <target state="needs-translation">None</target>
+        <target state="translated">Brak</target>
         <note>key: custom_url_alias_add_form.site_access.placeholder</note>
       </trans-unit>
       <trans-unit id="5c48ac36c2a46c2dc2a89fd4c91a2a3d684eb5d8" resname="tab.urls.action.add">
