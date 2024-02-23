@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="hr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="0c92c38dec5768a67c3025dff43132a1a58f2ae9" resname="block.product_lowest_stock.column.category">
+        <source>Category</source>
+        <target state="needs-translation">Category</target>
+        <note>key: block.product_lowest_stock.column.category</note>
+      </trans-unit>
+      <trans-unit id="e7efcfdd8c522a932bdb992d86580c07a0cdb3af" resname="block.product_lowest_stock.column.code">
+        <source>Code</source>
+        <target state="needs-translation">Code</target>
+        <note>key: block.product_lowest_stock.column.code</note>
+      </trans-unit>
+      <trans-unit id="707d6ccec6438348fbdfcf0560ae7bf98745d5ab" resname="block.product_lowest_stock.column.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+        <note>key: block.product_lowest_stock.column.name</note>
+      </trans-unit>
+      <trans-unit id="bd2eaec75a96ba4f59ee5f4ee4ee20e981afd420" resname="block.product_lowest_stock.column.stock">
+        <source>Stock</source>
+        <target state="needs-translation">Stock</target>
+        <note>key: block.product_lowest_stock.column.stock</note>
+      </trans-unit>
+      <trans-unit id="80f3c62bda35579bac9374ecc27b668ded7318c9" resname="block.product_lowest_stock.column.thumbnail">
+        <source>Image</source>
+        <target state="needs-translation">Image</target>
+        <note>key: block.product_lowest_stock.column.thumbnail</note>
+      </trans-unit>
+      <trans-unit id="f9b374b3775aabdd5f5a1ae1d3a37e73108b8554" resname="block.product_lowest_stock.column.type">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+        <note>key: block.product_lowest_stock.column.type</note>
+      </trans-unit>
+      <trans-unit id="c5cb4e74ef2de0cb72dcf23e20dd2be09a276afc" resname="block.product_lowest_stock.column.variant">
+        <source>Variant</source>
+        <target state="needs-translation">Variant</target>
+        <note>key: block.product_lowest_stock.column.variant</note>
+      </trans-unit>
+      <trans-unit id="7b3c95d1b3a4b72cf13a6890514f76268bc65031" resname="block.product_lowest_stock.empty">
+        <source>No results found</source>
+        <target state="needs-translation">No results found</target>
+        <note>key: block.product_lowest_stock.empty</note>
+      </trans-unit>
+      <trans-unit id="3e432694d7c2f7737ad4c9756f3abf82ce0017cb" resname="block.product_lowest_stock.no">
+        <source>No</source>
+        <target state="needs-translation">No</target>
+        <note>key: block.product_lowest_stock.no</note>
+      </trans-unit>
+      <trans-unit id="4c39361a4559470d79bed70bfae9a5dd93642d2f" resname="block.product_lowest_stock.title">
+        <source>Products with the lowest stock</source>
+        <target state="needs-translation">Products with the lowest stock</target>
+        <note>key: block.product_lowest_stock.title</note>
+      </trans-unit>
+      <trans-unit id="5603e89bea3b724a8a6a261af35cc6b1144fb8ec" resname="block.product_lowest_stock.yes">
+        <source>Yes</source>
+        <target state="needs-translation">Yes</target>
+        <note>key: block.product_lowest_stock.yes</note>
+      </trans-unit>
+      <trans-unit id="398d7671a0a23bf3efdbdc8b6c5ada78702132f4" resname="dashboard.products_by_categories.dataset_label">
+        <source>Products</source>
+        <target state="needs-translation">Products</target>
+        <note>key: dashboard.products_by_categories.dataset_label</note>
+      </trans-unit>
+      <trans-unit id="749c4bf4cb2d2913e192d66a32153c4d9a12110b" resname="dashboard.products_by_categories.other_categories">
+        <source>Other categories</source>
+        <target state="needs-translation">Other categories</target>
+        <note>key: dashboard.products_by_categories.other_categories</note>
+      </trans-unit>
+      <trans-unit id="3f0f1c7e05c9165f8d191d07a0318c748fc45e6b" resname="dashboard.products_by_categories.title">
+        <source>Products by categories</source>
+        <target state="needs-translation">Products by categories</target>
+        <note>key: dashboard.products_by_categories.title</note>
+      </trans-unit>
+      <trans-unit id="2d189fe8e47e640973b2fb30f75ff57fa3e6874b" resname="dashboard.products_by_categories.uncategorized">
+        <source>Uncategorized</source>
+        <target state="needs-translation">Uncategorized</target>
+        <note>key: dashboard.products_by_categories.uncategorized</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
