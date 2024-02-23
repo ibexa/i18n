@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="1ce896169bbe0866cecf860f4b432df7f198a33d" resname="main__activity_log_list">
         <source>Recent activity</source>
-        <target state="needs-translation">Recent activity</target>
+        <target state="translated">Ostatnia aktywność</target>
         <note>key: main__activity_log_list</note>
       </trans-unit>
     </body>
