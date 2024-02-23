@@ -185,12 +185,12 @@
       </trans-unit>
       <trans-unit id="99365a37afbae39d10db919c155dcfd4f6280a29" resname="address_book.breadcrumb">
         <source>Address book</source>
-        <target state="needs-translation">Address book</target>
+        <target state="translated">Książka adresowa</target>
         <note>key: address_book.breadcrumb</note>
       </trans-unit>
       <trans-unit id="379b8916af53e569d8cf1c4aaa250a92c2126b97" resname="address_book.header">
         <source>Address book</source>
-        <target state="needs-translation">Address book</target>
+        <target state="translated">Książka adresowa</target>
         <note>key: address_book.header</note>
       </trans-unit>
       <trans-unit id="aa92dc5c22f4d2642f9c3d36b6558cfb9a9193b7" resname="block.order.column.company_name">
@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="300ac1632a379e0713f107edfdf7ec35ee76a5c1" resname="block.order.column.identifier">
         <source>Order ID</source>
-        <target state="needs-translation">Order ID</target>
+        <target state="translated">ID zamówienia</target>
         <note>key: block.order.column.identifier</note>
       </trans-unit>
       <trans-unit id="02f92dc6f1ba951c3c1a11416b74099d55ac14ac" resname="block.order.column.modified_at">
@@ -255,12 +255,12 @@
       </trans-unit>
       <trans-unit id="6f61481110a2d74001c323016d123f4ac68e5fd1" resname="contact.profile.role">
         <source>Contact person</source>
-        <target state="needs-translation">Contact person</target>
+        <target state="translated">Osoba kontaktowa</target>
         <note>key: contact.profile.role</note>
       </trans-unit>
       <trans-unit id="1aca544cfc5b2908588aeef07063bf03ea42357b" resname="contact.title">
         <source>Contact</source>
-        <target state="needs-translation">Contact</target>
+        <target state="translated">Kontakt</target>
         <note>key: contact.title</note>
       </trans-unit>
       <trans-unit id="efc6819f50155fb75181fd5609ec90f2f5bde610" resname="dashboard.data.average_order.title">
@@ -320,12 +320,12 @@
       </trans-unit>
       <trans-unit id="bf7120e72236a2059f59fc12cac967f5e0fef5a8" resname="my_profile.about_me.edit.headline">
         <source>About me</source>
-        <target state="needs-translation">About me</target>
+        <target state="translated">O mnie</target>
         <note>key: my_profile.about_me.edit.headline</note>
       </trans-unit>
       <trans-unit id="19d4a803a4e83a07545db674d571c319f1711ff5" resname="my_profile.about_me.edit.label">
         <source>Change your personal information.</source>
-        <target state="needs-translation">Change your personal information.</target>
+        <target state="translated">Zmień swoje dane osobowe.</target>
         <note>key: my_profile.about_me.edit.label</note>
       </trans-unit>
       <trans-unit id="65d60a57b26c942961abcfc0379bdb5d993f1b85" resname="my_profile.about_me.email">
@@ -340,7 +340,7 @@
       </trans-unit>
       <trans-unit id="61a42b788a999c39436b07876e079dd5948ce96e" resname="my_profile.breadcrumb">
         <source>My profile</source>
-        <target state="needs-translation">My profile</target>
+        <target state="translated">Mój profil</target>
         <note>key: my_profile.breadcrumb</note>
       </trans-unit>
       <trans-unit id="bb9293f860d1c5a04c62a48fdd5e5fe26744fc34" resname="my_profile.sign_in.edit.btn.label">
@@ -365,7 +365,7 @@
       </trans-unit>
       <trans-unit id="2874fac47773d8e22bcb5ee06650c7647b37cdac" resname="my_profile.title">
         <source>My profile</source>
-        <target state="needs-translation">My profile</target>
+        <target state="translated">Mój profil</target>
         <note>key: my_profile.title</note>
       </trans-unit>
       <trans-unit id="5d58a26799e4733d9e207b601656eacc0bdf4e78" resname="orders.table.headline">
@@ -467,7 +467,7 @@
       </trans-unit>
       <trans-unit id="146a8436227b0f4d8a0edcf92874b6d4b584f6d4" resname="registration.form.billing_address_group.title">
         <source>Billing address</source>
-        <target state="needs-translation">Billing address</target>
+        <target state="translated">Adres rozliczeniowy</target>
         <note>key: registration.form.billing_address_group.title</note>
       </trans-unit>
       <trans-unit id="6e15c014b9f9f66068ae58f70f331ceb03e308f7" resname="registration.form.contact_information_group.title">
@@ -477,7 +477,7 @@
       </trans-unit>
       <trans-unit id="011d777a33fbe45b5a156621e8afdf3ce33562cf" resname="registration.form.submit.btn">
         <source>Register</source>
-        <target state="needs-translation">Register</target>
+        <target state="translated">Rejestracja</target>
         <note>key: registration.form.submit.btn</note>
       </trans-unit>
       <trans-unit id="d6c5e54e54472f7090fd62e16c51774a43af3e78" resname="registration_already_exists.info.explanation">
@@ -487,12 +487,12 @@
       </trans-unit>
       <trans-unit id="4b37cf55b7bda5b33a39fd1817dce2e1ada559ea" resname="registration_already_exists.info.title">
         <source>Application already exists.</source>
-        <target state="needs-translation">Application already exists.</target>
+        <target state="translated">Aplikacja już istnieje.</target>
         <note>key: registration_already_exists.info.title</note>
       </trans-unit>
       <trans-unit id="fa25dd4e34e214653fba103113d3a2349d734d4d" resname="registration_already_exists.info.todo">
         <source>Please contact us directly if you think this is a mistake.</source>
-        <target state="needs-translation">Please contact us directly if you think this is a mistake.</target>
+        <target state="translated">Jeśli uważasz, że jest to błąd, skontaktuj się z nami.</target>
         <note>key: registration_already_exists.info.todo</note>
       </trans-unit>
       <trans-unit id="fa81b7a926fe90fcad4e5affde9e55dda7378d66" resname="registration_confirmation.image">
@@ -502,7 +502,7 @@
       </trans-unit>
       <trans-unit id="49c6026a629b3dbe922fe8e824acc26763d9273f" resname="registration_confirmation.image.alt.success">
         <source>Registration successful</source>
-        <target state="needs-translation">Registration successful</target>
+        <target state="translated">Rejestracja powiodła się</target>
         <note>key: registration_confirmation.image.alt.success</note>
       </trans-unit>
       <trans-unit id="6fc866ce4a39797136c01cfcea23618b85215fce" resname="registration_confirmation.info.after_info">
@@ -527,7 +527,7 @@
       </trans-unit>
       <trans-unit id="19f3e919f2c0f7a4c6ba864454f9740262058da9" resname="registration_wait.image.alt">
         <source>registration is currently locked</source>
-        <target state="needs-translation">registration is currently locked</target>
+        <target state="translated">rejestracja jest obecnie zablokowana</target>
         <note>key: registration_wait.image.alt</note>
       </trans-unit>
       <trans-unit id="a452422825b43e61f1c0475af0028f3b56916380" resname="registration_wait.info.explanation">
@@ -537,7 +537,7 @@
       </trans-unit>
       <trans-unit id="073a3a0d9fe3cbdb0465e8db803ec3b5e04a26d7" resname="registration_wait.info.title">
         <source>Registration is currently locked.</source>
-        <target state="needs-translation">Registration is currently locked.</target>
+        <target state="translated">Rejestracja jest obecnie zablokowana.</target>
         <note>key: registration_wait.info.title</note>
       </trans-unit>
       <trans-unit id="92d4e1c85e73e214d86a7343938fe45c8e6e80ed" resname="registration_wait.info.try_again">
@@ -552,7 +552,7 @@
       </trans-unit>
       <trans-unit id="94c2a9315a0efe1dc22dc0708ae5ca29169848c3" resname="user_profile.phone.label">
         <source>Phone</source>
-        <target state="needs-translation">Phone</target>
+        <target state="translated">Telefon</target>
         <note>key: user_profile.phone.label</note>
       </trans-unit>
       <trans-unit id="1e2e623cc917d695a57bd1e9208b133a3449b13b" resname="website.brand">
