@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="d09c0046ba92d9dc2c9646bfecf770aa9b218f78" resname="activity_log.limitation.self">
         <source>Only own logs</source>
-        <target state="needs-translation">Only own logs</target>
+        <target state="translated">Tylko własne wpisy</target>
         <note>key: activity_log.limitation.self</note>
       </trans-unit>
       <trans-unit id="d25f61437b2ab1e708f8f4bec0b123ddbb4b359e" resname="policy.limitation.identifier.activity_log_owner">
         <source>Owner</source>
-        <target state="needs-translation">Owner</target>
+        <target state="translated">Właściciel</target>
         <note>key: policy.limitation.identifier.activity_log_owner</note>
       </trans-unit>
       <trans-unit id="9daf8e1a94a6409f9b9b102e042c2858e4307ea8" resname="policy.limitation.identifier.owner">
         <source>Owner</source>
-        <target state="needs-translation">Owner</target>
+        <target state="translated">Właściciel</target>
         <note>key: policy.limitation.identifier.owner</note>
       </trans-unit>
     </body>
