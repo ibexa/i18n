@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="064308edb6cadea3cbc55a488811610e3ceaf2a8" resname="object_state.create.create">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Zapisz i zamknij</target>
         <note>key: object_state.create.create</note>
       </trans-unit>
       <trans-unit id="a8e6d8340df7bce87b08b1cb4567246715456798" resname="object_state.create.create_and_edit">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Zapisz</target>
         <note>key: object_state.create.create_and_edit</note>
       </trans-unit>
       <trans-unit id="ba36d98066b4d157d8c91e3d642a2b54442f4846" resname="object_state.create.identifier" approved="yes">
@@ -108,12 +108,12 @@
       </trans-unit>
       <trans-unit id="4f64932a8e6184e5ca765574a331828a77bd38e5" resname="object_state.update.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Zapisz</target>
         <note>key: object_state.update.save</note>
       </trans-unit>
       <trans-unit id="8b0cdd1fff0afd68d0716c1d8dc122a13b5f2e58" resname="object_state.update.save_and_close">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Zapisz i zamknij</target>
         <note>key: object_state.update.save_and_close</note>
       </trans-unit>
       <trans-unit id="d21ddef10954199297aeb0a318e9f627dda69ec9" resname="object_state.update.success" approved="yes">
@@ -158,12 +158,12 @@
       </trans-unit>
       <trans-unit id="3d528bcbfbe40fbefd8dc7590a33b77bf666c9ea" resname="object_state_group.create.create">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Zapisz i zamknij</target>
         <note>key: object_state_group.create.create</note>
       </trans-unit>
       <trans-unit id="23dda7cc1bdf58114869f0c13c69ec0e0fb32d67" resname="object_state_group.create.create_and_edit">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Zapisz</target>
         <note>key: object_state_group.create.create_and_edit</note>
       </trans-unit>
       <trans-unit id="f87d9f18a93e3ce9f164386ee0255d53d4c5227e" resname="object_state_group.create.identifier" approved="yes">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="234776708dc81f062b0a28676112bacf7ecca25d" resname="object_state_group.update.save_and_close">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Zapisz i zamknij</target>
         <note>key: object_state_group.update.save_and_close</note>
       </trans-unit>
       <trans-unit id="36efba078c092e0aa3fb7c44fcd55b1ee292cc35" resname="object_state_group.update.success" approved="yes">
