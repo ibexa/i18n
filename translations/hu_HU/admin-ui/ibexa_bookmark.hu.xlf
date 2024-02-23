@@ -21,9 +21,9 @@
         <target state="needs-translation">Edit</target>
         <note>key: bookmark.list.content.edit</note>
       </trans-unit>
-      <trans-unit id="cf687b0218c513d53ad3f52b2547c23500242c48" resname="bookmark.list.content_type" approved="yes">
-        <source>Content Type</source>
-        <target state="final">Tartalomtípus</target>
+      <trans-unit id="cf687b0218c513d53ad3f52b2547c23500242c48" resname="bookmark.list.content_type">
+        <source>Content type</source>
+        <target state="needs-translation">Content type</target>
         <note>key: bookmark.list.content_type</note>
       </trans-unit>
       <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
