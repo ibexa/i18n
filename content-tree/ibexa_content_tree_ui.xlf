@@ -31,6 +31,11 @@
         <target state="new">Hide</target>
         <note>key: actions.hide_content</note>
       </trans-unit>
+      <trans-unit id="3caa712af1590a995b4bad3dd230e78284467db8" resname="actions.preview_content">
+        <source>Preview</source>
+        <target state="new">Preview</target>
+        <note>key: actions.preview_content</note>
+      </trans-unit>
       <trans-unit id="fab4bddcadee1924ad4f3c0fade3879ae9494df5" resname="actions.remove_from_bookmarks">
         <source>Remove from bookmarks</source>
         <target state="new">Remove from bookmarks</target>
@@ -147,8 +152,8 @@
         <note>key: delete.send_to_trash.modal.body</note>
       </trans-unit>
       <trans-unit id="fda5d31392f746288f371fdb64897146e018a606" resname="load_content_types.error">
-        <source>Cannot load Content Types</source>
-        <target state="new">Cannot load Content Types</target>
+        <source>Cannot load content types</source>
+        <target state="new">Cannot load content types</target>
         <note>key: load_content_types.error</note>
       </trans-unit>
     </body>

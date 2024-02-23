@@ -41,20 +41,10 @@
         <target state="new">Details</target>
         <note>key: application.details.tab.summary.label</note>
       </trans-unit>
-      <trans-unit id="b906db005781af45f7abb3c4fd99ea0629a0647d" resname="application.edit.cancel_btn.label">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
-        <note>key: application.edit.cancel_btn.label</note>
-      </trans-unit>
       <trans-unit id="547114a74995cf8a1b1daf271d8f55a3ba425c7e" resname="application.edit.editing">
         <source>Editing</source>
         <target state="new">Editing</target>
         <note>key: application.edit.editing</note>
-      </trans-unit>
-      <trans-unit id="22fdecf5a29d8bdce8aea306b01efe71b6a140a0" resname="application.edit.save_btn.label">
-        <source>Save</source>
-        <target state="new">Save</target>
-        <note>key: application.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="c0cf2ff9244bbb22dcf1d0fe3c3577cc65ea2b0b" resname="application.edit.section.basic_information.title">
         <source>Basic information</source>
@@ -516,20 +506,10 @@
         <target state="new">Last orders</target>
         <note>key: company.details.tab.summary.orders.table.headline</note>
       </trans-unit>
-      <trans-unit id="0e3fbd257759b27126faf131e6546aa1e93efecb" resname="company.edit.cancel_btn.label">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
-        <note>key: company.edit.cancel_btn.label</note>
-      </trans-unit>
       <trans-unit id="33a5c83147ca2cc7b3bcbff8b338daf648cf490d" resname="company.edit.editing">
         <source>Editing</source>
         <target state="new">Editing</target>
         <note>key: company.edit.editing</note>
-      </trans-unit>
-      <trans-unit id="f3b66b23b5befa6e825dedc1af307df99fdcfdeb" resname="company.edit.save_btn.label">
-        <source>Save</source>
-        <target state="new">Save</target>
-        <note>key: company.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="11773becb9c5737acce12e75b8f78fd9fe2fd029" resname="company.edit.success">
         <source>Company '%name%' updated.</source>
@@ -817,13 +797,13 @@
         <note>key: member.create.action_name</note>
       </trans-unit>
       <trans-unit id="ce5f3e4d7ecd3c04d8362a58f5acd4d06ed35361" resname="member.create.cancel_btn.label">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
+        <source>Discard</source>
+        <target state="new">Discard</target>
         <note>key: member.create.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="d1cb29393add5b969ae26c473fa9768c19ae27b6" resname="member.create.save_btn.label">
-        <source>Save</source>
-        <target state="new">Save</target>
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
         <note>key: member.create.save_btn.label</note>
       </trans-unit>
       <trans-unit id="eb25272b63f7419bdaa48e007ee297dbc1a0aa1e" resname="member.create.success">
@@ -837,8 +817,8 @@
         <note>key: member.create.title</note>
       </trans-unit>
       <trans-unit id="1eef10adc8917823b4941b454473cfa0890a447d" resname="member.edit.cancel_btn.label">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
+        <source>Discard</source>
+        <target state="new">Discard</target>
         <note>key: member.edit.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="acc5c68952087e2ddc74a06b8f959eecb3f2747f" resname="member.edit.editing">
@@ -847,8 +827,8 @@
         <note>key: member.edit.editing</note>
       </trans-unit>
       <trans-unit id="669423155a274137cdaccd1ef90b4f3e9a5cb530" resname="member.edit.save_btn.label">
-        <source>Save</source>
-        <target state="new">Save</target>
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
         <note>key: member.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="d40309cb9c6f16d95a722e82775b5a607d79573e" resname="member.edit.success">
