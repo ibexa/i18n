@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="cadbd405bae45bc2b3d609a3081e0185706a7828" resname="security.activity_log.access_forbidden">
         <source>Access forbidden</source>
-        <target state="needs-translation">Access forbidden</target>
+        <target state="translated">Brak dostępu</target>
         <note>key: security.activity_log.access_forbidden</note>
       </trans-unit>
     </body>
