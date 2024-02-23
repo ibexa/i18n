@@ -6,6 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="bcad7589606d679428f715ddf8fa972c9cdefca7" resname="corporate_content_create__sidebar_right__cancel">
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
+        <note>key: corporate_content_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="e3e92c9d3febe7debf3a1407c99c2c6a44b4f23d" resname="corporate_content_create__sidebar_right__publish">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
+        <note>key: corporate_content_create__sidebar_right__publish</note>
+      </trans-unit>
+      <trans-unit id="1380c17c3ddcb6d709f80be46f1b5208e062a0cf" resname="corporate_content_edit__sidebar_right__cancel">
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
+        <note>key: corporate_content_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="7addc65c8a0c3930aab3f088432f6e00a9ae97bd" resname="corporate_content_edit__sidebar_right__publish">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
+        <note>key: corporate_content_edit__sidebar_right__publish</note>
+      </trans-unit>
       <trans-unit id="b8e18a121a5a126029e6318b7769b1912fb6980a" resname="customer_portal__account_settings">
         <source>Settings</source>
         <target state="needs-translation">Settings</target>
