@@ -61,6 +61,41 @@
         <target state="translated">Page Builder</target>
         <note>key: menu_bar.page_buider.label</note>
       </trans-unit>
+      <trans-unit id="13a5f2cfcd41147ba67b4dc14394711e00b9d359" resname="preview_history.nothing_to_redo.label">
+        <source>Nothing to redo</source>
+        <target state="needs-translation">Nothing to redo</target>
+        <note>key: preview_history.nothing_to_redo.label</note>
+      </trans-unit>
+      <trans-unit id="340fefd117d10dcbc2da91e5c1bc43fa8811f7d2" resname="preview_history.nothing_to_undo.label">
+        <source>Nothing to undo</source>
+        <target state="needs-translation">Nothing to undo</target>
+        <note>key: preview_history.nothing_to_undo.label</note>
+      </trans-unit>
+      <trans-unit id="aa160a5c01dc031fa49a6c7b84fd5b99d17b8efa" resname="preview_history.redo.label">
+        <source>Redo</source>
+        <target state="needs-translation">Redo</target>
+        <note>key: preview_history.redo.label</note>
+      </trans-unit>
+      <trans-unit id="981b5494a7788124c1343167d715edc16962346b" resname="preview_history.undo.label">
+        <source>Undo</source>
+        <target state="needs-translation">Undo</target>
+        <note>key: preview_history.undo.label</note>
+      </trans-unit>
+      <trans-unit id="f5dfb65626f6665a2f5a1b3f5a23f435e858d7c6" resname="preview_switcher.desktop.label">
+        <source>Desktop</source>
+        <target state="needs-translation">Desktop</target>
+        <note>key: preview_switcher.desktop.label</note>
+      </trans-unit>
+      <trans-unit id="861187de75e0d1ffbff23ad562bb4c8fcdef8a28" resname="preview_switcher.mobile.label">
+        <source>Mobile</source>
+        <target state="needs-translation">Mobile</target>
+        <note>key: preview_switcher.mobile.label</note>
+      </trans-unit>
+      <trans-unit id="a26370af85f06e0b785c9ade1d58e4fd756ba29c" resname="preview_switcher.tablet.label">
+        <source>Tablet</source>
+        <target state="needs-translation">Tablet</target>
+        <note>key: preview_switcher.tablet.label</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
