@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="340a2c63dca7109702c4c70c94ab9ad0e8bdbfc2" resname="attribute.definition.variant.form_mapper.help">
+        <source>Provide color values as hex codes. For example, #FF0000.</source>
+        <target state="needs-translation">Provide color values as hex codes. For example, #FF0000.</target>
+        <note>key: attribute.definition.variant.form_mapper.help</note>
+      </trans-unit>
       <trans-unit id="147df925ba44f0c3046cd517469211786cda66f4" resname="attribute.selection_options.add">
         <source>Add</source>
         <target state="needs-translation">Add</target>
@@ -151,11 +156,6 @@
         <target state="needs-translation">Sorry, there are no attributes for your search</target>
         <note>key: attribute_definition.no_search_results.info_text</note>
       </trans-unit>
-      <trans-unit id="9cbd920f83ef0b74bf3b8a29a855485a36fbcff2" resname="attribute_definition.pre_create.add">
-        <source>Add</source>
-        <target state="needs-translation">Add</target>
-        <note>key: attribute_definition.pre_create.add</note>
-      </trans-unit>
       <trans-unit id="2addd3db0aebc0606627d60ce51e66448d26b592" resname="attribute_definition.pre_create.add_attribute_definition">
         <source>Add attribute definition</source>
         <target state="needs-translation">Add attribute definition</target>
@@ -165,6 +165,16 @@
         <source>Cancel</source>
         <target state="needs-translation">Cancel</target>
         <note>key: attribute_definition.pre_create.cancel</note>
+      </trans-unit>
+      <trans-unit id="8737bf7b12def2eadd356776068bb73901ea997f" resname="attribute_definition.pre_create.create">
+        <source>Create</source>
+        <target state="needs-translation">Create</target>
+        <note>key: attribute_definition.pre_create.create</note>
+      </trans-unit>
+      <trans-unit id="9098662f5710e7a75426fc41ebeef4c48c5f62d1" resname="attribute_definition.pre_create.discard">
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
+        <note>key: attribute_definition.pre_create.discard</note>
       </trans-unit>
       <trans-unit id="8291d22b53db4caceba195ce3e05ca4240235a09" resname="attribute_definition.update.success">
         <source>Attribute '%name%' updated.</source>
@@ -716,11 +726,6 @@
         <target state="needs-translation">Enabled</target>
         <note>key: currency.enabled.value.1</note>
       </trans-unit>
-      <trans-unit id="47c4ea1fc2aa2df69669f94fee15132794d895c8" resname="currency.list.column.code">
-        <source>Code</source>
-        <target state="needs-translation">Code</target>
-        <note>key: currency.list.column.code</note>
-      </trans-unit>
       <trans-unit id="fa6dcaa63ea388da6642da4d8f5c4a31208af991" resname="currency.list.column.enabled">
         <source>Enabled</source>
         <target state="needs-translation">Enabled</target>
@@ -981,6 +986,11 @@
         <target state="needs-translation">Type</target>
         <note>key: filter.product_type.label</note>
       </trans-unit>
+      <trans-unit id="dc15cc34e9274645e594af33b943f12ed57c0dce" resname="form.currency.enabled">
+        <source>Enable currency</source>
+        <target state="needs-translation">Enable currency</target>
+        <note>key: form.currency.enabled</note>
+      </trans-unit>
       <trans-unit id="b530a073c368d83e3bdc04e76b9bc48e61057f6c" resname="form.currency.subunits">
         <source>Number of fractional places</source>
         <target state="needs-translation">Number of fractional places</target>
@@ -1012,19 +1022,14 @@
         <note>key: ibexa_product_catalog.attribute.selection.option.choices</note>
       </trans-unit>
       <trans-unit id="3bdf637be6198badcdcf3f6234997c849451de5c" resname="ibexa_product_catalog.product_create_form.submit">
-        <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <source>Create</source>
+        <target state="needs-translation">Create</target>
         <note>key: ibexa_product_catalog.product_create_form.submit</note>
       </trans-unit>
       <trans-unit id="a081c8e6ebc3b4da038c7bde40d6776ac89b17aa" resname="ibexa_product_catalog.product_create_form.title">
         <source>Create product</source>
         <target state="needs-translation">Create product</target>
         <note>key: ibexa_product_catalog.product_create_form.title</note>
-      </trans-unit>
-      <trans-unit id="19ac5b46de12ced1aef77fb3ccb142676f4ea027" resname="ibexa_product_catalog.vat_category.choices">
-        <source>VAT category</source>
-        <target state="needs-translation">VAT category</target>
-        <note>key: ibexa_product_catalog.vat_category.choices</note>
       </trans-unit>
       <trans-unit id="05ac6bd0badf7c95db6f444e62cc0ff4a363c6a9" resname="list.action.create">
         <source>Create</source>
@@ -1082,8 +1087,8 @@
         <note>key: modal.bulk_delete.products.confirm_message</note>
       </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
-        <source>Disard</source>
-        <target state="needs-translation">Disard</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: modal.cancel</note>
       </trans-unit>
       <trans-unit id="16636392bfc4d6198c247f9b5ad62eca2adb3c69" resname="modal.copy.catalog.confirm_button.label">
@@ -1135,6 +1140,11 @@
         <source>Change</source>
         <target state="needs-translation">Change</target>
         <note>key: modal.transition.catalog.change_button.label</note>
+      </trans-unit>
+      <trans-unit id="75751e6fb57250f631fc029a42202f080fc08d77" resname="modal.transition.catalog.confirm_message">
+        <source>Are you sure you want to make the transition?</source>
+        <target state="needs-translation">Are you sure you want to make the transition?</target>
+        <note>key: modal.transition.catalog.confirm_message</note>
       </trans-unit>
       <trans-unit id="f15aba1220b27d17e3e4b4f03a0cf40762893d14" resname="number_range.max.label">
         <source>To</source>
@@ -1215,6 +1225,16 @@
         <source>Product "%product_name%"</source>
         <target state="needs-translation">Product "%product_name%"</target>
         <note>key: product.availability.edit.title</note>
+      </trans-unit>
+      <trans-unit id="51b67cc158bb6a1fce275064e62ce026044674ef" resname="product.availability_badge.available">
+        <source>Available</source>
+        <target state="needs-translation">Available</target>
+        <note>key: product.availability_badge.available</note>
+      </trans-unit>
+      <trans-unit id="d59171bc35f4662d6228abee3c960cbb867b32cc" resname="product.availability_badge.not_available">
+        <source>Not available</source>
+        <target state="needs-translation">Not available</target>
+        <note>key: product.availability_badge.not_available</note>
       </trans-unit>
       <trans-unit id="6ef9b8e0989ad419459211a3a175ac95f7d9cdfd" resname="product.breadcrumb.list">
         <source>Products</source>
@@ -1312,14 +1332,9 @@
         <note>key: product.is_variant.yes</note>
       </trans-unit>
       <trans-unit id="bb26bd02d68f785d6610a8bc790162a6e9725877" resname="product.list.column.available">
-        <source>Available</source>
-        <target state="needs-translation">Available</target>
+        <source>Availability</source>
+        <target state="needs-translation">Availability</target>
         <note>key: product.list.column.available</note>
-      </trans-unit>
-      <trans-unit id="fe7e16fc09fc1e731b82a85544ea57d9df901c42" resname="product.list.column.category">
-        <source>Category</source>
-        <target state="needs-translation">Category</target>
-        <note>key: product.list.column.category</note>
       </trans-unit>
       <trans-unit id="a05d02097c6ee7323ffde5e6cff861bb7c01684e" resname="product.list.column.code">
         <source>Code</source>
@@ -1441,15 +1456,15 @@
         <target state="needs-translation">Sorry, there are no products for your search</target>
         <note>key: product.no_search_results.info_text</note>
       </trans-unit>
-      <trans-unit id="d2e159fcc523701409c6044ac2170ee165404d9c" resname="product.pre_create.add">
-        <source>Add</source>
-        <target state="needs-translation">Add</target>
-        <note>key: product.pre_create.add</note>
+      <trans-unit id="0b9b1dcb71273596011bb718dd5a81ba57b5679f" resname="product.pre_create.create">
+        <source>Create</source>
+        <target state="needs-translation">Create</target>
+        <note>key: product.pre_create.create</note>
       </trans-unit>
-      <trans-unit id="96a83033d6f528743974d6a118e21e5d8a24839f" resname="product.pre_create.cancel">
-        <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
-        <note>key: product.pre_create.cancel</note>
+      <trans-unit id="e2a1393321565caa0b751da744302b1c6615f61b" resname="product.pre_create.discard">
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
+        <note>key: product.pre_create.discard</note>
       </trans-unit>
       <trans-unit id="6a228857dcb6653ed20a45399458047f08ea7f4a" resname="product.pre_create.title">
         <source>Create product</source>
@@ -1642,8 +1657,8 @@
         <note>key: product.view.availability.title</note>
       </trans-unit>
       <trans-unit id="f59ab1af0e0bc33f7c4b8a738436ec7293ac1fda" resname="product.view.available.label">
-        <source>Available</source>
-        <target state="needs-translation">Available</target>
+        <source>Availability</source>
+        <target state="needs-translation">Availability</target>
         <note>key: product.view.available.label</note>
       </trans-unit>
       <trans-unit id="e807ef7d39955c91b0a2320c2453725bf6e31b4f" resname="product.view.collaspe.status.completed">
@@ -1986,6 +2001,26 @@
         <target state="needs-translation">{1}Product Type '%deletedNames%' deleted.|]1,Inf[ Product Types '%deletedNames%' deleted.</target>
         <note>key: product_type.delete.success</note>
       </trans-unit>
+      <trans-unit id="71c35ef281fa7a81ed71755d576d75515e9c330f" resname="product_type.edit.assigned_vat_rates.filter.placeholder">
+        <source>Search...</source>
+        <target state="needs-translation">Search...</target>
+        <note>key: product_type.edit.assigned_vat_rates.filter.placeholder</note>
+      </trans-unit>
+      <trans-unit id="10c1a6dc0f8a620e9fd47f6f9ae6ef3989d122d3" resname="product_type.edit.assigned_vat_rates.notice">
+        <source>If VAT rates require configuration, contact your administrator.</source>
+        <target state="needs-translation">If VAT rates require configuration, contact your administrator.</target>
+        <note>key: product_type.edit.assigned_vat_rates.notice</note>
+      </trans-unit>
+      <trans-unit id="bddcb980513ae872c31cf934c92282aa7a9d9c33" resname="product_type.edit.assigned_vat_rates.region">
+        <source>Region</source>
+        <target state="needs-translation">Region</target>
+        <note>key: product_type.edit.assigned_vat_rates.region</note>
+      </trans-unit>
+      <trans-unit id="1e4e7e301de2cfbfacf693016ab4d308940489f5" resname="product_type.edit.assigned_vat_rates.vat_rate">
+        <source>VAT Rate</source>
+        <target state="needs-translation">VAT Rate</target>
+        <note>key: product_type.edit.assigned_vat_rates.vat_rate</note>
+      </trans-unit>
       <trans-unit id="9cf444a2bddd102e3ea8099ef27fd62a3e8b35d6" resname="product_type.edit.attributes">
         <source>Attributes</source>
         <target state="needs-translation">Attributes</target>
@@ -2051,6 +2086,16 @@
         <target state="needs-translation">Global properties</target>
         <note>key: product_type.edit.section.global_properties</note>
       </trans-unit>
+      <trans-unit id="211a6310b671a520619fca6825d07194b47edf22" resname="product_type.edit.section.vat_rates">
+        <source>VAT Rates</source>
+        <target state="needs-translation">VAT Rates</target>
+        <note>key: product_type.edit.section.vat_rates</note>
+      </trans-unit>
+      <trans-unit id="9ba89fdba09a289a5cd948f94228deaa81665a83" resname="product_type.edit.vat_category.not_applicable">
+        <source>Not applicable</source>
+        <target state="needs-translation">Not applicable</target>
+        <note>key: product_type.edit.vat_category.not_applicable</note>
+      </trans-unit>
       <trans-unit id="bdeb579615063551f9586b9cb3157ad7828f0a7a" resname="product_type.list.column.name">
         <source>Name</source>
         <target state="needs-translation">Name</target>
@@ -2111,6 +2156,31 @@
         <target state="needs-translation">another user</target>
         <note>key: product_type.user_name.can_not_be_fetched</note>
       </trans-unit>
+      <trans-unit id="e7d722b43bfce540a7144d5b803893005e793f5f" resname="product_type.view.details.attribtues">
+        <source>Attributes</source>
+        <target state="needs-translation">Attributes</target>
+        <note>key: product_type.view.details.attribtues</note>
+      </trans-unit>
+      <trans-unit id="a69d9b51fcbc7d465c85d980487936a693cb2be5" resname="product_type.view.details.attribute.group">
+        <source>Group</source>
+        <target state="needs-translation">Group</target>
+        <note>key: product_type.view.details.attribute.group</note>
+      </trans-unit>
+      <trans-unit id="c92e978b79fbdd815be05b67d7833e562cc9b822" resname="product_type.view.details.attribute.identifier">
+        <source>Identifier</source>
+        <target state="needs-translation">Identifier</target>
+        <note>key: product_type.view.details.attribute.identifier</note>
+      </trans-unit>
+      <trans-unit id="ea4e6743b774b4e9b04c64f69973399d6d59f07b" resname="product_type.view.details.attribute.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+        <note>key: product_type.view.details.attribute.name</note>
+      </trans-unit>
+      <trans-unit id="67aa327080273ca6400446314826da3167ab20f5" resname="product_type.view.details.attribute.type">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+        <note>key: product_type.view.details.attribute.type</note>
+      </trans-unit>
       <trans-unit id="23bbb7ce379017e6c25332e2c8ccdceb4509c69d" resname="product_type.view.details.description">
         <source>Description</source>
         <target state="needs-translation">Description</target>
@@ -2130,6 +2200,11 @@
         <source>Type</source>
         <target state="needs-translation">Type</target>
         <note>key: product_type.view.details.group.type</note>
+      </trans-unit>
+      <trans-unit id="26a6db11bca16353aec1ecb43765d865bdfb7083" resname="product_type.view.details.headline.notice">
+        <source>If VAT rates require configuration, contact your administrator.</source>
+        <target state="needs-translation">If VAT rates require configuration, contact your administrator.</target>
+        <note>key: product_type.view.details.headline.notice</note>
       </trans-unit>
       <trans-unit id="c220b3f3dab0ed637d827cd0acbe71089f836d05" resname="product_type.view.details.identifier">
         <source>Identifier</source>
@@ -2165,6 +2240,26 @@
         <source>URL alias name pattern</source>
         <target state="needs-translation">URL alias name pattern</target>
         <note>key: product_type.view.details.url_alias_schema</note>
+      </trans-unit>
+      <trans-unit id="b193cb0f02b84af189000243f61630fcaecfe097" resname="product_type.view.details.vat_rate.identifer">
+        <source>Identifier</source>
+        <target state="needs-translation">Identifier</target>
+        <note>key: product_type.view.details.vat_rate.identifer</note>
+      </trans-unit>
+      <trans-unit id="4c450a7b76528b160e8474def36db85ea6597ee3" resname="product_type.view.details.vat_rate.region">
+        <source>Region</source>
+        <target state="needs-translation">Region</target>
+        <note>key: product_type.view.details.vat_rate.region</note>
+      </trans-unit>
+      <trans-unit id="358324a012fe6055c89e44a97e5953843420c14f" resname="product_type.view.details.vat_rate.value">
+        <source>Value</source>
+        <target state="needs-translation">Value</target>
+        <note>key: product_type.view.details.vat_rate.value</note>
+      </trans-unit>
+      <trans-unit id="15281b9306d21ba26763e2117e8c5ee7780f2668" resname="product_type.view.details.vat_rates">
+        <source>VAT Rates</source>
+        <target state="needs-translation">VAT Rates</target>
+        <note>key: product_type.view.details.vat_rates</note>
       </trans-unit>
       <trans-unit id="cac20a3e30478a2187388d98832c0db5a29320cd" resname="product_type.view.identifier">
         <source>%product_type_name%</source>
