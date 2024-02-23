@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ja" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="58d2f20a2f7444814b1ce85b909aa78f2e1d968a" resname="block.ibexa_news.title">
+        <source>Ibexa news</source>
+        <target state="needs-translation">Ibexa news</target>
+        <note>key: block.ibexa_news.title</note>
+      </trans-unit>
+      <trans-unit id="85b94c4fb2206ed42a2e919a7253ccbd961eb24f" resname="block.quick_actions.tile.catalog">
+        <source>Catalog</source>
+        <target state="needs-translation">Catalog</target>
+        <note>key: block.quick_actions.tile.catalog</note>
+      </trans-unit>
+      <trans-unit id="de90ef20a15d3850b87c5273ffeed8c3910a9fa4" resname="block.quick_actions.tile.company">
+        <source>Company</source>
+        <target state="needs-translation">Company</target>
+        <note>key: block.quick_actions.tile.company</note>
+      </trans-unit>
+      <trans-unit id="cea1c8bda8b3f62ba9577cb888fb56f60d792c0d" resname="block.quick_actions.tile.content">
+        <source>Content</source>
+        <target state="needs-translation">Content</target>
+        <note>key: block.quick_actions.tile.content</note>
+      </trans-unit>
+      <trans-unit id="310ea115459c7a65c3c1d9cb1110ef01b87b6d99" resname="block.quick_actions.tile.create">
+        <source>Create</source>
+        <target state="needs-translation">Create</target>
+        <note>key: block.quick_actions.tile.create</note>
+      </trans-unit>
+      <trans-unit id="e382dfe5757291ec63fae866c4fba972bc0996e5" resname="block.quick_actions.tile.create_content.udw.title">
+        <source>Create content</source>
+        <target state="needs-translation">Create content</target>
+        <note>key: block.quick_actions.tile.create_content.udw.title</note>
+      </trans-unit>
+      <trans-unit id="09e4068e541fde9ec0eaedc814a67729ff9baa1b" resname="block.quick_actions.tile.create_form.udw.title">
+        <source>Create form</source>
+        <target state="needs-translation">Create form</target>
+        <note>key: block.quick_actions.tile.create_form.udw.title</note>
+      </trans-unit>
+      <trans-unit id="251c6ef28d57f2e11ce2d7cb8275a24a3ab3232f" resname="block.quick_actions.tile.form">
+        <source>Form</source>
+        <target state="needs-translation">Form</target>
+        <note>key: block.quick_actions.tile.form</note>
+      </trans-unit>
+      <trans-unit id="fdf4cfdab91ba17f97f33b7fe247cd3dd6a531d7" resname="block.quick_actions.tile.product">
+        <source>Product</source>
+        <target state="needs-translation">Product</target>
+        <note>key: block.quick_actions.tile.product</note>
+      </trans-unit>
+      <trans-unit id="6da9c20bef3d988abcb181463d8734da37001176" resname="block.quick_actions.title">
+        <source>Quick actions</source>
+        <target state="needs-translation">Quick actions</target>
+        <note>key: block.quick_actions.title</note>
+      </trans-unit>
+      <trans-unit id="a869aead4b6dfebcdf01ec571e49a3f2960e6a2a" resname="dashboard.builder.functionality">
+        <source>Access the dashboard's customization tool, that allows you to personalize it to create a more intuitive user experience.</source>
+        <target state="needs-translation">Access the dashboard's customization tool, that allows you to personalize it to create a more intuitive user experience.</target>
+        <note>key: dashboard.builder.functionality</note>
+      </trans-unit>
+      <trans-unit id="099756a566ba5e73ab5da3bfd66c35400b7a1c90" resname="dashboard.change_active.success">
+        <source>Active dashboard is set to '%name%' </source>
+        <target state="needs-translation">Active dashboard is set to '%name%' </target>
+        <note>key: dashboard.change_active.success</note>
+      </trans-unit>
+      <trans-unit id="b71b9907038c72f6da5ea69b76a4cd560c538123" resname="dashboard.customize">
+        <source>Customize dashboard</source>
+        <target state="needs-translation">Customize dashboard</target>
+        <note>key: dashboard.customize</note>
+      </trans-unit>
+      <trans-unit id="a1d33ccab9eaacb5d4c4035c6b5cc7970901d7cc" resname="dashboard.customize.default_name">
+        <source>My dashboard</source>
+        <target state="needs-translation">My dashboard</target>
+        <note>key: dashboard.customize.default_name</note>
+      </trans-unit>
+      <trans-unit id="a6d9031649a97010fe6464176332886d0c21bcdf" resname="dashboard.edit">
+        <source>Edit %locationContentName%</source>
+        <target state="needs-translation">Edit %locationContentName%</target>
+        <note>key: dashboard.edit</note>
+      </trans-unit>
+      <trans-unit id="0322c3aa37cbf2183c17fdc1a0f0bba26dab49d4" resname="dashboard.enhance_dashboard_experience">
+        <source>Enhance your dashboard experience</source>
+        <target state="needs-translation">Enhance your dashboard experience</target>
+        <note>key: dashboard.enhance_dashboard_experience</note>
+      </trans-unit>
+      <trans-unit id="91daf327da16d3b4531baa6c91bab9cce90b7c4f" resname="dashboard.error.unable_to_load">
+        <source>The dashboard could not be loaded</source>
+        <target state="needs-translation">The dashboard could not be loaded</target>
+        <note>key: dashboard.error.unable_to_load</note>
+      </trans-unit>
+      <trans-unit id="1130a63ac7bbd452111d6db5b5143506c2d7e120" resname="dashboard.ibexa_news.unable_to_fetch">
+        <source>Unable to fetch Ibexa News</source>
+        <target state="needs-translation">Unable to fetch Ibexa News</target>
+        <note>key: dashboard.ibexa_news.unable_to_fetch</note>
+      </trans-unit>
+      <trans-unit id="de53c8583b78a3554c64831bc9315e5b74d1cf1a" resname="dashboard.sent_to_trash.info">
+        <source>The default dashboard cannot be sent to the trash</source>
+        <target state="needs-translation">The default dashboard cannot be sent to the trash</target>
+        <note>key: dashboard.sent_to_trash.info</note>
+      </trans-unit>
+      <trans-unit id="27569ea498dd6ed40297e3ed7dac9b1faaaec4d2" resname="dashboard.switch_to_custom">
+        <source>Switch to %name%</source>
+        <target state="needs-translation">Switch to %name%</target>
+        <note>key: dashboard.switch_to_custom</note>
+      </trans-unit>
+      <trans-unit id="52bb6f67f57956da055325ef570ef6508392ee92" resname="dashboard.switch_to_default">
+        <source>Switch to default dashboard</source>
+        <target state="needs-translation">Switch to default dashboard</target>
+        <note>key: dashboard.switch_to_default</note>
+      </trans-unit>
+      <trans-unit id="cf2651e3db2814e56e32a5a081301dc68a2b0958" resname="dashboard.title.afternoon">
+        <source>Good afternoon, %user_name%!</source>
+        <target state="needs-translation">Good afternoon, %user_name%!</target>
+        <note>key: dashboard.title.afternoon</note>
+      </trans-unit>
+      <trans-unit id="1815c08728d013d31de962bee01725e73bc7d4ce" resname="dashboard.title.evening">
+        <source>Good evening, %user_name%!</source>
+        <target state="needs-translation">Good evening, %user_name%!</target>
+        <note>key: dashboard.title.evening</note>
+      </trans-unit>
+      <trans-unit id="e339ba274be20b998b787a65e22aa364517fd57a" resname="dashboard.title.morning">
+        <source>Good morning, %user_name%!</source>
+        <target state="needs-translation">Good morning, %user_name%!</target>
+        <note>key: dashboard.title.morning</note>
+      </trans-unit>
+      <trans-unit id="28936a58fd6a2a3c9b2b7e0da76e2d10a38f653b" resname="info_bar.dashboard.label">
+        <source>Dashboard Builder</source>
+        <target state="needs-translation">Dashboard Builder</target>
+        <note>key: info_bar.dashboard.label</note>
+      </trans-unit>
+      <trans-unit id="f9178a816fa89ee2d59cf2e88df4f8d62adb8f45" resname="user.setting.active_dashboard.description">
+        <source>Active dashboard</source>
+        <target state="needs-translation">Active dashboard</target>
+        <note>key: user.setting.active_dashboard.description</note>
+      </trans-unit>
+      <trans-unit id="be3215e814d0e04fa3889d152be4e73219e3a92d" resname="user.setting.active_dashboard.name">
+        <source>Active dashboard</source>
+        <target state="needs-translation">Active dashboard</target>
+        <note>key: user.setting.active_dashboard.name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
