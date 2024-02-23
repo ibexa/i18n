@@ -47,8 +47,8 @@
         <note>key: section.assigned_content.path</note>
       </trans-unit>
       <trans-unit id="741d668d8a98bbaa2195e996de4402f24ef7d60e" resname="section.assigned_content.type">
-        <source>Content Type</source>
-        <target>crwdns237570:0crwdne237570:0</target>
+        <source>Content type</source>
+        <target>crwdns253260:0crwdne253260:0</target>
         <note>key: section.assigned_content.type</note>
       </trans-unit>
       <trans-unit id="f45cc741a3a68971876e3c23cddeff2fc45fcbc3" resname="section.breadcrumb.list">
