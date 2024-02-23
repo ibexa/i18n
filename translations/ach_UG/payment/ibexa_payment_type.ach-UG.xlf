@@ -8,13 +8,8 @@
     <body>
       <trans-unit id="f13906f7e6bb4146b0c1f3b3df05926b0ed530b9" resname="ibexa.payment_method.type.offline.name">
         <source>Offline</source>
-        <target>crwdns250263:0crwdne250263:0</target>
+        <target>crwdns252808:0crwdne252808:0</target>
         <note>key: ibexa.payment_method.type.offline.name</note>
-      </trans-unit>
-      <trans-unit id="8c8113ca4194332b2b51f7f51f5ba84facc15f7d" resname="ibexa.payment_method.type.online.name">
-        <source>Online</source>
-        <target>crwdns250265:0crwdne250265:0</target>
-        <note>key: ibexa.payment_method.type.online.name</note>
       </trans-unit>
     </body>
   </file>
