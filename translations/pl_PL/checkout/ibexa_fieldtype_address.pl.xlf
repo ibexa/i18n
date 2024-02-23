@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="7aa133159f6d2dcda0b032ebe24c04ac38e6b93c" resname="field_definition.ibexa_address.type.billing">
         <source>Billing</source>
-        <target state="needs-translation">Billing</target>
+        <target state="translated">Płatność</target>
         <note>key: field_definition.ibexa_address.type.billing</note>
       </trans-unit>
       <trans-unit id="befc44b835418b68d3b33f9ec43843006e273d3f" resname="field_definition.ibexa_address.type.shipping">
