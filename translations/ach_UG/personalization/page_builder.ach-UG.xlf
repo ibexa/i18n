@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="500d59b943eb26ead023762c7b3482f086bee0fa" resname="block.personalization.add">
+        <source>Add</source>
+        <target>crwdns264000:0crwdne264000:0</target>
+        <note>key: block.personalization.add</note>
+      </trans-unit>
+      <trans-unit id="2567f904927186a6ce8cdd3843cdb3d5d51885e0" resname="block.personalization.label.output_type">
+        <source>Output type</source>
+        <target>crwdns264002:0crwdne264002:0</target>
+        <note>key: block.personalization.label.output_type</note>
+      </trans-unit>
+      <trans-unit id="5bc3e74aeb57bb5a2db9e3d617a3f6eda0e342b3" resname="block.personalization.label.scenario">
+        <source>Scenario</source>
+        <target>crwdns264004:0crwdne264004:0</target>
+        <note>key: block.personalization.label.scenario</note>
+      </trans-unit>
+      <trans-unit id="7cddc1f0f196e91a7bf027e8bc55eced6514b540" resname="block.personalization.label.segment">
+        <source>Segment</source>
+        <target>crwdns264006:0crwdne264006:0</target>
+        <note>key: block.personalization.label.segment</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
