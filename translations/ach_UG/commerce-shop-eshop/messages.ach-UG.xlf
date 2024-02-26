@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="ceaaff687aa867e9f8325a48aeb288bb15ed900c" resname="%count% items in your basket">
+        <source>%count% items in your basket</source>
+        <target>crwdns258942:0%count%crwdne258942:0</target>
+        <note>key: %count% items in your basket</note>
+      </trans-unit>
+      <trans-unit id="0b4ca9f65bc89a77d4217838aeaaa072ba0804b5" resname="%count% results">
+        <source>%count% results</source>
+        <target>crwdns258944:0%count%crwdne258944:0</target>
+        <note>key: %count% results</note>
+      </trans-unit>
+      <trans-unit id="3dcad638d088540a2dd7bed653bdadce0b357a55" resname="%vat% VAT">
+        <source>%vat% VAT</source>
+        <target>crwdns258946:0%vat%crwdne258946:0</target>
+        <note>key: %vat% VAT</note>
+      </trans-unit>
+      <trans-unit id="b293520c0156c5889d1df26ece1e34542c8898ee" resname=", Size|search">
+        <source>Size</source>
+        <target>crwdns258948:0crwdne258948:0</target>
+        <note>key: , Size|search</note>
+      </trans-unit>
+      <trans-unit id="1c929480aa0c0f37b0145e1222722e1758de1d71" resname="A customer has edited his profile. Please, check these data:">
+        <source>A customer has edited his profile. Please, check these data:</source>
+        <target>crwdns258950:0crwdne258950:0</target>
+        <note>key: A customer has edited his profile. Please, check these data:</note>
+      </trans-unit>
+      <trans-unit id="a0a98a88e8a87b222100a9a1b84087fd8a1af5c9" resname="Accept privacy policies">
+        <source>Accept privacy policies</source>
+        <target>crwdns258952:0crwdne258952:0</target>
+        <note>key: Accept privacy policies</note>
+      </trans-unit>
+      <trans-unit id="300b07e8f1edc68b7b932bc14ec7a594a8d2917c" resname="Accept terms and conditions">
+        <source>Accept terms and conditions</source>
+        <target>crwdns258954:0crwdne258954:0</target>
+        <note>key: Accept terms and conditions</note>
+      </trans-unit>
+      <trans-unit id="543beca5f8d4001627a6e9551a79a0d49738b8dd" resname="Account:|profile">
+        <source>Account:</source>
+        <target>crwdns258956:0crwdne258956:0</target>
+        <note>key: Account:|profile</note>
+      </trans-unit>
+      <trans-unit id="92ef08325a4813563a3110359906076374683282" resname="Activate">
+        <source>Activate</source>
+        <target>crwdns258958:0crwdne258958:0</target>
+        <note>key: Activate</note>
+      </trans-unit>
+      <trans-unit id="437d7b8eec759fe639d734366c56d9fbb61e2174" resname="Activate your Shop-Access">
+        <source>Activate your user account</source>
+        <target>crwdns258960:0crwdne258960:0</target>
+        <note>key: Activate your Shop-Access</note>
+      </trans-unit>
+      <trans-unit id="67016210739cd983b60a766c87fd09745b3d6d44" resname="Activate your account">
+        <source>Activate your account</source>
+        <target>crwdns258962:0crwdne258962:0</target>
+        <note>key: Activate your account</note>
+      </trans-unit>
+      <trans-unit id="22f61acbf8161c364b9d3d275dd60583d707d331" resname="Activate your account now!">
+        <source>Activate your account now!</source>
+        <target>crwdns258964:0crwdne258964:0</target>
+        <note>key: Activate your account now!</note>
+      </trans-unit>
+      <trans-unit id="4603ab0671889c1b492771d83b6de91a5e092902" resname="Activation link">
+        <source>Activation link</source>
+        <target>crwdns258966:0crwdne258966:0</target>
+        <note>key: Activation link</note>
+      </trans-unit>
+      <trans-unit id="b922bb3ef862771554e4eb2f2f2cc7ee76dcaafb" resname="Active shopping carts&lt;br&gt;&lt;small&gt;in the last %placeholder% minutes&lt;/small&gt;">
+        <source><![CDATA[Active shopping carts<br><small>in the last %placeholder% minutes</small>]]></source>
+        <target><![CDATA[crwdns258968:0%placeholder%crwdne258968:0]]></target>
+        <note>key: Active shopping carts&lt;br&gt;&lt;small&gt;in the last %placeholder% minutes&lt;/small&gt;</note>
+      </trans-unit>
+      <trans-unit id="69dfe52ce62bb2da35d43e4d5f6fdc361b9829ea" resname="Add Another Input">
+        <source>Add another input</source>
+        <target>crwdns258970:0crwdne258970:0</target>
+        <note>key: Add Another Input</note>
+      </trans-unit>
+      <trans-unit id="75ceebf4fcd60557d8d98c7f2779f09138fb8a93" resname="Add all items to basket">
+        <source>Add all items to basket</source>
+        <target>crwdns258972:0crwdne258972:0</target>
+        <note>key: Add all items to basket</note>
+      </trans-unit>
+      <trans-unit id="319c6cd1e95a162d7629fba6723dc0dcfb99fc0e" resname="Add lines">
+        <source>Add lines</source>
+        <target>crwdns258974:0crwdne258974:0</target>
+        <note>key: Add lines</note>
+      </trans-unit>
+      <trans-unit id="531e5c229e541de937c09d780f8d9b872c1cb788" resname="Add products to stored basket">
+        <source>Add to stored basket</source>
+        <target>crwdns258976:0crwdne258976:0</target>
+        <note>key: Add products to stored basket</note>
+      </trans-unit>
+      <trans-unit id="1d978ebd10b1bca55bb1b347380cdc3a7fd75a85" resname="Add to basket">
+        <source>Add to basket</source>
+        <target>crwdns258978:0crwdne258978:0</target>
+        <note>key: Add to basket</note>
+      </trans-unit>
+      <trans-unit id="f70a702b633b0d9dfeba504cda4af1a0a34b00c4" resname="Add to comparison list">
+        <source>Add to comparison list</source>
+        <target>crwdns258980:0crwdne258980:0</target>
+        <note>key: Add to comparison list</note>
+      </trans-unit>
+      <trans-unit id="c7a159eeb9d2c76024812c0849f23cc8e5df3639" resname="Add to wishlist">
+        <source>Add to wishlist</source>
+        <target>crwdns258982:0crwdne258982:0</target>
+        <note>key: Add to wishlist</note>
+      </trans-unit>
+      <trans-unit id="190ddee2fa9cb8a270e2c50af0ad4978d0eef230" resname="AddCost">
+        <source>Additional cost</source>
+        <target>crwdns258984:0crwdne258984:0</target>
+        <note>key: AddCost</note>
+      </trans-unit>
+      <trans-unit id="2e6db93f6a85fe951b88664f679347b2310b247d" resname="Address of the customer(s)">
+        <source>Address of the customer(s)</source>
+        <target>crwdns258986:0crwdne258986:0</target>
+        <note>key: Address of the customer(s)</note>
+      </trans-unit>
+      <trans-unit id="43f4682efff5d5a58ca3d8acd666eb3ec93a4713" resname="Address2">
+        <source>Additional address line</source>
+        <target>crwdns258988:0crwdne258988:0</target>
+        <note>key: Address2</note>
+      </trans-unit>
+      <trans-unit id="303d981333083bd89973e1b5f61e66b36d9d7f42" resname="Address:">
+        <source>Address:</source>
+        <target>crwdns258990:0crwdne258990:0</target>
+        <note>key: Address:</note>
+      </trans-unit>
+      <trans-unit id="440f6e890d2be95ee2b0d7faf1245c395efd7276" resname="All Attributes">
+        <source>All Attributes</source>
+        <target>crwdns258992:0crwdne258992:0</target>
+        <note>key: All Attributes</note>
+      </trans-unit>
+      <trans-unit id="2a48383d0566cf5292ff5bf2072cff0a9eed85c7" resname="Already in your comparison list">
+        <source>Already in your comparison list</source>
+        <target>crwdns258994:0crwdne258994:0</target>
+        <note>key: Already in your comparison list</note>
+      </trans-unit>
+      <trans-unit id="865ffd10fbdc61d022ea9802af82c0fee074e017" resname="Already in your wishlist">
+        <source>Already in your wishlist</source>
+        <target>crwdns258996:0crwdne258996:0</target>
+        <note>key: Already in your wishlist</note>
+      </trans-unit>
+      <trans-unit id="a1d3c0cd0df1b3b66c08a713664226ef4da7b4b0" resname="An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.">
+        <source>An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.</source>
+        <target>crwdns258998:0crwdne258998:0</target>
+        <note>key: An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.</note>
+      </trans-unit>
+      <trans-unit id="956237a495fd7e88a147a067f8ef1f300723b165" resname="An order submission to the ERP system failed. Please, check these information:">
+        <source>An order submission to the ERP system failed. Please, check these information:</source>
+        <target>crwdns259000:0crwdne259000:0</target>
+        <note>key: An order submission to the ERP system failed. Please, check these information:</note>
+      </trans-unit>
+      <trans-unit id="cba9244392c3870e6ed9f23d9609184be69a0ae8" resname="An order transmission to the ERP system failed. Please, check this information:">
+        <source>An order transmission to the ERP system failed. Please, check this information:</source>
+        <target>crwdns259002:0crwdne259002:0</target>
+        <note>key: An order transmission to the ERP system failed. Please, check this information:</note>
+      </trans-unit>
+      <trans-unit id="cfea419c3b4e8b02ee586e70a28bf846e44cdda4" resname="Apply">
+        <source>Apply</source>
+        <target>crwdns259004:0crwdne259004:0</target>
+        <note>key: Apply</note>
+      </trans-unit>
+      <trans-unit id="cdcc456629195ed5a337a4be78100dda7a14aef3" resname="Article|search">
+        <source>Article</source>
+        <target>crwdns259006:0crwdne259006:0</target>
+        <note>key: Article|search</note>
+      </trans-unit>
+      <trans-unit id="7c62a1424469b1c1cf402f254409a96a0e6770cf" resname="Available">
+        <source>Available</source>
+        <target>crwdns259008:0crwdne259008:0</target>
+        <note>key: Available</note>
+      </trans-unit>
+      <trans-unit id="b52b36b7269fbfc58ec24bb724691951a3decbe8" resname="Back">
+        <source>Back</source>
+        <target>crwdns259010:0crwdne259010:0</target>
+        <note>key: Back</note>
+      </trans-unit>
+      <trans-unit id="fbe2f800f0f4a7c6f623967e6fa7235892cbe24d" resname="Bad credentials.">
+        <source>Bad credentials.</source>
+        <target>crwdns259012:0crwdne259012:0</target>
+        <note>key: Bad credentials.</note>
+      </trans-unit>
+      <trans-unit id="ee8780b836e0254b418a044d4611d85ab75eb133" resname="Basket GUID">
+        <source>Basket GUID</source>
+        <target>crwdns259014:0crwdne259014:0</target>
+        <note>key: Basket GUID</note>
+      </trans-unit>
+      <trans-unit id="fe4f7a53da4a36d81830ffcf4d529f1343ff534f" resname="Basket incremental ID">
+        <source>Basket incremental ID</source>
+        <target>crwdns259016:0crwdne259016:0</target>
+        <note>key: Basket incremental ID</note>
+      </trans-unit>
+      <trans-unit id="94cac684119b86220a4aef50584ce15a39849625" resname="Blog post|search">
+        <source>Blog post</source>
+        <target>crwdns259018:0crwdne259018:0</target>
+        <note>key: Blog post|search</note>
+      </trans-unit>
+      <trans-unit id="d6663dda5fe9b2524bf91f13a7621ec735f8a155" resname="Business">
+        <source>Business</source>
+        <target>crwdns259020:0crwdne259020:0</target>
+        <note>key: Business</note>
+      </trans-unit>
+      <trans-unit id="7b5c93c85311b0555c21bdacb38960895b1dbd85" resname="Business customer">
+        <source>Business customer</source>
+        <target>crwdns259022:0crwdne259022:0</target>
+        <note>key: Business customer</note>
+      </trans-unit>
+      <trans-unit id="4186c93a90f9edada5a3cc67b9d6325a85d57e05" resname="Buyer">
+        <source>Name</source>
+        <target>crwdns259024:0crwdne259024:0</target>
+        <note>key: Buyer</note>
+      </trans-unit>
+      <trans-unit id="77dfd2135f4db726c47299bb55be26f7f4525a46" resname="Cancel">
+        <source>Cancel</source>
+        <target>crwdns259026:0crwdne259026:0</target>
+        <note>key: Cancel</note>
+      </trans-unit>
+      <trans-unit id="319aaae4dec46a75861fd10bcf8d182f4a77298d" resname="Cancellation">
+        <source>Cancellation</source>
+        <target>crwdns259028:0crwdne259028:0</target>
+        <note>key: Cancellation</note>
+      </trans-unit>
+      <trans-unit id="5df6eb23103361c79b45f2c3cb7bd307a9fb5fea" resname="Category|search">
+        <source>Category</source>
+        <target>crwdns259030:0crwdne259030:0</target>
+        <note>key: Category|search</note>
+      </trans-unit>
+      <trans-unit id="730112fa51386c82245c9af88eeeb6a8f9bcc0b4" resname="Change My Account|profile">
+        <source>Change My Account</source>
+        <target>crwdns259032:0crwdne259032:0</target>
+        <note>key: Change My Account|profile</note>
+      </trans-unit>
+      <trans-unit id="7ef5da812aa81eb61175ed673cca22071c2b059f" resname="Change address">
+        <source>Change address</source>
+        <target>crwdns259034:0crwdne259034:0</target>
+        <note>key: Change address</note>
+      </trans-unit>
+      <trans-unit id="8c684290ce0b8a8e6cee79a145e17554064a4760" resname="Change password">
+        <source>Change password</source>
+        <target>crwdns259036:0crwdne259036:0</target>
+        <note>key: Change password</note>
+      </trans-unit>
+      <trans-unit id="b265c8e28d18e7db9c4334c6e0313d68be6168fe" resname="Change product selection">
+        <source>Change product selection</source>
+        <target>crwdns259038:0crwdne259038:0</target>
+        <note>key: Change product selection</note>
+      </trans-unit>
+      <trans-unit id="a58ab0825bf74bcf1e6b1855dfa47ec279e5e68b" resname="Change your settings">
+        <source>Change your settings</source>
+        <target>crwdns259040:0crwdne259040:0</target>
+        <note>key: Change your settings</note>
+      </trans-unit>
+      <trans-unit id="b0d5e7ecc7748138540129607bfb2aa714d75f8e" resname="Checking ...">
+        <source>Checking ...</source>
+        <target>crwdns259042:0crwdne259042:0</target>
+        <note>key: Checking ...</note>
+      </trans-unit>
+      <trans-unit id="075544117765e65116b05d66873ccf495223a8b9" resname="Checking ERP">
+        <source>Checking ERP</source>
+        <target>crwdns259044:0crwdne259044:0</target>
+        <note>key: Checking ERP</note>
+      </trans-unit>
+      <trans-unit id="3ac8e9e58c5abaddbf9d265d4965b9b8f0a3b787" resname="Checkout">
+        <source>Checkout</source>
+        <target>crwdns259046:0crwdne259046:0</target>
+        <note>key: Checkout</note>
+      </trans-unit>
+      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" resname="City">
+        <source>City</source>
+        <target>crwdns259048:0crwdne259048:0</target>
+        <note>key: City</note>
+      </trans-unit>
+      <trans-unit id="cb579bc332525979593a67783c7e6cff8d546447" resname="Class: %class%">
+        <source>Class: %class%</source>
+        <target>crwdns259050:0%class%crwdne259050:0</target>
+        <note>key: Class: %class%</note>
+      </trans-unit>
+      <trans-unit id="b56631bc8890459851f4998909f97b253a715c89" resname="Cockpit">
+        <source>Cockpit</source>
+        <target>crwdns259052:0crwdne259052:0</target>
+        <note>key: Cockpit</note>
+      </trans-unit>
+      <trans-unit id="adac69379a626c2436948a4ef1792c7d719ef929" resname="Code">
+        <source>Code</source>
+        <target>crwdns259054:0crwdne259054:0</target>
+        <note>key: Code</note>
+      </trans-unit>
+      <trans-unit id="a9d0f51814323921cf082721e6f10a0c66d53e9b" resname="Commercial register city">
+        <source>Commercial register city</source>
+        <target>crwdns259056:0crwdne259056:0</target>
+        <note>key: Commercial register city</note>
+      </trans-unit>
+      <trans-unit id="3d6cac81dcb7ad75f2ed9ba1dfc1888d5e3a3847" resname="Commercial register document">
+        <source>Commercial register document</source>
+        <target>crwdns259058:0crwdne259058:0</target>
+        <note>key: Commercial register document</note>
+      </trans-unit>
+      <trans-unit id="42952874aadbd10a6a4722ecbe8cbd69be1dbdbf" resname="Commercial register number">
+        <source>Commercial register number</source>
+        <target>crwdns259060:0crwdne259060:0</target>
+        <note>key: Commercial register number</note>
+      </trans-unit>
+      <trans-unit id="7a1994999d181deea68e4304b3346e78f838ecb7" resname="Company">
+        <source>Company</source>
+        <target>crwdns259062:0crwdne259062:0</target>
+        <note>key: Company</note>
+      </trans-unit>
+      <trans-unit id="1e5f7dc45cec3cd7bc991d3b958e0053fc564b67" resname="Company name">
+        <source>Company name</source>
+        <target>crwdns259064:0crwdne259064:0</target>
+        <note>key: Company name</note>
+      </trans-unit>
+      <trans-unit id="a18e5a4b67925d4cddbe9985c49250f05b46f1c6" resname="Company registration">
+        <source>Company registration</source>
+        <target>crwdns259066:0crwdne259066:0</target>
+        <note>key: Company registration</note>
+      </trans-unit>
+      <trans-unit id="2bee861f0c9b0a7fb2994acbc03dcff4397c23f2" resname="Company role">
+        <source>Company role</source>
+        <target>crwdns259068:0crwdne259068:0</target>
+        <note>key: Company role</note>
+      </trans-unit>
+      <trans-unit id="8d105cf44d3926289e65c1c83d8e37cb23fd049e" resname="Compare">
+        <source>Compare</source>
+        <target>crwdns259070:0crwdne259070:0</target>
+        <note>key: Compare</note>
+      </trans-unit>
+      <trans-unit id="2dfcf898a3bd4e011123eee87384ecb67d0919d4" resname="Comparison">
+        <source>Comparison</source>
+        <target>crwdns259072:0crwdne259072:0</target>
+        <note>key: Comparison</note>
+      </trans-unit>
+      <trans-unit id="b37456c4530be810dc040f50da72eda09addfb0a" resname="Contact">
+        <source>Contact</source>
+        <target>crwdns259074:0crwdne259074:0</target>
+        <note>key: Contact</note>
+      </trans-unit>
+      <trans-unit id="9a4c73cdd885b4ded1abd87179c44c5461c4916a" resname="Contact E-Mail">
+        <source>Email</source>
+        <target>crwdns259076:0crwdne259076:0</target>
+        <note>key: Contact E-Mail</note>
+      </trans-unit>
+      <trans-unit id="4115664f5d1b58bfa211013da6d77bf364b9e740" resname="Contact Fax">
+        <source>Fax number</source>
+        <target>crwdns259078:0crwdne259078:0</target>
+        <note>key: Contact Fax</note>
+      </trans-unit>
+      <trans-unit id="4b5840630019013ad36fd6b2284ee045f61644d0" resname="Contact ID">
+        <source>Contact ID</source>
+        <target>crwdns259080:0crwdne259080:0</target>
+        <note>key: Contact ID</note>
+      </trans-unit>
+      <trans-unit id="a34b69fc46e7a278cf65c58bb347de6560fb046f" resname="Contact Information">
+        <source>Contact Information</source>
+        <target>crwdns259082:0crwdne259082:0</target>
+        <note>key: Contact Information</note>
+      </trans-unit>
+      <trans-unit id="7dd0b69e1c08507a6ee48cf1242d83452770283a" resname="Contact Is Main">
+        <source>Contact Is Main</source>
+        <target>crwdns259084:0crwdne259084:0</target>
+        <note>key: Contact Is Main</note>
+      </trans-unit>
+      <trans-unit id="cab609ed8146d2c152eaba9bc72c5cc273ef8698" resname="Contact Language">
+        <source>Contact Language</source>
+        <target>crwdns259086:0crwdne259086:0</target>
+        <note>key: Contact Language</note>
+      </trans-unit>
+      <trans-unit id="8a42a57da0aaf5c42c4397859d152c1f1513ec66" resname="Contact Name">
+        <source>Name</source>
+        <target>crwdns259088:0crwdne259088:0</target>
+        <note>key: Contact Name</note>
+      </trans-unit>
+      <trans-unit id="09934069583cc2f5debf275266cf67cf4b131a74" resname="Contact Note">
+        <source>Contact Note</source>
+        <target>crwdns259090:0crwdne259090:0</target>
+        <note>key: Contact Note</note>
+      </trans-unit>
+      <trans-unit id="96b8ce3f0fd601afa478d790ccdf6ad0d62e8fbe" resname="Contact Other Communication">
+        <source>Other communication</source>
+        <target>crwdns259092:0crwdne259092:0</target>
+        <note>key: Contact Other Communication</note>
+      </trans-unit>
+      <trans-unit id="649a46339b91739ddb6d6a23e3511424d6c1057d" resname="Contact Person">
+        <source>Contact Person</source>
+        <target>crwdns259094:0crwdne259094:0</target>
+        <note>key: Contact Person</note>
+      </trans-unit>
+      <trans-unit id="b7d7efc8043852690a3f9cd69ce55241083d6b6b" resname="Contact Telephone">
+        <source>Phone number</source>
+        <target>crwdns259096:0crwdne259096:0</target>
+        <note>key: Contact Telephone</note>
+      </trans-unit>
+      <trans-unit id="6247f87259b4885011d228a31c4a338c601a9f29" resname="Contact number">
+        <source>Contact number</source>
+        <target>crwdns259098:0crwdne259098:0</target>
+        <note>key: Contact number</note>
+      </trans-unit>
+      <trans-unit id="cbe46a961215ba8e6037d5b489fc565a55f37d93" resname="Contact us e-mail">
+        <source>Contact us!</source>
+        <target>crwdns259100:0crwdne259100:0</target>
+        <note>key: Contact us e-mail</note>
+      </trans-unit>
+      <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" resname="Country">
+        <source>Country</source>
+        <target>crwdns259102:0crwdne259102:0</target>
+        <note>key: Country</note>
+      </trans-unit>
+      <trans-unit id="2eb6c4c537294780cab482adb19a0ffa48ebe345" resname="Country code">
+        <source>Country code</source>
+        <target>crwdns259104:0crwdne259104:0</target>
+        <note>key: Country code</note>
+      </trans-unit>
+      <trans-unit id="32a5e72bb922184cde3d0f77dc0458166b97c4ce" resname="Country of Origin">
+        <source>Country of Origin</source>
+        <target>crwdns259106:0crwdne259106:0</target>
+        <note>key: Country of Origin</note>
+      </trans-unit>
+      <trans-unit id="60dee38933959dfdae71ec0ee78d9ddb94f8ba0e" resname="County">
+        <source>County</source>
+        <target>crwdns259108:0crwdne259108:0</target>
+        <note>key: County</note>
+      </trans-unit>
+      <trans-unit id="5d444f2043a0c2433fc3f3bc25a62e002ce8a723" resname="Current Exception">
+        <source>Current Exception</source>
+        <target>crwdns259110:0crwdne259110:0</target>
+        <note>key: Current Exception</note>
+      </trans-unit>
+      <trans-unit id="48834c3fdc0091b4658f3a1e30b8aceada117513" resname="Currently online&lt;br&gt;&lt;small&gt; in the last 30 minutes&lt;/small&gt;">
+        <source><![CDATA[Currently online<br><small> in the last 30 minutes</small>]]></source>
+        <target><![CDATA[crwdns259112:0crwdne259112:0]]></target>
+        <note>key: Currently online&lt;br&gt;&lt;small&gt; in the last 30 minutes&lt;/small&gt;</note>
+      </trans-unit>
+      <trans-unit id="97981091067edfa82c2c7ee9d381074e583c127f" resname="Currently pending">
+        <source>Currently pending</source>
+        <target>crwdns259114:0crwdne259114:0</target>
+        <note>key: Currently pending</note>
+      </trans-unit>
+      <trans-unit id="42e308db8b5d09550f0ce3617b94378050ab4808" resname="Currently there are no orders stored in the shop.">
+        <source>Currently there are no orders stored in the shop.</source>
+        <target>crwdns259116:0crwdne259116:0</target>
+        <note>key: Currently there are no orders stored in the shop.</note>
+      </trans-unit>
+      <trans-unit id="f0c8a9094f2cb821a86de796ab7049fd3553fdbc" resname="Customer Number">
+        <source>Customer Number</source>
+        <target>crwdns259118:0crwdne259118:0</target>
+        <note>key: Customer Number</note>
+      </trans-unit>
+      <trans-unit id="5435537e0b76ba8380409cb11bd6991a58872165" resname="Customer does NOT want to receive newsletter.">
+        <source>Customer does NOT want to receive newsletter.</source>
+        <target>crwdns259120:0crwdne259120:0</target>
+        <note>key: Customer does NOT want to receive newsletter.</note>
+      </trans-unit>
+      <trans-unit id="fb2c972db4477ee945f9721e99b709167bfe3077" resname="Customer is a trader. Here are the data:">
+        <source>Customer is a trader. Here are the data:</source>
+        <target>crwdns259122:0crwdne259122:0</target>
+        <note>key: Customer is a trader. Here are the data:</note>
+      </trans-unit>
+      <trans-unit id="2c6ef0b1de9942356ea2a783f780b28977fb3949" resname="Customer is not a trader.">
+        <source>Customer is not a trader.</source>
+        <target>crwdns259124:0crwdne259124:0</target>
+        <note>key: Customer is not a trader.</note>
+      </trans-unit>
+      <trans-unit id="37163d9ec6d3541a32a759e00a9f6aefd3fdc249" resname="Customer number">
+        <source>Customer number</source>
+        <target>crwdns259126:0crwdne259126:0</target>
+        <note>key: Customer number</note>
+      </trans-unit>
+      <trans-unit id="9bc9ebfce7829677c70e952c82703be048221508" resname="Customer number (if known)">
+        <source>Customer number (if known)</source>
+        <target>crwdns259128:0crwdne259128:0</target>
+        <note>key: Customer number (if known)</note>
+      </trans-unit>
+      <trans-unit id="cf54fa0bc40ede674865fcbb02976d29ba5dc9ec" resname="Customer wants to receive newsletter.">
+        <source>Customer wants to receive newsletter.</source>
+        <target>crwdns259130:0crwdne259130:0</target>
+        <note>key: Customer wants to receive newsletter.</note>
+      </trans-unit>
+      <trans-unit id="2dc72004ae69b01489f1959695163d359dac2ea0" resname="Customer's e-mail address">
+        <source>Customer's e-mail address</source>
+        <target>crwdns259132:0crwdne259132:0</target>
+        <note>key: Customer's e-mail address</note>
+      </trans-unit>
+      <trans-unit id="7b4fe45471bb360f54032d2fac2df8419f94fd59" resname="Customer's party ID">
+        <source>Customer's party ID</source>
+        <target>crwdns259134:0crwdne259134:0</target>
+        <note>key: Customer's party ID</note>
+      </trans-unit>
+      <trans-unit id="075e9bc6f71a556935737bed67ae8eb9f6f9a0ad" resname="Customer's shop user ID">
+        <source>Customer's shop user ID</source>
+        <target>crwdns259136:0crwdne259136:0</target>
+        <note>key: Customer's shop user ID</note>
+      </trans-unit>
+      <trans-unit id="0d25067ad7d60538cd04a25964fe57c01585bcaa" resname="CustomerProfileData object not given">
+        <source>CustomerProfiledata object not given</source>
+        <target>crwdns259138:0crwdne259138:0</target>
+        <note>key: CustomerProfileData object not given</note>
+      </trans-unit>
+      <trans-unit id="e570dd99a630b9ab864ca154431f583a9da80c67" resname="Customers's e-mail address">
+        <source>Customers's e-mail address</source>
+        <target>crwdns259140:0crwdne259140:0</target>
+        <note>key: Customers's e-mail address</note>
+      </trans-unit>
+      <trans-unit id="912cee89807e105e3ce265c49162a1cc04c2b955" resname="Customers's party ID">
+        <source>Customers's party ID</source>
+        <target>crwdns259142:0crwdne259142:0</target>
+        <note>key: Customers's party ID</note>
+      </trans-unit>
+      <trans-unit id="45f2441498d9e0b3c4db4d457564aa8a7a17bfc4" resname="Customers's shop user ID">
+        <source>Customers's shop user ID</source>
+        <target>crwdns259144:0crwdne259144:0</target>
+        <note>key: Customers's shop user ID</note>
+      </trans-unit>
+      <trans-unit id="eb9a4bc1c0c153e4e4b042a79113b815b7e3021d" resname="Date">
+        <source>Date</source>
+        <target>crwdns259146:0crwdne259146:0</target>
+        <note>key: Date</note>
+      </trans-unit>
+      <trans-unit id="c65ea4ae013589923685e6ad069dcf87c153bd0b" resname="Date range">
+        <source>Date range</source>
+        <target>crwdns259148:0crwdne259148:0</target>
+        <note>key: Date range</note>
+      </trans-unit>
+      <trans-unit id="e28471142acbcc41702b390bc2278d817ab41d87" resname="Date/Payment">
+        <source>Date/Payment</source>
+        <target>crwdns259150:0crwdne259150:0</target>
+        <note>key: Date/Payment</note>
+      </trans-unit>
+      <trans-unit id="52ee92a702ba208760016cd03ddf506b26289a1e" resname="Dear">
+        <source>Dear</source>
+        <target>crwdns259152:0crwdne259152:0</target>
+        <note>key: Dear</note>
+      </trans-unit>
+      <trans-unit id="8deabb5c18abcb6cf7567d120514aacda1c236aa" resname="Dear Admin">
+        <source>Dear Admin</source>
+        <target>crwdns259154:0crwdne259154:0</target>
+        <note>key: Dear Admin</note>
+      </trans-unit>
+      <trans-unit id="bc8c3d7bf420f3cd96a5374d95d42124b7cb14c6" resname="Dear Admin!">
+        <source>Dear Admin!</source>
+        <target>crwdns259156:0crwdne259156:0</target>
+        <note>key: Dear Admin!</note>
+      </trans-unit>
+      <trans-unit id="03b217288c6af54df87db9346f38586ea5840e9b" resname="Dear Admin! This is fallback template!">
+        <source>Dear Admin! This is fallback template!</source>
+        <target>crwdns259158:0crwdne259158:0</target>
+        <note>key: Dear Admin! This is fallback template!</note>
+      </trans-unit>
+      <trans-unit id="64d9bf76f78ff4c4757a3d1f67c000b5b08db426" resname="Debug information">
+        <source>Debug information</source>
+        <target>crwdns259160:0crwdne259160:0</target>
+        <note>key: Debug information</note>
+      </trans-unit>
+      <trans-unit id="f6fdbe48dc54dd86f63097a03bd24094dedd713a" resname="Delete">
+        <source>Delete</source>
+        <target>crwdns259162:0crwdne259162:0</target>
+        <note>key: Delete</note>
+      </trans-unit>
+      <trans-unit id="5a7cedc7897ed405bb334baa453dc25024a569b2" resname="Delete quickorder">
+        <source>Delete quickorder</source>
+        <target>crwdns259164:0crwdne259164:0</target>
+        <note>key: Delete quickorder</note>
+      </trans-unit>
+      <trans-unit id="9631af52c66f1a5cd964380b009c74efdee01947" resname="Delivery">
+        <source>Delivery</source>
+        <target>crwdns259166:0crwdne259166:0</target>
+        <note>key: Delivery</note>
+      </trans-unit>
+      <trans-unit id="1f63936b6c4cd6daac3f49f931bccdbe8736648b" resname="Delivery Address">
+        <source>Delivery Address</source>
+        <target>crwdns259168:0crwdne259168:0</target>
+        <note>key: Delivery Address</note>
+      </trans-unit>
+      <trans-unit id="55f8ebc805e65b5b71ddafdae390e3be2bcd69af" resname="Description">
+        <source>Description</source>
+        <target>crwdns259170:0crwdne259170:0</target>
+        <note>key: Description</note>
+      </trans-unit>
+      <trans-unit id="b524936d7aa1316e00d3354c9a8664d00e4bce5a" resname="Discount">
+        <source>Discount</source>
+        <target>crwdns259172:0crwdne259172:0</target>
+        <note>key: Discount</note>
+      </trans-unit>
+      <trans-unit id="2fe0aa2d6a2cb76c255f5841f7c85d1f877993f0" resname="Download|search">
+        <source>Download file</source>
+        <target>crwdns259174:0crwdne259174:0</target>
+        <note>key: Download|search</note>
+      </trans-unit>
+      <trans-unit id="6335bbd818b98926b13c017c6f8cd0016b175cd2" resname="Drop file here or">
+        <source>Drop file here or</source>
+        <target>crwdns259176:0crwdne259176:0</target>
+        <note>key: Drop file here or</note>
+      </trans-unit>
+      <trans-unit id="0a220101555f8e2e9de4da77c880ebeef56e8330" resname="EAN: %ean%">
+        <source>EAN: %ean%</source>
+        <target>crwdns259178:0%ean%crwdne259178:0</target>
+        <note>key: EAN: %ean%</note>
+      </trans-unit>
+      <trans-unit id="6ab65864cb25d75bbcc138522c135b2a2cf96ce0" resname="ERP">
+        <source>ERP</source>
+        <target>crwdns259180:0crwdne259180:0</target>
+        <note>key: ERP</note>
+      </trans-unit>
+      <trans-unit id="846998d5b7b8ce1c4cf15cedfb8377c702648b33" resname="ERP Order ID">
+        <source>ERP Order ID</source>
+        <target>crwdns259182:0crwdne259182:0</target>
+        <note>key: ERP Order ID</note>
+      </trans-unit>
+      <trans-unit id="dcf4e702891264b858f6ba735bbe90b4e65903d9" resname="ERP-Status">
+        <source>ERP-Status</source>
+        <target>crwdns259184:0crwdne259184:0</target>
+        <note>key: ERP-Status</note>
+      </trans-unit>
+      <trans-unit id="5301648dcf6b53cefc9ed52999aaa92d4603cae0" resname="Edit">
+        <source>Edit</source>
+        <target>crwdns259186:0crwdne259186:0</target>
+        <note>key: Edit</note>
+      </trans-unit>
+      <trans-unit id="31195ecdec76239bab0cbb8ece0b7721a20d70d5" resname="Edit buyer address">
+        <source>Edit buyer address</source>
+        <target>crwdns259188:0crwdne259188:0</target>
+        <note>key: Edit buyer address</note>
+      </trans-unit>
+      <trans-unit id="2019c5a12ff158747a74412738fe916ac003755a" resname="Edit invoice address">
+        <source>Edit invoice address</source>
+        <target>crwdns259190:0crwdne259190:0</target>
+        <note>key: Edit invoice address</note>
+      </trans-unit>
+      <trans-unit id="26041f694800adac82e675e91c9cb9d91e78978e" resname="Edit my Account|profile">
+        <source>Edit my Account</source>
+        <target>crwdns259192:0crwdne259192:0</target>
+        <note>key: Edit my Account|profile</note>
+      </trans-unit>
+      <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
+        <source>Email</source>
+        <target>crwdns259194:0crwdne259194:0</target>
+        <note>key: Email</note>
+      </trans-unit>
+      <trans-unit id="c94d3175a6560565410511df2cebab9cda96027e" resname="Email address">
+        <source>Email address</source>
+        <target>crwdns259196:0crwdne259196:0</target>
+        <note>key: Email address</note>
+      </trans-unit>
+      <trans-unit id="307419414c00251c1a4fff21f1d23baebaacecb0" resname="Enter csv file input">
+        <source>Enter CSV file input</source>
+        <target>crwdns259198:0crwdne259198:0</target>
+        <note>key: Enter csv file input</note>
+      </trans-unit>
+      <trans-unit id="47adebab22d7ae607e2a1a86410699ba1c378c68" resname="Error while processing this action">
+        <source>Error while processing this action</source>
+        <target>crwdns259200:0crwdne259200:0</target>
+        <note>key: Error while processing this action</note>
+      </trans-unit>
+      <trans-unit id="6f418a010116a17563b35221ace254c0b262cbcf" resname="Error while processing your data">
+        <source>Error while processing your data</source>
+        <target>crwdns259202:0crwdne259202:0</target>
+        <note>key: Error while processing your data</note>
+      </trans-unit>
+      <trans-unit id="d469baae0628495800672bc39fdc71f30fbf6f45" resname="Event|search">
+        <source>Event</source>
+        <target>crwdns259204:0crwdne259204:0</target>
+        <note>key: Event|search</note>
+      </trans-unit>
+      <trans-unit id="b5c8286a1e876f0bacd36681ea7bf8139e9635aa" resname="Every line must contain sku, variant code and quantity. You can upload only one .csv file">
+        <source>Every line must contain sku, variant code and quantity. You can upload only one .csv file</source>
+        <target>crwdns259206:0crwdne259206:0</target>
+        <note>key: Every line must contain sku, variant code and quantity. You can upload only one .csv file</note>
+      </trans-unit>
+      <trans-unit id="e5b4962f3e8f121940f20423ff055ee8392d4df8" resname="Example: name@domain.com">
+        <source>Example: name@domain.com</source>
+        <target>crwdns259208:0crwdne259208:0</target>
+        <note>key: Example: name@domain.com</note>
+      </trans-unit>
+      <trans-unit id="db6f833c8e0255d7c7fdf0d62dd3678d7dc699e5" resname="Examples|profile">
+        <source>Examples</source>
+        <target>crwdns259210:0crwdne259210:0</target>
+        <note>key: Examples|profile</note>
+      </trans-unit>
+      <trans-unit id="b2bcea0f5e34a01a5d9dc541131597b3110c231e" resname="Example|profile">
+        <source>Example</source>
+        <target>crwdns259212:0crwdne259212:0</target>
+        <note>key: Example|profile</note>
+      </trans-unit>
+      <trans-unit id="ec8fd5f7b0a4fae0d6b5814d293386f20b4f1d18" resname="Exception detected">
+        <source>Exception detected</source>
+        <target>crwdns259214:0crwdne259214:0</target>
+        <note>key: Exception detected</note>
+      </trans-unit>
+      <trans-unit id="eb90a0cf5f6969710d2bea54b2acffc509fde75a" resname="Exception message:">
+        <source>Exception message:</source>
+        <target>crwdns259216:0crwdne259216:0</target>
+        <note>key: Exception message:</note>
+      </trans-unit>
+      <trans-unit id="876962847cb2677b8956e781161f57dbcba57574" resname="Exception occured!">
+        <source>Exception occured!</source>
+        <target>crwdns259218:0crwdne259218:0</target>
+        <note>key: Exception occured!</note>
+      </trans-unit>
+      <trans-unit id="abe1ebfd780b1e35a7f55b3467883a2f7cfa2480" resname="Excl.">
+        <source>Excl.</source>
+        <target>crwdns259220:0crwdne259220:0</target>
+        <note>key: Excl.</note>
+      </trans-unit>
+      <trans-unit id="ac2884276390ecab98c3d0a13fe9029048e9475a" resname="Existing customer">
+        <source>Existing customer</source>
+        <target>crwdns259222:0crwdne259222:0</target>
+        <note>key: Existing customer</note>
+      </trans-unit>
+      <trans-unit id="97cdbdc7feff827efb082a6b6dd2727237cd49fd" resname="False">
+        <source>False</source>
+        <target>crwdns259224:0crwdne259224:0</target>
+        <note>key: False</note>
+      </trans-unit>
+      <trans-unit id="2c3cafa4db3f3e1e51b3dff4303502dbe42b7a89" resname="File">
+        <source>File</source>
+        <target>crwdns259226:0crwdne259226:0</target>
+        <note>key: File</note>
+      </trans-unit>
+      <trans-unit id="815e0d24c5dd2c27cfd29109011192fe717989b2" resname="File: %file%">
+        <source>File: %file%</source>
+        <target>crwdns259228:0%file%crwdne259228:0</target>
+        <note>key: File: %file%</note>
+      </trans-unit>
+      <trans-unit id="0137b32e0ea9136150aa026844af1e2bfbc2e775" resname="File|search">
+        <source>File</source>
+        <target>crwdns259230:0crwdne259230:0</target>
+        <note>key: File|search</note>
+      </trans-unit>
+      <trans-unit id="287664364a3b821198afbe19fe3a95b9f16194b1" resname="Fill quickorder">
+        <source>Fill quickorder</source>
+        <target>crwdns259232:0crwdne259232:0</target>
+        <note>key: Fill quickorder</note>
+      </trans-unit>
+      <trans-unit id="226d7ec9afb2799e267e4c2c03be0ec2da38f4fc" resname="Fine">
+        <source>Fine</source>
+        <target>crwdns259234:0crwdne259234:0</target>
+        <note>key: Fine</note>
+      </trans-unit>
+      <trans-unit id="7e568a90221d853052b3466e581eb5f7c030b901" resname="First name">
+        <source>First name</source>
+        <target>crwdns259236:0crwdne259236:0</target>
+        <note>key: First name</note>
+      </trans-unit>
+      <trans-unit id="64f5ccf2c53d7ca35cc32322c8c614db7946849e" resname="First- and Lastname">
+        <source>First and last name</source>
+        <target>crwdns259238:0crwdne259238:0</target>
+        <note>key: First- and Lastname</note>
+      </trans-unit>
+      <trans-unit id="cf23ba48c06d7e6d4b41a205bfb3cac3bb7b1e38" resname="Firstname">
+        <source>Firstname</source>
+        <target>crwdns259240:0crwdne259240:0</target>
+        <note>key: Firstname</note>
+      </trans-unit>
+      <trans-unit id="d2e269273a451b6887ce930a00282453b864f784" resname="Folder|search">
+        <source>Folder</source>
+        <target>crwdns259242:0crwdne259242:0</target>
+        <note>key: Folder|search</note>
+      </trans-unit>
+      <trans-unit id="68ae28d9adf39d4c52eee64abbf2a6ae71f01d3d" resname="For technical reason, no price is available currently">
+        <source>For technical reason, no price is available currently</source>
+        <target>crwdns259244:0crwdne259244:0</target>
+        <note>key: For technical reason, no price is available currently</note>
+      </trans-unit>
+      <trans-unit id="a8683ca28dbb919e85ab24a39c06c464948ed5be" resname="For technical reason, no prices are available currently">
+        <source>For technical reason, no prices are available currently</source>
+        <target>crwdns259246:0crwdne259246:0</target>
+        <note>key: For technical reason, no prices are available currently</note>
+      </trans-unit>
+      <trans-unit id="09d1569fc62b383ab9aa93386bbd68e5c597b6f5" resname="For technical reason, the validation could not be done. Please contact an administrator.">
+        <source>For technical reason, the validation could not be done. Please contact an administrator.</source>
+        <target>crwdns259248:0crwdne259248:0</target>
+        <note>key: For technical reason, the validation could not be done. Please contact an administrator.</note>
+      </trans-unit>
+      <trans-unit id="4c29f7f0335807c2524d8c36d531496aee23f473" resname="Forgot password?">
+        <source>Forgot password?</source>
+        <target>crwdns259250:0crwdne259250:0</target>
+        <note>key: Forgot password?</note>
+      </trans-unit>
+      <trans-unit id="a2f060b7363f54c9f80d62805d36636dd7ebc33c" resname="Forgot your password?">
+        <source>Forgot your password?</source>
+        <target>crwdns259252:0crwdne259252:0</target>
+        <note>key: Forgot your password?</note>
+      </trans-unit>
+      <trans-unit id="9bb003116945043787f5046fffa0e6a522c4167d" resname="Function: %function%">
+        <source>Function: %function%</source>
+        <target>crwdns259254:0%function%crwdne259254:0</target>
+        <note>key: Function: %function%</note>
+      </trans-unit>
+      <trans-unit id="c4c9f1d5d580ea875aca239d11c3ede7c7faa3d0" resname="Go to Basket">
+        <source>Go to Basket</source>
+        <target>crwdns259256:0crwdne259256:0</target>
+        <note>key: Go to Basket</note>
+      </trans-unit>
+      <trans-unit id="9150717445544a8bcc897c54ada8a4b2d60c41df" resname="Go to Checkout">
+        <source>Go to Checkout</source>
+        <target>crwdns259258:0crwdne259258:0</target>
+        <note>key: Go to Checkout</note>
+      </trans-unit>
+      <trans-unit id="507fa2de63d5a936af09c55fb123a6982cf4aa49" resname="Got to my profile">
+        <source>Got to my profile</source>
+        <target>crwdns259260:0crwdne259260:0</target>
+        <note>key: Got to my profile</note>
+      </trans-unit>
+      <trans-unit id="4fa02183a3c3635fc950eed0fd9c31cf1d152984" resname="HDD usage">
+        <source>HDD usage</source>
+        <target>crwdns259262:0crwdne259262:0</target>
+        <note>key: HDD usage</note>
+      </trans-unit>
+      <trans-unit id="c214716f871f6c402d84310fc0891b28656552ab" resname="Hint: This information is only shown in &quot;dev&quot; and &quot;local&quot; environments.">
+        <source>Hint: This information is only shown in "dev" and "local" environments.</source>
+        <target>crwdns259264:0crwdne259264:0</target>
+        <note>key: Hint: This information is only shown in "dev" and "local" environments.</note>
+      </trans-unit>
+      <trans-unit id="15473482833f8d5c46a3cd2cc77c390b35dae4f9" resname="I would like to submit the documents via email or fax.">
+        <source>I would like to submit the documents via email or fax.</source>
+        <target>crwdns259266:0crwdne259266:0</target>
+        <note>key: I would like to submit the documents via email or fax.</note>
+      </trans-unit>
+      <trans-unit id="8040cb014c844d2a09b33cb3b81b578d8f717113" resname="Ibexa AS">
+        <source>Ibexa AS</source>
+        <target>crwdns259268:0crwdne259268:0</target>
+        <note>key: Ibexa AS</note>
+      </trans-unit>
+      <trans-unit id="51c2b938fe679ac74e8c1b1cc36d5749612f71c3" resname="Ibexa Commerce translation system">
+        <source>Ibexa Commerce translation system</source>
+        <target>crwdns259270:0crwdne259270:0</target>
+        <note>key: Ibexa Commerce translation system</note>
+      </trans-unit>
+      <trans-unit id="474ae52625b87d7628ae7b20a499329a99e07119" resname="Id">
+        <source>Id</source>
+        <target>crwdns259272:0crwdne259272:0</target>
+        <note>key: Id</note>
+      </trans-unit>
+      <trans-unit id="3268a2d757304cd6e95a2a295ee7416a2a0d8746" resname="If you already have an customer number you can activate your account directly.">
+        <source>If you already have an customer number you can activate your account directly.</source>
+        <target>crwdns259274:0crwdne259274:0</target>
+        <note>key: If you already have an customer number you can activate your account directly.</note>
+      </trans-unit>
+      <trans-unit id="433fc3d64769319988a5a98720764ab60ba7610b" resname="If you are an existing customer, please click here:">
+        <source>If you are an existing customer, please click here:</source>
+        <target>crwdns259276:0crwdne259276:0</target>
+        <note>key: If you are an existing customer, please click here:</note>
+      </trans-unit>
+      <trans-unit id="c72795657c1c5c9ac678c8c8fb36245221261644" resname="Inc.">
+        <source>Inc.</source>
+        <target>crwdns259278:0crwdne259278:0</target>
+        <note>key: Inc.</note>
+      </trans-unit>
+      <trans-unit id="8bd92e84dc6c4a12cd053ce10229393f4a7eadf1" resname="Including VAT">
+        <source>Including VAT</source>
+        <target>crwdns259280:0crwdne259280:0</target>
+        <note>key: Including VAT</note>
+      </trans-unit>
+      <trans-unit id="4b631f69842530d659306c8f06dbad594a6b1807" resname="Info">
+        <source>Info</source>
+        <target>crwdns259282:0crwdne259282:0</target>
+        <note>key: Info</note>
+      </trans-unit>
+      <trans-unit id="a4c9cbd6e25fd7ae420dbe02ecf40785fb89099c" resname="Input Value">
+        <source>Input Value</source>
+        <target>crwdns259284:0crwdne259284:0</target>
+        <note>key: Input Value</note>
+      </trans-unit>
+      <trans-unit id="c3dc574c1fb74872fbe7144f7ea1cf072afa49eb" resname="Invoice Address">
+        <source>Invoice Address</source>
+        <target>crwdns259286:0crwdne259286:0</target>
+        <note>key: Invoice Address</note>
+      </trans-unit>
+      <trans-unit id="521b42db042c5238d8567ea1ae10fc3050b774e5" resname="Invoice address">
+        <source>Invoice address</source>
+        <target>crwdns259288:0crwdne259288:0</target>
+        <note>key: Invoice address</note>
+      </trans-unit>
+      <trans-unit id="254500c36412d7eb4db7544361694afcc6326f05" resname="Invoice number">
+        <source>Invoice number</source>
+        <target>crwdns259290:0crwdne259290:0</target>
+        <note>key: Invoice number</note>
+      </trans-unit>
+      <trans-unit id="c435ec170311b56182ceafad72f2e2acbb2f3301" resname="Item No.">
+        <source>Item No.</source>
+        <target>crwdns259292:0crwdne259292:0</target>
+        <note>key: Item No.</note>
+      </trans-unit>
+      <trans-unit id="342fc6deba795848e2ff73a281efc3cd32b9daa0" resname="Landingpage|search">
+        <source>Landingpage</source>
+        <target>crwdns259294:0crwdne259294:0</target>
+        <note>key: Landingpage|search</note>
+      </trans-unit>
+      <trans-unit id="db821682ed7048c0bd3b938e907691499e6b4137" resname="Last 100 search terms">
+        <source>Last 100 search terms</source>
+        <target>crwdns259296:0crwdne259296:0</target>
+        <note>key: Last 100 search terms</note>
+      </trans-unit>
+      <trans-unit id="73fccbac0d42c9ff51c31eba605e331beea64446" resname="Last 14 days">
+        <source>Last 14 days</source>
+        <target>crwdns259298:0crwdne259298:0</target>
+        <note>key: Last 14 days</note>
+      </trans-unit>
+      <trans-unit id="6b32985251a1f00785875492de31de15b7e04116" resname="Last 30 days">
+        <source>Last 30 days</source>
+        <target>crwdns259300:0crwdne259300:0</target>
+        <note>key: Last 30 days</note>
+      </trans-unit>
+      <trans-unit id="791315f3a35c0a11fca723bf5131a47191703320" resname="Last 365 orders">
+        <source>Last 365 orders</source>
+        <target>crwdns259302:0crwdne259302:0</target>
+        <note>key: Last 365 orders</note>
+      </trans-unit>
+      <trans-unit id="df833fe88d3888a1ce9d1dbefea78fe4d4cffc4e" resname="Last 7 days">
+        <source>Last 7 days</source>
+        <target>crwdns259304:0crwdne259304:0</target>
+        <note>key: Last 7 days</note>
+      </trans-unit>
+      <trans-unit id="7c75bd7e5c337e157377355d99940756596d9f03" resname="Last error text">
+        <source>Last error text</source>
+        <target>crwdns259306:0crwdne259306:0</target>
+        <note>key: Last error text</note>
+      </trans-unit>
+      <trans-unit id="adec36a821f81a6990b1e65d9e4ac5fb8ee2a205" resname="Last name">
+        <source>Last name</source>
+        <target>crwdns259308:0crwdne259308:0</target>
+        <note>key: Last name</note>
+      </trans-unit>
+      <trans-unit id="f342510df3e7baa9ba4fe79dd5895061575cb883" resname="Last viewed products">
+        <source>Last viewed products</source>
+        <target>crwdns259310:0crwdne259310:0</target>
+        <note>key: Last viewed products</note>
+      </trans-unit>
+      <trans-unit id="ea9676003762818513c636984faeaa0ae356839a" resname="Line">
+        <source>Line</source>
+        <target>crwdns259312:0crwdne259312:0</target>
+        <note>key: Line</note>
+      </trans-unit>
+      <trans-unit id="d137fc9e6206e2e761b545adad941e5effc21feb" resname="Line %line%">
+        <source>Line %line%</source>
+        <target>crwdns259314:0%line%crwdne259314:0</target>
+        <note>key: Line %line%</note>
+      </trans-unit>
+      <trans-unit id="bb06938fc20419ff1d6847229cf58440007462a7" resname="Link to control panel">
+        <source>Link to control panel</source>
+        <target>crwdns259316:0crwdne259316:0</target>
+        <note>key: Link to control panel</note>
+      </trans-unit>
+      <trans-unit id="2d1286da5d380a5d2fab310f82b23c0123f6c40c" resname="List price">
+        <source>List price</source>
+        <target>crwdns259318:0crwdne259318:0</target>
+        <note>key: List price</note>
+      </trans-unit>
+      <trans-unit id="08a33285b8d3d7cf8ac553ba66c3d8ba70277280" resname="Local data">
+        <source>Local data</source>
+        <target>crwdns259320:0crwdne259320:0</target>
+        <note>key: Local data</note>
+      </trans-unit>
+      <trans-unit id="75d39bfaedaf91b3d06e9421dda5af665d0f4c8d" resname="Logged in">
+        <source>Logged in</source>
+        <target>crwdns259322:0crwdne259322:0</target>
+        <note>key: Logged in</note>
+      </trans-unit>
+      <trans-unit id="b387bb6b957e5cba2ef6a9043ff039cd8c12e3ed" resname="Logged in as">
+        <source>Logged in as</source>
+        <target>crwdns259324:0crwdne259324:0</target>
+        <note>key: Logged in as</note>
+      </trans-unit>
+      <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login">
+        <source>Login</source>
+        <target>crwdns259326:0crwdne259326:0</target>
+        <note>key: Login</note>
+      </trans-unit>
+      <trans-unit id="2e98310eea1179ef208c32219ee39697a872756f" resname="Login / Register">
+        <source>Login / Register</source>
+        <target>crwdns259328:0crwdne259328:0</target>
+        <note>key: Login / Register</note>
+      </trans-unit>
+      <trans-unit id="e43d612e11f1568f2373e719d4c4b08dcecdc7cc" resname="Logout">
+        <source>Logout</source>
+        <target>crwdns259330:0crwdne259330:0</target>
+        <note>key: Logout</note>
+      </trans-unit>
+      <trans-unit id="68f4145fee7dde76afceb910165924ad14cf0d00" resname="Message">
+        <source>Message</source>
+        <target>crwdns259332:0crwdne259332:0</target>
+        <note>key: Message</note>
+      </trans-unit>
+      <trans-unit id="bcc48f3336eb1990dab1a630c22321077ded99c1" resname="Min quantity">
+        <source>Min quantity</source>
+        <target>crwdns259334:0crwdne259334:0</target>
+        <note>key: Min quantity</note>
+      </trans-unit>
+      <trans-unit id="b51b2b0d62c7e20b8d8a956fed9a940fed0677d6" resname="My Account">
+        <source>My Account</source>
+        <target>crwdns259336:0crwdne259336:0</target>
+        <note>key: My Account</note>
+      </trans-unit>
+      <trans-unit id="3dd5f84887e724584d4f1e0bf57b63298c12fdb4" resname="My Comparison List">
+        <source>My Comparison List</source>
+        <target>crwdns259338:0crwdne259338:0</target>
+        <note>key: My Comparison List</note>
+      </trans-unit>
+      <trans-unit id="2f3df0a939fdd38f0e2152b32e778eadb937d821" resname="My profile">
+        <source>My profile</source>
+        <target>crwdns259340:0crwdne259340:0</target>
+        <note>key: My profile</note>
+      </trans-unit>
+      <trans-unit id="ff842294e983715e11718eccba1bafe95de02b60" resname="My stored basket:">
+        <source>My stored basket:</source>
+        <target>crwdns259342:0crwdne259342:0</target>
+        <note>key: My stored basket:</note>
+      </trans-unit>
+      <trans-unit id="dc032e04defad47f9350b9406cf37fd885ccf08b" resname="My stored baskets">
+        <source>My stored baskets</source>
+        <target>crwdns259344:0crwdne259344:0</target>
+        <note>key: My stored baskets</note>
+      </trans-unit>
+      <trans-unit id="252f36ac0e05e41dfeafc7f4a61e7028e86e4ce5" resname="My wishlist">
+        <source>My wishlist</source>
+        <target>crwdns259346:0crwdne259346:0</target>
+        <note>key: My wishlist</note>
+      </trans-unit>
+      <trans-unit id="709a23220f2c3d64d1e1d6d18c4d5280f8d82fca" resname="Name">
+        <source>Name</source>
+        <target>crwdns259348:0crwdne259348:0</target>
+        <note>key: Name</note>
+      </trans-unit>
+      <trans-unit id="4cf78143061548570a004a79a8243d821aac2e7f" resname="Name of the customer(s)">
+        <source>Name of the customer(s)</source>
+        <target>crwdns259350:0crwdne259350:0</target>
+        <note>key: Name of the customer(s)</note>
+      </trans-unit>
+      <trans-unit id="45205ef85b2f57922ab3c566402f2747eb51783a" resname="Name/Company">
+        <source>Name/Company</source>
+        <target>crwdns259352:0crwdne259352:0</target>
+        <note>key: Name/Company</note>
+      </trans-unit>
+      <trans-unit id="6ffcdc92a33aa89f26c7cd8dce6c583abb019bcd" resname="Name/Company 2">
+        <source>Name/Company 2</source>
+        <target>crwdns259354:0crwdne259354:0</target>
+        <note>key: Name/Company 2</note>
+      </trans-unit>
+      <trans-unit id="1f617792a164749b476129f872803a8afaabcef2" resname="New business customer has registered. Please check these data:">
+        <source>New business customer has registered. Please check these data:</source>
+        <target>crwdns259356:0crwdne259356:0</target>
+        <note>key: New business customer has registered. Please check these data:</note>
+      </trans-unit>
+      <trans-unit id="6ed05e720ccc3ef269db1b38201da8b873acc895" resname="Newsletter">
+        <source>Newsletter</source>
+        <target>crwdns259358:0crwdne259358:0</target>
+        <note>key: Newsletter</note>
+      </trans-unit>
+      <trans-unit id="c3d5d945189a058eff172d7e46c4bb8dbb0daf13" resname="No attributes in local user data map">
+        <source>No attributes in local user data map</source>
+        <target>crwdns259360:0crwdne259360:0</target>
+        <note>key: No attributes in local user data map</note>
+      </trans-unit>
+      <trans-unit id="2b4cf591d61c644c4bef577944d6ac0d3a8d7a09" resname="No availability information for this product">
+        <source>No availability information for this product</source>
+        <target>crwdns259362:0crwdne259362:0</target>
+        <note>key: No availability information for this product</note>
+      </trans-unit>
+      <trans-unit id="e33899926b0427c4e7fd8c5a530d736b52b61444" resname="No connection">
+        <source>No connection</source>
+        <target>crwdns259364:0crwdne259364:0</target>
+        <note>key: No connection</note>
+      </trans-unit>
+      <trans-unit id="133143619062d4e6b0c60095b438b49e6e73cae8" resname="No contact available">
+        <source>No contact available</source>
+        <target>crwdns259366:0crwdne259366:0</target>
+        <note>key: No contact available</note>
+      </trans-unit>
+      <trans-unit id="4930b536bbf2b7a055b9ec1ad8eaac079bc485f0" resname="No new user created, cannot login.">
+        <source>No new user created, cannot login.</source>
+        <target>crwdns259368:0crwdne259368:0</target>
+        <note>key: No new user created, cannot login.</note>
+      </trans-unit>
+      <trans-unit id="b8b9f1367ad6269845f5ec54d66262066092883f" resname="No.">
+        <source>No.</source>
+        <target>crwdns259370:0crwdne259370:0</target>
+        <note>key: No.</note>
+      </trans-unit>
+      <trans-unit id="4028c0c8b470f54534e630835a4923212d2ed971" resname="Not Available">
+        <source>Not Available</source>
+        <target>crwdns259372:0crwdne259372:0</target>
+        <note>key: Not Available</note>
+      </trans-unit>
+      <trans-unit id="8d7e18d9313728942bd3571a69ff8cd7d86e95ef" resname="Not Available in the amount: %amount%, Stock: %stockNumeric%">
+        <source>Not Available in the amount: %amount%, Stock: %stockNumeric%</source>
+        <target>crwdns259374:0%amount%crwdnd259374:0%stockNumeric%crwdne259374:0</target>
+        <note>key: Not Available in the amount: %amount%, Stock: %stockNumeric%</note>
+      </trans-unit>
+      <trans-unit id="2b10f497394ddf7f2ceead54d0005bffb2b7a326" resname="Not Available in this amount">
+        <source>Not Available in this amount</source>
+        <target>crwdns259376:0crwdne259376:0</target>
+        <note>key: Not Available in this amount</note>
+      </trans-unit>
+      <trans-unit id="53802e672d6d5a496e79cc598092291e80a23e1d" resname="Not logged in">
+        <source>Not logged in</source>
+        <target>crwdns259378:0crwdne259378:0</target>
+        <note>key: Not logged in</note>
+      </trans-unit>
+      <trans-unit id="16d5f9dca5983670eecb9f80ff720b611795d1a3" resname="Occured in file %file% line %line%">
+        <source>Occured in file %file% line %line%</source>
+        <target>crwdns259380:0%file%crwdnd259380:0%line%crwdne259380:0</target>
+        <note>key: Occured in file %file% line %line%</note>
+      </trans-unit>
+      <trans-unit id="5c4b1a4c0772cab30dbe8ee5128bd0657f3264bf" resname="Online-Shop">
+        <source>Online-Shop</source>
+        <target>crwdns259382:0crwdne259382:0</target>
+        <note>key: Online-Shop</note>
+      </trans-unit>
+      <trans-unit id="78bb9ffefe80a37477a88105e5436d8e40701aa4" resname="Only differences">
+        <source>Only differences</source>
+        <target>crwdns259384:0crwdne259384:0</target>
+        <note>key: Only differences</note>
+      </trans-unit>
+      <trans-unit id="cded093321ddaa4c0eaf56ef36f84dd53a9527be" resname="Orders">
+        <source>Orders</source>
+        <target>crwdns259386:0crwdne259386:0</target>
+        <note>key: Orders</note>
+      </trans-unit>
+      <trans-unit id="74eb3dae0f866410a58aa70a0d9086e3aa333dde" resname="Our apologies but comparison feature is optimized for bigger screen size.">
+        <source>Our apologies but comparison feature is optimized for bigger screen size.</source>
+        <target>crwdns259388:0crwdne259388:0</target>
+        <note>key: Our apologies but comparison feature is optimized for bigger screen size.</note>
+      </trans-unit>
+      <trans-unit id="0efc2e6be4c23b9a513d7ce0dcff8ed80e8912e7" resname="Overview">
+        <source>Overview</source>
+        <target>crwdns259390:0crwdne259390:0</target>
+        <note>key: Overview</note>
+      </trans-unit>
+      <trans-unit id="0f4d2a2d489ef8d6a4b56f1a9cec1bb845f83759" resname="Packaging Unit: %packageUnit%">
+        <source>Packaging Unit: %packageUnit%</source>
+        <target>crwdns259392:0%packageUnit%crwdne259392:0</target>
+        <note>key: Packaging Unit: %packageUnit%</note>
+      </trans-unit>
+      <trans-unit id="8be3c943b1609fffbfc51aad666d0a04adf83c9d" resname="Password">
+        <source>Password</source>
+        <target>crwdns259394:0crwdne259394:0</target>
+        <note>key: Password</note>
+      </trans-unit>
+      <trans-unit id="6640bb48d9541086a4de3d3c0fd0144f775a9695" resname="Password Change">
+        <source>Password Change</source>
+        <target>crwdns259396:0crwdne259396:0</target>
+        <note>key: Password Change</note>
+      </trans-unit>
+      <trans-unit id="b41a92bed03261664717a6afdad4edf3d5d6ef6e" resname="Payment">
+        <source>Payment</source>
+        <target>crwdns259398:0crwdne259398:0</target>
+        <note>key: Payment</note>
+      </trans-unit>
+      <trans-unit id="9a12bd83ab06265bab4af289bc112c3f7ce65aa9" resname="Personal data:">
+        <source>Personal data:</source>
+        <target>crwdns259400:0crwdne259400:0</target>
+        <note>key: Personal data:</note>
+      </trans-unit>
+      <trans-unit id="8961d3bf56ef1c18ef5c831ba0838e8b1f85e5de" resname="Phone number">
+        <source>Phone number</source>
+        <target>crwdns259402:0crwdne259402:0</target>
+        <note>key: Phone number</note>
+      </trans-unit>
+      <trans-unit id="bdc89e68ce3be454804f0ddb343c0b28e41a389b" resname="Piece">
+        <source>Piece</source>
+        <target>crwdns259404:0crwdne259404:0</target>
+        <note>key: Piece</note>
+      </trans-unit>
+      <trans-unit id="60f9b424d7b10f1a0fdf3eb9cd988cf6e44e6cc1" resname="Please check the registration document in attachment">
+        <source>Please check the registration document in attachment</source>
+        <target>crwdns259406:0crwdne259406:0</target>
+        <note>key: Please check the registration document in attachment</note>
+      </trans-unit>
+      <trans-unit id="610b9ed2ad34ee66fce92181208cdb223a5d2e3c" resname="Please click &lt;a href=&quot;%url%&quot;&gt;here&lt;/a&gt; to set a new password.">
+        <source><![CDATA[Please click <a href="%url%">here</a> to set a new password.]]></source>
+        <target><![CDATA[crwdns259408:0%url%crwdne259408:0]]></target>
+        <note>key: Please click &lt;a href="%url%"&gt;here&lt;/a&gt; to set a new password.</note>
+      </trans-unit>
+      <trans-unit id="450998b73b3c93bc0a0c3b6165bdd74e7b8de3a8" resname="Please click here to set a new password:">
+        <source>Please click here to set a new password:</source>
+        <target>crwdns259410:0crwdne259410:0</target>
+        <note>key: Please click here to set a new password:</note>
+      </trans-unit>
+      <trans-unit id="8e9e72712f5d184a7b3d7e1a6bb31a40f66ca65b" resname="Please enter between %min% and %max% chars">
+        <source>Please enter between %min% and %max% chars</source>
+        <target>crwdns259412:0%min%crwdnd259412:0%max%crwdne259412:0</target>
+        <note>key: Please enter between %min% and %max% chars</note>
+      </trans-unit>
+      <trans-unit id="0660961025e9cb4378c0860e9febb749d465a0a8" resname="Please fill these fields only if you are a trader.">
+        <source>Please fill these fields only if you are a trader.</source>
+        <target>crwdns259414:0crwdne259414:0</target>
+        <note>key: Please fill these fields only if you are a trader.</note>
+      </trans-unit>
+      <trans-unit id="cce7d01be3e122cd357c210c6b54e9c0821373f7" resname="Please go to product detail page and choose your variant first">
+        <source>Please go to product detail page and choose your variant first</source>
+        <target>crwdns259416:0crwdne259416:0</target>
+        <note>key: Please go to product detail page and choose your variant first</note>
+      </trans-unit>
+      <trans-unit id="cad313499077f86754f105393c117dd1fdea4412" resname="Please log in to use this feature">
+        <source>Please log in to use this feature</source>
+        <target>crwdns259418:0crwdne259418:0</target>
+        <note>key: Please log in to use this feature</note>
+      </trans-unit>
+      <trans-unit id="253f27abf5cf4ac13590b23620d739c6a5f1505f" resname="Please repeat your password">
+        <source>Please repeat your password</source>
+        <target>crwdns259420:0crwdne259420:0</target>
+        <note>key: Please repeat your password</note>
+      </trans-unit>
+      <trans-unit id="4e786ecd333e8c488d3679039b68298879bb74dd" resname="Please update your basket">
+        <source>Please update your basket</source>
+        <target>crwdns259422:0crwdne259422:0</target>
+        <note>key: Please update your basket</note>
+      </trans-unit>
+      <trans-unit id="7939e7da8ea863b0c01246ff364a8987cc770748" resname="Previous Exception">
+        <source>Previous Exception</source>
+        <target>crwdns259424:0crwdne259424:0</target>
+        <note>key: Previous Exception</note>
+      </trans-unit>
+      <trans-unit id="b94e682df90fdba2a90ede43490c8c9408feb5b0" resname="Previous number of failed tries">
+        <source>Previous number of failed tries</source>
+        <target>crwdns259426:0crwdne259426:0</target>
+        <note>key: Previous number of failed tries</note>
+      </trans-unit>
+      <trans-unit id="3e8248e32edfca0c629622b5b669c2d9ce4d0917" resname="Price">
+        <source>Price</source>
+        <target>crwdns259428:0crwdne259428:0</target>
+        <note>key: Price</note>
+      </trans-unit>
+      <trans-unit id="7158db94fa512233b3a0b1c9e137854a28bd8cce" resname="Price from">
+        <source>Price from</source>
+        <target>crwdns259430:0crwdne259430:0</target>
+        <note>key: Price from</note>
+      </trans-unit>
+      <trans-unit id="237dfa0a21c8e17a7276cf161eef7e0fba067c47" resname="Private">
+        <source>Private</source>
+        <target>crwdns259432:0crwdne259432:0</target>
+        <note>key: Private</note>
+      </trans-unit>
+      <trans-unit id="dd3b86d1ef21b9fb2e1edc30f524e7afb491b1ad" resname="Product">
+        <source>Product</source>
+        <target>crwdns259434:0crwdne259434:0</target>
+        <note>key: Product</note>
+      </trans-unit>
+      <trans-unit id="983bd920063e014faf0044975ed6e67d1bda3d27" resname="Product not found">
+        <source>Product not found</source>
+        <target>crwdns259436:0crwdne259436:0</target>
+        <note>key: Product not found</note>
+      </trans-unit>
+      <trans-unit id="fe0a091fdbfb3e9c31b7a1bd7975974938e702fa" resname="Products">
+        <source>Products</source>
+        <target>crwdns259438:0crwdne259438:0</target>
+        <note>key: Products</note>
+      </trans-unit>
+      <trans-unit id="8faf9ef627de99d5d4679e74f53112defc62dd7e" resname="Products and sales">
+        <source>Products and sales</source>
+        <target>crwdns259440:0crwdne259440:0</target>
+        <note>key: Products and sales</note>
+      </trans-unit>
+      <trans-unit id="1e5ff9e500c20c682a037a3a5ced18064af0eb10" resname="Qty">
+        <source>Qty</source>
+        <target>crwdns259442:0crwdne259442:0</target>
+        <note>key: Qty</note>
+      </trans-unit>
+      <trans-unit id="44f6af6945544c0bab016a9160df6abb0cefcb60" resname="Quantity">
+        <source>Quantity</source>
+        <target>crwdns259444:0crwdne259444:0</target>
+        <note>key: Quantity</note>
+      </trans-unit>
+      <trans-unit id="abc84f3f4f175ef9ea5902fd51272ea8720a366c" resname="Quantity of products you want to purchase">
+        <source>Quantity of products you want to purchase</source>
+        <target>crwdns259446:0crwdne259446:0</target>
+        <note>key: Quantity of products you want to purchase</note>
+      </trans-unit>
+      <trans-unit id="aecb5e41b3c2cbb10c19bb029dfb3a96e835b0d4" resname="Quickorder">
+        <source>Quickorder</source>
+        <target>crwdns259448:0crwdne259448:0</target>
+        <note>key: Quickorder</note>
+      </trans-unit>
+      <trans-unit id="b4447a76616ad2f0bc8ae5103ce2622a2117e41b" resname="Refresh products and sales panel">
+        <source>Refresh products and sales panel</source>
+        <target>crwdns259450:0crwdne259450:0</target>
+        <note>key: Refresh products and sales panel</note>
+      </trans-unit>
+      <trans-unit id="52317e6668a028df9dd90e9904319eec70a4f384" resname="Refresh quickorder">
+        <source>Refresh quickorder</source>
+        <target>crwdns259452:0crwdne259452:0</target>
+        <note>key: Refresh quickorder</note>
+      </trans-unit>
+      <trans-unit id="d672995a14650d0e018026b64f297663d8c71c8d" resname="Register">
+        <source>Register</source>
+        <target>crwdns259454:0crwdne259454:0</target>
+        <note>key: Register</note>
+      </trans-unit>
+      <trans-unit id="b233e775d63bb8b86cf031776d4caea613f59cda" resname="Registration">
+        <source>Registration</source>
+        <target>crwdns259456:0crwdne259456:0</target>
+        <note>key: Registration</note>
+      </trans-unit>
+      <trans-unit id="ab7971a532a9d65c36fb09f5564383e20c57c550" resname="Registration Complete">
+        <source>Registration Complete</source>
+        <target>crwdns259458:0crwdne259458:0</target>
+        <note>key: Registration Complete</note>
+      </trans-unit>
+      <trans-unit id="c97b4d20c0f87e9953458fe64bd9594acbb9bc8b" resname="Registration almost complete!">
+        <source>Registration almost complete!</source>
+        <target>crwdns259460:0crwdne259460:0</target>
+        <note>key: Registration almost complete!</note>
+      </trans-unit>
+      <trans-unit id="dee760d19b446f58d6d263469e2948ad3de7b7b9" resname="Registration successful">
+        <source>Registration successful</source>
+        <target>crwdns259462:0crwdne259462:0</target>
+        <note>key: Registration successful</note>
+      </trans-unit>
+      <trans-unit id="f45f4f845883640490d80b43ab66a4c0c8c94471" resname="Remember my login">
+        <source>Remember my login</source>
+        <target>crwdns259464:0crwdne259464:0</target>
+        <note>key: Remember my login</note>
+      </trans-unit>
+      <trans-unit id="e963907dac5cd5c017869b4c96c18021c9bd058b" resname="Remove">
+        <source>Remove</source>
+        <target>crwdns259466:0crwdne259466:0</target>
+        <note>key: Remove</note>
+      </trans-unit>
+      <trans-unit id="7793e0f29c04f80d5a52a1294d49ea858bcada53" resname="Remove product from basket">
+        <source>Remove product from basket</source>
+        <target>crwdns259468:0crwdne259468:0</target>
+        <note>key: Remove product from basket</note>
+      </trans-unit>
+      <trans-unit id="bab9bc458f38d4d574e5baa63c72341db6ddaa30" resname="Repeat Password">
+        <source>Repeat Password</source>
+        <target>crwdns259470:0crwdne259470:0</target>
+        <note>key: Repeat Password</note>
+      </trans-unit>
+      <trans-unit id="d59192b9c8f264b356075d2fd455117e5c1265a0" resname="SKU">
+        <source>SKU</source>
+        <target>crwdns259472:0crwdne259472:0</target>
+        <note>key: SKU</note>
+      </trans-unit>
+      <trans-unit id="3889c4b10dcf83926b2ff89f2d161bb4cd5ed2ed" resname="SKU: %sku%">
+        <source>SKU: %sku%</source>
+        <target>crwdns259474:0%sku%crwdne259474:0</target>
+        <note>key: SKU: %sku%</note>
+      </trans-unit>
+      <trans-unit id="d0edfb6e8c55c8742a83f0f192886e0e15fa0347" resname="Sales">
+        <source>Sales</source>
+        <target>crwdns259476:0crwdne259476:0</target>
+        <note>key: Sales</note>
+      </trans-unit>
+      <trans-unit id="e1c1a12ecb676f8b1df481e9a835be4d0766c2b9" resname="Salutation">
+        <source>Salutation</source>
+        <target>crwdns259478:0crwdne259478:0</target>
+        <note>key: Salutation</note>
+      </trans-unit>
+      <trans-unit id="a25bec64c124d32dddd23ea461082866533d4573" resname="Save My Account">
+        <source>Save My Account</source>
+        <target>crwdns259480:0crwdne259480:0</target>
+        <note>key: Save My Account</note>
+      </trans-unit>
+      <trans-unit id="c08b67b29bc1026887b416da37d67bde5ebfb42e" resname="Save address">
+        <source>Save address</source>
+        <target>crwdns259482:0crwdne259482:0</target>
+        <note>key: Save address</note>
+      </trans-unit>
+      <trans-unit id="2164d00c0b1a863d66e100aab08dfa5a34dcccea" resname="Save and close">
+        <source>Save and close</source>
+        <target>crwdns259484:0crwdne259484:0</target>
+        <note>key: Save and close</note>
+      </trans-unit>
+      <trans-unit id="bce06414177f72ab70e6387b6af9f8ceef0d6049" resname="Search">
+        <source>Search</source>
+        <target>crwdns259486:0crwdne259486:0</target>
+        <note>key: Search</note>
+      </trans-unit>
+      <trans-unit id="50d467d38ca07cf6135dea01091b4eb6c67fb4f8" resname="Search Text">
+        <source>Search Text</source>
+        <target>crwdns259488:0crwdne259488:0</target>
+        <note>key: Search Text</note>
+      </trans-unit>
+      <trans-unit id="c8a3f10e895d4683908a5346c0582d208c4e4bf6" resname="Select your password">
+        <source>Select your password</source>
+        <target>crwdns259490:0crwdne259490:0</target>
+        <note>key: Select your password</note>
+      </trans-unit>
+      <trans-unit id="9bc2575c3930437e80555f78757b783c842e8e66" resname="Send">
+        <source>Send</source>
+        <target>crwdns259492:0crwdne259492:0</target>
+        <note>key: Send</note>
+      </trans-unit>
+      <trans-unit id="11a5d15123ac820bfb33d8ce449b7a8678bd37e4" resname="Send a copy to my email address.">
+        <source>Send a copy to my email address.</source>
+        <target>crwdns259494:0crwdne259494:0</target>
+        <note>key: Send a copy to my email address.</note>
+      </trans-unit>
+      <trans-unit id="eb131e177c09ad207526d7c2efa3e6df5eb56838" resname="Server load">
+        <source>Server load</source>
+        <target>crwdns259496:0crwdne259496:0</target>
+        <note>key: Server load</note>
+      </trans-unit>
+      <trans-unit id="55de88709232ec03a7618ceae9b2248419fdc862" resname="Shop">
+        <source>Shop</source>
+        <target>crwdns259498:0crwdne259498:0</target>
+        <note>key: Shop</note>
+      </trans-unit>
+      <trans-unit id="901c24d881aba45f17df256f6d7ee23a6dc35dfe" resname="Shop Order ID">
+        <source>Shop Order ID</source>
+        <target>crwdns259500:0crwdne259500:0</target>
+        <note>key: Shop Order ID</note>
+      </trans-unit>
+      <trans-unit id="1c621cb43a500cbc2380fdba9c471be1369e0c0c" resname="Shopping basket">
+        <source>Shopping basket</source>
+        <target>crwdns259502:0crwdne259502:0</target>
+        <note>key: Shopping basket</note>
+      </trans-unit>
+      <trans-unit id="bc18fa5fb87119646140659fa26b93a2003e23d5" resname="Shopping management">
+        <source>Shopping management</source>
+        <target>crwdns259504:0crwdne259504:0</target>
+        <note>key: Shopping management</note>
+      </trans-unit>
+      <trans-unit id="8a00748171b458615dd7d1aa0db9a280a3b64b49" resname="Size|search">
+        <source>file size</source>
+        <target>crwdns259506:0crwdne259506:0</target>
+        <note>key: Size|search</note>
+      </trans-unit>
+      <trans-unit id="b174988f05b212a6feed306a3f04ea3cd440bbc0" resname="Sku of the product(s)">
+        <source>Sku of the product(s)</source>
+        <target>crwdns259508:0crwdne259508:0</target>
+        <note>key: Sku of the product(s)</note>
+      </trans-unit>
+      <trans-unit id="7e89cf439cfdfff50251e8e6d7190cb33f40d466" resname="Social media">
+        <source>Social media</source>
+        <target>crwdns259510:0crwdne259510:0</target>
+        <note>key: Social media</note>
+      </trans-unit>
+      <trans-unit id="5b5417c8f809fb1fccf7945620486052abfadb17" resname="Sort Order">
+        <source>Sort Order</source>
+        <target>crwdns259512:0crwdne259512:0</target>
+        <note>key: Sort Order</note>
+      </trans-unit>
+      <trans-unit id="6da13addb000b67d42a6d66391713819e634149f" resname="Source">
+        <source>Source</source>
+        <target>crwdns259514:0crwdne259514:0</target>
+        <note>key: Source</note>
+      </trans-unit>
+      <trans-unit id="da4725a3306d8386ac42c90352ae668b0289c8ac" resname="State/County">
+        <source>State/County</source>
+        <target>crwdns259516:0crwdne259516:0</target>
+        <note>key: State/County</note>
+      </trans-unit>
+      <trans-unit id="bcecf4562f1709b1448aff7c6b49edb6acecdb12" resname="Stock">
+        <source>Stock</source>
+        <target>crwdns259518:0crwdne259518:0</target>
+        <note>key: Stock</note>
+      </trans-unit>
+      <trans-unit id="2cdb068ff0ea4ecc77534d53bf3b42405d122e3a" resname="Stock: %stockNumeric%">
+        <source>Stock: %stockNumeric%</source>
+        <target>crwdns259520:0%stockNumeric%crwdne259520:0</target>
+        <note>key: Stock: %stockNumeric%</note>
+      </trans-unit>
+      <trans-unit id="b454109993438542163d132d897313eee1b480fa" resname="Street">
+        <source>Street</source>
+        <target>crwdns259522:0crwdne259522:0</target>
+        <note>key: Street</note>
+      </trans-unit>
+      <trans-unit id="f3da206c356c95cee46bc4b97bda41a6a444d48e" resname="Subcategories">
+        <source>Subcategories</source>
+        <target>crwdns259524:0crwdne259524:0</target>
+        <note>key: Subcategories</note>
+      </trans-unit>
+      <trans-unit id="53f70fdb221410a4530627855d29b689b687b39b" resname="Subscribe to newsletter">
+        <source>Subscribe to newsletter</source>
+        <target>crwdns259526:0crwdne259526:0</target>
+        <note>key: Subscribe to newsletter</note>
+      </trans-unit>
+      <trans-unit id="0acb2980724ff0b69d3cd6866faba8ab8a58b2ca" resname="Supported file formats: PDF, max size 5MB">
+        <source>Supported file formats: PDF, max size 5MB</source>
+        <target>crwdns259528:0crwdne259528:0</target>
+        <note>key: Supported file formats: PDF, max size 5MB</note>
+      </trans-unit>
+      <trans-unit id="77dfca2a56f9b1ffc2b6687e230088cf86fbc074" resname="Surname">
+        <source>Surname</source>
+        <target>crwdns259530:0crwdne259530:0</target>
+        <note>key: Surname</note>
+      </trans-unit>
+      <trans-unit id="41fc0860886a6b0485dd7b2d88f44499177731d4" resname="Technical">
+        <source>Technical</source>
+        <target>crwdns259532:0crwdne259532:0</target>
+        <note>key: Technical</note>
+      </trans-unit>
+      <trans-unit id="8c3913ae68ed9b3088b6964c563c5218a4dff93b" resname="The customer will send his registration document per Email">
+        <source>The customer will send his registration document per Email</source>
+        <target>crwdns259534:0crwdne259534:0</target>
+        <note>key: The customer will send his registration document per Email</note>
+      </trans-unit>
+      <trans-unit id="a29d6d5aa5131805e60ceac186b93963b5647b68" resname="The password fields must match.">
+        <source>The password fields must match.</source>
+        <target>crwdns259536:0crwdne259536:0</target>
+        <note>key: The password fields must match.</note>
+      </trans-unit>
+      <trans-unit id="24e5b6f07da345db23a8644be579629a265ab3c1" resname="There is a new request from the cancellation form:">
+        <source>There is a new request from the cancellation form:</source>
+        <target>crwdns259538:0crwdne259538:0</target>
+        <note>key: There is a new request from the cancellation form:</note>
+      </trans-unit>
+      <trans-unit id="9eada39f42af2835d17d5fcae1cd6c7c83e0e268" resname="There is a new request from the contact form:">
+        <source>There is a new request from the contact form:</source>
+        <target>crwdns259540:0crwdne259540:0</target>
+        <note>key: There is a new request from the contact form:</note>
+      </trans-unit>
+      <trans-unit id="543f4e2aa350f7bdd831afed4d516d73333eeb79" resname="There is a request to get a new password for your account. If the request is not from you, then please ignore this email.">
+        <source>There is a request to get a new password for your account. If the request is not from you, then please ignore this email.</source>
+        <target>crwdns259542:0crwdne259542:0</target>
+        <note>key: There is a request to get a new password for your account. If the request is not from you, then please ignore this email.</note>
+      </trans-unit>
+      <trans-unit id="7da4e21fe65af42442dc91e4c71202934f7de37f" resname="There is no information about availability for this product">
+        <source>There is no information about availability for this product</source>
+        <target>crwdns259544:0crwdne259544:0</target>
+        <note>key: There is no information about availability for this product</note>
+      </trans-unit>
+      <trans-unit id="118a23a0538df2e5e0e8960ecb76a6179d18e970" resname="This List">
+        <source>This List</source>
+        <target>crwdns259546:0crwdne259546:0</target>
+        <note>key: This List</note>
+      </trans-unit>
+      <trans-unit id="dd3333f635071c2ef0e27870bcabaa230e70b99b" resname="This is fallback template!">
+        <source>This is fallback template!</source>
+        <target>crwdns259548:0crwdne259548:0</target>
+        <note>key: This is fallback template!</note>
+      </trans-unit>
+      <trans-unit id="1b4785331db3b08cd8e3cfa4bd36216731a79e54" resname="This month">
+        <source>This month</source>
+        <target>crwdns259550:0crwdne259550:0</target>
+        <note>key: This month</note>
+      </trans-unit>
+      <trans-unit id="8d5f69423c4dca81310ecfc3cc7b00d7de26030b" resname="This product is available for purchase">
+        <source>This product is available for purchase</source>
+        <target>crwdns259552:0crwdne259552:0</target>
+        <note>key: This product is available for purchase</note>
+      </trans-unit>
+      <trans-unit id="f321df3a4817f7c29886d8936e9ff9b2b8f6b988" resname="This product is not available any more! Please go to basket and remove it.">
+        <source>This product is not available any more! Please go to basket and remove it.</source>
+        <target>crwdns259554:0crwdne259554:0</target>
+        <note>key: This product is not available any more! Please go to basket and remove it.</note>
+      </trans-unit>
+      <trans-unit id="60ff850af45b2e25a469867abc51568b36102893" resname="This product is not available any more! You can delete it here">
+        <source>This product is not available any more! You can delete it here</source>
+        <target>crwdns259556:0crwdne259556:0</target>
+        <note>key: This product is not available any more! You can delete it here</note>
+      </trans-unit>
+      <trans-unit id="708b345d275095eab1bee593056a74b14e5eb108" resname="This product is not available for purchase">
+        <source>This product is not available for purchase</source>
+        <target>crwdns259558:0crwdne259558:0</target>
+        <note>key: This product is not available for purchase</note>
+      </trans-unit>
+      <trans-unit id="b06aa4cf24a942bee76bc81908cb45c37efe889d" resname="This product is not available for purchase in this amount">
+        <source>This product is not available for purchase in this amount</source>
+        <target>crwdns259560:0crwdne259560:0</target>
+        <note>key: This product is not available for purchase in this amount</note>
+      </trans-unit>
+      <trans-unit id="7b72883e078a6858cf0c79bf3e93e72e765e9ada" resname="This week">
+        <source>This week</source>
+        <target>crwdns259562:0crwdne259562:0</target>
+        <note>key: This week</note>
+      </trans-unit>
+      <trans-unit id="56607bfe94e2cccb049056b6afa1c022e1869e89" resname="Token message not given">
+        <source>Token message not given</source>
+        <target>crwdns259564:0crwdne259564:0</target>
+        <note>key: Token message not given</note>
+      </trans-unit>
+      <trans-unit id="8451f54db0bf7d6cf01fbe36cb4b14686bdf0173" resname="Token object not given">
+        <source>Token object not given</source>
+        <target>crwdns259566:0crwdne259566:0</target>
+        <note>key: Token object not given</note>
+      </trans-unit>
+      <trans-unit id="6ada3d731100de63f1e30f6ee5a976ca6888ffa0" resname="Top 100 best search terms">
+        <source>Top 100 best search terms</source>
+        <target>crwdns259568:0crwdne259568:0</target>
+        <note>key: Top 100 best search terms</note>
+      </trans-unit>
+      <trans-unit id="9b0fb13d96a5c05f4d020ee4c8df13df71d353f5" resname="Top 20 best clients of all time">
+        <source>Top 20 best clients of all time</source>
+        <target>crwdns259570:0crwdne259570:0</target>
+        <note>key: Top 20 best clients of all time</note>
+      </trans-unit>
+      <trans-unit id="4823691530860e60dd75d4ce73871a9c4a981ed4" resname="Top 20 best selling products of all time">
+        <source>Top 20 best selling products of all time</source>
+        <target>crwdns259572:0crwdne259572:0</target>
+        <note>key: Top 20 best selling products of all time</note>
+      </trans-unit>
+      <trans-unit id="b25928c69902557b0ef0a628490a3a1768d7b82f" resname="Total">
+        <source>Total</source>
+        <target>crwdns259574:0crwdne259574:0</target>
+        <note>key: Total</note>
+      </trans-unit>
+      <trans-unit id="408fa7b3a97276f695b0c76d46f55258d581d8de" resname="Total Orders">
+        <source>Total Orders</source>
+        <target>crwdns259576:0crwdne259576:0</target>
+        <note>key: Total Orders</note>
+      </trans-unit>
+      <trans-unit id="6f9d99c836e1cf3ae6293f28f86fa3f04d576be3" resname="Total Sales">
+        <source>Total Sales</source>
+        <target>crwdns259578:0crwdne259578:0</target>
+        <note>key: Total Sales</note>
+      </trans-unit>
+      <trans-unit id="c7c90e62232bc2ad66f60f4007f4aa058a65493a" resname="Total no. of customers">
+        <source>Total no. of customers</source>
+        <target>crwdns259580:0crwdne259580:0</target>
+        <note>key: Total no. of customers</note>
+      </trans-unit>
+      <trans-unit id="d5b20c7af6ff6c50c17dc30dc251d530f16e1f75" resname="Total no. of products">
+        <source>Total no. of products</source>
+        <target>crwdns259582:0crwdne259582:0</target>
+        <note>key: Total no. of products</note>
+      </trans-unit>
+      <trans-unit id="566891ab80257f558506498452e5123555c49fed" resname="Total price">
+        <source>Total price</source>
+        <target>crwdns259584:0crwdne259584:0</target>
+        <note>key: Total price</note>
+      </trans-unit>
+      <trans-unit id="de5e04489960124e64989beec4a77fe46ae54315" resname="Trader">
+        <source>Trader</source>
+        <target>crwdns259586:0crwdne259586:0</target>
+        <note>key: Trader</note>
+      </trans-unit>
+      <trans-unit id="d6680eb1cdb0c649301dae5bcc4ff0d4290d833d" resname="Trader / Retailer">
+        <source>Trader / Retailer</source>
+        <target>crwdns259588:0crwdne259588:0</target>
+        <note>key: Trader / Retailer</note>
+      </trans-unit>
+      <trans-unit id="88b33e4e12f75ac8bf792aebde41f1a090f3a612" resname="True">
+        <source>True</source>
+        <target>crwdns259590:0crwdne259590:0</target>
+        <note>key: True</note>
+      </trans-unit>
+      <trans-unit id="f6b935ab337145efdeadda28cae18aa89a845e36" resname="Unit">
+        <source>Unit</source>
+        <target>crwdns259592:0crwdne259592:0</target>
+        <note>key: Unit</note>
+      </trans-unit>
+      <trans-unit id="3c6c777f4d1ff38ba5b86b0edefedef411261f2d" resname="Unit price">
+        <source>Unit price</source>
+        <target>crwdns259594:0crwdne259594:0</target>
+        <note>key: Unit price</note>
+      </trans-unit>
+      <trans-unit id="5a6d9579f006b287acdbd9dab6008fc8122bdeda" resname="Unit: %unit%">
+        <source>Unit: %unit%</source>
+        <target>crwdns259596:0%unit%crwdne259596:0</target>
+        <note>key: Unit: %unit%</note>
+      </trans-unit>
+      <trans-unit id="daf13830ae9cd2d39e436e3dbd83863b07c2927c" resname="Update basket">
+        <source>Update basket</source>
+        <target>crwdns259598:0crwdne259598:0</target>
+        <note>key: Update basket</note>
+      </trans-unit>
+      <trans-unit id="7e9f81de055a2b0489aa07ab5035112ef710b173" resname="Upload csv file">
+        <source>Upload csv file</source>
+        <target>crwdns259600:0crwdne259600:0</target>
+        <note>key: Upload csv file</note>
+      </trans-unit>
+      <trans-unit id="5f38c2b87329fd3807de43bf089556d344014068" resname="User Profile">
+        <source>User Profile</source>
+        <target>crwdns259602:0crwdne259602:0</target>
+        <note>key: User Profile</note>
+      </trans-unit>
+      <trans-unit id="1d81eda8fda851e723a88a21fd4afea6913c6881" resname="User information">
+        <source>User information</source>
+        <target>crwdns259604:0crwdne259604:0</target>
+        <note>key: User information</note>
+      </trans-unit>
+      <trans-unit id="a2d8625b8089ff47230185aa469481ba8734d465" resname="User menu">
+        <source>User menu</source>
+        <target>crwdns259606:0crwdne259606:0</target>
+        <note>key: User menu</note>
+      </trans-unit>
+      <trans-unit id="1c2ef28888cc23312bf6cbe331161af86991ba7f" resname="User object not given">
+        <source>User object not given</source>
+        <target>crwdns259608:0crwdne259608:0</target>
+        <note>key: User object not given</note>
+      </trans-unit>
+      <trans-unit id="aa70510c5682570826a7a3f9629ec822f32d8d29" resname="User with the email address &quot;%email%&quot; is already registered">
+        <source>User with the email address "%email%" is already registered</source>
+        <target>crwdns259610:0%email%crwdne259610:0</target>
+        <note>key: User with the email address "%email%" is already registered</note>
+      </trans-unit>
+      <trans-unit id="84c29015de33e5d22422382a372caba5c58f8c01" resname="Username">
+        <source>Username</source>
+        <target>crwdns259612:0crwdne259612:0</target>
+        <note>key: Username</note>
+      </trans-unit>
+      <trans-unit id="691b9f875c7cdd86155787a1b22e7cf0af565f7d" resname="Username / Email">
+        <source>Username / Email</source>
+        <target>crwdns259614:0crwdne259614:0</target>
+        <note>key: Username / Email</note>
+      </trans-unit>
+      <trans-unit id="5f54ad7bf78bfc644706e5476b2bd927ca5322a9" resname="VAT">
+        <source>VAT</source>
+        <target>crwdns259616:0crwdne259616:0</target>
+        <note>key: VAT</note>
+      </trans-unit>
+      <trans-unit id="cb25b923e28c4652e4d81620c0eddb1fd197c694" resname="VAT country code">
+        <source>VAT country code</source>
+        <target>crwdns259618:0crwdne259618:0</target>
+        <note>key: VAT country code</note>
+      </trans-unit>
+      <trans-unit id="7a91dfae03f72cf829426d8230ae6c1893d99879" resname="VAT number">
+        <source>VAT number</source>
+        <target>crwdns259620:0crwdne259620:0</target>
+        <note>key: VAT number</note>
+      </trans-unit>
+      <trans-unit id="8dce170de238b1feda2ecd9674ea3ca0d068fbcb" resname="Value">
+        <source>Value</source>
+        <target>crwdns259622:0crwdne259622:0</target>
+        <note>key: Value</note>
+      </trans-unit>
+      <trans-unit id="cc91b1ea2c16519ab22614ae2929960a271dbb5c" resname="Variant">
+        <source>Variant</source>
+        <target>crwdns259624:0crwdne259624:0</target>
+        <note>key: Variant</note>
+      </trans-unit>
+      <trans-unit id="357f33df6031e37a87cbcb5403ca8cb36489ee31" resname="Variant code">
+        <source>Variant code</source>
+        <target>crwdns259626:0crwdne259626:0</target>
+        <note>key: Variant code</note>
+      </trans-unit>
+      <trans-unit id="0cfa5b3781259d24933e754a47d22b92c65150a1" resname="Video|search">
+        <source>Video</source>
+        <target>crwdns259628:0crwdne259628:0</target>
+        <note>key: Video|search</note>
+      </trans-unit>
+      <trans-unit id="f8f3b6f931db7357358449f2e905d8470e3394cd" resname="Visitors">
+        <source>Visitors</source>
+        <target>crwdns259630:0crwdne259630:0</target>
+        <note>key: Visitors</note>
+      </trans-unit>
+      <trans-unit id="4abae4e2938fdbe50967c4a167cda8cb3297125a" resname="We are happy to welcome you in our">
+        <source>We are happy to welcome you in our</source>
+        <target>crwdns259632:0crwdne259632:0</target>
+        <note>key: We are happy to welcome you in our</note>
+      </trans-unit>
+      <trans-unit id="6ff33102b1c6673c9168ebef7e131ef7232411b8" resname="Wishlist">
+        <source>Wishlist</source>
+        <target>crwdns259634:0crwdne259634:0</target>
+        <note>key: Wishlist</note>
+      </trans-unit>
+      <trans-unit id="856e0e17cde5314a4ab18cf61aafb924651e4da8" resname="You already have a basket. Please go to basket page and remove it or order.">
+        <source>You already have a basket. Please go to basket page and remove it or order.</source>
+        <target>crwdns259636:0crwdne259636:0</target>
+        <note>key: You already have a basket. Please go to basket page and remove it or order.</note>
+      </trans-unit>
+      <trans-unit id="b85ae10c9ff6f39f2e5c563b237e5b066caffec9" resname="You can change the password within next %amount% %period%.">
+        <source>You can change the password within next %amount% %period%.</source>
+        <target>crwdns259638:0%amount%crwdnd259638:0%period%crwdne259638:0</target>
+        <note>key: You can change the password within next %amount% %period%.</note>
+      </trans-unit>
+      <trans-unit id="c158bf98056bb400b66968a8ec670262a6b98c04" resname="You can register here!">
+        <source>You can register here!</source>
+        <target>crwdns259640:0crwdne259640:0</target>
+        <note>key: You can register here!</note>
+      </trans-unit>
+      <trans-unit id="7a37305c813df31868a2760842bc9878b895022f" resname="You can use .csv file to fill your quickorder.">
+        <source>You can use .csv file to fill your quickorder.</source>
+        <target>crwdns259642:0crwdne259642:0</target>
+        <note>key: You can use .csv file to fill your quickorder.</note>
+      </trans-unit>
+      <trans-unit id="4fe022a0e2bb0d32243b5add6a77d69b165ba5b4" resname="You did not make any changes.">
+        <source>You did not make any changes.</source>
+        <target>crwdns259644:0crwdne259644:0</target>
+        <note>key: You did not make any changes.</note>
+      </trans-unit>
+      <trans-unit id="d863a31552c0caf38809ad6e0d3bed38b4bc4681" resname="You don't have access to see this page!">
+        <source>You don\'t have access to see this page!</source>
+        <target>crwdns259646:0crwdne259646:0</target>
+        <note>key: You don't have access to see this page!</note>
+      </trans-unit>
+      <trans-unit id="cfb05d93be4cf562e14a436ace026207e12e8bfa" resname="You send us following message. We will take care of your request as soon as possible">
+        <source>You send us following message. We will take care of your request as soon as possible</source>
+        <target>crwdns259648:0crwdne259648:0</target>
+        <note>key: You send us following message. We will take care of your request as soon as possible</note>
+      </trans-unit>
+      <trans-unit id="6c80cd84097ddd9b81787badf0347046d67d1555" resname="Your Account|profile">
+        <source>Your Account</source>
+        <target>crwdns259650:0crwdne259650:0</target>
+        <note>key: Your Account|profile</note>
+      </trans-unit>
+      <trans-unit id="1daf07d35fedca698b42726c38591c02db35a4df" resname="Your Basket">
+        <source>Your Basket</source>
+        <target>crwdns259652:0crwdne259652:0</target>
+        <note>key: Your Basket</note>
+      </trans-unit>
+      <trans-unit id="d447b63fbd8910a8b13fa7875c2d4725d146e8ba" resname="Your Basket is empty">
+        <source>Your Basket is empty</source>
+        <target>crwdns259654:0crwdne259654:0</target>
+        <note>key: Your Basket is empty</note>
+      </trans-unit>
+      <trans-unit id="9c3f23f8bcbbc940bbe1a4da2d66bd31a7889eaa" resname="Your Comparison List is empty">
+        <source>Your Comparison List is empty</source>
+        <target>crwdns259656:0crwdne259656:0</target>
+        <note>key: Your Comparison List is empty</note>
+      </trans-unit>
+      <trans-unit id="9b4d02785886e7be4e4e3e96138f2468ac30ecee" resname="Your List">
+        <source>Your List</source>
+        <target>crwdns259658:0crwdne259658:0</target>
+        <note>key: Your List</note>
+      </trans-unit>
+      <trans-unit id="fdc7c20f26de0a2c804794551e5d03f52df38fe9" resname="Your account has been successfully activated.">
+        <source>Your account has been successfully activated.</source>
+        <target>crwdns259660:0crwdne259660:0</target>
+        <note>key: Your account has been successfully activated.</note>
+      </trans-unit>
+      <trans-unit id="9f5676537fb930361cb4a7b30b9e206f676b20f0" resname="Your delivery addresses">
+        <source>Your delivery addresses</source>
+        <target>crwdns259662:0crwdne259662:0</target>
+        <note>key: Your delivery addresses</note>
+      </trans-unit>
+      <trans-unit id="9c8822fa058efd2be1bee158d200d8b52d3e2b02" resname="Your entered invoice and customer number combination was not found. Activation could not be done.">
+        <source>Your entered invoice and customer number combination was not found. Activation could not be done.</source>
+        <target>crwdns259664:0crwdne259664:0</target>
+        <note>key: Your entered invoice and customer number combination was not found. Activation could not be done.</note>
+      </trans-unit>
+      <trans-unit id="f190c98ece6a67328e369fcdfcf84eea73c94b7e" resname="Your message">
+        <source>Your message</source>
+        <target>crwdns259666:0crwdne259666:0</target>
+        <note>key: Your message</note>
+      </trans-unit>
+      <trans-unit id="16a067af179c1f81645e2954ee05c68337fd773c" resname="Your price">
+        <source>Your price</source>
+        <target>crwdns259668:0crwdne259668:0</target>
+        <note>key: Your price</note>
+      </trans-unit>
+      <trans-unit id="21d3b892fe22bffba900b42e1250390cf0f0c09b" resname="Your registration was sucessfull!">
+        <source>Your registration was sucessfull!</source>
+        <target>crwdns259670:0crwdne259670:0</target>
+        <note>key: Your registration was sucessfull!</note>
+      </trans-unit>
+      <trans-unit id="f617fa00193d44d5d3c35e3b04f9349054a34cd6" resname="Your token is invalid.">
+        <source>Your token is invalid.</source>
+        <target>crwdns259672:0crwdne259672:0</target>
+        <note>key: Your token is invalid.</note>
+      </trans-unit>
+      <trans-unit id="7c66bc738ca119c4e9f9548cc8ee3bd84f19c96d" resname="Your token is not valid.">
+        <source>Your token is not valid.</source>
+        <target>crwdns259674:0crwdne259674:0</target>
+        <note>key: Your token is not valid.</note>
+      </trans-unit>
+      <trans-unit id="d9d220ab2925c9b97a98a9d9b35059f864dbe73a" resname="ZIP">
+        <source>ZIP</source>
+        <target>crwdns259676:0crwdne259676:0</target>
+        <note>key: ZIP</note>
+      </trans-unit>
+      <trans-unit id="1ed01e7c71996c604337478270c81704193265d0" resname="ZIP code">
+        <source>ZIP code</source>
+        <target>crwdns259678:0crwdne259678:0</target>
+        <note>key: ZIP code</note>
+      </trans-unit>
+      <trans-unit id="0b5351ada9d86b9b68449a983095e3deee465050" resname="admin.translations_onesky_intro">
+        <source>Static text can be edited in the translation platform IbexaCommerceOneSky. </source>
+        <target>crwdns259680:0crwdne259680:0</target>
+        <note>key: admin.translations_onesky_intro</note>
+      </trans-unit>
+      <trans-unit id="97989bb4d4723ad78b09779f3f0f700261a7ac9e" resname="admin.translations_onesky_link">
+        <source>Open IbexaCommerceOneSky</source>
+        <target>crwdns259682:0crwdne259682:0</target>
+        <note>key: admin.translations_onesky_link</note>
+      </trans-unit>
+      <trans-unit id="eb3c107f4b260b122216c378f76608c9e2f39d02" resname="admin.translations_textmodules">
+        <source>Textmodules offers a more sophisticated way to manage text modules for the shop.</source>
+        <target>crwdns259684:0crwdne259684:0</target>
+        <note>key: admin.translations_textmodules</note>
+      </trans-unit>
+      <trans-unit id="a5f472cb89253205deeebce9c658d0ea34289087" resname="apply|search">
+        <source>Apply</source>
+        <target>crwdns259686:0crwdne259686:0</target>
+        <note>key: apply|search</note>
+      </trans-unit>
+      <trans-unit id="df88b84d816d3358b3793a61b73d80e93913e627" resname="blocked">
+        <source>User account is blocked</source>
+        <target>crwdns259688:0crwdne259688:0</target>
+        <note>key: blocked</note>
+      </trans-unit>
+      <trans-unit id="08141247b4323e69c3c9f389ad488f293860de29" resname="button.activate_voucher">
+        <source>Activate</source>
+        <target>crwdns259690:0crwdne259690:0</target>
+        <note>key: button.activate_voucher</note>
+      </trans-unit>
+      <trans-unit id="cf12b665f8f4c5c2bff807b50e89c8b6b6e010a7" resname="button.add_address">
+        <source>Add Address</source>
+        <target>crwdns259692:0crwdne259692:0</target>
+        <note>key: button.add_address</note>
+      </trans-unit>
+      <trans-unit id="b4d50cc6b566c98675befda137d5b4fe2d8531e5" resname="button.manage_addresses">
+        <source>Manage addresses</source>
+        <target>crwdns259694:0crwdne259694:0</target>
+        <note>key: button.manage_addresses</note>
+      </trans-unit>
+      <trans-unit id="6eabf64efafbfe5e86a775b3c3322635fb3e4814" resname="button.remove_voucher">
+        <source>Remove voucher</source>
+        <target>crwdns259696:0crwdne259696:0</target>
+        <note>key: button.remove_voucher</note>
+      </trans-unit>
+      <trans-unit id="7d63ca952fcf6fd587bc2719192bcdcec1cd77b0" resname="button.remove_vouchers">
+        <source>Remove vouchers</source>
+        <target>crwdns259698:0crwdne259698:0</target>
+        <note>key: button.remove_vouchers</note>
+      </trans-unit>
+      <trans-unit id="b3ce9594e19180c97e196c8f8b9d5adbd69b6036" resname="cancellation_intro_text">
+        <source>If you wish to withdraw from the contract, please fill out and submit the form below.</source>
+        <target>crwdns259700:0crwdne259700:0</target>
+        <note>key: cancellation_intro_text</note>
+      </trans-unit>
+      <trans-unit id="bbf4ebab74e669a310afbf102d0f3740ecaffcb4" resname="choose predefined">
+        <source>choose predefined</source>
+        <target>crwdns259702:0crwdne259702:0</target>
+        <note>key: choose predefined</note>
+      </trans-unit>
+      <trans-unit id="5c2e3ac25bc0b8ecbb3ef28ac68fc4c0fdf6f356" resname="clear_all_filters|search">
+        <source>clear all filters</source>
+        <target>crwdns259704:0crwdne259704:0</target>
+        <note>key: clear_all_filters|search</note>
+      </trans-unit>
+      <trans-unit id="c992fa9f84e57059c1637359f65a4a5f9f9ff506" resname="common.back_to_my_profile">
+        <source>Back to my profile</source>
+        <target>crwdns259706:0crwdne259706:0</target>
+        <note>key: common.back_to_my_profile</note>
+      </trans-unit>
+      <trans-unit id="0429db21ff61bce85a9c6e6197ef7e65c71d197c" resname="common.bestsellers">
+        <source>Our Bestsellers</source>
+        <target>crwdns259708:0crwdne259708:0</target>
+        <note>key: common.bestsellers</note>
+      </trans-unit>
+      <trans-unit id="b6e963e57eb6cb9186e6ddb73a3c0f412ba17965" resname="common.bestsellers_in">
+        <source>Our Bestsellers in</source>
+        <target>crwdns259710:0crwdne259710:0</target>
+        <note>key: common.bestsellers_in</note>
+      </trans-unit>
+      <trans-unit id="65ab3c31b2d6abb71f2698444267180859506e43" resname="common.cancellation_email_intro_text">
+        <source>A customer is exercising the right of withdrawal and has filled the cancellation form.</source>
+        <target>crwdns259712:0crwdne259712:0</target>
+        <note>key: common.cancellation_email_intro_text</note>
+      </trans-unit>
+      <trans-unit id="8c54541620bfa4316ce1a991666f870c055e221c" resname="common.cancellation_email_subject">
+        <source>Your cancellation request</source>
+        <target>crwdns259714:0crwdne259714:0</target>
+        <note>key: common.cancellation_email_subject</note>
+      </trans-unit>
+      <trans-unit id="12a42294eda8e8c98d17b87a5ed187a1ccd2b864" resname="common.cancellation_header">
+        <source>Cancellation Policy</source>
+        <target>crwdns259716:0crwdne259716:0</target>
+        <note>key: common.cancellation_header</note>
+      </trans-unit>
+      <trans-unit id="88ddcc083f7fcb5282fdd76ae8967db7b132a3bc" resname="common.download_pdf">
+        <source>Download PDF version of this page</source>
+        <target>crwdns259718:0crwdne259718:0</target>
+        <note>key: common.download_pdf</note>
+      </trans-unit>
+      <trans-unit id="d0b176388088906cd9a09dfb6c63f21b0870cdf4" resname="common.download_video">
+        <source>Download video</source>
+        <target>crwdns259720:0crwdne259720:0</target>
+        <note>key: common.download_video</note>
+      </trans-unit>
+      <trans-unit id="a39415f64d3f42a5bcaa38835c361a36efc15e47" resname="common.more_information">
+        <source>More information</source>
+        <target>crwdns259722:0crwdne259722:0</target>
+        <note>key: common.more_information</note>
+      </trans-unit>
+      <trans-unit id="b97f73d44bbb969e90aa9021a57c122204fc4806" resname="common.newsletter_subscribed">
+        <source>Subscribed to newsletter</source>
+        <target>crwdns259724:0crwdne259724:0</target>
+        <note>key: common.newsletter_subscribed</note>
+      </trans-unit>
+      <trans-unit id="d0f9ead584f5e3a49c130888656db8c3d1ee3541" resname="common.page_count_of_total">
+        <source>Page %current_page% of %total_pages%</source>
+        <target>crwdns259726:0%current_page%crwdnd259726:0%total_pages%crwdne259726:0</target>
+        <note>key: common.page_count_of_total</note>
+      </trans-unit>
+      <trans-unit id="0ca7d0f47c2d1c262855de6f98e625a0efd9405f" resname="common.rma_email_subject">
+        <source>RMA request</source>
+        <target>crwdns259728:0crwdne259728:0</target>
+        <note>key: common.rma_email_subject</note>
+      </trans-unit>
+      <trans-unit id="1b7f53a15e91c23a212f6adc46c5c58b931493f5" resname="common.rma_header">
+        <source>RMA</source>
+        <target>crwdns259730:0crwdne259730:0</target>
+        <note>key: common.rma_header</note>
+      </trans-unit>
+      <trans-unit id="d945ec7f97b66c0e45076a568da5c2d6f2a5e505" resname="common.silver_forms.address_create">
+        <source>Add Address</source>
+        <target>crwdns259732:0crwdne259732:0</target>
+        <note>key: common.silver_forms.address_create</note>
+      </trans-unit>
+      <trans-unit id="03cf2d55452abd6a049d4a194f4c82571caa553d" resname="common.silver_forms.address_edit">
+        <source>Edit Address</source>
+        <target>crwdns259734:0crwdne259734:0</target>
+        <note>key: common.silver_forms.address_edit</note>
+      </trans-unit>
+      <trans-unit id="82d976fa3dbb0c60052c48782b56e7ad817b360f" resname="common.silver_forms.business">
+        <source>Registration</source>
+        <target>crwdns259736:0crwdne259736:0</target>
+        <note>key: common.silver_forms.business</note>
+      </trans-unit>
+      <trans-unit id="1fa6fd3acc4e8a57da57cc1f26c753bea12cf1c4" resname="common.silver_forms.business_activation">
+        <source>Account Activation</source>
+        <target>crwdns259738:0crwdne259738:0</target>
+        <note>key: common.silver_forms.business_activation</note>
+      </trans-unit>
+      <trans-unit id="9501d8087eeae646bab3aab6dd90413f207e0581" resname="common.silver_forms.cancellation">
+        <source>Online Cancellation</source>
+        <target>crwdns259740:0crwdne259740:0</target>
+        <note>key: common.silver_forms.cancellation</note>
+      </trans-unit>
+      <trans-unit id="6e591a03276420fb5adc0afcfdccbfe9a63b795f" resname="common.silver_forms.contact">
+        <source>Contact</source>
+        <target>crwdns259742:0crwdne259742:0</target>
+        <note>key: common.silver_forms.contact</note>
+      </trans-unit>
+      <trans-unit id="6dac82f30a99c01e90978e6150b1d724d74e0dd9" resname="common.silver_forms.customer_center_activation">
+        <source>Account Activation</source>
+        <target>crwdns259744:0crwdne259744:0</target>
+        <note>key: common.silver_forms.customer_center_activation</note>
+      </trans-unit>
+      <trans-unit id="59a106f8ff2a4e8d22f25a333d995d1557195ca3" resname="common.silver_forms.invoice">
+        <source>Update Invoice Address</source>
+        <target>crwdns259746:0crwdne259746:0</target>
+        <note>key: common.silver_forms.invoice</note>
+      </trans-unit>
+      <trans-unit id="8d2895d6f4375c83314d92f0d5f56c583e31bca8" resname="common.silver_forms.my_account">
+        <source>Update My Account</source>
+        <target>crwdns259748:0crwdne259748:0</target>
+        <note>key: common.silver_forms.my_account</note>
+      </trans-unit>
+      <trans-unit id="8db5e0299f24bc70fc45164c1e946c02dcddd5a6" resname="common.silver_forms.password_change">
+        <source>Password Change</source>
+        <target>crwdns259750:0crwdne259750:0</target>
+        <note>key: common.silver_forms.password_change</note>
+      </trans-unit>
+      <trans-unit id="54b50fd34694a7db25eb1f3720421da1ebc0fd6c" resname="common.silver_forms.private">
+        <source>Registration</source>
+        <target>crwdns259752:0crwdne259752:0</target>
+        <note>key: common.silver_forms.private</note>
+      </trans-unit>
+      <trans-unit id="107b83b1c621bd4d0585d719522b2e22e690cb53" resname="common.silver_forms.reminder">
+        <source>Password Reminder</source>
+        <target>crwdns259754:0crwdne259754:0</target>
+        <note>key: common.silver_forms.reminder</note>
+      </trans-unit>
+      <trans-unit id="e461f82db85746b0c590aecfb3ad9528b26f48fa" resname="common.silver_forms.rma">
+        <source>RMA</source>
+        <target>crwdns259756:0crwdne259756:0</target>
+        <note>key: common.silver_forms.rma</note>
+      </trans-unit>
+      <trans-unit id="48896dd521c599ee78a2e8fbeb05c2d8a63017d6" resname="common.silversolutions_address_book_list">
+        <source>Address Book</source>
+        <target>crwdns259758:0crwdne259758:0</target>
+        <note>key: common.silversolutions_address_book_list</note>
+      </trans-unit>
+      <trans-unit id="a73f32020ed72cdd9a149aaea75d391e62376e30" resname="common.subscribe">
+        <source>subscribe</source>
+        <target>crwdns259760:0crwdne259760:0</target>
+        <note>key: common.subscribe</note>
+      </trans-unit>
+      <trans-unit id="9fd9b06775ba37c1e7616d28175ca59fead43f21" resname="common.subscribe_newsletter_header">
+        <source>Subscribe to our newsletter now!</source>
+        <target>crwdns259762:0crwdne259762:0</target>
+        <note>key: common.subscribe_newsletter_header</note>
+      </trans-unit>
+      <trans-unit id="803dba91ef8df71bcf9bf036ed53aeab91aaadfa" resname="common.unsubscribe_newsletter">
+        <source>Unsubscribe from newsletter</source>
+        <target>crwdns259764:0crwdne259764:0</target>
+        <note>key: common.unsubscribe_newsletter</note>
+      </trans-unit>
+      <trans-unit id="be50e8437c17f9863a1ffd2a4d2eee96faaa551a" resname="common.video_not_supported">
+        <source>  Sorry, your browser doesn't support embedded videos. Upgrade your browser or download the video and watch it in you favourite video player.</source>
+        <target>crwdns259766:0crwdne259766:0</target>
+        <note>key: common.video_not_supported</note>
+      </trans-unit>
+      <trans-unit id="8550ed5df251b73307c8c60990fd85b4bfadc94f" resname="common.voucher_redeemed">
+        <source>You have redeemed following voucher</source>
+        <target>crwdns259768:0crwdne259768:0</target>
+        <note>key: common.voucher_redeemed</note>
+      </trans-unit>
+      <trans-unit id="5443d7b39f91994bc30b29d0e71d03cccd8f4fbc" resname="compare results with former corresponding time period">
+        <source>compare results with former corresponding time period</source>
+        <target>crwdns259770:0crwdne259770:0</target>
+        <note>key: compare results with former corresponding time period</note>
+      </trans-unit>
+      <trans-unit id="495fb695907565cb3f7e0cd10fbbc3da9be1bdb2" resname="configuration_settings.field.array.input.placeholder">
+        <source>Input Values</source>
+        <target>crwdns259772:0crwdne259772:0</target>
+        <note>key: configuration_settings.field.array.input.placeholder</note>
+      </trans-unit>
+      <trans-unit id="87af5170681c287871bea043cb7f875ade55bf45" resname="configuration_settings.field.array.option.remote">
+        <source>Prices from ERP</source>
+        <target>crwdns259774:0crwdne259774:0</target>
+        <note>key: configuration_settings.field.array.option.remote</note>
+      </trans-unit>
+      <trans-unit id="1656ee3381ce4e8b749f1a311282901935d8f221" resname="configuration_settings.field.array.option.shop">
+        <source>Local price engine</source>
+        <target>crwdns259776:0crwdne259776:0</target>
+        <note>key: configuration_settings.field.array.option.shop</note>
+      </trans-unit>
+      <trans-unit id="9f25f7e3ba97910fb4e06611759890de9f3bf566" resname="content_fields.external_data.data.label">
+        <source>Data</source>
+        <target>crwdns259778:0crwdne259778:0</target>
+        <note>key: content_fields.external_data.data.label</note>
+      </trans-unit>
+      <trans-unit id="5e510f0b551154eb57374d24fd68bc6731761d24" resname="content_fields.external_data.name.label">
+        <source>Name</source>
+        <target>crwdns259780:0crwdne259780:0</target>
+        <note>key: content_fields.external_data.name.label</note>
+      </trans-unit>
+      <trans-unit id="51a13a0e7d46a0701faf6c82fd9a4d9a1cbc96bb" resname="content_fields.ezvariants.code.label">
+        <source>Code</source>
+        <target>crwdns259782:0crwdne259782:0</target>
+        <note>key: content_fields.ezvariants.code.label</note>
+      </trans-unit>
+      <trans-unit id="3bb45705764c6716e7b303e0e9667d5db526484b" resname="content_fields.ezvariants.description.label">
+        <source>Description</source>
+        <target>crwdns259784:0crwdne259784:0</target>
+        <note>key: content_fields.ezvariants.description.label</note>
+      </trans-unit>
+      <trans-unit id="0091f89aa56f683f7cc08e51d0e99e985d8d84a0" resname="content_fields.ezvariants.price.label">
+        <source>Price</source>
+        <target>crwdns259786:0crwdne259786:0</target>
+        <note>key: content_fields.ezvariants.price.label</note>
+      </trans-unit>
+      <trans-unit id="d45be4130e225d810408799fcbe1a658f940529e" resname="content_fields.ezvariants.sku.label">
+        <source>SKU</source>
+        <target>crwdns259788:0crwdne259788:0</target>
+        <note>key: content_fields.ezvariants.sku.label</note>
+      </trans-unit>
+      <trans-unit id="609465968221bdb7f745d27f780055b83e5c0016" resname="content_fields.profiledata.add.attributes.from.erp">
+        <source>Add. attributes from ERP</source>
+        <target>crwdns259790:0crwdne259790:0</target>
+        <note>key: content_fields.profiledata.add.attributes.from.erp</note>
+      </trans-unit>
+      <trans-unit id="46c7869611c9b47c94229088ac88b8090c003b89" resname="content_fields.profiledata.buyer.address">
+        <source>Buyer address</source>
+        <target>crwdns259792:0crwdne259792:0</target>
+        <note>key: content_fields.profiledata.buyer.address</note>
+      </trans-unit>
+      <trans-unit id="073ae0118c2481f2003d285202561b5244ee5953" resname="content_fields.profiledata.customer.number">
+        <source>Customer number</source>
+        <target>crwdns259794:0crwdne259794:0</target>
+        <note>key: content_fields.profiledata.customer.number</note>
+      </trans-unit>
+      <trans-unit id="3fe4185b033c2e80f57dec8f5742c843d813a2ec" resname="content_fields.profiledata.delivery.address">
+        <source>Delivery address</source>
+        <target>crwdns259796:0crwdne259796:0</target>
+        <note>key: content_fields.profiledata.delivery.address</note>
+      </trans-unit>
+      <trans-unit id="4ce4c0391c643de8b478ab0241962b7e247917e7" resname="content_fields.profiledata.last.update.from.erp">
+        <source>Last update from ERP</source>
+        <target>crwdns259798:0crwdne259798:0</target>
+        <note>key: content_fields.profiledata.last.update.from.erp</note>
+      </trans-unit>
+      <trans-unit id="db0123c3544e56444bf1021ed883bc7da7355826" resname="content_fields.profiledata.shipcode">
+        <source>Shipcode</source>
+        <target>crwdns259800:0crwdne259800:0</target>
+        <note>key: content_fields.profiledata.shipcode</note>
+      </trans-unit>
+      <trans-unit id="504e4aac02df95776d8241faa64c794406da03c6" resname="create_delivery_address_intro_text">
+        <source>Please fill out the form to create a new delivery address.</source>
+        <target>crwdns259802:0crwdne259802:0</target>
+        <note>key: create_delivery_address_intro_text</note>
+      </trans-unit>
+      <trans-unit id="1e0b597ec3c978f2594da8a76749d108b8ef8597" resname="day(s)">
+        <source>day(s)</source>
+        <target>crwdns259804:0crwdne259804:0</target>
+        <note>key: day(s)</note>
+      </trans-unit>
+      <trans-unit id="44ce9400772fa914663567870ecc658181c630db" resname="edit_delivery_address_intro_text">
+        <source>Please change the required fields</source>
+        <target>crwdns259806:0crwdne259806:0</target>
+        <note>key: edit_delivery_address_intro_text</note>
+      </trans-unit>
+      <trans-unit id="800c1107bce00739a91620be594df1cf62491fea" resname="error_address_create">
+        <source>The address could not been stored. Please contact us..</source>
+        <target>crwdns259808:0crwdne259808:0</target>
+        <note>key: error_address_create</note>
+      </trans-unit>
+      <trans-unit id="278c759281b658c636658e96450c450639b8b09f" resname="error_address_edit">
+        <source>The address could not been updated. Please contact us.</source>
+        <target>crwdns259810:0crwdne259810:0</target>
+        <note>key: error_address_edit</note>
+      </trans-unit>
+      <trans-unit id="2356297fe0b5b44c40a10f3ae11aacdcfca61078" resname="error_message_password_change">
+        <source>Could not submit the form, please fill the fields with correct data</source>
+        <target>crwdns259812:0crwdne259812:0</target>
+        <note>key: error_message_password_change</note>
+      </trans-unit>
+      <trans-unit id="4b396f911520efb8e8af687374308257ec93d5ab" resname="existing_delivery">
+        <source>Use existing delivery address</source>
+        <target>crwdns259814:0crwdne259814:0</target>
+        <note>key: existing_delivery</note>
+      </trans-unit>
+      <trans-unit id="74bc042c4a2a21d849ea1def7591edbf4826ced0" resname="ez_legacy|breadcrumb">
+        <source>404</source>
+        <target>crwdns259816:0crwdne259816:0</target>
+        <note>key: ez_legacy|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="971c419dd609331343dee105fffd0f4608dc0bf2" resname="file">
+        <source>file</source>
+        <target>crwdns259818:0crwdne259818:0</target>
+        <note>key: file</note>
+      </trans-unit>
+      <trans-unit id="b04e0c4c4a4420f2eef690e7340852f18b28822f" resname="hide_facets|search">
+        <source>Hide facets</source>
+        <target>crwdns259820:0crwdne259820:0</target>
+        <note>key: hide_facets|search</note>
+      </trans-unit>
+      <trans-unit id="36f977ff2beda2bb373140f56bd228acdc8f4a80" resname="ibexa.page_builder.content.preview|breadcrumb">
+        <source>Preview in Page Builder</source>
+        <target>crwdns259822:0crwdne259822:0</target>
+        <note>key: ibexa.page_builder.content.preview|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="fdb6e1bfedc82b77216a18760f68a9350241bdb0" resname="info.current_customer_data">
+        <source>Current customer information after delegate</source>
+        <target>crwdns259824:0crwdne259824:0</target>
+        <note>key: info.current_customer_data</note>
+      </trans-unit>
+      <trans-unit id="73c34d6109927241cce0c6de8b06d4c0bc52e5e8" resname="invoice_intro_text">
+        <source>Here you can change your invoice address</source>
+        <target>crwdns259826:0crwdne259826:0</target>
+        <note>key: invoice_intro_text</note>
+      </trans-unit>
+      <trans-unit id="75d70155f70a11da1cc02220babc7ed7ce50889f" resname="label.bestsellers_link">
+        <source>Show all bestsellers</source>
+        <target>crwdns259828:0crwdne259828:0</target>
+        <note>key: label.bestsellers_link</note>
+      </trans-unit>
+      <trans-unit id="61cc09fcfafba4e97eb2f50a940b4e24a49bd1f2" resname="label.cancellation_intro_text">
+        <source>I/We* hereby give notice that I/We* withdraw from my/our* contract of sale of the following goods* provision of the following service:</source>
+        <target>crwdns259830:0crwdne259830:0</target>
+        <note>key: label.cancellation_intro_text</note>
+      </trans-unit>
+      <trans-unit id="5cf25b75524e104ff18be223c4f2e223d73e82c1" resname="label.consumer_address">
+        <source>Invoice address</source>
+        <target>crwdns259832:0crwdne259832:0</target>
+        <note>key: label.consumer_address</note>
+      </trans-unit>
+      <trans-unit id="ef0a5e52d7987ed18e53d3f1729dc7b57c1b5869" resname="label.consumer_name">
+        <source>Name, First Name</source>
+        <target>crwdns259834:0crwdne259834:0</target>
+        <note>key: label.consumer_name</note>
+      </trans-unit>
+      <trans-unit id="f0d3209c19f871cf23c70547dd82ff068a044801" resname="label.current_customer_number">
+        <source>Current customer number</source>
+        <target>crwdns259836:0crwdne259836:0</target>
+        <note>key: label.current_customer_number</note>
+      </trans-unit>
+      <trans-unit id="83776d9c8813a53b5afb19b30d75b434b66aaac1" resname="label.day">
+        <source>Day</source>
+        <target>crwdns259838:0crwdne259838:0</target>
+        <note>key: label.day</note>
+      </trans-unit>
+      <trans-unit id="d869a0207ca6e5552d738f091b0d6a960050ca20" resname="label.delegate">
+        <source>Delegate</source>
+        <target>crwdns259840:0crwdne259840:0</target>
+        <note>key: label.delegate</note>
+      </trans-unit>
+      <trans-unit id="c27a7a8f1499647de0aaa4ead6de36ec3603baa7" resname="label.ecommerce">
+        <source>eZ Commerce</source>
+        <target>crwdns259842:0crwdne259842:0</target>
+        <note>key: label.ecommerce</note>
+      </trans-unit>
+      <trans-unit id="ea213a2b315569e444b9c5858b607e5ff6830766" resname="label.five_star">
+        <source>5 star</source>
+        <target>crwdns259844:0crwdne259844:0</target>
+        <note>key: label.five_star</note>
+      </trans-unit>
+      <trans-unit id="097d232e31858e1bc5701e1f25dbc82456f591ae" resname="label.four_star">
+        <source>4 star</source>
+        <target>crwdns259846:0crwdne259846:0</target>
+        <note>key: label.four_star</note>
+      </trans-unit>
+      <trans-unit id="9931b4614e25ff3b95e1d88cac362efe8fa34116" resname="label.image_not_available">
+        <source>Image is not available</source>
+        <target>crwdns259848:0crwdne259848:0</target>
+        <note>key: label.image_not_available</note>
+      </trans-unit>
+      <trans-unit id="6cb57cd680ae987d4cdea3e07605bc19f93536a8" resname="label.invoice_date">
+        <source>Invoice date</source>
+        <target>crwdns259850:0crwdne259850:0</target>
+        <note>key: label.invoice_date</note>
+      </trans-unit>
+      <trans-unit id="c1cbb1a39d002bbc834f41c974dd217d630d2045" resname="label.invoice_sum">
+        <source>Total</source>
+        <target>crwdns259852:0crwdne259852:0</target>
+        <note>key: label.invoice_sum</note>
+      </trans-unit>
+      <trans-unit id="c346ab7bba31999ae0aeb23699910784e7b23f31" resname="label.month">
+        <source>Month</source>
+        <target>crwdns259854:0crwdne259854:0</target>
+        <note>key: label.month</note>
+      </trans-unit>
+      <trans-unit id="2b45a4918792783fe096d945edcde6126b7f4a3b" resname="label.number_of_products">
+        <source>Number of products</source>
+        <target>crwdns259856:0crwdne259856:0</target>
+        <note>key: label.number_of_products</note>
+      </trans-unit>
+      <trans-unit id="103324cbe09b6f39a27577221eaf3b37cf658914" resname="label.offcanvas_main_menu">
+        <source>Main Menu</source>
+        <target>crwdns259858:0crwdne259858:0</target>
+        <note>key: label.offcanvas_main_menu</note>
+      </trans-unit>
+      <trans-unit id="926c8482749a45fdd524273f99e55ced6a7b05d9" resname="label.one_star">
+        <source>1 star</source>
+        <target>crwdns259860:0crwdne259860:0</target>
+        <note>key: label.one_star</note>
+      </trans-unit>
+      <trans-unit id="b0b492cd3da48d2c1caa0f6bcb28712fd15f997c" resname="label.ordered_or_received_at">
+        <source>Ordered / received on</source>
+        <target>crwdns259862:0crwdne259862:0</target>
+        <note>key: label.ordered_or_received_at</note>
+      </trans-unit>
+      <trans-unit id="a234b1914e41f44b0d1452efe05293913b681704" resname="label.price_stock_tab">
+        <source>eCommerce</source>
+        <target>crwdns259864:0crwdne259864:0</target>
+        <note>key: label.price_stock_tab</note>
+      </trans-unit>
+      <trans-unit id="2a1377423302b0d34c6223cd4f023389c4507c5a" resname="label.pricetoggle">
+        <source>Toggle prices</source>
+        <target>crwdns259866:0crwdne259866:0</target>
+        <note>key: label.pricetoggle</note>
+      </trans-unit>
+      <trans-unit id="28885543d205fa3d5a20e1d8940aaf04500560e5" resname="label.product_skus">
+        <source>Order/invoice number, concerned products (article number)</source>
+        <target>crwdns259868:0crwdne259868:0</target>
+        <note>key: label.product_skus</note>
+      </trans-unit>
+      <trans-unit id="5b9ff82a076e9f61e1a05d285bb76147998cd4d3" resname="label.real_customer_number">
+        <source>Your own customer number</source>
+        <target>crwdns259870:0crwdne259870:0</target>
+        <note>key: label.real_customer_number</note>
+      </trans-unit>
+      <trans-unit id="0e3f9eed3eb2f0d29cf285d26861a5f9466c3dcf" resname="label.registration">
+        <source>Private</source>
+        <target>crwdns259872:0crwdne259872:0</target>
+        <note>key: label.registration</note>
+      </trans-unit>
+      <trans-unit id="c2de17f16435b7b5f91e72e4cb5d6ac4650ac649" resname="label.rma_products">
+        <source>Article number, article name and article quantity of the product/s</source>
+        <target>crwdns259874:0crwdne259874:0</target>
+        <note>key: label.rma_products</note>
+      </trans-unit>
+      <trans-unit id="872b292981a988f2b7fb58624f2f8e52cb5f47a0" resname="label.rma_reason">
+        <source>RMA reason</source>
+        <target>crwdns259876:0crwdne259876:0</target>
+        <note>key: label.rma_reason</note>
+      </trans-unit>
+      <trans-unit id="67a2be7edfb524f6de0ec445121804c1ce8da3c2" resname="label.stored_basket_name">
+        <source>Basket name</source>
+        <target>crwdns259878:0crwdne259878:0</target>
+        <note>key: label.stored_basket_name</note>
+      </trans-unit>
+      <trans-unit id="d297e5e766d72cac5d1578188f5142d02471167b" resname="label.subtotal">
+        <source>Subtotal</source>
+        <target>crwdns259880:0crwdne259880:0</target>
+        <note>key: label.subtotal</note>
+      </trans-unit>
+      <trans-unit id="fa7cfe4a5c85eb74235ba645d9740bc9f9620ce0" resname="label.three_star">
+        <source>3 star</source>
+        <target>crwdns259882:0crwdne259882:0</target>
+        <note>key: label.three_star</note>
+      </trans-unit>
+      <trans-unit id="4260a3382d44ef9ea8ba659ee1b9fc226d09c419" resname="label.total_sum">
+        <source>Totals</source>
+        <target>crwdns259884:0crwdne259884:0</target>
+        <note>key: label.total_sum</note>
+      </trans-unit>
+      <trans-unit id="e158ffd4438646ac554ad3ba0d5b09727b689932" resname="label.two_star">
+        <source>2 star</source>
+        <target>crwdns259886:0crwdne259886:0</target>
+        <note>key: label.two_star</note>
+      </trans-unit>
+      <trans-unit id="fda8adca846a3d5af7f35dd7aa716a24671a13d1" resname="label.undelegate">
+        <source>End delegate</source>
+        <target>crwdns259888:0crwdne259888:0</target>
+        <note>key: label.undelegate</note>
+      </trans-unit>
+      <trans-unit id="f9aa5aed1b2f785ff33703a8b2c54af26582c5a1" resname="label.user_name">
+        <source>User name</source>
+        <target>crwdns259890:0crwdne259890:0</target>
+        <note>key: label.user_name</note>
+      </trans-unit>
+      <trans-unit id="5dc65de550024866b7f682f7908de2dd6d77f862" resname="label.voucher_number">
+        <source>Voucher number</source>
+        <target>crwdns259892:0crwdne259892:0</target>
+        <note>key: label.voucher_number</note>
+      </trans-unit>
+      <trans-unit id="79120e549bf614207810d339e0f704659576431f" resname="label.year">
+        <source>Year</source>
+        <target>crwdns259894:0crwdne259894:0</target>
+        <note>key: label.year</note>
+      </trans-unit>
+      <trans-unit id="264f39cab871e4cfd65b3a002f7255888bb5ed97" resname="line">
+        <source>line</source>
+        <target>crwdns259896:0crwdne259896:0</target>
+        <note>key: line</note>
+      </trans-unit>
+      <trans-unit id="eaf03301113a9f5b04236ae8e05cd1fdce85fce8" resname="link.activate_user">
+        <source>Activate and inform user</source>
+        <target>crwdns259898:0crwdne259898:0</target>
+        <note>key: link.activate_user</note>
+      </trans-unit>
+      <trans-unit id="d9221e2ef86f0d3b7f192cb98b38c923e32a353c" resname="link.edit_user">
+        <source>Edit user</source>
+        <target>crwdns259900:0crwdne259900:0</target>
+        <note>key: link.edit_user</note>
+      </trans-unit>
+      <trans-unit id="9417c58415a125e3c995649e611ec0a46c8eef82" resname="login|breadcrumb">
+        <source>Login</source>
+        <target>crwdns259902:0crwdne259902:0</target>
+        <note>key: login|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="56c8ef357798e6cbae6f9f94ff26cb4967a4a28e" resname="logout|breadcrumb">
+        <source>Logout</source>
+        <target>crwdns259904:0crwdne259904:0</target>
+        <note>key: logout|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="1d6e1cf70ec6f9ab28d3ea4b27a49a77654d370e" resname="mail">
+        <source>Mail</source>
+        <target>crwdns259906:0crwdne259906:0</target>
+        <note>key: mail</note>
+      </trans-unit>
+      <trans-unit id="49fc5698c05bb7329c4cc1765d2e289f4dbc18d0" resname="mail_text.new_private_user_registration">
+        <source>A new user has registered. Please validate or add the user data. Then activate or contact the user.</source>
+        <target>crwdns259908:0crwdne259908:0</target>
+        <note>key: mail_text.new_private_user_registration</note>
+      </trans-unit>
+      <trans-unit id="6f9b9af3cd6e8b8a73c2cdced37fe9f59226e27d" resname="message">
+        <source>message</source>
+        <target>crwdns259910:0crwdne259910:0</target>
+        <note>key: message</note>
+      </trans-unit>
+      <trans-unit id="075ec2f00dc59057e42cc424f270d04520426084" resname="msg.address_book_empty">
+        <source>Your address book is empty!</source>
+        <target>crwdns259912:0crwdne259912:0</target>
+        <note>key: msg.address_book_empty</note>
+      </trans-unit>
+      <trans-unit id="8540fe0f8065b2584167e860911360baacbe1654" resname="msg.already_commented">
+        <source>You already reviewed this product</source>
+        <target>crwdns259914:0crwdne259914:0</target>
+        <note>key: msg.already_commented</note>
+      </trans-unit>
+      <trans-unit id="78b018cf6bd1ced6e84332ccf2e0ed3991cea22d" resname="msg.cookie_notice">
+        <source>With your registration you accept our cookie policies</source>
+        <target>crwdns259916:0crwdne259916:0</target>
+        <note>key: msg.cookie_notice</note>
+      </trans-unit>
+      <trans-unit id="7cbdf35422f651da8b09e3f38573b51026ffe38a" resname="msg.customer_number_empty">
+        <source>The customer number is empty</source>
+        <target>crwdns259918:0crwdne259918:0</target>
+        <note>key: msg.customer_number_empty</note>
+      </trans-unit>
+      <trans-unit id="92d330ac27c4463b15685429db33082ce8e3280d" resname="msg.delegate_customer_not_found">
+        <source>Delegate is not possible. Customer could not be found.</source>
+        <target>crwdns259920:0crwdne259920:0</target>
+        <note>key: msg.delegate_customer_not_found</note>
+      </trans-unit>
+      <trans-unit id="892c4fe32dee4e6a7eb70e381cc6f72828809356" resname="msg.delegate_failed">
+        <source>Delegate failed.</source>
+        <target>crwdns259922:0crwdne259922:0</target>
+        <note>key: msg.delegate_failed</note>
+      </trans-unit>
+      <trans-unit id="eda9a1874f8e3c744078ddc7664169e89bb6b61d" resname="msg.delegate_intro_text">
+        <source>Use delegate option to work as a different user.</source>
+        <target>crwdns259924:0crwdne259924:0</target>
+        <note>key: msg.delegate_intro_text</note>
+      </trans-unit>
+      <trans-unit id="50cd2576c7043eb8e832ebbba63a31ae9b09a4ff" resname="msg.delegate_was_successful">
+        <source>Delegate was successful</source>
+        <target>crwdns259926:0crwdne259926:0</target>
+        <note>key: msg.delegate_was_successful</note>
+      </trans-unit>
+      <trans-unit id="aa9f77a2dade986c76b8705f3e8effd1d9f95bb8" resname="msg.delegated">
+        <source>delegated</source>
+        <target>crwdns259928:0crwdne259928:0</target>
+        <note>key: msg.delegated</note>
+      </trans-unit>
+      <trans-unit id="f53b62440efca5d93d12a4259188f51ff4b21cf5" resname="msg.delegation_stopped_successfully">
+        <source>Delegation was cancelled successfully.</source>
+        <target>crwdns259930:0crwdne259930:0</target>
+        <note>key: msg.delegation_stopped_successfully</note>
+      </trans-unit>
+      <trans-unit id="80baabba06a9af2f220f9ebffca0fb55caece1f7" resname="msg.delete_deliver_address_error">
+        <source>Due to technical problems, the delivery address has not been removed</source>
+        <target>crwdns259932:0crwdne259932:0</target>
+        <note>key: msg.delete_deliver_address_error</note>
+      </trans-unit>
+      <trans-unit id="2bb4e633ae400b664dfc3e514d00e36d172f7efe" resname="msg.delete_deliver_address_success">
+        <source>Delivery address was successfully removed</source>
+        <target>crwdns259934:0crwdne259934:0</target>
+        <note>key: msg.delete_deliver_address_success</note>
+      </trans-unit>
+      <trans-unit id="9e2a89268caf7dbebb5fbcc0244adb05c916d0d4" resname="msg.did_you_mean">
+        <source>Did you mean</source>
+        <target>crwdns259936:0crwdne259936:0</target>
+        <note>key: msg.did_you_mean</note>
+      </trans-unit>
+      <trans-unit id="7e67c9a3584db61a43e9b80d712ebdc2da02f953" resname="msg.error_undelegation_process">
+        <source>Delegation could not be cancelled.</source>
+        <target>crwdns259938:0crwdne259938:0</target>
+        <note>key: msg.error_undelegation_process</note>
+      </trans-unit>
+      <trans-unit id="7076a2995f42651306024cf4b93751cbf5995805" resname="msg.login_to_rate_and_review">
+        <source>Please log in to create a review</source>
+        <target>crwdns259940:0crwdne259940:0</target>
+        <note>key: msg.login_to_rate_and_review</note>
+      </trans-unit>
+      <trans-unit id="b31b633dbc288858170e720e6c9eff92411ddd8e" resname="msg.more_for_level">
+        <source>more for %level%...</source>
+        <target>crwdns259942:0%level%crwdne259942:0</target>
+        <note>key: msg.more_for_level</note>
+      </trans-unit>
+      <trans-unit id="ee38edce27a8c527ac1ab2996c8a2d18d44e1761" resname="msg.newsletter_confirm_email_address">
+        <source>Confirm your email address in order to subscribe to our newsletter!</source>
+        <target>crwdns259944:0crwdne259944:0</target>
+        <note>key: msg.newsletter_confirm_email_address</note>
+      </trans-unit>
+      <trans-unit id="b29439f90a1f1fdef8df8a91d4096649c4ac445b" resname="msg.no_order_permissions">
+        <source>You don't have the permission(s) to order.</source>
+        <target>crwdns259946:0crwdne259946:0</target>
+        <note>key: msg.no_order_permissions</note>
+      </trans-unit>
+      <trans-unit id="891450f17ccbeb225153965ee0a97c3a8006ca93" resname="msg.out_of_five_stars">
+        <source>out of 5 stars</source>
+        <target>crwdns259948:0crwdne259948:0</target>
+        <note>key: msg.out_of_five_stars</note>
+      </trans-unit>
+      <trans-unit id="0f65e5fba5a642d2966f90adeba8c3d67debddd6" resname="msg.products_processed">
+        <source>Products were processed</source>
+        <target>crwdns259950:0crwdne259950:0</target>
+        <note>key: msg.products_processed</note>
+      </trans-unit>
+      <trans-unit id="b5e05ab862ef0e1da39d72d9df70d25e621cabe4" resname="msg.suggested_words">
+        <source>The following words also returned some results</source>
+        <target>crwdns259952:0crwdne259952:0</target>
+        <note>key: msg.suggested_words</note>
+      </trans-unit>
+      <trans-unit id="a119c5499474b507beea2faf2f4df3f8f4640e77" resname="msg.token_processed">
+        <source>Invalidate token</source>
+        <target>crwdns259954:0crwdne259954:0</target>
+        <note>key: msg.token_processed</note>
+      </trans-unit>
+      <trans-unit id="841672f765533d9a072f4d63f568918dfc09af85" resname="msg.undelegate_failed">
+        <source>Delegate could not be cancelled.</source>
+        <target>crwdns259956:0crwdne259956:0</target>
+        <note>key: msg.undelegate_failed</note>
+      </trans-unit>
+      <trans-unit id="33562a8107a788ad34483281b32298a76869fe4e" resname="msg.undelegate_intro_text">
+        <source>Delegate option is not used.</source>
+        <target>crwdns259958:0crwdne259958:0</target>
+        <note>key: msg.undelegate_intro_text</note>
+      </trans-unit>
+      <trans-unit id="2e3cd52f4b42b3058a746221ef1dbcc6d6eb9410" resname="new_delivery">
+        <source>New delivery address</source>
+        <target>crwdns259960:0crwdne259960:0</target>
+        <note>key: new_delivery</note>
+      </trans-unit>
+      <trans-unit id="edee9402d198b04ac77dcf5dc9cc3dac44573782" resname="next">
+        <source>next</source>
+        <target>crwdns259962:0crwdne259962:0</target>
+        <note>key: next</note>
+      </trans-unit>
+      <trans-unit id="5ee8524833b44fabd19c014362817cf6b386e5d9" resname="option_label_limit|search">
+        <source>--- Show ---</source>
+        <target>crwdns259964:0crwdne259964:0</target>
+        <note>key: option_label_limit|search</note>
+      </trans-unit>
+      <trans-unit id="46e8a7a58b3a3a031f73915677cf45cb98a780ec" resname="option_label_sort|search">
+        <source>--- Sort ---</source>
+        <target>crwdns259966:0crwdne259966:0</target>
+        <note>key: option_label_sort|search</note>
+      </trans-unit>
+      <trans-unit id="1758356db21759f7c5a0da9b4dd1db8fd6feab3f" resname="or">
+        <source>or</source>
+        <target>crwdns259968:0crwdne259968:0</target>
+        <note>key: or</note>
+      </trans-unit>
+      <trans-unit id="a2097225940463ce31fe8c4f377ca055859c900b" resname="orderedOrReceivedAt">
+        <source>Ordered / received on</source>
+        <target>crwdns259970:0crwdne259970:0</target>
+        <note>key: orderedOrReceivedAt</note>
+      </trans-unit>
+      <trans-unit id="d0941e68da8f38151ff86a61fc59f7c5cf9fcaa2" resname="other">
+        <source>other</source>
+        <target>crwdns259972:0crwdne259972:0</target>
+        <note>key: other</note>
+      </trans-unit>
+      <trans-unit id="08637f646cdd5b4bf8faec641fa065b45b00a258" resname="please choose">
+        <source>please choose</source>
+        <target>crwdns259974:0crwdne259974:0</target>
+        <note>key: please choose</note>
+      </trans-unit>
+      <trans-unit id="6a8437dd0009e4aa220215ad24cf7c7d2e8c95c8" resname="plus">
+        <source>plus</source>
+        <target>crwdns259976:0crwdne259976:0</target>
+        <note>key: plus</note>
+      </trans-unit>
+      <trans-unit id="c62240fa4a1d3d821866ca97287a61a74019af50" resname="plus_shipping_costs">
+        <source>plus shippings costs</source>
+        <target>crwdns259978:0crwdne259978:0</target>
+        <note>key: plus_shipping_costs</note>
+      </trans-unit>
+      <trans-unit id="859d455b8ebd64a26ac0b5eb7278e93d30fb10ac" resname="prev">
+        <source>prev</source>
+        <target>crwdns259980:0crwdne259980:0</target>
+        <note>key: prev</note>
+      </trans-unit>
+      <trans-unit id="355f28f2c0c387add6231fd1a568b9377fd2fb37" resname="previous">
+        <source>previous</source>
+        <target>crwdns259982:0crwdne259982:0</target>
+        <note>key: previous</note>
+      </trans-unit>
+      <trans-unit id="5960d500d74c4f539d30c8a6d23f7b781ac34fee" resname="price_management.add_price">
+        <source>Add price</source>
+        <target>crwdns259984:0crwdne259984:0</target>
+        <note>key: price_management.add_price</note>
+      </trans-unit>
+      <trans-unit id="827e0c73b985d0d1c73c918753475d588adf3e6a" resname="price_management.base_price">
+        <source>Base price</source>
+        <target>crwdns259986:0crwdne259986:0</target>
+        <note>key: price_management.base_price</note>
+      </trans-unit>
+      <trans-unit id="ebd2a49d04aa9f85526914138446a3a74d341035" resname="price_management.customer_group">
+        <source>Customer group</source>
+        <target>crwdns259988:0crwdne259988:0</target>
+        <note>key: price_management.customer_group</note>
+      </trans-unit>
+      <trans-unit id="12a68ad36a50e95a745fe6deeb28b3dbd6cb8541" resname="price_management.delete_price.button">
+        <source>Delete price</source>
+        <target>crwdns259990:0crwdne259990:0</target>
+        <note>key: price_management.delete_price.button</note>
+      </trans-unit>
+      <trans-unit id="42b96d2ed0ac4fcbc81b3cbde87ad32a2651aa4d" resname="price_management.offer_price">
+        <source>Offer price</source>
+        <target>crwdns259992:0crwdne259992:0</target>
+        <note>key: price_management.offer_price</note>
+      </trans-unit>
+      <trans-unit id="7e9100796092cda3d8b24a610e0c786d37aa5040" resname="price_management.sku">
+        <source>SKU</source>
+        <target>crwdns259994:0crwdne259994:0</target>
+        <note>key: price_management.sku</note>
+      </trans-unit>
+      <trans-unit id="7e3555fc949d9bfd1047e8fdb99609b49b4c7829" resname="profile.data.address.add.new.address">
+        <source>Add</source>
+        <target>crwdns259996:0crwdne259996:0</target>
+        <note>key: profile.data.address.add.new.address</note>
+      </trans-unit>
+      <trans-unit id="3b6c314ca265e56e0881061d03acab32fbeb0ef7" resname="profile.data.address.additional.address.line">
+        <source>Additional address line</source>
+        <target>crwdns259998:0crwdne259998:0</target>
+        <note>key: profile.data.address.additional.address.line</note>
+      </trans-unit>
+      <trans-unit id="e4b4d7577aca4e6f1eb3a5d395d989295f1c3400" resname="profile.data.address.buyer.label">
+        <source>Buyer address</source>
+        <target>crwdns260000:0crwdne260000:0</target>
+        <note>key: profile.data.address.buyer.label</note>
+      </trans-unit>
+      <trans-unit id="ff2276b0ef29f4f3a80b58ca995269a6ed7e7f48" resname="profile.data.address.city">
+        <source>City</source>
+        <target>crwdns260002:0crwdne260002:0</target>
+        <note>key: profile.data.address.city</note>
+      </trans-unit>
+      <trans-unit id="aaac22534510e00ba57e21095f09bbc99d69b5e0" resname="profile.data.address.contact.email">
+        <source>Contact E-Mail</source>
+        <target>crwdns260004:0crwdne260004:0</target>
+        <note>key: profile.data.address.contact.email</note>
+      </trans-unit>
+      <trans-unit id="7d7a237c81fe9a627d9201ac6de3c36d79386f24" resname="profile.data.address.contact.fax">
+        <source>Contact Fax</source>
+        <target>crwdns260006:0crwdne260006:0</target>
+        <note>key: profile.data.address.contact.fax</note>
+      </trans-unit>
+      <trans-unit id="94cac8a2f8418b64252c6ffa8f3b0e2de4da481b" resname="profile.data.address.contact.telephone">
+        <source>Contact Telephone</source>
+        <target>crwdns260008:0crwdne260008:0</target>
+        <note>key: profile.data.address.contact.telephone</note>
+      </trans-unit>
+      <trans-unit id="c1664a8e4e5e4b0c829fd7ec46bbe0a3e1b29e3c" resname="profile.data.address.country.code">
+        <source>Country code</source>
+        <target>crwdns260010:0crwdne260010:0</target>
+        <note>key: profile.data.address.country.code</note>
+      </trans-unit>
+      <trans-unit id="e0f26f8d4c2bd4c7a4f3d25709a727c1209828d9" resname="profile.data.address.delivery.label">
+        <source>Delivery addresses</source>
+        <target>crwdns260012:0crwdne260012:0</target>
+        <note>key: profile.data.address.delivery.label</note>
+      </trans-unit>
+      <trans-unit id="4a5f9b6ca9963548d6eb287cdd660c5f4ea04622" resname="profile.data.address.name.company">
+        <source>Name/Company</source>
+        <target>crwdns260014:0crwdne260014:0</target>
+        <note>key: profile.data.address.name.company</note>
+      </trans-unit>
+      <trans-unit id="46e720744aeacd0fff1a97259dc6ca17d4bcd708" resname="profile.data.address.name.company.2">
+        <source>Name/Company 2</source>
+        <target>crwdns260016:0crwdne260016:0</target>
+        <note>key: profile.data.address.name.company.2</note>
+      </trans-unit>
+      <trans-unit id="86b919be8fba85f45d556b9c0bcddad49eb90595" resname="profile.data.address.street">
+        <source>Street</source>
+        <target>crwdns260018:0crwdne260018:0</target>
+        <note>key: profile.data.address.street</note>
+      </trans-unit>
+      <trans-unit id="220e2047061f2c3f64304253476d89f791d6a08b" resname="profile.data.address.zip.code">
+        <source>ZIP code</source>
+        <target>crwdns260020:0crwdne260020:0</target>
+        <note>key: profile.data.address.zip.code</note>
+      </trans-unit>
+      <trans-unit id="63f8d285fcb7adee4bf53870667b4121acfe8aee" resname="profile.data.button.trash">
+        <source>Remove address</source>
+        <target>crwdns260022:0crwdne260022:0</target>
+        <note>key: profile.data.button.trash</note>
+      </trans-unit>
+      <trans-unit id="b21253fc64bff1f43c721f5435f95d32d9b69895" resname="remove_this_group|search">
+        <source>Remove this group</source>
+        <target>crwdns260024:0crwdne260024:0</target>
+        <note>key: remove_this_group|search</note>
+      </trans-unit>
+      <trans-unit id="cdc698fe529d33fe529495caf8f3475013f2c0d5" resname="required fields">
+        <source>required fields</source>
+        <target>crwdns260026:0crwdne260026:0</target>
+        <note>key: required fields</note>
+      </trans-unit>
+      <trans-unit id="ad428e0b7b89a3216a31d24af256e2c0d507c793" resname="search_button|search">
+        <source>Search</source>
+        <target>crwdns260028:0crwdne260028:0</target>
+        <note>key: search_button|search</note>
+      </trans-unit>
+      <trans-unit id="f7e41d935959e01d85fb963e42189e0ae7ef700c" resname="search_result_empty|search">
+        <source>Search result is empty!</source>
+        <target>crwdns260030:0crwdne260030:0</target>
+        <note>key: search_result_empty|search</note>
+      </trans-unit>
+      <trans-unit id="2aa81443e58186911b9d0e54d8e8139cd77f9c46" resname="send commercial register document per email">
+        <source>send commercial register document per email</source>
+        <target>crwdns260032:0crwdne260032:0</target>
+        <note>key: send commercial register document per email</note>
+      </trans-unit>
+      <trans-unit id="d2765262c00772a23e9e1e7e4f3648da01eb06ab" resname="show_facets|search">
+        <source>Show facets</source>
+        <target>crwdns260034:0crwdne260034:0</target>
+        <note>key: show_facets|search</note>
+      </trans-unit>
+      <trans-unit id="f8a229d649fc9416f550b5c95712cba1f73fa748" resname="show_less_facets|search">
+        <source>show less facets</source>
+        <target>crwdns260036:0crwdne260036:0</target>
+        <note>key: show_less_facets|search</note>
+      </trans-unit>
+      <trans-unit id="be7dee000e2ea2bce1bb13e73914aa0f356b7cf7" resname="show_more_facets|search">
+        <source>show more facets</source>
+        <target>crwdns260038:0crwdne260038:0</target>
+        <note>key: show_more_facets|search</note>
+      </trans-unit>
+      <trans-unit id="4d541daf696224539f5c4b99411e177d503f36e0" resname="silversolutions_delegate|breadcrumb">
+        <source>Delegate</source>
+        <target>crwdns260040:0crwdne260040:0</target>
+        <note>key: silversolutions_delegate|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="259266838546a2a0aa3aa8cec2cb340d1a4dbda7" resname="silversolutions_forms_user_choice|breadcrumb">
+        <source>Shop Registration</source>
+        <target>crwdns260042:0crwdne260042:0</target>
+        <note>key: silversolutions_forms_user_choice|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="9279df85b1c0eafb49689998ec243f66f8d241b9" resname="silversolutions_password_change|breadcrumb">
+        <source>Change password</source>
+        <target>crwdns260044:0crwdne260044:0</target>
+        <note>key: silversolutions_password_change|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="57974f7e8d28b4ec5884e6b4a5070c59ecadbe6f" resname="silversolutions_password_reminder|breadcrumb">
+        <source>Password Reminder</source>
+        <target>crwdns260046:0crwdne260046:0</target>
+        <note>key: silversolutions_password_reminder|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="14950968e7bffff88eebce42816cdd2c453a6f8e" resname="silversolutions_profile|breadcrumb">
+        <source>Change my account</source>
+        <target>crwdns260048:0crwdne260048:0</target>
+        <note>key: silversolutions_profile|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="998cd97ddaa32f562f7400f85e6b7317c437eb39" resname="silversolutions_undelegate|breadcrumb">
+        <source>Delegate finished</source>
+        <target>crwdns260050:0crwdne260050:0</target>
+        <note>key: silversolutions_undelegate|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="231b0beb563e4e61f1608a88a4597f4ef262dfb3" resname="stock_management.on_stock">
+        <source>On stock</source>
+        <target>crwdns260052:0crwdne260052:0</target>
+        <note>key: stock_management.on_stock</note>
+      </trans-unit>
+      <trans-unit id="17aa5eb3fb62622b7e00d4f9bf7a84512307c79f" resname="stock_management.sku">
+        <source>SKU</source>
+        <target>crwdns260054:0crwdne260054:0</target>
+        <note>key: stock_management.sku</note>
+      </trans-unit>
+      <trans-unit id="b61bd861b86f97b578af8a4ba46c57567fc397f3" resname="stock_management.stock_text">
+        <source>Stock text</source>
+        <target>crwdns260056:0crwdne260056:0</target>
+        <note>key: stock_management.stock_text</note>
+      </trans-unit>
+      <trans-unit id="b7304ae7d712baa91b98553f04ef7957863a9a3f" resname="stored_baskets_empty">
+        <source>You have no stored baskets</source>
+        <target>crwdns260058:0crwdne260058:0</target>
+        <note>key: stored_baskets_empty</note>
+      </trans-unit>
+      <trans-unit id="5c4688773fee3bf0493d3a00b9f17add5462772d" resname="stored_baskets_list_intro_text">
+        <source>You can view or remove stored baskets. </source>
+        <target>crwdns260060:0crwdne260060:0</target>
+        <note>key: stored_baskets_list_intro_text</note>
+      </trans-unit>
+      <trans-unit id="84badc888ac12f2220c9c2b6d58f9abce97f3f28" resname="subject.complete_registration">
+        <source>Complete registration</source>
+        <target>crwdns260062:0crwdne260062:0</target>
+        <note>key: subject.complete_registration</note>
+      </trans-unit>
+      <trans-unit id="4879d76e6912d12bf78241b764954130e480974e" resname="subject.registration_validation">
+        <source>Validate user registration</source>
+        <target>crwdns260064:0crwdne260064:0</target>
+        <note>key: subject.registration_validation</note>
+      </trans-unit>
+      <trans-unit id="4df056a0d74e8cf7893a63da08a15f03f00fa20e" resname="subscribe newsletter">
+        <source>subscribe newsletter</source>
+        <target>crwdns260066:0crwdne260066:0</target>
+        <note>key: subscribe newsletter</note>
+      </trans-unit>
+      <trans-unit id="835aa3bec0bdca5c33e7dbe3d335e1c74b61567e" resname="success_address_create">
+        <source>The address has been stored.</source>
+        <target>crwdns260068:0crwdne260068:0</target>
+        <note>key: success_address_create</note>
+      </trans-unit>
+      <trans-unit id="baa0920bc2359b9d4252e97c00e2d27fba0cf372" resname="success_address_edit">
+        <source>The address has been modified.</source>
+        <target>crwdns260070:0crwdne260070:0</target>
+        <note>key: success_address_edit</note>
+      </trans-unit>
+      <trans-unit id="a0f562b97eb7adc68e551ada253f4843a9312341" resname="thereof">
+        <source>thereof</source>
+        <target>crwdns260072:0crwdne260072:0</target>
+        <note>key: thereof</note>
+      </trans-unit>
+      <trans-unit id="6a449ce1a87930173c85dfef7a2a2eea19e3c15f" resname="use_invoice_as_delivery">
+        <source>Use invoice address as delivery address</source>
+        <target>crwdns260074:0crwdne260074:0</target>
+        <note>key: use_invoice_as_delivery</note>
+      </trans-unit>
+      <trans-unit id="b38c04cceab19c7157c475b3149eeed7aafc7f15" resname="your_choice|search">
+        <source>Your choice</source>
+        <target>crwdns260076:0crwdne260076:0</target>
+        <note>key: your_choice|search</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
