@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="1f56990d9a1672db3eaf09513cf61e793775db7d" resname="field_definition.ibexa_measurement.default_range_maximum">
+        <source>Default Range Maximum</source>
+        <target>crwdns262492:0crwdne262492:0</target>
+        <note>key: field_definition.ibexa_measurement.default_range_maximum</note>
+      </trans-unit>
+      <trans-unit id="b9fe4e2707a4d80cdc33861e0759a94c462e5700" resname="field_definition.ibexa_measurement.default_range_minimum">
+        <source>Default Range Minimum</source>
+        <target>crwdns262494:0crwdne262494:0</target>
+        <note>key: field_definition.ibexa_measurement.default_range_minimum</note>
+      </trans-unit>
+      <trans-unit id="94448b912742870cba5118671e6eeed0c51ab597" resname="field_definition.ibexa_measurement.default_value">
+        <source>Default Value</source>
+        <target>crwdns262496:0crwdne262496:0</target>
+        <note>key: field_definition.ibexa_measurement.default_value</note>
+      </trans-unit>
+      <trans-unit id="2d213f41b76c96a3ae533eda5a2f4342c68f0b19" resname="field_definition.ibexa_measurement.maximum">
+        <source>Maximum Value</source>
+        <target>crwdns262498:0crwdne262498:0</target>
+        <note>key: field_definition.ibexa_measurement.maximum</note>
+      </trans-unit>
+      <trans-unit id="0f48418fc0f28490e24e8f95083e6b2df3786966" resname="field_definition.ibexa_measurement.measurement_input_type">
+        <source>Input Type</source>
+        <target>crwdns262500:0crwdne262500:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_input_type</note>
+      </trans-unit>
+      <trans-unit id="fda0aaa81dc79a71fca3284291433ee3d366a973" resname="field_definition.ibexa_measurement.measurement_input_type.value.range">
+        <source>Range</source>
+        <target>crwdns262502:0crwdne262502:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_input_type.value.range</note>
+      </trans-unit>
+      <trans-unit id="192af71075c37719fdd26a30c1e536b1a9b60aad" resname="field_definition.ibexa_measurement.measurement_input_type.value.simple">
+        <source>Simple Input</source>
+        <target>crwdns262504:0crwdne262504:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_input_type.value.simple</note>
+      </trans-unit>
+      <trans-unit id="3357035ab76b1dc59b9640878df01920509f7800" resname="field_definition.ibexa_measurement.measurement_sign">
+        <source>Sign</source>
+        <target>crwdns262506:0crwdne262506:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_sign</note>
+      </trans-unit>
+      <trans-unit id="98fe5cd54903d29fb1c4901b288f0ed26a024bb6" resname="field_definition.ibexa_measurement.measurement_sign.value.gt">
+        <source><![CDATA[> greater than]]></source>
+        <target><![CDATA[crwdns262508:0crwdne262508:0]]></target>
+        <note>key: field_definition.ibexa_measurement.measurement_sign.value.gt</note>
+      </trans-unit>
+      <trans-unit id="d756b9e2c92ff95381e7ebd0c10385394b4330a0" resname="field_definition.ibexa_measurement.measurement_sign.value.gte">
+        <source>≥ greater than or equal to</source>
+        <target>crwdns262510:0crwdne262510:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_sign.value.gte</note>
+      </trans-unit>
+      <trans-unit id="b1871008b3cad47a3776440e76f83b62a5e328a3" resname="field_definition.ibexa_measurement.measurement_sign.value.lt">
+        <source><![CDATA[< less than]]></source>
+        <target><![CDATA[crwdns262512:0crwdne262512:0]]></target>
+        <note>key: field_definition.ibexa_measurement.measurement_sign.value.lt</note>
+      </trans-unit>
+      <trans-unit id="7d6bab04f37a015b3cd49b796fd91ebd6d018db9" resname="field_definition.ibexa_measurement.measurement_sign.value.lte">
+        <source>≤ less than or equal to</source>
+        <target>crwdns262514:0crwdne262514:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_sign.value.lte</note>
+      </trans-unit>
+      <trans-unit id="c665f2a1e5cf2ba3dbc062911f38dcd9ccce7a2f" resname="field_definition.ibexa_measurement.measurement_sign.value.none">
+        <source>none</source>
+        <target>crwdns262516:0crwdne262516:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_sign.value.none</note>
+      </trans-unit>
+      <trans-unit id="18d9c60e97eabafe82aabe2b43e5cd02006d3842" resname="field_definition.ibexa_measurement.measurement_sign.value.pm">
+        <source>± plus/minus</source>
+        <target>crwdns262518:0crwdne262518:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_sign.value.pm</note>
+      </trans-unit>
+      <trans-unit id="ab648d85011d331f8adf4c56b97dc68d45b63f95" resname="field_definition.ibexa_measurement.measurement_type">
+        <source>Measurement Type</source>
+        <target>crwdns262520:0crwdne262520:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_type</note>
+      </trans-unit>
+      <trans-unit id="5157b0602c53597ca45dfcf2e3b5e28693443d16" resname="field_definition.ibexa_measurement.measurement_unit">
+        <source>Base Unit</source>
+        <target>crwdns262522:0crwdne262522:0</target>
+        <note>key: field_definition.ibexa_measurement.measurement_unit</note>
+      </trans-unit>
+      <trans-unit id="0f3a5cf2d0467ee8b3689221be5ece5b9deb95f1" resname="field_definition.ibexa_measurement.minimum">
+        <source>Minimum Value</source>
+        <target>crwdns262524:0crwdne262524:0</target>
+        <note>key: field_definition.ibexa_measurement.minimum</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
