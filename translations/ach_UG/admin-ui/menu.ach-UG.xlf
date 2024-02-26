@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="a0e5e0f0d39b0d4d58cb089d09414a0b8bcf7e2e" resname="content__sidebar_right__copy">
+        <source>Copy</source>
+        <target>crwdns255396:0crwdne255396:0</target>
+        <note>key: content__sidebar_right__copy</note>
+      </trans-unit>
+      <trans-unit id="0d5f60093de3b822740abad95d1f8cb2195869c9" resname="content__sidebar_right__copy_subtree">
+        <source>Copy Subtree</source>
+        <target>crwdns255398:0crwdne255398:0</target>
+        <note>key: content__sidebar_right__copy_subtree</note>
+      </trans-unit>
+      <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
+        <source>Create content</source>
+        <target>crwdns255400:0crwdne255400:0</target>
+        <note>key: content__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="b3937ec2d3ae4980f8ae00ed20818d92bfab3407" resname="content__sidebar_right__delete">
+        <source>Delete</source>
+        <target>crwdns255402:0crwdne255402:0</target>
+        <note>key: content__sidebar_right__delete</note>
+      </trans-unit>
+      <trans-unit id="c01e10e86b48dd064915bf18551985d47244c191" resname="content__sidebar_right__edit">
+        <source>Edit</source>
+        <target>crwdns255404:0crwdne255404:0</target>
+        <note>key: content__sidebar_right__edit</note>
+      </trans-unit>
+      <trans-unit id="4edbd819e96b4bea94ad02f9ce655c2f81f1b4d0" resname="content__sidebar_right__hide">
+        <source>Hide</source>
+        <target>crwdns255406:0crwdne255406:0</target>
+        <note>key: content__sidebar_right__hide</note>
+      </trans-unit>
+      <trans-unit id="1c34612eb7cf79bac694e81bbc563388bfa3b2bd" resname="content__sidebar_right__invite">
+        <source>Invite members</source>
+        <target>crwdns255408:0crwdne255408:0</target>
+        <note>key: content__sidebar_right__invite</note>
+      </trans-unit>
+      <trans-unit id="522a7eb05659ac849a762954effc22db818b8323" resname="content__sidebar_right__move">
+        <source>Move</source>
+        <target>crwdns255410:0crwdne255410:0</target>
+        <note>key: content__sidebar_right__move</note>
+      </trans-unit>
+      <trans-unit id="bbf7b43821e5ac0ce57d977a3ce156baf9a9d7b7" resname="content__sidebar_right__reveal">
+        <source>Reveal</source>
+        <target>crwdns255412:0crwdne255412:0</target>
+        <note>key: content__sidebar_right__reveal</note>
+      </trans-unit>
+      <trans-unit id="9445b360492505d3a8d7be4c316e2cc62f381e03" resname="content__sidebar_right__send_to_trash">
+        <source>Send to Trash</source>
+        <target>crwdns255414:0crwdne255414:0</target>
+        <note>key: content__sidebar_right__send_to_trash</note>
+      </trans-unit>
+      <trans-unit id="0a801de04935a4bf73c70d29b6c594e1d10811cc" resname="content_create__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target>crwdns255416:0crwdne255416:0</target>
+        <note>key: content_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="3472403e4730d2027e9b32c2521f952ac29b39e5" resname="content_create__sidebar_right__preview">
+        <source>Preview</source>
+        <target>crwdns255418:0crwdne255418:0</target>
+        <note>key: content_create__sidebar_right__preview</note>
+      </trans-unit>
+      <trans-unit id="ff56ff65983b48e2ec27b51c9a5a2d34e86b574d" resname="content_create__sidebar_right__publish">
+        <source>Publish</source>
+        <target>crwdns255420:0crwdne255420:0</target>
+        <note>key: content_create__sidebar_right__publish</note>
+      </trans-unit>
+      <trans-unit id="bfb33ee23eb46e991693adf1d52d350d0a29e688" resname="content_create__sidebar_right__save_draft">
+        <source>Save</source>
+        <target>crwdns255422:0crwdne255422:0</target>
+        <note>key: content_create__sidebar_right__save_draft</note>
+      </trans-unit>
+      <trans-unit id="89b456c2ec176d6a0878d0992424a2a41d89b3ba" resname="content_edit__anchor_menu__content">
+        <source>Content</source>
+        <target>crwdns255424:0crwdne255424:0</target>
+        <note>key: content_edit__anchor_menu__content</note>
+      </trans-unit>
+      <trans-unit id="84cd0d095ea2a1c6f98c298609a49adca5c3b663" resname="content_edit__anchor_menu__meta">
+        <source>Meta</source>
+        <target>crwdns255426:0crwdne255426:0</target>
+        <note>key: content_edit__anchor_menu__meta</note>
+      </trans-unit>
+      <trans-unit id="af459eaf05dedc87eb0c462732e59da18bedb340" resname="content_edit__sidebar_right__cancel">
+        <source>Delete draft</source>
+        <target>crwdns255428:0crwdne255428:0</target>
+        <note>key: content_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="0698df9938e380422409df827952248fbfcaf02d" resname="content_edit__sidebar_right__preview">
+        <source>Preview</source>
+        <target>crwdns255430:0crwdne255430:0</target>
+        <note>key: content_edit__sidebar_right__preview</note>
+      </trans-unit>
+      <trans-unit id="3ca4deb7a0f072b3613df143969726ea2cf79487" resname="content_edit__sidebar_right__publish">
+        <source>Publish</source>
+        <target>crwdns255432:0crwdne255432:0</target>
+        <note>key: content_edit__sidebar_right__publish</note>
+      </trans-unit>
+      <trans-unit id="21ec910650ae078371f26d8e6a7964d13b5a5216" resname="content_edit__sidebar_right__save_draft">
+        <source>Save</source>
+        <target>crwdns255434:0crwdne255434:0</target>
+        <note>key: content_edit__sidebar_right__save_draft</note>
+      </trans-unit>
+      <trans-unit id="3b59d1cdd9c85ff781a3a442345bb648cc49dd31" resname="content_type__sidebar_right__edit">
+        <source>Edit</source>
+        <target>crwdns255436:0crwdne255436:0</target>
+        <note>key: content_type__sidebar_right__edit</note>
+      </trans-unit>
+      <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255438:0crwdne255438:0</target>
+        <note>key: content_type_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="5a66806014c6a6ca1f79270a8dd381ae6c0e0d7b" resname="content_type_create__sidebar_right__save">
+        <source>Create</source>
+        <target>crwdns255440:0crwdne255440:0</target>
+        <note>key: content_type_create__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="ca09d2e9bfc8aa93d6b4c4f3c7d38f37976d7038" resname="content_type_edit__anchor_menu__field_definitions">
+        <source>Field definitions</source>
+        <target>crwdns255442:0crwdne255442:0</target>
+        <note>key: content_type_edit__anchor_menu__field_definitions</note>
+      </trans-unit>
+      <trans-unit id="e39ae19f3f6be47b23321398f5d499bf78f9fc7c" resname="content_type_edit__anchor_menu__global_properties">
+        <source>Global properties</source>
+        <target>crwdns255444:0crwdne255444:0</target>
+        <note>key: content_type_edit__anchor_menu__global_properties</note>
+      </trans-unit>
+      <trans-unit id="17d86a1011976758251b804acfbe8092d2860946" resname="content_type_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255446:0crwdne255446:0</target>
+        <note>key: content_type_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="f1ac6aebd0e5474137a997b41677e5ae6c78670b" resname="content_type_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255448:0crwdne255448:0</target>
+        <note>key: content_type_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="ccdcdc5c7e006c865c33b29eee9c6b9e232a9308" resname="content_type_group_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255450:0crwdne255450:0</target>
+        <note>key: content_type_group_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="71e6fb2e4bbbcaaf043cdca260f6ba38f8ce2911" resname="content_type_group_create__sidebar_right__create">
+        <source>Create</source>
+        <target>crwdns255452:0crwdne255452:0</target>
+        <note>key: content_type_group_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="0fa3cd41a8153814006c36b35a949d64576eaeea" resname="content_type_group_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255454:0crwdne255454:0</target>
+        <note>key: content_type_group_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="3951c5df8bf1c00b0dd99dc06acc76d1908ec825" resname="content_type_group_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255456:0crwdne255456:0</target>
+        <note>key: content_type_group_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255458:0crwdne255458:0</target>
+        <note>key: language_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="43db6515a6b373d14e37f88c19c7663a9fa3ae8f" resname="language_create__sidebar_right__create">
+        <source>Create</source>
+        <target>crwdns255460:0crwdne255460:0</target>
+        <note>key: language_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="09a41e6afdef6eda2c027b7e742777f3a9bd1749" resname="language_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255462:0crwdne255462:0</target>
+        <note>key: language_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="31bae088f62a5a502882b1e2cee04e14fe6617ab" resname="language_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255464:0crwdne255464:0</target>
+        <note>key: language_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="d24d01151cf9ba69e38be735778da00850cea694" resname="main__admin">
+        <source>Admin</source>
+        <target>crwdns255466:0crwdne255466:0</target>
+        <note>key: main__admin</note>
+      </trans-unit>
+      <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
+        <source>Content Types</source>
+        <target>crwdns255468:0crwdne255468:0</target>
+        <note>key: main__admin__content_types</note>
+      </trans-unit>
+      <trans-unit id="fd9a2e689e82242d49f0313d78aca7e30bf9f24f" resname="main__admin__languages">
+        <source>Languages</source>
+        <target>crwdns255470:0crwdne255470:0</target>
+        <note>key: main__admin__languages</note>
+      </trans-unit>
+      <trans-unit id="1d350945e7732f519fd5d2f6a69c926a193d6146" resname="main__admin__object_states">
+        <source>Object States</source>
+        <target>crwdns255472:0crwdne255472:0</target>
+        <note>key: main__admin__object_states</note>
+      </trans-unit>
+      <trans-unit id="8a5845bd0e93b67b2ac54a06f2eae85f2cb3b13d" resname="main__admin__roles">
+        <source>Roles</source>
+        <target>crwdns255474:0crwdne255474:0</target>
+        <note>key: main__admin__roles</note>
+      </trans-unit>
+      <trans-unit id="e636e8e95f62409b29348795eef55b4450f65673" resname="main__admin__sections">
+        <source>Sections</source>
+        <target>crwdns255476:0crwdne255476:0</target>
+        <note>key: main__admin__sections</note>
+      </trans-unit>
+      <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
+        <source>URL Management</source>
+        <target>crwdns255478:0crwdne255478:0</target>
+        <note>key: main__admin__url_management</note>
+      </trans-unit>
+      <trans-unit id="975e43875a74d509e3e0cedd926de1223d09cdf4" resname="main__admin__users">
+        <source>Users</source>
+        <target>crwdns255480:0crwdne255480:0</target>
+        <note>key: main__admin__users</note>
+      </trans-unit>
+      <trans-unit id="f68c5be5c002f6858b89d2dc5156d725425e31db" resname="main__bookmarks">
+        <source>Bookmarks</source>
+        <target>crwdns255482:0crwdne255482:0</target>
+        <note>key: main__bookmarks</note>
+      </trans-unit>
+      <trans-unit id="95e1979b41321209d200f2e75416fd47270954b4" resname="main__content">
+        <source>Content</source>
+        <target>crwdns255484:0crwdne255484:0</target>
+        <note>key: main__content</note>
+      </trans-unit>
+      <trans-unit id="1dd8b693879304af831a7adaf4ca59c7d8cb31b9" resname="main__content__content_structure">
+        <source>Content structure</source>
+        <target>crwdns255486:0crwdne255486:0</target>
+        <note>key: main__content__content_structure</note>
+      </trans-unit>
+      <trans-unit id="17346107dfddb344b04c455b071d001dadf80d6f" resname="main__content__group_settings">
+        <source>Settings</source>
+        <target>crwdns255488:0crwdne255488:0</target>
+        <note>key: main__content__group_settings</note>
+      </trans-unit>
+      <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
+        <source>Media</source>
+        <target>crwdns255490:0crwdne255490:0</target>
+        <note>key: main__content__media</note>
+      </trans-unit>
+      <trans-unit id="4c2cca32be18ada279b3562d2b96acc4a908083e" resname="main__dashboard">
+        <source>Dashboard</source>
+        <target>crwdns255492:0crwdne255492:0</target>
+        <note>key: main__dashboard</note>
+      </trans-unit>
+      <trans-unit id="5376b08940439deec5b89c3df17b09ab8f4ed252" resname="main__trash">
+        <source>Trash</source>
+        <target>crwdns255494:0crwdne255494:0</target>
+        <note>key: main__trash</note>
+      </trans-unit>
+      <trans-unit id="f3561dffc3e7e63e03f3f5d1a4e2b4eda80e051a" resname="object_state_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255496:0crwdne255496:0</target>
+        <note>key: object_state_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="1052991c551dfafbaca03084515a930162d9f453" resname="object_state_create__sidebar_right__create">
+        <source>Create</source>
+        <target>crwdns255498:0crwdne255498:0</target>
+        <note>key: object_state_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="b18f3c02433848bb82632323b018b3e3094c5eab" resname="object_state_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255500:0crwdne255500:0</target>
+        <note>key: object_state_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="063a560058e7b40ddfc281c414fa7bb7056cb18d" resname="object_state_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255502:0crwdne255502:0</target>
+        <note>key: object_state_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="6d0d5ef21648f88e82cdd49203e02eb897d55290" resname="object_state_group_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255504:0crwdne255504:0</target>
+        <note>key: object_state_group_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="929c5571f3871d9c90c2eaacb8b41ffd25ed71de" resname="object_state_group_create__sidebar_right__create">
+        <source>Create</source>
+        <target>crwdns255506:0crwdne255506:0</target>
+        <note>key: object_state_group_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="b5dfd081ee2a144e617aaa44648c631d6bc09fee" resname="object_state_group_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255508:0crwdne255508:0</target>
+        <note>key: object_state_group_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="c0dc534365fb45019db9b586ca8a71db6edda39d" resname="object_state_group_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255510:0crwdne255510:0</target>
+        <note>key: object_state_group_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="bd668569e3e19db4ee8d34e4008f9bfceaad437b" resname="policy_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255512:0crwdne255512:0</target>
+        <note>key: policy_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="d33542eb7c2590dd5a7b92764f02a1b40fb99b8a" resname="policy_create__sidebar_right__create">
+        <source>Create</source>
+        <target>crwdns255514:0crwdne255514:0</target>
+        <note>key: policy_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="6a2ed71b1ade1376874c2dffd3f5c85f6449a4af" resname="policy_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255516:0crwdne255516:0</target>
+        <note>key: policy_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="cb47e2c35d152c762cc9923eed5ca55bad4a1d8f" resname="policy_edit__sidebar_right__save">
+        <source>Update</source>
+        <target>crwdns255518:0crwdne255518:0</target>
+        <note>key: policy_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="540d43aee8ab9ad7c36096274135992fbf77ae41" resname="role_assignment_create__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target>crwdns255520:0crwdne255520:0</target>
+        <note>key: role_assignment_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="63bb349c122da33ab95d2e395ca9a62f8050bf66" resname="role_assignment_create__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255522:0crwdne255522:0</target>
+        <note>key: role_assignment_create__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="88bfe7703596452559485dd44c7a7dbf289584a5" resname="role_copy__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255524:0crwdne255524:0</target>
+        <note>key: role_copy__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="36e448abb1ab7844befaf5a70ac65edf976bae85" resname="role_copy__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255526:0crwdne255526:0</target>
+        <note>key: role_copy__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="ec3a03215b15b79b7db72bac312b5e59734ac99c" resname="role_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255528:0crwdne255528:0</target>
+        <note>key: role_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="33799ab1dc31d85544fafe36e9d0c3a75093b50f" resname="role_create__sidebar_right__create">
+        <source>Create</source>
+        <target>crwdns255530:0crwdne255530:0</target>
+        <note>key: role_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="036fc934f3d8e04e278ec68b3e8045b212ec1a8f" resname="role_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255532:0crwdne255532:0</target>
+        <note>key: role_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="feda90199751e252928f5cba2e56f0a0a85a2248" resname="role_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255534:0crwdne255534:0</target>
+        <note>key: role_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="118456f08e78dac2945c59eb317427f1abb88c3b" resname="section_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255536:0crwdne255536:0</target>
+        <note>key: section_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="4d26537b666dbf7a810b8742ea50f5bc51f83a3e" resname="section_create__sidebar_right__create">
+        <source>Create</source>
+        <target>crwdns255538:0crwdne255538:0</target>
+        <note>key: section_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="61044b3382030ab6a876b6d4270e8af4e5f04dc1" resname="section_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255540:0crwdne255540:0</target>
+        <note>key: section_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="e33deebc2c2c317aa44b31e5d8c4148fdfb1dc34" resname="section_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255542:0crwdne255542:0</target>
+        <note>key: section_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="d69b54667fe89acac2f0e05bf84c606aff91d52b" resname="sidebar_left__bookmark">
+        <source>Bookmarks</source>
+        <target>crwdns255544:0crwdne255544:0</target>
+        <note>key: sidebar_left__bookmark</note>
+      </trans-unit>
+      <trans-unit id="951ac18ce3ab253f9de7fd9caef6636b18edd1c3" resname="sidebar_left__browse">
+        <source>Browse</source>
+        <target>crwdns255546:0crwdne255546:0</target>
+        <note>key: sidebar_left__browse</note>
+      </trans-unit>
+      <trans-unit id="e3401271f3c6a0f8c88b0fa500d2c97eb5e33ff0" resname="sidebar_left__search">
+        <source>Search</source>
+        <target>crwdns255548:0crwdne255548:0</target>
+        <note>key: sidebar_left__search</note>
+      </trans-unit>
+      <trans-unit id="2f6558500ca2bb4d364fe81cf32f5c5f1b81746a" resname="sidebar_left__trash">
+        <source>Trash</source>
+        <target>crwdns255550:0crwdne255550:0</target>
+        <note>key: sidebar_left__trash</note>
+      </trans-unit>
+      <trans-unit id="af4736ff799291d6658545d0afb52240d7250cf3" resname="sidebar_left__tree">
+        <source>Content Tree</source>
+        <target>crwdns255552:0crwdne255552:0</target>
+        <note>key: sidebar_left__tree</note>
+      </trans-unit>
+      <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash">
+        <source>Empty Trash</source>
+        <target>crwdns255554:0crwdne255554:0</target>
+        <note>key: trash__sidebar_right__empty_trash</note>
+      </trans-unit>
+      <trans-unit id="5ded8d45683caa8bb19649d5cc39bd76ebabfa63" resname="url_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255556:0crwdne255556:0</target>
+        <note>key: url_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="9e8d8f6d06a5950f649d63b453d6dab7eba33f11" resname="url_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255558:0crwdne255558:0</target>
+        <note>key: url_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="279fb028abf07d3fadda07ff6e00b91f0fd53932" resname="url_wildcard_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255560:0crwdne255560:0</target>
+        <note>key: url_wildcard_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="02bb48356132caeef070ebc7eb4d266884044e85" resname="url_wildcard_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns255562:0crwdne255562:0</target>
+        <note>key: url_wildcard_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content">
+        <source>Logout</source>
+        <target>crwdns255564:0crwdne255564:0</target>
+        <note>key: user__content</note>
+      </trans-unit>
+      <trans-unit id="22a2aa3863b8f6a0ab24403998badeb4bb196254" resname="user__drafts">
+        <source>Drafts</source>
+        <target>crwdns255566:0crwdne255566:0</target>
+        <note>key: user__drafts</note>
+      </trans-unit>
+      <trans-unit id="d4a0cfb90774164e94f11e2a4f019a2538faebcf" resname="user__settings">
+        <source>User Settings</source>
+        <target>crwdns255568:0crwdne255568:0</target>
+        <note>key: user__settings</note>
+      </trans-unit>
+      <trans-unit id="40679174821cfa2ce3d3a4dc046f0ef65df6f483" resname="user_create__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target>crwdns255570:0crwdne255570:0</target>
+        <note>key: user_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="e2f3f27b94662872c5f39dbf8b26b489deb14f8c" resname="user_create__sidebar_right__create">
+        <source>Create</source>
+        <target>crwdns255572:0crwdne255572:0</target>
+        <note>key: user_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="5eac585c3d7a63e58780b7939ee2a8e70e290436" resname="user_edit__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target>crwdns255574:0crwdne255574:0</target>
+        <note>key: user_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="5a09908619e3d8e6b30af8af8c14abd416b485fa" resname="user_edit__sidebar_right__update">
+        <source>Update</source>
+        <target>crwdns255576:0crwdne255576:0</target>
+        <note>key: user_edit__sidebar_right__update</note>
+      </trans-unit>
+      <trans-unit id="d79a55ddd58ecf56b4edb39c794c858d649481e2" resname="user_password_change__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns255578:0crwdne255578:0</target>
+        <note>key: user_password_change__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="ab8629add84cbd9cebfdf326f7242044ae7650af" resname="user_password_change__sidebar_right__update">
+        <source>Update</source>
+        <target>crwdns255580:0crwdne255580:0</target>
+        <note>key: user_password_change__sidebar_right__update</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
