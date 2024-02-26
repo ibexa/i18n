@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="7977b91cf7f7467de74633ce7fd46a0714ab5412" resname="segment_bulk_delete_form.delete">
+        <source>Delete Segments</source>
+        <target>crwdns265418:0crwdne265418:0</target>
+        <note>key: segment_bulk_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="9a069765672a2f2b864751f1bb933202a8dab393" resname="segment_create_form.create">
+        <source>Create</source>
+        <target>crwdns265420:0crwdne265420:0</target>
+        <note>key: segment_create_form.create</note>
+      </trans-unit>
+      <trans-unit id="89b4e639fd50276fdaa2def0bd01f262c4ea0686" resname="segment_group_bulk_delete_form.delete">
+        <source>Delete</source>
+        <target>crwdns265422:0crwdne265422:0</target>
+        <note>key: segment_group_bulk_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="d4bad89505ed54f60df85a8d458fa2e4ac1ac8db" resname="segment_group_create.identifier">
+        <source>Identifier</source>
+        <target>crwdns265424:0crwdne265424:0</target>
+        <note>key: segment_group_create.identifier</note>
+      </trans-unit>
+      <trans-unit id="20d5e75dd76b6dc414be25970c59dd92a262182d" resname="segment_group_create.name">
+        <source>Name</source>
+        <target>crwdns265426:0crwdne265426:0</target>
+        <note>key: segment_group_create.name</note>
+      </trans-unit>
+      <trans-unit id="e21a084414105588c582871d94fe6aa3eb7fc986" resname="segment_group_create.segments">
+        <source>Segments</source>
+        <target>crwdns265428:0crwdne265428:0</target>
+        <note>key: segment_group_create.segments</note>
+      </trans-unit>
+      <trans-unit id="c8aa8e048b310f79beff0be025bbf0fa7b845635" resname="segment_group_create_form.create">
+        <source>Create</source>
+        <target>crwdns265430:0crwdne265430:0</target>
+        <note>key: segment_group_create_form.create</note>
+      </trans-unit>
+      <trans-unit id="ad7c607ca86930e2af197c0f1ad44c646fe499be" resname="segment_group_create_form.update">
+        <source>Update</source>
+        <target>crwdns265432:0crwdne265432:0</target>
+        <note>key: segment_group_create_form.update</note>
+      </trans-unit>
+      <trans-unit id="36cee6fed4b7db33951de85cd54ca60bb7822e1d" resname="segment_group_delete_form.delete">
+        <source>Delete</source>
+        <target>crwdns265434:0crwdne265434:0</target>
+        <note>key: segment_group_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="1346713c71d11a95fac08825d2e82fa8c9904162" resname="segment_update_form.update">
+        <source>Update</source>
+        <target>crwdns265436:0crwdne265436:0</target>
+        <note>key: segment_update_form.update</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
