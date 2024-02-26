@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="f48c4e472bd9e86a066060225f621949424f2b81" resname="reschedule.error.message">
+        <source>An unexpected error occurred while rescheduling the selected draft(s). Please try again.</source>
+        <target>crwdns265358:0crwdne265358:0</target>
+        <note>key: reschedule.error.message</note>
+      </trans-unit>
+      <trans-unit id="3e7c7f7ed781f0f39037d2b9e624196918bfd739" resname="reschedule.fail.message">
+        <source>%failedCount% out of %totalCount% selected drafts could not be rescheduled. Please try again.</source>
+        <target>crwdns265360:0%failedCount%crwdnd265360:0%totalCount%crwdne265360:0</target>
+        <note>key: reschedule.fail.message</note>
+      </trans-unit>
+      <trans-unit id="cad872e276597b29864f43d081afa4be3aee742e" resname="reschedule.success.message">
+        <source>Rescheduled all drafts.</source>
+        <target>crwdns265362:0crwdne265362:0</target>
+        <note>key: reschedule.success.message</note>
+      </trans-unit>
+      <trans-unit id="efe280f52ff7d384892d51a05ca8fe577ab73d78" resname="unschedule.error.message">
+        <source>An error occurred while removing the selected publication dates. Please try again.</source>
+        <target>crwdns265364:0crwdne265364:0</target>
+        <note>key: unschedule.error.message</note>
+      </trans-unit>
+      <trans-unit id="505c2e16d2d41c2b03c225ee8fa809135f20f30e" resname="unschedule.fail.message">
+        <source>%failedCount% out of %totalCount% selected publication dates could not be removed. Please try again.</source>
+        <target>crwdns265366:0%failedCount%crwdnd265366:0%totalCount%crwdne265366:0</target>
+        <note>key: unschedule.fail.message</note>
+      </trans-unit>
+      <trans-unit id="fb26c08c460347ee25626a016ff11a9accbe08a6" resname="unschedule.success.message">
+        <source>Removed all selected publication dates.</source>
+        <target>crwdns265368:0crwdne265368:0</target>
+        <note>key: unschedule.success.message</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
