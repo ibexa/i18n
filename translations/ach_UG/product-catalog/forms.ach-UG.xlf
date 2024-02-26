@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
+        <source>%fieldName% Field is required</source>
+        <target>crwdns264060:0%fieldName%crwdne264060:0</target>
+        <note>key: error.required.field</note>
+      </trans-unit>
+      <trans-unit id="6090b5d2c17e00053a576ede5c82afba67f0cc49" resname="error.required.field_not_blank">
+        <source>This value should not be blank</source>
+        <target>crwdns264062:0crwdne264062:0</target>
+        <note>key: error.required.field_not_blank</note>
+      </trans-unit>
+      <trans-unit id="517e3666a759ee26e02fcc468446ef39b3ae9bf0" resname="role.policy.catalog">
+        <source>Catalog</source>
+        <target>crwdns264064:0crwdne264064:0</target>
+        <note>key: role.policy.catalog</note>
+      </trans-unit>
+      <trans-unit id="f0db798b7ae5b93b395d0f688ea80784faddcd6b" resname="role.policy.catalog.all_functions">
+        <source>Catalog / All functions</source>
+        <target>crwdns264066:0crwdne264066:0</target>
+        <note>key: role.policy.catalog.all_functions</note>
+      </trans-unit>
+      <trans-unit id="9bab6251a421ba09e54114cd858abdc9a2a59f55" resname="role.policy.catalog.create">
+        <source>Catalog / Create</source>
+        <target>crwdns264068:0crwdne264068:0</target>
+        <note>key: role.policy.catalog.create</note>
+      </trans-unit>
+      <trans-unit id="6844731afb7e5c4fc7414f157749ca064a82d798" resname="role.policy.catalog.delete">
+        <source>Catalog / Delete</source>
+        <target>crwdns264070:0crwdne264070:0</target>
+        <note>key: role.policy.catalog.delete</note>
+      </trans-unit>
+      <trans-unit id="f3f6d817abf52411d94909850040df8aebaf2c03" resname="role.policy.catalog.edit">
+        <source>Catalog / Edit</source>
+        <target>crwdns264072:0crwdne264072:0</target>
+        <note>key: role.policy.catalog.edit</note>
+      </trans-unit>
+      <trans-unit id="d9ced925ac206beb427c609d73e8adefb43346fb" resname="role.policy.catalog.view">
+        <source>Catalog / View</source>
+        <target>crwdns264074:0crwdne264074:0</target>
+        <note>key: role.policy.catalog.view</note>
+      </trans-unit>
+      <trans-unit id="3551d9a7a066b2a0941f244fa91f766c089fd063" resname="role.policy.commerce">
+        <source>Commerce</source>
+        <target>crwdns264076:0crwdne264076:0</target>
+        <note>key: role.policy.commerce</note>
+      </trans-unit>
+      <trans-unit id="b5a03c317caa2abbc2a833f7a1bd96dabe75f707" resname="role.policy.commerce.all_functions">
+        <source>Commerce / All functions</source>
+        <target>crwdns264078:0crwdne264078:0</target>
+        <note>key: role.policy.commerce.all_functions</note>
+      </trans-unit>
+      <trans-unit id="2bec0e366dfe740a1a13ef2b4186513711075983" resname="role.policy.commerce.currency">
+        <source>Currencies / Administrate</source>
+        <target>crwdns264080:0crwdne264080:0</target>
+        <note>key: role.policy.commerce.currency</note>
+      </trans-unit>
+      <trans-unit id="fbf8fcb1c05ac737e68351c0a85682ac6a4bef6e" resname="role.policy.commerce.region">
+        <source>Regions / Administrate</source>
+        <target>crwdns264082:0crwdne264082:0</target>
+        <note>key: role.policy.commerce.region</note>
+      </trans-unit>
+      <trans-unit id="db177b099d9b5b0999743c67123b420af739ada4" resname="role.policy.customer_group">
+        <source>Customer Group</source>
+        <target>crwdns264084:0crwdne264084:0</target>
+        <note>key: role.policy.customer_group</note>
+      </trans-unit>
+      <trans-unit id="6d2cde60346839f94de083cfc7937e437d85d726" resname="role.policy.customer_group.all_functions">
+        <source>Customer Group / All functions</source>
+        <target>crwdns264086:0crwdne264086:0</target>
+        <note>key: role.policy.customer_group.all_functions</note>
+      </trans-unit>
+      <trans-unit id="cedd0dc3d0fc2e8b92452b2d3dd0349d945d6896" resname="role.policy.customer_group.create">
+        <source>Customer Group / Create</source>
+        <target>crwdns264088:0crwdne264088:0</target>
+        <note>key: role.policy.customer_group.create</note>
+      </trans-unit>
+      <trans-unit id="aa3d667594c6ada5d00ac8577d8956bff773f5bd" resname="role.policy.customer_group.delete">
+        <source>Customer Group / Delete</source>
+        <target>crwdns264090:0crwdne264090:0</target>
+        <note>key: role.policy.customer_group.delete</note>
+      </trans-unit>
+      <trans-unit id="77103c77012fbfb57e2f042714bcc8641e51c67c" resname="role.policy.customer_group.edit">
+        <source>Customer Group / Edit</source>
+        <target>crwdns264092:0crwdne264092:0</target>
+        <note>key: role.policy.customer_group.edit</note>
+      </trans-unit>
+      <trans-unit id="24d592ca917cb069849dd655cf9c48293bb7e3c1" resname="role.policy.customer_group.view">
+        <source>Customer Group / View</source>
+        <target>crwdns264094:0crwdne264094:0</target>
+        <note>key: role.policy.customer_group.view</note>
+      </trans-unit>
+      <trans-unit id="f8af6833d99ffb0184d98ec0a984fa3229693af4" resname="role.policy.product">
+        <source>Product</source>
+        <target>crwdns264096:0crwdne264096:0</target>
+        <note>key: role.policy.product</note>
+      </trans-unit>
+      <trans-unit id="fbdc425c2a0a2d696e378c83bdd97e908de1fec9" resname="role.policy.product.all_functions">
+        <source>Product / All functions</source>
+        <target>crwdns264098:0crwdne264098:0</target>
+        <note>key: role.policy.product.all_functions</note>
+      </trans-unit>
+      <trans-unit id="7b07e310db09008272a277766dc242f872bd86a5" resname="role.policy.product.create">
+        <source>Product / Create</source>
+        <target>crwdns264100:0crwdne264100:0</target>
+        <note>key: role.policy.product.create</note>
+      </trans-unit>
+      <trans-unit id="84f7eebccd0ee967723c472d2d8705b8c31ec071" resname="role.policy.product.delete">
+        <source>Product / Delete</source>
+        <target>crwdns264102:0crwdne264102:0</target>
+        <note>key: role.policy.product.delete</note>
+      </trans-unit>
+      <trans-unit id="affc63805a89db08aea4669b900c2dfe405e2756" resname="role.policy.product.edit">
+        <source>Product / Edit</source>
+        <target>crwdns264104:0crwdne264104:0</target>
+        <note>key: role.policy.product.edit</note>
+      </trans-unit>
+      <trans-unit id="398a24b5e722cb05e8523c1c2c5e5e5bd7cb0637" resname="role.policy.product.view">
+        <source>Product / View</source>
+        <target>crwdns264106:0crwdne264106:0</target>
+        <note>key: role.policy.product.view</note>
+      </trans-unit>
+      <trans-unit id="363c8eef46263015281d7d7b3b82f6e174da3b45" resname="role.policy.product_type">
+        <source>Product Type</source>
+        <target>crwdns264108:0crwdne264108:0</target>
+        <note>key: role.policy.product_type</note>
+      </trans-unit>
+      <trans-unit id="166efe5c95e9e566d91365300bdbb10c055efccd" resname="role.policy.product_type.all_functions">
+        <source>Product Type / All functions</source>
+        <target>crwdns264110:0crwdne264110:0</target>
+        <note>key: role.policy.product_type.all_functions</note>
+      </trans-unit>
+      <trans-unit id="b33796576af978f3b6f8649a74c4810bde23eed1" resname="role.policy.product_type.create">
+        <source>Product Type / Create</source>
+        <target>crwdns264112:0crwdne264112:0</target>
+        <note>key: role.policy.product_type.create</note>
+      </trans-unit>
+      <trans-unit id="7da7c8e897757512eee1e32cbd44aacffb67a4f9" resname="role.policy.product_type.delete">
+        <source>Product Type / Delete</source>
+        <target>crwdns264114:0crwdne264114:0</target>
+        <note>key: role.policy.product_type.delete</note>
+      </trans-unit>
+      <trans-unit id="4ef2f329a551dac823ad95fa7579b3b78db83a0b" resname="role.policy.product_type.edit">
+        <source>Product Type / Edit</source>
+        <target>crwdns264116:0crwdne264116:0</target>
+        <note>key: role.policy.product_type.edit</note>
+      </trans-unit>
+      <trans-unit id="60dfe8cdc2e019be786afee8fb967f4a1dbd44ee" resname="role.policy.product_type.view">
+        <source>Product Type / View</source>
+        <target>crwdns264118:0crwdne264118:0</target>
+        <note>key: role.policy.product_type.view</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
