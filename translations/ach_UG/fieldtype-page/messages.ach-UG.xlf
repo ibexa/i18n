@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="a4a4af14149baeec06c2e212202b0e9b863e964c" resname="Could not find Page for '%identifier%'">
+        <source>Could not find Page for '%identifier%'</source>
+        <target>crwdns262070:0%identifier%crwdne262070:0</target>
+        <note>key: Could not find Page for '%identifier%'</note>
+      </trans-unit>
+      <trans-unit id="2c2ed6384cc0f144856a569e8420e413c2d06986" resname="landing_page_ft.settings.edit_mode.field_view">
+        <source>Field view</source>
+        <target>crwdns262072:0crwdne262072:0</target>
+        <note>key: landing_page_ft.settings.edit_mode.field_view</note>
+      </trans-unit>
+      <trans-unit id="dfbdf2660cd09c69b8c1a565096d15b7bcd48b33" resname="landing_page_ft.settings.edit_mode.page_view">
+        <source>Page view</source>
+        <target>crwdns262074:0crwdne262074:0</target>
+        <note>key: landing_page_ft.settings.edit_mode.page_view</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
