@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="20ac9753abf3ecf3185fec732493ca1d8ad2786a" resname="ibexa.attribute_definition.identifier.pattern">
+        <source>Attribute identifier may only contain letters from "a" to "z", numbers and underscores.</source>
+        <target>crwdns265126:0crwdne265126:0</target>
+        <note>key: ibexa.attribute_definition.identifier.pattern</note>
+      </trans-unit>
+      <trans-unit id="1af99fa409d6e46b8db4a5d98a3f0e95cb98ee30" resname="ibexa.attribute_definition.identifier.unique">
+        <source>Attribute Definition identifier must be unique</source>
+        <target>crwdns265128:0crwdne265128:0</target>
+        <note>key: ibexa.attribute_definition.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="d7d6303a3a3aab28bec181e65eca4df75853c747" resname="ibexa.attribute_group.identifier.pattern">
+        <source>Attribute Group identifier may only contain letters from "a" to "z", numbers and underscores.</source>
+        <target>crwdns265130:0crwdne265130:0</target>
+        <note>key: ibexa.attribute_group.identifier.pattern</note>
+      </trans-unit>
+      <trans-unit id="30a1ea4d6db2f84559296e1531f12730e60fba9f" resname="ibexa.attribute_group.identifier.unique">
+        <source>Attribute Group identifier must be unique</source>
+        <target>crwdns265132:0crwdne265132:0</target>
+        <note>key: ibexa.attribute_group.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="d477c467cf078910e203c881e4c5b7e22bd10e97" resname="ibexa.catalog.identifier.unique">
+        <source>Catalog identifier must be unique</source>
+        <target>crwdns265134:0crwdne265134:0</target>
+        <note>key: ibexa.catalog.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="6a598deb8cd890fbddf41b75e3af24456160225b" resname="ibexa.catalog.language.at_least_one">
+        <source>Cannot remove all translations from the Catalog</source>
+        <target>crwdns265136:0crwdne265136:0</target>
+        <note>key: ibexa.catalog.language.at_least_one</note>
+      </trans-unit>
+      <trans-unit id="cb667a4a576b67fe914cfbe6c2d47ccca3825ca1" resname="ibexa.currency.code.unique">
+        <source>Currency code must be unique</source>
+        <target>crwdns265138:0crwdne265138:0</target>
+        <note>key: ibexa.currency.code.unique</note>
+      </trans-unit>
+      <trans-unit id="5ac6c8a245f28a72d878c892e77a538ffbb8c833" resname="ibexa.customer_group.identifier.pattern">
+        <source>Customer Group identifier may only contain letters from "a" to "z", numbers and underscores.</source>
+        <target>crwdns265140:0crwdne265140:0</target>
+        <note>key: ibexa.customer_group.identifier.pattern</note>
+      </trans-unit>
+      <trans-unit id="6c107745eadbe45c3f9c09ee8078301b9d530c01" resname="ibexa.customer_group.identifier.unique">
+        <source>Customer Group identifier must be unique</source>
+        <target>crwdns265142:0crwdne265142:0</target>
+        <note>key: ibexa.customer_group.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="471d1ffe749cac120c3e672f8dd33ce8a3bad09d" resname="ibexa.product.attribute.value.valid">
+        <source>Attribute value is invalid</source>
+        <target>crwdns265144:0crwdne265144:0</target>
+        <note>key: ibexa.product.attribute.value.valid</note>
+      </trans-unit>
+      <trans-unit id="902f3863f0cecc17c353f9848cd490fd1d645359" resname="ibexa.product.attribute_definition.options.valid">
+        <source>Attribute Definition options are invalid</source>
+        <target>crwdns265146:0crwdne265146:0</target>
+        <note>key: ibexa.product.attribute_definition.options.valid</note>
+      </trans-unit>
+      <trans-unit id="fc275ce0b2056dc990f65cc5ae2ef50322469497" resname="ibexa.product.code.length">
+        <source>Product code is too long. It should have :max_length characters or less</source>
+        <target>crwdns265148:0crwdne265148:0</target>
+        <note>key: ibexa.product.code.length</note>
+      </trans-unit>
+      <trans-unit id="30735161edf3e8a1199008948f9ec9de7cd19905" resname="ibexa.product.code.pattern">
+        <source>Product code may only contain letters from "a" to "z", numbers, underscores and dashes.</source>
+        <target>crwdns265150:0crwdne265150:0</target>
+        <note>key: ibexa.product.code.pattern</note>
+      </trans-unit>
+      <trans-unit id="f2bd5943d15a04ffb8281a5f1889225a47a3f573" resname="ibexa.product.code.required">
+        <source>Product code is required</source>
+        <target>crwdns265152:0crwdne265152:0</target>
+        <note>key: ibexa.product.code.required</note>
+      </trans-unit>
+      <trans-unit id="ef81329813d4599f93674fc76504717929410434" resname="ibexa.product.code.unique">
+        <source>Product code must be unique</source>
+        <target>crwdns265154:0crwdne265154:0</target>
+        <note>key: ibexa.product.code.unique</note>
+      </trans-unit>
+      <trans-unit id="2733cb9e5a80cd57184147828549faa5933d9984" resname="ibexa.product.variant.attributes.unique">
+        <source>Attribute combination already exists in Product Variant %product_variant_code%</source>
+        <target>crwdns265156:0%product_variant_code%crwdne265156:0</target>
+        <note>key: ibexa.product.variant.attributes.unique</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
