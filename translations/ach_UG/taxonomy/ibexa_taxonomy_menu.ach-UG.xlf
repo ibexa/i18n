@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="a4b74c374dab95820dff68597fe3e29ffb8f780c" resname="taxonomy_content_create__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target>crwdns265964:0crwdne265964:0</target>
+        <note>key: taxonomy_content_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="a4d28282a4e4ace2fddc5effdae9db6aa6c3afcd" resname="taxonomy_content_create__sidebar_right__publish">
+        <source>Save</source>
+        <target>crwdns265966:0crwdne265966:0</target>
+        <note>key: taxonomy_content_create__sidebar_right__publish</note>
+      </trans-unit>
+      <trans-unit id="1ee5921eaaba8ee0bb410a55185e18bd4e2e340b" resname="taxonomy_content_edit__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target>crwdns265968:0crwdne265968:0</target>
+        <note>key: taxonomy_content_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="6e74eab153976f97777cf709f49589e00c09fba9" resname="taxonomy_content_edit__sidebar_right__publish">
+        <source>Save</source>
+        <target>crwdns265970:0crwdne265970:0</target>
+        <note>key: taxonomy_content_edit__sidebar_right__publish</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
