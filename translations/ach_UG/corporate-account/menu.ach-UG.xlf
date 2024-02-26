@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="b8e18a121a5a126029e6318b7769b1912fb6980a" resname="customer_portal__account_settings">
+        <source>Settings</source>
+        <target>crwdns261684:0crwdne261684:0</target>
+        <note>key: customer_portal__account_settings</note>
+      </trans-unit>
+      <trans-unit id="797de736e8e87ef43e283efb03f4df7d5d25a00c" resname="customer_portal__account_settings__my_profile">
+        <source>My Profile</source>
+        <target>crwdns261686:0crwdne261686:0</target>
+        <note>key: customer_portal__account_settings__my_profile</note>
+      </trans-unit>
+      <trans-unit id="f33087e36f780a7a7762a03dad4e220245d35b2c" resname="customer_portal__dashboard">
+        <source>Dashboard</source>
+        <target>crwdns261688:0crwdne261688:0</target>
+        <note>key: customer_portal__dashboard</note>
+      </trans-unit>
+      <trans-unit id="0c7336855c87312e5401c4a135e17c27069eb5a0" resname="customer_portal__order_management">
+        <source>Order Management</source>
+        <target>crwdns261690:0crwdne261690:0</target>
+        <note>key: customer_portal__order_management</note>
+      </trans-unit>
+      <trans-unit id="7046d195ad90d74bd72643bcc18dccaeb1a58874" resname="customer_portal__order_management__past_orders">
+        <source>Past Orders</source>
+        <target>crwdns261692:0crwdne261692:0</target>
+        <note>key: customer_portal__order_management__past_orders</note>
+      </trans-unit>
+      <trans-unit id="1de8f0dda8cdb6974f3ad67f8555b47fc6905818" resname="customer_portal__order_management__pending_orders">
+        <source>Pending Order</source>
+        <target>crwdns261694:0crwdne261694:0</target>
+        <note>key: customer_portal__order_management__pending_orders</note>
+      </trans-unit>
+      <trans-unit id="448318fa3af29106ac205a386f8f2f75fca4f230" resname="customer_portal__organization">
+        <source>Organization</source>
+        <target>crwdns261696:0crwdne261696:0</target>
+        <note>key: customer_portal__organization</note>
+      </trans-unit>
+      <trans-unit id="5fcb7aad323aa4d54420819fffa7a64c6ef4a325" resname="customer_portal__organization__address_book">
+        <source>Address Book</source>
+        <target>crwdns261698:0crwdne261698:0</target>
+        <note>key: customer_portal__organization__address_book</note>
+      </trans-unit>
+      <trans-unit id="947808f69abaca65fe36e78ff9b68efd56fe5c46" resname="customer_portal__organization__contact">
+        <source>Contact</source>
+        <target>crwdns261700:0crwdne261700:0</target>
+        <note>key: customer_portal__organization__contact</note>
+      </trans-unit>
+      <trans-unit id="d9785980b899b3b7ba84121b3bf49720d362bb1d" resname="customer_portal__organization__members">
+        <source>Members</source>
+        <target>crwdns261702:0crwdne261702:0</target>
+        <note>key: customer_portal__organization__members</note>
+      </trans-unit>
+      <trans-unit id="1268cef29e1976872a40640cfa1f845bc11c7995" resname="main__content__corporateaccount">
+        <source>Corporate</source>
+        <target>crwdns261704:0crwdne261704:0</target>
+        <note>key: main__content__corporateaccount</note>
+      </trans-unit>
+      <trans-unit id="f0f9efa7cb6f487bb8a15f6e4b81991e5447c99a" resname="main__corporateaccount">
+        <source>Members</source>
+        <target>crwdns261706:0crwdne261706:0</target>
+        <note>key: main__corporateaccount</note>
+      </trans-unit>
+      <trans-unit id="cd0b713549681ad5fc76eb22b02c664b017f7528" resname="main__corporateaccount__applications">
+        <source>Applications</source>
+        <target>crwdns261708:0crwdne261708:0</target>
+        <note>key: main__corporateaccount__applications</note>
+      </trans-unit>
+      <trans-unit id="de510ce299f61480d5fba13e1f98ecb5b309f22d" resname="main__corporateaccount__companies">
+        <source>Companies</source>
+        <target>crwdns261710:0crwdne261710:0</target>
+        <note>key: main__corporateaccount__companies</note>
+      </trans-unit>
+      <trans-unit id="a16131f7937e64e52a0373077db79502c9cba327" resname="main__corporateaccount__individuals">
+        <source>Individuals</source>
+        <target>crwdns261712:0crwdne261712:0</target>
+        <note>key: main__corporateaccount__individuals</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
