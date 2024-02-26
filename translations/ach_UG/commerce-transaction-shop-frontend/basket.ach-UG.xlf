@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="f465487145b82439de201ec0f302c76c3f71bf77" resname="accordion_navigation_content">
+        <source>Use the %type% to store items for later.</source>
+        <target>crwdns260402:0%type%crwdne260402:0</target>
+        <note>key: accordion_navigation_content</note>
+      </trans-unit>
+      <trans-unit id="92d7e9f9b9a95e1f21534cb992b30abdc1721954" resname="add_all_to_basket">
+        <source>Add all items to basket</source>
+        <target>crwdns260404:0crwdne260404:0</target>
+        <note>key: add_all_to_basket</note>
+      </trans-unit>
+      <trans-unit id="6c8a8ec4c48f4606b8d73b65efeaa1d814aee20b" resname="add_to_basket">
+        <source>Add to basket</source>
+        <target>crwdns260406:0crwdne260406:0</target>
+        <note>key: add_to_basket</note>
+      </trans-unit>
+      <trans-unit id="59bd0a3ff43b32849b319e645d4798d8a5d1e889" resname="info">
+        <source>Info</source>
+        <target>crwdns260408:0crwdne260408:0</target>
+        <note>key: info</note>
+      </trans-unit>
+      <trans-unit id="546d0f495d98dbf31416da2e545656180dd41441" resname="min_quantity">
+        <source>Min quantity</source>
+        <target>crwdns260410:0crwdne260410:0</target>
+        <note>key: min_quantity</note>
+      </trans-unit>
+      <trans-unit id="b29439f90a1f1fdef8df8a91d4096649c4ac445b" resname="msg.no_order_permissions">
+        <source>You don't have the permission(s) to order.</source>
+        <target>crwdns260412:0crwdne260412:0</target>
+        <note>key: msg.no_order_permissions</note>
+      </trans-unit>
+      <trans-unit id="5bba187b42b94eb8387fd8390a6c0b0e1d1c5ac2" resname="my_stored_baskets">
+        <source>My stored baskets</source>
+        <target>crwdns260414:0crwdne260414:0</target>
+        <note>key: my_stored_baskets</note>
+      </trans-unit>
+      <trans-unit id="b34e882f4c50324899f2950735ae8cc48dd11d21" resname="my_stored_baskets_desc">
+        <source>You can view or remove stored baskets.</source>
+        <target>crwdns260416:0crwdne260416:0</target>
+        <note>key: my_stored_baskets_desc</note>
+      </trans-unit>
+      <trans-unit id="63e83470db107c85795db0b0400341cf453c10b9" resname="not_available_product_message">
+        <source>This product is not available any more! You can delete it here</source>
+        <target>crwdns260418:0crwdne260418:0</target>
+        <note>key: not_available_product_message</note>
+      </trans-unit>
+      <trans-unit id="38a007151abe87cc01a5b6e9cc418e85286e2087" resname="product">
+        <source>Product</source>
+        <target>crwdns260420:0crwdne260420:0</target>
+        <note>key: product</note>
+      </trans-unit>
+      <trans-unit id="6a4060f4d918aedaae3c50700276eefc61720dad" resname="quantity">
+        <source>Quantity</source>
+        <target>crwdns260422:0crwdne260422:0</target>
+        <note>key: quantity</note>
+      </trans-unit>
+      <trans-unit id="716ea20b69ac666679092c4e5e4a313c1622632f" resname="remove_product">
+        <source>Remove product from %basketType%</source>
+        <target>crwdns260424:0%basketType%crwdne260424:0</target>
+        <note>key: remove_product</note>
+      </trans-unit>
+      <trans-unit id="cf559ae3526e08d2bf8526eb199d6a7115abe2d2" resname="sku">
+        <source>SKU</source>
+        <target>crwdns260426:0crwdne260426:0</target>
+        <note>key: sku</note>
+      </trans-unit>
+      <trans-unit id="ed487e1e87c675af89db011b2903f20f99b11c7d" resname="stock">
+        <source>Stock</source>
+        <target>crwdns260428:0crwdne260428:0</target>
+        <note>key: stock</note>
+      </trans-unit>
+      <trans-unit id="b7304ae7d712baa91b98553f04ef7957863a9a3f" resname="stored_baskets_empty">
+        <source>You have no stored baskets</source>
+        <target>crwdns260430:0crwdne260430:0</target>
+        <note>key: stored_baskets_empty</note>
+      </trans-unit>
+      <trans-unit id="60543b2ee97a7d393158588ba8f6a3f04cad24a4" resname="table_basket_name">
+        <source>Basket name</source>
+        <target>crwdns260432:0crwdne260432:0</target>
+        <note>key: table_basket_name</note>
+      </trans-unit>
+      <trans-unit id="733173c27a3a8d0a592e9853d87a5691c3e6e232" resname="table_date">
+        <source>Date</source>
+        <target>crwdns260434:0crwdne260434:0</target>
+        <note>key: table_date</note>
+      </trans-unit>
+      <trans-unit id="6a6018bb4be749fba4aaae329344d0b464de5c0b" resname="table_number_of_products">
+        <source>Number of products</source>
+        <target>crwdns260436:0crwdne260436:0</target>
+        <note>key: table_number_of_products</note>
+      </trans-unit>
+      <trans-unit id="2e3282618806683267e314868a1a8acbe3402733" resname="table_remove">
+        <source>Remove</source>
+        <target>crwdns260438:0crwdne260438:0</target>
+        <note>key: table_remove</note>
+      </trans-unit>
+      <trans-unit id="05090afb2cc702f3b4119fe1c661f825bbda4d60" resname="total_price">
+        <source>Total price</source>
+        <target>crwdns260440:0crwdne260440:0</target>
+        <note>key: total_price</note>
+      </trans-unit>
+      <trans-unit id="134748a492d7319945a51c75366ebc37be0c19d3" resname="unit_price">
+        <source>Unit price Inc. VAT</source>
+        <target>crwdns260442:0crwdne260442:0</target>
+        <note>key: unit_price</note>
+      </trans-unit>
+      <trans-unit id="d5ae5f80324192e95876cf478f1d72fe0086f1a1" resname="variant_code">
+        <source>Variant code</source>
+        <target>crwdns260444:0crwdne260444:0</target>
+        <note>key: variant_code</note>
+      </trans-unit>
+      <trans-unit id="e711a1dffcddbf0a85649efd36e1ab10d0815c65" resname="wishlist.empty_basket">
+        <source>Your %basketType% is empty!</source>
+        <target>crwdns260446:0%basketType%crwdne260446:0</target>
+        <note>key: wishlist.empty_basket</note>
+      </trans-unit>
+      <trans-unit id="aac9a855adecef7fa03b80a9c2e8af08cb5954f0" resname="wishlist.exclude">
+        <source>Excl.</source>
+        <target>crwdns260448:0crwdne260448:0</target>
+        <note>key: wishlist.exclude</note>
+      </trans-unit>
+      <trans-unit id="fd700dca1c123acc0af058394cbaad5199525f9a" resname="wishlist.included">
+        <source>Inc.</source>
+        <target>crwdns260450:0crwdne260450:0</target>
+        <note>key: wishlist.included</note>
+      </trans-unit>
+      <trans-unit id="366a49a54470e03468b3b68d72b0e62c64e6169e" resname="wishlist.plus">
+        <source>plus</source>
+        <target>crwdns260452:0crwdne260452:0</target>
+        <note>key: wishlist.plus</note>
+      </trans-unit>
+      <trans-unit id="2052dd0e5d380bb6964dbe0aa03bfe0befb55e16" resname="wishlist.thereof">
+        <source>thereof</source>
+        <target>crwdns260454:0crwdne260454:0</target>
+        <note>key: wishlist.thereof</note>
+      </trans-unit>
+      <trans-unit id="7243b72318b4bba1ba85e370e82ee85ddc28698c" resname="wishlist.title">
+        <source>wishList</source>
+        <target>crwdns260456:0crwdne260456:0</target>
+        <note>key: wishlist.title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
