@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="822d7184d659e0b1d639309dfe15ec0d886b81d2" resname="content_draft_create_type.create">
+        <source>Create</source>
+        <target>crwdns254624:0crwdne254624:0</target>
+        <note>key: content_draft_create_type.create</note>
+      </trans-unit>
+      <trans-unit id="c5edf119facebac72a105963da8db6be47549180" resname="content_location_add_type.add">
+        <source>Add Location</source>
+        <target>crwdns254626:0crwdne254626:0</target>
+        <note>key: content_location_add_type.add</note>
+      </trans-unit>
+      <trans-unit id="9e3c743fb052b12d69896a30ee9a6e1bb0c41427" resname="content_location_remove_form.remove">
+        <source>Delete</source>
+        <target>crwdns254628:0crwdne254628:0</target>
+        <note>key: content_location_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="170014b0ac524520dfb1336f7a5ff2f50ddceba3" resname="content_translation_add_form.add">
+        <source>Create</source>
+        <target>crwdns254630:0crwdne254630:0</target>
+        <note>key: content_translation_add_form.add</note>
+      </trans-unit>
+      <trans-unit id="0c3800a29144ab27e80a81e100212ccd5fd7e509" resname="content_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target>crwdns254632:0crwdne254632:0</target>
+        <note>key: content_translation_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="2c32d3b89f20704d8a78092c617310a52b22008c" resname="content_type.copy.copy">
+        <source>Create</source>
+        <target>crwdns254634:0crwdne254634:0</target>
+        <note>key: content_type.copy.copy</note>
+      </trans-unit>
+      <trans-unit id="4c29e9392116163c51f0e3d4d0c08ff96717f695" resname="content_type_groups_delete_form.delete">
+        <source>Delete Content Type groups</source>
+        <target>crwdns254636:0crwdne254636:0</target>
+        <note>key: content_type_groups_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="5f7545e2c370cd0511521d95d0309d264b5d16e5" resname="content_types_delete_form.delete">
+        <source>Delete Content Types</source>
+        <target>crwdns254638:0crwdne254638:0</target>
+        <note>key: content_types_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled">
+        <source>Enabled</source>
+        <target>crwdns254640:0crwdne254640:0</target>
+        <note>key: ezplatform.language.create.enabled</note>
+      </trans-unit>
+      <trans-unit id="74b72ba5150cd449b231ca3441626aa46bd4622f" resname="ezplatform.language.create.language_code">
+        <source>Language code</source>
+        <target>crwdns254642:0crwdne254642:0</target>
+        <note>key: ezplatform.language.create.language_code</note>
+      </trans-unit>
+      <trans-unit id="7e920869e5863044fa54ffb855890d4e53f42c6b" resname="ezplatform.language.create.name">
+        <source>Name</source>
+        <target>crwdns254644:0crwdne254644:0</target>
+        <note>key: ezplatform.language.create.name</note>
+      </trans-unit>
+      <trans-unit id="ffd97ca1026795d6942cdff21e76596229baa2dd" resname="ezplatform.language.create.save">
+        <source>Create</source>
+        <target>crwdns254646:0crwdne254646:0</target>
+        <note>key: ezplatform.language.create.save</note>
+      </trans-unit>
+      <trans-unit id="aaacfc049425d3dc086d5548dac0a2bb2eabe404" resname="ezplatform.language.delete.delete">
+        <source>Delete</source>
+        <target>crwdns254648:0crwdne254648:0</target>
+        <note>key: ezplatform.language.delete.delete</note>
+      </trans-unit>
+      <trans-unit id="8812f90c2fc0831af508c0971285dc125a68efc7" resname="ezplatform.language.update.enabled">
+        <source>Enabled</source>
+        <target>crwdns254650:0crwdne254650:0</target>
+        <note>key: ezplatform.language.update.enabled</note>
+      </trans-unit>
+      <trans-unit id="2ec293c62175282c5a3ff7a75a56093446485dad" resname="ezplatform.language.update.name">
+        <source>Name</source>
+        <target>crwdns254652:0crwdne254652:0</target>
+        <note>key: ezplatform.language.update.name</note>
+      </trans-unit>
+      <trans-unit id="87ed807e48a8c3fc19eba5338ddbaa91df68d19d" resname="ezplatform.language.update.save">
+        <source>Save</source>
+        <target>crwdns254654:0crwdne254654:0</target>
+        <note>key: ezplatform.language.update.save</note>
+      </trans-unit>
+      <trans-unit id="1a2cc7b7518a1267208aafa8aa96d1dba950eeb1" resname="form.has_children.label">
+        <source>Sub-items</source>
+        <target>crwdns254656:0crwdne254656:0</target>
+        <note>key: form.has_children.label</note>
+      </trans-unit>
+      <trans-unit id="80d979ff2734a875fcd38a2178e4d28c8bf0afb5" resname="form.has_reverse_relation.label">
+        <source>Conflict with reverse Relations</source>
+        <target>crwdns254658:0crwdne254658:0</target>
+        <note>key: form.has_reverse_relation.label</note>
+      </trans-unit>
+      <trans-unit id="4a2eb58572364b0fa04e67a800e0fbb09df205be" resname="form.trash_assets.label">
+        <source>Asset Fields(s)</source>
+        <target>crwdns254660:0crwdne254660:0</target>
+        <note>key: form.trash_assets.label</note>
+      </trans-unit>
+      <trans-unit id="6bc8ac1fbf981deec94bd4a2b8aa877d60eee651" resname="form.trash_assets_non_unique.label">
+        <source>Asset Fields(s)</source>
+        <target>crwdns254662:0crwdne254662:0</target>
+        <note>key: form.trash_assets_non_unique.label</note>
+      </trans-unit>
+      <trans-unit id="a1e42d4c649f7fbb614729978fea692be51d1485" resname="languages_delete_form.delete">
+        <source>Delete languages</source>
+        <target>crwdns254664:0crwdne254664:0</target>
+        <note>key: languages_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="e1f039c692df803a42d90f2bcd4f763623241bb2" resname="location_copy.copy">
+        <source>Copy</source>
+        <target>crwdns254666:0crwdne254666:0</target>
+        <note>key: location_copy.copy</note>
+      </trans-unit>
+      <trans-unit id="9e312a8bdc3e0fbfab7bab370f59cb5e44a9af2f" resname="location_move.move">
+        <source>Move</source>
+        <target>crwdns254668:0crwdne254668:0</target>
+        <note>key: location_move.move</note>
+      </trans-unit>
+      <trans-unit id="4b7b2b4de853db0d1fb1851e07f3ccc51e5713fc" resname="location_trash_form.default_trash">
+        <source>Send only this Content item to Trash</source>
+        <target>crwdns254670:0crwdne254670:0</target>
+        <note>key: location_trash_form.default_trash</note>
+      </trans-unit>
+      <trans-unit id="796f8196b2bc086fe788e6689a6189c79b8e047e" resname="location_trash_form.trash">
+        <source>Send to Trash</source>
+        <target>crwdns254672:0crwdne254672:0</target>
+        <note>key: location_trash_form.trash</note>
+      </trans-unit>
+      <trans-unit id="2598fe0050f38f3c02014a404ed14aee248e27d1" resname="location_trash_form.trash_with_asset">
+        <source>Send the Content item and its related assets to Trash</source>
+        <target>crwdns254674:0crwdne254674:0</target>
+        <note>key: location_trash_form.trash_with_asset</note>
+      </trans-unit>
+      <trans-unit id="f86cd366867d370b0706e250355f605e2b783229" resname="policies_delete_form.delete">
+        <source>Delete Policies</source>
+        <target>crwdns254676:0crwdne254676:0</target>
+        <note>key: policies_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
+        <source>Create</source>
+        <target>crwdns254678:0crwdne254678:0</target>
+        <note>key: policy_create.save</note>
+      </trans-unit>
+      <trans-unit id="deab5c91a76488732d0405e72c36702ed2aea3d6" resname="role.policy.all_functions">
+        <source>All functions</source>
+        <target>crwdns254680:0crwdne254680:0</target>
+        <note>key: role.policy.all_functions</note>
+      </trans-unit>
+      <trans-unit id="d29c07272fff793138cbb6f7dbb41b08a16ff815" resname="role.policy.all_modules">
+        <source>All modules</source>
+        <target>crwdns254682:0crwdne254682:0</target>
+        <note>key: role.policy.all_modules</note>
+      </trans-unit>
+      <trans-unit id="d4690e1d0c7d2cf0468ab5aa04caa891e1b5efbd" resname="role.policy.all_modules_all_functions">
+        <source>All modules / All functions</source>
+        <target>crwdns254684:0crwdne254684:0</target>
+        <note>key: role.policy.all_modules_all_functions</note>
+      </trans-unit>
+      <trans-unit id="517e3666a759ee26e02fcc468446ef39b3ae9bf0" resname="role.policy.catalog">
+        <source>Catalog</source>
+        <target>crwdns254686:0crwdne254686:0</target>
+        <note>key: role.policy.catalog</note>
+      </trans-unit>
+      <trans-unit id="f0db798b7ae5b93b395d0f688ea80784faddcd6b" resname="role.policy.catalog.all_functions">
+        <source>Catalog / All functions</source>
+        <target>crwdns254688:0crwdne254688:0</target>
+        <note>key: role.policy.catalog.all_functions</note>
+      </trans-unit>
+      <trans-unit id="9bab6251a421ba09e54114cd858abdc9a2a59f55" resname="role.policy.catalog.create">
+        <source>Catalog / Create</source>
+        <target>crwdns254690:0crwdne254690:0</target>
+        <note>key: role.policy.catalog.create</note>
+      </trans-unit>
+      <trans-unit id="6844731afb7e5c4fc7414f157749ca064a82d798" resname="role.policy.catalog.delete">
+        <source>Catalog / Delete</source>
+        <target>crwdns254692:0crwdne254692:0</target>
+        <note>key: role.policy.catalog.delete</note>
+      </trans-unit>
+      <trans-unit id="f3f6d817abf52411d94909850040df8aebaf2c03" resname="role.policy.catalog.edit">
+        <source>Catalog / Edit</source>
+        <target>crwdns254694:0crwdne254694:0</target>
+        <note>key: role.policy.catalog.edit</note>
+      </trans-unit>
+      <trans-unit id="d9ced925ac206beb427c609d73e8adefb43346fb" resname="role.policy.catalog.view">
+        <source>Catalog / View</source>
+        <target>crwdns254696:0crwdne254696:0</target>
+        <note>key: role.policy.catalog.view</note>
+      </trans-unit>
+      <trans-unit id="f52e45b25ff70b3d1d07c57911ceda58dcdf7431" resname="role.policy.class">
+        <source>Content Type</source>
+        <target>crwdns254698:0crwdne254698:0</target>
+        <note>key: role.policy.class</note>
+      </trans-unit>
+      <trans-unit id="2f746c35c587bdc84cacf38d0e63e08855e831ab" resname="role.policy.class.all_functions">
+        <source>Content Type / All functions</source>
+        <target>crwdns254700:0crwdne254700:0</target>
+        <note>key: role.policy.class.all_functions</note>
+      </trans-unit>
+      <trans-unit id="02049080d0f8dea3f723bbd1a280900b0657914e" resname="role.policy.class.create">
+        <source>Content Type / Create</source>
+        <target>crwdns254702:0crwdne254702:0</target>
+        <note>key: role.policy.class.create</note>
+      </trans-unit>
+      <trans-unit id="17ee6a3320ad9ac02c376bdcb875b266c28e34db" resname="role.policy.class.delete">
+        <source>Content Type / Delete</source>
+        <target>crwdns254704:0crwdne254704:0</target>
+        <note>key: role.policy.class.delete</note>
+      </trans-unit>
+      <trans-unit id="f47b14b0adc8b08abd44c37e801d6b2c3180a2ee" resname="role.policy.class.update">
+        <source>Content Type / Update</source>
+        <target>crwdns254706:0crwdne254706:0</target>
+        <note>key: role.policy.class.update</note>
+      </trans-unit>
+      <trans-unit id="3551d9a7a066b2a0941f244fa91f766c089fd063" resname="role.policy.commerce">
+        <source>Commerce</source>
+        <target>crwdns254708:0crwdne254708:0</target>
+        <note>key: role.policy.commerce</note>
+      </trans-unit>
+      <trans-unit id="b5a03c317caa2abbc2a833f7a1bd96dabe75f707" resname="role.policy.commerce.all_functions">
+        <source>Commerce / All functions</source>
+        <target>crwdns254710:0crwdne254710:0</target>
+        <note>key: role.policy.commerce.all_functions</note>
+      </trans-unit>
+      <trans-unit id="2bec0e366dfe740a1a13ef2b4186513711075983" resname="role.policy.commerce.currency">
+        <source>Commerce / Currency</source>
+        <target>crwdns254712:0crwdne254712:0</target>
+        <note>key: role.policy.commerce.currency</note>
+      </trans-unit>
+      <trans-unit id="fbf8fcb1c05ac737e68351c0a85682ac6a4bef6e" resname="role.policy.commerce.region">
+        <source>Commerce / Region</source>
+        <target>crwdns254714:0crwdne254714:0</target>
+        <note>key: role.policy.commerce.region</note>
+      </trans-unit>
+      <trans-unit id="504ce9f80e074eeb880d5ae5f54d4811e2ab6862" resname="role.policy.comparison">
+        <source>Comparison</source>
+        <target>crwdns254716:0crwdne254716:0</target>
+        <note>key: role.policy.comparison</note>
+      </trans-unit>
+      <trans-unit id="aa75e405b40b2c0fb249bbcc690de4e409191dd4" resname="role.policy.comparison.all_functions">
+        <source>Comparison / All functions</source>
+        <target>crwdns254718:0crwdne254718:0</target>
+        <note>key: role.policy.comparison.all_functions</note>
+      </trans-unit>
+      <trans-unit id="0a08a017bb100a4d45400bc82e83c84a89252586" resname="role.policy.comparison.view">
+        <source>Comparison / View</source>
+        <target>crwdns254720:0crwdne254720:0</target>
+        <note>key: role.policy.comparison.view</note>
+      </trans-unit>
+      <trans-unit id="ffe83a713e8b33558df040efa1eeadd0b1cc18e0" resname="role.policy.content">
+        <source>Content</source>
+        <target>crwdns254722:0crwdne254722:0</target>
+        <note>key: role.policy.content</note>
+      </trans-unit>
+      <trans-unit id="ea72f76a43bc0ec3eff965e68279dab5597b19c0" resname="role.policy.content.all_functions">
+        <source>Content / All functions</source>
+        <target>crwdns254724:0crwdne254724:0</target>
+        <note>key: role.policy.content.all_functions</note>
+      </trans-unit>
+      <trans-unit id="e050709df5ae56b1e9168038182f4c52221ffab9" resname="role.policy.content.cleantrash">
+        <source>Content / Cleantrash</source>
+        <target>crwdns254726:0crwdne254726:0</target>
+        <note>key: role.policy.content.cleantrash</note>
+      </trans-unit>
+      <trans-unit id="597c25abf1e2d91e50b82d2699f8b85f68c9f305" resname="role.policy.content.create">
+        <source>Content / Create</source>
+        <target>crwdns254728:0crwdne254728:0</target>
+        <note>key: role.policy.content.create</note>
+      </trans-unit>
+      <trans-unit id="019bae55ae37c03117c05eb25cc208e9b2396827" resname="role.policy.content.diff">
+        <source>Content / Diff</source>
+        <target>crwdns254730:0crwdne254730:0</target>
+        <note>key: role.policy.content.diff</note>
+      </trans-unit>
+      <trans-unit id="bdb3e6e10d770d20ffa7966acb58d3e9cf9805e2" resname="role.policy.content.edit">
+        <source>Content / Edit</source>
+        <target>crwdns254732:0crwdne254732:0</target>
+        <note>key: role.policy.content.edit</note>
+      </trans-unit>
+      <trans-unit id="1049e14eb7fec2dc053571f607e0eb044a06e455" resname="role.policy.content.hide">
+        <source>Content / Hide</source>
+        <target>crwdns254734:0crwdne254734:0</target>
+        <note>key: role.policy.content.hide</note>
+      </trans-unit>
+      <trans-unit id="d05f0b35c91f7d444c466871ff02886d74dc8f55" resname="role.policy.content.manage_locations">
+        <source>Content / Manage locations</source>
+        <target>crwdns254736:0crwdne254736:0</target>
+        <note>key: role.policy.content.manage_locations</note>
+      </trans-unit>
+      <trans-unit id="0c943bab11cd582ac439e67289d4efd86d8599e7" resname="role.policy.content.pendinglist">
+        <source>Content / Pendinglist</source>
+        <target>crwdns254738:0crwdne254738:0</target>
+        <note>key: role.policy.content.pendinglist</note>
+      </trans-unit>
+      <trans-unit id="6f595f392af03d8b2e46449d527530e3e1f8eb94" resname="role.policy.content.publish">
+        <source>Content / Publish</source>
+        <target>crwdns254740:0crwdne254740:0</target>
+        <note>key: role.policy.content.publish</note>
+      </trans-unit>
+      <trans-unit id="2b5e52d4783100540d791657f21d9dc1a9fbbb30" resname="role.policy.content.read">
+        <source>Content / Read</source>
+        <target>crwdns254742:0crwdne254742:0</target>
+        <note>key: role.policy.content.read</note>
+      </trans-unit>
+      <trans-unit id="967c7d2238b619a63fd0fe00bc0ccd4589e9de4f" resname="role.policy.content.remove">
+        <source>Content / Remove</source>
+        <target>crwdns254744:0crwdne254744:0</target>
+        <note>key: role.policy.content.remove</note>
+      </trans-unit>
+      <trans-unit id="4ce8821efab15ebdd683e28f0dcffaa352d1ef0f" resname="role.policy.content.restore">
+        <source>Content / Restore</source>
+        <target>crwdns254746:0crwdne254746:0</target>
+        <note>key: role.policy.content.restore</note>
+      </trans-unit>
+      <trans-unit id="7ad7cd36512ca57f6d6cb31b7de0740d4754961c" resname="role.policy.content.reverserelatedlist">
+        <source>Content / Reverserelatedlist</source>
+        <target>crwdns254748:0crwdne254748:0</target>
+        <note>key: role.policy.content.reverserelatedlist</note>
+      </trans-unit>
+      <trans-unit id="c9a69e432793ed3480c2252f3ca1b4e6564e853e" resname="role.policy.content.translate">
+        <source>Content / Translate</source>
+        <target>crwdns254750:0crwdne254750:0</target>
+        <note>key: role.policy.content.translate</note>
+      </trans-unit>
+      <trans-unit id="3f9650d96394bc9e6d53360117d2dd3d6842735f" resname="role.policy.content.translations">
+        <source>Content / Translations</source>
+        <target>crwdns254752:0crwdne254752:0</target>
+        <note>key: role.policy.content.translations</note>
+      </trans-unit>
+      <trans-unit id="74ccbb06e1226201f9642eefa451b67360a4145b" resname="role.policy.content.unlock">
+        <source>Content / Unlock</source>
+        <target>crwdns254754:0crwdne254754:0</target>
+        <note>key: role.policy.content.unlock</note>
+      </trans-unit>
+      <trans-unit id="79ffa7a2f2449d08574ef7c5b1f447b439db97b2" resname="role.policy.content.urltranslator">
+        <source>Content / Urltranslator</source>
+        <target>crwdns254756:0crwdne254756:0</target>
+        <note>key: role.policy.content.urltranslator</note>
+      </trans-unit>
+      <trans-unit id="0a641d7ab31b48b6b87a9d2cd4763afae237219d" resname="role.policy.content.versionread">
+        <source>Content / Versionread</source>
+        <target>crwdns254758:0crwdne254758:0</target>
+        <note>key: role.policy.content.versionread</note>
+      </trans-unit>
+      <trans-unit id="4e615fcc14a6f5b70fb3e7957518c27bc508d92f" resname="role.policy.content.versionremove">
+        <source>Content / Versionremove</source>
+        <target>crwdns254760:0crwdne254760:0</target>
+        <note>key: role.policy.content.versionremove</note>
+      </trans-unit>
+      <trans-unit id="81703573067457c42db3d0c8cce70e1d1e0128a5" resname="role.policy.content.view_embed">
+        <source>Content / View embed</source>
+        <target>crwdns254762:0crwdne254762:0</target>
+        <note>key: role.policy.content.view_embed</note>
+      </trans-unit>
+      <trans-unit id="db177b099d9b5b0999743c67123b420af739ada4" resname="role.policy.customer_group">
+        <source>Customer group</source>
+        <target>crwdns254764:0crwdne254764:0</target>
+        <note>key: role.policy.customer_group</note>
+      </trans-unit>
+      <trans-unit id="6d2cde60346839f94de083cfc7937e437d85d726" resname="role.policy.customer_group.all_functions">
+        <source>Customer group / All functions</source>
+        <target>crwdns254766:0crwdne254766:0</target>
+        <note>key: role.policy.customer_group.all_functions</note>
+      </trans-unit>
+      <trans-unit id="cedd0dc3d0fc2e8b92452b2d3dd0349d945d6896" resname="role.policy.customer_group.create">
+        <source>Customer group / Create</source>
+        <target>crwdns254768:0crwdne254768:0</target>
+        <note>key: role.policy.customer_group.create</note>
+      </trans-unit>
+      <trans-unit id="aa3d667594c6ada5d00ac8577d8956bff773f5bd" resname="role.policy.customer_group.delete">
+        <source>Customer group / Delete</source>
+        <target>crwdns254770:0crwdne254770:0</target>
+        <note>key: role.policy.customer_group.delete</note>
+      </trans-unit>
+      <trans-unit id="77103c77012fbfb57e2f042714bcc8641e51c67c" resname="role.policy.customer_group.edit">
+        <source>Customer group / Edit</source>
+        <target>crwdns254772:0crwdne254772:0</target>
+        <note>key: role.policy.customer_group.edit</note>
+      </trans-unit>
+      <trans-unit id="24d592ca917cb069849dd655cf9c48293bb7e3c1" resname="role.policy.customer_group.view">
+        <source>Customer group / View</source>
+        <target>crwdns254774:0crwdne254774:0</target>
+        <note>key: role.policy.customer_group.view</note>
+      </trans-unit>
+      <trans-unit id="15c3ffad9d90e7d492d275a9ea05ecdcdedaace5" resname="role.policy.personalization">
+        <source>Personalization</source>
+        <target>crwdns254776:0crwdne254776:0</target>
+        <note>key: role.policy.personalization</note>
+      </trans-unit>
+      <trans-unit id="8adcce777544fc53bd13ae39edf718d764867cc2" resname="role.policy.personalization.all_functions">
+        <source>Personalization / All functions</source>
+        <target>crwdns254778:0crwdne254778:0</target>
+        <note>key: role.policy.personalization.all_functions</note>
+      </trans-unit>
+      <trans-unit id="47b6be1f552d856d8dbea0a9956632d310887e11" resname="role.policy.personalization.edit">
+        <source>Personalization / Edit</source>
+        <target>crwdns254780:0crwdne254780:0</target>
+        <note>key: role.policy.personalization.edit</note>
+      </trans-unit>
+      <trans-unit id="bef74c3cccc66abd5825c05aa8f58b020270197f" resname="role.policy.personalization.view">
+        <source>Personalization / View</source>
+        <target>crwdns254782:0crwdne254782:0</target>
+        <note>key: role.policy.personalization.view</note>
+      </trans-unit>
+      <trans-unit id="f8af6833d99ffb0184d98ec0a984fa3229693af4" resname="role.policy.product">
+        <source>Product</source>
+        <target>crwdns254784:0crwdne254784:0</target>
+        <note>key: role.policy.product</note>
+      </trans-unit>
+      <trans-unit id="fbdc425c2a0a2d696e378c83bdd97e908de1fec9" resname="role.policy.product.all_functions">
+        <source>Product / All functions</source>
+        <target>crwdns254786:0crwdne254786:0</target>
+        <note>key: role.policy.product.all_functions</note>
+      </trans-unit>
+      <trans-unit id="7b07e310db09008272a277766dc242f872bd86a5" resname="role.policy.product.create">
+        <source>Product / Create</source>
+        <target>crwdns254788:0crwdne254788:0</target>
+        <note>key: role.policy.product.create</note>
+      </trans-unit>
+      <trans-unit id="84f7eebccd0ee967723c472d2d8705b8c31ec071" resname="role.policy.product.delete">
+        <source>Product / Delete</source>
+        <target>crwdns254790:0crwdne254790:0</target>
+        <note>key: role.policy.product.delete</note>
+      </trans-unit>
+      <trans-unit id="affc63805a89db08aea4669b900c2dfe405e2756" resname="role.policy.product.edit">
+        <source>Product / Edit</source>
+        <target>crwdns254792:0crwdne254792:0</target>
+        <note>key: role.policy.product.edit</note>
+      </trans-unit>
+      <trans-unit id="398a24b5e722cb05e8523c1c2c5e5e5bd7cb0637" resname="role.policy.product.view">
+        <source>Product / View</source>
+        <target>crwdns254794:0crwdne254794:0</target>
+        <note>key: role.policy.product.view</note>
+      </trans-unit>
+      <trans-unit id="363c8eef46263015281d7d7b3b82f6e174da3b45" resname="role.policy.product_type">
+        <source>Product type</source>
+        <target>crwdns254796:0crwdne254796:0</target>
+        <note>key: role.policy.product_type</note>
+      </trans-unit>
+      <trans-unit id="166efe5c95e9e566d91365300bdbb10c055efccd" resname="role.policy.product_type.all_functions">
+        <source>Product type / All functions</source>
+        <target>crwdns254798:0crwdne254798:0</target>
+        <note>key: role.policy.product_type.all_functions</note>
+      </trans-unit>
+      <trans-unit id="b33796576af978f3b6f8649a74c4810bde23eed1" resname="role.policy.product_type.create">
+        <source>Product type / Create</source>
+        <target>crwdns254800:0crwdne254800:0</target>
+        <note>key: role.policy.product_type.create</note>
+      </trans-unit>
+      <trans-unit id="7da7c8e897757512eee1e32cbd44aacffb67a4f9" resname="role.policy.product_type.delete">
+        <source>Product type / Delete</source>
+        <target>crwdns254802:0crwdne254802:0</target>
+        <note>key: role.policy.product_type.delete</note>
+      </trans-unit>
+      <trans-unit id="4ef2f329a551dac823ad95fa7579b3b78db83a0b" resname="role.policy.product_type.edit">
+        <source>Product type / Edit</source>
+        <target>crwdns254804:0crwdne254804:0</target>
+        <note>key: role.policy.product_type.edit</note>
+      </trans-unit>
+      <trans-unit id="60dfe8cdc2e019be786afee8fb967f4a1dbd44ee" resname="role.policy.product_type.view">
+        <source>Product type / View</source>
+        <target>crwdns254806:0crwdne254806:0</target>
+        <note>key: role.policy.product_type.view</note>
+      </trans-unit>
+      <trans-unit id="6ff0bcc1b70d0dbde113af7649393f667612cace" resname="role.policy.role">
+        <source>Role</source>
+        <target>crwdns254808:0crwdne254808:0</target>
+        <note>key: role.policy.role</note>
+      </trans-unit>
+      <trans-unit id="17f55c17c76ccfcf636ce429b867f89069609bcd" resname="role.policy.role.all_functions">
+        <source>Role / All functions</source>
+        <target>crwdns254810:0crwdne254810:0</target>
+        <note>key: role.policy.role.all_functions</note>
+      </trans-unit>
+      <trans-unit id="cf922ebcfc51ae098cb57a938984916e03c0481c" resname="role.policy.role.assign">
+        <source>Role / Assign</source>
+        <target>crwdns254812:0crwdne254812:0</target>
+        <note>key: role.policy.role.assign</note>
+      </trans-unit>
+      <trans-unit id="f12cc8bc381274c232a90deae7ce981dbc3634cb" resname="role.policy.role.create">
+        <source>Role / Create</source>
+        <target>crwdns254814:0crwdne254814:0</target>
+        <note>key: role.policy.role.create</note>
+      </trans-unit>
+      <trans-unit id="d17c0339a48c6e273c56673c31037427fd95ecee" resname="role.policy.role.delete">
+        <source>Role / Delete</source>
+        <target>crwdns254816:0crwdne254816:0</target>
+        <note>key: role.policy.role.delete</note>
+      </trans-unit>
+      <trans-unit id="1e809cc5ab4e914e5dc51fa2dc0a6b62a90bc2f1" resname="role.policy.role.read">
+        <source>Role / Read</source>
+        <target>crwdns254818:0crwdne254818:0</target>
+        <note>key: role.policy.role.read</note>
+      </trans-unit>
+      <trans-unit id="2f8dccfd705bd25a633826ff76f595e118a71dcf" resname="role.policy.role.update">
+        <source>Role / Update</source>
+        <target>crwdns254820:0crwdne254820:0</target>
+        <note>key: role.policy.role.update</note>
+      </trans-unit>
+      <trans-unit id="7153cdd53211bedab219659c1d1656693d3bb4ae" resname="role.policy.section">
+        <source>Section</source>
+        <target>crwdns254822:0crwdne254822:0</target>
+        <note>key: role.policy.section</note>
+      </trans-unit>
+      <trans-unit id="f5e387481bf702e73317dcbccff5d55fc111550e" resname="role.policy.section.all_functions">
+        <source>Section / All functions</source>
+        <target>crwdns254824:0crwdne254824:0</target>
+        <note>key: role.policy.section.all_functions</note>
+      </trans-unit>
+      <trans-unit id="2f63b236417b33905613e757497387c99e47a848" resname="role.policy.section.assign">
+        <source>Section / Assign</source>
+        <target>crwdns254826:0crwdne254826:0</target>
+        <note>key: role.policy.section.assign</note>
+      </trans-unit>
+      <trans-unit id="9ce67233e7377c7ac36c6ccbdf1a49a582aca59d" resname="role.policy.section.edit">
+        <source>Section / Edit</source>
+        <target>crwdns254828:0crwdne254828:0</target>
+        <note>key: role.policy.section.edit</note>
+      </trans-unit>
+      <trans-unit id="c80fb60940421ce0b94226255211ec10dc9208b4" resname="role.policy.section.view">
+        <source>Section / View</source>
+        <target>crwdns254830:0crwdne254830:0</target>
+        <note>key: role.policy.section.view</note>
+      </trans-unit>
+      <trans-unit id="fe14b67513fcea11ed2cef38a90d5c4cf91aa532" resname="role.policy.segment">
+        <source>Segment</source>
+        <target>crwdns254832:0crwdne254832:0</target>
+        <note>key: role.policy.segment</note>
+      </trans-unit>
+      <trans-unit id="3939393469a4421bacb5ed2e75f992f6837240ab" resname="role.policy.segment.all_functions">
+        <source>Segment / All functions</source>
+        <target>crwdns254834:0crwdne254834:0</target>
+        <note>key: role.policy.segment.all_functions</note>
+      </trans-unit>
+      <trans-unit id="6b9aadd7750a5f4b5331660d42c358959335b826" resname="role.policy.segment.assign_to_user">
+        <source>Segment / Assign to user</source>
+        <target>crwdns254836:0crwdne254836:0</target>
+        <note>key: role.policy.segment.assign_to_user</note>
+      </trans-unit>
+      <trans-unit id="09a0c2388423585b64a6703b275eca4bb2e92777" resname="role.policy.segment.create">
+        <source>Segment / Create</source>
+        <target>crwdns254838:0crwdne254838:0</target>
+        <note>key: role.policy.segment.create</note>
+      </trans-unit>
+      <trans-unit id="506b3e8dca9edee470906099f4e5e766e47e1506" resname="role.policy.segment.read">
+        <source>Segment / Read</source>
+        <target>crwdns254840:0crwdne254840:0</target>
+        <note>key: role.policy.segment.read</note>
+      </trans-unit>
+      <trans-unit id="9cc5de1950915f9efcff2fcd8f7180eb7071c5cb" resname="role.policy.segment.remove">
+        <source>Segment / Remove</source>
+        <target>crwdns254842:0crwdne254842:0</target>
+        <note>key: role.policy.segment.remove</note>
+      </trans-unit>
+      <trans-unit id="0c055076bc059993f1e44092473b7006ae34df96" resname="role.policy.segment.update">
+        <source>Segment / Update</source>
+        <target>crwdns254844:0crwdne254844:0</target>
+        <note>key: role.policy.segment.update</note>
+      </trans-unit>
+      <trans-unit id="c105a8689a3c11e6c3cc7840662eab1832989141" resname="role.policy.segment.view_user_segment_list">
+        <source>Segment / View user segment list</source>
+        <target>crwdns254846:0crwdne254846:0</target>
+        <note>key: role.policy.segment.view_user_segment_list</note>
+      </trans-unit>
+      <trans-unit id="80900cd56c795ae32bc19af548c92ec378d7df63" resname="role.policy.segment_group">
+        <source>Segment group</source>
+        <target>crwdns254848:0crwdne254848:0</target>
+        <note>key: role.policy.segment_group</note>
+      </trans-unit>
+      <trans-unit id="f9cfe551c8bc01921b694a54d0038e93e289d38f" resname="role.policy.segment_group.all_functions">
+        <source>Segment group / All functions</source>
+        <target>crwdns254850:0crwdne254850:0</target>
+        <note>key: role.policy.segment_group.all_functions</note>
+      </trans-unit>
+      <trans-unit id="6540ac8a8b75f8b8865aba1ef496c7cf25230a2b" resname="role.policy.segment_group.create">
+        <source>Segment group / Create</source>
+        <target>crwdns254852:0crwdne254852:0</target>
+        <note>key: role.policy.segment_group.create</note>
+      </trans-unit>
+      <trans-unit id="20ec96c7e8a543e6db46087e1bdf8d57536fa87f" resname="role.policy.segment_group.read">
+        <source>Segment group / Read</source>
+        <target>crwdns254854:0crwdne254854:0</target>
+        <note>key: role.policy.segment_group.read</note>
+      </trans-unit>
+      <trans-unit id="7d82357527b29fc05f07816c1eaf134a07896df0" resname="role.policy.segment_group.remove">
+        <source>Segment group / Remove</source>
+        <target>crwdns254856:0crwdne254856:0</target>
+        <note>key: role.policy.segment_group.remove</note>
+      </trans-unit>
+      <trans-unit id="85913834465cd211b38d0d8b21e6828f94b38df3" resname="role.policy.segment_group.update">
+        <source>Segment group / Update</source>
+        <target>crwdns254858:0crwdne254858:0</target>
+        <note>key: role.policy.segment_group.update</note>
+      </trans-unit>
+      <trans-unit id="5f165ef2e938f6710b56e2e8ee416414e430b77c" resname="role.policy.setting">
+        <source>Setting</source>
+        <target>crwdns254860:0crwdne254860:0</target>
+        <note>key: role.policy.setting</note>
+      </trans-unit>
+      <trans-unit id="8775d52b987252ee1ad0867fe4f9e23dec668b5b" resname="role.policy.setting.all_functions">
+        <source>Setting / All functions</source>
+        <target>crwdns254862:0crwdne254862:0</target>
+        <note>key: role.policy.setting.all_functions</note>
+      </trans-unit>
+      <trans-unit id="686f427740ca0cf4df247266b8a1300d747cf3a4" resname="role.policy.setting.create">
+        <source>Setting / Create</source>
+        <target>crwdns254864:0crwdne254864:0</target>
+        <note>key: role.policy.setting.create</note>
+      </trans-unit>
+      <trans-unit id="d41141e8fa3c214bc546a6925304c15ee9a28022" resname="role.policy.setting.remove">
+        <source>Setting / Remove</source>
+        <target>crwdns254866:0crwdne254866:0</target>
+        <note>key: role.policy.setting.remove</note>
+      </trans-unit>
+      <trans-unit id="14fa9c5afba9d51072c6a66dede46535b718f77e" resname="role.policy.setting.update">
+        <source>Setting / Update</source>
+        <target>crwdns254868:0crwdne254868:0</target>
+        <note>key: role.policy.setting.update</note>
+      </trans-unit>
+      <trans-unit id="33092ebd51699d4d3f598b8488e7bc5969038bff" resname="role.policy.setup">
+        <source>Setup</source>
+        <target>crwdns254870:0crwdne254870:0</target>
+        <note>key: role.policy.setup</note>
+      </trans-unit>
+      <trans-unit id="a72fa98205c4f68fc53506f9b57e645be450ce86" resname="role.policy.setup.administrate">
+        <source>Setup / Administrate</source>
+        <target>crwdns254872:0crwdne254872:0</target>
+        <note>key: role.policy.setup.administrate</note>
+      </trans-unit>
+      <trans-unit id="df52828e26336a4a6f3186e0d6eb75d98056aeaa" resname="role.policy.setup.all_functions">
+        <source>Setup / All functions</source>
+        <target>crwdns254874:0crwdne254874:0</target>
+        <note>key: role.policy.setup.all_functions</note>
+      </trans-unit>
+      <trans-unit id="32c1032c29386bcf41793f2542b3476887249bc5" resname="role.policy.setup.install">
+        <source>Setup / Install</source>
+        <target>crwdns254876:0crwdne254876:0</target>
+        <note>key: role.policy.setup.install</note>
+      </trans-unit>
+      <trans-unit id="4ce0aa17f80167751257ddb6e0cc8e06ca9c1bbb" resname="role.policy.setup.setup">
+        <source>Setup / Setup</source>
+        <target>crwdns254878:0crwdne254878:0</target>
+        <note>key: role.policy.setup.setup</note>
+      </trans-unit>
+      <trans-unit id="a77dcd2893dc76a7e94fe088b775045fde8651e4" resname="role.policy.setup.system_info">
+        <source>Setup / System info</source>
+        <target>crwdns254880:0crwdne254880:0</target>
+        <note>key: role.policy.setup.system_info</note>
+      </trans-unit>
+      <trans-unit id="029ea67634ff66aa9afd7c8850ebf6abe0f2e7be" resname="role.policy.siso_control_center">
+        <source>Siso control center</source>
+        <target>crwdns254882:0crwdne254882:0</target>
+        <note>key: role.policy.siso_control_center</note>
+      </trans-unit>
+      <trans-unit id="ad4e634b7a562503b6e50d2b057490b8d7dc6336" resname="role.policy.siso_control_center.all_functions">
+        <source>Siso control center / All functions</source>
+        <target>crwdns254884:0crwdne254884:0</target>
+        <note>key: role.policy.siso_control_center.all_functions</note>
+      </trans-unit>
+      <trans-unit id="a0f12a7663039fde6f8aed723fb9d34a3980fb2a" resname="role.policy.siso_control_center.api_econtent">
+        <source>Siso control center / Api econtent</source>
+        <target>crwdns254886:0crwdne254886:0</target>
+        <note>key: role.policy.siso_control_center.api_econtent</note>
+      </trans-unit>
+      <trans-unit id="f5fd141280162ef0849b611320d7a0dd8443089e" resname="role.policy.siso_control_center.api_erp">
+        <source>Siso control center / Api erp</source>
+        <target>crwdns254888:0crwdne254888:0</target>
+        <note>key: role.policy.siso_control_center.api_erp</note>
+      </trans-unit>
+      <trans-unit id="45414effd965bb5556bb824a587757ecc008c182" resname="role.policy.siso_control_center.api_jobs">
+        <source>Siso control center / Api jobs</source>
+        <target>crwdns254890:0crwdne254890:0</target>
+        <note>key: role.policy.siso_control_center.api_jobs</note>
+      </trans-unit>
+      <trans-unit id="4b5b94dfe8ce0ed99afad6c08ad6926941e84a17" resname="role.policy.siso_control_center.manage_emails">
+        <source>Siso control center / Manage emails</source>
+        <target>crwdns254892:0crwdne254892:0</target>
+        <note>key: role.policy.siso_control_center.manage_emails</note>
+      </trans-unit>
+      <trans-unit id="7fa7d6588d2604254dcf303b4b400c4f73954ad8" resname="role.policy.siso_control_center.manage_erp">
+        <source>Siso control center / Manage erp</source>
+        <target>crwdns254894:0crwdne254894:0</target>
+        <note>key: role.policy.siso_control_center.manage_erp</note>
+      </trans-unit>
+      <trans-unit id="c65f946a026df0c1c1dd82f341c93f037e7e355e" resname="role.policy.siso_control_center.manage_erp_logs">
+        <source>Siso control center / Manage erp logs</source>
+        <target>crwdns254896:0crwdne254896:0</target>
+        <note>key: role.policy.siso_control_center.manage_erp_logs</note>
+      </trans-unit>
+      <trans-unit id="6fb68c71d5d02066779acbd48adec60b00cda435" resname="role.policy.siso_control_center.manage_exports">
+        <source>Siso control center / Manage exports</source>
+        <target>crwdns254898:0crwdne254898:0</target>
+        <note>key: role.policy.siso_control_center.manage_exports</note>
+      </trans-unit>
+      <trans-unit id="46733f57f8e3374f10e13976cbf0745e050d0533" resname="role.policy.siso_control_center.manage_imports">
+        <source>Siso control center / Manage imports</source>
+        <target>crwdns254900:0crwdne254900:0</target>
+        <note>key: role.policy.siso_control_center.manage_imports</note>
+      </trans-unit>
+      <trans-unit id="d9d75b3eea946a68bc4aa78d3810f6b6a04ebada" resname="role.policy.siso_control_center.manage_jobs">
+        <source>Siso control center / Manage jobs</source>
+        <target>crwdns254902:0crwdne254902:0</target>
+        <note>key: role.policy.siso_control_center.manage_jobs</note>
+      </trans-unit>
+      <trans-unit id="e6bebe72ead05d9d16bc0dc9ef80c60cb12572b9" resname="role.policy.siso_policy">
+        <source>Siso policy</source>
+        <target>crwdns254904:0crwdne254904:0</target>
+        <note>key: role.policy.siso_policy</note>
+      </trans-unit>
+      <trans-unit id="71b4a62c52ac03f0597e07fc3a357e059260206e" resname="role.policy.siso_policy.all_functions">
+        <source>Siso policy / All functions</source>
+        <target>crwdns254906:0crwdne254906:0</target>
+        <note>key: role.policy.siso_policy.all_functions</note>
+      </trans-unit>
+      <trans-unit id="e1a252421d392fe73e1978cf223051e1f7103cc5" resname="role.policy.siso_policy.checkout">
+        <source>Siso policy / Checkout</source>
+        <target>crwdns254908:0crwdne254908:0</target>
+        <note>key: role.policy.siso_policy.checkout</note>
+      </trans-unit>
+      <trans-unit id="3289ef5c243b5514c6d98f6419de1592d910b308" resname="role.policy.siso_policy.configuration_list">
+        <source>Siso policy / Configuration list</source>
+        <target>crwdns254910:0crwdne254910:0</target>
+        <note>key: role.policy.siso_policy.configuration_list</note>
+      </trans-unit>
+      <trans-unit id="83b3cf80005b6506e9fc8430ff52df8137ae71c0" resname="role.policy.siso_policy.dashboard_view">
+        <source>Siso policy / Dashboard view</source>
+        <target>crwdns254912:0crwdne254912:0</target>
+        <note>key: role.policy.siso_policy.dashboard_view</note>
+      </trans-unit>
+      <trans-unit id="50b4107c987873e01d004a8aac3d0d9b07356a8d" resname="role.policy.siso_policy.delegate">
+        <source>Siso policy / Delegate</source>
+        <target>crwdns254914:0crwdne254914:0</target>
+        <note>key: role.policy.siso_policy.delegate</note>
+      </trans-unit>
+      <trans-unit id="160c9944f5a3f83ccc70ec541c636de74258b693" resname="role.policy.siso_policy.edit_delivery">
+        <source>Siso policy / Edit delivery</source>
+        <target>crwdns254916:0crwdne254916:0</target>
+        <note>key: role.policy.siso_policy.edit_delivery</note>
+      </trans-unit>
+      <trans-unit id="0944816d7abca42fe4381817f59c5b8b2593f2a0" resname="role.policy.siso_policy.edit_invoice">
+        <source>Siso policy / Edit invoice</source>
+        <target>crwdns254918:0crwdne254918:0</target>
+        <note>key: role.policy.siso_policy.edit_invoice</note>
+      </trans-unit>
+      <trans-unit id="db0dead69b934a0707e2288b888007bd2bd5bfc4" resname="role.policy.siso_policy.forms_profile_edit">
+        <source>Siso policy / Forms profile edit</source>
+        <target>crwdns254920:0crwdne254920:0</target>
+        <note>key: role.policy.siso_policy.forms_profile_edit</note>
+      </trans-unit>
+      <trans-unit id="9fabf0afc088649c08d703561566ca7547a035f8" resname="role.policy.siso_policy.lostorder_list">
+        <source>Siso policy / Lostorder list</source>
+        <target>crwdns254922:0crwdne254922:0</target>
+        <note>key: role.policy.siso_policy.lostorder_list</note>
+      </trans-unit>
+      <trans-unit id="983150cec2926fdd6a4f4067da5b386296378615" resname="role.policy.siso_policy.lostorder_manage">
+        <source>Siso policy / Lostorder manage</source>
+        <target>crwdns254924:0crwdne254924:0</target>
+        <note>key: role.policy.siso_policy.lostorder_manage</note>
+      </trans-unit>
+      <trans-unit id="688e008587c8352f5da048fb406deb56a378e0f7" resname="role.policy.siso_policy.lostorder_process">
+        <source>Siso policy / Lostorder process</source>
+        <target>crwdns254926:0crwdne254926:0</target>
+        <note>key: role.policy.siso_policy.lostorder_process</note>
+      </trans-unit>
+      <trans-unit id="c49537d92074b71972584fd044d74b19d8294696" resname="role.policy.siso_policy.manage_config">
+        <source>Siso policy / Manage config</source>
+        <target>crwdns254928:0crwdne254928:0</target>
+        <note>key: role.policy.siso_policy.manage_config</note>
+      </trans-unit>
+      <trans-unit id="5e7b82eec437e05e7bfe872efb13d03a06270d4b" resname="role.policy.siso_policy.manage_orders">
+        <source>Siso policy / Manage orders</source>
+        <target>crwdns254930:0crwdne254930:0</target>
+        <note>key: role.policy.siso_policy.manage_orders</note>
+      </trans-unit>
+      <trans-unit id="4d011e68fa852b7feca863504519636a7de5a4b0" resname="role.policy.siso_policy.manage_prices">
+        <source>Siso policy / Manage prices</source>
+        <target>crwdns254932:0crwdne254932:0</target>
+        <note>key: role.policy.siso_policy.manage_prices</note>
+      </trans-unit>
+      <trans-unit id="ad5b397ac92ddf8256ce2d9ab12818a383203a5b" resname="role.policy.siso_policy.manage_rating">
+        <source>Siso policy / Manage rating</source>
+        <target>crwdns254934:0crwdne254934:0</target>
+        <note>key: role.policy.siso_policy.manage_rating</note>
+      </trans-unit>
+      <trans-unit id="e7c54b592a3ebad126466c968eca3fd64e94feb6" resname="role.policy.siso_policy.manage_shipping_costs">
+        <source>Siso policy / Manage shipping costs</source>
+        <target>crwdns254936:0crwdne254936:0</target>
+        <note>key: role.policy.siso_policy.manage_shipping_costs</note>
+      </trans-unit>
+      <trans-unit id="4703ea64a83fc55601798cc19d29d879f2b79512" resname="role.policy.siso_policy.manage_stock">
+        <source>Siso policy / Manage stock</source>
+        <target>crwdns254938:0crwdne254938:0</target>
+        <note>key: role.policy.siso_policy.manage_stock</note>
+      </trans-unit>
+      <trans-unit id="731f061c484863f3367c7ddc90b45420d8edb2ad" resname="role.policy.siso_policy.order_list">
+        <source>Siso policy / Order list</source>
+        <target>crwdns254940:0crwdne254940:0</target>
+        <note>key: role.policy.siso_policy.order_list</note>
+      </trans-unit>
+      <trans-unit id="ca5cbff667a1c069eb8b95791ce0d99575da77c7" resname="role.policy.siso_policy.orderhistory_view">
+        <source>Siso policy / Orderhistory view</source>
+        <target>crwdns254942:0crwdne254942:0</target>
+        <note>key: role.policy.siso_policy.orderhistory_view</note>
+      </trans-unit>
+      <trans-unit id="9711026ce5d7f383f5b2254deb8b0202e048dcec" resname="role.policy.siso_policy.quickorder">
+        <source>Siso policy / Quickorder</source>
+        <target>crwdns254944:0crwdne254944:0</target>
+        <note>key: role.policy.siso_policy.quickorder</note>
+      </trans-unit>
+      <trans-unit id="b15b9699a7bf845ed87f812d8aa33f0a045e9193" resname="role.policy.siso_policy.rating_review">
+        <source>Siso policy / Rating review</source>
+        <target>crwdns254946:0crwdne254946:0</target>
+        <note>key: role.policy.siso_policy.rating_review</note>
+      </trans-unit>
+      <trans-unit id="82fb01df828843524e88fc46a99f1309166365da" resname="role.policy.siso_policy.read_basket">
+        <source>Siso policy / Read basket</source>
+        <target>crwdns254948:0crwdne254948:0</target>
+        <note>key: role.policy.siso_policy.read_basket</note>
+      </trans-unit>
+      <trans-unit id="1e26e0c4e32f262b67793f019b92099edc8d172c" resname="role.policy.siso_policy.read_customers_and_orders">
+        <source>Siso policy / Read customers and orders</source>
+        <target>crwdns254950:0crwdne254950:0</target>
+        <note>key: role.policy.siso_policy.read_customers_and_orders</note>
+      </trans-unit>
+      <trans-unit id="ce07309083f3e9bbc06557a454f86d028bc0b37a" resname="role.policy.siso_policy.see_product_price">
+        <source>Siso policy / See product price</source>
+        <target>crwdns254952:0crwdne254952:0</target>
+        <note>key: role.policy.siso_policy.see_product_price</note>
+      </trans-unit>
+      <trans-unit id="a0be285570ab4606874b408bce8d9097d3ef8a52" resname="role.policy.siso_policy.translations">
+        <source>Siso policy / Translations</source>
+        <target>crwdns254954:0crwdne254954:0</target>
+        <note>key: role.policy.siso_policy.translations</note>
+      </trans-unit>
+      <trans-unit id="b7006b9e044c2aea8159bac92bd8d70c0eca978d" resname="role.policy.siso_policy.update_exchange_rates">
+        <source>Siso policy / Update exchange rates</source>
+        <target>crwdns254956:0crwdne254956:0</target>
+        <note>key: role.policy.siso_policy.update_exchange_rates</note>
+      </trans-unit>
+      <trans-unit id="b9bc8a260965f23a45db9ce5b412757b41dc1c55" resname="role.policy.siso_policy.write_basket">
+        <source>Siso policy / Write basket</source>
+        <target>crwdns254958:0crwdne254958:0</target>
+        <note>key: role.policy.siso_policy.write_basket</note>
+      </trans-unit>
+      <trans-unit id="2e2e751bf3201fb6c68307c683a3ac384b9ec0cf" resname="role.policy.site">
+        <source>Site</source>
+        <target>crwdns254960:0crwdne254960:0</target>
+        <note>key: role.policy.site</note>
+      </trans-unit>
+      <trans-unit id="8a7be79652e042c41e49671038f309291c780c78" resname="role.policy.site.all_functions">
+        <source>Site / All functions</source>
+        <target>crwdns254962:0crwdne254962:0</target>
+        <note>key: role.policy.site.all_functions</note>
+      </trans-unit>
+      <trans-unit id="fa041654ee2bd9a54a870675fc96399dac830b73" resname="role.policy.site.change_status">
+        <source>Site / Change status</source>
+        <target>crwdns254964:0crwdne254964:0</target>
+        <note>key: role.policy.site.change_status</note>
+      </trans-unit>
+      <trans-unit id="7974d9702481b771e623dd447d3df7d8e7350e7b" resname="role.policy.site.create">
+        <source>Site / Create</source>
+        <target>crwdns254966:0crwdne254966:0</target>
+        <note>key: role.policy.site.create</note>
+      </trans-unit>
+      <trans-unit id="45e0983429e1df736d0c26b5b9c62a8f522c5c00" resname="role.policy.site.delete">
+        <source>Site / Delete</source>
+        <target>crwdns254968:0crwdne254968:0</target>
+        <note>key: role.policy.site.delete</note>
+      </trans-unit>
+      <trans-unit id="f473815a92d4ec35eeaa54464164aa98119594df" resname="role.policy.site.edit">
+        <source>Site / Edit</source>
+        <target>crwdns254970:0crwdne254970:0</target>
+        <note>key: role.policy.site.edit</note>
+      </trans-unit>
+      <trans-unit id="34b7e317be37673c466c03c644176ffb618295a8" resname="role.policy.site.view">
+        <source>Site / View</source>
+        <target>crwdns254972:0crwdne254972:0</target>
+        <note>key: role.policy.site.view</note>
+      </trans-unit>
+      <trans-unit id="012dce76ef569ba377ffe98ddbee8d3c3d270e15" resname="role.policy.state">
+        <source>State</source>
+        <target>crwdns254974:0crwdne254974:0</target>
+        <note>key: role.policy.state</note>
+      </trans-unit>
+      <trans-unit id="0dc3b2e6978f026be583bcf078e15c4157a51d19" resname="role.policy.state.administrate">
+        <source>State / Administrate</source>
+        <target>crwdns254976:0crwdne254976:0</target>
+        <note>key: role.policy.state.administrate</note>
+      </trans-unit>
+      <trans-unit id="5a57c4086c786d6c767dfca68486d64c60ec58bf" resname="role.policy.state.all_functions">
+        <source>State / All functions</source>
+        <target>crwdns254978:0crwdne254978:0</target>
+        <note>key: role.policy.state.all_functions</note>
+      </trans-unit>
+      <trans-unit id="8c144b2e58f6ba9388517a5929bfd12a0773ddd2" resname="role.policy.state.assign">
+        <source>State / Assign</source>
+        <target>crwdns254980:0crwdne254980:0</target>
+        <note>key: role.policy.state.assign</note>
+      </trans-unit>
+      <trans-unit id="09e66e3a8de58ced5f11c3a3dc13d67d34161649" resname="role.policy.taxonomy">
+        <source>Taxonomy</source>
+        <target>crwdns254982:0crwdne254982:0</target>
+        <note>key: role.policy.taxonomy</note>
+      </trans-unit>
+      <trans-unit id="23e2b7f5cc00d969e8cbef26811936db1f81f87f" resname="role.policy.taxonomy.all_functions">
+        <source>Taxonomy / All functions</source>
+        <target>crwdns254984:0crwdne254984:0</target>
+        <note>key: role.policy.taxonomy.all_functions</note>
+      </trans-unit>
+      <trans-unit id="6c2f7edbbe16af3e02ebfb408e93437c3f8866c9" resname="role.policy.taxonomy.assign">
+        <source>Taxonomy / Assign</source>
+        <target>crwdns254986:0crwdne254986:0</target>
+        <note>key: role.policy.taxonomy.assign</note>
+      </trans-unit>
+      <trans-unit id="5b13c93c0cef722a74869da8c9812912d428d013" resname="role.policy.taxonomy.manage">
+        <source>Taxonomy / Manage</source>
+        <target>crwdns254988:0crwdne254988:0</target>
+        <note>key: role.policy.taxonomy.manage</note>
+      </trans-unit>
+      <trans-unit id="c18671d83b75ebd3906cd49041ec70414a0ba455" resname="role.policy.taxonomy.read">
+        <source>Taxonomy / Read</source>
+        <target>crwdns254990:0crwdne254990:0</target>
+        <note>key: role.policy.taxonomy.read</note>
+      </trans-unit>
+      <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
+        <source>Policy</source>
+        <target>crwdns254992:0crwdne254992:0</target>
+        <note>key: role.policy.type</note>
+      </trans-unit>
+      <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
+        <source>Choose a Policy</source>
+        <target>crwdns254994:0crwdne254994:0</target>
+        <note>key: role.policy.type.choose</note>
+      </trans-unit>
+      <trans-unit id="73c3d3a21c7264a991abf4e6ffe68751a1dbdb58" resname="role.policy.url">
+        <source>Url</source>
+        <target>crwdns254996:0crwdne254996:0</target>
+        <note>key: role.policy.url</note>
+      </trans-unit>
+      <trans-unit id="4b00222e7c5b268480fe9db2de1744d0f25b677f" resname="role.policy.url.all_functions">
+        <source>Url / All functions</source>
+        <target>crwdns254998:0crwdne254998:0</target>
+        <note>key: role.policy.url.all_functions</note>
+      </trans-unit>
+      <trans-unit id="4bf7f289b67892bf61f10b4f9a1db7b6dc09e69a" resname="role.policy.url.update">
+        <source>Url / Update</source>
+        <target>crwdns255000:0crwdne255000:0</target>
+        <note>key: role.policy.url.update</note>
+      </trans-unit>
+      <trans-unit id="a9e0e8261157424542b507b9ae39b4e1193d24cd" resname="role.policy.url.view">
+        <source>Url / View</source>
+        <target>crwdns255002:0crwdne255002:0</target>
+        <note>key: role.policy.url.view</note>
+      </trans-unit>
+      <trans-unit id="78b9d0d52e636ef2d0d1f919de16154404c2be0f" resname="role.policy.user">
+        <source>User</source>
+        <target>crwdns255004:0crwdne255004:0</target>
+        <note>key: role.policy.user</note>
+      </trans-unit>
+      <trans-unit id="647dfa7992026277b6d73295b2ffaefe4cfa12d0" resname="role.policy.user.activation">
+        <source>User / Activation</source>
+        <target>crwdns255006:0crwdne255006:0</target>
+        <note>key: role.policy.user.activation</note>
+      </trans-unit>
+      <trans-unit id="d44ce8c33cbc780cff9ca6f05ad2f70002550cd0" resname="role.policy.user.all_functions">
+        <source>User / All functions</source>
+        <target>crwdns255008:0crwdne255008:0</target>
+        <note>key: role.policy.user.all_functions</note>
+      </trans-unit>
+      <trans-unit id="587199065d14880416b8061b73788e731a201c27" resname="role.policy.user.invite">
+        <source>User / Invite</source>
+        <target>crwdns255010:0crwdne255010:0</target>
+        <note>key: role.policy.user.invite</note>
+      </trans-unit>
+      <trans-unit id="f25505dc2f59df21e3125664c4fdad951d82df3b" resname="role.policy.user.login">
+        <source>User / Login</source>
+        <target>crwdns255012:0crwdne255012:0</target>
+        <note>key: role.policy.user.login</note>
+      </trans-unit>
+      <trans-unit id="d971078868184d3d233fb14032fda9ef614c2baa" resname="role.policy.user.password">
+        <source>User / Password</source>
+        <target>crwdns255014:0crwdne255014:0</target>
+        <note>key: role.policy.user.password</note>
+      </trans-unit>
+      <trans-unit id="28d15501824f89951d4068af32fbc52eb1412b8d" resname="role.policy.user.preferences">
+        <source>User / Preferences</source>
+        <target>crwdns255016:0crwdne255016:0</target>
+        <note>key: role.policy.user.preferences</note>
+      </trans-unit>
+      <trans-unit id="8f79f6008557e588c0a8b13ccdc42d6babc073c9" resname="role.policy.user.register">
+        <source>User / Register</source>
+        <target>crwdns255018:0crwdne255018:0</target>
+        <note>key: role.policy.user.register</note>
+      </trans-unit>
+      <trans-unit id="106b2a3fa38c660c838efe1905c904ce689a2d75" resname="role.policy.user.selfedit">
+        <source>User / Selfedit</source>
+        <target>crwdns255020:0crwdne255020:0</target>
+        <note>key: role.policy.user.selfedit</note>
+      </trans-unit>
+      <trans-unit id="30c5e1c11a520e499ad68130a2c7b844c2243888" resname="role.policy.workflow">
+        <source>Workflow</source>
+        <target>crwdns255022:0crwdne255022:0</target>
+        <note>key: role.policy.workflow</note>
+      </trans-unit>
+      <trans-unit id="2b2742373d60445d02b866c30e21db99f0755ae6" resname="role.policy.workflow.all_functions">
+        <source>Workflow / All functions</source>
+        <target>crwdns255024:0crwdne255024:0</target>
+        <note>key: role.policy.workflow.all_functions</note>
+      </trans-unit>
+      <trans-unit id="4ec99016d9af53130aaf043f9b6bce7ced2a1739" resname="role.policy.workflow.change_stage">
+        <source>Workflow / Change stage</source>
+        <target>crwdns255026:0crwdne255026:0</target>
+        <note>key: role.policy.workflow.change_stage</note>
+      </trans-unit>
+      <trans-unit id="f11a379ba38d1a4e5fb7de3bc3a2fb76b72fe9dd" resname="role_assignment.delete">
+        <source>Delete</source>
+        <target>crwdns255028:0crwdne255028:0</target>
+        <note>key: role_assignment.delete</note>
+      </trans-unit>
+      <trans-unit id="cd67db3c5e3f56ce0c899e8858502933c1a5ed70" resname="role_assignment.groups">
+        <source>Group</source>
+        <target>crwdns255030:0crwdne255030:0</target>
+        <note>key: role_assignment.groups</note>
+      </trans-unit>
+      <trans-unit id="710f8e6ab682db07141d71bc6df5246988a0560f" resname="role_assignment.locations">
+        <source>Select subtree</source>
+        <target>crwdns255032:0crwdne255032:0</target>
+        <note>key: role_assignment.locations</note>
+      </trans-unit>
+      <trans-unit id="90266f1e47b42712e761c7fea00fb8e8c949f37e" resname="role_assignment.save">
+        <source>Assign</source>
+        <target>crwdns255034:0crwdne255034:0</target>
+        <note>key: role_assignment.save</note>
+      </trans-unit>
+      <trans-unit id="0bcd4dbd1300e2309dd541f817fef6bf5fc029d8" resname="role_assignment.sections">
+        <source>Section</source>
+        <target>crwdns255036:0crwdne255036:0</target>
+        <note>key: role_assignment.sections</note>
+      </trans-unit>
+      <trans-unit id="7ed8b44c2b610ecc43a5cc390335657ebf798ebc" resname="role_assignment.users">
+        <source>User</source>
+        <target>crwdns255038:0crwdne255038:0</target>
+        <note>key: role_assignment.users</note>
+      </trans-unit>
+      <trans-unit id="5f9be66217c70fdbd734a1ccb5968aae96bbdcd0" resname="role_assignments_delete_form.delete">
+        <source>Delete Role assignments</source>
+        <target>crwdns255040:0crwdne255040:0</target>
+        <note>key: role_assignments_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="6c0384498e37f0a821ff9155da7b6c2cb94d0a95" resname="role_copy.copy">
+        <source>Copy</source>
+        <target>crwdns255042:0crwdne255042:0</target>
+        <note>key: role_copy.copy</note>
+      </trans-unit>
+      <trans-unit id="ff0696ea021d81a9898e8c7f19f41e092cb5bb42" resname="role_copy.name">
+        <source>Name of a new role</source>
+        <target>crwdns255044:0crwdne255044:0</target>
+        <note>key: role_copy.name</note>
+      </trans-unit>
+      <trans-unit id="e36e86d3568ccc02a097560444b35c69c469c531" resname="role_create.name">
+        <source>Name</source>
+        <target>crwdns255046:0crwdne255046:0</target>
+        <note>key: role_create.name</note>
+      </trans-unit>
+      <trans-unit id="776c77290a994aebb3c657ee11dd2c5cff117dca" resname="role_create.save">
+        <source>Create</source>
+        <target>crwdns255048:0crwdne255048:0</target>
+        <note>key: role_create.save</note>
+      </trans-unit>
+      <trans-unit id="870a0a274b0ddf96ef4b6ce633dacad31e23e311" resname="role_delete.delete">
+        <source>Delete</source>
+        <target>crwdns255050:0crwdne255050:0</target>
+        <note>key: role_delete.delete</note>
+      </trans-unit>
+      <trans-unit id="4c228e578ee76e86bf13d3f8daa8fffa45d6387a" resname="role_update.name">
+        <source>Name</source>
+        <target>crwdns255052:0crwdne255052:0</target>
+        <note>key: role_update.name</note>
+      </trans-unit>
+      <trans-unit id="453d030fbc11c10c842807ff213039adfffbe051" resname="role_update.save">
+        <source>Update</source>
+        <target>crwdns255054:0crwdne255054:0</target>
+        <note>key: role_update.save</note>
+      </trans-unit>
+      <trans-unit id="2b8a62034311f415eba9826996495c2ddd076745" resname="roles_delete_form.delete">
+        <source>Delete Role</source>
+        <target>crwdns255056:0crwdne255056:0</target>
+        <note>key: roles_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="f3a2d2ec4f587435900fdec3f0fb973592b57147" resname="section_content_assign_form.assign">
+        <source>Assign content</source>
+        <target>crwdns255058:0crwdne255058:0</target>
+        <note>key: section_content_assign_form.assign</note>
+      </trans-unit>
+      <trans-unit id="72b286dbf7ede406ec805d27d4ee834b8a159670" resname="section_content_assign_form.locations">
+        <source>Assign content</source>
+        <target>crwdns255060:0crwdne255060:0</target>
+        <note>key: section_content_assign_form.locations</note>
+      </trans-unit>
+      <trans-unit id="4d1b71ebb6b86d78f0902fa5a6ef329c070efdad" resname="section_create_form.create">
+        <source>Create</source>
+        <target>crwdns255062:0crwdne255062:0</target>
+        <note>key: section_create_form.create</note>
+      </trans-unit>
+      <trans-unit id="157171a054bf3089d55c971b318b95a26a1cbb92" resname="section_delete_form.delete">
+        <source>Delete</source>
+        <target>crwdns255064:0crwdne255064:0</target>
+        <note>key: section_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="54b875a849e645c86904a2c3663c02b2aab86bb4" resname="section_form.identifier">
+        <source>Identifier</source>
+        <target>crwdns255066:0crwdne255066:0</target>
+        <note>key: section_form.identifier</note>
+      </trans-unit>
+      <trans-unit id="a8e6cb63af5cccaf0b468435ce04fd304aa77e5c" resname="section_form.name">
+        <source>Name</source>
+        <target>crwdns255068:0crwdne255068:0</target>
+        <note>key: section_form.name</note>
+      </trans-unit>
+      <trans-unit id="c33da889af5b91c7a19b0b6e522757d65b81a40d" resname="section_subtree_assign_form.assign">
+        <source>Change Section</source>
+        <target>crwdns255070:0crwdne255070:0</target>
+        <note>key: section_subtree_assign_form.assign</note>
+      </trans-unit>
+      <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update">
+        <source>Update</source>
+        <target>crwdns255072:0crwdne255072:0</target>
+        <note>key: section_update_form.update</note>
+      </trans-unit>
+      <trans-unit id="1076fdadc49ac9198c278970f355457c26075975" resname="sections_delete_form.delete">
+        <source>Delete Sections</source>
+        <target>crwdns255074:0crwdne255074:0</target>
+        <note>key: sections_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
+        <source>Select Content item</source>
+        <target>crwdns255076:0crwdne255076:0</target>
+        <note>key: swap_location_form.swap</note>
+      </trans-unit>
+      <trans-unit id="d183d1b00142b36a06d45e6341e4c8b01976a6b9" resname="translation.base_language.label">
+        <source>Source language</source>
+        <target>crwdns255078:0crwdne255078:0</target>
+        <note>key: translation.base_language.label</note>
+      </trans-unit>
+      <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">
+        <source>No language</source>
+        <target>crwdns255080:0crwdne255080:0</target>
+        <note>key: translation.base_language.no_language</note>
+      </trans-unit>
+      <trans-unit id="68c3e0fd0fe047dae5853efbc89ccb128b544263" resname="translation.language.label">
+        <source>Target language</source>
+        <target>crwdns255082:0crwdne255082:0</target>
+        <note>key: translation.language.label</note>
+      </trans-unit>
+      <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
+        <source>Delete permanently</source>
+        <target>crwdns255084:0crwdne255084:0</target>
+        <note>key: trash_empty_form.empty</note>
+      </trans-unit>
+      <trans-unit id="4d530164d6f917754a1625bae48c2a323197ac7a" resname="user.invitation.submit">
+        <source>Send</source>
+        <target>crwdns255086:0crwdne255086:0</target>
+        <note>key: user.invitation.submit</note>
+      </trans-unit>
+      <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete">
+        <source>Delete</source>
+        <target>crwdns255088:0crwdne255088:0</target>
+        <note>key: user_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="3b2ae7aa286887e2fbd2b6e77ca237f9f9109e9b" resname="version_remove_form.remove">
+        <source>Remove version</source>
+        <target>crwdns255090:0crwdne255090:0</target>
+        <note>key: version_remove_form.remove</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
