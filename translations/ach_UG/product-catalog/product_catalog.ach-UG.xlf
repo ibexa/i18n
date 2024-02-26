@@ -1,0 +1,2341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="147df925ba44f0c3046cd517469211786cda66f4" resname="attribute.selection_options.add">
+        <source>Add</source>
+        <target>crwdns264184:0crwdne264184:0</target>
+        <note>key: attribute.selection_options.add</note>
+      </trans-unit>
+      <trans-unit id="540b55c6ac0c808e15ca17fad5a6b0fb7cf1d6d5" resname="attribute.selection_options.delete">
+        <source>Delete</source>
+        <target>crwdns264186:0crwdne264186:0</target>
+        <note>key: attribute.selection_options.delete</note>
+      </trans-unit>
+      <trans-unit id="c97aa46afd6639590505473f4743227e7f68c242" resname="attribute.selection_options.list__label.label">
+        <source>Label</source>
+        <target>crwdns264188:0crwdne264188:0</target>
+        <note>key: attribute.selection_options.list__label.label</note>
+      </trans-unit>
+      <trans-unit id="b82cacd874891bc80ad0df214310166f8dc9ea9d" resname="attribute.selection_options.list__label.value">
+        <source>Value</source>
+        <target>crwdns264190:0crwdne264190:0</target>
+        <note>key: attribute.selection_options.list__label.value</note>
+      </trans-unit>
+      <trans-unit id="87f662916d3c87c71f8feb07fda51f2885ccc1d9" resname="attribute.selection_options.title">
+        <source>List of options</source>
+        <target>crwdns264192:0crwdne264192:0</target>
+        <note>key: attribute.selection_options.title</note>
+      </trans-unit>
+      <trans-unit id="8b71654474e718dd23bc5cd4b8a82369c4352241" resname="attribute_definition.breadcrumb.list">
+        <source>Attributes</source>
+        <target>crwdns264194:0crwdne264194:0</target>
+        <note>key: attribute_definition.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="52d7a9a1752e1e23d81169f6dedf3db33b37e6eb" resname="attribute_definition.breadcrumb.view">
+        <source>%attribute_definition_name%</source>
+        <target>crwdns264196:0%attribute_definition_name%crwdne264196:0</target>
+        <note>key: attribute_definition.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="eca037ad44c8b86e42b72c5d61758d73039e9060" resname="attribute_definition.create.success">
+        <source>Attribute '%name%' created.</source>
+        <target>crwdns264198:0%name%crwdne264198:0</target>
+        <note>key: attribute_definition.create.success</note>
+      </trans-unit>
+      <trans-unit id="d61f38a2f05358a6b6ae9a8575336fa35c9e9e44" resname="attribute_definition.delete.success">
+        <source>Attribute definition '%name%' removed.</source>
+        <target>crwdns264200:0%name%crwdne264200:0</target>
+        <note>key: attribute_definition.delete.success</note>
+      </trans-unit>
+      <trans-unit id="3958a161fc6e643954d3015893d5c4163bea8bdc" resname="attribute_definition.edit.action_name">
+        <source>Editing %attribute_type% Attribute</source>
+        <target>crwdns264202:0%attribute_type%crwdne264202:0</target>
+        <note>key: attribute_definition.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="602ac1f23f3c2306d2fbf1dec9821b97ed4f2ebb" resname="attribute_definition.edit.subtitle">
+        <source>in %language_name%</source>
+        <target>crwdns264204:0%language_name%crwdne264204:0</target>
+        <note>key: attribute_definition.edit.subtitle</note>
+      </trans-unit>
+      <trans-unit id="bc2737678d63d615bbee3b5eb0f28716734cf12c" resname="attribute_definition.information.headline">
+        <source>Attribute information</source>
+        <target>crwdns264206:0crwdne264206:0</target>
+        <note>key: attribute_definition.information.headline</note>
+      </trans-unit>
+      <trans-unit id="584474418f3ae3dacbf28a866d266a0c4ffcce2c" resname="attribute_definition.list.cannot_delete_notice">
+        <source>You cannot delete the disabled attributes, because they are used in other places.</source>
+        <target>crwdns264208:0crwdne264208:0</target>
+        <note>key: attribute_definition.list.cannot_delete_notice</note>
+      </trans-unit>
+      <trans-unit id="5cf8cb97f4af2ecbec7ca4e7c868775ca8388887" resname="attribute_definition.list.column.attribute_group">
+        <source>Attribute Group</source>
+        <target>crwdns264210:0crwdne264210:0</target>
+        <note>key: attribute_definition.list.column.attribute_group</note>
+      </trans-unit>
+      <trans-unit id="2147df5bf8c3356ef8cfe196ebd40984b8e72f6c" resname="attribute_definition.list.column.attribute_type">
+        <source>Type</source>
+        <target>crwdns264212:0crwdne264212:0</target>
+        <note>key: attribute_definition.list.column.attribute_type</note>
+      </trans-unit>
+      <trans-unit id="ca1ef7ad45f0c2fa70abd4b0ef24e47a551a4dc2" resname="attribute_definition.list.column.identifier">
+        <source>Identifier</source>
+        <target>crwdns264214:0crwdne264214:0</target>
+        <note>key: attribute_definition.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="ffa0c6d02e35c3a39917710550a79632338debd0" resname="attribute_definition.list.column.name">
+        <source>Name</source>
+        <target>crwdns264216:0crwdne264216:0</target>
+        <note>key: attribute_definition.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="a1cec4bdf687750b84989eab8b3f82e55724da7f" resname="attribute_definition.list.column.position">
+        <source>Position</source>
+        <target>crwdns264218:0crwdne264218:0</target>
+        <note>key: attribute_definition.list.column.position</note>
+      </trans-unit>
+      <trans-unit id="cb5f9f215ccd69315935656a89c7e408b89f0cc6" resname="attribute_definition.list.count_results">
+        <source>%count% Results</source>
+        <target>crwdns264220:0%count%crwdne264220:0</target>
+        <note>key: attribute_definition.list.count_results</note>
+      </trans-unit>
+      <trans-unit id="2748c3e607a4ee0656295cb6c88fad797eef100b" resname="attribute_definition.list.title">
+        <source>Attributes</source>
+        <target>crwdns264222:0crwdne264222:0</target>
+        <note>key: attribute_definition.list.title</note>
+      </trans-unit>
+      <trans-unit id="47e8a5c0fc846d22a35ee16fadf0c212b833773a" resname="attribute_definition.new.action_name">
+        <source>Creating</source>
+        <target>crwdns264224:0crwdne264224:0</target>
+        <note>key: attribute_definition.new.action_name</note>
+      </trans-unit>
+      <trans-unit id="5ee589f128187a30f2430809e09d2deefc97dbce" resname="attribute_definition.new.subtitle">
+        <source>in %language_name%</source>
+        <target>crwdns264226:0%language_name%crwdne264226:0</target>
+        <note>key: attribute_definition.new.subtitle</note>
+      </trans-unit>
+      <trans-unit id="bfb7cfe3a160ec277b879e5510e51c257ce82dcc" resname="attribute_definition.new.title">
+        <source>New %attribute_type_name% Attribute</source>
+        <target>crwdns264228:0%attribute_type_name%crwdne264228:0</target>
+        <note>key: attribute_definition.new.title</note>
+      </trans-unit>
+      <trans-unit id="cfbf370cf0dde5c5b8082f2e3ee6ea9e9705eec0" resname="attribute_definition.no_attributes.action_text">
+        <source>Content item(s) you or your User group can review will show up here.</source>
+        <target>crwdns264230:0crwdne264230:0</target>
+        <note>key: attribute_definition.no_attributes.action_text</note>
+      </trans-unit>
+      <trans-unit id="4cadd1754fa5ec14fc96ce0f73bf5c64236db77c" resname="attribute_definition.no_attributes.info_text">
+        <source>Add your first attribute</source>
+        <target>crwdns264232:0crwdne264232:0</target>
+        <note>key: attribute_definition.no_attributes.info_text</note>
+      </trans-unit>
+      <trans-unit id="a74705c3e96786a7886017e4b9b6908c16c4de88" resname="attribute_definition.no_attributes_group.action_text">
+        <source>To create attributes, you need to have at least one attribute group.</source>
+        <target>crwdns264234:0crwdne264234:0</target>
+        <note>key: attribute_definition.no_attributes_group.action_text</note>
+      </trans-unit>
+      <trans-unit id="62dc1da724099b82bc901faac52f6ac0e9090873" resname="attribute_definition.no_attributes_group.info_text">
+        <source>Add your first attribute</source>
+        <target>crwdns264236:0crwdne264236:0</target>
+        <note>key: attribute_definition.no_attributes_group.info_text</note>
+      </trans-unit>
+      <trans-unit id="690c5b6ad0efe8f8f6191b143d580e82b16f18d4" resname="attribute_definition.no_attributes_group.link_label">
+        <source>Go to attribute groups</source>
+        <target>crwdns264238:0crwdne264238:0</target>
+        <note>key: attribute_definition.no_attributes_group.link_label</note>
+      </trans-unit>
+      <trans-unit id="ef677424268316f7330f727d606c939e1f1d29fc" resname="attribute_definition.no_search_results.action_text">
+        <source>Try again with new search criteria</source>
+        <target>crwdns264240:0crwdne264240:0</target>
+        <note>key: attribute_definition.no_search_results.action_text</note>
+      </trans-unit>
+      <trans-unit id="fc69f9842a9aa6138f30efe6c758a15246ddc77a" resname="attribute_definition.no_search_results.info_text">
+        <source>Sorry, there are no attributes for your search</source>
+        <target>crwdns264242:0crwdne264242:0</target>
+        <note>key: attribute_definition.no_search_results.info_text</note>
+      </trans-unit>
+      <trans-unit id="9cbd920f83ef0b74bf3b8a29a855485a36fbcff2" resname="attribute_definition.pre_create.add">
+        <source>Add</source>
+        <target>crwdns264244:0crwdne264244:0</target>
+        <note>key: attribute_definition.pre_create.add</note>
+      </trans-unit>
+      <trans-unit id="2addd3db0aebc0606627d60ce51e66448d26b592" resname="attribute_definition.pre_create.add_attribute_definition">
+        <source>Add attribute definition</source>
+        <target>crwdns264246:0crwdne264246:0</target>
+        <note>key: attribute_definition.pre_create.add_attribute_definition</note>
+      </trans-unit>
+      <trans-unit id="c01193d8561769321dc5f8effe9aed85d3c2965f" resname="attribute_definition.pre_create.cancel">
+        <source>Cancel</source>
+        <target>crwdns264248:0crwdne264248:0</target>
+        <note>key: attribute_definition.pre_create.cancel</note>
+      </trans-unit>
+      <trans-unit id="8291d22b53db4caceba195ce3e05ca4240235a09" resname="attribute_definition.update.success">
+        <source>Attribute '%name%' updated.</source>
+        <target>crwdns264250:0%name%crwdne264250:0</target>
+        <note>key: attribute_definition.update.success</note>
+      </trans-unit>
+      <trans-unit id="d8a741f53d8fb247e8e15a9b887acc4a547cd4de" resname="attribute_definition.view.group">
+        <source>Group</source>
+        <target>crwdns264252:0crwdne264252:0</target>
+        <note>key: attribute_definition.view.group</note>
+      </trans-unit>
+      <trans-unit id="6d5120764e67191cf9929e8a1c123ae93de5bd43" resname="attribute_definition.view.identifier">
+        <source>Identifier</source>
+        <target>crwdns264254:0crwdne264254:0</target>
+        <note>key: attribute_definition.view.identifier</note>
+      </trans-unit>
+      <trans-unit id="bded04b07c65841ffd8cdd82f4d4b8c145d370d8" resname="attribute_definition.view.name">
+        <source>Name</source>
+        <target>crwdns264256:0crwdne264256:0</target>
+        <note>key: attribute_definition.view.name</note>
+      </trans-unit>
+      <trans-unit id="f2ccecb17d180fd8c3607a3f3a13a6938b2c4405" resname="attribute_definition.view.options">
+        <source>Attribute options</source>
+        <target>crwdns264258:0crwdne264258:0</target>
+        <note>key: attribute_definition.view.options</note>
+      </trans-unit>
+      <trans-unit id="d40c2c145b6129ed2bd01a8466b248e4cbb84796" resname="attribute_definition.view.options.name">
+        <source>Name</source>
+        <target>crwdns264260:0crwdne264260:0</target>
+        <note>key: attribute_definition.view.options.name</note>
+      </trans-unit>
+      <trans-unit id="f86d275ec4a91aab7e497b8a65bacdd653406ede" resname="attribute_definition.view.options.value">
+        <source>Value</source>
+        <target>crwdns264262:0crwdne264262:0</target>
+        <note>key: attribute_definition.view.options.value</note>
+      </trans-unit>
+      <trans-unit id="1c774eee6bf6efc09398d2fe326338e04fb0e231" resname="attribute_definition.view.position">
+        <source>Position</source>
+        <target>crwdns264264:0crwdne264264:0</target>
+        <note>key: attribute_definition.view.position</note>
+      </trans-unit>
+      <trans-unit id="4e44d30e3e498d62684574296893ce8f2508c49b" resname="attribute_definition.view.title">
+        <source>Attribute definition "%attribute_definition_name%"</source>
+        <target>crwdns264266:0%attribute_definition_name%crwdne264266:0</target>
+        <note>key: attribute_definition.view.title</note>
+      </trans-unit>
+      <trans-unit id="a0bf7a1bd571dc8b6e65a919a1d4cc4038994bc4" resname="attribute_definition.view.type">
+        <source>Type</source>
+        <target>crwdns264268:0crwdne264268:0</target>
+        <note>key: attribute_definition.view.type</note>
+      </trans-unit>
+      <trans-unit id="419d847735cabb6bdae740f140d7fda77c23beb1" resname="attribute_definition_translation_add_form.add">
+        <source>Create</source>
+        <target>crwdns264270:0crwdne264270:0</target>
+        <note>key: attribute_definition_translation_add_form.add</note>
+      </trans-unit>
+      <trans-unit id="67d3744156c0d39132649408d73c6ec72587453f" resname="attribute_definition_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target>crwdns264272:0crwdne264272:0</target>
+        <note>key: attribute_definition_translation_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="ef198a76186df8b1d52f5062698715d6130932fe" resname="attribute_group.breadcrumb.list">
+        <source>Attribute groups</source>
+        <target>crwdns264274:0crwdne264274:0</target>
+        <note>key: attribute_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="d706859ada946c49c4ad12e42f83ecb88f465717" resname="attribute_group.breadcrumb.view">
+        <source>%name%</source>
+        <target>crwdns264276:0%name%crwdne264276:0</target>
+        <note>key: attribute_group.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="d8d14d9801453b819beb66e64b9efc9a681e21a4" resname="attribute_group.create.success">
+        <source>Attribute Group '%name%' created.</source>
+        <target>crwdns264278:0%name%crwdne264278:0</target>
+        <note>key: attribute_group.create.success</note>
+      </trans-unit>
+      <trans-unit id="26fe3e0dccbca7e764dcbe65ae03ba58c9497fb4" resname="attribute_group.delete.success">
+        <source>{1}Attribute group '%deletedNames%' removed.|]1,Inf[ Attribute groups '%deletedNames%' removed.</source>
+        <target>crwdns264280:0{1}crwdnd264280:0%deletedNames%crwdnd264280:0%deletedNames%crwdne264280:0</target>
+        <note>key: attribute_group.delete.success</note>
+      </trans-unit>
+      <trans-unit id="27b6abd5e76b68ca068f0910008d8b8940d221e5" resname="attribute_group.edit.action_name">
+        <source>Editing Attribute group</source>
+        <target>crwdns264282:0crwdne264282:0</target>
+        <note>key: attribute_group.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="0a80df990a32610836d692351deb745c57492653" resname="attribute_group.information.headline">
+        <source>Attribute group information</source>
+        <target>crwdns264284:0crwdne264284:0</target>
+        <note>key: attribute_group.information.headline</note>
+      </trans-unit>
+      <trans-unit id="6b3254aaa47032105920c16b2bbe6365f19e197b" resname="attribute_group.list.action.create">
+        <source>Create</source>
+        <target>crwdns264286:0crwdne264286:0</target>
+        <note>key: attribute_group.list.action.create</note>
+      </trans-unit>
+      <trans-unit id="30312f90a8509d0f1768ceff1d2cfe8e9a03129d" resname="attribute_group.list.column.identifier">
+        <source>Identifier</source>
+        <target>crwdns264288:0crwdne264288:0</target>
+        <note>key: attribute_group.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="57cef6a5c587f7a9e3887a0ef3ad21ab2f669d24" resname="attribute_group.list.column.name">
+        <source>Name</source>
+        <target>crwdns264290:0crwdne264290:0</target>
+        <note>key: attribute_group.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="e9b6984aa83a1ccd4ce040f59e2ff1d3f67a29c7" resname="attribute_group.list.column.position">
+        <source>Position</source>
+        <target>crwdns264292:0crwdne264292:0</target>
+        <note>key: attribute_group.list.column.position</note>
+      </trans-unit>
+      <trans-unit id="2358230344910f644235f963ebb304115dd88d20" resname="attribute_group.list.number_of_results">
+        <source>%number_of_results% Results</source>
+        <target>crwdns264294:0%number_of_results%crwdne264294:0</target>
+        <note>key: attribute_group.list.number_of_results</note>
+      </trans-unit>
+      <trans-unit id="99eb3af4dc09dcb2883296ac4187137c858ddfe1" resname="attribute_group.list.title">
+        <source>Attribute groups</source>
+        <target>crwdns264296:0crwdne264296:0</target>
+        <note>key: attribute_group.list.title</note>
+      </trans-unit>
+      <trans-unit id="4d02dc63d5adb3b6713d58257b05fb2e193cfa06" resname="attribute_group.new.action_name">
+        <source>Creating</source>
+        <target>crwdns264298:0crwdne264298:0</target>
+        <note>key: attribute_group.new.action_name</note>
+      </trans-unit>
+      <trans-unit id="63b4b715169f155efe36ecade1b8552342f76b51" resname="attribute_group.new.title">
+        <source>New Attribute group</source>
+        <target>crwdns264300:0crwdne264300:0</target>
+        <note>key: attribute_group.new.title</note>
+      </trans-unit>
+      <trans-unit id="358c7debce239a8a4f9c956204c7cda965b2142f" resname="attribute_group.no_attributes_group.action_text">
+        <source>Content item(s) you or your User group can review will show up here.</source>
+        <target>crwdns264302:0crwdne264302:0</target>
+        <note>key: attribute_group.no_attributes_group.action_text</note>
+      </trans-unit>
+      <trans-unit id="4b6c5dfd16839e4273f72551101f81d1336e1a4a" resname="attribute_group.no_attributes_group.info_text">
+        <source>Add your first attribute group</source>
+        <target>crwdns264304:0crwdne264304:0</target>
+        <note>key: attribute_group.no_attributes_group.info_text</note>
+      </trans-unit>
+      <trans-unit id="d5308d391de5aad3682768b97bb68f280bfe43f3" resname="attribute_group.no_search_results.action_text">
+        <source>Try again with new search criteria</source>
+        <target>crwdns264306:0crwdne264306:0</target>
+        <note>key: attribute_group.no_search_results.action_text</note>
+      </trans-unit>
+      <trans-unit id="16bf539c61720387fa41396be436aa74c5430821" resname="attribute_group.no_search_results.info_text">
+        <source>Sorry, there are no attribute groups for your search</source>
+        <target>crwdns264308:0crwdne264308:0</target>
+        <note>key: attribute_group.no_search_results.info_text</note>
+      </trans-unit>
+      <trans-unit id="051bdbce431120cade38fce50d608d2d82446044" resname="attribute_group.update.success">
+        <source>Attribute Group '%name%' updated.</source>
+        <target>crwdns264310:0%name%crwdne264310:0</target>
+        <note>key: attribute_group.update.success</note>
+      </trans-unit>
+      <trans-unit id="489e900a6b4a75d87e8b575dd624049a309bbafd" resname="attribute_group.view.add_attribute">
+        <source>Add attribute</source>
+        <target>crwdns264312:0crwdne264312:0</target>
+        <note>key: attribute_group.view.add_attribute</note>
+      </trans-unit>
+      <trans-unit id="ee269203b159d409b131dd61d512a625c94d6eff" resname="attribute_group.view.attributes_group">
+        <source>Attribute group</source>
+        <target>crwdns264314:0crwdne264314:0</target>
+        <note>key: attribute_group.view.attributes_group</note>
+      </trans-unit>
+      <trans-unit id="592b7f7b39973e8d577fb8ceddf3002be195af8d" resname="attribute_group.view.delete">
+        <source>Delete</source>
+        <target>crwdns264316:0crwdne264316:0</target>
+        <note>key: attribute_group.view.delete</note>
+      </trans-unit>
+      <trans-unit id="d8b7b9089b8352da099325a822eb6a63154d810a" resname="attribute_group.view.edit">
+        <source>Edit</source>
+        <target>crwdns264318:0crwdne264318:0</target>
+        <note>key: attribute_group.view.edit</note>
+      </trans-unit>
+      <trans-unit id="52d704c7032af7334debbf6bffacaf015cdea7b8" resname="attribute_group.view.identifier">
+        <source>Identifier</source>
+        <target>crwdns264320:0crwdne264320:0</target>
+        <note>key: attribute_group.view.identifier</note>
+      </trans-unit>
+      <trans-unit id="0c7a61a8376f871c3ac93ac580cf3a2c39d3b0d0" resname="attribute_group.view.name">
+        <source>Name</source>
+        <target>crwdns264322:0crwdne264322:0</target>
+        <note>key: attribute_group.view.name</note>
+      </trans-unit>
+      <trans-unit id="14864666c347a98cf1f2984abe7cdec9d1374b00" resname="attribute_group.view.position">
+        <source>Position</source>
+        <target>crwdns264324:0crwdne264324:0</target>
+        <note>key: attribute_group.view.position</note>
+      </trans-unit>
+      <trans-unit id="cc8c59b97e382065f7ad2d4054c722fa06e962af" resname="attribute_group.view.title">
+        <source>%name%</source>
+        <target>crwdns264326:0%name%crwdne264326:0</target>
+        <note>key: attribute_group.view.title</note>
+      </trans-unit>
+      <trans-unit id="cc850a1061ddedb8e8be9deea26660f1b97fe731" resname="attribute_group_translation_add_form.add">
+        <source>Create</source>
+        <target>crwdns264328:0crwdne264328:0</target>
+        <note>key: attribute_group_translation_add_form.add</note>
+      </trans-unit>
+      <trans-unit id="73c94795f6aea4c968427b19b9070448350992df" resname="attribute_group_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target>crwdns264330:0crwdne264330:0</target>
+        <note>key: attribute_group_translation_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="1c481a26fd2d4c455c0079974e91835c23472664" resname="catalog.breadcrumb.list">
+        <source>Catalogs</source>
+        <target>crwdns264332:0crwdne264332:0</target>
+        <note>key: catalog.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="ba6ad292ef95989774c5ba7a98dac2d142cc2636" resname="catalog.copy.action_name">
+        <source>Copying Catalog</source>
+        <target>crwdns264334:0crwdne264334:0</target>
+        <note>key: catalog.copy.action_name</note>
+      </trans-unit>
+      <trans-unit id="9599f9986ae44bbcedb9f67fe2bce5ce7ddac567" resname="catalog.copy.success">
+        <source>Catalog '%name%' copied.</source>
+        <target>crwdns264336:0%name%crwdne264336:0</target>
+        <note>key: catalog.copy.success</note>
+      </trans-unit>
+      <trans-unit id="ecc1ca35835988ee8e5e55a0b40a8c100fd77bb9" resname="catalog.create.success">
+        <source>Catalog '%name%' created.</source>
+        <target>crwdns264338:0%name%crwdne264338:0</target>
+        <note>key: catalog.create.success</note>
+      </trans-unit>
+      <trans-unit id="277822f45916722a82f9292864c5f23ad1ad825d" resname="catalog.creating.title">
+        <source>New Catalog</source>
+        <target>crwdns264340:0crwdne264340:0</target>
+        <note>key: catalog.creating.title</note>
+      </trans-unit>
+      <trans-unit id="b379db7f5d9b12dbaebad74be3e601e78ac16a45" resname="catalog.delete.success">
+        <source>{1}Catalog '%deletedNames%' removed.|]1,Inf[ Catalogs '%deletedNames%' removed.</source>
+        <target>crwdns264342:0{1}crwdnd264342:0%deletedNames%crwdnd264342:0%deletedNames%crwdne264342:0</target>
+        <note>key: catalog.delete.success</note>
+      </trans-unit>
+      <trans-unit id="8dce8ed17eb7a6f588f96edb31f996941df0c392" resname="catalog.delete.translation.success">
+        <source>{1}Translation in '%languageCodes%' of catalog '%deletedNames%' removed.|]1,Inf[ Translations in '%languageCodes%' of catalog '%deletedNames%' (respectively) removed.</source>
+        <target>crwdns264344:0{1}crwdnd264344:0%languageCodes%crwdnd264344:0%deletedNames%crwdnd264344:0%languageCodes%crwdnd264344:0%deletedNames%crwdne264344:0</target>
+        <note>key: catalog.delete.translation.success</note>
+      </trans-unit>
+      <trans-unit id="112420701d32e5dbee205b746f3fcf536d43b84b" resname="catalog.details.created">
+        <source>Created</source>
+        <target>crwdns264346:0crwdne264346:0</target>
+        <note>key: catalog.details.created</note>
+      </trans-unit>
+      <trans-unit id="3c5bf4f9efc57a2c134dfcb205561fbbb15106f2" resname="catalog.details.creator">
+        <source>Creator</source>
+        <target>crwdns264348:0crwdne264348:0</target>
+        <note>key: catalog.details.creator</note>
+      </trans-unit>
+      <trans-unit id="1376608d323e76b5b1e82efaba4da13822156ba9" resname="catalog.details.identifier">
+        <source>Identifier</source>
+        <target>crwdns264350:0crwdne264350:0</target>
+        <note>key: catalog.details.identifier</note>
+      </trans-unit>
+      <trans-unit id="600f1c4bd302723f4b89e3774813f4cf8a3c0157" resname="catalog.details.modified">
+        <source>Modified</source>
+        <target>crwdns264352:0crwdne264352:0</target>
+        <note>key: catalog.details.modified</note>
+      </trans-unit>
+      <trans-unit id="30ac1667933e7d927f867a4bef79a42e5bdb7549" resname="catalog.details.name">
+        <source>Name</source>
+        <target>crwdns264354:0crwdne264354:0</target>
+        <note>key: catalog.details.name</note>
+      </trans-unit>
+      <trans-unit id="d3c941207aac99ed3513cb06887e9e0a981a4274" resname="catalog.edit.action_name">
+        <source>Editing Catalog</source>
+        <target>crwdns264356:0crwdne264356:0</target>
+        <note>key: catalog.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="bf5aa853e6a69d10cb9f9b54300037f49afb782f" resname="catalog.edit.add_filter">
+        <source>Add filter</source>
+        <target>crwdns264358:0crwdne264358:0</target>
+        <note>key: catalog.edit.add_filter</note>
+      </trans-unit>
+      <trans-unit id="0b26e8afbf316c27641381c5a9d544643d0b16ef" resname="catalog.edit.choice_filter.search_placeholder">
+        <source>Search...</source>
+        <target>crwdns264360:0crwdne264360:0</target>
+        <note>key: catalog.edit.choice_filter.search_placeholder</note>
+      </trans-unit>
+      <trans-unit id="bd17f60dd8ff8edfaca2fd403262c9e7d57e297d" resname="catalog.edit.config_filter.clear_all">
+        <source>Clear all</source>
+        <target>crwdns264362:0crwdne264362:0</target>
+        <note>key: catalog.edit.config_filter.clear_all</note>
+      </trans-unit>
+      <trans-unit id="54876c4f5f81fc9a4de8adf2869198b041fd9f7a" resname="catalog.edit.config_filter.clear_all_count">
+        <source>Clear all (%count%)</source>
+        <target>crwdns264364:0%count%crwdne264364:0</target>
+        <note>key: catalog.edit.config_filter.clear_all_count</note>
+      </trans-unit>
+      <trans-unit id="d0a1e2a6131be64a4bc14822c78902c7be5a8249" resname="catalog.edit.config_filter.empty_value">
+        <source>(All)</source>
+        <target>crwdns264366:0crwdne264366:0</target>
+        <note>key: catalog.edit.config_filter.empty_value</note>
+      </trans-unit>
+      <trans-unit id="604f16fe719b52c2567af60731b2bbe3061a8ddc" resname="catalog.edit.config_filter.select_all">
+        <source>Select All</source>
+        <target>crwdns264368:0crwdne264368:0</target>
+        <note>key: catalog.edit.config_filter.select_all</note>
+      </trans-unit>
+      <trans-unit id="6cec32a308c914cd8bead10d2ceb59995ba310aa" resname="catalog.edit.filters">
+        <source>Filters</source>
+        <target>crwdns264370:0crwdne264370:0</target>
+        <note>key: catalog.edit.filters</note>
+      </trans-unit>
+      <trans-unit id="ceb9255e787e388e3acc723e72b00a34c2389847" resname="catalog.edit.filters.list.header">
+        <source>Set up filters for catalog</source>
+        <target>crwdns264372:0crwdne264372:0</target>
+        <note>key: catalog.edit.filters.list.header</note>
+      </trans-unit>
+      <trans-unit id="e80c2637f9d86c17f68c0cf2b898cf7e282f30c4" resname="catalog.edit.filters.list.header_tooltip">
+        <source>Use filters to create a catalog with a specific set of products (by default all products are selected)</source>
+        <target>crwdns264374:0crwdne264374:0</target>
+        <note>key: catalog.edit.filters.list.header_tooltip</note>
+      </trans-unit>
+      <trans-unit id="e9264c19221e82a0d43a008a8e825e53a1df63c0" resname="catalog.edit.filters.toggler.hide">
+        <source>Hide</source>
+        <target>crwdns264376:0crwdne264376:0</target>
+        <note>key: catalog.edit.filters.toggler.hide</note>
+      </trans-unit>
+      <trans-unit id="adedd4b28ed9c366d5439c6c6081e37302d7ccde" resname="catalog.edit.filters.toggler.show">
+        <source>Show</source>
+        <target>crwdns264378:0crwdne264378:0</target>
+        <note>key: catalog.edit.filters.toggler.show</note>
+      </trans-unit>
+      <trans-unit id="473de4a85f33cdd5fa086c881c62199aff794e25" resname="catalog.edit.global_properties">
+        <source>Global properties</source>
+        <target>crwdns264380:0crwdne264380:0</target>
+        <note>key: catalog.edit.global_properties</note>
+      </trans-unit>
+      <trans-unit id="8552cf6ea0c17a2dc26d77fccf43cc7e8506cdba" resname="catalog.edit.products">
+        <source>Products</source>
+        <target>crwdns264382:0crwdne264382:0</target>
+        <note>key: catalog.edit.products</note>
+      </trans-unit>
+      <trans-unit id="aa31583d416c29fcb02460d1e4567c0769910be7" resname="catalog.edit.products.subtitle">
+        <source>Current product list based on the applied filters</source>
+        <target>crwdns264384:0crwdne264384:0</target>
+        <note>key: catalog.edit.products.subtitle</note>
+      </trans-unit>
+      <trans-unit id="0015cad99954a023b79c4ef6946e67d36ff8a11f" resname="catalog.edit.products.title">
+        <source>Products</source>
+        <target>crwdns264386:0crwdne264386:0</target>
+        <note>key: catalog.edit.products.title</note>
+      </trans-unit>
+      <trans-unit id="70578346210fe5050ecae36a64b05f8d9271a831" resname="catalog.filters">
+        <source>Filters</source>
+        <target>crwdns264388:0crwdne264388:0</target>
+        <note>key: catalog.filters</note>
+      </trans-unit>
+      <trans-unit id="3f792c139ee88226900888eff14c031c4d99f7db" resname="catalog.information.headline">
+        <source>Catalog information</source>
+        <target>crwdns264390:0crwdne264390:0</target>
+        <note>key: catalog.information.headline</note>
+      </trans-unit>
+      <trans-unit id="457fc7842b4fb7125757eed53c74895ca653214f" resname="catalog.list.column.created">
+        <source>Created</source>
+        <target>crwdns264392:0crwdne264392:0</target>
+        <note>key: catalog.list.column.created</note>
+      </trans-unit>
+      <trans-unit id="8757f39ea92a9acad6e168b31b5e9b7c5fc0efe3" resname="catalog.list.column.creator">
+        <source>Creator</source>
+        <target>crwdns264394:0crwdne264394:0</target>
+        <note>key: catalog.list.column.creator</note>
+      </trans-unit>
+      <trans-unit id="5247cfde96dc5791d083d148bd580d22155e9d7c" resname="catalog.list.column.modified">
+        <source>Modified</source>
+        <target>crwdns264396:0crwdne264396:0</target>
+        <note>key: catalog.list.column.modified</note>
+      </trans-unit>
+      <trans-unit id="c4a6d230c9f32ed60d4d838d2ad2962cebdd5429" resname="catalog.list.column.name">
+        <source>Name</source>
+        <target>crwdns264398:0crwdne264398:0</target>
+        <note>key: catalog.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="91086a117543387a59c60b240e822705719042cf" resname="catalog.list.column.status">
+        <source>Status</source>
+        <target>crwdns264400:0crwdne264400:0</target>
+        <note>key: catalog.list.column.status</note>
+      </trans-unit>
+      <trans-unit id="ac8ff6b6e9572668a87c0b56085b7113249f3f4b" resname="catalog.list.empty">
+        <source>No content to show.</source>
+        <target>crwdns264402:0crwdne264402:0</target>
+        <note>key: catalog.list.empty</note>
+      </trans-unit>
+      <trans-unit id="9139809f4440a1d7214106a2f1367b7a65388b51" resname="catalog.list.number_of_results">
+        <source>List (%number_of_results%)</source>
+        <target>crwdns264404:0%number_of_results%crwdne264404:0</target>
+        <note>key: catalog.list.number_of_results</note>
+      </trans-unit>
+      <trans-unit id="21c0757ecba3b9fbadc83ce9257acc18b9a390cc" resname="catalog.list.title">
+        <source>Catalogs</source>
+        <target>crwdns264406:0crwdne264406:0</target>
+        <note>key: catalog.list.title</note>
+      </trans-unit>
+      <trans-unit id="a93a564ece2746325e90a49f27f77b5c1631c1ef" resname="catalog.new.action_name">
+        <source>Creating</source>
+        <target>crwdns264408:0crwdne264408:0</target>
+        <note>key: catalog.new.action_name</note>
+      </trans-unit>
+      <trans-unit id="6cbb17a83bd731a686868d6335f7cfbeecaeaa1f" resname="catalog.place.archived">
+        <source>Archived</source>
+        <target>crwdns264410:0crwdne264410:0</target>
+        <note>key: catalog.place.archived</note>
+      </trans-unit>
+      <trans-unit id="890fb133cc663343fa8e4de4f602a8dd53e8ce6e" resname="catalog.place.draft">
+        <source>Draft</source>
+        <target>crwdns264412:0crwdne264412:0</target>
+        <note>key: catalog.place.draft</note>
+      </trans-unit>
+      <trans-unit id="7343a0977d38545dd41e03b30eab0fdb5688cae0" resname="catalog.place.published">
+        <source>Published</source>
+        <target>crwdns264414:0crwdne264414:0</target>
+        <note>key: catalog.place.published</note>
+      </trans-unit>
+      <trans-unit id="76e20e35de909a616ecd4d94fab10c5dbde08d91" resname="catalog.transition.archive">
+        <source>Archive</source>
+        <target>crwdns264416:0crwdne264416:0</target>
+        <note>key: catalog.transition.archive</note>
+      </trans-unit>
+      <trans-unit id="3b586e3d0a7c450c85cdbfbbf05b21583ed0846b" resname="catalog.transition.publish">
+        <source>Publish</source>
+        <target>crwdns264418:0crwdne264418:0</target>
+        <note>key: catalog.transition.publish</note>
+      </trans-unit>
+      <trans-unit id="f08fd9dc3f6c3c6e004bde882bf976275c84d9e8" resname="catalog.transition.success">
+        <source>Catalog status has been changed.</source>
+        <target>crwdns264420:0crwdne264420:0</target>
+        <note>key: catalog.transition.success</note>
+      </trans-unit>
+      <trans-unit id="78b3ba6b2b529109f8f273f82f8eca6b09f00f9b" resname="catalog.update.success">
+        <source>Catalog '%name%' updated.</source>
+        <target>crwdns264422:0%name%crwdne264422:0</target>
+        <note>key: catalog.update.success</note>
+      </trans-unit>
+      <trans-unit id="dce3a3272d1fe7b087fec3c88a142c966f41f1c2" resname="catalog.view.catalog">
+        <source>Catalog</source>
+        <target>crwdns264424:0crwdne264424:0</target>
+        <note>key: catalog.view.catalog</note>
+      </trans-unit>
+      <trans-unit id="5df80e693564b3fd2e2a27833fe36058279ed502" resname="catalog.view.modal.transition.body">
+        <source>Are you sure you want to change the catalog status to "%status%"?</source>
+        <target>crwdns264426:0%status%crwdne264426:0</target>
+        <note>key: catalog.view.modal.transition.body</note>
+      </trans-unit>
+      <trans-unit id="05e430e9f651d630e52ac142c04f2871214ff8b6" resname="catalog.view.title">
+        <source>Catalog "%catalog%"</source>
+        <target>crwdns264428:0%catalog%crwdne264428:0</target>
+        <note>key: catalog.view.title</note>
+      </trans-unit>
+      <trans-unit id="2a2eeb6961f15fc3133c11e2f7de3a31e4e91b44" resname="catalog_translation_add_form.add">
+        <source>Create</source>
+        <target>crwdns264430:0crwdne264430:0</target>
+        <note>key: catalog_translation_add_form.add</note>
+      </trans-unit>
+      <trans-unit id="e6a6a88e3469caed0502978225b6f0eccbb6e95c" resname="catalog_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target>crwdns264432:0crwdne264432:0</target>
+        <note>key: catalog_translation_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="2eb6dec3b5080e5ef579df42453a4fb6546ecd11" resname="checkbox.value.false">
+        <source>No</source>
+        <target>crwdns264434:0crwdne264434:0</target>
+        <note>key: checkbox.value.false</note>
+      </trans-unit>
+      <trans-unit id="927641893afc1090a7387e8456a31112cfa05d88" resname="checkbox.value.true">
+        <source>Yes</source>
+        <target>crwdns264436:0crwdne264436:0</target>
+        <note>key: checkbox.value.true</note>
+      </trans-unit>
+      <trans-unit id="afc37b308da672099245dcde4c697fd62cde6110" resname="config_panel.btn.cancel_label">
+        <source>Cancel</source>
+        <target>crwdns264438:0crwdne264438:0</target>
+        <note>key: config_panel.btn.cancel_label</note>
+      </trans-unit>
+      <trans-unit id="5fda897487f7f702290296ebdee5f9b45aa0c90d" resname="config_panel.btn.save_label">
+        <source>Save</source>
+        <target>crwdns264440:0crwdne264440:0</target>
+        <note>key: config_panel.btn.save_label</note>
+      </trans-unit>
+      <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
+        <source>This Field Type is not editable</source>
+        <target>crwdns264442:0crwdne264442:0</target>
+        <note>key: content.field.non_editable</note>
+      </trans-unit>
+      <trans-unit id="2da3a62682c9985ab10302dcfc2451954ed3cfd8" resname="currencies.list.title">
+        <source>Currencies</source>
+        <target>crwdns264444:0crwdne264444:0</target>
+        <note>key: currencies.list.title</note>
+      </trans-unit>
+      <trans-unit id="e0599aae4ca54ac7f5c94b436908fa7291e1782c" resname="currency.creating.action_name">
+        <source>Creating new currency</source>
+        <target>crwdns264446:0crwdne264446:0</target>
+        <note>key: currency.creating.action_name</note>
+      </trans-unit>
+      <trans-unit id="579d803cb65fc830655353d738f751dd81afc5c3" resname="currency.creating.title">
+        <source>New currency</source>
+        <target>crwdns264448:0crwdne264448:0</target>
+        <note>key: currency.creating.title</note>
+      </trans-unit>
+      <trans-unit id="9ecb5118c32cc5c08ed8b3164afb8cd627fe8c6a" resname="currency.delete.success">
+        <source>{1}Currency '%deletedCodes%' removed.|]1,Inf[ Currencies '%deletedCodes%' removed.</source>
+        <target>crwdns264450:0{1}crwdnd264450:0%deletedCodes%crwdnd264450:0%deletedCodes%crwdne264450:0</target>
+        <note>key: currency.delete.success</note>
+      </trans-unit>
+      <trans-unit id="dfe4b9dd5b1891fcaa0a82feddfaaa1d0c8198f4" resname="currency.edit.action_name">
+        <source>Editing currency</source>
+        <target>crwdns264452:0crwdne264452:0</target>
+        <note>key: currency.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="ccbb50d044903df5d3a251dbfb7197dc83190026" resname="currency.enabled.value.0">
+        <source>Disabled</source>
+        <target>crwdns264454:0crwdne264454:0</target>
+        <note>key: currency.enabled.value.0</note>
+      </trans-unit>
+      <trans-unit id="5c80cb406db62717b11a2077e4942a51aa8738b0" resname="currency.enabled.value.1">
+        <source>Enabled</source>
+        <target>crwdns264456:0crwdne264456:0</target>
+        <note>key: currency.enabled.value.1</note>
+      </trans-unit>
+      <trans-unit id="47c4ea1fc2aa2df69669f94fee15132794d895c8" resname="currency.list.column.code">
+        <source>Code</source>
+        <target>crwdns264458:0crwdne264458:0</target>
+        <note>key: currency.list.column.code</note>
+      </trans-unit>
+      <trans-unit id="fa6dcaa63ea388da6642da4d8f5c4a31208af991" resname="currency.list.column.enabled">
+        <source>Enabled</source>
+        <target>crwdns264460:0crwdne264460:0</target>
+        <note>key: currency.list.column.enabled</note>
+      </trans-unit>
+      <trans-unit id="30e43043a4c5177ef5bb6973d1302d65a39c2a36" resname="currency.list.column.name">
+        <source>Code</source>
+        <target>crwdns264462:0crwdne264462:0</target>
+        <note>key: currency.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="88250082cc8fea91e65918d2d0c8a79fbfd000a2" resname="currency.list.column.subunits">
+        <source>Number of fractional digits</source>
+        <target>crwdns264464:0crwdne264464:0</target>
+        <note>key: currency.list.column.subunits</note>
+      </trans-unit>
+      <trans-unit id="143068b7805a7e54f1a04ccc1e5aec1b072363a2" resname="currency.list.column.symbol">
+        <source>Symbol</source>
+        <target>crwdns264466:0crwdne264466:0</target>
+        <note>key: currency.list.column.symbol</note>
+      </trans-unit>
+      <trans-unit id="d12fbab0d2773a982b0e1cd0c62723ff31d88f72" resname="currency.list.number_of_results">
+        <source>%number_of_results% Results</source>
+        <target>crwdns264468:0%number_of_results%crwdne264468:0</target>
+        <note>key: currency.list.number_of_results</note>
+      </trans-unit>
+      <trans-unit id="dc4350a333918edfe4527d71857a144a5ee95a38" resname="customer_group.breadcrumb.list">
+        <source>Customer Groups</source>
+        <target>crwdns264470:0crwdne264470:0</target>
+        <note>key: customer_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="a16e0a414916ec9c2c3e5d5dcfb6f56604bd88a3" resname="customer_group.create.success">
+        <source>Customer Group '%name%' created.</source>
+        <target>crwdns264472:0%name%crwdne264472:0</target>
+        <note>key: customer_group.create.success</note>
+      </trans-unit>
+      <trans-unit id="4088f91f92755f4d64e366096670578595d5a461" resname="customer_group.creating.title">
+        <source>New customers group</source>
+        <target>crwdns264474:0crwdne264474:0</target>
+        <note>key: customer_group.creating.title</note>
+      </trans-unit>
+      <trans-unit id="cf436582d9a2ff9ea033739e860ac4dc50aa6332" resname="customer_group.delete.success">
+        <source>{1}Customer Group '%deletedNames%' removed.|]1,Inf[ Customer Groups '%deletedNames%' removed.</source>
+        <target>crwdns264476:0{1}crwdnd264476:0%deletedNames%crwdnd264476:0%deletedNames%crwdne264476:0</target>
+        <note>key: customer_group.delete.success</note>
+      </trans-unit>
+      <trans-unit id="5a7ec3bf1ed386484e7d01021cbbbb9996ac98e5" resname="customer_group.details.column.name">
+        <source>Name</source>
+        <target>crwdns264478:0crwdne264478:0</target>
+        <note>key: customer_group.details.column.name</note>
+      </trans-unit>
+      <trans-unit id="80c465841426071cd87fff0e6e3746043c76f577" resname="customer_group.details.header">
+        <source>Customer group information</source>
+        <target>crwdns264480:0crwdne264480:0</target>
+        <note>key: customer_group.details.header</note>
+      </trans-unit>
+      <trans-unit id="8d218ca013d84b2eb778a88002a745cd993898a3" resname="customer_group.edit.action_name">
+        <source>Editing Customers group</source>
+        <target>crwdns264482:0crwdne264482:0</target>
+        <note>key: customer_group.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="88b0ded0263a770e2da2d428a3ad6b50732033b7" resname="customer_group.edit.price_rate_description">
+        <source>Percentage decrease (-) or increase (+) to the base price. Applies to this customer group</source>
+        <target>crwdns264484:0crwdne264484:0</target>
+        <note>key: customer_group.edit.price_rate_description</note>
+      </trans-unit>
+      <trans-unit id="a7ea212747545f09b9863e250a93815869a32c34" resname="customer_group.list.column.description">
+        <source>Description</source>
+        <target>crwdns264486:0crwdne264486:0</target>
+        <note>key: customer_group.list.column.description</note>
+      </trans-unit>
+      <trans-unit id="584c1c114c8eed0277f63cb30023f6ba6c8e956c" resname="customer_group.list.column.global_price_rate">
+        <source>Global price rate</source>
+        <target>crwdns264488:0crwdne264488:0</target>
+        <note>key: customer_group.list.column.global_price_rate</note>
+      </trans-unit>
+      <trans-unit id="32c377baea64f4dcc8130bd887cef0bc2db47363" resname="customer_group.list.column.identifier">
+        <source>Identifier</source>
+        <target>crwdns264490:0crwdne264490:0</target>
+        <note>key: customer_group.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="125c735de4901ed74714a4311354cb92a74f4a28" resname="customer_group.list.column.name">
+        <source>Name</source>
+        <target>crwdns264492:0crwdne264492:0</target>
+        <note>key: customer_group.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="4121913e7e6ce7cf2a4d3726fece6567511a0fd6" resname="customer_group.list.details.description">
+        <source>Description</source>
+        <target>crwdns264494:0crwdne264494:0</target>
+        <note>key: customer_group.list.details.description</note>
+      </trans-unit>
+      <trans-unit id="cd43cec057addba97820c5fcabc2872384fdab42" resname="customer_group.list.details.global_price_rate">
+        <source>Global price rate</source>
+        <target>crwdns264496:0crwdne264496:0</target>
+        <note>key: customer_group.list.details.global_price_rate</note>
+      </trans-unit>
+      <trans-unit id="09c8939c1a7c26b1185ffcc3fd0ef58336ad7e1e" resname="customer_group.list.details.identifier">
+        <source>Identifier</source>
+        <target>crwdns264498:0crwdne264498:0</target>
+        <note>key: customer_group.list.details.identifier</note>
+      </trans-unit>
+      <trans-unit id="b4c96595c2a0502ff05e00c80d4b491722ae9163" resname="customer_group.list.empty">
+        <source>No content to show.</source>
+        <target>crwdns264500:0crwdne264500:0</target>
+        <note>key: customer_group.list.empty</note>
+      </trans-unit>
+      <trans-unit id="e00716680694f1775f484ee49c9755ea66b5f028" resname="customer_group.list.number_of_results">
+        <source>%number_of_results% Results</source>
+        <target>crwdns264502:0%number_of_results%crwdne264502:0</target>
+        <note>key: customer_group.list.number_of_results</note>
+      </trans-unit>
+      <trans-unit id="47b9971f3154eb3bdca67e18b6e5d7b4af3902c6" resname="customer_group.list.title">
+        <source>Customer Groups</source>
+        <target>crwdns264504:0crwdne264504:0</target>
+        <note>key: customer_group.list.title</note>
+      </trans-unit>
+      <trans-unit id="78c5b3b2f9000a454faf2354813d17c48bd6b1fc" resname="customer_group.list.user.column.name">
+        <source>Name</source>
+        <target>crwdns264506:0crwdne264506:0</target>
+        <note>key: customer_group.list.user.column.name</note>
+      </trans-unit>
+      <trans-unit id="a2766334af7fe036bc63671532a4838c020a1de0" resname="customer_group.list.user.empty">
+        <source>There are no users in this group</source>
+        <target>crwdns264508:0crwdne264508:0</target>
+        <note>key: customer_group.list.user.empty</note>
+      </trans-unit>
+      <trans-unit id="ced1505feeab441e98b7888bf6a73a841b6d624b" resname="customer_group.list.user.header">
+        <source>Users in '%group_name%'</source>
+        <target>crwdns264510:0%group_name%crwdne264510:0</target>
+        <note>key: customer_group.list.user.header</note>
+      </trans-unit>
+      <trans-unit id="1a4f2be66e9e31655941b759b6f7b8147d1322e5" resname="customer_group.new.action_name">
+        <source>Creating</source>
+        <target>crwdns264512:0crwdne264512:0</target>
+        <note>key: customer_group.new.action_name</note>
+      </trans-unit>
+      <trans-unit id="b1ff344d52a655babce6e149baddf66eaf986344" resname="customer_group.update.success">
+        <source>Customer Group '%name%' updated.</source>
+        <target>crwdns264514:0%name%crwdne264514:0</target>
+        <note>key: customer_group.update.success</note>
+      </trans-unit>
+      <trans-unit id="707b515afda7ba8fd703e77108c2ba783467c64d" resname="customer_group.view.identifier">
+        <source>%customer_group%</source>
+        <target>crwdns264516:0%customer_group%crwdne264516:0</target>
+        <note>key: customer_group.view.identifier</note>
+      </trans-unit>
+      <trans-unit id="dd3af6247f433e2dffa073b64a03cd6faf5d9cbc" resname="customer_group.view.title.header">
+        <source>Customer Group "%customer_group%"</source>
+        <target>crwdns264518:0%customer_group%crwdne264518:0</target>
+        <note>key: customer_group.view.title.header</note>
+      </trans-unit>
+      <trans-unit id="62d262c1dd4f2d6824942975502cb065cb1d7814" resname="customer_group.view.title.identifier">
+        <source>Customer Group "%customer_group%"</source>
+        <target>crwdns264520:0%customer_group%crwdne264520:0</target>
+        <note>key: customer_group.view.title.identifier</note>
+      </trans-unit>
+      <trans-unit id="e9ea8f509e6eb27d7bec162133c54b7481a8063b" resname="customer_group_translation_add_form.add">
+        <source>Create</source>
+        <target>crwdns264522:0crwdne264522:0</target>
+        <note>key: customer_group_translation_add_form.add</note>
+      </trans-unit>
+      <trans-unit id="94a0f4a83d85d4b590ca636da689e11a323914f8" resname="customer_group_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target>crwdns264524:0crwdne264524:0</target>
+        <note>key: customer_group_translation_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="457a91099b950def21ddee41b89756ca76e51944" resname="daterange.max.label">
+        <source>To</source>
+        <target>crwdns264526:0crwdne264526:0</target>
+        <note>key: daterange.max.label</note>
+      </trans-unit>
+      <trans-unit id="c1815cc37860346983334735e6f612423480b6ae" resname="daterange.min.label">
+        <source>From</source>
+        <target>crwdns264528:0crwdne264528:0</target>
+        <note>key: daterange.min.label</note>
+      </trans-unit>
+      <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
+        <source>%fieldName% Field is required</source>
+        <target>crwdns264530:0%fieldName%crwdne264530:0</target>
+        <note>key: error.required.field</note>
+      </trans-unit>
+      <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ezimageasset.title">
+        <source>Select Image Asset</source>
+        <target>crwdns264532:0crwdne264532:0</target>
+        <note>key: ezimageasset.title</note>
+      </trans-unit>
+      <trans-unit id="fec8270453451fdd353b4a9c8f6e459908355a73" resname="field_definition.ibexa_product_specification.attributes_definitions">
+        <source>Attributes</source>
+        <target>crwdns264534:0crwdne264534:0</target>
+        <note>key: field_definition.ibexa_product_specification.attributes_definitions</note>
+      </trans-unit>
+      <trans-unit id="6be5ec17c1e2c5fba851c911031837f474611697" resname="filter.group.standard.label">
+        <source>Standard filters</source>
+        <target>crwdns264536:0crwdne264536:0</target>
+        <note>key: filter.group.standard.label</note>
+      </trans-unit>
+      <trans-unit id="e111859cc4b382247a3b67491dae64a01dedcf29" resname="filter.product_attribute.checkbox.value.0">
+        <source>No</source>
+        <target>crwdns264538:0crwdne264538:0</target>
+        <note>key: filter.product_attribute.checkbox.value.0</note>
+      </trans-unit>
+      <trans-unit id="215c91c7924b8892fbe0109ac06f748e33a1b439" resname="filter.product_attribute.checkbox.value.1">
+        <source>Yes</source>
+        <target>crwdns264540:0crwdne264540:0</target>
+        <note>key: filter.product_attribute.checkbox.value.1</note>
+      </trans-unit>
+      <trans-unit id="40a20202f903fbb4be7201738555ff26a60f3cb5" resname="filter.product_availability.label">
+        <source>Availability</source>
+        <target>crwdns264542:0crwdne264542:0</target>
+        <note>key: filter.product_availability.label</note>
+      </trans-unit>
+      <trans-unit id="94df6c4dc98d9e5df7e53d725d4011611dab0633" resname="filter.product_availability.value.0">
+        <source>Unavailable</source>
+        <target>crwdns264544:0crwdne264544:0</target>
+        <note>key: filter.product_availability.value.0</note>
+      </trans-unit>
+      <trans-unit id="10f2dd4257e431ad333f5a7a52a0a6ea406b7e3d" resname="filter.product_availability.value.1">
+        <source>Available</source>
+        <target>crwdns264546:0crwdne264546:0</target>
+        <note>key: filter.product_availability.value.1</note>
+      </trans-unit>
+      <trans-unit id="de3731e422124a97d275d63a44a9a5f9f29744c1" resname="filter.product_category.label">
+        <source>Category</source>
+        <target>crwdns264548:0crwdne264548:0</target>
+        <note>key: filter.product_category.label</note>
+      </trans-unit>
+      <trans-unit id="df25d38012319cb73e9f8187b4b6b99bc08c68b8" resname="filter.product_code.label">
+        <source>Code</source>
+        <target>crwdns264550:0crwdne264550:0</target>
+        <note>key: filter.product_code.label</note>
+      </trans-unit>
+      <trans-unit id="8b7b53f10425201aaa866db1cba4ccfba4b67211" resname="filter.product_created.label">
+        <source>Created</source>
+        <target>crwdns264552:0crwdne264552:0</target>
+        <note>key: filter.product_created.label</note>
+      </trans-unit>
+      <trans-unit id="7eddd6b84b553343a25ac418b903cf6ee5ab493d" resname="filter.product_price.label">
+        <source>Price</source>
+        <target>crwdns264554:0crwdne264554:0</target>
+        <note>key: filter.product_price.label</note>
+      </trans-unit>
+      <trans-unit id="c8706a0960dc2cf046705134358543e8d0b87f1c" resname="filter.product_type.label">
+        <source>Type</source>
+        <target>crwdns264556:0crwdne264556:0</target>
+        <note>key: filter.product_type.label</note>
+      </trans-unit>
+      <trans-unit id="b530a073c368d83e3bdc04e76b9bc48e61057f6c" resname="form.currency.subunits">
+        <source>Number of fractional digits</source>
+        <target>crwdns264558:0crwdne264558:0</target>
+        <note>key: form.currency.subunits</note>
+      </trans-unit>
+      <trans-unit id="fe39d4b263a82fed2b4589d6b48d97a58807936b" resname="ibexa_product_catalog.attribute.float.option.max_value">
+        <source>Maximum Value</source>
+        <target>crwdns264560:0crwdne264560:0</target>
+        <note>key: ibexa_product_catalog.attribute.float.option.max_value</note>
+      </trans-unit>
+      <trans-unit id="eec34c0345f29a4d31d3061866c96eaa98040b4b" resname="ibexa_product_catalog.attribute.float.option.min_value">
+        <source>Minimum Value</source>
+        <target>crwdns264562:0crwdne264562:0</target>
+        <note>key: ibexa_product_catalog.attribute.float.option.min_value</note>
+      </trans-unit>
+      <trans-unit id="bccbbf83c3c972f30a0778eab78db9c7000c0ba0" resname="ibexa_product_catalog.attribute.integer.option.max_value">
+        <source>Maximum Value</source>
+        <target>crwdns264564:0crwdne264564:0</target>
+        <note>key: ibexa_product_catalog.attribute.integer.option.max_value</note>
+      </trans-unit>
+      <trans-unit id="0b900abdaa43411440961af9bdf0bd3c33e3307e" resname="ibexa_product_catalog.attribute.integer.option.min_value">
+        <source>Minimum Value</source>
+        <target>crwdns264566:0crwdne264566:0</target>
+        <note>key: ibexa_product_catalog.attribute.integer.option.min_value</note>
+      </trans-unit>
+      <trans-unit id="f5ed38e3d1150c3a4b944ec43fd79e07ef7583bb" resname="ibexa_product_catalog.attribute.selection.option.choices">
+        <source>Options</source>
+        <target>crwdns264568:0crwdne264568:0</target>
+        <note>key: ibexa_product_catalog.attribute.selection.option.choices</note>
+      </trans-unit>
+      <trans-unit id="3bdf637be6198badcdcf3f6234997c849451de5c" resname="ibexa_product_catalog.product_create_form.submit">
+        <source>Add</source>
+        <target>crwdns264570:0crwdne264570:0</target>
+        <note>key: ibexa_product_catalog.product_create_form.submit</note>
+      </trans-unit>
+      <trans-unit id="a081c8e6ebc3b4da038c7bde40d6776ac89b17aa" resname="ibexa_product_catalog.product_create_form.title">
+        <source>Create product</source>
+        <target>crwdns264572:0crwdne264572:0</target>
+        <note>key: ibexa_product_catalog.product_create_form.title</note>
+      </trans-unit>
+      <trans-unit id="19ac5b46de12ced1aef77fb3ccb142676f4ea027" resname="ibexa_product_catalog.vat_category.choices">
+        <source>VAT category</source>
+        <target>crwdns264574:0crwdne264574:0</target>
+        <note>key: ibexa_product_catalog.vat_category.choices</note>
+      </trans-unit>
+      <trans-unit id="05ac6bd0badf7c95db6f444e62cc0ff4a363c6a9" resname="list.action.create">
+        <source>Create</source>
+        <target>crwdns264576:0crwdne264576:0</target>
+        <note>key: list.action.create</note>
+      </trans-unit>
+      <trans-unit id="f36bb43216bd9e954b65b575c423aff27f96e758" resname="list.delete">
+        <source>Delete</source>
+        <target>crwdns264578:0crwdne264578:0</target>
+        <note>key: list.delete</note>
+      </trans-unit>
+      <trans-unit id="3777fedfcccdbd11c0f029428339908b60583b7f" resname="list.tooltip.copy">
+        <source>Copy</source>
+        <target>crwdns264580:0crwdne264580:0</target>
+        <note>key: list.tooltip.copy</note>
+      </trans-unit>
+      <trans-unit id="a0b81746fe4594301d02366ff9b4ce20e4fd1cd7" resname="list.tooltip.edit">
+        <source>Edit</source>
+        <target>crwdns264582:0crwdne264582:0</target>
+        <note>key: list.tooltip.edit</note>
+      </trans-unit>
+      <trans-unit id="15f008401fb9444a09284d36e68d875a67e1aa38" resname="modal.bulk_delete.attribute_definition.confirm_message">
+        <source>Are you sure you want to delete the selected Attributes?</source>
+        <target>crwdns264584:0crwdne264584:0</target>
+        <note>key: modal.bulk_delete.attribute_definition.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="186eff61f1f8b97f415a716daa17a5b6b783871d" resname="modal.bulk_delete.attribute_group.confirm_message">
+        <source>Are you sure you want to delete the selected Attribute Groups?</source>
+        <target>crwdns264586:0crwdne264586:0</target>
+        <note>key: modal.bulk_delete.attribute_group.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="792e9365138fc8dcc504ff70faac3e9028ca66d3" resname="modal.bulk_delete.catalog.confirm_message">
+        <source>Are you sure you want to delete the selected Catalogs?</source>
+        <target>crwdns264588:0crwdne264588:0</target>
+        <note>key: modal.bulk_delete.catalog.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="e5aa9fb81b6171f6528f0f528312e2e398b8fc32" resname="modal.bulk_delete.currency.confirm_message">
+        <source>Are you sure you want to delete the selected Currencies?</source>
+        <target>crwdns264590:0crwdne264590:0</target>
+        <note>key: modal.bulk_delete.currency.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="7c1b5a88503915be9bbda7638db198139d4930d1" resname="modal.bulk_delete.customer_group.confirm_message">
+        <source>Are you sure you want to delete the selected Customer Groups?</source>
+        <target>crwdns264592:0crwdne264592:0</target>
+        <note>key: modal.bulk_delete.customer_group.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="cf823e5a4210ea201f73d7bc3c91141837f08337" resname="modal.bulk_delete.product_type.confirm_message">
+        <source>Are you sure you want to delete the selected Product Types?</source>
+        <target>crwdns264594:0crwdne264594:0</target>
+        <note>key: modal.bulk_delete.product_type.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="8b7a9538e2a82e5fe0f6255b73eb139a8dd3d0bb" resname="modal.bulk_delete.products.confirm_message">
+        <source>Are you sure you want to delete the selected Products?</source>
+        <target>crwdns264596:0crwdne264596:0</target>
+        <note>key: modal.bulk_delete.products.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
+        <source>Cancel</source>
+        <target>crwdns264598:0crwdne264598:0</target>
+        <note>key: modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="16636392bfc4d6198c247f9b5ad62eca2adb3c69" resname="modal.copy.catalog.confirm_button.label">
+        <source>Copy</source>
+        <target>crwdns264600:0crwdne264600:0</target>
+        <note>key: modal.copy.catalog.confirm_button.label</note>
+      </trans-unit>
+      <trans-unit id="7ad94149fb7543b3be113911985ceb1736d312d2" resname="modal.copy.catalog.confirm_message">
+        <source>Are you sure you want to copy this Catalog?</source>
+        <target>crwdns264602:0crwdne264602:0</target>
+        <note>key: modal.copy.catalog.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete">
+        <source>Delete</source>
+        <target>crwdns264604:0crwdne264604:0</target>
+        <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="5f11ed9953e78b89ecd861db55a34c35699a12b7" resname="modal.delete.attribute_definition.confirm_message">
+        <source>Are you sure you want to delete this Attribute?</source>
+        <target>crwdns264606:0crwdne264606:0</target>
+        <note>key: modal.delete.attribute_definition.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="7ff4a60e8ebae3c91283432fa84e4d29fb88da81" resname="modal.delete.attribute_group.confirm_message">
+        <source>Are you sure you want to delete this Attribute Group?</source>
+        <target>crwdns264608:0crwdne264608:0</target>
+        <note>key: modal.delete.attribute_group.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="833047bccf3aa0899a5800368064ba16727cc96f" resname="modal.delete.catalog.confirm_message">
+        <source>Are you sure you want to delete this Catalog?</source>
+        <target>crwdns264610:0crwdne264610:0</target>
+        <note>key: modal.delete.catalog.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="8fd2e5ecbd806a8301462c834828f07fb9ebfdec" resname="modal.delete.customer_group.confirm_message">
+        <source>Are you sure you want to delete this Customer Group?</source>
+        <target>crwdns264612:0crwdne264612:0</target>
+        <note>key: modal.delete.customer_group.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="a59e93630b9466715b7cce81f3e89a866c40f28f" resname="modal.delete.product.confirm_message">
+        <source>Are you sure you want to delete this Product?</source>
+        <target>crwdns264614:0crwdne264614:0</target>
+        <note>key: modal.delete.product.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="9841f937284eaab9f49cfac29c2ae5d864245f4c" resname="modal.delete.product_type.confirm_message">
+        <source>Are you sure you want to delete this Product Type?</source>
+        <target>crwdns264616:0crwdne264616:0</target>
+        <note>key: modal.delete.product_type.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="3bd38931c85359d2185616fd6162cae9e1f8c33b" resname="modal.transition.catalog.change_button.label">
+        <source>Change</source>
+        <target>crwdns264618:0crwdne264618:0</target>
+        <note>key: modal.transition.catalog.change_button.label</note>
+      </trans-unit>
+      <trans-unit id="75751e6fb57250f631fc029a42202f080fc08d77" resname="modal.transition.catalog.confirm_message">
+        <source>Are you sure you want to transition?</source>
+        <target>crwdns264620:0crwdne264620:0</target>
+        <note>key: modal.transition.catalog.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="f15aba1220b27d17e3e4b4f03a0cf40762893d14" resname="number_range.max.label">
+        <source>To</source>
+        <target>crwdns264622:0crwdne264622:0</target>
+        <note>key: number_range.max.label</note>
+      </trans-unit>
+      <trans-unit id="e745f735f292f7e044e331a6bbe25a9852415397" resname="number_range.min.label">
+        <source>From</source>
+        <target>crwdns264624:0crwdne264624:0</target>
+        <note>key: number_range.min.label</note>
+      </trans-unit>
+      <trans-unit id="7db019697b22bcd666e14fb5d800dbef3e5454ff" resname="price.delete.success">
+        <source>{1}Price for product '%productNames%' in currency '%deletedCodes%' removed.|]1,Inf[ Prices for products '%productNames%' in currencies '%deletedCodes%' (respectively) removed.</source>
+        <target>crwdns264626:0{1}crwdnd264626:0%productNames%crwdnd264626:0%deletedCodes%crwdnd264626:0%productNames%crwdnd264626:0%deletedCodes%crwdne264626:0</target>
+        <note>key: price.delete.success</note>
+      </trans-unit>
+      <trans-unit id="3858f772710dcbfe2474e0d684386ae3a5a0f0d9" resname="product.Availability.update.success">
+        <source>Availability for Product '%product_name%' (%product_code%) updated.</source>
+        <target>crwdns264628:0%product_name%crwdnd264628:0%product_code%crwdne264628:0</target>
+        <note>key: product.Availability.update.success</note>
+      </trans-unit>
+      <trans-unit id="89b65ddbf1ec6d218966b5d9e7917c5f749e4f77" resname="product.add_to_basket">
+        <source>Add to basket</source>
+        <target>crwdns264630:0crwdne264630:0</target>
+        <note>key: product.add_to_basket</note>
+      </trans-unit>
+      <trans-unit id="5b68b0af24e8e3a8c607b05d13bf5d92dd1024e1" resname="product.anchor_navigation_item.attributes">
+        <source>Attributes</source>
+        <target>crwdns264632:0crwdne264632:0</target>
+        <note>key: product.anchor_navigation_item.attributes</note>
+      </trans-unit>
+      <trans-unit id="670796a4435dbb09eaff63f91d6b22c3e210f73a" resname="product.anchor_navigation_item.content">
+        <source>Content</source>
+        <target>crwdns264634:0crwdne264634:0</target>
+        <note>key: product.anchor_navigation_item.content</note>
+      </trans-unit>
+      <trans-unit id="dfc9a4d1fcffb1c5324ce5ac9fa70df5339ca1a0" resname="product.asset.create.success">
+        <source>Assets created.</source>
+        <target>crwdns264636:0crwdne264636:0</target>
+        <note>key: product.asset.create.success</note>
+      </trans-unit>
+      <trans-unit id="0e59faf9a8e7eb76139cfd68d61e6219a6ec3b22" resname="product.asset.delete.success">
+        <source>Assets deleted.</source>
+        <target>crwdns264638:0crwdne264638:0</target>
+        <note>key: product.asset.delete.success</note>
+      </trans-unit>
+      <trans-unit id="d90613484c3b5901786fb6b30ec08b0fa1d01f98" resname="product.asset.group.success">
+        <source>Assets collection created.</source>
+        <target>crwdns264640:0crwdne264640:0</target>
+        <note>key: product.asset.group.success</note>
+      </trans-unit>
+      <trans-unit id="ed4b78a9b00310cbd7774f9412f1ee4716f501a8" resname="product.availability.create.success">
+        <source>Availability for Product '%product_name%' (%product_code%) created.</source>
+        <target>crwdns264642:0%product_name%crwdnd264642:0%product_code%crwdne264642:0</target>
+        <note>key: product.availability.create.success</note>
+      </trans-unit>
+      <trans-unit id="e5614bead5f20e67428a1d4f79919098ddc6b2cf" resname="product.availability.creating.action_name">
+        <source>Creating new availability</source>
+        <target>crwdns264644:0crwdne264644:0</target>
+        <note>key: product.availability.creating.action_name</note>
+      </trans-unit>
+      <trans-unit id="988bdf15d51941dbfb3b4562297da96cbe5ed6fa" resname="product.availability.creating.title">
+        <source>New availability</source>
+        <target>crwdns264646:0crwdne264646:0</target>
+        <note>key: product.availability.creating.title</note>
+      </trans-unit>
+      <trans-unit id="b478d20c06fe22c4e76cb35e47f8591298655f09" resname="product.availability.edit.action_name">
+        <source>Editing availability</source>
+        <target>crwdns264648:0crwdne264648:0</target>
+        <note>key: product.availability.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="4e575d6e9721d47ceab8d44f1a57ecfba9585178" resname="product.availability.edit.title">
+        <source>Product "%product_name%"</source>
+        <target>crwdns264650:0%product_name%crwdne264650:0</target>
+        <note>key: product.availability.edit.title</note>
+      </trans-unit>
+      <trans-unit id="6ef9b8e0989ad419459211a3a175ac95f7d9cdfd" resname="product.breadcrumb.list">
+        <source>Products</source>
+        <target>crwdns264652:0crwdne264652:0</target>
+        <note>key: product.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="fd323a871858ac46157ab4b0598dcd5db2b2d282" resname="product.category.assign">
+        <source>Assign</source>
+        <target>crwdns264654:0crwdne264654:0</target>
+        <note>key: product.category.assign</note>
+      </trans-unit>
+      <trans-unit id="6ba91f1e615fcc2573795142a41a3b6eed6e7019" resname="product.category.assign.udw_title">
+        <source>Select Products</source>
+        <target>crwdns264656:0crwdne264656:0</target>
+        <note>key: product.category.assign.udw_title</note>
+      </trans-unit>
+      <trans-unit id="33c7f951238b995d9d6643942da182b993adae12" resname="product.completeness.assets.label">
+        <source>Assets</source>
+        <target>crwdns264658:0crwdne264658:0</target>
+        <note>key: product.completeness.assets.label</note>
+      </trans-unit>
+      <trans-unit id="01f9437e65ffe46248c43b5990bb7eb293d40ff8" resname="product.completeness.attributes.label">
+        <source>Attributes</source>
+        <target>crwdns264660:0crwdne264660:0</target>
+        <note>key: product.completeness.attributes.label</note>
+      </trans-unit>
+      <trans-unit id="44f6ac1e0f2f92a6a3f412d72e3c29176134cb2a" resname="product.completeness.availability.label">
+        <source>Availability</source>
+        <target>crwdns264662:0crwdne264662:0</target>
+        <note>key: product.completeness.availability.label</note>
+      </trans-unit>
+      <trans-unit id="7fb52f1f609f63b1c25de0a3d06d5b5b685e732e" resname="product.completeness.content.label">
+        <source>Content</source>
+        <target>crwdns264664:0crwdne264664:0</target>
+        <note>key: product.completeness.content.label</note>
+      </trans-unit>
+      <trans-unit id="9d6c7e8ce14634ce802336f4584c41ea54bc9cbc" resname="product.completeness.prices.label">
+        <source>Prices</source>
+        <target>crwdns264666:0crwdne264666:0</target>
+        <note>key: product.completeness.prices.label</note>
+      </trans-unit>
+      <trans-unit id="244cf6048624ee9ed5bded615ed77ed2d7048995" resname="product.completeness.translations.label">
+        <source>Translations</source>
+        <target>crwdns264668:0crwdne264668:0</target>
+        <note>key: product.completeness.translations.label</note>
+      </trans-unit>
+      <trans-unit id="2b76d604954227456cf019b40b71196e8034fde3" resname="product.completeness.variants.label">
+        <source>Variants</source>
+        <target>crwdns264670:0crwdne264670:0</target>
+        <note>key: product.completeness.variants.label</note>
+      </trans-unit>
+      <trans-unit id="6091400765f0039ca29d3a304ce3b2da67284cb8" resname="product.create.success">
+        <source>Product '%name%' created.</source>
+        <target>crwdns264672:0%name%crwdne264672:0</target>
+        <note>key: product.create.success</note>
+      </trans-unit>
+      <trans-unit id="d6e2b764c5b3b95dfa533e97d2a0d75f05f1903c" resname="product.currency.create.success">
+        <source>Currency %currency_code% created.</source>
+        <target>crwdns264674:0%currency_code%crwdne264674:0</target>
+        <note>key: product.currency.create.success</note>
+      </trans-unit>
+      <trans-unit id="70aadde96ec7f4679b0b2a564c9fbe10c75f581e" resname="product.currency.update.success">
+        <source>Currency %currency_code% updated.</source>
+        <target>crwdns264676:0%currency_code%crwdne264676:0</target>
+        <note>key: product.currency.update.success</note>
+      </trans-unit>
+      <trans-unit id="102e51981d5b04b219eb667bf3e25e339e7782e9" resname="product.delete.success">
+        <source>{1}Product '%deletedNames%' removed.|]1,Inf[ Products '%deletedNames%' removed.</source>
+        <target>crwdns264678:0{1}crwdnd264678:0%deletedNames%crwdnd264678:0%deletedNames%crwdne264678:0</target>
+        <note>key: product.delete.success</note>
+      </trans-unit>
+      <trans-unit id="4ee4af717f710065d8ca05798beb379be3c70a99" resname="product.edit.action_name">
+        <source>Editing %product_type%</source>
+        <target>crwdns264680:0%product_type%crwdne264680:0</target>
+        <note>key: product.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="ca0bca2cb0482cefdfcb4a375dd36633fadc1364" resname="product.edit.subtitle">
+        <source>in %language_name%</source>
+        <target>crwdns264682:0%language_name%crwdne264682:0</target>
+        <note>key: product.edit.subtitle</note>
+      </trans-unit>
+      <trans-unit id="db43a3df9017fe1a69c51314a6b7c8abc3f5ff3d" resname="product.is_variant.no">
+        <source>No</source>
+        <target>crwdns264684:0crwdne264684:0</target>
+        <note>key: product.is_variant.no</note>
+      </trans-unit>
+      <trans-unit id="42fef67af031e4464e7cdf5dbc9201d6c585fc80" resname="product.is_variant.yes">
+        <source>Yes</source>
+        <target>crwdns264686:0crwdne264686:0</target>
+        <note>key: product.is_variant.yes</note>
+      </trans-unit>
+      <trans-unit id="bb26bd02d68f785d6610a8bc790162a6e9725877" resname="product.list.column.available">
+        <source>Available</source>
+        <target>crwdns264688:0crwdne264688:0</target>
+        <note>key: product.list.column.available</note>
+      </trans-unit>
+      <trans-unit id="fe7e16fc09fc1e731b82a85544ea57d9df901c42" resname="product.list.column.category">
+        <source>Category</source>
+        <target>crwdns264690:0crwdne264690:0</target>
+        <note>key: product.list.column.category</note>
+      </trans-unit>
+      <trans-unit id="a05d02097c6ee7323ffde5e6cff861bb7c01684e" resname="product.list.column.code">
+        <source>Code</source>
+        <target>crwdns264692:0crwdne264692:0</target>
+        <note>key: product.list.column.code</note>
+      </trans-unit>
+      <trans-unit id="ac368d0e83ee48a978fb38a8f1e5a3984ace2f73" resname="product.list.column.created">
+        <source>Created</source>
+        <target>crwdns264694:0crwdne264694:0</target>
+        <note>key: product.list.column.created</note>
+      </trans-unit>
+      <trans-unit id="d872b993dc21de914d252986a5b3c0a82eed2fef" resname="product.list.column.name">
+        <source>Name</source>
+        <target>crwdns264696:0crwdne264696:0</target>
+        <note>key: product.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="0083f7ca13823b98b4d897eb240f9e20b6c225de" resname="product.list.column.stock">
+        <source>Stock</source>
+        <target>crwdns264698:0crwdne264698:0</target>
+        <note>key: product.list.column.stock</note>
+      </trans-unit>
+      <trans-unit id="720ae63f9212041323bbb86921ace93d372baea9" resname="product.list.column.thumbnail">
+        <source>Image</source>
+        <target>crwdns264700:0crwdne264700:0</target>
+        <note>key: product.list.column.thumbnail</note>
+      </trans-unit>
+      <trans-unit id="3fbbf89e766241bc2ddeb242a97963c12295617b" resname="product.list.column.type">
+        <source>Type</source>
+        <target>crwdns264702:0crwdne264702:0</target>
+        <note>key: product.list.column.type</note>
+      </trans-unit>
+      <trans-unit id="84f1de3dd39d21912ba5cd3ed7ce10c3377503fd" resname="product.list.column.variant">
+        <source>Variant</source>
+        <target>crwdns264704:0crwdne264704:0</target>
+        <note>key: product.list.column.variant</note>
+      </trans-unit>
+      <trans-unit id="11e47d4639f5a87c717cfa5f413dcd6308280072" resname="product.list.empty_table_action_text">
+        <source>Try again with new criteria</source>
+        <target>crwdns264706:0crwdne264706:0</target>
+        <note>key: product.list.empty_table_action_text</note>
+      </trans-unit>
+      <trans-unit id="3a6615a34923d5f8fe549e90e100dcec55378180" resname="product.list.empty_table_info_text">
+        <source>Sorry, there are no products for this filter setup</source>
+        <target>crwdns264708:0crwdne264708:0</target>
+        <note>key: product.list.empty_table_info_text</note>
+      </trans-unit>
+      <trans-unit id="76d57c00bb0c04dd1431aa80630d7d3ea135840e" resname="product.list.number_of_results">
+        <source>%number_of_results% Results</source>
+        <target>crwdns264710:0%number_of_results%crwdne264710:0</target>
+        <note>key: product.list.number_of_results</note>
+      </trans-unit>
+      <trans-unit id="b0963e0277b634576e00e126d5722711a88b73a3" resname="product.list.search.placeholder">
+        <source>Search by name, code...</source>
+        <target>crwdns264712:0crwdne264712:0</target>
+        <note>key: product.list.search.placeholder</note>
+      </trans-unit>
+      <trans-unit id="6f63b5a574abd55dc76e4600e7bb7969f24e1e1e" resname="product.list.title">
+        <source>Products</source>
+        <target>crwdns264714:0crwdne264714:0</target>
+        <note>key: product.list.title</note>
+      </trans-unit>
+      <trans-unit id="b98d238fed9574a2aeb5d5df670326fcb6c3ed75" resname="product.list.unlimited">
+        <source>Unlimited</source>
+        <target>crwdns264716:0crwdne264716:0</target>
+        <note>key: product.list.unlimited</note>
+      </trans-unit>
+      <trans-unit id="a67325bda5235ff91af088a59360bb9b6ecd4d5e" resname="product.new.action_name">
+        <source>Creating</source>
+        <target>crwdns264718:0crwdne264718:0</target>
+        <note>key: product.new.action_name</note>
+      </trans-unit>
+      <trans-unit id="f567995c3fa691bcbfb5a420dbc3d61ae43ea6cb" resname="product.new.subtitle">
+        <source>in %language_name%</source>
+        <target>crwdns264720:0%language_name%crwdne264720:0</target>
+        <note>key: product.new.subtitle</note>
+      </trans-unit>
+      <trans-unit id="24961d1b141d562745966622b03dd57679cecd6c" resname="product.new.title">
+        <source>New %product_type_name%</source>
+        <target>crwdns264722:0%product_type_name%crwdne264722:0</target>
+        <note>key: product.new.title</note>
+      </trans-unit>
+      <trans-unit id="a700c3f8899929b0c8b868d48ff286ba09c1aa61" resname="product.no_category_products.action_text">
+        <source>Assign some products to it.</source>
+        <target>crwdns264724:0crwdne264724:0</target>
+        <note>key: product.no_category_products.action_text</note>
+      </trans-unit>
+      <trans-unit id="f9bd6a26ba175d0c04b63bb8028f72375d47f22c" resname="product.no_category_products.info_text">
+        <source>No products assigned to the currently viewed category.</source>
+        <target>crwdns264726:0crwdne264726:0</target>
+        <note>key: product.no_category_products.info_text</note>
+      </trans-unit>
+      <trans-unit id="d0f9d6d1911f000d1546e518f5ad47f50c802567" resname="product.no_product_types.action_text">
+        <source>To create products, you need to have at least one product type.</source>
+        <target>crwdns264728:0crwdne264728:0</target>
+        <note>key: product.no_product_types.action_text</note>
+      </trans-unit>
+      <trans-unit id="9a7a1d5a7382f0f0c4f8c1736641c94daf6ab956" resname="product.no_product_types.info_text">
+        <source>Add your first product</source>
+        <target>crwdns264730:0crwdne264730:0</target>
+        <note>key: product.no_product_types.info_text</note>
+      </trans-unit>
+      <trans-unit id="558f5969758d6d445f44e3eb7eaddc05a9d9d7d0" resname="product.no_product_types.link_label">
+        <source>Go to product types</source>
+        <target>crwdns264732:0crwdne264732:0</target>
+        <note>key: product.no_product_types.link_label</note>
+      </trans-unit>
+      <trans-unit id="eb55aec8cab8d6939e10c54d7d61500e6a7c8bfa" resname="product.no_products.action_text">
+        <source>Content item(s) you or your User group can review will show up here.</source>
+        <target>crwdns264734:0crwdne264734:0</target>
+        <note>key: product.no_products.action_text</note>
+      </trans-unit>
+      <trans-unit id="a6e7493e0fe9feeccd8aaf445a3a1257877c9964" resname="product.no_products.info_text">
+        <source>Add your first product</source>
+        <target>crwdns264736:0crwdne264736:0</target>
+        <note>key: product.no_products.info_text</note>
+      </trans-unit>
+      <trans-unit id="0014d79abd42456e7691443e19b86eac2b83f279" resname="product.no_search_results.action_text">
+        <source>Try again with new search criteria</source>
+        <target>crwdns264738:0crwdne264738:0</target>
+        <note>key: product.no_search_results.action_text</note>
+      </trans-unit>
+      <trans-unit id="117b8895cac140a8c2463a840c8a279cdf27fd83" resname="product.no_search_results.info_text">
+        <source>Sorry, there are no products for your search</source>
+        <target>crwdns264740:0crwdne264740:0</target>
+        <note>key: product.no_search_results.info_text</note>
+      </trans-unit>
+      <trans-unit id="d2e159fcc523701409c6044ac2170ee165404d9c" resname="product.pre_create.add">
+        <source>Add</source>
+        <target>crwdns264742:0crwdne264742:0</target>
+        <note>key: product.pre_create.add</note>
+      </trans-unit>
+      <trans-unit id="96a83033d6f528743974d6a118e21e5d8a24839f" resname="product.pre_create.cancel">
+        <source>Cancel</source>
+        <target>crwdns264744:0crwdne264744:0</target>
+        <note>key: product.pre_create.cancel</note>
+      </trans-unit>
+      <trans-unit id="6a228857dcb6653ed20a45399458047f08ea7f4a" resname="product.pre_create.title">
+        <source>Create product</source>
+        <target>crwdns264746:0crwdne264746:0</target>
+        <note>key: product.pre_create.title</note>
+      </trans-unit>
+      <trans-unit id="f9dfc59389d63478a22ee251cf13f5486dfe37ef" resname="product.price.create.success">
+        <source>Prices in %price_currency_code% for Product '%product_name%' (%product_code%) created.</source>
+        <target>crwdns264748:0%price_currency_code%crwdnd264748:0%product_name%crwdnd264748:0%product_code%crwdne264748:0</target>
+        <note>key: product.price.create.success</note>
+      </trans-unit>
+      <trans-unit id="8cc70c8095846c3521fd3d8da89b6cffd52caeea" resname="product.price.update.success">
+        <source>Prices in %price_currency_code% for Product '%product_name%' (%product_code%) updated.</source>
+        <target>crwdns264750:0%price_currency_code%crwdnd264750:0%product_name%crwdnd264750:0%product_code%crwdne264750:0</target>
+        <note>key: product.price.update.success</note>
+      </trans-unit>
+      <trans-unit id="2b2abc807b31979643724c58ffae030d59d27dba" resname="product.product_code">
+        <source>Product code</source>
+        <target>crwdns264752:0crwdne264752:0</target>
+        <note>key: product.product_code</note>
+      </trans-unit>
+      <trans-unit id="b026eec43745d5c6b94905d7f74deea852074fd3" resname="product.sort_clause.code_asc">
+        <source>Sort by code A-Z</source>
+        <target>crwdns264754:0crwdne264754:0</target>
+        <note>key: product.sort_clause.code_asc</note>
+      </trans-unit>
+      <trans-unit id="d8b3417af79eb0af873e8a9bdf6cf35156dfdf69" resname="product.sort_clause.code_desc">
+        <source>Sort by code Z-A</source>
+        <target>crwdns264756:0crwdne264756:0</target>
+        <note>key: product.sort_clause.code_desc</note>
+      </trans-unit>
+      <trans-unit id="3cfe75ff79c46f043f991ce35ab18415d28fc9b2" resname="product.sort_clause.created_at_asc">
+        <source>Oldest</source>
+        <target>crwdns264758:0crwdne264758:0</target>
+        <note>key: product.sort_clause.created_at_asc</note>
+      </trans-unit>
+      <trans-unit id="4616b2dff02a6f8d4f8ed24672b5a46c8797e55c" resname="product.sort_clause.created_at_desc">
+        <source>Newest</source>
+        <target>crwdns264760:0crwdne264760:0</target>
+        <note>key: product.sort_clause.created_at_desc</note>
+      </trans-unit>
+      <trans-unit id="2bb0ac949cf75d80ac39a7b6f614ba75ce7be6da" resname="product.sort_clause.name_asc">
+        <source>Sort by name A-Z</source>
+        <target>crwdns264762:0crwdne264762:0</target>
+        <note>key: product.sort_clause.name_asc</note>
+      </trans-unit>
+      <trans-unit id="896f0b4cbf788ed4079cfee3fd8ce9e671a38a06" resname="product.sort_clause.name_desc">
+        <source>Sort by name Z-A</source>
+        <target>crwdns264764:0crwdne264764:0</target>
+        <note>key: product.sort_clause.name_desc</note>
+      </trans-unit>
+      <trans-unit id="a001919fe307f7e3aaf9e9c4c11309ff15d58ff3" resname="product.update.success">
+        <source>Product '%name%' updated.</source>
+        <target>crwdns264766:0%name%crwdne264766:0</target>
+        <note>key: product.update.success</note>
+      </trans-unit>
+      <trans-unit id="773c3c8277aec78a7a238894552a324def701b89" resname="product.view.assets.actions.create_collection">
+        <source>Create a new collection</source>
+        <target>crwdns264768:0crwdne264768:0</target>
+        <note>key: product.view.assets.actions.create_collection</note>
+      </trans-unit>
+      <trans-unit id="9c2181718181c9bd874f5c8b25e8a89e401323fe" resname="product.view.assets.actions.delete">
+        <source>Delete</source>
+        <target>crwdns264770:0crwdne264770:0</target>
+        <note>key: product.view.assets.actions.delete</note>
+      </trans-unit>
+      <trans-unit id="ce27b492ed52f5397041fb2f1154fa2a867aad93" resname="product.view.assets.actions.drag_drop.main_message">
+        <source><![CDATA[Drag and drop image here or <br /><button type="button" class="ibexa-pc-product-assets-source__btn-add">Browse</button> to choose a file]]></source>
+        <target><![CDATA[crwdns264772:0crwdne264772:0]]></target>
+        <note>key: product.view.assets.actions.drag_drop.main_message</note>
+      </trans-unit>
+      <trans-unit id="f2776b5c704f57e910345d13cae8c136b927095d" resname="product.view.assets.actions.drag_drop.max_filesize">
+        <source>Max file size: %size%</source>
+        <target>crwdns264774:0%size%crwdne264774:0</target>
+        <note>key: product.view.assets.actions.drag_drop.max_filesize</note>
+      </trans-unit>
+      <trans-unit id="30f7aa53b6a7f1f0069068b1804167a1f61d2c79" resname="product.view.assets.actions.drag_drop.select_from_library">
+        <source>Select from library</source>
+        <target>crwdns264776:0crwdne264776:0</target>
+        <note>key: product.view.assets.actions.drag_drop.select_from_library</note>
+      </trans-unit>
+      <trans-unit id="2a9546b96616e52edcea3e4d73b5833e3370ec52" resname="product.view.assets.actions.drag_drop.separator">
+        <source>or</source>
+        <target>crwdns264778:0crwdne264778:0</target>
+        <note>key: product.view.assets.actions.drag_drop.separator</note>
+      </trans-unit>
+      <trans-unit id="fe59fb5302f7c99d3f3dd17e6d554337f8c3abed" resname="product.view.assets.collection">
+        <source>Assets collection for variant</source>
+        <target>crwdns264780:0crwdne264780:0</target>
+        <note>key: product.view.assets.collection</note>
+      </trans-unit>
+      <trans-unit id="2120810ce13a25468d19c1bc5ee64cac2ed0fb27" resname="product.view.assets.collection.base_assets">
+        <source>All assets</source>
+        <target>crwdns264782:0crwdne264782:0</target>
+        <note>key: product.view.assets.collection.base_assets</note>
+      </trans-unit>
+      <trans-unit id="beca3de642952ee3f25635815d1e8b048c0ae7ce" resname="product.view.assets.collection.search">
+        <source>Search...</source>
+        <target>crwdns264784:0crwdne264784:0</target>
+        <note>key: product.view.assets.collection.search</note>
+      </trans-unit>
+      <trans-unit id="b6e5734bb6d7996fe8e0c0a4a1fa8e12a5e7278e" resname="product.view.assets.create_collection.cancel">
+        <source>Cancel</source>
+        <target>crwdns264786:0crwdne264786:0</target>
+        <note>key: product.view.assets.create_collection.cancel</note>
+      </trans-unit>
+      <trans-unit id="38c980552de791de255fecc9b1b320481d688d1a" resname="product.view.assets.create_collection.deselect_all">
+        <source>Deselect All</source>
+        <target>crwdns264788:0crwdne264788:0</target>
+        <note>key: product.view.assets.create_collection.deselect_all</note>
+      </trans-unit>
+      <trans-unit id="f4b983545ff6f231fed0068a7e3b6f867f6f2277" resname="product.view.assets.create_collection.save">
+        <source>Save</source>
+        <target>crwdns264790:0crwdne264790:0</target>
+        <note>key: product.view.assets.create_collection.save</note>
+      </trans-unit>
+      <trans-unit id="20e24d40b0fdbcc808e176674f79d9762be9d244" resname="product.view.assets.create_collection.select_all">
+        <source>Select All</source>
+        <target>crwdns264792:0crwdne264792:0</target>
+        <note>key: product.view.assets.create_collection.select_all</note>
+      </trans-unit>
+      <trans-unit id="917b2fb6064ab21639e68dca9613d5ccc0cf9471" resname="product.view.assets.create_collection.sub_title">
+        <source>%count% image(s) selected</source>
+        <target>crwdns264794:0%count%crwdne264794:0</target>
+        <note>key: product.view.assets.create_collection.sub_title</note>
+      </trans-unit>
+      <trans-unit id="996d50cf5f58da20987e7926501652e0a64cafd6" resname="product.view.assets.create_collection.title">
+        <source>Create a new collection</source>
+        <target>crwdns264796:0crwdne264796:0</target>
+        <note>key: product.view.assets.create_collection.title</note>
+      </trans-unit>
+      <trans-unit id="1d1aecf48db6392baafffc5db6e0207bdc6a9f4d" resname="product.view.assets.remove_collection">
+        <source>Remove collection</source>
+        <target>crwdns264798:0crwdne264798:0</target>
+        <note>key: product.view.assets.remove_collection</note>
+      </trans-unit>
+      <trans-unit id="251c73bc37fe27239aac940a9ed8d040403fe698" resname="product.view.assets.select_all">
+        <source>Select all</source>
+        <target>crwdns264800:0crwdne264800:0</target>
+        <note>key: product.view.assets.select_all</note>
+      </trans-unit>
+      <trans-unit id="83e8f2f912bea8b272041e4eb756112addbb95c1" resname="product.view.assets.title">
+        <source>Assets</source>
+        <target>crwdns264802:0crwdne264802:0</target>
+        <note>key: product.view.assets.title</note>
+      </trans-unit>
+      <trans-unit id="70ae06c4f763dd760aea1ff091a56d8748df52fd" resname="product.view.assets.validation_status_modal.close">
+        <source>Close</source>
+        <target>crwdns264804:0crwdne264804:0</target>
+        <note>key: product.view.assets.validation_status_modal.close</note>
+      </trans-unit>
+      <trans-unit id="c48223c71c1560a9e295d915ae851c1621072c43" resname="product.view.assets.validation_status_modal.not_uploaded_count_msg">
+        <source>Files not uploaded (%invalid_count%) Files successfuly uploaded (%valid_count%)</source>
+        <target>crwdns264806:0%invalid_count%crwdnd264806:0%valid_count%crwdne264806:0</target>
+        <note>key: product.view.assets.validation_status_modal.not_uploaded_count_msg</note>
+      </trans-unit>
+      <trans-unit id="00faa376f092be36a037766056faf5bcebe36e9c" resname="product.view.assets.validation_status_modal.success">
+        <source>100% Uploaded</source>
+        <target>crwdns264808:0crwdne264808:0</target>
+        <note>key: product.view.assets.validation_status_modal.success</note>
+      </trans-unit>
+      <trans-unit id="374eed8bc9ac88d21748cb28db050a70e016ad91" resname="product.view.assets.validation_status_modal.title">
+        <source>Upload results</source>
+        <target>crwdns264810:0crwdne264810:0</target>
+        <note>key: product.view.assets.validation_status_modal.title</note>
+      </trans-unit>
+      <trans-unit id="a01e1716cd2c170e1882d2f64fcb0417da4cbc43" resname="product.view.attributes.no_attributes.header">
+        <source>No attributes to show</source>
+        <target>crwdns264812:0crwdne264812:0</target>
+        <note>key: product.view.attributes.no_attributes.header</note>
+      </trans-unit>
+      <trans-unit id="9713a046f9c61bbcf3d3f27672e41f161edbe5c2" resname="product.view.attributes.title">
+        <source>Attributes</source>
+        <target>crwdns264814:0crwdne264814:0</target>
+        <note>key: product.view.attributes.title</note>
+      </trans-unit>
+      <trans-unit id="92d4097248f5f3ab39022658d99c72a84e3bd582" resname="product.view.availability.label.create">
+        <source>Create</source>
+        <target>crwdns264816:0crwdne264816:0</target>
+        <note>key: product.view.availability.label.create</note>
+      </trans-unit>
+      <trans-unit id="2e4247da9ab15880df9df6aba5cb4877b4a92bd9" resname="product.view.availability.label.edit">
+        <source>Edit</source>
+        <target>crwdns264818:0crwdne264818:0</target>
+        <note>key: product.view.availability.label.edit</note>
+      </trans-unit>
+      <trans-unit id="60eb18eb6b8b4ee30b94d952fd4c89f6829e55af" resname="product.view.availability.title">
+        <source>Availability</source>
+        <target>crwdns264820:0crwdne264820:0</target>
+        <note>key: product.view.availability.title</note>
+      </trans-unit>
+      <trans-unit id="f59ab1af0e0bc33f7c4b8a738436ec7293ac1fda" resname="product.view.available.label">
+        <source>Available</source>
+        <target>crwdns264822:0crwdne264822:0</target>
+        <note>key: product.view.available.label</note>
+      </trans-unit>
+      <trans-unit id="e807ef7d39955c91b0a2320c2453725bf6e31b4f" resname="product.view.collaspe.status.completed">
+        <source>Completed 100%</source>
+        <target>crwdns264824:0crwdne264824:0</target>
+        <note>key: product.view.collaspe.status.completed</note>
+      </trans-unit>
+      <trans-unit id="990455e1b8f96d9a12a13ee2e93c5f1d2e2fd480" resname="product.view.collaspe.status.not_started">
+        <source>Not started</source>
+        <target>crwdns264826:0crwdne264826:0</target>
+        <note>key: product.view.collaspe.status.not_started</note>
+      </trans-unit>
+      <trans-unit id="b9569e9276e81b2cb63d498bc4cfafa0e7bea838" resname="product.view.completeness.assets.subtask_title">
+        <source>At least one asset added</source>
+        <target>crwdns264828:0crwdne264828:0</target>
+        <note>key: product.view.completeness.assets.subtask_title</note>
+      </trans-unit>
+      <trans-unit id="f5ba56a6081cf012141e3f7d873dc206b4cf9c0b" resname="product.view.completeness.assets.title">
+        <source>Assets</source>
+        <target>crwdns264830:0crwdne264830:0</target>
+        <note>key: product.view.completeness.assets.title</note>
+      </trans-unit>
+      <trans-unit id="4d95e8ffa3a4cb3103ed44e2f15c0076c54c039b" resname="product.view.completeness.attributes.title">
+        <source>Attributes</source>
+        <target>crwdns264832:0crwdne264832:0</target>
+        <note>key: product.view.completeness.attributes.title</note>
+      </trans-unit>
+      <trans-unit id="ace3336146dfa5a1c9aab92413506dfbe0aed251" resname="product.view.completeness.availability.subtask_title">
+        <source>Available</source>
+        <target>crwdns264834:0crwdne264834:0</target>
+        <note>key: product.view.completeness.availability.subtask_title</note>
+      </trans-unit>
+      <trans-unit id="13043377173dce19802dd40289ad81be5e31888e" resname="product.view.completeness.availability.title">
+        <source>Availability</source>
+        <target>crwdns264836:0crwdne264836:0</target>
+        <note>key: product.view.completeness.availability.title</note>
+      </trans-unit>
+      <trans-unit id="6694afcd7f2fa31c3954adf192ec071e779c5624" resname="product.view.completeness.content.title">
+        <source>Content</source>
+        <target>crwdns264838:0crwdne264838:0</target>
+        <note>key: product.view.completeness.content.title</note>
+      </trans-unit>
+      <trans-unit id="c4fee4f3ad74c4341a782cd28dc1e17b5acdc844" resname="product.view.completeness.prices.title">
+        <source>Prices</source>
+        <target>crwdns264840:0crwdne264840:0</target>
+        <note>key: product.view.completeness.prices.title</note>
+      </trans-unit>
+      <trans-unit id="9d460d103e0079fb722519c66ae9d9caec3bb024" resname="product.view.completeness.subtask.compledted_title">
+        <source>Completed</source>
+        <target>crwdns264842:0crwdne264842:0</target>
+        <note>key: product.view.completeness.subtask.compledted_title</note>
+      </trans-unit>
+      <trans-unit id="df1c000c4d30d52fb268dc38f77c712e7cd88dc0" resname="product.view.completeness.subtask.edit">
+        <source>Edit</source>
+        <target>crwdns264844:0crwdne264844:0</target>
+        <note>key: product.view.completeness.subtask.edit</note>
+      </trans-unit>
+      <trans-unit id="6f9c8aba3db65798e81b136eb127f629830c9482" resname="product.view.completeness.subtask.not_started_title">
+        <source>Not started</source>
+        <target>crwdns264846:0crwdne264846:0</target>
+        <note>key: product.view.completeness.subtask.not_started_title</note>
+      </trans-unit>
+      <trans-unit id="3f5e19684603c33340b4678b224dfa3aa16c76fd" resname="product.view.completeness.subtask_group.compledted_status">
+        <source>Completed</source>
+        <target>crwdns264848:0crwdne264848:0</target>
+        <note>key: product.view.completeness.subtask_group.compledted_status</note>
+      </trans-unit>
+      <trans-unit id="2b550941200dc9c786d7cb4f5c24c291d1a53cce" resname="product.view.completeness.subtask_group.in_progress_status">
+        <source>In progress</source>
+        <target>crwdns264850:0crwdne264850:0</target>
+        <note>key: product.view.completeness.subtask_group.in_progress_status</note>
+      </trans-unit>
+      <trans-unit id="c7763f61b8c9ae1dbc12978573cfe7b0fc435b3e" resname="product.view.completeness.subtask_group.not_started_status">
+        <source>Not started</source>
+        <target>crwdns264852:0crwdne264852:0</target>
+        <note>key: product.view.completeness.subtask_group.not_started_status</note>
+      </trans-unit>
+      <trans-unit id="bc0d73b05d637c843c41739858cb88cc6c438c16" resname="product.view.completeness.translations.title">
+        <source>Translations</source>
+        <target>crwdns264854:0crwdne264854:0</target>
+        <note>key: product.view.completeness.translations.title</note>
+      </trans-unit>
+      <trans-unit id="16ff204ff16a11d94f2220912ff14fae6a9bba1b" resname="product.view.completeness.variants.subtask_title">
+        <source>At least one variant defined</source>
+        <target>crwdns264856:0crwdne264856:0</target>
+        <note>key: product.view.completeness.variants.subtask_title</note>
+      </trans-unit>
+      <trans-unit id="6e1f0af5dd78279d36e793e586cc7039b7fca421" resname="product.view.completeness.variants.title">
+        <source>Variants</source>
+        <target>crwdns264858:0crwdne264858:0</target>
+        <note>key: product.view.completeness.variants.title</note>
+      </trans-unit>
+      <trans-unit id="c1bd3ab428598e5dbc9c1b464044687f546274e2" resname="product.view.details.field.empty">
+        <source>This field is empty</source>
+        <target>crwdns264860:0crwdne264860:0</target>
+        <note>key: product.view.details.field.empty</note>
+      </trans-unit>
+      <trans-unit id="51d0bd34e7500946a50d75c81e5fc2b3b7bb7a2c" resname="product.view.details.product_code">
+        <source>Product code</source>
+        <target>crwdns264862:0crwdne264862:0</target>
+        <note>key: product.view.details.product_code</note>
+      </trans-unit>
+      <trans-unit id="90ca15e0583820398ff7ca103762af09ec6eb750" resname="product.view.details.title">
+        <source>Details</source>
+        <target>crwdns264864:0crwdne264864:0</target>
+        <note>key: product.view.details.title</note>
+      </trans-unit>
+      <trans-unit id="75ab50db2d18f921565b21f0561dafd74be019be" resname="product.view.identifier">
+        <source>%product_name%</source>
+        <target>crwdns264866:0%product_name%crwdne264866:0</target>
+        <note>key: product.view.identifier</note>
+      </trans-unit>
+      <trans-unit id="b10ffb3ff970699dd89339160c0eccdebe35ecd0" resname="product.view.preview">
+        <source>Preview</source>
+        <target>crwdns264868:0crwdne264868:0</target>
+        <note>key: product.view.preview</note>
+      </trans-unit>
+      <trans-unit id="8c9c2b185207ec3fdea0af18db312399c36c019b" resname="product.view.prices">
+        <source>Prices</source>
+        <target>crwdns264870:0crwdne264870:0</target>
+        <note>key: product.view.prices</note>
+      </trans-unit>
+      <trans-unit id="cef9e0e5d41f499d72565dcd795f7b46ae9ce766" resname="product.view.prices.actions.create">
+        <source>Create</source>
+        <target>crwdns264872:0crwdne264872:0</target>
+        <note>key: product.view.prices.actions.create</note>
+      </trans-unit>
+      <trans-unit id="ad9cf88362a64fc50ca774bdfd6e76564cf5ebb0" resname="product.view.prices.actions.edit">
+        <source>Edit</source>
+        <target>crwdns264874:0crwdne264874:0</target>
+        <note>key: product.view.prices.actions.edit</note>
+      </trans-unit>
+      <trans-unit id="6acf88655e3a29251533609d4e961342d6113472" resname="product.view.prices.custome_price">
+        <source>Custom price</source>
+        <target>crwdns264876:0crwdne264876:0</target>
+        <note>key: product.view.prices.custome_price</note>
+      </trans-unit>
+      <trans-unit id="bcb8b449429d5ea113a38abdb81a41fbfd716475" resname="product.view.prices.custome_price.base_price">
+        <source>Base price</source>
+        <target>crwdns264878:0crwdne264878:0</target>
+        <note>key: product.view.prices.custome_price.base_price</note>
+      </trans-unit>
+      <trans-unit id="0fd468640629d509ebe1a59b55c70fc03840c04b" resname="product.view.prices.custome_price.custom_price_rule">
+        <source>Custom price rule</source>
+        <target>crwdns264880:0crwdne264880:0</target>
+        <note>key: product.view.prices.custome_price.custom_price_rule</note>
+      </trans-unit>
+      <trans-unit id="b890a925245a7bbbb5dd94570d771e79d7a17ae8" resname="product.view.prices.custome_price.customer_group">
+        <source>Customer group</source>
+        <target>crwdns264882:0crwdne264882:0</target>
+        <note>key: product.view.prices.custome_price.customer_group</note>
+      </trans-unit>
+      <trans-unit id="0f1132068ca71e6014a0c57e8b3454224a3780e6" resname="product.view.prices.custome_price.global_price_rule">
+        <source>Global price rule</source>
+        <target>crwdns264884:0crwdne264884:0</target>
+        <note>key: product.view.prices.custome_price.global_price_rule</note>
+      </trans-unit>
+      <trans-unit id="3976f82deb86befabf6b3d74cdca8c29347c3ec0" resname="product.view.prices.custome_price.title">
+        <source>Custom price</source>
+        <target>crwdns264886:0crwdne264886:0</target>
+        <note>key: product.view.prices.custome_price.title</note>
+      </trans-unit>
+      <trans-unit id="7b3f378d6f9eb367c0bce9bb3df3c863a76885cb" resname="product.view.prices.main_price">
+        <source>Base price</source>
+        <target>crwdns264888:0crwdne264888:0</target>
+        <note>key: product.view.prices.main_price</note>
+      </trans-unit>
+      <trans-unit id="05a2fd5e57e308ab8809e327c94a22c24c3a37c1" resname="product.view.prices.no_currencies.action_label">
+        <source>Go to currency list</source>
+        <target>crwdns264890:0crwdne264890:0</target>
+        <note>key: product.view.prices.no_currencies.action_label</note>
+      </trans-unit>
+      <trans-unit id="0e860dd3efcc600578846eadfef2b3096cb1bcc3" resname="product.view.prices.no_currencies.descrptions">
+        <source>To create prices, you need to have at least one currency enabled.</source>
+        <target>crwdns264892:0crwdne264892:0</target>
+        <note>key: product.view.prices.no_currencies.descrptions</note>
+      </trans-unit>
+      <trans-unit id="8996305d1fdf750ce11dd5be1e67b3b5b97baf1c" resname="product.view.prices.no_currencies.header">
+        <source>Enable currency</source>
+        <target>crwdns264894:0crwdne264894:0</target>
+        <note>key: product.view.prices.no_currencies.header</note>
+      </trans-unit>
+      <trans-unit id="f226a5104e371c71ab8222a40a16f8e72719e5b1" resname="product.view.progress_bar.completed_status_label">
+        <source>Completed 100%</source>
+        <target>crwdns264896:0crwdne264896:0</target>
+        <note>key: product.view.progress_bar.completed_status_label</note>
+      </trans-unit>
+      <trans-unit id="24e6363bdd595f6acd8da3dc17752777bc1acf62" resname="product.view.progress_bar.label">
+        <source>%progress_value%% complete</source>
+        <target>crwdns264898:0%progress_value%crwdne264898:0</target>
+        <note>key: product.view.progress_bar.label</note>
+      </trans-unit>
+      <trans-unit id="81efbf6f8377846686cf9a9c2c9cf265cfe14115" resname="product.view.stock.label">
+        <source>Stock</source>
+        <target>crwdns264900:0crwdne264900:0</target>
+        <note>key: product.view.stock.label</note>
+      </trans-unit>
+      <trans-unit id="5d0081013643704984d9ed9bee4a2fac623c8b29" resname="product.view.title.identifier">
+        <source>Product "%product_name%"</source>
+        <target>crwdns264902:0%product_name%crwdne264902:0</target>
+        <note>key: product.view.title.identifier</note>
+      </trans-unit>
+      <trans-unit id="9710bf18f5e3e5e9b91fa2f92a2cb7520392ddb5" resname="product_availability.toggle.label.no">
+        <source>No</source>
+        <target>crwdns264904:0crwdne264904:0</target>
+        <note>key: product_availability.toggle.label.no</note>
+      </trans-unit>
+      <trans-unit id="2e96a8345f2ecac938d5db53f1643613bc4dcdd1" resname="product_availability.toggle.label.yes">
+        <source>Yes</source>
+        <target>crwdns264906:0crwdne264906:0</target>
+        <note>key: product_availability.toggle.label.yes</note>
+      </trans-unit>
+      <trans-unit id="85c6210528989f77d16d9130d3663954e61cefa1" resname="product_catalog">
+        <source>Product Catalog</source>
+        <target>crwdns264908:0crwdne264908:0</target>
+        <note>key: product_catalog</note>
+      </trans-unit>
+      <trans-unit id="5c3c0792e595c10a27aa41801fdb3195d9883294" resname="product_catalog.currency.breadcrumb.list">
+        <source>Currencies</source>
+        <target>crwdns264910:0crwdne264910:0</target>
+        <note>key: product_catalog.currency.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="5680f37010df8b5f5945c2bae2861ea09d2b68b9" resname="product_catalog.currency.list.action.create">
+        <source>Create</source>
+        <target>crwdns264912:0crwdne264912:0</target>
+        <note>key: product_catalog.currency.list.action.create</note>
+      </trans-unit>
+      <trans-unit id="0bc296859932c00aa9130223818814a9a081d00d" resname="product_price.base_price">
+        <source>Base price</source>
+        <target>crwdns264914:0crwdne264914:0</target>
+        <note>key: product_price.base_price</note>
+      </trans-unit>
+      <trans-unit id="bd54047a23728c4b5e3fadf2c38767759b42cdb8" resname="product_price.creating.action_name">
+        <source>Creating new product price</source>
+        <target>crwdns264916:0crwdne264916:0</target>
+        <note>key: product_price.creating.action_name</note>
+      </trans-unit>
+      <trans-unit id="9a3e334d070d2a47b3ec39063bfa42d062d07ad8" resname="product_price.creating.title">
+        <source>New product price</source>
+        <target>crwdns264918:0crwdne264918:0</target>
+        <note>key: product_price.creating.title</note>
+      </trans-unit>
+      <trans-unit id="e75fd7fcccddc9d6a265329df77cf38a024470ff" resname="product_price.custom_price">
+        <source>Custom price</source>
+        <target>crwdns264920:0crwdne264920:0</target>
+        <note>key: product_price.custom_price</note>
+      </trans-unit>
+      <trans-unit id="447ec18dad7ac7dfc8f3c54c528545e5aa9acdd7" resname="product_price.custom_price_rule">
+        <source>Custom price rule</source>
+        <target>crwdns264922:0crwdne264922:0</target>
+        <note>key: product_price.custom_price_rule</note>
+      </trans-unit>
+      <trans-unit id="62848aa22fb4ad4f32d06a6a06d4cc5583a16f04" resname="product_price.customer_group">
+        <source>Customer group</source>
+        <target>crwdns264924:0crwdne264924:0</target>
+        <note>key: product_price.customer_group</note>
+      </trans-unit>
+      <trans-unit id="281444c2df6969e2cf81516b9ba899f02272dfb8" resname="product_price.edit.action_name">
+        <source>Editing product price</source>
+        <target>crwdns264926:0crwdne264926:0</target>
+        <note>key: product_price.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="b44fc17a907ec58e18536aaf049c597bd7d3e05d" resname="product_price.final_price">
+        <source>Custom price</source>
+        <target>crwdns264928:0crwdne264928:0</target>
+        <note>key: product_price.final_price</note>
+      </trans-unit>
+      <trans-unit id="1028e4ac7ba4d53205ff3aaeed374a3aeb3046af" resname="product_price.global_price_rule">
+        <source>Global price rule</source>
+        <target>crwdns264930:0crwdne264930:0</target>
+        <note>key: product_price.global_price_rule</note>
+      </trans-unit>
+      <trans-unit id="a1923188694577b82c74b31c206b08da2d32b903" resname="product_price.no_base_price.description">
+        <source>Adding the base price will allow you to enter custom prices for the product.</source>
+        <target>crwdns264932:0crwdne264932:0</target>
+        <note>key: product_price.no_base_price.description</note>
+      </trans-unit>
+      <trans-unit id="3fbb7e1db0186fe30d990ca0860bdc5b1e6e2f71" resname="product_price.no_base_price.info_text">
+        <source>Add a base price</source>
+        <target>crwdns264934:0crwdne264934:0</target>
+        <note>key: product_price.no_base_price.info_text</note>
+      </trans-unit>
+      <trans-unit id="d2d4905373e3d4301ee1f694cf16508e3357784b" resname="product_price.no_customer_group.action_text">
+        <source>To add custom prices, you need to have at least one customer group.</source>
+        <target>crwdns264936:0crwdne264936:0</target>
+        <note>key: product_price.no_customer_group.action_text</note>
+      </trans-unit>
+      <trans-unit id="a874a28bcbdd6c6759c056ba29f4458b34732ebf" resname="product_price.no_customer_group.action_text_no_permission">
+        <source>To create custom price, you need to have at least one customer group.</source>
+        <target>crwdns264938:0crwdne264938:0</target>
+        <note>key: product_price.no_customer_group.action_text_no_permission</note>
+      </trans-unit>
+      <trans-unit id="d525a2e0e42af24f2364b7356bfe0eb31ab37ff3" resname="product_price.no_customer_group.alert_no_permission">
+        <source>You do not have permissions to edit products. Contact your administrator.</source>
+        <target>crwdns264940:0crwdne264940:0</target>
+        <note>key: product_price.no_customer_group.alert_no_permission</note>
+      </trans-unit>
+      <trans-unit id="91f5d7de51bbd1b3c0c4ba396ce6102e4003b7f9" resname="product_price.no_customer_group.info_text">
+        <source>Add custom prices</source>
+        <target>crwdns264942:0crwdne264942:0</target>
+        <note>key: product_price.no_customer_group.info_text</note>
+      </trans-unit>
+      <trans-unit id="6cdf581e749e9dcb11694706d4f8ee45d7422751" resname="product_price.no_customer_group.info_text_no_permission">
+        <source>No custom prices to show</source>
+        <target>crwdns264944:0crwdne264944:0</target>
+        <note>key: product_price.no_customer_group.info_text_no_permission</note>
+      </trans-unit>
+      <trans-unit id="3636669eaba5950b8916e49ee131c1f7b7e3a9fa" resname="product_price.no_customer_group.link_label">
+        <source>Go to customer groups</source>
+        <target>crwdns264946:0crwdne264946:0</target>
+        <note>key: product_price.no_customer_group.link_label</note>
+      </trans-unit>
+      <trans-unit id="dbb743e907c97afda01d86a91edb2ba5795aa6a7" resname="product_price.update_base_price">
+        <source>Update base price</source>
+        <target>crwdns264948:0crwdne264948:0</target>
+        <note>key: product_price.update_base_price</note>
+      </trans-unit>
+      <trans-unit id="4ea1113cde35ab6a9d93fbc933a6b50f41e38f4e" resname="product_type.add.missing_language">
+        <source>Cannot create Product Type. Could not find language with identifier '%languageCode%'</source>
+        <target>crwdns264950:0%languageCode%crwdne264950:0</target>
+        <note>key: product_type.add.missing_language</note>
+      </trans-unit>
+      <trans-unit id="a3ec67ef136feee89b14b4c205edac2d34f6d21f" resname="product_type.breadcrumb.list">
+        <source>Product Types</source>
+        <target>crwdns264952:0crwdne264952:0</target>
+        <note>key: product_type.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="ceb493299931958eae48f648cf6600558391f4da" resname="product_type.column.identifier">
+        <source>Identifier</source>
+        <target>crwdns264954:0crwdne264954:0</target>
+        <note>key: product_type.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="380da4e9bfdd3af15a29a3950a2793f54a955bda" resname="product_type.delete.success">
+        <source>{1}Product Type '%deletedNames%' removed.|]1,Inf[ Product Types '%deletedNames%' removed.</source>
+        <target>crwdns264956:0{1}crwdnd264956:0%deletedNames%crwdnd264956:0%deletedNames%crwdne264956:0</target>
+        <note>key: product_type.delete.success</note>
+      </trans-unit>
+      <trans-unit id="39b23a72b40ef9ebde6d8286d3cb8b84c829beaf" resname="product_type.edit.action_name">
+        <source>Editing Product type</source>
+        <target>crwdns264958:0crwdne264958:0</target>
+        <note>key: product_type.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="9cf444a2bddd102e3ea8099ef27fd62a3e8b35d6" resname="product_type.edit.attributes">
+        <source>Attributes</source>
+        <target>crwdns264960:0crwdne264960:0</target>
+        <note>key: product_type.edit.attributes</note>
+      </trans-unit>
+      <trans-unit id="320525265ebe3970bbe12fcefae651b7e71a26d4" resname="product_type.edit.empty_drop_zone.image_alt">
+        <source>Empty attributes section, please drag some attribute</source>
+        <target>crwdns264962:0crwdne264962:0</target>
+        <note>key: product_type.edit.empty_drop_zone.image_alt</note>
+      </trans-unit>
+      <trans-unit id="865a540534fc087a34ae657e9a974572cd3f9f71" resname="product_type.edit.empty_drop_zone.label">
+        <source>Your section is empty</source>
+        <target>crwdns264964:0crwdne264964:0</target>
+        <note>key: product_type.edit.empty_drop_zone.label</note>
+      </trans-unit>
+      <trans-unit id="74a9360e45cdc9cba49891112a800aaa3dc0a8c9" resname="product_type.edit.empty_drop_zone.title">
+        <source>Drag and drop attribute</source>
+        <target>crwdns264966:0crwdne264966:0</target>
+        <note>key: product_type.edit.empty_drop_zone.title</note>
+      </trans-unit>
+      <trans-unit id="7f15b9764b42a78ea29374fe899c92c2bf8baf73" resname="product_type.edit.library">
+        <source>Library</source>
+        <target>crwdns264968:0crwdne264968:0</target>
+        <note>key: product_type.edit.library</note>
+      </trans-unit>
+      <trans-unit id="a6f013c8fc2e8122351b5489cce2ace50715f7a8" resname="product_type.edit.list_header.name">
+        <source>Name</source>
+        <target>crwdns264970:0crwdne264970:0</target>
+        <note>key: product_type.edit.list_header.name</note>
+      </trans-unit>
+      <trans-unit id="8b10fe5316190f315a4e502a378599db179db38d" resname="product_type.edit.list_header.required_field">
+        <source>Required field</source>
+        <target>crwdns264972:0crwdne264972:0</target>
+        <note>key: product_type.edit.list_header.required_field</note>
+      </trans-unit>
+      <trans-unit id="d5a13292bb6b169959cd8e597d655fca71e53183" resname="product_type.edit.list_header.type">
+        <source>Type</source>
+        <target>crwdns264974:0crwdne264974:0</target>
+        <note>key: product_type.edit.list_header.type</note>
+      </trans-unit>
+      <trans-unit id="bdbe04f22fa091bdf63d8d2ac067d63ff99cc41c" resname="product_type.edit.list_header.used_product_variants">
+        <source>Used for product variants</source>
+        <target>crwdns264976:0crwdne264976:0</target>
+        <note>key: product_type.edit.list_header.used_product_variants</note>
+      </trans-unit>
+      <trans-unit id="29b93262f85f9cd5b5161402d9543a6bf9b61d0d" resname="product_type.edit.section.attributes">
+        <source>Attributes</source>
+        <target>crwdns264978:0crwdne264978:0</target>
+        <note>key: product_type.edit.section.attributes</note>
+      </trans-unit>
+      <trans-unit id="6b30d19b65dca42c92ef8eeecb2f6cd33cd5ff34" resname="product_type.edit.section.content_field_definitions">
+        <source>Field definitions</source>
+        <target>crwdns264980:0crwdne264980:0</target>
+        <note>key: product_type.edit.section.content_field_definitions</note>
+      </trans-unit>
+      <trans-unit id="b633ec421894bb6c2b08c15654f76ce47ae493ac" resname="product_type.edit.section.global_properties">
+        <source>Global properties</source>
+        <target>crwdns264982:0crwdne264982:0</target>
+        <note>key: product_type.edit.section.global_properties</note>
+      </trans-unit>
+      <trans-unit id="bdeb579615063551f9586b9cb3157ad7828f0a7a" resname="product_type.list.column.name">
+        <source>Name</source>
+        <target>crwdns264984:0crwdne264984:0</target>
+        <note>key: product_type.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="2cc7bb68b85913fa239bc06b95b4128b730e057c" resname="product_type.list.number_of_results">
+        <source>%number_of_results% Results</source>
+        <target>crwdns264986:0%number_of_results%crwdne264986:0</target>
+        <note>key: product_type.list.number_of_results</note>
+      </trans-unit>
+      <trans-unit id="ab470800bb5f41631d5d123f45d81921478fc26d" resname="product_type.list.title">
+        <source>Product Types</source>
+        <target>crwdns264988:0crwdne264988:0</target>
+        <note>key: product_type.list.title</note>
+      </trans-unit>
+      <trans-unit id="1fa51d408c818f031ec3496632a61c3841279f73" resname="product_type.name_schema">
+        <source>Product name pattern</source>
+        <target>crwdns264990:0crwdne264990:0</target>
+        <note>key: product_type.name_schema</note>
+      </trans-unit>
+      <trans-unit id="e851866ef9003ace31ae9a4c4e32fac58c184f8a" resname="product_type.no_product_types.info_text">
+        <source>Add your first product type</source>
+        <target>crwdns264992:0crwdne264992:0</target>
+        <note>key: product_type.no_product_types.info_text</note>
+      </trans-unit>
+      <trans-unit id="26401f0b64bf059c067e9816bc0f182cf8b5176f" resname="product_type.no_search_results.action_text">
+        <source>Try again with new search criteria</source>
+        <target>crwdns264994:0crwdne264994:0</target>
+        <note>key: product_type.no_search_results.action_text</note>
+      </trans-unit>
+      <trans-unit id="864cabb6c8591a804a0971a83035a6b0e64fc2ed" resname="product_type.no_search_results.info_text">
+        <source>Sorry, there are no product types for your search</source>
+        <target>crwdns264996:0crwdne264996:0</target>
+        <note>key: product_type.no_search_results.info_text</note>
+      </trans-unit>
+      <trans-unit id="23bbb7ce379017e6c25332e2c8ccdceb4509c69d" resname="product_type.view.details.description">
+        <source>Description</source>
+        <target>crwdns264998:0crwdne264998:0</target>
+        <note>key: product_type.view.details.description</note>
+      </trans-unit>
+      <trans-unit id="c220b3f3dab0ed637d827cd0acbe71089f836d05" resname="product_type.view.details.identifier">
+        <source>Identifier</source>
+        <target>crwdns265000:0crwdne265000:0</target>
+        <note>key: product_type.view.details.identifier</note>
+      </trans-unit>
+      <trans-unit id="c3c7ebacf30829e40e0e311594f11d0c2776ecc8" resname="product_type.view.details.name">
+        <source>Name</source>
+        <target>crwdns265002:0crwdne265002:0</target>
+        <note>key: product_type.view.details.name</note>
+      </trans-unit>
+      <trans-unit id="0b74201250cb1b6b536f9547499ad4d869f9f3b4" resname="product_type.view.details.name_schema">
+        <source>Product name pattern</source>
+        <target>crwdns265004:0crwdne265004:0</target>
+        <note>key: product_type.view.details.name_schema</note>
+      </trans-unit>
+      <trans-unit id="ae02bc5fd1fe798528ee06cc9f1b409aea50b1c6" resname="product_type.view.details.product_field_definitions">
+        <source>Product Field definitions</source>
+        <target>crwdns265006:0crwdne265006:0</target>
+        <note>key: product_type.view.details.product_field_definitions</note>
+      </trans-unit>
+      <trans-unit id="036387545ebb0d9e06572459028ebe2716bd8fdc" resname="product_type.view.details.title">
+        <source>Details</source>
+        <target>crwdns265008:0crwdne265008:0</target>
+        <note>key: product_type.view.details.title</note>
+      </trans-unit>
+      <trans-unit id="cac20a3e30478a2187388d98832c0db5a29320cd" resname="product_type.view.identifier">
+        <source>%product_type_name%</source>
+        <target>crwdns265010:0%product_type_name%crwdne265010:0</target>
+        <note>key: product_type.view.identifier</note>
+      </trans-unit>
+      <trans-unit id="f20ce24e322756e8ca153296d80a29a735b6a8a1" resname="product_type.view.preview">
+        <source>Preview</source>
+        <target>crwdns265012:0crwdne265012:0</target>
+        <note>key: product_type.view.preview</note>
+      </trans-unit>
+      <trans-unit id="87361846383cb1c128ae01e8b0b855b359f6f638" resname="product_type.view.title">
+        <source>Product type "%product_type_name%"</source>
+        <target>crwdns265014:0%product_type_name%crwdne265014:0</target>
+        <note>key: product_type.view.title</note>
+      </trans-unit>
+      <trans-unit id="2e0b0e4c66970c996dd8d5c6ac9647cb1703fbf2" resname="product_variant.anchor_navigation_item.attributes">
+        <source>Attributes</source>
+        <target>crwdns265016:0crwdne265016:0</target>
+        <note>key: product_variant.anchor_navigation_item.attributes</note>
+      </trans-unit>
+      <trans-unit id="a1d643b3f1f9369acc4aeeb3d56bb49c6c5aaa31" resname="product_variant.anchor_navigation_item.basic_information">
+        <source>Basic information</source>
+        <target>crwdns265018:0crwdne265018:0</target>
+        <note>key: product_variant.anchor_navigation_item.basic_information</note>
+      </trans-unit>
+      <trans-unit id="f789cd7b9ab753b5c98a58096800fdb417942e00" resname="product_variant.create.action_name">
+        <source>Creating product variant</source>
+        <target>crwdns265020:0crwdne265020:0</target>
+        <note>key: product_variant.create.action_name</note>
+      </trans-unit>
+      <trans-unit id="719e7ce7f7481f9b9f14b9581e7911806d0ddddb" resname="product_variant.edit.action_name">
+        <source>Updating product variant</source>
+        <target>crwdns265022:0crwdne265022:0</target>
+        <note>key: product_variant.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="77a0107f7bf3d34a0fda1122d6386507dba358e0" resname="products.category.unassign">
+        <source>Unassign</source>
+        <target>crwdns265024:0crwdne265024:0</target>
+        <note>key: products.category.unassign</note>
+      </trans-unit>
+      <trans-unit id="50355318a12967a12b6fb9adba1add43d8f2e048" resname="regions.breadcrumb.list">
+        <source>Regions</source>
+        <target>crwdns265026:0crwdne265026:0</target>
+        <note>key: regions.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="a39877fcd260551abe19d51cf6ae62407dc7250c" resname="regions.list.column.identifier">
+        <source>identifier</source>
+        <target>crwdns265028:0crwdne265028:0</target>
+        <note>key: regions.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="c9ca23ade580d69db75160116a11d1e445b81dc4" resname="regions.list.number_of_results">
+        <source>%number_of_results% Results</source>
+        <target>crwdns265030:0%number_of_results%crwdne265030:0</target>
+        <note>key: regions.list.number_of_results</note>
+      </trans-unit>
+      <trans-unit id="068b2859bb0a7c5f947295830e83c651345649ed" resname="regions.list.title">
+        <source>Regions</source>
+        <target>crwdns265032:0crwdne265032:0</target>
+        <note>key: regions.list.title</note>
+      </trans-unit>
+      <trans-unit id="bceec9b087e891d9b6b0e08f5da1a04e36cf86d4" resname="regions.vat.list.column.identifier">
+        <source>vat category identifier</source>
+        <target>crwdns265034:0crwdne265034:0</target>
+        <note>key: regions.vat.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="f8b66107b2ecc412287308aa78e04e418e843614" resname="regions.vat.list.column.value">
+        <source>value</source>
+        <target>crwdns265036:0crwdne265036:0</target>
+        <note>key: regions.vat.list.column.value</note>
+      </trans-unit>
+      <trans-unit id="961bac8ebff0b294255696375758df89fe8439a8" resname="regions.vat.value.not_applicable">
+        <source>N/A</source>
+        <target>crwdns265038:0crwdne265038:0</target>
+        <note>key: regions.vat.value.not_applicable</note>
+      </trans-unit>
+      <trans-unit id="99879f4a4cae0475601d238a3f7c1c6bb33fec34" resname="search_form.search">
+        <source>Search...</source>
+        <target>crwdns265040:0crwdne265040:0</target>
+        <note>key: search_form.search</note>
+      </trans-unit>
+      <trans-unit id="317ac2c005b8c96a219ecb4e5735771092477250" resname="tab.category.products.unassign.modal.message">
+        <source>Do you want to unassign products?</source>
+        <target>crwdns265042:0crwdne265042:0</target>
+        <note>key: tab.category.products.unassign.modal.message</note>
+      </trans-unit>
+      <trans-unit id="781700a80872ee63cfcd0af60af72f696b12c777" resname="tab.name.assets">
+        <source>Assets</source>
+        <target>crwdns265044:0crwdne265044:0</target>
+        <note>key: tab.name.assets</note>
+      </trans-unit>
+      <trans-unit id="58f4c09492728f8de1716e2a714560cf271ed1a1" resname="tab.name.attributes">
+        <source>Attributes</source>
+        <target>crwdns265046:0crwdne265046:0</target>
+        <note>key: tab.name.attributes</note>
+      </trans-unit>
+      <trans-unit id="8f4611560c8a45d1a3cac95a06cc65d6a74c510d" resname="tab.name.availability">
+        <source>Availability</source>
+        <target>crwdns265048:0crwdne265048:0</target>
+        <note>key: tab.name.availability</note>
+      </trans-unit>
+      <trans-unit id="6090e35f8a6126cb17f2aeea7479a53c0fa00eef" resname="tab.name.category.products">
+        <source>Products</source>
+        <target>crwdns265050:0crwdne265050:0</target>
+        <note>key: tab.name.category.products</note>
+      </trans-unit>
+      <trans-unit id="6a83ea8dd39089aec90e2e1c40e48357c92d3ba4" resname="tab.name.completeness">
+        <source>Completeness</source>
+        <target>crwdns265052:0crwdne265052:0</target>
+        <note>key: tab.name.completeness</note>
+      </trans-unit>
+      <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
+        <source>Details</source>
+        <target>crwdns265054:0crwdne265054:0</target>
+        <note>key: tab.name.details</note>
+      </trans-unit>
+      <trans-unit id="9fd6cef7a9282cf042d46b9702364c26274ecdbc" resname="tab.name.prices">
+        <source>Prices</source>
+        <target>crwdns265056:0crwdne265056:0</target>
+        <note>key: tab.name.prices</note>
+      </trans-unit>
+      <trans-unit id="275ec374b70a18444943110e030b6dd59ae7d001" resname="tab.name.products">
+        <source>Products</source>
+        <target>crwdns265058:0crwdne265058:0</target>
+        <note>key: tab.name.products</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target>crwdns265060:0crwdne265060:0</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="01caed235dd835f8399783846780e869623d0567" resname="tab.name.variants">
+        <source>Variants</source>
+        <target>crwdns265062:0crwdne265062:0</target>
+        <note>key: tab.name.variants</note>
+      </trans-unit>
+      <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
+        <source>Add new</source>
+        <target>crwdns265064:0crwdne265064:0</target>
+        <note>key: tab.translations.action.add</note>
+      </trans-unit>
+      <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
+        <source>Delete</source>
+        <target>crwdns265066:0crwdne265066:0</target>
+        <note>key: tab.translations.action.delete</note>
+      </trans-unit>
+      <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
+        <source>Cancel</source>
+        <target>crwdns265068:0crwdne265068:0</target>
+        <note>key: tab.translations.add.cancel</note>
+      </trans-unit>
+      <trans-unit id="7071dc68a0dae541e8a5a20252f5285dbee29bd8" resname="tab.translations.add.create">
+        <source>Create</source>
+        <target>crwdns265070:0crwdne265070:0</target>
+        <note>key: tab.translations.add.create</note>
+      </trans-unit>
+      <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
+        <source>Create a new translation</source>
+        <target>crwdns265072:0crwdne265072:0</target>
+        <note>key: tab.translations.add.title</note>
+      </trans-unit>
+      <trans-unit id="d494d753de03a08f7a10792b727ec88ca74d4913" resname="tab.translations.language_code">
+        <source>Language code</source>
+        <target>crwdns265074:0crwdne265074:0</target>
+        <note>key: tab.translations.language_code</note>
+      </trans-unit>
+      <trans-unit id="0becdca42cbaa039a6166b8aa778a86657bb362f" resname="tab.translations.language_name">
+        <source>Language name</source>
+        <target>crwdns265076:0crwdne265076:0</target>
+        <note>key: tab.translations.language_name</note>
+      </trans-unit>
+      <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
+        <source>Do you want to delete the translation?</source>
+        <target>crwdns265078:0crwdne265078:0</target>
+        <note>key: tab.translations.modal.message</note>
+      </trans-unit>
+      <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
+        <source>Translation manager</source>
+        <target>crwdns265080:0crwdne265080:0</target>
+        <note>key: tab.translations.translation_manger</note>
+      </trans-unit>
+      <trans-unit id="f1a438b04d52b3a4f13ef9c6bd55422d7d95f9c3" resname="tab.variants.action.add">
+        <source>Add</source>
+        <target>crwdns265082:0crwdne265082:0</target>
+        <note>key: tab.variants.action.add</note>
+      </trans-unit>
+      <trans-unit id="734bdc8a3a5f67abee2fdb9006272ab2a2e6dda5" resname="tab.variants.action.delete">
+        <source>Delete</source>
+        <target>crwdns265084:0crwdne265084:0</target>
+        <note>key: tab.variants.action.delete</note>
+      </trans-unit>
+      <trans-unit id="afc6d188452592ab71661250f5797b3a3f3aa12a" resname="tab.variants.code">
+        <source>Product code</source>
+        <target>crwdns265086:0crwdne265086:0</target>
+        <note>key: tab.variants.code</note>
+      </trans-unit>
+      <trans-unit id="e69faa33548046dd30da3472456d913f2586a3c5" resname="tab.variants.empty.action">
+        <source>Generate variants or add manually</source>
+        <target>crwdns265088:0crwdne265088:0</target>
+        <note>key: tab.variants.empty.action</note>
+      </trans-unit>
+      <trans-unit id="2863324cbdd8f5214a355b710207c4b6a5244a5c" resname="tab.variants.empty.generate_variants">
+        <source>Generate variants</source>
+        <target>crwdns265090:0crwdne265090:0</target>
+        <note>key: tab.variants.empty.generate_variants</note>
+      </trans-unit>
+      <trans-unit id="02e0b874ee7b362fc41d0db0c7f568111d88e29a" resname="tab.variants.empty.info">
+        <source>No variants available</source>
+        <target>crwdns265092:0crwdne265092:0</target>
+        <note>key: tab.variants.empty.info</note>
+      </trans-unit>
+      <trans-unit id="0fcbd8d26cddec6c401bffee5d141a53cda0a925" resname="tab.variants.modal.attribute">
+        <source>Attribute</source>
+        <target>crwdns265094:0crwdne265094:0</target>
+        <note>key: tab.variants.modal.attribute</note>
+      </trans-unit>
+      <trans-unit id="1beb21456998364fd6bd3cbb012a4a1149fbec34" resname="tab.variants.modal.cancel">
+        <source>Cancel</source>
+        <target>crwdns265096:0crwdne265096:0</target>
+        <note>key: tab.variants.modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="7a1ef3c49ff57af03d903726fc6c7bc8980e0364" resname="tab.variants.modal.generate">
+        <source>Generate variants</source>
+        <target>crwdns265098:0crwdne265098:0</target>
+        <note>key: tab.variants.modal.generate</note>
+      </trans-unit>
+      <trans-unit id="a32501e6c26d3f88a5636895903ae2ba2e3419c2" resname="tab.variants.modal.main_info">
+        <source>Provide values for attribute(s) to generate product variants.</source>
+        <target>crwdns265100:0crwdne265100:0</target>
+        <note>key: tab.variants.modal.main_info</note>
+      </trans-unit>
+      <trans-unit id="75934a56f5e9234cfc0054e51518fb67270c9c84" resname="tab.variants.modal.message">
+        <source>Do you want to delete the variant?</source>
+        <target>crwdns265102:0crwdne265102:0</target>
+        <note>key: tab.variants.modal.message</note>
+      </trans-unit>
+      <trans-unit id="5b5cd0616dd47c6c595b7d0394676f367398a85d" resname="tab.variants.modal.secondary_info">
+        <source>Automatically create variants based on the attributes defined above.</source>
+        <target>crwdns265104:0crwdne265104:0</target>
+        <note>key: tab.variants.modal.secondary_info</note>
+      </trans-unit>
+      <trans-unit id="4bf92b6f4a24c4c6b4b8f04f5b3479c6ba108b9e" resname="tab.variants.modal.technical_characteristics">
+        <source>Technical characteristics</source>
+        <target>crwdns265106:0crwdne265106:0</target>
+        <note>key: tab.variants.modal.technical_characteristics</note>
+      </trans-unit>
+      <trans-unit id="0dc593c628d12f7170b1024323958c30cfc4e4bb" resname="tab.variants.modal.title">
+        <source>Generate variants</source>
+        <target>crwdns265108:0crwdne265108:0</target>
+        <note>key: tab.variants.modal.title</note>
+      </trans-unit>
+      <trans-unit id="d9e5667321ab1d19677a53e1870817ef0c3dbf83" resname="tab.variants.name">
+        <source>Name</source>
+        <target>crwdns265110:0crwdne265110:0</target>
+        <note>key: tab.variants.name</note>
+      </trans-unit>
+      <trans-unit id="221e07fc7bd503652586731e8456e61d87f52b06" resname="tab.variants.variants">
+        <source>Variants</source>
+        <target>crwdns265112:0crwdne265112:0</target>
+        <note>key: tab.variants.variants</note>
+      </trans-unit>
+      <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">
+        <source>No language</source>
+        <target>crwdns265114:0crwdne265114:0</target>
+        <note>key: translation.base_language.no_language</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
