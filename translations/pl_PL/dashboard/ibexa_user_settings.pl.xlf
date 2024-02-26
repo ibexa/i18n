@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="7abee4ee060a1bd9a0a804dfe27bcffe444d32b9" resname="settings.group.dashboard.description">
         <source>settings.group.dashboard.description</source>
-        <target state="needs-translation">settings.group.dashboard.description</target>
+        <target state="translated"/>
         <note>key: settings.group.dashboard.description</note>
       </trans-unit>
       <trans-unit id="b02013301fb78678957519c34dec95bc2c3e8e18" resname="settings.group.dashboard.name">
