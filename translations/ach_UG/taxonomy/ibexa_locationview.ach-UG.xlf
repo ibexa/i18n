@@ -6,20 +6,25 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="fdc7d270cec1081be5a6888bf565ff03eebc6ce9" resname="content.create.cancel_btn.label">
+        <source>Discard</source>
+        <target>crwdns253670:0crwdne253670:0</target>
+        <note>key: content.create.cancel_btn.label</note>
+      </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
         <target>crwdns246062:0crwdne246062:0</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
-      <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
-        <source>under %content_name%</source>
-        <target>crwdns246064:0%content_name%crwdne246064:0</target>
-        <note>key: content.create.editing_details</note>
-      </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
         <source>Select a language:</source>
         <target>crwdns246066:0crwdne246066:0</target>
         <note>key: content.create.select_language</note>
+      </trans-unit>
+      <trans-unit id="5767dfeb60cb37c40e6df7dc69ebbede4a996b47" resname="content.create.tag.editing_details">
+        <source>under: %content%</source>
+        <target>crwdns253672:0%content%crwdne253672:0</target>
+        <note>key: content.create.tag.editing_details</note>
       </trans-unit>
     </body>
   </file>

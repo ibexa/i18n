@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="b4c6330d6228d6f41b8788ae32f5ef7891f43f18" resname="policy.limitation.identifier.cartowner">
         <source>Cart Owner</source>
-        <target state="needs-translation">Cart Owner</target>
+        <target state="translated">Właściciel koszyka</target>
         <note>key: policy.limitation.identifier.cartowner</note>
       </trans-unit>
     </body>

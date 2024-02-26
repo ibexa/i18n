@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="653b9891e9f38d7f9f56485fb0fe26250c3b1ac3" resname="actions_menu.cancel">
-        <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: actions_menu.cancel</note>
       </trans-unit>
       <trans-unit id="5042ae08713a600d25e4ddded7e9334daf182bbf" resname="actions_menu.confirm">
@@ -52,13 +52,13 @@
         <note>key: content.create.editing_details</note>
       </trans-unit>
       <trans-unit id="a443a2a76348e8431df4346c11079f9e56735473" resname="content.create.filters.desc">
-        <source>Or choose from list</source>
-        <target state="needs-translation">Or choose from list</target>
+        <source>Select a content type from list</source>
+        <target state="needs-translation">Select a content type from list</target>
         <note>key: content.create.filters.desc</note>
       </trans-unit>
       <trans-unit id="1713d0deb6344882cf915babb2df574556a3f82c" resname="content_create.cancel.label">
-        <source>Cancel</source>
-        <target state="translated">Cancelar</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: content_create.cancel.label</note>
       </trans-unit>
       <trans-unit id="6597ed9c77295271a62deaf86cddcab2a332af8d" resname="content_create.label">
@@ -67,8 +67,8 @@
         <note>key: content_create.label</note>
       </trans-unit>
       <trans-unit id="64f19d8055dc93bc222ddb63342200d68bf47958" resname="content_create.placeholder">
-        <source>Search by Content Type</source>
-        <target state="needs-translation">Search by Content Type</target>
+        <source>Search by content type</source>
+        <target state="needs-translation">Search by content type</target>
         <note>key: content_create.placeholder</note>
       </trans-unit>
       <trans-unit id="cb13371418234a9257a76bcc2a55768d5e5e58d8" resname="content_edit.label">
@@ -77,8 +77,8 @@
         <note>key: content_edit.label</note>
       </trans-unit>
       <trans-unit id="e1846286e48b0f692a8f01be6ae81a95ebb68595" resname="content_table.content_type">
-        <source>Content Type</source>
-        <target state="translated">Tipo de contenido</target>
+        <source>Content type</source>
+        <target state="needs-translation">Content type</target>
         <note>key: content_table.content_type</note>
       </trans-unit>
       <trans-unit id="d32da00d9a92ccbbe0c7e5c9ae7fb8a68491929a" resname="content_table.modified">
@@ -105,11 +105,6 @@
         <source>Create content</source>
         <target state="needs-translation">Create content</target>
         <note>key: create_content.label</note>
-      </trans-unit>
-      <trans-unit id="61059b2a945e7873b9ff9a72bd164d8ae001ccd4" resname="create_content.select_content_type">
-        <source>Select a Content Type</source>
-        <target state="translated">Seleccionar un tipo de contenido</target>
-        <note>key: create_content.select_content_type</note>
       </trans-unit>
       <trans-unit id="620f985461da78639f600259b95ebd3cdf2d9ed2" resname="create_content.select_language">
         <source>Select a language</source>
@@ -230,6 +225,11 @@
         <source>Select destination</source>
         <target state="translated">Seleccionar destino</target>
         <note>key: move.title</note>
+      </trans-unit>
+      <trans-unit id="d31e50b1f33f2682ff35901dc7d7c4ea646ca922" resname="pagination.info.viewing_message">
+        <source>Viewing %viewingCount% out of %totalCount% items</source>
+        <target state="needs-translation">Viewing %viewingCount% out of %totalCount% items</target>
+        <note>key: pagination.info.viewing_message</note>
       </trans-unit>
       <trans-unit id="fde645e6790429ce2f904099b7aa2712224be9aa" resname="popup.close.label">
         <source>Close</source>

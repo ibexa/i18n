@@ -31,6 +31,11 @@
         <target>crwdns241676:0crwdne241676:0</target>
         <note>key: Publish</note>
       </trans-unit>
+      <trans-unit id="e4edccf256c4bf913a5929b429824155a7613ca3" resname="Publish and edit">
+        <source>Publish and edit</source>
+        <target>crwdns253356:0crwdne253356:0</target>
+        <note>key: Publish and edit</note>
+      </trans-unit>
       <trans-unit id="fb063a81c26c9246dd089025bf8e6ff896058ffc" resname="To language">
         <source>To language</source>
         <target>crwdns241678:0crwdne241678:0</target>
@@ -50,6 +55,11 @@
         <source>Save draft</source>
         <target>crwdns241684:0crwdne241684:0</target>
         <note>key: save_draft</note>
+      </trans-unit>
+      <trans-unit id="d57dc5d10311fb7d6d4730bfdee8a5b6e7c2d849" resname="save_draft_and_close">
+        <source>Save draft and close</source>
+        <target>crwdns253358:0crwdne253358:0</target>
+        <note>key: save_draft_and_close</note>
       </trans-unit>
     </body>
   </file>

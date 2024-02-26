@@ -22,14 +22,9 @@
         <note>key: taxonomy.tag.content.modal.subtitle</note>
       </trans-unit>
       <trans-unit id="dddc97c66d483ea17123c23accf45f2dcb0ac930" resname="taxonomy.tag.content.modal.title">
-        <source>Select %name% Entries</source>
-        <target>crwdns252440:0%name%crwdne252440:0</target>
+        <source>Select %name%</source>
+        <target>crwdns253674:0%name%crwdne253674:0</target>
         <note>key: taxonomy.tag.content.modal.title</note>
-      </trans-unit>
-      <trans-unit id="abd5e66209441cecae249d0df13d8057af4f3002" resname="taxonomy.tag.content.type.taxonomy.entries">
-        <source>Taxonomy %name%</source>
-        <target>crwdns252442:0%name%crwdne252442:0</target>
-        <note>key: taxonomy.tag.content.type.taxonomy.entries</note>
       </trans-unit>
     </body>
   </file>

@@ -57,13 +57,13 @@
         <note>key: settings.character_counter.value.title</note>
       </trans-unit>
       <trans-unit id="bb01c22de6038102d6fa6646f4ecebaf0c54e720" resname="settings.full_datetime_format.value.description">
-        <source>Date and time format</source>
-        <target state="translated">Datums- und Uhrzeitformat</target>
+        <source>Full date and time format</source>
+        <target state="needs-translation">Full date and time format</target>
         <note>key: settings.full_datetime_format.value.description</note>
       </trans-unit>
       <trans-unit id="9b6504d133b0a02fd337aa91d724723c927e4e96" resname="settings.full_datetime_format.value.title">
-        <source>Long date and time format</source>
-        <target state="translated">Langes Datums- und Zeitformat</target>
+        <source>Full date and time format</source>
+        <target state="needs-translation">Full date and time format</target>
         <note>key: settings.full_datetime_format.value.title</note>
       </trans-unit>
       <trans-unit id="f69442f4afc8feed51643e408862c6a83f715560" resname="settings.group.browsing.description">
@@ -81,10 +81,10 @@
         <target state="needs-translation">settings.group.edit_content.description</target>
         <note>key: settings.group.edit_content.description</note>
       </trans-unit>
-      <trans-unit id="9fb4add1a9e6148b11b25ddbcaf4e77d97b4ab45" resname="settings.group.edit_content.name">
-        <source>Edit</source>
-        <target state="needs-translation">Edit</target>
-        <note>key: settings.group.edit_content.name</note>
+      <trans-unit id="962f753514ae358c3a7c093f354f213ec553e9b3" resname="settings.group.content_authoring.name">
+        <source>Content authoring</source>
+        <target state="needs-translation">Content authoring</target>
+        <note>key: settings.group.content_authoring.name</note>
       </trans-unit>
       <trans-unit id="377f69d650dee0a54486fea8f8a89b82203b7755" resname="settings.group.generic.description">
         <source>settings.group.generic.description</source>
@@ -117,8 +117,8 @@
         <note>key: settings.language.value.title</note>
       </trans-unit>
       <trans-unit id="f99a9bb9741db45f57f2436c535d89609ebc6b0d" resname="settings.short_datetime_format.value.description">
-        <source>Date and time format</source>
-        <target state="translated">Datums- und Uhrzeitformat</target>
+        <source>Short date and time format</source>
+        <target state="needs-translation">Short date and time format</target>
         <note>key: settings.short_datetime_format.value.description</note>
       </trans-unit>
       <trans-unit id="f87e581648ae7baaa1e96941f1c8b45c11f73553" resname="settings.short_datetime_format.value.title">

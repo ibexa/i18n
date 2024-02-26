@@ -17,7 +17,7 @@
         <note>key: future_hide.action.unschedule.label</note>
       </trans-unit>
       <trans-unit id="bb4399374d3885ded0ee2e2b2d1c34fa4e4cae97" resname="future_hide.attribute.content_type.label">
-        <source>Content Type</source>
+        <source>Content type</source>
         <target state="translated">Typ treści</target>
         <note>key: future_hide.attribute.content_type.label</note>
       </trans-unit>
@@ -37,7 +37,7 @@
         <note>key: future_publication.action.unschedule.label</note>
       </trans-unit>
       <trans-unit id="420ef90e1dcbceca8d26b11b03d816c39678d7b1" resname="future_publication.attribute.content_type.label">
-        <source>Content Type</source>
+        <source>Content type</source>
         <target state="translated">Typ treści</target>
         <note>key: future_publication.attribute.content_type.label</note>
       </trans-unit>

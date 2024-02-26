@@ -8,13 +8,8 @@
     <body>
       <trans-unit id="f13906f7e6bb4146b0c1f3b3df05926b0ed530b9" resname="ibexa.payment_method.type.offline.name">
         <source>Offline</source>
-        <target state="needs-translation">Offline</target>
+        <target state="translated">Offline</target>
         <note>key: ibexa.payment_method.type.offline.name</note>
-      </trans-unit>
-      <trans-unit id="8c8113ca4194332b2b51f7f51f5ba84facc15f7d" resname="ibexa.payment_method.type.online.name">
-        <source>Online</source>
-        <target state="needs-translation">Online</target>
-        <note>key: ibexa.payment_method.type.online.name</note>
       </trans-unit>
     </body>
   </file>

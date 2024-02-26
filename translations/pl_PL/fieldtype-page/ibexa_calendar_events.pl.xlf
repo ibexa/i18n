@@ -27,7 +27,7 @@
         <note>key: page_block_visibility.attribute.content_name.label</note>
       </trans-unit>
       <trans-unit id="3f33d0924567a52a3b81e930591e5fcfa899dfd3" resname="page_block_visibility.attribute.content_type.label">
-        <source>Content Type</source>
+        <source>Content type</source>
         <target state="translated">Typ treści</target>
         <note>key: page_block_visibility.attribute.content_type.label</note>
       </trans-unit>

@@ -21,10 +21,30 @@
         <target state="needs-translation">Content airtime settings</target>
         <note>key: airtime_popup.title</note>
       </trans-unit>
+      <trans-unit id="02e961b3df3878793a33a6ed347a20567ef1a12f" resname="block.cannot_update">
+        <source>Cannot update blocks preview</source>
+        <target state="needs-translation">Cannot update blocks preview</target>
+        <note>key: block.cannot_update</note>
+      </trans-unit>
       <trans-unit id="e61d69c5b35faa8c43084885c01641cd96683877" resname="block.delete">
-        <source>Delete block</source>
-        <target state="needs-translation">Delete block</target>
+        <source>Delete</source>
+        <target state="needs-translation">Delete</target>
         <note>key: block.delete</note>
+      </trans-unit>
+      <trans-unit id="004c6e30a0aae148a9a83a6b9ed16b9d90f41de6" resname="block.duplicate">
+        <source>Duplicate</source>
+        <target state="needs-translation">Duplicate</target>
+        <note>key: block.duplicate</note>
+      </trans-unit>
+      <trans-unit id="3401bb1dcfef98108a504e912e0b3fcf621d9411" resname="block.move.down">
+        <source>Move down block</source>
+        <target state="needs-translation">Move down block</target>
+        <note>key: block.move.down</note>
+      </trans-unit>
+      <trans-unit id="6a6fbc64b9487be9c68fb11031141e934aea579a" resname="block.move.up">
+        <source>Move up block</source>
+        <target state="needs-translation">Move up block</target>
+        <note>key: block.move.up</note>
       </trans-unit>
       <trans-unit id="b264e5fe26bc4d10d5ca3becf3ab73542f738925" resname="block.no_availability">
         <source>One or more blocks is not available in this page</source>
@@ -45,6 +65,11 @@
         <source>This element is not available in this page</source>
         <target state="needs-translation">This element is not available in this page</target>
         <note>key: block.no_availability.title</note>
+      </trans-unit>
+      <trans-unit id="40932eb015c698a95f55867405525edf2df592de" resname="block.refresh">
+        <source>Refresh</source>
+        <target state="needs-translation">Refresh</target>
+        <note>key: block.refresh</note>
       </trans-unit>
       <trans-unit id="2a2fe3def10e04d741369aa5ddf4d4ea00680ca6" resname="block.settings">
         <source>Block settings</source>
@@ -86,25 +111,15 @@
         <target state="needs-translation">Date and time</target>
         <note>key: date_picker.label</note>
       </trans-unit>
-      <trans-unit id="6eab7e919136479499cfa377b9f63bae39d22c54" resname="drop.block.here">
-        <source>Drop block here</source>
-        <target state="needs-translation">Drop block here</target>
-        <note>key: drop.block.here</note>
-      </trans-unit>
-      <trans-unit id="602346fbb59fa13321388beb02c3ac56122fd318" resname="drop.blocks.here">
-        <source>Drop blocks here</source>
-        <target state="needs-translation">Drop blocks here</target>
-        <note>key: drop.blocks.here</note>
+      <trans-unit id="35d2114d55123561f0f625894fb5ef3807d4e3e3" resname="drag.drop.blocks.here">
+        <source>Drag and drop blocks here</source>
+        <target state="needs-translation">Drag and drop blocks here</target>
+        <note>key: drag.drop.blocks.here</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing %content_type_name%</source>
         <target state="needs-translation">Editing %content_type_name%</target>
         <note>key: editing</note>
-      </trans-unit>
-      <trans-unit id="79bf5a9df7f033c0b853263adb274a8045791ab0" resname="empty_block.info.text">
-        <source>%name% block</source>
-        <target state="needs-translation">%name% block</target>
-        <note>key: empty_block.info.text</note>
       </trans-unit>
       <trans-unit id="36cdc651708919d9a830acb2c742b325fd23aeb5" resname="error.message">
         <source>Something went wrong</source>
@@ -121,20 +136,25 @@
         <target state="needs-translation">Some blocks are missing configuration</target>
         <note>key: fieldtype.landing_page.missing_proper_configuration.error.message</note>
       </trans-unit>
-      <trans-unit id="abad744958b567e0ff5f5d26144e3701b8a0f823" resname="layout_selector.cancel.label">
-        <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
-        <note>key: layout_selector.cancel.label</note>
+      <trans-unit id="39e5be1a5ad879d51619ff58db63c7c727eadfc7" resname="layout_selector.create.select.label">
+        <source>Select</source>
+        <target state="needs-translation">Select</target>
+        <note>key: layout_selector.create.select.label</note>
       </trans-unit>
-      <trans-unit id="d261894808d96929e7ff95449a433021cb9476ec" resname="layout_selector.create.confirm.label">
-        <source>Create draft</source>
-        <target state="needs-translation">Create draft</target>
-        <note>key: layout_selector.create.confirm.label</note>
+      <trans-unit id="f4f449bcfb82f0fdd95ad75a37dc4b41edfa1d3c" resname="layout_selector.create.subtitle">
+        <source>Choose layout</source>
+        <target state="needs-translation">Choose layout</target>
+        <note>key: layout_selector.create.subtitle</note>
       </trans-unit>
       <trans-unit id="cacca78c6c00e60e652f42e41b6c404d76548a59" resname="layout_selector.create.title">
-        <source>Page creation</source>
-        <target state="needs-translation">Page creation</target>
+        <source>Select layout</source>
+        <target state="needs-translation">Select layout</target>
         <note>key: layout_selector.create.title</note>
+      </trans-unit>
+      <trans-unit id="e94ad19ea2af271f43328447db78ed70274121df" resname="layout_selector.discard.label">
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
+        <note>key: layout_selector.discard.label</note>
       </trans-unit>
       <trans-unit id="b64b29a6cd5b945bee2aaa605c1d8984a4a79fd9" resname="layout_selector.error.change_layout">
         <source>Change layout</source>
@@ -161,15 +181,105 @@
         <target state="needs-translation">Switching layout saves the current Page draft</target>
         <note>key: layout_selector.warning.message</note>
       </trans-unit>
+      <trans-unit id="df76ed2d59214595b7b9b002dce1f723892dcdf5" resname="notification.no_dropzone">
+        <source>This page does not have a designed dropzone area for adding content</source>
+        <target state="needs-translation">This page does not have a designed dropzone area for adding content</target>
+        <note>key: notification.no_dropzone</note>
+      </trans-unit>
+      <trans-unit id="0b2dafc4e64f7587b08008c137c6861abc8232d2" resname="settings.popup.add_block_info">
+        <source>When you add a block by dragging it from Page blocks menu into the drop zone, the block settings panel opens immediately where you can configure all block properties.</source>
+        <target state="needs-translation">When you add a block by dragging it from Page blocks menu into the drop zone, the block settings panel opens immediately where you can configure all block properties.</target>
+        <note>key: settings.popup.add_block_info</note>
+      </trans-unit>
+      <trans-unit id="2aacee9e3b82f82bcfea2e7083d42c7d27b5d501" resname="settings.popup.change_settings">
+        <source>Change settings</source>
+        <target state="needs-translation">Change settings</target>
+        <note>key: settings.popup.change_settings</note>
+      </trans-unit>
+      <trans-unit id="daf62054e49ace7a87b59196f7a7b6af2b7dc62d" resname="settings.popup.continue">
+        <source>Continue</source>
+        <target state="needs-translation">Continue</target>
+        <note>key: settings.popup.continue</note>
+      </trans-unit>
+      <trans-unit id="c137f8e9a3f57ea45f3a310439f6340af6e91150" resname="settings.popup.default_behaviour">
+        <source>This is a default behavior which applies to both Page and Dashboard builder. You can globally turn off automatic opening of the block settings panel in the user settings.</source>
+        <target state="needs-translation">This is a default behavior which applies to both Page and Dashboard builder. You can globally turn off automatic opening of the block settings panel in the user settings.</target>
+        <note>key: settings.popup.default_behaviour</note>
+      </trans-unit>
+      <trans-unit id="2b8b924ef8398e7ba16486e7646511119ec6f722" resname="settings.popup.title">
+        <source>How builder works</source>
+        <target state="needs-translation">How builder works</target>
+        <note>key: settings.popup.title</note>
+      </trans-unit>
       <trans-unit id="3757c8d49f2f414947ad6e44afc53498b4474d55" resname="sidebar.title">
         <source>Elements</source>
         <target state="needs-translation">Elements</target>
         <note>key: sidebar.title</note>
       </trans-unit>
+      <trans-unit id="4b8c13f811dc9e5093557dff59b266355bb5197f" resname="structure.action.configuration">
+        <source>Configuration</source>
+        <target state="needs-translation">Configuration</target>
+        <note>key: structure.action.configuration</note>
+      </trans-unit>
+      <trans-unit id="d696a75de4e11076e1b9499e64aef2a8582dcf00" resname="structure.action.duplicate">
+        <source>Duplicate</source>
+        <target state="needs-translation">Duplicate</target>
+        <note>key: structure.action.duplicate</note>
+      </trans-unit>
+      <trans-unit id="0ffa494ed399bd73df6cc82d6da3e3a42b2adbbd" resname="structure.action.move.down">
+        <source>Move down</source>
+        <target state="needs-translation">Move down</target>
+        <note>key: structure.action.move.down</note>
+      </trans-unit>
+      <trans-unit id="5043a2c65a3bb720e05d772456c41ac626e0cbd3" resname="structure.action.move.up">
+        <source>Move up</source>
+        <target state="needs-translation">Move up</target>
+        <note>key: structure.action.move.up</note>
+      </trans-unit>
+      <trans-unit id="568e891a8e9a931ebc3ccd6b4a12ca975edc6a3c" resname="structure.action.refresh">
+        <source>Refresh</source>
+        <target state="needs-translation">Refresh</target>
+        <note>key: structure.action.refresh</note>
+      </trans-unit>
+      <trans-unit id="9a1f012b46edc1cfc75ef000163ea898fb35a16c" resname="structure.drop.zone">
+        <source>Drop zone %number%</source>
+        <target state="needs-translation">Drop zone %number%</target>
+        <note>key: structure.drop.zone</note>
+      </trans-unit>
       <trans-unit id="720578005f4f9df5991d84e11d283389de3f5801" resname="switch_layout.label">
         <source>Switch layout</source>
         <target state="needs-translation">Switch layout</target>
         <note>key: switch_layout.label</note>
+      </trans-unit>
+      <trans-unit id="737f5482b6104ace11a578a45c3cf2a185e2f8e8" resname="toolbox.structure.view">
+        <source>Structure view</source>
+        <target state="needs-translation">Structure view</target>
+        <note>key: toolbox.structure.view</note>
+      </trans-unit>
+      <trans-unit id="f101cb8261e36b0d5e513e37fe157c8d3c0ba047" resname="toolbox.title">
+        <source>Elements</source>
+        <target state="needs-translation">Elements</target>
+        <note>key: toolbox.title</note>
+      </trans-unit>
+      <trans-unit id="3e1605f26b2df05fc721d6a0b91e9e4011fdf9f1" resname="user.settings.automatically_open_block_settings.description">
+        <source>Automatically open block settings in builders</source>
+        <target state="needs-translation">Automatically open block settings in builders</target>
+        <note>key: user.settings.automatically_open_block_settings.description</note>
+      </trans-unit>
+      <trans-unit id="9fc13298e7bbddf434d17872f5b65a5af2ea7972" resname="user.settings.automatically_open_block_settings.name">
+        <source>Automatically open block settings in builders</source>
+        <target state="needs-translation">Automatically open block settings in builders</target>
+        <note>key: user.settings.automatically_open_block_settings.name</note>
+      </trans-unit>
+      <trans-unit id="4e32b8b746cdf9471b433d25ec36d5a4793dd8bf" resname="user.settings.automatically_open_block_settings.value.disabled">
+        <source>disabled</source>
+        <target state="needs-translation">disabled</target>
+        <note>key: user.settings.automatically_open_block_settings.value.disabled</note>
+      </trans-unit>
+      <trans-unit id="4a286f075175595ce7527359c30b5f92226029db" resname="user.settings.automatically_open_block_settings.value.enabled">
+        <source>enabled</source>
+        <target state="needs-translation">enabled</target>
+        <note>key: user.settings.automatically_open_block_settings.value.enabled</note>
       </trans-unit>
     </body>
   </file>

@@ -7,24 +7,29 @@
     </header>
     <body>
       <trans-unit id="a4b74c374dab95820dff68597fe3e29ffb8f780c" resname="taxonomy_content_create__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target>crwdns245986:0crwdne245986:0</target>
+        <source>Discard</source>
+        <target>crwdns253676:0crwdne253676:0</target>
         <note>key: taxonomy_content_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="a4d28282a4e4ace2fddc5effdae9db6aa6c3afcd" resname="taxonomy_content_create__sidebar_right__publish">
-        <source>Save</source>
-        <target>crwdns245988:0crwdne245988:0</target>
+        <source>Save and close</source>
+        <target>crwdns253678:0crwdne253678:0</target>
         <note>key: taxonomy_content_create__sidebar_right__publish</note>
       </trans-unit>
       <trans-unit id="1ee5921eaaba8ee0bb410a55185e18bd4e2e340b" resname="taxonomy_content_edit__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target>crwdns245990:0crwdne245990:0</target>
+        <source>Discard</source>
+        <target>crwdns253680:0crwdne253680:0</target>
         <note>key: taxonomy_content_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="6e74eab153976f97777cf709f49589e00c09fba9" resname="taxonomy_content_edit__sidebar_right__publish">
-        <source>Save</source>
-        <target>crwdns245992:0crwdne245992:0</target>
+        <source>Save and close</source>
+        <target>crwdns253682:0crwdne253682:0</target>
         <note>key: taxonomy_content_edit__sidebar_right__publish</note>
+      </trans-unit>
+      <trans-unit id="ca8eb053dccd987d00ddbe478c8880a226e416db" resname="taxonomy_taxonomy__sidebar_right__publish_and_edit">
+        <source>Save</source>
+        <target>crwdns253684:0crwdne253684:0</target>
+        <note>key: taxonomy_taxonomy__sidebar_right__publish_and_edit</note>
       </trans-unit>
     </body>
   </file>

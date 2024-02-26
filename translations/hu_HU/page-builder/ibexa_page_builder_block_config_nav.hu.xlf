@@ -6,15 +6,20 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="dcb7d5c604f93fdc65aa4b1ff853e8ed27237f45" resname="tab.label.basic" approved="yes">
-        <source>Basic</source>
-        <target state="final">Alap</target>
-        <note>key: tab.label.basic</note>
+      <trans-unit id="4b260ae7c4bff42c0b4813dbb4e92de939f52717" resname="anchor_menu.more">
+        <source>More</source>
+        <target state="needs-translation">More</target>
+        <note>key: anchor_menu.more</note>
       </trans-unit>
       <trans-unit id="2d40f74124be77d408be57368842ef5e7bd64d98" resname="tab.label.design">
         <source>Design</source>
         <target state="needs-translation">Design</target>
         <note>key: tab.label.design</note>
+      </trans-unit>
+      <trans-unit id="0ad75dc33a5b3be79b83f39593dcf98f8ecc0807" resname="tab.label.properties">
+        <source>Properties</source>
+        <target state="needs-translation">Properties</target>
+        <note>key: tab.label.properties</note>
       </trans-unit>
       <trans-unit id="cdea1f34eff224ab9592f83235d861466aaec351" resname="tab.label.scheduler">
         <source>Scheduler</source>

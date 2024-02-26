@@ -23,27 +23,27 @@
       </trans-unit>
       <trans-unit id="e137a5187903029a8788e4beb6fced4771824019" resname="block.product_catalog.empty_table">
         <source>Table is empty</source>
-        <target state="needs-translation">Table is empty</target>
+        <target state="translated">Tabela jest pusta</target>
         <note>key: block.product_catalog.empty_table</note>
       </trans-unit>
       <trans-unit id="34b086d608251d2731fee12ae2d3174f83830d38" resname="block.product_catalog.list_label.label">
         <source>Customer group</source>
-        <target state="needs-translation">Customer group</target>
+        <target state="translated">Grupa klientów</target>
         <note>key: block.product_catalog.list_label.label</note>
       </trans-unit>
       <trans-unit id="6875d9141e1e54139e273e735381ed59b88e3c64" resname="block.product_catalog.list_label.value">
         <source>Catalog</source>
-        <target state="needs-translation">Catalog</target>
+        <target state="translated">Katalog</target>
         <note>key: block.product_catalog.list_label.value</note>
       </trans-unit>
       <trans-unit id="14347d38255ee30ad20217aef0873e17847cbe28" resname="block.product_catalog.no_options">
         <source>No customer group and catalog defined. Create customer group and catalog in Admin panel to use this block.</source>
-        <target state="needs-translation">No customer group and catalog defined. Create customer group and catalog in Admin panel to use this block.</target>
+        <target state="translated">Nie zdefiniowano grupy klientów i katalogu. Utwórz grupę klientów i katalog w panelu administratora, aby użyć tego bloku.</target>
         <note>key: block.product_catalog.no_options</note>
       </trans-unit>
       <trans-unit id="9c591204b0caf3c3513b8830196ef35e0ac7b705" resname="block.product_catalog.select_only_published">
         <source>You can select only catalogs with status "Published"</source>
-        <target state="needs-translation">You can select only catalogs with status "Published"</target>
+        <target state="translated">Możesz wybrać tylko katalogi o statusie "Opublikowane"</target>
         <note>key: block.product_catalog.select_only_published</note>
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="2d7b0aabe9d6233ce35150d3ab4bac4c6af4f21f" resname="product.collection.add_only_base_products">
         <source>You can add or select only base products.</source>
-        <target state="needs-translation">You can add or select only base products.</target>
+        <target state="translated">Możesz dodać lub wybrać tylko podstawowe produkty.</target>
         <note>key: product.collection.add_only_base_products</note>
       </trans-unit>
       <trans-unit id="81ce79ab2bb47f747c97597a64dac8d237d5687f" resname="product.collection.code">
@@ -68,17 +68,17 @@
       </trans-unit>
       <trans-unit id="3ca64755814ef844993055d8b8797e54642252be" resname="product.collection.empty_table">
         <source>Table is empty</source>
-        <target state="needs-translation">Table is empty</target>
+        <target state="translated">Tabela jest pusta</target>
         <note>key: product.collection.empty_table</note>
       </trans-unit>
       <trans-unit id="b1c0004ea5bfaa82b767ea9e0c754b649e7f4203" resname="product.collection.error.already_added">
         <source>Product already added to the list below</source>
-        <target state="needs-translation">Product already added to the list below</target>
+        <target state="translated">Produkt został już dodany do poniższej listy</target>
         <note>key: product.collection.error.already_added</note>
       </trans-unit>
       <trans-unit id="6cf87d8a373c7304d5cc49b5077b3e296c25fe2f" resname="product.collection.error.cannot_add_variant">
         <source>You cannot add product variant</source>
-        <target state="needs-translation">You cannot add product variant</target>
+        <target state="translated">Nie można dodać wariantu produktu</target>
         <note>key: product.collection.error.cannot_add_variant</note>
       </trans-unit>
       <trans-unit id="9bcbf7946b2c765d9716099d5c0e2c7618f4d59a" resname="product.collection.error.not_found">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="1debb37be6f3300270ec8ceba80cd84def84855e" resname="product.collection.no_products">
         <source>There are currently no added products in the list</source>
-        <target state="needs-translation">There are currently no added products in the list</target>
+        <target state="translated">Obecnie nie ma dodanych produktów na liście</target>
         <note>key: product.collection.no_products</note>
       </trans-unit>
       <trans-unit id="76116573f30b82c8f6271feb6b8a75b3eea224a2" resname="product.collection.or">
@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="b7094d4c32149f0308cf72e8d078e0dbcee21469" resname="product.collection.placeholder">
         <source>Enter product code</source>
-        <target state="needs-translation">Enter product code</target>
+        <target state="translated">Wprowadź kod produktu</target>
         <note>key: product.collection.placeholder</note>
       </trans-unit>
       <trans-unit id="eb078e7b55778a1bc6bc61956dff2bf1e29af780" resname="product.collection.product_list">
         <source>Product list (%count%)</source>
-        <target state="needs-translation">Product list (%count%)</target>
+        <target state="translated">Lista produktów (%count%)</target>
         <note>key: product.collection.product_list</note>
       </trans-unit>
       <trans-unit id="eba8a94d81c7b8cd339a6e615d5dc8215e7836b2" resname="product.collection.product_name">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="48b30b9fac72a2582a7d28ae72266818679be5b1" resname="product.collection.product_type">
         <source>Product Type</source>
-        <target state="needs-translation">Product Type</target>
+        <target state="translated">Typ produktu</target>
         <note>key: product.collection.product_type</note>
       </trans-unit>
       <trans-unit id="0868db4da8b6d758388649bffaa28198591432c7" resname="product.collection.select_products">

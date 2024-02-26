@@ -22,8 +22,8 @@
         <note>key: bookmark.list.content.edit</note>
       </trans-unit>
       <trans-unit id="cf687b0218c513d53ad3f52b2547c23500242c48" resname="bookmark.list.content_type">
-        <source>Content Type</source>
-        <target>crwdns235626:0crwdne235626:0</target>
+        <source>Content type</source>
+        <target>crwdns252954:0crwdne252954:0</target>
         <note>key: bookmark.list.content_type</note>
       </trans-unit>
       <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">

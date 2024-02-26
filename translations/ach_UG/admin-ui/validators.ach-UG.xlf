@@ -7,23 +7,23 @@
     </header>
     <body>
       <trans-unit id="facbff93edf91393ba1bb60212f504d35beae555" resname="ez.content_type.descriptions">
-        <source>Content Type description cannot be longer than 255 characters.</source>
-        <target>crwdns237658:0crwdne237658:0</target>
+        <source>Content type description cannot be longer than 255 characters.</source>
+        <target>crwdns253342:0crwdne253342:0</target>
         <note>key: ez.content_type.descriptions</note>
       </trans-unit>
       <trans-unit id="73aad2fb9c8f9a2103bf60d6e9221a619f261f9c" resname="ez.content_type.identifier.pattern">
-        <source>Content Type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target>crwdns237660:0crwdne237660:0</target>
+        <source>Content type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
+        <target>crwdns253344:0crwdne253344:0</target>
         <note>key: ez.content_type.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="e03cdf7df4e43a891269e0bbe734e7bab5cc61eb" resname="ez.content_type.identifier.unique">
-        <source>The Content Type identifier "%identifier%" is used by another Content Type. Enter a unique identifier.</source>
-        <target>crwdns251029:0%identifier%crwdne251029:0</target>
+        <source>The content type identifier "%identifier%" is used by another content type. Enter a unique identifier.</source>
+        <target>crwdns253346:0%identifier%crwdne253346:0</target>
         <note>key: ez.content_type.identifier.unique</note>
       </trans-unit>
       <trans-unit id="7ecfa6bd2c1993d18d067f3abe3acebeb9c2458c" resname="ez.content_type.names">
-        <source>Content Type name cannot be blank and cannot be longer than 255 characters.</source>
-        <target>crwdns237662:0crwdne237662:0</target>
+        <source>Content type name cannot be blank and cannot be longer than 255 characters.</source>
+        <target>crwdns253348:0crwdne253348:0</target>
         <note>key: ez.content_type.names</note>
       </trans-unit>
       <trans-unit id="95f7490a739fd599a8d1d8f2ddec862744a71faa" resname="ez.field_definition.descriptions">
@@ -95,6 +95,11 @@
         <source>{fieldName}: Cannot upload. File exceeds file size limit.</source>
         <target>crwdns237688:0{fieldName}crwdne237688:0</target>
         <note>key: js.error.invalid_file_size</note>
+      </trans-unit>
+      <trans-unit id="e34fdb2fe0c2a86056b2e9084b9226c921044df6" resname="js.error.invalid_file_type">
+        <source>{fieldName}: Cannot upload. File has wrong type.</source>
+        <target>crwdns253350:0{fieldName}crwdne253350:0</target>
+        <note>key: js.error.invalid_file_type</note>
       </trans-unit>
       <trans-unit id="21c38818d1cb73ff54f0dc0b184d6de25058f24d" resname="js.error.invalid_url">
         <source>A valid URL is required</source>

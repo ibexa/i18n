@@ -12,13 +12,13 @@
         <note>key: pagination.viewing</note>
       </trans-unit>
       <trans-unit id="2c0d71c1688c1f04ff156bb9dff167ca5ae663b6" resname="search.any.content.type">
-        <source>Any Content Type</source>
-        <target state="needs-translation">Any Content Type</target>
+        <source>Any content type</source>
+        <target state="needs-translation">Any content type</target>
         <note>key: search.any.content.type</note>
       </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
-        <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <source>Content type</source>
+        <target state="needs-translation">Content type</target>
         <note>key: search.content.type</note>
       </trans-unit>
       <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
@@ -35,6 +35,11 @@
         <source>Search results (%total%)</source>
         <target state="needs-translation">Search results (%total%)</target>
         <note>key: search.header</note>
+      </trans-unit>
+      <trans-unit id="56906249002c19e57c1992ba0d25f86bbc7120c0" resname="search.language.any">
+        <source>Choose an option</source>
+        <target state="needs-translation">Choose an option</target>
+        <note>key: search.language.any</note>
       </trans-unit>
       <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
         <source>Last modified</source>
@@ -102,9 +107,44 @@
         <note>key: search.translations</note>
       </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
-        <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <source>Content type</source>
+        <target state="needs-translation">Content type</target>
         <note>key: search.type</note>
+      </trans-unit>
+      <trans-unit id="fa5761c7de14d55bfe7d064dbed7b0414618d0ee" resname="sort_definition.date_modified_asc.label">
+        <source>Sort by modification date (Oldest)</source>
+        <target state="needs-translation">Sort by modification date (Oldest)</target>
+        <note>key: sort_definition.date_modified_asc.label</note>
+      </trans-unit>
+      <trans-unit id="d347942d7df28fc0e37401cc6a4466647d5522bd" resname="sort_definition.date_modified_desc.label">
+        <source>Sort by modification date (Newest)</source>
+        <target state="needs-translation">Sort by modification date (Newest)</target>
+        <note>key: sort_definition.date_modified_desc.label</note>
+      </trans-unit>
+      <trans-unit id="9bdd88504463f9d98eb8c8ba59275d1004ce7c77" resname="sort_definition.date_published_asc.label">
+        <source>Sort by publication date (Oldest)</source>
+        <target state="needs-translation">Sort by publication date (Oldest)</target>
+        <note>key: sort_definition.date_published_asc.label</note>
+      </trans-unit>
+      <trans-unit id="93987e74fb2a656b65a99df21aa80c82ebe4a03d" resname="sort_definition.date_published_desc.label">
+        <source>Sort by publication date (Newest)</source>
+        <target state="needs-translation">Sort by publication date (Newest)</target>
+        <note>key: sort_definition.date_published_desc.label</note>
+      </trans-unit>
+      <trans-unit id="5e8c9a364b0b2991a3ce09833b5f29cd51b3ed46" resname="sort_definition.name_asc.label">
+        <source>Sort by name A-Z</source>
+        <target state="needs-translation">Sort by name A-Z</target>
+        <note>key: sort_definition.name_asc.label</note>
+      </trans-unit>
+      <trans-unit id="cd6190374822df1268eb795d0d9ad7708145c9cf" resname="sort_definition.name_desc.label">
+        <source>Sort by name Z-A</source>
+        <target state="needs-translation">Sort by name Z-A</target>
+        <note>key: sort_definition.name_desc.label</note>
+      </trans-unit>
+      <trans-unit id="93c30dbedf81f260d2906c302f3920c137cca63f" resname="sort_definition.relevance.label">
+        <source>Sort by relevance</source>
+        <target state="needs-translation">Sort by relevance</target>
+        <note>key: sort_definition.relevance.label</note>
       </trans-unit>
     </body>
   </file>

@@ -7,24 +7,29 @@
     </header>
     <body>
       <trans-unit id="a4b74c374dab95820dff68597fe3e29ffb8f780c" resname="taxonomy_content_create__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="translated">Anuluj</target>
+        <source>Discard</source>
+        <target state="translated">Odrzuć</target>
         <note>key: taxonomy_content_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="a4d28282a4e4ace2fddc5effdae9db6aa6c3afcd" resname="taxonomy_content_create__sidebar_right__publish">
-        <source>Save</source>
-        <target state="translated">Zapisz</target>
+        <source>Save and close</source>
+        <target state="translated">Zapisz i zamknij</target>
         <note>key: taxonomy_content_create__sidebar_right__publish</note>
       </trans-unit>
       <trans-unit id="1ee5921eaaba8ee0bb410a55185e18bd4e2e340b" resname="taxonomy_content_edit__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="translated">Anuluj</target>
+        <source>Discard</source>
+        <target state="translated">Odrzuć</target>
         <note>key: taxonomy_content_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="6e74eab153976f97777cf709f49589e00c09fba9" resname="taxonomy_content_edit__sidebar_right__publish">
+        <source>Save and close</source>
+        <target state="translated">Zapisz i zamknij</target>
+        <note>key: taxonomy_content_edit__sidebar_right__publish</note>
+      </trans-unit>
+      <trans-unit id="ca8eb053dccd987d00ddbe478c8880a226e416db" resname="taxonomy_taxonomy__sidebar_right__publish_and_edit">
         <source>Save</source>
         <target state="translated">Zapisz</target>
-        <note>key: taxonomy_content_edit__sidebar_right__publish</note>
+        <note>key: taxonomy_taxonomy__sidebar_right__publish_and_edit</note>
       </trans-unit>
     </body>
   </file>

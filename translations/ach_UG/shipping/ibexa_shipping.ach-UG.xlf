@@ -27,8 +27,8 @@
         <note>key: ibexa.modal.delete</note>
       </trans-unit>
       <trans-unit id="a28783a0787a2e7218b31f1f979e666a6c06f10b" resname="ibexa.modal.delete.shipping_method.confirm_message">
-        <source>Are you sure you want to delete this Shipping Method?</source>
-        <target>crwdns250453:0crwdne250453:0</target>
+        <source>Are you sure you want to delete this shipping method?</source>
+        <target>crwdns253628:0crwdne253628:0</target>
         <note>key: ibexa.modal.delete.shipping_method.confirm_message</note>
       </trans-unit>
       <trans-unit id="432a3d0c2629a130e32d79b1dd6097bb1be03f27" resname="ibexa.shipment.breadcrumb.list">
@@ -336,15 +336,15 @@
         <target>crwdns250575:0%shipping_method_type_name%crwdne250575:0</target>
         <note>key: ibexa.shipping_method.new.title</note>
       </trans-unit>
-      <trans-unit id="ff8015f74f055803fcd5cd4df62c527df8207a91" resname="ibexa.shipping_method.pre_create.add">
-        <source>Add</source>
-        <target>crwdns250577:0crwdne250577:0</target>
-        <note>key: ibexa.shipping_method.pre_create.add</note>
+      <trans-unit id="49318c046ebc7b4bb33f0444475d367e824ce076" resname="ibexa.shipping_method.pre_create.create">
+        <source>Create</source>
+        <target>crwdns253630:0crwdne253630:0</target>
+        <note>key: ibexa.shipping_method.pre_create.create</note>
       </trans-unit>
-      <trans-unit id="7ccd7e32f3dd09437c12f3d07dd314f4e7c8f503" resname="ibexa.shipping_method.pre_create.cancel">
-        <source>Cancel</source>
-        <target>crwdns250579:0crwdne250579:0</target>
-        <note>key: ibexa.shipping_method.pre_create.cancel</note>
+      <trans-unit id="e32565703ad557ff2efedc42f865c7867b4063ba" resname="ibexa.shipping_method.pre_create.discard">
+        <source>Discard</source>
+        <target>crwdns253632:0crwdne253632:0</target>
+        <note>key: ibexa.shipping_method.pre_create.discard</note>
       </trans-unit>
       <trans-unit id="0b6c5e4e942f0072eb1af02dcd7a5aa001b86046" resname="ibexa.shipping_method.pre_create.title">
         <source>Create shipping method</source>
@@ -507,8 +507,8 @@
         <note>key: shipment.tab.view-summary.customer_details.details.headline</note>
       </trans-unit>
       <trans-unit id="7ff8dd9aa1c9135dd3a9929c8003f3a5eebbf545" resname="shipping_method.create.success">
-        <source>Shipping Method '%name%' created.</source>
-        <target>crwdns250645:0%name%crwdne250645:0</target>
+        <source>Shipping method '%name%' created.</source>
+        <target>crwdns253634:0%name%crwdne253634:0</target>
         <note>key: shipping_method.create.success</note>
       </trans-unit>
       <trans-unit id="1d9f6bb4ed1073adc683d1e06580f1f5fcf489b2" resname="shipping_method.delete.success">
@@ -527,8 +527,8 @@
         <note>key: shipping_method.enabled</note>
       </trans-unit>
       <trans-unit id="a9c263bc30a1e0fe81583fc82abf849f338a5551" resname="shipping_method.update.success">
-        <source>Shipping Method '%name%' updated.</source>
-        <target>crwdns250653:0%name%crwdne250653:0</target>
+        <source>Shipping method '%name%' updated.</source>
+        <target>crwdns253636:0%name%crwdne253636:0</target>
         <note>key: shipping_method.update.success</note>
       </trans-unit>
       <trans-unit id="b6ab04dd12fe5e0dc7ca5da80ff164759e763a89" resname="shipping_method.view.preview">

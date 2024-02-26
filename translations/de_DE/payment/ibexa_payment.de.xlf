@@ -176,10 +176,10 @@
         <target state="needs-translation">Payment #%identifier%</target>
         <note>key: ibexa.payment.view.title</note>
       </trans-unit>
-      <trans-unit id="3e5a2d597828985912ed23e8935249815d9c50a5" resname="ibexa.payment_method.action.create.cancel">
-        <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
-        <note>key: ibexa.payment_method.action.create.cancel</note>
+      <trans-unit id="4ad4d3e56dfd39a146e13e91d82d63ffedd49251" resname="ibexa.payment_method.action.create.discard">
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
+        <note>key: ibexa.payment_method.action.create.discard</note>
       </trans-unit>
       <trans-unit id="0fe69f821527da19e339572ae1e98e6f836a72cc" resname="ibexa.payment_method.action.create.header">
         <source>Create payment method</source>
@@ -240,6 +240,11 @@
         <source>Method type</source>
         <target state="needs-translation">Method type</target>
         <note>key: ibexa.payment_method.details.column.method_type</note>
+      </trans-unit>
+      <trans-unit id="56cbf21614b44712eab6072b886320f6cce2277e" resname="ibexa.payment_method.details.column.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+        <note>key: ibexa.payment_method.details.column.name</note>
       </trans-unit>
       <trans-unit id="fc53ab721f4da8ffca422bfd811f10bb33e5852a" resname="ibexa.payment_method.details.tab.global_properties.label">
         <source>Global properties</source>

@@ -32,8 +32,8 @@
         <note>key: ibexa.shipment.money_amount.greater_than_or_equal_zero</note>
       </trans-unit>
       <trans-unit id="27b8e82c93baf33fe88450b657cf7b0fbb028104" resname="ibexa.shipment.shipping_method.enabled">
-        <source>Shipping Method {{ name }} is disabled</source>
-        <target state="needs-translation">Shipping Method {{ name }} is disabled</target>
+        <source>Shipping method {{ name }} is disabled</source>
+        <target state="needs-translation">Shipping method {{ name }} is disabled</target>
         <note>key: ibexa.shipment.shipping_method.enabled</note>
       </trans-unit>
       <trans-unit id="670435ebc3b0d9bf583c31039b915d5d9d443814" resname="ibexa.shipment.status.not_allowed_transition">
@@ -47,13 +47,13 @@
         <note>key: ibexa.shipping_method.enabled</note>
       </trans-unit>
       <trans-unit id="89d473a6ef3d55f18c061ca38592eaced78d620f" resname="ibexa.shipping_method.identifier.pattern">
-        <source>Shipping Method identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="needs-translation">Shipping Method identifier may only contain letters from "a" to "z", numbers and underscores.</target>
+        <source>Shipping method identifier may only contain letters from "a" to "z", numbers and underscores.</source>
+        <target state="needs-translation">Shipping method identifier may only contain letters from "a" to "z", numbers and underscores.</target>
         <note>key: ibexa.shipping_method.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="00dc13c148209f6351723c72dcfc33a1fad41671" resname="ibexa.shipping_method.identifier.unique">
-        <source>Shipping Method identifier must be unique</source>
-        <target state="needs-translation">Shipping Method identifier must be unique</target>
+        <source>Shipping method identifier must be unique</source>
+        <target state="needs-translation">Shipping method identifier must be unique</target>
         <note>key: ibexa.shipping_method.identifier.unique</note>
       </trans-unit>
       <trans-unit id="a8839be51879b5f0db4e9bc2f1b94ec493735fb4" resname="ibexa.shipping_method.options.valid">

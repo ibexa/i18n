@@ -76,10 +76,10 @@
         <target>crwdns252076:0crwdne252076:0</target>
         <note>key: image_editor.actions.focal_point.label</note>
       </trans-unit>
-      <trans-unit id="4eb81bfd61541fc302852a9551f10a21d095cc06" resname="image_editor.actions.focal_point.remove">
-        <source>Remove</source>
-        <target>crwdns252078:0crwdne252078:0</target>
-        <note>key: image_editor.actions.focal_point.remove</note>
+      <trans-unit id="bc129661969afa91e8e6551b1a49722dc9dfba38" resname="image_editor.actions.focal_point.restore">
+        <source>Restore</source>
+        <target>crwdns253412:0crwdne253412:0</target>
+        <note>key: image_editor.actions.focal_point.restore</note>
       </trans-unit>
       <trans-unit id="da83bd9dc2bb70378a6d992e1ec5afb537d6c0f1" resname="image_editor.actions.focal_point.settings.title">
         <source>Position</source>
@@ -97,8 +97,8 @@
         <note>key: image_editor.apply_to_all</note>
       </trans-unit>
       <trans-unit id="55ffc35113c5f37fa09a25ce222163c042e3ba14" resname="image_editor.back">
-        <source>Back</source>
-        <target>crwdns252086:0crwdne252086:0</target>
+        <source>Discard</source>
+        <target>crwdns253414:0crwdne253414:0</target>
         <note>key: image_editor.back</note>
       </trans-unit>
       <trans-unit id="8f18dae80b35c667f5078299dfef8eab35468e1f" resname="image_editor.cancel">
@@ -130,6 +130,11 @@
         <source>Save</source>
         <target>crwdns252098:0crwdne252098:0</target>
         <note>key: image_editor.save</note>
+      </trans-unit>
+      <trans-unit id="9c169626ea3537c060ab2980ba1fe4140d9788d0" resname="image_editor.save_and_close">
+        <source>Save and close</source>
+        <target>crwdns253416:0crwdne253416:0</target>
+        <note>key: image_editor.save_and_close</note>
       </trans-unit>
       <trans-unit id="35e89ed6988b0d9462a720df596a7c84421e9ecd" resname="image_editor.save_as">
         <source>Save as...</source>

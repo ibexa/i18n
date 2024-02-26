@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="4fd0653c4f2aef3b19a3c145bbdc5f4740715a09" resname="cancel">
-        <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: cancel</note>
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
@@ -16,9 +16,9 @@
         <target state="needs-translation">Delete</target>
         <note>key: delete</note>
       </trans-unit>
-      <trans-unit id="3fa4054f214f0f8063d8fb4453be65d460e3e30c" resname="submit" approved="yes">
-        <source>Submit</source>
-        <target state="final">Küldés</target>
+      <trans-unit id="3fa4054f214f0f8063d8fb4453be65d460e3e30c" resname="submit">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
         <note>key: submit</note>
       </trans-unit>
     </body>

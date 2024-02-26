@@ -121,11 +121,6 @@
         <target state="translated">Palabras</target>
         <note>key: character_counter.words</note>
       </trans-unit>
-      <trans-unit id="0c103b4bcaaca67202176e8f5be544eb4c307e8e" resname="content.autosave.turn_off.message">
-        <source>You can turn autosave off in your user settings</source>
-        <target state="needs-translation">You can turn autosave off in your user settings</target>
-        <note>key: content.autosave.turn_off.message</note>
-      </trans-unit>
       <trans-unit id="21e7545fc420d95a59a713437d9dc28d85d82ceb" resname="content.details.content_id">
         <source>Content ID: %contentId%</source>
         <target state="needs-translation">Content ID: %contentId%</target>
@@ -181,29 +176,9 @@
         <target state="translated">En la Papelera</target>
         <note>key: content.in_trash</note>
       </trans-unit>
-      <trans-unit id="6048a32d88dbcdd5a62e232ed092a8efd11ed375" resname="content_edit.autosave.status_error.message">
-        <source>Saving error</source>
-        <target state="needs-translation">Saving error</target>
-        <note>key: content_edit.autosave.status_error.message</note>
-      </trans-unit>
-      <trans-unit id="d364f97b275523fe571da0da612fdbc4a1064550" resname="content_edit.autosave.status_off.message">
-        <source>Autosave is off</source>
-        <target state="needs-translation">Autosave is off</target>
-        <note>key: content_edit.autosave.status_off.message</note>
-      </trans-unit>
-      <trans-unit id="93f0a5980aa14af989f4106ffda244ba02db1c32" resname="content_edit.autosave.status_on.message">
-        <source>Autosave is on</source>
-        <target state="needs-translation">Autosave is on</target>
-        <note>key: content_edit.autosave.status_on.message</note>
-      </trans-unit>
-      <trans-unit id="da43c85269df161b340e92296642e18ec6af033e" resname="content_edit.autosave.status_saving.message">
-        <source>Saving</source>
-        <target state="needs-translation">Saving</target>
-        <note>key: content_edit.autosave.status_saving.message</note>
-      </trans-unit>
       <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
-        <source>Do you want to delete the Content Type?</source>
-        <target state="needs-translation">Do you want to delete the Content Type?</target>
+        <source>Do you want to delete the content type?</source>
+        <target state="needs-translation">Do you want to delete the content type?</target>
         <note>key: content_type.modal.message</note>
       </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
@@ -247,8 +222,8 @@
         <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
-        <source>Do you want to delete the Content Type group?</source>
-        <target state="needs-translation">Do you want to delete the Content Type group?</target>
+        <source>Do you want to delete the content type group?</source>
+        <target state="needs-translation">Do you want to delete the content type group?</target>
         <note>key: content_type_group.modal.message</note>
       </trans-unit>
       <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
@@ -261,40 +236,25 @@
         <target state="needs-translation">More</target>
         <note>key: content_type_selector.list.show_more</note>
       </trans-unit>
-      <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
-        <source>Create</source>
-        <target state="translated">Crear</target>
-        <note>key: custom_url_alias_add_form.add</note>
-      </trans-unit>
       <trans-unit id="84348d405f3829787a5dfa80fbe5abbf07e3c118" resname="custom_url_alias_add_form.remove">
         <source>Delete</source>
         <target state="translated">Eliminar</target>
         <note>key: custom_url_alias_add_form.remove</note>
-      </trans-unit>
-      <trans-unit id="71a3521d37991dc43b665d2cc94b7e1589360f48" resname="custom_url_alias_add_form.site_access.placeholder">
-        <source>None</source>
-        <target state="needs-translation">None</target>
-        <note>key: custom_url_alias_add_form.site_access.placeholder</note>
       </trans-unit>
       <trans-unit id="3b2d2efac582e8c8d6eccb40d4499ecf9ee21f95" resname="dashboard.charts.no_data">
         <source><![CDATA[No data collected<br/> for the selected period]]></source>
         <target state="needs-translation"><![CDATA[No data collected<br/> for the selected period]]></target>
         <note>key: dashboard.charts.no_data</note>
       </trans-unit>
-      <trans-unit id="8fedbb70c8494c057fb45930e46671a659bae616" resname="dropdown.clear">
-        <source>Clear (%selected_items_count%)</source>
-        <target state="needs-translation">Clear (%selected_items_count%)</target>
-        <note>key: dropdown.clear</note>
+      <trans-unit id="ac9c8e4ba677f57a59ea64aa615cb0b153bae149" resname="dashboard.charts.no_results">
+        <source>No results found</source>
+        <target state="needs-translation">No results found</target>
+        <note>key: dashboard.charts.no_results</note>
       </trans-unit>
       <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
         <source>Search...</source>
         <target state="needs-translation">Search...</target>
         <note>key: dropdown.search</note>
-      </trans-unit>
-      <trans-unit id="3f446c9bfc8591ebdb9a2bc8fa98410bdcc4ced2" resname="dropdown.select_all">
-        <source>Select All</source>
-        <target state="needs-translation">Select All</target>
-        <note>key: dropdown.select_all</note>
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
         <source><![CDATA[Contact your administrator to request access.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
@@ -483,11 +443,6 @@
         <target state="translated">Cancelar</target>
         <note>key: form.cancel</note>
       </trans-unit>
-      <trans-unit id="7100bfb6741e032fcfcc681f3eceef78650e4672" resname="header.search">
-        <source>Search...</source>
-        <target state="needs-translation">Search...</target>
-        <note>key: header.search</note>
-      </trans-unit>
       <trans-unit id="1c83b9fb831b59adffc151e074e3940afb422d59" resname="ibexa.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
         <target state="needs-translation">Reset your password</target>
@@ -537,6 +492,11 @@
         <source>Change password</source>
         <target state="needs-translation">Change password</target>
         <note>key: my_account_settings.password.action.edit</note>
+      </trans-unit>
+      <trans-unit id="0305297fa410b3bfb22eb87fa2bea63dabf7e2d6" resname="my_account_settings.password.message">
+        <source>You don't have permissions to change the password. Contact your administrator.</source>
+        <target state="needs-translation">You don't have permissions to change the password. Contact your administrator.</target>
+        <note>key: my_account_settings.password.message</note>
       </trans-unit>
       <trans-unit id="2273b0c5061ff374bd0d5a75e9301721f7312b65" resname="my_account_settings.password.title">
         <source>Password</source>
@@ -607,21 +567,6 @@
         <source>Delete</source>
         <target state="needs-translation">Delete</target>
         <note>key: role.view.list.action.delete</note>
-      </trans-unit>
-      <trans-unit id="a21a7a13956cadf2256095fbdd062f1b33dd05a8" resname="role_assignment.view.list.action.add">
-        <source>Assign to Users/Groups</source>
-        <target state="needs-translation">Assign to Users/Groups</target>
-        <note>key: role_assignment.view.list.action.add</note>
-      </trans-unit>
-      <trans-unit id="76361d414c957ff63dcfdaf4490b3e9a2c632750" resname="role_assignment.view.list.action.delete">
-        <source>Unassign</source>
-        <target state="needs-translation">Unassign</target>
-        <note>key: role_assignment.view.list.action.delete</note>
-      </trans-unit>
-      <trans-unit id="304836ca19b0d01940431c18b955ae028a6110f9" resname="role_assignments.modal.message">
-        <source>Do you want to unassign the Users/Groups?</source>
-        <target state="needs-translation">Do you want to unassign the Users/Groups?</target>
-        <note>key: role_assignments.modal.message</note>
       </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
         <source>Assign Content</source>

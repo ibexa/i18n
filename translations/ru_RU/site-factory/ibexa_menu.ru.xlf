@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="92984210bb74f5c966f64c7518549bd9e2fa9f68" resname="ezplatform_site_factory">
-        <source>Site</source>
-        <target state="needs-translation">Site</target>
+        <source>Site Management</source>
+        <target state="needs-translation">Site Management</target>
         <note>key: ezplatform_site_factory</note>
       </trans-unit>
       <trans-unit id="41bd44353355b16a7264a783b7060a544d0f0245" resname="ezplatform_site_factory_skeletons">
@@ -17,29 +17,44 @@
         <note>key: ezplatform_site_factory_skeletons</note>
       </trans-unit>
       <trans-unit id="5f4079f5dc51655c71e091c2607220c238059e52" resname="header.list">
-        <source>List</source>
-        <target state="needs-translation">List</target>
+        <source>Sites</source>
+        <target state="needs-translation">Sites</target>
         <note>key: header.list</note>
       </trans-unit>
+      <trans-unit id="9875e09f892d59866998c8a40b2a5d97f75495cb" resname="ibexa_site_factory_settings_groups">
+        <source>Settings</source>
+        <target state="needs-translation">Settings</target>
+        <note>key: ibexa_site_factory_settings_groups</note>
+      </trans-unit>
       <trans-unit id="47856322d947e9bcd834a6c7b41f3a023411723d" resname="site_create__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
         <note>key: site_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="06bb4a29b429451dbb7368369b146304b42a2cc3" resname="site_create__sidebar_right__save">
-        <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <source>Save</source>
+        <target state="needs-translation">Save</target>
         <note>key: site_create__sidebar_right__save</note>
       </trans-unit>
+      <trans-unit id="4be4d931fff704e30f4795387a8c93fdcb10be19" resname="site_create__sidebar_right__save_and_close">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
+        <note>key: site_create__sidebar_right__save_and_close</note>
+      </trans-unit>
       <trans-unit id="758ba56b267dfa19d3e22d15b9284129e4e6eb3b" resname="site_edit__sidebar_right__cancel">
-        <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <source>Discard changes</source>
+        <target state="needs-translation">Discard changes</target>
         <note>key: site_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="9867f89eb1630216334d72af9a6da78763e80ab6" resname="site_edit__sidebar_right__save">
         <source>Save</source>
         <target state="needs-translation">Save</target>
         <note>key: site_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="3e27460859381e74131ca2e83b2d577811553e93" resname="site_edit__sidebar_right__save_and_close">
+        <source>Save and close</source>
+        <target state="needs-translation">Save and close</target>
+        <note>key: site_edit__sidebar_right__save_and_close</note>
       </trans-unit>
       <trans-unit id="6753d417b6695c2c63ffb219579304ed1d2bb886" resname="site_view__sidebar_right__delete">
         <source>Delete</source>

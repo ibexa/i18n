@@ -82,7 +82,7 @@
         <note>key: dashboard.table.assigned_to</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
-        <source>Content Type</source>
+        <source>Content type</source>
         <target state="translated">Typ treści</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
@@ -157,7 +157,7 @@
         <note>key: matcher.content_status</note>
       </trans-unit>
       <trans-unit id="c712d6d1fad65a495b837720601dd7b2f6732d8a" resname="matcher.content_type">
-        <source>Content Type</source>
+        <source>Content type</source>
         <target state="translated">Typ treści</target>
         <note>key: matcher.content_type</note>
       </trans-unit>
@@ -262,7 +262,7 @@
         <note>key: workflow.list.title</note>
       </trans-unit>
       <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
-        <source>Content Type</source>
+        <source>Content type</source>
         <target state="translated">Typ treści</target>
         <note>key: workflow.view.content_list.table.content_type</note>
       </trans-unit>

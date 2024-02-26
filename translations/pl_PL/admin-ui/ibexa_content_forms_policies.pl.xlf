@@ -12,12 +12,12 @@
         <note>key: policy.limitation.identifier.changeowner</note>
       </trans-unit>
       <trans-unit id="3742f2cc514848bd4a5eb03430e412d44f5d9ec2" resname="policy.limitation.identifier.class">
-        <source>Content Type</source>
-        <target state="translated">Typ treści</target>
+        <source>Content type</source>
+        <target state="translated">Typy treści</target>
         <note>key: policy.limitation.identifier.class</note>
       </trans-unit>
       <trans-unit id="76adf2a27f1ae0ab14b623729cd3f281a6e2c285" resname="policy.limitation.identifier.group">
-        <source>Content Type Group</source>
+        <source>Content type Group</source>
         <target state="translated">Grupa typów treści</target>
         <note>key: policy.limitation.identifier.group</note>
       </trans-unit>
@@ -52,7 +52,7 @@
         <note>key: policy.limitation.identifier.owner</note>
       </trans-unit>
       <trans-unit id="e3773b71c8e7fda97f221ab25a6c25164d179d84" resname="policy.limitation.identifier.parentclass">
-        <source>Content Type of Parent</source>
+        <source>Content type of Parent</source>
         <target state="translated">Typ elementu nadrzędnego</target>
         <note>key: policy.limitation.identifier.parentclass</note>
       </trans-unit>
@@ -62,8 +62,8 @@
         <note>key: policy.limitation.identifier.parentdepth</note>
       </trans-unit>
       <trans-unit id="cb52ff8582459d1bc981e9f98cf1c79876f83a1e" resname="policy.limitation.identifier.parentgroup">
-        <source>Content Type Group of Parent</source>
-        <target state="translated">Grupa typów elementu nadrzędnego</target>
+        <source>Content type group of Parent</source>
+        <target state="translated">Grupa typów treści nadrzędnych</target>
         <note>key: policy.limitation.identifier.parentgroup</note>
       </trans-unit>
       <trans-unit id="6208b97847450b255559e4a56c51ff06b76a08dd" resname="policy.limitation.identifier.parentowner">

@@ -7,27 +7,27 @@
     </header>
     <body>
       <trans-unit id="f52e45b25ff70b3d1d07c57911ceda58dcdf7431" resname="role.policy.class">
-        <source>Content Type</source>
+        <source>Content type</source>
         <target state="translated">Typ treści</target>
         <note>key: role.policy.class</note>
       </trans-unit>
       <trans-unit id="2f746c35c587bdc84cacf38d0e63e08855e831ab" resname="role.policy.class.all_functions">
-        <source>Content Type / All functions</source>
+        <source>Content type / All functions</source>
         <target state="translated">Typ treści / Wszystkie funkcje</target>
         <note>key: role.policy.class.all_functions</note>
       </trans-unit>
       <trans-unit id="02049080d0f8dea3f723bbd1a280900b0657914e" resname="role.policy.class.create">
-        <source>Content Type / Create</source>
+        <source>Content type / Create</source>
         <target state="translated">Typ treści / Utwórz</target>
         <note>key: role.policy.class.create</note>
       </trans-unit>
       <trans-unit id="17ee6a3320ad9ac02c376bdcb875b266c28e34db" resname="role.policy.class.delete">
-        <source>Content Type / Delete</source>
+        <source>Content type / Delete</source>
         <target state="translated">Typ treści / Usuń</target>
         <note>key: role.policy.class.delete</note>
       </trans-unit>
       <trans-unit id="f47b14b0adc8b08abd44c37e801d6b2c3180a2ee" resname="role.policy.class.update">
-        <source>Content Type / Update</source>
+        <source>Content type / Update</source>
         <target state="translated">Typ treści / Zaktualizuj</target>
         <note>key: role.policy.class.update</note>
       </trans-unit>

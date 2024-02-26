@@ -152,8 +152,8 @@
         <note>key: dashboard.my_scheduled.table.unschedule_modal.title</note>
       </trans-unit>
       <trans-unit id="376d5063e9ae1c8d520f8cf514d736970ddbf0dc" resname="dashboard.scheduling.modal.content_type">
-        <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <source>Content type</source>
+        <target state="needs-translation">Content type</target>
         <note>key: dashboard.scheduling.modal.content_type</note>
       </trans-unit>
       <trans-unit id="83603383d2345f88c862846db22f099a5b096d63" resname="dashboard.scheduling.modal.creation_date">
@@ -197,8 +197,8 @@
         <note>key: dashboard.tab.my_scheduled.empty</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
-        <source>Content Type</source>
-        <target state="needs-translation">Content Type</target>
+        <source>Content type</source>
+        <target state="needs-translation">Content type</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="705e77b6c750474dbbefb9a6523b51cdd0fc7a08" resname="measurement.product_catalog.attribute.definition.variant.form_mapper.help">
+        <source>Provide values as digits and %unit-symbol% unit.</source>
+        <target state="needs-translation">Provide values as digits and %unit-symbol% unit.</target>
+        <note>key: measurement.product_catalog.attribute.definition.variant.form_mapper.help</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

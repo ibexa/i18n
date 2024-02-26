@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="pl" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="40212c5c72ccbf8ca63b8e16b12e8bada8909da3" resname="role.policy.activity_log">
+        <source>Activity Log</source>
+        <target state="translated">Dziennik Aktywności</target>
+        <note>key: role.policy.activity_log</note>
+      </trans-unit>
+      <trans-unit id="a680c7d461f182220accc433d5d13c35306fdecf" resname="role.policy.activity_log.all_functions">
+        <source>Activity Log / All Functions</source>
+        <target state="translated">Dziennik aktywności / wszystkie funkcje</target>
+        <note>key: role.policy.activity_log.all_functions</note>
+      </trans-unit>
+      <trans-unit id="2585966ec7eef76a4171881af56608df38cf9869" resname="role.policy.activity_log.read">
+        <source>Activity Log / Read</source>
+        <target state="translated">Dziennik aktywności / Czytanie</target>
+        <note>key: role.policy.activity_log.read</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
