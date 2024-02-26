@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="2c3c910b20b0f0aaee90ce7f6c0b34dc20c10256" resname="&quot;{{ value }}&quot; is not a valid ZIP code.">
+        <source>"{{ value }}" is not a valid ZIP code.</source>
+        <target>crwdns260094:0{{ value }}crwdne260094:0</target>
+        <note>key: "{{ value }}" is not a valid ZIP code.</note>
+      </trans-unit>
+      <trans-unit id="377e816eb528bc1eb370321034ea1e0eaa1500cb" resname="&quot;{{ value }}&quot; is not a valid phone or fax number.">
+        <source>"{{ value }}" is not a valid phone or fax number.</source>
+        <target>crwdns260096:0{{ value }}crwdne260096:0</target>
+        <note>key: "{{ value }}" is not a valid phone or fax number.</note>
+      </trans-unit>
+      <trans-unit id="7f2f6a15cf8da2b27e5a4af47b58e7ad71c0b3d9" resname="Error">
+        <source>Error</source>
+        <target>crwdns260098:0crwdne260098:0</target>
+        <note>key: Error</note>
+      </trans-unit>
+      <trans-unit id="dd11d7eb1829f8e56f56c9a3bc9b31b9558a8a4d" resname="For technical reason no validation is possible">
+        <source>For technical reason no validation is possible</source>
+        <target>crwdns260100:0crwdne260100:0</target>
+        <note>key: For technical reason no validation is possible</note>
+      </trans-unit>
+      <trans-unit id="9a2de028a9cebc8b7b557145214f51b232be15d9" resname="For valid ZIP code use following pattern &quot;{{ pattern }}&quot;.">
+        <source>For valid ZIP code use following pattern "{{ pattern }}".</source>
+        <target>crwdns260102:0{{ pattern }}crwdne260102:0</target>
+        <note>key: For valid ZIP code use following pattern "{{ pattern }}".</note>
+      </trans-unit>
+      <trans-unit id="3f66052a107eaf9bae7cad0f61fb462f47ec2c47" resname="From">
+        <source>From</source>
+        <target>crwdns260104:0crwdne260104:0</target>
+        <note>key: From</note>
+      </trans-unit>
+      <trans-unit id="786751fcd635d4da061ae82f2a70955f9a967436" resname="Maximum {{ limit }} chars">
+        <source>Maximum {{ limit }} chars</source>
+        <target>crwdns260106:0{{ limit }}crwdne260106:0</target>
+        <note>key: Maximum {{ limit }} chars</note>
+      </trans-unit>
+      <trans-unit id="510c7a478b88b7c5a7eee3c7d63bf1e03ad68d0b" resname="Please accept the terms and conditions">
+        <source>Please accept the terms and conditions</source>
+        <target>crwdns260108:0crwdne260108:0</target>
+        <note>key: Please accept the terms and conditions</note>
+      </trans-unit>
+      <trans-unit id="d2b8f68e05729b9c08bcf2ffd0430fb5e8009c4c" resname="Please enter a message">
+        <source>Please enter a message</source>
+        <target>crwdns260110:0crwdne260110:0</target>
+        <note>key: Please enter a message</note>
+      </trans-unit>
+      <trans-unit id="8d566c55ace8e546e085afcc112eb61b8d04d5ce" resname="Please enter a permalink">
+        <source>Please enter a permalink</source>
+        <target>crwdns260112:0crwdne260112:0</target>
+        <note>key: Please enter a permalink</note>
+      </trans-unit>
+      <trans-unit id="ae7c5937e443b191818fa3ed2643de9ed51bba82" resname="Please enter a valid ZIP">
+        <source>Please enter a valid ZIP</source>
+        <target>crwdns260114:0crwdne260114:0</target>
+        <note>key: Please enter a valid ZIP</note>
+      </trans-unit>
+      <trans-unit id="47f5d4a681fc0a196a59ab2cb50cf8fd554695df" resname="Please enter an id">
+        <source>Please enter an id</source>
+        <target>crwdns260116:0crwdne260116:0</target>
+        <note>key: Please enter an id</note>
+      </trans-unit>
+      <trans-unit id="ceb0e759f1b7bc351b1b2c7add6dba45bdd502f8" resname="Please enter minimum {{ limit }} chars">
+        <source>Please enter minimum {{ limit }} chars</source>
+        <target>crwdns260118:0{{ limit }}crwdne260118:0</target>
+        <note>key: Please enter minimum {{ limit }} chars</note>
+      </trans-unit>
+      <trans-unit id="42d7b4337e8d96dcad9054e351d34b6d88642727" resname="Please provide a valid url">
+        <source>Please provide a valid url</source>
+        <target>crwdns260120:0crwdne260120:0</target>
+        <note>key: Please provide a valid url</note>
+      </trans-unit>
+      <trans-unit id="5c0a5d41e5c425d9f15d6053a03acf1b2a763860" resname="Please upload a valid PDF">
+        <source>Please upload a valid PDF</source>
+        <target>crwdns260122:0crwdne260122:0</target>
+        <note>key: Please upload a valid PDF</note>
+      </trans-unit>
+      <trans-unit id="eadc36170b04879e1cdee1fded958f529b281459" resname="The message is too short|The message is too short">
+        <source>The message is too short|The message is too short</source>
+        <target>crwdns260124:0crwdne260124:0</target>
+        <note>key: The message is too short|The message is too short</note>
+      </trans-unit>
+      <trans-unit id="a29d6d5aa5131805e60ceac186b93963b5647b68" resname="The password fields must match.">
+        <source>The password fields must match</source>
+        <target>crwdns260126:0crwdne260126:0</target>
+        <note>key: The password fields must match.</note>
+      </trans-unit>
+      <trans-unit id="fdecafbbbdece376bfa1b9c4e031cc556a701c6d" resname="The value is not a valid string.">
+        <source>The value is not a valid string.</source>
+        <target>crwdns260128:0crwdne260128:0</target>
+        <note>key: The value is not a valid string.</note>
+      </trans-unit>
+      <trans-unit id="383fb87cddc5d51dd461afc4042d41a836ef5fe9" resname="The value {{ value }} is not a valid {{ type }}.">
+        <source>The value {{ value }} is not a valid {{ type }}.</source>
+        <target>crwdns260130:0{{ value }}crwdnd260130:0{{ type }}crwdne260130:0</target>
+        <note>key: The value {{ value }} is not a valid {{ type }}.</note>
+      </trans-unit>
+      <trans-unit id="4bcb3417de9f2e76cbf8f94f05a17b9f4cbc8a53" resname="The vat number must contain the country code">
+        <source>The vat number must contain the country code</source>
+        <target>crwdns260132:0crwdne260132:0</target>
+        <note>key: The vat number must contain the country code</note>
+      </trans-unit>
+      <trans-unit id="40646605e3acbe2e6cf1a535d03af1f98c6f34fe" resname="This guid already exists">
+        <source>This guid already exists</source>
+        <target>crwdns260134:0crwdne260134:0</target>
+        <note>key: This guid already exists</note>
+      </trans-unit>
+      <trans-unit id="7c6a49d748b3d3060a4192f5e06eb6b6828c6f67" resname="This is not a valid vat number">
+        <source>This is not a valid vat number</source>
+        <target>crwdns260136:0crwdne260136:0</target>
+        <note>key: This is not a valid vat number</note>
+      </trans-unit>
+      <trans-unit id="896e2db5403173880050db55649a6d084a9f8a3f" resname="This value: &quot;{{ value }}&quot; is not a valid email address.">
+        <source>This value: "{{ value }}" is not a valid email address.</source>
+        <target>crwdns260138:0{{ value }}crwdne260138:0</target>
+        <note>key: This value: "{{ value }}" is not a valid email address.</note>
+      </trans-unit>
+      <trans-unit id="ae79ea1e9c6391a9ed83a2e18a031b835feec0c9" resname="To">
+        <source>To</source>
+        <target>crwdns260140:0crwdne260140:0</target>
+        <note>key: To</note>
+      </trans-unit>
+      <trans-unit id="fb4980bc27ab24a591b75532ae80d5fe20611fa3" resname="User with the email address &quot;{{ email }}&quot; is already registered">
+        <source>User with the email address "{{ email }}" is already registered</source>
+        <target>crwdns260142:0{{ email }}crwdne260142:0</target>
+        <note>key: User with the email address "{{ email }}" is already registered</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
