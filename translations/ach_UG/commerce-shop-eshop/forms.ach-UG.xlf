@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="e6bebe72ead05d9d16bc0dc9ef80c60cb12572b9" resname="role.policy.siso_policy">
+        <source>eCommerce</source>
+        <target>crwdns258744:0crwdne258744:0</target>
+        <note>key: role.policy.siso_policy</note>
+      </trans-unit>
+      <trans-unit id="71b4a62c52ac03f0597e07fc3a357e059260206e" resname="role.policy.siso_policy.all_functions">
+        <source>All functions</source>
+        <target>crwdns258746:0crwdne258746:0</target>
+        <note>key: role.policy.siso_policy.all_functions</note>
+      </trans-unit>
+      <trans-unit id="e1a252421d392fe73e1978cf223051e1f7103cc5" resname="role.policy.siso_policy.checkout">
+        <source>Use checkout</source>
+        <target>crwdns258748:0crwdne258748:0</target>
+        <note>key: role.policy.siso_policy.checkout</note>
+      </trans-unit>
+      <trans-unit id="3289ef5c243b5514c6d98f6419de1592d910b308" resname="role.policy.siso_policy.configuration_list">
+        <source>Configure (deprecated)</source>
+        <target>crwdns258750:0crwdne258750:0</target>
+        <note>key: role.policy.siso_policy.configuration_list</note>
+      </trans-unit>
+      <trans-unit id="83b3cf80005b6506e9fc8430ff52df8137ae71c0" resname="role.policy.siso_policy.dashboard_view">
+        <source>Use eCommerce dashboard</source>
+        <target>crwdns258752:0crwdne258752:0</target>
+        <note>key: role.policy.siso_policy.dashboard_view</note>
+      </trans-unit>
+      <trans-unit id="50b4107c987873e01d004a8aac3d0d9b07356a8d" resname="role.policy.siso_policy.delegate">
+        <source>Delegate</source>
+        <target>crwdns258754:0crwdne258754:0</target>
+        <note>key: role.policy.siso_policy.delegate</note>
+      </trans-unit>
+      <trans-unit id="160c9944f5a3f83ccc70ec541c636de74258b693" resname="role.policy.siso_policy.edit_delivery">
+        <source>Edit delivery addresses</source>
+        <target>crwdns258756:0crwdne258756:0</target>
+        <note>key: role.policy.siso_policy.edit_delivery</note>
+      </trans-unit>
+      <trans-unit id="0944816d7abca42fe4381817f59c5b8b2593f2a0" resname="role.policy.siso_policy.edit_invoice">
+        <source>Edit invoice address</source>
+        <target>crwdns258758:0crwdne258758:0</target>
+        <note>key: role.policy.siso_policy.edit_invoice</note>
+      </trans-unit>
+      <trans-unit id="db0dead69b934a0707e2288b888007bd2bd5bfc4" resname="role.policy.siso_policy.forms_profile_edit">
+        <source>Edit my profile</source>
+        <target>crwdns258760:0crwdne258760:0</target>
+        <note>key: role.policy.siso_policy.forms_profile_edit</note>
+      </trans-unit>
+      <trans-unit id="9fabf0afc088649c08d703561566ca7547a035f8" resname="role.policy.siso_policy.lostorder_list">
+        <source>List lost orders</source>
+        <target>crwdns258762:0crwdne258762:0</target>
+        <note>key: role.policy.siso_policy.lostorder_list</note>
+      </trans-unit>
+      <trans-unit id="983150cec2926fdd6a4f4067da5b386296378615" resname="role.policy.siso_policy.lostorder_manage">
+        <source>Manage lostorders</source>
+        <target>crwdns258764:0crwdne258764:0</target>
+        <note>key: role.policy.siso_policy.lostorder_manage</note>
+      </trans-unit>
+      <trans-unit id="688e008587c8352f5da048fb406deb56a378e0f7" resname="role.policy.siso_policy.lostorder_process">
+        <source>Send lostorder</source>
+        <target>crwdns258766:0crwdne258766:0</target>
+        <note>key: role.policy.siso_policy.lostorder_process</note>
+      </trans-unit>
+      <trans-unit id="c49537d92074b71972584fd044d74b19d8294696" resname="role.policy.siso_policy.manage_config">
+        <source>Manage configuration</source>
+        <target>crwdns258768:0crwdne258768:0</target>
+        <note>key: role.policy.siso_policy.manage_config</note>
+      </trans-unit>
+      <trans-unit id="5e7b82eec437e05e7bfe872efb13d03a06270d4b" resname="role.policy.siso_policy.manage_orders">
+        <source>Manage orders</source>
+        <target>crwdns258770:0crwdne258770:0</target>
+        <note>key: role.policy.siso_policy.manage_orders</note>
+      </trans-unit>
+      <trans-unit id="4d011e68fa852b7feca863504519636a7de5a4b0" resname="role.policy.siso_policy.manage_prices">
+        <source>Manage prices</source>
+        <target>crwdns258772:0crwdne258772:0</target>
+        <note>key: role.policy.siso_policy.manage_prices</note>
+      </trans-unit>
+      <trans-unit id="ad5b397ac92ddf8256ce2d9ab12818a383203a5b" resname="role.policy.siso_policy.manage_rating">
+        <source>Manage Rating</source>
+        <target>crwdns258774:0crwdne258774:0</target>
+        <note>key: role.policy.siso_policy.manage_rating</note>
+      </trans-unit>
+      <trans-unit id="4703ea64a83fc55601798cc19d29d879f2b79512" resname="role.policy.siso_policy.manage_stock">
+        <source>Manage stock</source>
+        <target>crwdns258776:0crwdne258776:0</target>
+        <note>key: role.policy.siso_policy.manage_stock</note>
+      </trans-unit>
+      <trans-unit id="731f061c484863f3367c7ddc90b45420d8edb2ad" resname="role.policy.siso_policy.order_list">
+        <source>List orders</source>
+        <target>crwdns258778:0crwdne258778:0</target>
+        <note>key: role.policy.siso_policy.order_list</note>
+      </trans-unit>
+      <trans-unit id="ca5cbff667a1c069eb8b95791ce0d99575da77c7" resname="role.policy.siso_policy.orderhistory_view">
+        <source>Use orderhistory</source>
+        <target>crwdns258780:0crwdne258780:0</target>
+        <note>key: role.policy.siso_policy.orderhistory_view</note>
+      </trans-unit>
+      <trans-unit id="9711026ce5d7f383f5b2254deb8b0202e048dcec" resname="role.policy.siso_policy.quickorder">
+        <source>Use quickorder</source>
+        <target>crwdns258782:0crwdne258782:0</target>
+        <note>key: role.policy.siso_policy.quickorder</note>
+      </trans-unit>
+      <trans-unit id="b15b9699a7bf845ed87f812d8aa33f0a045e9193" resname="role.policy.siso_policy.rating_review">
+        <source>Create a rating or review</source>
+        <target>crwdns258784:0crwdne258784:0</target>
+        <note>key: role.policy.siso_policy.rating_review</note>
+      </trans-unit>
+      <trans-unit id="82fb01df828843524e88fc46a99f1309166365da" resname="role.policy.siso_policy.read_basket">
+        <source>Read basket</source>
+        <target>crwdns258786:0crwdne258786:0</target>
+        <note>key: role.policy.siso_policy.read_basket</note>
+      </trans-unit>
+      <trans-unit id="1e26e0c4e32f262b67793f019b92099edc8d172c" resname="role.policy.siso_policy.read_customers_and_orders">
+        <source>Show customers and orders in cockpit</source>
+        <target>crwdns258788:0crwdne258788:0</target>
+        <note>key: role.policy.siso_policy.read_customers_and_orders</note>
+      </trans-unit>
+      <trans-unit id="ce07309083f3e9bbc06557a454f86d028bc0b37a" resname="role.policy.siso_policy.see_product_price">
+        <source>See prices for products</source>
+        <target>crwdns258790:0crwdne258790:0</target>
+        <note>key: role.policy.siso_policy.see_product_price</note>
+      </trans-unit>
+      <trans-unit id="a0be285570ab4606874b408bce8d9097d3ef8a52" resname="role.policy.siso_policy.translations">
+        <source>Manage translations</source>
+        <target>crwdns258792:0crwdne258792:0</target>
+        <note>key: role.policy.siso_policy.translations</note>
+      </trans-unit>
+      <trans-unit id="b7006b9e044c2aea8159bac92bd8d70c0eca978d" resname="role.policy.siso_policy.update_exchange_rates">
+        <source>Update exchange rates via API/Rest</source>
+        <target>crwdns258794:0crwdne258794:0</target>
+        <note>key: role.policy.siso_policy.update_exchange_rates</note>
+      </trans-unit>
+      <trans-unit id="b9bc8a260965f23a45db9ce5b412757b41dc1c55" resname="role.policy.siso_policy.write_basket">
+        <source>Write basket</source>
+        <target>crwdns258796:0crwdne258796:0</target>
+        <note>key: role.policy.siso_policy.write_basket</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
