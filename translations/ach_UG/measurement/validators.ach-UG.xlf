@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="63980c3e9912018fa4228f4d4c9e2507d20e99d7" resname="error.first_greater_than_second.message">
+        <source>First value should not be greater than the second one.</source>
+        <target>crwdns262574:0crwdne262574:0</target>
+        <note>key: error.first_greater_than_second.message</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
