@@ -10,29 +10,29 @@
         <source xml:space="preserve">Hello,
             Join us at: %invite_link%
         </source>
-        <target xml:space="preserve" state="needs-translation">Hello,
-            Join us at: %invite_link%
+        <target xml:space="preserve" state="translated">Bonjour,
+            Rejoignez-nous à : %invite_link%
         </target>
         <note>key: ibexa.user.invitation.mail.message</note>
       </trans-unit>
       <trans-unit id="54fce872265c3912727c793b582ab71318d2294e" resname="ibexa.user.invitation.mail.subject">
         <source>You are invited to join</source>
-        <target state="needs-translation">You are invited to join</target>
+        <target state="translated">Vous êtes invité à rejoindre</target>
         <note>key: ibexa.user.invitation.mail.subject</note>
       </trans-unit>
       <trans-unit id="c5663e8492fee255f3e2eb99457cf1f6d22d8967" resname="user_invitation.send.invitation_exist">
         <source>Invitation for '%email%' already exists.</source>
-        <target state="needs-translation">Invitation for '%email%' already exists.</target>
+        <target state="translated">Une invitation pour %email% existe déjà.</target>
         <note>key: user_invitation.send.invitation_exist</note>
       </trans-unit>
       <trans-unit id="eb29ac5a3f9317eda81b2659331df1882a03be8f" resname="user_invitation.send.success">
         <source>Invitation sent to '%email%' updated.</source>
-        <target state="needs-translation">Invitation sent to '%email%' updated.</target>
+        <target state="translated">Invitation envoyée à '%email%' mise à jour.</target>
         <note>key: user_invitation.send.success</note>
       </trans-unit>
       <trans-unit id="7b61e31ce34b47f88e563ed2750171a834a4a589" resname="user_invitation.send.user_exist">
         <source>User with '%email%' already exists.</source>
-        <target state="needs-translation">User with '%email%' already exists.</target>
+        <target state="translated">Un utilisateur avec '%email%' existe déjà.</target>
         <note>key: user_invitation.send.user_exist</note>
       </trans-unit>
     </body>

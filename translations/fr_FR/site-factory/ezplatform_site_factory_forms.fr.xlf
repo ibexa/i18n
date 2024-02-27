@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="5384febd277cb70ffb9508085940615c8cf0b0cc" resname="copy_site_skeleton.label">
         <source>Generate site using site skeleton</source>
-        <target state="needs-translation">Generate site using site skeleton</target>
+        <target state="translated">Générer un site en utilisant le squelette du site</target>
         <note>key: copy_site_skeleton.label</note>
       </trans-unit>
       <trans-unit id="813c0825c4190d08e42a9dd2171d804f2ad012b7" resname="languages.label">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="a9bfc35dc8d3c037bc4268ec0ce4dc548c832790" resname="parent_location.label">
         <source>Parent Location</source>
-        <target state="needs-translation">Parent Location</target>
+        <target state="translated">Emplacement parent</target>
         <note>key: parent_location.label</note>
       </trans-unit>
       <trans-unit id="1d1534ae4e770c4c35bade740b10ad3d2af2a703" resname="site_delete_form.delete">

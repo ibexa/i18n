@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="01673cd18fd4cc76a17b5a8c8dcec7012fe0e7c4" resname="infobar.options">
         <source>Options</source>
-        <target state="needs-translation">Options</target>
+        <target state="translated">Options</target>
         <note>key: infobar.options</note>
       </trans-unit>
     </body>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="30ebdcd0b49a220b9e85513aefe6a32223f654a9" resname="role.policy.cart">
+        <source>Cart</source>
+        <target state="translated">Panier</target>
+        <note>key: role.policy.cart</note>
+      </trans-unit>
+      <trans-unit id="b1f1f7be06ef147d8341c73826b3d1d4287a5768" resname="role.policy.cart.all_functions">
+        <source>Cart / All functions</source>
+        <target state="translated">Panier / Toutes les fonctions</target>
+        <note>key: role.policy.cart.all_functions</note>
+      </trans-unit>
+      <trans-unit id="7657c6424e32d5b678147afb09c6376eba9bbdb2" resname="role.policy.cart.create">
+        <source>Cart / Create</source>
+        <target state="translated">Panier / Créer</target>
+        <note>key: role.policy.cart.create</note>
+      </trans-unit>
+      <trans-unit id="f0cc423af9445423bdea96a3d3ac9d26c6f21ca3" resname="role.policy.cart.delete">
+        <source>Cart / Delete</source>
+        <target state="translated">Panier / Supprimer</target>
+        <note>key: role.policy.cart.delete</note>
+      </trans-unit>
+      <trans-unit id="f8035d30e965222a22e1189cb5b0f1ef0682f70b" resname="role.policy.cart.edit">
+        <source>Cart / Edit</source>
+        <target state="translated">Panier / Modifier</target>
+        <note>key: role.policy.cart.edit</note>
+      </trans-unit>
+      <trans-unit id="48177c92c5985050a4bac9a54de504e7e448b487" resname="role.policy.cart.view">
+        <source>Cart / View</source>
+        <target state="translated">Panier / Voir</target>
+        <note>key: role.policy.cart.view</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

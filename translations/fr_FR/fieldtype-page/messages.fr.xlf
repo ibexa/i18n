@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="2c2ed6384cc0f144856a569e8420e413c2d06986" resname="landing_page_ft.settings.edit_mode.field_view">
         <source>Field view</source>
-        <target state="needs-translation">Field view</target>
+        <target state="translated">Vue des champs</target>
         <note>key: landing_page_ft.settings.edit_mode.field_view</note>
       </trans-unit>
       <trans-unit id="dfbdf2660cd09c69b8c1a565096d15b7bcd48b33" resname="landing_page_ft.settings.edit_mode.page_view">
         <source>Page view</source>
-        <target state="needs-translation">Page view</target>
+        <target state="translated">Vue de la page</target>
         <note>key: landing_page_ft.settings.edit_mode.page_view</note>
       </trans-unit>
     </body>

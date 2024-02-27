@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="168b41d8f0b7d904679bdd1896939c6f6c54f3fc" resname="ezlandingpage.name">
         <source>Landing Page</source>
-        <target state="needs-translation">Landing Page</target>
+        <target state="translated">Page d’atterrissage</target>
         <note>key: ezlandingpage.name</note>
       </trans-unit>
     </body>

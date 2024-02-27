@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Annuler</target>
         <note>key: content.hide.modal.cancel</note>
       </trans-unit>
     </body>

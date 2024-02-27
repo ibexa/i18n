@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">Créer un contenu</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
         <source>under %content_name%</source>
-        <target state="needs-translation">under %content_name%</target>
+        <target state="translated">sous %content_name%</target>
         <note>key: content.create.editing_details</note>
       </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
         <source>Select a language:</source>
-        <target state="needs-translation">Select a language:</target>
+        <target state="translated">Sélectionnez une langue :</target>
         <note>key: content.create.select_language</note>
       </trans-unit>
     </body>

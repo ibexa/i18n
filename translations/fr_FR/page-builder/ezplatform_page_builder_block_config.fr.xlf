@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="da113ef6997dd899852e9f2fde59a357d0f78631" resname="block.schedule.select_content.wrapper.label">
         <source>Content items</source>
-        <target state="needs-translation">Content items</target>
+        <target state="translated">Eléments de contenu</target>
         <note>key: block.schedule.select_content.wrapper.label</note>
       </trans-unit>
       <trans-unit id="ce63f0ad9dc60242493136bc6a34a24eb7e69de5" resname="change.airtime">
@@ -60,6 +60,11 @@
         <source>Delete</source>
         <target state="translated">Supprimer</target>
         <note>key: delete</note>
+      </trans-unit>
+      <trans-unit id="24714070f91ffe1c9b511be2703efb8e2f00b907" resname="embed_preview.change">
+        <source>Change</source>
+        <target state="translated">Changer</target>
+        <note>key: embed_preview.change</note>
       </trans-unit>
       <trans-unit id="8f471b1b27d61346fdea81d93fc467fe08637010" resname="page_builder.block_configuration.class">
         <source>Class</source>
@@ -83,7 +88,7 @@
       </trans-unit>
       <trans-unit id="f1269b6fc5483b2a1528e8b2f1938cc37ab537c2" resname="page_builder.block_configuration.style">
         <source>Style</source>
-        <target state="needs-translation">Style</target>
+        <target state="translated">Style</target>
         <note>key: page_builder.block_configuration.style</note>
       </trans-unit>
       <trans-unit id="02ba70eaa60e10264ec65a0da1ac96d9b110759f" resname="page_builder.block_configuration.view">
@@ -97,8 +102,8 @@
         <note>key: select.content</note>
       </trans-unit>
       <trans-unit id="736317ee24b04dca3922094f41fcec739ad7b83a" resname="tab.scheduler.schedule_visibility">
-        <source>Schedule the visibility of this block</source>
-        <target state="translated">Planifier la visibilité de ce bloc</target>
+        <source>Schedule block visibility</source>
+        <target state="translated">Planifier la visibilité des blocs</target>
         <note>key: tab.scheduler.schedule_visibility</note>
       </trans-unit>
     </body>

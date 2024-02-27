@@ -121,6 +121,11 @@
         <target state="translated">Créer une nouvelle langue</target>
         <note>key: language.new.title</note>
       </trans-unit>
+<trans-unit id="3b125675237475a6d5bef27ca92efd5fa734552b" resname="language.subtitle">
+        <source>Languages</source>
+        <target state="translated">Langues</target>
+        <note>key: language.subtitle</note>
+      </trans-unit>
       <trans-unit id="fba43c054072899f63d3e09cfd9f0a07d8768234" resname="language.update.success">
         <source>Language '%name%' updated.</source>
         <target state="translated">La langue «%name%» a été mise à jour.</target>

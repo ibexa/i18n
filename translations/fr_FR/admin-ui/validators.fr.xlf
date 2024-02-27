@@ -16,6 +16,11 @@
         <target state="translated">Les identifiant de type de contenu ne peuvent contenir que les lettres "a" à "z", des chiffres et des blancs soulignés.</target>
         <note>key: ez.content_type.identifier.pattern</note>
       </trans-unit>
+      <trans-unit id="e03cdf7df4e43a891269e0bbe734e7bab5cc61eb" resname="ez.content_type.identifier.unique">
+        <source>The Content Type identifier "%identifier%" is used by another Content Type. Enter a unique identifier.</source>
+        <target state="translated">L'identifiant de type de contenu "%identifier%" est utilisé par un autre type de contenu. Entrez un identifiant unique.</target>
+        <note>key: ez.content_type.identifier.unique</note>
+      </trans-unit>
       <trans-unit id="7ecfa6bd2c1993d18d067f3abe3acebeb9c2458c" resname="ez.content_type.names">
         <source>Content Type name cannot be blank and cannot be longer than 255 characters.</source>
         <target state="translated">Les noms de type de contenu ne peuvent pas être vide ni dépasser 255 caractères.</target>
@@ -25,6 +30,11 @@
         <source>Field definition description cannot be longer than 255 characters.</source>
         <target state="translated">Les descriptions de définition de champ ne peuvent pas dépasser 255 caractères.</target>
         <note>key: ez.field_definition.descriptions</note>
+      </trans-unit>
+      <trans-unit id="3c8e362f900d886ce75b34d0fd952128612a2b12" resname="ez.field_definition.identifier.unique">
+        <source>The Field definition identifier "%identifier%" is used by another Field definition. Enter a unique identifier.</source>
+        <target state="translated">L'identifiant de type de contenu "%identifier%" est utilisé par un autre type de contenu. Entrez un identifiant unique.</target>
+        <note>key: ez.field_definition.identifier.unique</note>
       </trans-unit>
       <trans-unit id="0f7d936836760a506042c4d25cd38c5a30c3d9de" resname="ez.field_definition.names">
         <source>Field definition name cannot be blank cannot be longer than 255 characters.</source>
@@ -72,8 +82,8 @@
         <note>key: js.error.address_not_found</note>
       </trans-unit>
       <trans-unit id="74dc0c29a623eb80ca8f6460f0176503c7785904" resname="js.error.empty.field">
-        <source>{fieldName} Field is required</source>
-        <target state="translated">Le champ {fieldName} est requis</target>
+        <source>{fieldName} Field cannot be empty</source>
+        <target state="translated">Le champ {fieldName} ne peut pas être vide</target>
         <note>key: js.error.empty.field</note>
       </trans-unit>
       <trans-unit id="3ff026ea6e244dbbf70509ebf0a71c5f46cef0e0" resname="js.error.invalid_email">

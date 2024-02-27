@@ -281,6 +281,11 @@
         <target state="translated">Supprimer</target>
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
+<trans-unit id="71a3521d37991dc43b665d2cc94b7e1589360f48" resname="custom_url_alias_add_form.site_access.placeholder">
+        <source>None</source>
+        <target state="translated">Aucun</target>
+        <note>key: custom_url_alias_add_form.site_access.placeholder</note>
+      </trans-unit>
       <trans-unit id="3b2d2efac582e8c8d6eccb40d4499ecf9ee21f95" resname="dashboard.charts.no_data">
         <source><![CDATA[No data collected<br/> for the selected period]]></source>
         <target state="translated"><![CDATA[Aucune donnée collectée<br/> pour la période sélectionnée]]></target>

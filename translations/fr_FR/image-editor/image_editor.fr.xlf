@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+        <trans-unit id="0e70eaeb76b239bd72fbfeff1359fb3dc28d4af7" resname="content.field_type.ezimage.edit">
+        <source>Edit image</source>
+        <target state="translated">Modifier l'image</target>
+        <note>key: content.field_type.ezimage.edit</note>
+      </trans-unit>
       <trans-unit id="956eb63580c6ccafb6dbb9f891b08417451202be" resname="image_editor">
         <source>Image Editor</source>
         <target state="translated">Éditeur d'image</target>
@@ -67,7 +72,7 @@
         <note>key: image_editor.actions.focal_point.abbreviation.position_y</note>
       </trans-unit>
       <trans-unit id="2203c32d4bb3070d4a0162b68ef729f3c62b7100" resname="image_editor.actions.focal_point.label">
-        <source>Focal Point</source>
+        <source>Focal point</source>
         <target state="translated">Point focal</target>
         <note>key: image_editor.actions.focal_point.label</note>
       </trans-unit>

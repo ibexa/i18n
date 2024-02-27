@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="6e0958c7a386a5288b6afc35c441dd0191473139" resname="user_invitation.send.reinvite">
         <source>Reinvited '%email%'.</source>
-        <target state="needs-translation">Reinvited '%email%'.</target>
+        <target state="translated">Reinvité '%email%'.</target>
         <note>key: user_invitation.send.reinvite</note>
       </trans-unit>
       <trans-unit id="d82351adba50084607015c8758b3e0890e91b5bf" resname="user_invitation.send.resend">
         <source>Invitation to '%email%' resend.</source>
-        <target state="needs-translation">Invitation to '%email%' resend.</target>
+        <target state="translated">Invitation renvoyée à '%email%'.</target>
         <note>key: user_invitation.send.resend</note>
       </trans-unit>
     </body>

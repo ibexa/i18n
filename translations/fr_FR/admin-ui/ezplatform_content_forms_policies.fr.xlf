@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+<trans-unit id="0ba4dd0a3e03edbb23ad81c27bb921449e811cdc" resname="policy.limitation.identifier.changeowner">
+        <source>Change Owner</source>
+        <target state="translated">Changer de propriétaire</target>
+        <note>key: policy.limitation.identifier.changeowner</note>
+      </trans-unit>
       <trans-unit id="3742f2cc514848bd4a5eb03430e412d44f5d9ec2" resname="policy.limitation.identifier.class">
         <source>Content Type</source>
         <target state="translated">Type de Contenu</target>
@@ -25,6 +30,11 @@
         <source>Language</source>
         <target state="translated">Langue</target>
         <note>key: policy.limitation.identifier.language</note>
+      </trans-unit>
+<trans-unit id="b40e3e09e55ef852a5d9e1592e9c895715b1313c" resname="policy.limitation.identifier.memberof">
+        <source>MemberOf</source>
+        <target state="translated">Membre de</target>
+        <note>key: policy.limitation.identifier.memberof</note>
       </trans-unit>
       <trans-unit id="ab9163a435d32610a7a1af8df07ab38eebc4c7c6" resname="policy.limitation.identifier.newsection">
         <source>New Section</source>
@@ -66,15 +76,10 @@
         <target state="translated">Propriétaire du parent</target>
         <note>key: policy.limitation.identifier.parentowner</note>
       </trans-unit>
-      <trans-unit id="1b6a38d05e399ed640e6497fcd79ac31e4aafd73" resname="policy.limitation.identifier.personalizationaccess">
-        <source>PersonalizationAccess</source>
-        <target state="translated">Accès à la personnalisation</target>
-        <note>key: policy.limitation.identifier.personalizationaccess</note>
-      </trans-unit>
-      <trans-unit id="af73694f5c5e5868af7948fb04f0d6bfe7ee6ad4" resname="policy.limitation.identifier.producttype">
-        <source>ProductType</source>
-        <target state="translated">Type de produit</target>
-        <note>key: policy.limitation.identifier.producttype</note>
+      <trans-unit id="9f2e53e094725bbc243ad777547724ab923a31d1" resname="policy.limitation.identifier.role">
+        <source>Role</source>
+        <target state="translated">Rôle</target>
+        <note>key: policy.limitation.identifier.role</note>
       </trans-unit>
       <trans-unit id="bb77b27363dad566197a200290f0f0b18baa4705" resname="policy.limitation.identifier.section">
         <source>Section</source>
@@ -112,8 +117,8 @@
         <note>key: policy.limitation.identifier.taxonomy</note>
       </trans-unit>
       <trans-unit id="097f571a3c731c66c83230e465f4b3c9af811add" resname="policy.limitation.identifier.userpermissions">
-        <source>UserPermissions</source>
-        <target state="translated">Permissions utilisateur</target>
+        <source>User Permissions</source>
+        <target state="translated">Permissions de l'utilisateur</target>
         <note>key: policy.limitation.identifier.userpermissions</note>
       </trans-unit>
       <trans-unit id="ae8d9836b92dd7d303929104953d877fa9c14fed" resname="policy.limitation.identifier.versionlock">

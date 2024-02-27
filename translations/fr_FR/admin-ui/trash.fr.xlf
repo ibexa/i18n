@@ -22,7 +22,7 @@
         <note>key: trash.button.restore</note>
       </trans-unit>
       <trans-unit id="5424e0925328bb62806b43b2a65cc86fef6ad7d9" resname="trash.button.restore_new_location">
-        <source>Restore in a new Location</source>
+        <source>Restore in a new location</source>
         <target state="translated">Restaurer dans un nouvel emplacement</target>
         <note>key: trash.button.restore_new_location</note>
       </trans-unit>

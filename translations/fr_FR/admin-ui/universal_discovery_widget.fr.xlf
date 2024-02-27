@@ -67,8 +67,8 @@
         <note>key: content_create.label</note>
       </trans-unit>
       <trans-unit id="64f19d8055dc93bc222ddb63342200d68bf47958" resname="content_create.placeholder">
-        <source>Type to refine</source>
-        <target state="translated">Tapez pour affiner</target>
+        <source>Search by Content Type</source>
+        <target state="translated">Rechercher par type de contenu</target>
         <note>key: content_create.placeholder</note>
       </trans-unit>
       <trans-unit id="cb13371418234a9257a76bcc2a55768d5e5e58d8" resname="content_edit.label">
@@ -271,6 +271,11 @@
         <target state="translated">Essayez des mots clés plus génériques.</target>
         <note>key: search.no_results.hint.more_general</note>
       </trans-unit>
+<trans-unit id="2b096dbbbcadb6a316903dce656706b528229e21" resname="search.placeholder">
+        <source>Search...</source>
+        <target state="translated">Rechercher...</target>
+        <note>key: search.placeholder</note>
+      </trans-unit>
       <trans-unit id="69f8e58ee01f604b377aaa638cabe3f245b45a73" resname="search.search_results">
         <source>Results for “%search_phrase%” (%total%)</source>
         <target state="translated">Résultats de la recherche</target>
@@ -295,6 +300,11 @@
         <source>Collapse sidebar</source>
         <target state="translated">Réduire le panneau latéral</target>
         <note>key: selected_locations.collapse.sidebar</note>
+      </trans-unit>
+<trans-unit id="d4462bb9386e96a0984586618fbfbcd0852fd4ea" resname="selected_locations.deselect_all">
+        <source>Deselect all</source>
+        <target state="translated">Tout déselectionner</target>
+        <note>key: selected_locations.deselect_all</note>
       </trans-unit>
       <trans-unit id="19700661da70137e52d0009660c9a87f5bcb99bd" resname="selected_locations.expand.sidebar">
         <source>Expand sidebar</source>

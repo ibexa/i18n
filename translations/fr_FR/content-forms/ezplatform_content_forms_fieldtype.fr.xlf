@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="2fcb1cae76dae0c5ddda6446822bf2d656e84601" resname="content.field_type.ezgmaplocation.latitude">
         <source>Latitude</source>
-        <target state="needs-translation">Latitude</target>
+        <target state="translated">Latitude</target>
         <note>key: content.field_type.ezgmaplocation.latitude</note>
       </trans-unit>
       <trans-unit id="f598e2bedb749c004e232b9c3f0cffbc08f9c491" resname="content.field_type.ezgmaplocation.longitude">
         <source>Longitude</source>
-        <target state="needs-translation">Longitude</target>
+        <target state="translated">Longitude</target>
         <note>key: content.field_type.ezgmaplocation.longitude</note>
       </trans-unit>
       <trans-unit id="aa904d94a0f6df2084d669e82dac178189509aab" resname="content.field_type.ezimage.alternative_text">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="25850f96dbb0457a35063e29e92a26cbba2de07d" resname="content.field_type.ezurl.link">
         <source>URL</source>
-        <target state="needs-translation">URL</target>
+        <target state="translated">URL</target>
         <note>key: content.field_type.ezurl.link</note>
       </trans-unit>
       <trans-unit id="e6ca454559e2a762b64c43847db1e227b3077540" resname="content.field_type.ezurl.text">
@@ -110,6 +110,26 @@
         <source>Username</source>
         <target state="translated">Nom d'utilisateur</target>
         <note>key: content.field_type.ezuser.username</note>
+      </trans-unit>
+<trans-unit id="1d777459cd2f508bdb4676d48eaeee62e11d3009" resname="content_forms.relation.location_type">
+        <source>Select Starting Location</source>
+        <target state="translated">Sélectionnez un emplacement de départ</target>
+        <note>key: content_forms.relation.location_type</note>
+      </trans-unit>
+      <trans-unit id="76697f8a72ee770ea298bfc2dd8d5d8d3d6b1615" resname="content_forms.relation.location_type.browse">
+        <source>Browse</source>
+        <target state="translated">Parcourir</target>
+        <note>key: content_forms.relation.location_type.browse</note>
+      </trans-unit>
+      <trans-unit id="4214a6b70c34472d3b23c1c7936aa7254f5a0372" resname="content_forms.relation.location_type.default">
+        <source>Default</source>
+        <target state="translated">Défaut</target>
+        <note>key: content_forms.relation.location_type.default</note>
+      </trans-unit>
+      <trans-unit id="d0229bc36e84e27b95b3b41a8dd7fd29fe952f33" resname="content_forms.relation.location_type.self">
+        <source>Content location</source>
+        <target state="translated">Emplacement</target>
+        <note>key: content_forms.relation.location_type.self</note>
       </trans-unit>
     </body>
   </file>

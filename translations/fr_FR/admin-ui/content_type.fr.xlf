@@ -306,10 +306,20 @@
         <target state="translated">autre utilisateur</target>
         <note>key: content_type.user_name.can_not_be_fetched</note>
       </trans-unit>
+<trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
+        <source>Add</source>
+        <target state="translated">Ajouter</target>
+        <note>key: content_type.view.edit.add</note>
+      </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Field definitions</source>
         <target state="translated">Définitions de champs</target>
         <note>key: content_type.view.edit.content_field_definitions</note>
+      </trans-unit>
+<trans-unit id="74aead78c735bbbce032dc9b00f9ca7a3632f166" resname="content_type.view.edit.default_header">
+        <source>New field type</source>
+        <target state="translated">Nouveau type de champ</target>
+        <note>key: content_type.view.edit.default_header</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
         <source>Global properties</source>
@@ -321,9 +331,14 @@
         <target state="translated">Certains champs sont désactivés lors de la traduction d'un type de contenu. Pour les modifier, éditez le type de contenu dans sa langue principale.</target>
         <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
+<trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create</source>
+        <target state="translated">Créer</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
       <trans-unit id="da5f710198c48c803b3d0e2272e488903f92e569" resname="content_type.view.list.cannot_delete_notice">
         <source>You cannot delete the disabled Content Types, because Content items of those types exist.</source>
-        <target state="needs-translation">You cannot delete the disabled Content Types, because Content items of those types exist.</target>
+        <target state="translated">Vous ne pouvez pas supprimer les types de contenu désactivés, car des éléments de contenu de ces types existent.</target>
         <note>key: content_type.view.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
@@ -428,7 +443,7 @@
       </trans-unit>
       <trans-unit id="5aa9caad73d044de86886dd25688b5d1267c1f6b" resname="content_type_group.view.list.cannot_delete_notice">
         <source>You cannot delete the disabled Content Type groups, because they contain Content Types.</source>
-        <target state="needs-translation">You cannot delete the disabled Content Type groups, because they contain Content Types.</target>
+        <target state="translated">Vous ne pouvez pas supprimer les groupes de type de contenu désactivés, car ils contiennent des types de contenu.</target>
         <note>key: content_type_group.view.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="125bee275441fe2bd28cb9388b790c634d8ae3c6" resname="content_type_group.view.list.column.content_types_count">
@@ -821,6 +836,16 @@
         <target state="translated">Empêcher la réutilisation de l'ancien mot de passe</target>
         <note>key: field_definition.ezuser.require_new_password</note>
       </trans-unit>
+<trans-unit id="fdcfd21005fcd975636d979b1be61e28bb88d875" resname="field_definition.ezuser.require_not_compromised_password">
+        <source>Password must not be contained in a public breach.</source>
+        <target state="translated">Le mot de passe ne doit pas être contenu dans une violation publique.</target>
+        <note>key: field_definition.ezuser.require_not_compromised_password</note>
+      </trans-unit>
+      <trans-unit id="73a71072b428bec8a32c4ca1cf4813314b2a783d" resname="field_definition.ezuser.require_not_compromised_password_help">
+        <source>This uses the API at %link% to securely check breach data. The password is not transmitted to the API.</source>
+        <target state="translated">Cela utilise l'API à %link% pour vérifier de façon sécurisée les données de brèche. Le mot de passe n'est pas transmis à l'API.</target>
+        <note>key: field_definition.ezuser.require_not_compromised_password_help</note>
+      </trans-unit>
       <trans-unit id="100096c9b93ce532e7bf2f184d8e3f43374ae921" resname="field_definition.ezuser.require_unique_email">
         <source>Email must be unique</source>
         <target state="translated">L'e-mail doit être unique</target>
@@ -880,6 +905,11 @@
         <source>Update</source>
         <target state="translated">Mettre à jour</target>
         <note>key: location_update_form.update</note>
+      </trans-unit>
+<trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
+        <source>Enable %type% for this Content Type</source>
+        <target state="translated">Activer %type% pour ce type de contenu</target>
+        <note>key: meta.enabled</note>
       </trans-unit>
       <trans-unit id="fd1286353570c5703799ba76999323b7c7447b06" resname="no">
         <source>No</source>

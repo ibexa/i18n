@@ -18,37 +18,37 @@
       </trans-unit>
       <trans-unit id="517e3666a759ee26e02fcc468446ef39b3ae9bf0" resname="role.policy.catalog">
         <source>Catalog</source>
-        <target state="needs-translation">Catalog</target>
+        <target state="translated">Catalogue</target>
         <note>key: role.policy.catalog</note>
       </trans-unit>
       <trans-unit id="f0db798b7ae5b93b395d0f688ea80784faddcd6b" resname="role.policy.catalog.all_functions">
         <source>Catalog / All functions</source>
-        <target state="needs-translation">Catalog / All functions</target>
+        <target state="translated">Catalogue / Toutes les fonctions</target>
         <note>key: role.policy.catalog.all_functions</note>
       </trans-unit>
       <trans-unit id="9bab6251a421ba09e54114cd858abdc9a2a59f55" resname="role.policy.catalog.create">
         <source>Catalog / Create</source>
-        <target state="needs-translation">Catalog / Create</target>
+        <target state="translated">Catalogue / Créer</target>
         <note>key: role.policy.catalog.create</note>
       </trans-unit>
       <trans-unit id="6844731afb7e5c4fc7414f157749ca064a82d798" resname="role.policy.catalog.delete">
         <source>Catalog / Delete</source>
-        <target state="needs-translation">Catalog / Delete</target>
+        <target state="translated">Catalogue / Supprimer</target>
         <note>key: role.policy.catalog.delete</note>
       </trans-unit>
       <trans-unit id="f3f6d817abf52411d94909850040df8aebaf2c03" resname="role.policy.catalog.edit">
         <source>Catalog / Edit</source>
-        <target state="needs-translation">Catalog / Edit</target>
+        <target state="translated">Catalogue / Modifier</target>
         <note>key: role.policy.catalog.edit</note>
       </trans-unit>
       <trans-unit id="d9ced925ac206beb427c609d73e8adefb43346fb" resname="role.policy.catalog.view">
         <source>Catalog / View</source>
-        <target state="needs-translation">Catalog / View</target>
+        <target state="translated">Catalogue / Voir</target>
         <note>key: role.policy.catalog.view</note>
       </trans-unit>
       <trans-unit id="3551d9a7a066b2a0941f244fa91f766c089fd063" resname="role.policy.commerce">
         <source>Commerce</source>
-        <target state="needs-translation">Commerce</target>
+        <target state="translated">Commerce</target>
         <note>key: role.policy.commerce</note>
       </trans-unit>
       <trans-unit id="b5a03c317caa2abbc2a833f7a1bd96dabe75f707" resname="role.policy.commerce.all_functions">
@@ -88,17 +88,17 @@
       </trans-unit>
       <trans-unit id="77103c77012fbfb57e2f042714bcc8641e51c67c" resname="role.policy.customer_group.edit">
         <source>Customer Group / Edit</source>
-        <target state="needs-translation">Customer Group / Edit</target>
+        <target state="translated">Groupe de clients / Modifier</target>
         <note>key: role.policy.customer_group.edit</note>
       </trans-unit>
       <trans-unit id="24d592ca917cb069849dd655cf9c48293bb7e3c1" resname="role.policy.customer_group.view">
         <source>Customer Group / View</source>
-        <target state="needs-translation">Customer Group / View</target>
+        <target state="translated">Groupe de clients / Voir</target>
         <note>key: role.policy.customer_group.view</note>
       </trans-unit>
       <trans-unit id="f8af6833d99ffb0184d98ec0a984fa3229693af4" resname="role.policy.product">
         <source>Product</source>
-        <target state="needs-translation">Product</target>
+        <target state="translated">Produit</target>
         <note>key: role.policy.product</note>
       </trans-unit>
       <trans-unit id="fbdc425c2a0a2d696e378c83bdd97e908de1fec9" resname="role.policy.product.all_functions">
@@ -118,12 +118,12 @@
       </trans-unit>
       <trans-unit id="affc63805a89db08aea4669b900c2dfe405e2756" resname="role.policy.product.edit">
         <source>Product / Edit</source>
-        <target state="needs-translation">Product / Edit</target>
+        <target state="translated">Produit / Modifier</target>
         <note>key: role.policy.product.edit</note>
       </trans-unit>
       <trans-unit id="398a24b5e722cb05e8523c1c2c5e5e5bd7cb0637" resname="role.policy.product.view">
         <source>Product / View</source>
-        <target state="needs-translation">Product / View</target>
+        <target state="translated">Produit / Voir</target>
         <note>key: role.policy.product.view</note>
       </trans-unit>
       <trans-unit id="363c8eef46263015281d7d7b3b82f6e174da3b45" resname="role.policy.product_type">
@@ -133,12 +133,12 @@
       </trans-unit>
       <trans-unit id="166efe5c95e9e566d91365300bdbb10c055efccd" resname="role.policy.product_type.all_functions">
         <source>Product Type / All functions</source>
-        <target state="needs-translation">Product Type / All functions</target>
+        <target state="translated">Type de produit / Toutes les fonctions</target>
         <note>key: role.policy.product_type.all_functions</note>
       </trans-unit>
       <trans-unit id="b33796576af978f3b6f8649a74c4810bde23eed1" resname="role.policy.product_type.create">
         <source>Product Type / Create</source>
-        <target state="needs-translation">Product Type / Create</target>
+        <target state="translated">Type de produit / Créer</target>
         <note>key: role.policy.product_type.create</note>
       </trans-unit>
       <trans-unit id="7da7c8e897757512eee1e32cbd44aacffb67a4f9" resname="role.policy.product_type.delete">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="60dfe8cdc2e019be786afee8fb967f4a1dbd44ee" resname="role.policy.product_type.view">
         <source>Product Type / View</source>
-        <target state="needs-translation">Product Type / View</target>
+        <target state="translated">Type de produit / Voir</target>
         <note>key: role.policy.product_type.view</note>
       </trans-unit>
     </body>

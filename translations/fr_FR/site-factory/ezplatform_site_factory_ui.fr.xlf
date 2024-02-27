@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="147fd163949ff088f31b6cfca13eeb6cfa474101" resname="form.validate.error.public.access">
         <source>Please add a correct public access</source>
-        <target state="needs-translation">Please add a correct public access</target>
+        <target state="translated">Veuillez ajouter un accès public</target>
         <note>key: form.validate.error.public.access</note>
       </trans-unit>
       <trans-unit id="7e0434aa2c4a65dd83160b9c9bf0fe9d7493eae2" resname="select_location.label">
         <source>Choose Location</source>
-        <target state="needs-translation">Choose Location</target>
+        <target state="translated">Choisir l'emplacement</target>
         <note>key: select_location.label</note>
       </trans-unit>
     </body>

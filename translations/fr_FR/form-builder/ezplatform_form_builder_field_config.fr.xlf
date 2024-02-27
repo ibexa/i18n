@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="8bbcc0286c89c85d59df306c295b2b287e291f3f" resname="tab.label.validation">
         <source>Validation</source>
-        <target state="needs-translation">Validation</target>
+        <target state="translated">Validation</target>
         <note>key: tab.label.validation</note>
       </trans-unit>
       <trans-unit id="538d0c2538feb9e6e334fb79dc55ee2ffcbe670b" resname="validation.exact_length">

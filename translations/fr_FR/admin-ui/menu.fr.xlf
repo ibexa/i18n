@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="ca09d2e9bfc8aa93d6b4c4f3c7d38f37976d7038" resname="content_type_edit__anchor_menu__field_definitions">
         <source>Field definitions</source>
-        <target state="needs-translation">Field definitions</target>
+        <target state="translated">Définitions de champs</target>
         <note>key: content_type_edit__anchor_menu__field_definitions</note>
       </trans-unit>
       <trans-unit id="e39ae19f3f6be47b23321398f5d499bf78f9fc7c" resname="content_type_edit__anchor_menu__global_properties">
         <source>Global properties</source>
-        <target state="needs-translation">Global properties</target>
+        <target state="translated">Propriétés globales</target>
         <note>key: content_type_edit__anchor_menu__global_properties</note>
       </trans-unit>
       <trans-unit id="17d86a1011976758251b804acfbe8092d2860946" resname="content_type_edit__sidebar_right__cancel" approved="yes">
@@ -212,7 +212,7 @@
         <note>key: main__admin__sections</note>
       </trans-unit>
       <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
-        <source>URL Management</source>
+        <source>URL management</source>
         <target state="translated">Gestion des URL</target>
         <note>key: main__admin__url_management</note>
       </trans-unit>
@@ -437,7 +437,7 @@
         <note>key: user__drafts</note>
       </trans-unit>
       <trans-unit id="d4a0cfb90774164e94f11e2a4f019a2538faebcf" resname="user__settings">
-        <source>User Settings</source>
+        <source>User settings</source>
         <target state="translated">Paramètres utilisateur</target>
         <note>key: user__settings</note>
       </trans-unit>

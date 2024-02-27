@@ -8,8 +8,18 @@
     <body>
       <trans-unit id="ae8d9836b92dd7d303929104953d877fa9c14fed" resname="policy.limitation.identifier.versionlock">
         <source>Version Lock</source>
-        <target state="needs-translation">Version Lock</target>
+        <target state="translated">Verrouillage de la version</target>
         <note>key: policy.limitation.identifier.versionlock</note>
+      </trans-unit>
+      <trans-unit id="920f6a0525d6ba93ff83f46e22baa981ff0b483c" resname="policy.limitation.identifier.workflowstage">
+        <source>Workflow Stage</source>
+        <target state="translated">Etape du Workflow</target>
+        <note>key: policy.limitation.identifier.workflowstage</note>
+      </trans-unit>
+      <trans-unit id="017b3370e919f545dbf4e889252c00419fde6fde" resname="policy.limitation.identifier.workflowtransition">
+        <source>Workflow Transition</source>
+        <target state="translated">Transition du Workflow</target>
+        <note>key: policy.limitation.identifier.workflowtransition</note>
       </trans-unit>
     </body>
   </file>

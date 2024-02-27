@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="3bd547a05c5a7b5ee111cc5ca608df9199f04c51" resname="ezdate.name">
         <source>Date</source>
-        <target state="needs-translation">Date</target>
+        <target state="translated">Date</target>
         <note>key: ezdate.name</note>
       </trans-unit>
       <trans-unit id="42d9e26b6e8e65856f709461b589cb7925a9f43e" resname="ezdatetime.name" approved="yes">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="69c0e446226061b7f2ca2b22fd4eb09e6b4e9518" resname="ezurl.name">
         <source>URL</source>
-        <target state="needs-translation">URL</target>
+        <target state="translated">URL</target>
         <note>key: ezurl.name</note>
       </trans-unit>
       <trans-unit id="0317c233c19b3c191acc92971bfb616c7fe298de" resname="ezuser.name" approved="yes">
