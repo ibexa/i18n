@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="6e348032e081597394411395f7fce3700da6f4d4" resname="ezimage.dimensions.height">
         <source>H:%height% px</source>
-        <target state="needs-translation">H:%height% px</target>
+        <target state="translated">H:%height% px</target>
         <note>key: ezimage.dimensions.height</note>
       </trans-unit>
       <trans-unit id="cc4b26a9652d9bcfff2d5627d7e34b2fe9eb99b6" resname="ezimage.dimensions.width">
         <source>W:%width% px</source>
-        <target state="needs-translation">W:%width% px</target>
+        <target state="translated">W:%width% px</target>
         <note>key: ezimage.dimensions.width</note>
       </trans-unit>
       <trans-unit id="dc2dfb4a937fee7119e733e0b6715a09320d5078" resname="ezimageasset.create.message.error">
