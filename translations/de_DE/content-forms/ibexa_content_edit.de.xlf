@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="20aa73aab64b5a0de7eafb3f7e8f6a765199f873" resname="autosave">
         <source>Autosave</source>
-        <target state="needs-translation">Autosave</target>
+        <target state="translated">Automatisches Speichern</target>
         <note>key: autosave</note>
       </trans-unit>
     </body>
