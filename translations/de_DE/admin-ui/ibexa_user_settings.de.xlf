@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="91023a897ee0c18e2cc4f392c2eefb06f935882e" resname="list.action_name">
         <source>Editing %action%</source>
-        <target state="needs-translation">Editing %action%</target>
+        <target state="translated">Bearbeitung von %action%</target>
         <note>key: list.action_name</note>
       </trans-unit>
       <trans-unit id="9f3b1a45a0ce10a940f96bdba73bba914cc78bb6" resname="list.title">
         <source>User settings</source>
-        <target state="needs-translation">User settings</target>
+        <target state="translated">Benutzereinstellungen</target>
         <note>key: list.title</note>
       </trans-unit>
       <trans-unit id="ecbb0cf3b32660e173d0b1e4af6a5c8470045128" resname="section.my_account_settings">
         <source>Account settings</source>
-        <target state="needs-translation">Account settings</target>
+        <target state="translated">Meine Kontoeinstellungen</target>
         <note>key: section.my_account_settings</note>
       </trans-unit>
       <trans-unit id="a225cd02a97a3cff5001bf4651bbe84dc62c3631" resname="section.my_preferences">
         <source>Preferences</source>
-        <target state="needs-translation">Preferences</target>
+        <target state="translated">Voreinstellungen</target>
         <note>key: section.my_preferences</note>
       </trans-unit>
       <trans-unit id="53b6d0de00a5f914e863bed8b805457da18742ac" resname="settings.autosave.value.description">
@@ -63,32 +63,32 @@
       </trans-unit>
       <trans-unit id="4030d22c6edcd7185a9584ae76a5948aedaa1594" resname="settings.group.mode.name">
         <source>Mode</source>
-        <target state="needs-translation">Mode</target>
+        <target state="translated">Modus</target>
         <note>key: settings.group.mode.name</note>
       </trans-unit>
       <trans-unit id="3e6a40d77072c330caa54630a0ee78371e3b5bcc" resname="settings.in_context_translation.value.description">
         <source>Toggle In-Context translation feature</source>
-        <target state="needs-translation">Toggle In-Context translation feature</target>
+        <target state="translated">Umschalten der In-Context-Übersetzungsfunktion</target>
         <note>key: settings.in_context_translation.value.description</note>
       </trans-unit>
       <trans-unit id="3f33c08a95b774bfdcb67ade54bce7f62bd2ac54" resname="settings.in_context_translation.value.disabled">
         <source>disabled</source>
-        <target state="needs-translation">disabled</target>
+        <target state="translated">deaktiviert</target>
         <note>key: settings.in_context_translation.value.disabled</note>
       </trans-unit>
       <trans-unit id="08e33cb64156307a5a8197a0cdb4e254e6c4c5c5" resname="settings.in_context_translation.value.enabled">
         <source>enabled</source>
-        <target state="needs-translation">enabled</target>
+        <target state="translated">aktiviert</target>
         <note>key: settings.in_context_translation.value.enabled</note>
       </trans-unit>
       <trans-unit id="655baeb177f1234a01684cf79c22ccdcaf5bee51" resname="settings.in_context_translation.value.title">
         <source>In-Context translation</source>
-        <target state="needs-translation">In-Context translation</target>
+        <target state="translated">Übersetzung im Kontext</target>
         <note>key: settings.in_context_translation.value.title</note>
       </trans-unit>
       <trans-unit id="05bad24df7e1efd6680f0c20d79080430605bf48" resname="user.setting.focus_mode.description">
         <source>Focus mode</source>
-        <target state="needs-translation">Focus mode</target>
+        <target state="translated">Fokusmodus</target>
         <note>key: user.setting.focus_mode.description</note>
       </trans-unit>
       <trans-unit id="cffd55da53aff9b2efc64a42454deb1984c0264c" resname="user.setting.focus_mode.help">
@@ -100,34 +100,33 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="needs-translation"><![CDATA[<p><strong>Focus mode</strong> – A clean and intuitive interface with a simplified Content
-                        structure, designed for new and non-advanced users. Features include:</p>
+        <target state="translated"><![CDATA[<p><strong>Fokusmodus</strong> – Eine einfache intuitive Oberfläche mit einer vereinfachten Inhaltstruktur, die für neue und nicht fortgeschrittene Benutzer konzipiert ist. Die Funktionen umfassen:</p>
                         <ul>
-                            <li>View tab displaying site preview within the context</li>
-                            <li>Hidden Technical details tab</li>
-                            <li>Hidden Locations and Versions tabs in Content items</li>
+                            <li>Registerkarte "Ansicht", die eine Vorschau des Inhalts im Kontext anzeigt</li>
+                            <li>Ausgeblendete Registerkarte Technische Details</li>
+                            <li>Ausgeblendete Registerkarten "Orte" und "Versionen" bei Inhaltselementen</li>
                         </ul>
                     </p>]]></target>
         <note>key: user.setting.focus_mode.help</note>
       </trans-unit>
       <trans-unit id="3f9f3faa4259dc9c627396c82133e9f615e388a8" resname="user.setting.focus_mode.label">
         <source>Enable focus mode</source>
-        <target state="needs-translation">Enable focus mode</target>
+        <target state="translated">Fokusmodus aktivieren</target>
         <note>key: user.setting.focus_mode.label</note>
       </trans-unit>
       <trans-unit id="585f7f7c62212ea3de792ae339db9e838f27d77a" resname="user.setting.focus_mode.name">
         <source>Focus mode</source>
-        <target state="needs-translation">Focus mode</target>
+        <target state="translated">Fokusmodus</target>
         <note>key: user.setting.focus_mode.name</note>
       </trans-unit>
       <trans-unit id="ff6e958aad946d4fed9a52212626b24394e70764" resname="user.setting.focus_mode.off">
         <source>Disabled</source>
-        <target state="needs-translation">Disabled</target>
+        <target state="translated">Deaktiviert</target>
         <note>key: user.setting.focus_mode.off</note>
       </trans-unit>
       <trans-unit id="77b180457c16ed97dcf406f5d225f2bbeac16d4a" resname="user.setting.focus_mode.on">
         <source>Enabled</source>
-        <target state="needs-translation">Enabled</target>
+        <target state="translated">Aktiviert</target>
         <note>key: user.setting.focus_mode.on</note>
       </trans-unit>
     </body>
