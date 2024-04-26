@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="bf52e03de74c601f385e858268f03285e7d4df8e" resname="breadcrumb.calendar">
         <source>Calendar</source>
-        <target state="needs-translation">Calendar</target>
+        <target state="translated">Kalender</target>
         <note>key: breadcrumb.calendar</note>
       </trans-unit>
       <trans-unit id="eaa605d0699f9a10367d5023476b8d0fc6499ec4" resname="calendar.view.title">
         <source>Calendar</source>
-        <target state="needs-translation">Calendar</target>
+        <target state="translated">Kalender</target>
         <note>key: calendar.view.title</note>
       </trans-unit>
     </body>
