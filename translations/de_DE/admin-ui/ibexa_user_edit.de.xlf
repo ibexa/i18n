@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Bearbeiten</target>
         <note>key: editing</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
         <source>Location: %location%</source>
-        <target state="needs-translation">Location: %location%</target>
+        <target state="translated">Ort: %location%</target>
         <note>key: editing_details</note>
       </trans-unit>
     </body>
