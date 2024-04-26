@@ -8,127 +8,127 @@
     <body>
       <trans-unit id="0245eebf28779a38e0e2d072dfe6a288625b2c52" resname="content.field_type.binary_base.file">
         <source>File</source>
-        <target state="needs-translation">File</target>
+        <target state="translated">Datei</target>
         <note>key: content.field_type.binary_base.file</note>
       </trans-unit>
       <trans-unit id="1bd4c3b865897e29623c2b4d3a42d4fc1df85c9f" resname="content.field_type.binary_base.remove">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">Entfernen</target>
         <note>key: content.field_type.binary_base.remove</note>
       </trans-unit>
       <trans-unit id="db5d6f82fe5ba6f40d1d159dca89c659c76aad06" resname="content.field_type.ezauthor.email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">E-Mail</target>
         <note>key: content.field_type.ezauthor.email</note>
       </trans-unit>
       <trans-unit id="05fe48833d61c38f4c532c34c4b6fdad323e1fe1" resname="content.field_type.ezauthor.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: content.field_type.ezauthor.name</note>
       </trans-unit>
       <trans-unit id="79843ce578133501bb420c52cd410a113dcfaefb" resname="content.field_type.ezgmaplocation.address">
         <source>Address</source>
-        <target state="needs-translation">Address</target>
+        <target state="translated">Adresse</target>
         <note>key: content.field_type.ezgmaplocation.address</note>
       </trans-unit>
       <trans-unit id="2fcb1cae76dae0c5ddda6446822bf2d656e84601" resname="content.field_type.ezgmaplocation.latitude">
         <source>Latitude</source>
-        <target state="needs-translation">Latitude</target>
+        <target state="translated">Latitude</target>
         <note>key: content.field_type.ezgmaplocation.latitude</note>
       </trans-unit>
       <trans-unit id="f598e2bedb749c004e232b9c3f0cffbc08f9c491" resname="content.field_type.ezgmaplocation.longitude">
         <source>Longitude</source>
-        <target state="needs-translation">Longitude</target>
+        <target state="translated">Longitude</target>
         <note>key: content.field_type.ezgmaplocation.longitude</note>
       </trans-unit>
       <trans-unit id="aa904d94a0f6df2084d669e82dac178189509aab" resname="content.field_type.ezimage.alternative_text">
         <source>Alternative text</source>
-        <target state="needs-translation">Alternative text</target>
+        <target state="translated">Alternativer Text</target>
         <note>key: content.field_type.ezimage.alternative_text</note>
       </trans-unit>
       <trans-unit id="5da12c12b4df6790c55fb4d0b11f72fa621b0d1f" resname="content.field_type.ezimageasset.alternative_text">
         <source>Alternative text</source>
-        <target state="needs-translation">Alternative text</target>
+        <target state="translated">Alternativer Text</target>
         <note>key: content.field_type.ezimageasset.alternative_text</note>
       </trans-unit>
       <trans-unit id="7162d22b1be8aaa634e57fa94cc2664026be4390" resname="content.field_type.ezmedia.autoplay">
         <source>Autoplay</source>
-        <target state="needs-translation">Autoplay</target>
+        <target state="translated">Automatisches Abspielen</target>
         <note>key: content.field_type.ezmedia.autoplay</note>
       </trans-unit>
       <trans-unit id="f0176a5e197c6c207e09affb1a027db2ab48a506" resname="content.field_type.ezmedia.display_controls">
         <source>Display controls</source>
-        <target state="needs-translation">Display controls</target>
+        <target state="translated">Steuerelemente anzeigen</target>
         <note>key: content.field_type.ezmedia.display_controls</note>
       </trans-unit>
       <trans-unit id="eb3b924b6a2d94344ea5e1e51636ef5b92a7a57a" resname="content.field_type.ezmedia.height">
         <source>Height</source>
-        <target state="needs-translation">Height</target>
+        <target state="translated">Höhe</target>
         <note>key: content.field_type.ezmedia.height</note>
       </trans-unit>
       <trans-unit id="48e4eb02443e58b9ff501ca03bdc4008e842eba4" resname="content.field_type.ezmedia.loop">
         <source>Loop</source>
-        <target state="needs-translation">Loop</target>
+        <target state="translated">Wiederholen</target>
         <note>key: content.field_type.ezmedia.loop</note>
       </trans-unit>
       <trans-unit id="e5940ee516f3edb1d09e7ac4eed4fe7a28d3cacd" resname="content.field_type.ezmedia.width">
         <source>Width</source>
-        <target state="needs-translation">Width</target>
+        <target state="translated">Breite</target>
         <note>key: content.field_type.ezmedia.width</note>
       </trans-unit>
       <trans-unit id="25850f96dbb0457a35063e29e92a26cbba2de07d" resname="content.field_type.ezurl.link">
         <source>URL</source>
-        <target state="needs-translation">URL</target>
+        <target state="translated">URL</target>
         <note>key: content.field_type.ezurl.link</note>
       </trans-unit>
       <trans-unit id="e6ca454559e2a762b64c43847db1e227b3077540" resname="content.field_type.ezurl.text">
         <source>Text</source>
-        <target state="needs-translation">Text</target>
+        <target state="translated">Text</target>
         <note>key: content.field_type.ezurl.text</note>
       </trans-unit>
       <trans-unit id="7a3eb3ea13db1c9d6a0bd64c7d249a45e7b83b52" resname="content.field_type.ezuser.email">
         <source>Email</source>
-        <target state="needs-translation">Email</target>
+        <target state="translated">E-Mail</target>
         <note>key: content.field_type.ezuser.email</note>
       </trans-unit>
       <trans-unit id="8ac4ec40153c80fd39d2051802e30ebffb6f1fe1" resname="content.field_type.ezuser.enabled">
         <source>Enabled</source>
-        <target state="needs-translation">Enabled</target>
+        <target state="translated">Aktiviert</target>
         <note>key: content.field_type.ezuser.enabled</note>
       </trans-unit>
       <trans-unit id="4c65e5d17516c19e311161e374bbd39f053b5e6b" resname="content.field_type.ezuser.password">
         <source>Password</source>
-        <target state="needs-translation">Password</target>
+        <target state="translated">Passwort</target>
         <note>key: content.field_type.ezuser.password</note>
       </trans-unit>
       <trans-unit id="d2fe533f4032896195d524038c3abeb2209adece" resname="content.field_type.ezuser.password_confirm">
         <source>Confirm password</source>
-        <target state="needs-translation">Confirm password</target>
+        <target state="translated">Passwort bestätigen</target>
         <note>key: content.field_type.ezuser.password_confirm</note>
       </trans-unit>
       <trans-unit id="d1f5c5fcee7eb206e496dd5073b0f95427431a1c" resname="content.field_type.ezuser.username">
         <source>Username</source>
-        <target state="needs-translation">Username</target>
+        <target state="translated">Benutzername</target>
         <note>key: content.field_type.ezuser.username</note>
       </trans-unit>
       <trans-unit id="1d777459cd2f508bdb4676d48eaeee62e11d3009" resname="content_forms.relation.location_type">
         <source>Select Starting Location</source>
-        <target state="needs-translation">Select Starting Location</target>
+        <target state="translated">Wählen Sie den Startort</target>
         <note>key: content_forms.relation.location_type</note>
       </trans-unit>
       <trans-unit id="76697f8a72ee770ea298bfc2dd8d5d8d3d6b1615" resname="content_forms.relation.location_type.browse">
         <source>Browse</source>
-        <target state="needs-translation">Browse</target>
+        <target state="translated">Durchsuchen</target>
         <note>key: content_forms.relation.location_type.browse</note>
       </trans-unit>
       <trans-unit id="4214a6b70c34472d3b23c1c7936aa7254f5a0372" resname="content_forms.relation.location_type.default">
         <source>Default</source>
-        <target state="needs-translation">Default</target>
+        <target state="translated">Standard</target>
         <note>key: content_forms.relation.location_type.default</note>
       </trans-unit>
       <trans-unit id="d0229bc36e84e27b95b3b41a8dd7fd29fe952f33" resname="content_forms.relation.location_type.self">
         <source>Content location</source>
-        <target state="needs-translation">Content location</target>
+        <target state="translated">Ort</target>
         <note>key: content_forms.relation.location_type.self</note>
       </trans-unit>
     </body>
