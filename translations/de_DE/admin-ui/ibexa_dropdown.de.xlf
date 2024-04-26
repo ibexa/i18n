@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="8fedbb70c8494c057fb45930e46671a659bae616" resname="dropdown.clear">
         <source>Clear (%selected_items_count%)</source>
-        <target state="needs-translation">Clear (%selected_items_count%)</target>
+        <target state="translated">Löschen (%selected_items_count%)</target>
         <note>key: dropdown.clear</note>
       </trans-unit>
       <trans-unit id="ada9f9b1f9f1b312d3b2de5dbdbcf89065f72608" resname="dropdown.no_results">
         <source><![CDATA[No results found for &quot;%phrase%&quot;]]></source>
-        <target state="needs-translation"><![CDATA[No results found for &quot;%phrase%&quot;]]></target>
+        <target state="translated"><![CDATA[Keine Ergebnisse für &quot;%phrase%&quot; gefunden]]></target>
         <note>key: dropdown.no_results</note>
       </trans-unit>
       <trans-unit id="a3390555f717ffd9b3560f17198e5a437899967f" resname="dropdown.placeholder">
         <source>Choose an option</source>
-        <target state="needs-translation">Choose an option</target>
+        <target state="translated">Wählen Sie eine Option</target>
         <note>key: dropdown.placeholder</note>
       </trans-unit>
       <trans-unit id="bcf45496a8dbad6959111ca6eae0ab456d4ad1c7" resname="dropdown.placeholder.all">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Alle</target>
         <note>key: dropdown.placeholder.all</note>
       </trans-unit>
       <trans-unit id="49f6d75aca8da375a2a79c0778934bc45a8ffe8c" resname="dropdown.placeholder.empty">
         <source>No options available</source>
-        <target state="needs-translation">No options available</target>
+        <target state="translated">Keine Optionen verfügbar</target>
         <note>key: dropdown.placeholder.empty</note>
       </trans-unit>
       <trans-unit id="40f8da5227ff717dc8e4d57dc26c074c25c00d3a" resname="dropdown.placeholder.empty.label">
         <source>All</source>
-        <target state="needs-translation">All</target>
+        <target state="translated">Alle</target>
         <note>key: dropdown.placeholder.empty.label</note>
       </trans-unit>
       <trans-unit id="3f446c9bfc8591ebdb9a2bc8fa98410bdcc4ced2" resname="dropdown.select_all">
         <source>Select All</source>
-        <target state="needs-translation">Select All</target>
+        <target state="translated">Alle auswählen</target>
         <note>key: dropdown.select_all</note>
       </trans-unit>
     </body>
