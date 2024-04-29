@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="34cd11448c2016e5c0a098947eb3e2aef01a9ac5" resname="search.section">
         <source>Section</source>
-        <target state="translated">Abschnitt</target>
+        <target state="translated">Sektion</target>
         <note>key: search.section</note>
       </trans-unit>
       <trans-unit id="923ca53f6602fe7eabe79838efdca27c2756b0fd" resname="search.spellcheck.suggestion">
