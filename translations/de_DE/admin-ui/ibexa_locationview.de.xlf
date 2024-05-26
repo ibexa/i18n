@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="1b0315c9b17758ea7acfa7d3291abf6ee4b84f28" resname="bulk_action.failed.modal.content_name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: bulk_action.failed.modal.content_name</note>
       </trans-unit>
       <trans-unit id="2f4cf33e7c53128e6d383a08d5220819e2f95a3c" resname="bulk_action.failed.modal.content_type_name">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Inhaltstyp</target>
         <note>key: bulk_action.failed.modal.content_type_name</note>
       </trans-unit>
       <trans-unit id="fdc7d270cec1081be5a6888bf565ff03eebc6ce9" resname="content.create.cancel_btn.label">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Verwerfen</target>
         <note>key: content.create.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">Inhalt erstellen</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
         <source>under %content%</source>
-        <target state="needs-translation">under %content%</target>
+        <target state="translated">unter %content%</target>
         <note>key: content.create.editing_details</note>
       </trans-unit>
       <trans-unit id="a443a2a76348e8431df4346c11079f9e56735473" resname="content.create.filters.desc">
         <source>Select a content type from list</source>
-        <target state="needs-translation">Select a content type from list</target>
+        <target state="translated">Wählen Sie einen Inhaltstyp aus der Liste</target>
         <note>key: content.create.filters.desc</note>
       </trans-unit>
       <trans-unit id="a68fa29f2de8a9e5a1a533e7240b0b667651c4d5" resname="content.create.input.placeholder">
         <source>Search by content type</source>
-        <target state="needs-translation">Search by content type</target>
+        <target state="translated">Suche nach Inhaltstyp</target>
         <note>key: content.create.input.placeholder</note>
       </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
         <source>Add to bookmarks</source>
-        <target state="needs-translation">Add to bookmarks</target>
+        <target state="translated">Lesezeichen hinzufügen</target>
         <note>key: location.bookmark.add</note>
       </trans-unit>
       <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
@@ -78,62 +78,62 @@
       </trans-unit>
       <trans-unit id="0ac5837ba570c72c15eae58ab98735697a790528" resname="modal.email_address">
         <source>Email address</source>
-        <target state="needs-translation">Email address</target>
+        <target state="translated">E-Mail-Adresse</target>
         <note>key: modal.email_address</note>
       </trans-unit>
       <trans-unit id="b57923cd51800de1a02208a4765ab1b14d437c50" resname="modal.info">
         <source>Enter your team members email addresses.</source>
-        <target state="needs-translation">Enter your team members email addresses.</target>
+        <target state="translated">Geben Sie Ihre Teammitglieder E-Mail-Adressen ein.</target>
         <note>key: modal.info</note>
       </trans-unit>
       <trans-unit id="6c7b23f10048a1a732637fab418a66e6aa10b3dc" resname="tab.author.authors">
         <source>Authors</source>
-        <target state="needs-translation">Authors</target>
+        <target state="translated">Autoren</target>
         <note>key: tab.author.authors</note>
       </trans-unit>
       <trans-unit id="f3531550ad402d3be828ec391f1a80a295d3382c" resname="tab.author.content_id">
         <source>Content ID</source>
-        <target state="needs-translation">Content ID</target>
+        <target state="translated">Inhalts-ID</target>
         <note>key: tab.author.content_id</note>
       </trans-unit>
       <trans-unit id="762ccb5d0506d7818b3b00dcd1459dfa6b4776d9" resname="tab.author.creator">
         <source>Creator</source>
-        <target state="needs-translation">Creator</target>
+        <target state="translated">Ersteller</target>
         <note>key: tab.author.creator</note>
       </trans-unit>
       <trans-unit id="732e6a42956aa790c56e1c0a0af8af89189c5c96" resname="tab.author.creator.not_found">
         <source>Can't fetch creator</source>
-        <target state="needs-translation">Can't fetch creator</target>
+        <target state="translated">Kann den Ersteller nicht abrufen</target>
         <note>key: tab.author.creator.not_found</note>
       </trans-unit>
       <trans-unit id="ccdfe4ede13f639239013d24eeedafd222f1f85e" resname="tab.author.last_contributor">
         <source>Last contributor</source>
-        <target state="needs-translation">Last contributor</target>
+        <target state="translated">Geändert von</target>
         <note>key: tab.author.last_contributor</note>
       </trans-unit>
       <trans-unit id="fbb9528d62d1dff7395ce7078bf7e066b6becb68" resname="tab.author.last_contributor.not_found">
         <source>Can't fetch last contributor</source>
-        <target state="needs-translation">Can't fetch last contributor</target>
+        <target state="translated">Letzter Beitragender kann nicht gefunden werden</target>
         <note>key: tab.author.last_contributor.not_found</note>
       </trans-unit>
       <trans-unit id="6bb8a4c032509c485369da8d80e46b248911bbe7" resname="tab.author.location_id">
         <source>Location ID</source>
-        <target state="needs-translation">Location ID</target>
+        <target state="translated">Location ID</target>
         <note>key: tab.author.location_id</note>
       </trans-unit>
       <trans-unit id="d3e1f764a54cdc6e1a8e0c1d197c9d439f734b31" resname="tab.author.modified">
         <source>Modified</source>
-        <target state="needs-translation">Modified</target>
+        <target state="translated">Geändert am</target>
         <note>key: tab.author.modified</note>
       </trans-unit>
       <trans-unit id="49a9415aa25635c21a41acd68ca891c7320923c0" resname="tab.author.published">
         <source>Published</source>
-        <target state="needs-translation">Published</target>
+        <target state="translated">Veröffentlicht am</target>
         <note>key: tab.author.published</note>
       </trans-unit>
       <trans-unit id="4fd9a40170cf4bc5acff719c14eaf2d15fc9942d" resname="tab.details.change_section ">
         <source>Change section</source>
-        <target state="needs-translation">Change section</target>
+        <target state="translated">Sektion ändern</target>
         <note>key: tab.details.change_section </note>
       </trans-unit>
       <trans-unit id="5c08278a7b80c4aae97e5683688b5b55b5f5b37e" resname="tab.details.change_state">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
         <source>Content ID</source>
-        <target state="needs-translation">Content ID</target>
+        <target state="translated">Content ID</target>
         <note>key: tab.details.content_id</note>
       </trans-unit>
       <trans-unit id="d5236d13b41dc38ee965599754a05e3283b55ae2" resname="tab.details.content_remote_id">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
         <source>Location ID</source>
-        <target state="needs-translation">Location ID</target>
+        <target state="translated">Location ID</target>
         <note>key: tab.details.location_id</note>
       </trans-unit>
       <trans-unit id="c391debe9105c6823145ca6c5ec76a252ba5538c" resname="tab.details.location_remote_id">
@@ -223,17 +223,17 @@
       </trans-unit>
       <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Hinzufügen</target>
         <note>key: tab.locations.action.add</note>
       </trans-unit>
       <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>key: tab.locations.action.delete</note>
       </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
         <source>Content locations</source>
-        <target state="needs-translation">Content locations</target>
+        <target state="translated">Orte</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
       <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
         <source>Do you want to delete the Location? All its sub-items will be sent to Trash.</source>
-        <target state="needs-translation">Do you want to delete the Location? All its sub-items will be sent to Trash.</target>
+        <target state="translated">Möchten Sie den Ort wirklich löschen? Alle Unterelemente werden in den Papierkorb verschoben.</target>
         <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
@@ -268,17 +268,17 @@
       </trans-unit>
       <trans-unit id="d1b8c4b5f1920ea90e6b4e1376a3e8167f2ef21a" resname="tab.name.authors">
         <source>Authors</source>
-        <target state="needs-translation">Authors</target>
+        <target state="translated">Autoren</target>
         <note>key: tab.name.authors</note>
       </trans-unit>
       <trans-unit id="cbbcbdffdfb49411175c7039130d7ae05a5af6cf" resname="tab.name.data">
         <source>Fields</source>
-        <target state="needs-translation">Fields</target>
+        <target state="translated">Felder</target>
         <note>key: tab.name.data</note>
       </trans-unit>
       <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
         <source>Technical details</source>
-        <target state="needs-translation">Technical details</target>
+        <target state="translated">Technische Details</target>
         <note>key: tab.name.details</note>
       </trans-unit>
       <trans-unit id="bc992b410ec56cce18c994806d7518fd47da2caa" resname="tab.name.locations">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="7e5efcb8041239f2e067d416f6ebfdfe9cd120a1" resname="tab.name.sub_items">
         <source>Sub-items</source>
-        <target state="needs-translation">Sub-items</target>
+        <target state="translated">Unterelemente</target>
         <note>key: tab.name.sub_items</note>
       </trans-unit>
       <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="50741647d206010a8c2ac911901f3c31d6bbfc6a" resname="tab.name.urls">
         <source>URL</source>
-        <target state="needs-translation">URL</target>
+        <target state="translated">URL</target>
         <note>key: tab.name.urls</note>
       </trans-unit>
       <trans-unit id="337828c348b881920f84d17cc184f4c24e40c894" resname="tab.name.versions">
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="e649f067bcea898ef987cd5ebce6a9a6fca570f2" resname="tab.relations.table.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: tab.relations.table.name</note>
       </trans-unit>
       <trans-unit id="06422c0c484b663ec929d1049a228a26b9d48476" resname="tab.relations.table.relation_type">
@@ -373,17 +373,17 @@
       </trans-unit>
       <trans-unit id="cd43dc791bb87dda363d311d449b68d5876392d1" resname="tab.relations.table.relation_type.link">
         <source>Link</source>
-        <target state="needs-translation">Link</target>
+        <target state="translated">Link</target>
         <note>key: tab.relations.table.relation_type.link</note>
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Hinzufügen</target>
         <note>key: tab.translations.action.add</note>
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>key: tab.translations.action.delete</note>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
@@ -468,17 +468,17 @@
       </trans-unit>
       <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">
         <source>Version</source>
-        <target state="needs-translation">Version</target>
+        <target state="translated">Version</target>
         <note>key: tab.versions.table.version</note>
       </trans-unit>
       <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
         <source>Off</source>
-        <target state="needs-translation">Off</target>
+        <target state="translated">Aus</target>
         <note>key: toggle_widget.label.off</note>
       </trans-unit>
       <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
         <source>On</source>
-        <target state="needs-translation">On</target>
+        <target state="translated">An</target>
         <note>key: toggle_widget.label.on</note>
       </trans-unit>
       <trans-unit id="c285bc654712e44ed56cd6f18262a2d6485f4fb9" resname="user.edit.select_language">

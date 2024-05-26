@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="7a00fa1045089ab6b05a30314644f3f53477ecbf" resname="drafts.list.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Bearbeiten</target>
         <note>key: drafts.list.action.edit</note>
       </trans-unit>
       <trans-unit id="887b9056de68ebd1c33c43af14093c2cafb38c5d" resname="drafts.list.action.remove">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="b62c11ec52c71a7923851340a98932ed8ac8704b" resname="drafts.list.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Inhaltstyp</target>
         <note>key: drafts.list.content_type</note>
       </trans-unit>
       <trans-unit id="1b21c0ebc62c6a9d0c320a08a9ca807231fab739" resname="drafts.list.empty">
@@ -48,22 +48,22 @@
       </trans-unit>
       <trans-unit id="3cdd0ca8cb41c22f9120de646cc5734f7cad7ffb" resname="drafts.list.last_saved">
         <source>Modified</source>
-        <target state="needs-translation">Modified</target>
+        <target state="translated">Geändert</target>
         <note>key: drafts.list.last_saved</note>
       </trans-unit>
       <trans-unit id="8c65a0cd673fa4c18f7e730f672579ed65debd3c" resname="drafts.list.modified_language">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">Bearbeitete Sprache</target>
         <note>key: drafts.list.modified_language</note>
       </trans-unit>
       <trans-unit id="575dff6addd6d92ef7e8699d89b21cba7915ad7c" resname="drafts.list.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: drafts.list.name</note>
       </trans-unit>
       <trans-unit id="7823f25f5779e3071253a6a8296aad7b23d4a241" resname="drafts.list.version">
         <source>Version</source>
-        <target state="needs-translation">Version</target>
+        <target state="translated">Version</target>
         <note>key: drafts.list.version</note>
       </trans-unit>
     </body>

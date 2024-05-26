@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="3adb317c25d79d7a5d63fbfe1d7f5f2ad91c0268" resname="anchor_edit.input.label">
         <source>Name:</source>
-        <target state="needs-translation">Name:</target>
+        <target state="translated">Name:</target>
         <note>key: anchor_edit.input.label</note>
       </trans-unit>
       <trans-unit id="babf94a4044ba933a0ebe008c0f027745402c989" resname="block_text_align_center_btn.label">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="616ed4fdb7520ef3a604ff51d7de46f1a5e285a0" resname="link_edit_btn.info_row.new_tab">
         <source>New tab</source>
-        <target state="needs-translation">New tab</target>
+        <target state="translated">Neue Registerkarte</target>
         <note>key: link_edit_btn.info_row.new_tab</note>
       </trans-unit>
       <trans-unit id="dbdabcab7ac96a4b93bf58ba620cf382e0ca94db" resname="link_edit_btn.info_row.open_in.label">

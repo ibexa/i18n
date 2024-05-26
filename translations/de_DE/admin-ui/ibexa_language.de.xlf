@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="afee1c14dce2b30b230a0de49867c19712c3685f" resname="language.code">
         <source>Code</source>
-        <target state="needs-translation">Code</target>
+        <target state="translated">Code</target>
         <note>key: language.code</note>
       </trans-unit>
       <trans-unit id="670884ed109bd22b18847ccb016a0faf72470640" resname="language.code.label">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="e71610c4106a78f22cb355ee1b1b56904e59ec9e" resname="language.creating">
         <source>Adding</source>
-        <target state="needs-translation">Adding</target>
+        <target state="translated">Hinzufügen</target>
         <note>key: language.creating</note>
       </trans-unit>
       <trans-unit id="7c8fcdc1c11d3c1cf2a4380f440ef3d157b68c12" resname="language.delete.success">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="71ec7cf0f6cecec112438059bf15066f4ccb5ba1" resname="language.delete_language">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>key: language.delete_language</note>
       </trans-unit>
       <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="a00565bd7765a0bc061d4930db4a1323bae9a178" resname="language.editing">
         <source>Editing</source>
-        <target state="needs-translation">Editing</target>
+        <target state="translated">Bearbeitung</target>
         <note>key: language.editing</note>
       </trans-unit>
       <trans-unit id="065fdff561c25266ec49bbdaf8c5d0bdd6e9dd7f" resname="language.enabled">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="acf6ff41e3b9acb2cbbcd4a8e908cf52c08b86af" resname="language.id">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: language.id</note>
       </trans-unit>
       <trans-unit id="60c35c78d83e0e32173bc6eda1bd696d223b49bd" resname="language.id.label">
         <source>ID</source>
-        <target state="needs-translation">ID</target>
+        <target state="translated">ID</target>
         <note>key: language.id.label</note>
       </trans-unit>
       <trans-unit id="463ac52ab0cf571550389494d38d1318acab44c1" resname="language.information.header">
@@ -93,32 +93,32 @@
       </trans-unit>
       <trans-unit id="2a52961302ce7dfa4a21c5e0bcc239f5a9a36cfe" resname="language.modal.message">
         <source>Delete the languages?</source>
-        <target state="needs-translation">Delete the languages?</target>
+        <target state="translated">Die Sprachen löschen?</target>
         <note>key: language.modal.message</note>
       </trans-unit>
       <trans-unit id="c0ccfb7e7bc6d434ca93e998637fe775ba4a2de0" resname="language.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: language.name</note>
       </trans-unit>
       <trans-unit id="e033c3bb99a4c1b19b1aaa80c637751afe1f474d" resname="language.name.label">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: language.name.label</note>
       </trans-unit>
       <trans-unit id="8e4642a0c879921e8bf31752abc577c4bf8d098b" resname="language.new">
         <source>Add language</source>
-        <target state="needs-translation">Add language</target>
+        <target state="translated">Sprache hinzufügen</target>
         <note>key: language.new</note>
       </trans-unit>
       <trans-unit id="ed7e6b485737184b494f399ea010f537c9a741f5" resname="language.new.title">
         <source>New Language</source>
-        <target state="needs-translation">New Language</target>
+        <target state="translated">Neue Sprache</target>
         <note>key: language.new.title</note>
       </trans-unit>
       <trans-unit id="3b125675237475a6d5bef27ca92efd5fa734552b" resname="language.subtitle">
         <source>Languages</source>
-        <target state="needs-translation">Languages</target>
+        <target state="translated">Sprachen</target>
         <note>key: language.subtitle</note>
       </trans-unit>
       <trans-unit id="fba43c054072899f63d3e09cfd9f0a07d8768234" resname="language.update.success">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="451b73fc2ed5bb8b05754b0d293ea07293461ec9" resname="language.view.identifier">
         <source>%language%</source>
-        <target state="needs-translation">%language%</target>
+        <target state="translated">%language%</target>
         <note>key: language.view.identifier</note>
       </trans-unit>
       <trans-unit id="b19ebb675189cb5361277711104fee1df0d7ee65" resname="language.view.title.identifier">

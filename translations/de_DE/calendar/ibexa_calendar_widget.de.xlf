@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="59e3fee84c10074047b8a01c191da2a07438a14e" resname="calendar.deselect_all">
         <source>Deselect all</source>
-        <target state="needs-translation">Deselect all</target>
+        <target state="translated">Alle abwählen</target>
         <note>key: calendar.deselect_all</note>
       </trans-unit>
       <trans-unit id="71ed1d8df1592110b83f6375575fe9503dcc85d8" resname="calendar.expand.sidebar">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="315dfd96f88868ab18b441034110d1be60cab2e3" resname="calendar.filters.label">
         <source>Filters</source>
-        <target state="needs-translation">Filters</target>
+        <target state="translated">Filter</target>
         <note>key: calendar.filters.label</note>
       </trans-unit>
       <trans-unit id="d7e7d23a9c363db8c35427d038398f822f213f6a" resname="calendar.filters.modified_langauge">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="4fbdf7c460a141ceeacf83df5e20dcc84c019f95" resname="calendar.time_pm_symbol">
         <source>PM</source>
-        <target state="needs-translation">PM</target>
+        <target state="translated">PM</target>
         <note>key: calendar.time_pm_symbol</note>
       </trans-unit>
       <trans-unit id="07d8842da3d9fe4c5c1564d18415e12cbcc0e626" resname="calendar.tooltips.backward">
@@ -133,17 +133,17 @@
       </trans-unit>
       <trans-unit id="485936d4461689d3c89217ba8d35c399152b8bc5" resname="view_toggler.calendar_view">
         <source>Calendar view</source>
-        <target state="needs-translation">Calendar view</target>
+        <target state="translated">Kalenderansicht</target>
         <note>key: view_toggler.calendar_view</note>
       </trans-unit>
       <trans-unit id="7d6cc235b821be4307f2f1e991f02c59a2499250" resname="view_toggler.list_view">
         <source>List view</source>
-        <target state="needs-translation">List view</target>
+        <target state="translated">Listenansicht</target>
         <note>key: view_toggler.list_view</note>
       </trans-unit>
       <trans-unit id="553de375ac66858a59570a5f46a1767bbcf44ec4" resname="view_toggler.view">
         <source>View</source>
-        <target state="needs-translation">View</target>
+        <target state="translated">Ansicht</target>
         <note>key: view_toggler.view</note>
       </trans-unit>
     </body>

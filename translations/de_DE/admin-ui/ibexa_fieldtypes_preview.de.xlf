@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="706821bf7c10bf965680842f9e0b0bad3ab737ed" resname="ezgmaplocation.latitude">
         <source>Latitude</source>
-        <target state="needs-translation">Latitude</target>
+        <target state="translated">Latitude</target>
         <note>key: ezgmaplocation.latitude</note>
       </trans-unit>
       <trans-unit id="38022a4ef42d878eb38c71537fdc4c72b5fbb989" resname="ezgmaplocation.location_properties">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="ba4a253dc02df12654dabc50ef81b428ee888bcf" resname="ezgmaplocation.longitude">
         <source>Longitude</source>
-        <target state="needs-translation">Longitude</target>
+        <target state="translated">Longitude</target>
         <note>key: ezgmaplocation.longitude</note>
       </trans-unit>
       <trans-unit id="504719a5dc2e1c7d5c59a159e3d96e767d6b8ae2" resname="ezimage.alternative_text">
@@ -168,12 +168,12 @@
       </trans-unit>
       <trans-unit id="df17c526bb1674b64ac8a4cd4eda1af9e0c5e7e5" resname="ezobjectrelation.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Inhaltstyp</target>
         <note>key: ezobjectrelation.content_type</note>
       </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: ezobjectrelation.name</note>
       </trans-unit>
       <trans-unit id="bd321e94e97034129cf78323f54e93c782250971" resname="ezobjectrelation.single_relation">
@@ -183,12 +183,12 @@
       </trans-unit>
       <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ezobjectrelation.version_created">
         <source>Version created</source>
-        <target state="needs-translation">Version created</target>
+        <target state="translated">Version erstellt</target>
         <note>key: ezobjectrelation.version_created</note>
       </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Inhaltstyp</target>
         <note>key: ezobjectrelationlist.content_type</note>
       </trans-unit>
       <trans-unit id="07ffe77032c4f0b4f8c64f7c40218274e805491f" resname="ezobjectrelationlist.created">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: ezobjectrelationlist.name</note>
       </trans-unit>
       <trans-unit id="eb451c657d2bd24b90aaea1619ba0ffb33ba52cc" resname="ezuser.email">

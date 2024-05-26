@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="26902ae74a03f81c299e5a32051f2ab1eb69d63f" resname="content_type_suggestions">
         <source>Suggestions</source>
-        <target state="needs-translation">Suggestions</target>
+        <target state="translated">Vorschläge</target>
         <note>key: content_type_suggestions</note>
       </trans-unit>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
         <source>Location: %location% Translation: %language%</source>
-        <target state="needs-translation">Location: %location% Translation: %language%</target>
+        <target state="translated">Ort: %location% Übersetzung: %language%</target>
         <note>key: editing_details</note>
       </trans-unit>
       <trans-unit id="32d50c07b2eacd6fa72742ff1c1f5963c26a251d" resname="new_content_item">
