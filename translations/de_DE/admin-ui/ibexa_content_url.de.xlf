@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Erstellen</target>
         <note>key: custom_url_alias_add_form.add</note>
       </trans-unit>
       <trans-unit id="71a3521d37991dc43b665d2cc94b7e1589360f48" resname="custom_url_alias_add_form.site_access.placeholder">
         <source>None</source>
-        <target state="needs-translation">None</target>
+        <target state="translated">Keine</target>
         <note>key: custom_url_alias_add_form.site_access.placeholder</note>
       </trans-unit>
       <trans-unit id="5c48ac36c2a46c2dc2a89fd4c91a2a3d684eb5d8" resname="tab.urls.action.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Hinzufügen</target>
         <note>key: tab.urls.action.add</note>
       </trans-unit>
       <trans-unit id="9b4504fd2e75dffb2c22283be3e9816e8142538a" resname="tab.urls.action.delete">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="c1277a6823f4d281355e706e54cd723b5ed4adf7" resname="tab.urls.add.root_location_id.helper_secondary">
         <source>If no SiteAccess selected, the alias will be placed at main root Location.</source>
-        <target state="needs-translation">If no SiteAccess selected, the alias will be placed at main root Location.</target>
+        <target state="translated">Wenn kein SiteAccess ausgewählt ist, wird der Alias am Haupt-Ort platziert.</target>
         <note>key: tab.urls.add.root_location_id.helper_secondary</note>
       </trans-unit>
       <trans-unit id="f933f01aef7b171904b5c0b1ed4327413828f96f" resname="tab.urls.add.site_access">
@@ -103,22 +103,22 @@
       </trans-unit>
       <trans-unit id="0d3138c0198569f427ab4568fffa5d9d894db72a" resname="tab.urls.modal.message">
         <source>Delete the selected custom URL aliases permanently?</source>
-        <target state="needs-translation">Delete the selected custom URL aliases permanently?</target>
+        <target state="translated">Ausgewählte URL Aliase dauerhaft löschen?</target>
         <note>key: tab.urls.modal.message</note>
       </trans-unit>
       <trans-unit id="56d218db883ed4cc59dbbca53364dc2e725013e4" resname="tab.urls.no_custom_urls">
         <source>This item has no custom URL aliases.</source>
-        <target state="needs-translation">This item has no custom URL aliases.</target>
+        <target state="translated">Dieses Inhaltselement hat keine benutzerdefinierten URL-Aliase.</target>
         <note>key: tab.urls.no_custom_urls</note>
       </trans-unit>
       <trans-unit id="61f03f8e307131c37fed1b46302b43efcc519d07" resname="tab.urls.no_custom_urls.action">
         <source>Add new custom URL aliases manually</source>
-        <target state="needs-translation">Add new custom URL aliases manually</target>
+        <target state="translated">Neue benutzerdefinierte URL-Aliase manuell hinzufügen</target>
         <note>key: tab.urls.no_custom_urls.action</note>
       </trans-unit>
       <trans-unit id="c9fdd1434b44a4592626e8fe493c19141aab24d5" resname="tab.urls.no_system_urls">
         <source>This item has no system URLs.</source>
-        <target state="needs-translation">This item has no system URLs.</target>
+        <target state="translated">Dieses Inhaltselement hat keine System-URLs.</target>
         <note>key: tab.urls.no_system_urls</note>
       </trans-unit>
       <trans-unit id="902beb4ac170382cb95bd554cb1e763d8fdd413c" resname="tab.urls.system.title">

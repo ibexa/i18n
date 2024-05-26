@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="8b23f97eb81bd9e3e5b47f858e2922e526a9c1cb" resname="close_btn.aria_label">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">Schließen</target>
         <note>key: close_btn.aria_label</note>
       </trans-unit>
       <trans-unit id="16af4f3a9799e5f803be1d7d9ca493e74bd2db40" resname="close_btn.title">
         <source>Close</source>
-        <target state="needs-translation">Close</target>
+        <target state="translated">Schließen</target>
         <note>key: close_btn.title</note>
       </trans-unit>
     </body>

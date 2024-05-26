@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="7caaa79d36b0520845802cfa3f7ebcc94318115b" resname="content_type.action.copy">
         <source>Duplicate</source>
-        <target state="needs-translation">Duplicate</target>
+        <target state="translated">Duplizieren</target>
         <note>key: content_type.action.copy</note>
       </trans-unit>
       <trans-unit id="779646634b8d89b40f5abaa2ccd6107b300bf429" resname="content_type.action.edit">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="0a08ba6425acc6e52b75ebbe0b77d90df5cb81a1" resname="content_type.add.missing_language">
         <source>Cannot create content type. Could not find language with identifier '%languageCode%'</source>
-        <target state="needs-translation">Cannot create content type. Could not find language with identifier '%languageCode%'</target>
+        <target state="translated">Inhaltstyp kann nicht erstellt werden. Sprache mit der Kennung '%languageCode%' konnte nicht gefunden werden</target>
         <note>key: content_type.add.missing_language</note>
       </trans-unit>
       <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
@@ -38,17 +38,17 @@
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
         <source>Content type '%name%' cannot be copied.</source>
-        <target state="needs-translation">Content type '%name%' cannot be copied.</target>
+        <target state="translated">Inhaltstyp '%name%' kann nicht kopiert werden.</target>
         <note>key: content_type.copy.error</note>
       </trans-unit>
       <trans-unit id="31674753c7d944af06b98387a96ce93f36f6adb4" resname="content_type.copy.success">
         <source>Content type '%name%' copied.</source>
-        <target state="needs-translation">Content type '%name%' copied.</target>
+        <target state="translated">Inhaltstyp '%name%' kopiert.</target>
         <note>key: content_type.copy.success</note>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
         <source>Create a content type</source>
-        <target state="needs-translation">Create a content type</target>
+        <target state="translated">Neuen Inhaltstyp erstellen</target>
         <note>key: content_type.create</note>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="5ecc210ad42274409db7ec4e56ba286b487639c6" resname="content_type.delete.success">
         <source>Content type '%name%' deleted.</source>
-        <target state="needs-translation">Content type '%name%' deleted.</target>
+        <target state="translated">Inhaltstyp '%name%' gelöscht.</target>
         <note>key: content_type.delete.success</note>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="2f9cb676bb073af7a8e4b52b374384dfc0aa9551" resname="content_type.edit.error.already_exists">
         <source>Draft of content type '%name%' already exists and is locked by '%userContentName%'</source>
-        <target state="needs-translation">Draft of content type '%name%' already exists and is locked by '%userContentName%'</target>
+        <target state="translated">Ein Entwurf des Inhaltstyps '%name%' ist bereits vorhanden und wird durch '%userContentName%' gesperrt</target>
         <note>key: content_type.edit.error.already_exists</note>
       </trans-unit>
       <trans-unit id="bafafe330e90f8d93a41e93801984fed4c79512e" resname="content_type.edit.error.no_added_fields_definition">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="7d932447afce16fb0c18072f7c953b933ed67425" resname="content_type.publish_and_edit">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Speichern</target>
         <note>key: content_type.publish_and_edit</note>
       </trans-unit>
       <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
@@ -213,12 +213,12 @@
       </trans-unit>
       <trans-unit id="f75919a228809d6de255e3fd535c4eaaf8789241" resname="content_type.sort_field.6">
         <source>Content type identifier</source>
-        <target state="needs-translation">Content type identifier</target>
+        <target state="translated">Identifikator des Inhaltstyps</target>
         <note>key: content_type.sort_field.6</note>
       </trans-unit>
       <trans-unit id="f4bd88a45172f3cf7e268c40cfc27b0c5336bc9b" resname="content_type.sort_field.7">
         <source>Content type name</source>
-        <target state="needs-translation">Content type name</target>
+        <target state="translated">Name des Inhaltstyps</target>
         <note>key: content_type.sort_field.7</note>
       </trans-unit>
       <trans-unit id="d605ada5b53c58b7d08df3379cdc8c9ffc619a3f" resname="content_type.sort_field.8">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="48d3eb66c0f8928777189eab11eae254866852b2" resname="content_type.update.success">
         <source>Content type '%name%' updated.</source>
-        <target state="needs-translation">Content type '%name%' updated.</target>
+        <target state="translated">Inhaltstyp '%name%' aktualisiert.</target>
         <note>key: content_type.update.success</note>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="a7184ac693722bff0fedf65c45c914509af2b17f" resname="content_type.view.edit.add">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Hinzufügen</target>
         <note>key: content_type.view.edit.add</note>
       </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="74aead78c735bbbce032dc9b00f9ca7a3632f166" resname="content_type.view.edit.default_header">
         <source>New field type</source>
-        <target state="needs-translation">New field type</target>
+        <target state="translated">Neuer Feldtyp</target>
         <note>key: content_type.view.edit.default_header</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
@@ -333,17 +333,17 @@
       </trans-unit>
       <trans-unit id="36fb0205d165f72c996205435b5a06ba42695bb6" resname="content_type.view.edit.notranslatable_fields_disabled">
         <source>Some of the Fields are disabled when translating a content type. To modify them, edit the content type in the main language.</source>
-        <target state="needs-translation">Some of the Fields are disabled when translating a content type. To modify them, edit the content type in the main language.</target>
+        <target state="translated">Einige der Felder sind beim Übersetzen eines Inhaltstyps deaktiviert. Um sie zu ändern, bearbeiten Sie den Inhaltstyp in der Hauptsprache.</target>
         <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
       <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Erstellen</target>
         <note>key: content_type.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="da5f710198c48c803b3d0e2272e488903f92e569" resname="content_type.view.list.cannot_delete_notice">
         <source>You cannot delete the disabled content types, because Content items of those types exist.</source>
-        <target state="needs-translation">You cannot delete the disabled content types, because Content items of those types exist.</target>
+        <target state="translated">Sie können die deaktivierten Inhaltstypen nicht löschen, da Inhaltselemente dieser Typen existieren.</target>
         <note>key: content_type.view.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
@@ -373,7 +373,7 @@
       </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
         <source>Content types</source>
-        <target state="needs-translation">Content types</target>
+        <target state="translated">Inhaltstypen</target>
         <note>key: content_type_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
@@ -388,17 +388,17 @@
       </trans-unit>
       <trans-unit id="2bc6dff09cd526fde1a8e5688ed488ddc5a50356" resname="content_type_group.create.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Speichern</target>
         <note>key: content_type_group.create.save</note>
       </trans-unit>
       <trans-unit id="b04a9c80f0219d1a12813a8aa4bc532e97653b28" resname="content_type_group.create.submit">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Speichern und schließen</target>
         <note>key: content_type_group.create.submit</note>
       </trans-unit>
       <trans-unit id="00f7021226b49438a6e4b36cfd212b9553deb762" resname="content_type_group.create.success">
         <source>Created content type group '%name%'.</source>
-        <target state="needs-translation">Created content type group '%name%'.</target>
+        <target state="translated">Inhaltstyp-Gruppe '%name%' angelegt.</target>
         <note>key: content_type_group.create.success</note>
       </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
@@ -408,17 +408,17 @@
       </trans-unit>
       <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success">
         <source>Deleted content type group '%name%'.</source>
-        <target state="needs-translation">Deleted content type group '%name%'.</target>
+        <target state="translated">Inhaltstyp-Gruppe '%name%' gelöscht.</target>
         <note>key: content_type_group.delete.success</note>
       </trans-unit>
       <trans-unit id="f9cf70fcb6c6aef73a8a39eb0a9cd4e71c11b5ba" resname="content_type_group.edit.action_name">
         <source>Editing content type group</source>
-        <target state="needs-translation">Editing content type group</target>
+        <target state="translated">Inhaltstyp-Gruppe bearbeiten</target>
         <note>key: content_type_group.edit.action_name</note>
       </trans-unit>
       <trans-unit id="cd6124f27c9a5743763f9a49cfc160d34723d713" resname="content_type_group.new.action_name">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Erstellen</target>
         <note>key: content_type_group.new.action_name</note>
       </trans-unit>
       <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
@@ -428,17 +428,17 @@
       </trans-unit>
       <trans-unit id="87d2becd0dc155bbfe9382c8b48a4bb9f6456959" resname="content_type_group.update.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Speichern</target>
         <note>key: content_type_group.update.save</note>
       </trans-unit>
       <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Speichern und schließen</target>
         <note>key: content_type_group.update.submit</note>
       </trans-unit>
       <trans-unit id="ff50d4b8d26d81f538b0ebabc392cbb05b6da162" resname="content_type_group.update.success">
         <source>Updated content type group '%name%'.</source>
-        <target state="needs-translation">Updated content type group '%name%'.</target>
+        <target state="translated">Aktualisierte Inhaltstyp-Gruppe '%name%'.</target>
         <note>key: content_type_group.update.success</note>
       </trans-unit>
       <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
@@ -453,12 +453,12 @@
       </trans-unit>
       <trans-unit id="5aa9caad73d044de86886dd25688b5d1267c1f6b" resname="content_type_group.view.list.cannot_delete_notice">
         <source>You cannot delete the disabled content type groups, because they contain content types.</source>
-        <target state="needs-translation">You cannot delete the disabled content type groups, because they contain content types.</target>
+        <target state="translated">Sie können die deaktivierten Inhaltstyp-Gruppen nicht löschen, da sie Inhaltstypen enthalten.</target>
         <note>key: content_type_group.view.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="125bee275441fe2bd28cb9388b790c634d8ae3c6" resname="content_type_group.view.list.column.content_types_count">
         <source>Number of content types</source>
-        <target state="needs-translation">Number of content types</target>
+        <target state="translated">Anzahl der Inhaltstypen</target>
         <note>key: content_type_group.view.list.column.content_types_count</note>
       </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
@@ -473,12 +473,12 @@
       </trans-unit>
       <trans-unit id="9522e89ad894375dcf878ae282bdd793946fc375" resname="content_type_group.view.list.title">
         <source>Content type groups</source>
-        <target state="needs-translation">Content type groups</target>
+        <target state="translated">Inhaltstyp-Gruppen</target>
         <note>key: content_type_group.view.list.title</note>
       </trans-unit>
       <trans-unit id="b857ebe01d0a852bd8e10d599e75004fb961f1d5" resname="content_type_group.view.new.title">
         <source>New content type group</source>
-        <target state="needs-translation">New content type group</target>
+        <target state="translated">Neue Inhaltstyp-Gruppe</target>
         <note>key: content_type_group.view.new.title</note>
       </trans-unit>
       <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
@@ -488,17 +488,17 @@
       </trans-unit>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
         <source>Creating</source>
-        <target state="needs-translation">Creating</target>
+        <target state="translated">Erstellen</target>
         <note>key: creating</note>
       </trans-unit>
       <trans-unit id="3e8769270428f8e66f5880d772f45e09d2c88aa0" resname="creating.title">
         <source>New content type</source>
-        <target state="needs-translation">New content type</target>
+        <target state="translated">Neuer Inhaltstyp</target>
         <note>key: creating.title</note>
       </trans-unit>
       <trans-unit id="6b7aac07f7af9bb4762fd3a87ff0a9df02921f7a" resname="editing_content_type">
         <source>Editing content type</source>
-        <target state="needs-translation">Editing content type</target>
+        <target state="translated">Inhaltstyp bearbeiten</target>
         <note>key: editing_content_type</note>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="8959be663eef40d92147918da792f8677772ea0c" resname="field_definition.ezimage.image_types">
         <source>Image types</source>
-        <target state="needs-translation">Image types</target>
+        <target state="translated">Bildtypen</target>
         <note>key: field_definition.ezimage.image_types</note>
       </trans-unit>
       <trans-unit id="5e8015fbf9269d3ee1bbb99b09005cf6b165ab53" resname="field_definition.ezimage.is_alternative_text_required">
@@ -688,17 +688,17 @@
       </trans-unit>
       <trans-unit id="5c87db6ede75b694bb886f8f5d2a8e7ded178984" resname="field_definition.ezobjectrelation.change_root_udw_button">
         <source>Change path</source>
-        <target state="needs-translation">Change path</target>
+        <target state="translated">Pfad ändern</target>
         <note>key: field_definition.ezobjectrelation.change_root_udw_button</note>
       </trans-unit>
       <trans-unit id="f053b9ad361ba885b30445ed11ddfe4b27aab906" resname="field_definition.ezobjectrelation.root_default_location">
         <source>Root Default Location</source>
-        <target state="needs-translation">Root Default Location</target>
+        <target state="translated">Standard Wurzel-Ort</target>
         <note>key: field_definition.ezobjectrelation.root_default_location</note>
       </trans-unit>
       <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
         <source>Allowed content types</source>
-        <target state="needs-translation">Allowed content types</target>
+        <target state="translated">Erlaubte Inhaltstypen</target>
         <note>key: field_definition.ezobjectrelation.selection_content_types</note>
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root">
@@ -708,7 +708,7 @@
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
         <source>Select path</source>
-        <target state="needs-translation">Select path</target>
+        <target state="translated">Pfad auswählen</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_button</note>
       </trans-unit>
       <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
@@ -718,17 +718,17 @@
       </trans-unit>
       <trans-unit id="51c6fd07886f716a7b5c07bdbb4b8dc9b71501cd" resname="field_definition.ezobjectrelationlist.change_root_udw_button">
         <source>Change path</source>
-        <target state="needs-translation">Change path</target>
+        <target state="translated">Pfad ändern</target>
         <note>key: field_definition.ezobjectrelationlist.change_root_udw_button</note>
       </trans-unit>
       <trans-unit id="f1875b4118b34bfd5679af65821e72af204755ed" resname="field_definition.ezobjectrelationlist.root_default_location">
         <source>Root Default Location</source>
-        <target state="needs-translation">Root Default Location</target>
+        <target state="translated">Standard Wurzel-Ort</target>
         <note>key: field_definition.ezobjectrelationlist.root_default_location</note>
       </trans-unit>
       <trans-unit id="7e061dc7c88fe38c11714695d4034f935788efb3" resname="field_definition.ezobjectrelationlist.selection_content_types">
         <source>Allowed content types</source>
-        <target state="needs-translation">Allowed content types</target>
+        <target state="translated">Erlaubte Inhaltstypen</target>
         <note>key: field_definition.ezobjectrelationlist.selection_content_types</note>
       </trans-unit>
       <trans-unit id="b08d97ea9175eef7352c7e9c5c8ee0516798bdfa" resname="field_definition.ezobjectrelationlist.selection_default_location">
@@ -743,7 +743,7 @@
       </trans-unit>
       <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
         <source>Select path</source>
-        <target state="needs-translation">Select path</target>
+        <target state="translated">Pfad auswählen</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_button</note>
       </trans-unit>
       <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
@@ -853,12 +853,12 @@
       </trans-unit>
       <trans-unit id="fdcfd21005fcd975636d979b1be61e28bb88d875" resname="field_definition.ezuser.require_not_compromised_password">
         <source>Password must not be contained in a public breach.</source>
-        <target state="needs-translation">Password must not be contained in a public breach.</target>
+        <target state="translated">Das Passwort darf nicht in einem öffentlichen Verstoß enthalten sein.</target>
         <note>key: field_definition.ezuser.require_not_compromised_password</note>
       </trans-unit>
       <trans-unit id="73a71072b428bec8a32c4ca1cf4813314b2a783d" resname="field_definition.ezuser.require_not_compromised_password_help">
         <source>This uses the API at %link% to securely check breach data. The password is not transmitted to the API.</source>
-        <target state="needs-translation">This uses the API at %link% to securely check breach data. The password is not transmitted to the API.</target>
+        <target state="translated">Dabei wird die API unter %link% verwendet, um die Daten der Sicherheitsverletzung sicher zu überprüfen. Das Passwort wird nicht an die API übermittelt.</target>
         <note>key: field_definition.ezuser.require_not_compromised_password_help</note>
       </trans-unit>
       <trans-unit id="100096c9b93ce532e7bf2f184d8e3f43374ae921" resname="field_definition.ezuser.require_unique_email">
@@ -923,7 +923,7 @@
       </trans-unit>
       <trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
         <source>Enable %type% for this content type</source>
-        <target state="needs-translation">Enable %type% for this content type</target>
+        <target state="translated">%type% für diesen Inhaltstyp aktivieren</target>
         <note>key: meta.enabled</note>
       </trans-unit>
       <trans-unit id="fd1286353570c5703799ba76999323b7c7447b06" resname="no">

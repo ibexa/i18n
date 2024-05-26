@@ -8,97 +8,97 @@
     <body>
       <trans-unit id="a31bc2d766bef988d3d4e2e0892c79b64d2aadd9" resname="anchor_btn.error.unique">
         <source>Anchor name must be unique.</source>
-        <target state="needs-translation">Anchor name must be unique.</target>
+        <target state="translated">Ankername muss eindeutig sein.</target>
         <note>key: anchor_btn.error.unique</note>
       </trans-unit>
       <trans-unit id="88d893050d5eea476d9559abba8b7cdda519154a" resname="anchor_btn.error.valid">
         <source>A valid anchor link is needed.</source>
-        <target state="needs-translation">A valid anchor link is needed.</target>
+        <target state="translated">Ein gültiger Ankerlink wird benötigt.</target>
         <note>key: anchor_btn.error.valid</note>
       </trans-unit>
       <trans-unit id="2fec67b71cd77563c4e494477e691ba9661d95fe" resname="anchor_btn.label">
         <source>Anchor</source>
-        <target state="needs-translation">Anchor</target>
+        <target state="translated">Anker</target>
         <note>key: anchor_btn.label</note>
       </trans-unit>
       <trans-unit id="18521c98ecdb47eba2ceee2926516d53f89b0e34" resname="block_alignment.center">
         <source>Center</source>
-        <target state="needs-translation">Center</target>
+        <target state="translated">Zentriert</target>
         <note>key: block_alignment.center</note>
       </trans-unit>
       <trans-unit id="8a9146b3a0aec35567929ab9e793312af26ce89b" resname="block_alignment.left">
         <source>Left</source>
-        <target state="needs-translation">Left</target>
+        <target state="translated">Linksbündig</target>
         <note>key: block_alignment.left</note>
       </trans-unit>
       <trans-unit id="a371a27c4cfc05d751e69ac9c478c336e5bc9826" resname="block_alignment.right">
         <source>Right</source>
-        <target state="needs-translation">Right</target>
+        <target state="translated">Rechtsbündig</target>
         <note>key: block_alignment.right</note>
       </trans-unit>
       <trans-unit id="250e037cfe2d6e349e2da22428ac75e7559f1d66" resname="custom_attributes_btn.label">
         <source>Custom attributes</source>
-        <target state="needs-translation">Custom attributes</target>
+        <target state="translated">Benutzerdefinierte Attribute</target>
         <note>key: custom_attributes_btn.label</note>
       </trans-unit>
       <trans-unit id="fb7fb71848f42499261b9e92b40f0254e730ddd4" resname="custom_styles_btn.label">
         <source>Custom styles</source>
-        <target state="needs-translation">Custom styles</target>
+        <target state="translated">Benutzerdefiniertes Stile</target>
         <note>key: custom_styles_btn.label</note>
       </trans-unit>
       <trans-unit id="3b257be2c6dd1f7bf0d5c70e64c22bf5b298dbbf" resname="elements_path.list.label">
         <source>list</source>
-        <target state="needs-translation">list</target>
+        <target state="translated">Liste</target>
         <note>key: elements_path.list.label</note>
       </trans-unit>
       <trans-unit id="5761446626d26974269cd5f7fb428e268928932b" resname="embed_btn.label">
         <source>Embed</source>
-        <target state="needs-translation">Embed</target>
+        <target state="translated">Einbetten</target>
         <note>key: embed_btn.label</note>
       </trans-unit>
       <trans-unit id="b4f97f21f1ca738b786232732212d980e2509dfa" resname="embed_inline_btn.label">
         <source>Embed inline</source>
-        <target state="needs-translation">Embed inline</target>
+        <target state="translated">Inline einbetten</target>
         <note>key: embed_inline_btn.label</note>
       </trans-unit>
       <trans-unit id="60187109a21e0437d6b91e9762fd1c69a79062be" resname="formatted_btn.label">
         <source>Formatted</source>
-        <target state="needs-translation">Formatted</target>
+        <target state="translated">Formatiert</target>
         <note>key: formatted_btn.label</note>
       </trans-unit>
       <trans-unit id="13cd849924dc9b21defaf1d6905241a4eb74e71a" resname="image_btn.label">
         <source>Image</source>
-        <target state="needs-translation">Image</target>
+        <target state="translated">Bild</target>
         <note>key: image_btn.label</note>
       </trans-unit>
       <trans-unit id="111f9659ed2bb03c3009baafc54a24b0a8cab5c4" resname="link_btn.label">
         <source>Link</source>
-        <target state="needs-translation">Link</target>
+        <target state="translated">Link</target>
         <note>key: link_btn.label</note>
       </trans-unit>
       <trans-unit id="082d2d34dd20fe267d5693d3f6a2c8be105c490c" resname="move_down_btn.title">
         <source>Move down</source>
-        <target state="needs-translation">Move down</target>
+        <target state="translated">Nach unten verschieben</target>
         <note>key: move_down_btn.title</note>
       </trans-unit>
       <trans-unit id="c2a6d468674bfb33d708531dc64ac512a8e9c87a" resname="move_up_btn.title">
         <source>Move up</source>
-        <target state="needs-translation">Move up</target>
+        <target state="translated">Nach oben verschieben</target>
         <note>key: move_up_btn.title</note>
       </trans-unit>
       <trans-unit id="8088c7f764bb2c276aa5a773d894de2860e9e0b4" resname="remove_block.title">
         <source>Remove</source>
-        <target state="needs-translation">Remove</target>
+        <target state="translated">Entfernen</target>
         <note>key: remove_block.title</note>
       </trans-unit>
       <trans-unit id="e66c892cf81b07c5edd1419a197054defd635b77" resname="upload_image.message.error">
         <source>Error while creating Image: %error%</source>
-        <target state="needs-translation">Error while creating Image: %error%</target>
+        <target state="translated">Fehler beim Erstellen des Bildes: %error%</target>
         <note>key: upload_image.message.error</note>
       </trans-unit>
       <trans-unit id="f01b358112531d97f1bcae5684c28ed1edbd4946" resname="upload_image_btn.label">
         <source>Upload image</source>
-        <target state="needs-translation">Upload image</target>
+        <target state="translated">Bild hochladen</target>
         <note>key: upload_image_btn.label</note>
       </trans-unit>
     </body>

@@ -13,17 +13,17 @@
       </trans-unit>
       <trans-unit id="f5aef330799a7345c75e72279e06eb9f5b7d0da9" resname="ezmatrix.remove">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Entfernen</target>
         <note>key: ezmatrix.remove</note>
       </trans-unit>
       <trans-unit id="8422049ef51bbcd967ea5578aee3ed094edd252c" resname="field.column.add_new">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Hinzufügen</target>
         <note>key: field.column.add_new</note>
       </trans-unit>
       <trans-unit id="ba5b5f28d4530d7374b45639acfe2b7ed6277497" resname="field.column.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>key: field.column.delete</note>
       </trans-unit>
       <trans-unit id="fa41ae6cab6d74c6548f4052c02c0c5129a27f1d" resname="field.column.identifier">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="34311ae1b06f664d26af7e6472d8e44eed4c7048" resname="field.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: field.column.name</note>
       </trans-unit>
       <trans-unit id="4c6c52e859ac63f2403af879ec879b00dfdbef19" resname="field.columns">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="9fba35041bf8d815e178fa77540c6e1fec6e322f" resname="fieldtype.column.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: fieldtype.column.name</note>
       </trans-unit>
     </body>
