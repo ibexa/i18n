@@ -24,7 +24,7 @@ If you want to help us translate Ibexa Open Source, feel free to contribute on t
 
 ## COPYRIGHT
 
-Copyright (C) 1999-2021 Ibexa AS (formerly eZ Systems AS). All rights reserved.
+Copyright (C) 1999-2024 Ibexa AS (formerly eZ Systems AS). All rights reserved.
 
 ## LICENSE
 
