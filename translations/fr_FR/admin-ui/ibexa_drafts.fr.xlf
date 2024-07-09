@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="b62c11ec52c71a7923851340a98932ed8ac8704b" resname="drafts.list.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Type de contenu</target>
         <note>key: drafts.list.content_type</note>
       </trans-unit>
       <trans-unit id="1b21c0ebc62c6a9d0c320a08a9ca807231fab739" resname="drafts.list.empty">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="8c65a0cd673fa4c18f7e730f672579ed65debd3c" resname="drafts.list.modified_language">
         <source>Modified language</source>
-        <target state="needs-translation">Modified language</target>
+        <target state="translated">Langue modifiée</target>
         <note>key: drafts.list.modified_language</note>
       </trans-unit>
       <trans-unit id="575dff6addd6d92ef7e8699d89b21cba7915ad7c" resname="drafts.list.name">
