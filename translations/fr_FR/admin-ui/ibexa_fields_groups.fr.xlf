@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="5780daf6db0b013dbf82807c9f85abba683b0820" resname="about">
         <source>About</source>
-        <target state="needs-translation">About</target>
+        <target state="new">À propos</target>
         <note>key: about</note>
       </trans-unit>
       <trans-unit id="1a73af9e7ae00182733b2292511b814be66f065f" resname="contact">
         <source>Contact</source>
-        <target state="needs-translation">Contact</target>
+        <target state="new">Contact</target>
         <note>key: contact</note>
       </trans-unit>
     </body>
