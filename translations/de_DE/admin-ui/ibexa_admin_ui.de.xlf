@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,102 +8,102 @@
     <body>
       <trans-unit id="aba90860c7115fd786796930267c78c815b93f25" resname="asset.upload.invalid_csrf">
         <source>Missing or invalid CSRF token</source>
-        <target state="translated">Fehlendes oder ungültiges CSRF-token</target>
+        <target state="new">Fehlender oder ungültiger CSRF-Token.</target>
         <note>key: asset.upload.invalid_csrf</note>
       </trans-unit>
       <trans-unit id="9717da29459125f3b5220f29faebb149dfcb3f35" resname="details.alert.complete_profile">
         <source>Complete your profile.</source>
-        <target state="translated">Vervollständigen Sie Ihr Profil.</target>
+        <target state="new">Vervollständigen Sie Ihr Profil.</target>
         <note>key: details.alert.complete_profile</note>
       </trans-unit>
       <trans-unit id="68a1a5ea4fa56098f5eae44460514a09ea8f8509" resname="distraction_free_mode.disable.label">
         <source>Exit distraction free mode</source>
-        <target state="translated">Ablenkungsfreien Modus beenden</target>
+        <target state="new">Ablenkungsfreien Modus beenden.</target>
         <note>key: distraction_free_mode.disable.label</note>
       </trans-unit>
       <trans-unit id="3b73a0132e7934156fcf413f3af229612d8eca9c" resname="distraction_free_mode.disable.tooltip">
         <source>Exit distraction free mode.</source>
-        <target state="translated">Ablenkungsfreien Modus beenden.</target>
+        <target state="new">Ablenkungsfreien Modus beenden.</target>
         <note>key: distraction_free_mode.disable.tooltip</note>
       </trans-unit>
       <trans-unit id="d4de5a4ec1a58e845b16ca57b75b6b7585b2c5af" resname="distraction_free_mode.disable_hint">
         <source>To exit distraction free mode, click the %icon% or press Esc.</source>
-        <target state="translated">Um den ablenkungsfreien Modus zu verlassen, klicken Sie auf das %icon% oder drücken Esc.</target>
+        <target state="new">Klicken Sie auf %icon% oder drücken Sie Esc, um den ablenkungsfreien Modus zu beenden.</target>
         <note>key: distraction_free_mode.disable_hint</note>
       </trans-unit>
       <trans-unit id="2b32ded42b66d42abbe117ec91d128e2c85bd20d" resname="distraction_free_mode.enable.label">
         <source>Distraction free mode</source>
-        <target state="translated">Ablenkungsfreier Modus</target>
+        <target state="new">Ablenkungsfreier Modus</target>
         <note>key: distraction_free_mode.enable.label</note>
       </trans-unit>
       <trans-unit id="8145d8a19ad7bb79048f2a1391153c8f45b2d14f" resname="distraction_free_mode.enable.tooltip">
         <source>Enter distraction free mode. It shows only rich text editor toolbar and focuses your attention on editing text.</source>
-        <target state="translated">Gehen Sie in den ablenkungsfreien Modus. Er zeigt nur die Symbolleiste des Rich-Text-Editors an und lenkt Ihre Aufmerksamkeit auf die Textbearbeitung.</target>
+        <target state="new">Ablenkungsfreien Modus aktivieren. Angezeigt wird dabei nur die Symbolleiste für den Rich-Text-Editor. Sie können sich ganz auf die Textbearbeitung konzentrieren.</target>
         <note>key: distraction_free_mode.enable.tooltip</note>
       </trans-unit>
       <trans-unit id="d899cb1dbb25a42ea34f296bf7bef9821df66b72" resname="edit_translation.edit.title">
         <source>Edit</source>
-        <target state="translated">Bearbeiten</target>
+        <target state="new">Bearbeiten</target>
         <note>key: edit_translation.edit.title</note>
       </trans-unit>
       <trans-unit id="8ecff4fc7797b03440a0430a65abf71a62d0ffc9" resname="edit_translation.list.title">
         <source>Select language</source>
-        <target state="translated">Sprache auswählen</target>
+        <target state="new">Sprache auswählen</target>
         <note>key: edit_translation.list.title</note>
       </trans-unit>
       <trans-unit id="e4b8188e898e654dae14fc6b18133958f8e56084" resname="translation.remove.success">
         <source>Removed '%languageCode%' translation from '%name%'.</source>
-        <target state="translated">Die Übersetzung von '%languageCode%' wurde aus '%name%' entfernt.</target>
+        <target state="new">Übersetzung von „%languageCode%“ wurde aus „%name%“ entfernt.</target>
         <note>key: translation.remove.success</note>
       </trans-unit>
       <trans-unit id="73736cfd7959543f99b6edba300bc4d7c9c5683a" resname="user.focus_mode.off">
         <source>Focus mode</source>
-        <target state="translated">Fokusmodus</target>
+        <target state="new">Fokus-Modus</target>
         <note>key: user.focus_mode.off</note>
       </trans-unit>
       <trans-unit id="8606b9e2c215d136dccfdb4b64cd5bfaa5a904cc" resname="user.focus_mode.on">
         <source>Focus mode</source>
-        <target state="translated">Fokusmodus</target>
+        <target state="new">Fokus-Modus</target>
         <note>key: user.focus_mode.on</note>
       </trans-unit>
       <trans-unit id="d88f09dfa6b5a01de87c36fb97c09902cebcb3cc" resname="user_profile.action.edit">
         <source>Edit</source>
-        <target state="translated">Bearbeiten</target>
+        <target state="new">Bearbeiten</target>
         <note>key: user_profile.action.edit</note>
       </trans-unit>
       <trans-unit id="e3ac3ec941d44047ec290142bd7b8f82c6c8c12b" resname="user_profile.page.title">
         <source>User profile</source>
-        <target state="translated">Benutzerprofil</target>
+        <target state="new">Benutzerprofil</target>
         <note>key: user_profile.page.title</note>
       </trans-unit>
       <trans-unit id="0f5838e96bc64daa4815d5ffc1acdfab0e9b1af5" resname="user_profile.roles.header">
         <source>Roles</source>
-        <target state="translated">Rollen</target>
+        <target state="new">Rollen</target>
         <note>key: user_profile.roles.header</note>
       </trans-unit>
       <trans-unit id="aa94b4cc1cf42bcbfceb6172acff13c06239dc4d" resname="user_profile.summary.email.label">
         <source>Email</source>
-        <target state="translated">E-Mail</target>
+        <target state="new">E-Mail-Adresse</target>
         <note>key: user_profile.summary.email.label</note>
       </trans-unit>
       <trans-unit id="3ee13773bc4319ba7dc1edb313ed506419c3d611" resname="user_profile.summary.full_name.label">
         <source>Full name</source>
-        <target state="translated">Vollständiger Name</target>
+        <target state="new">Vollständiger Name</target>
         <note>key: user_profile.summary.full_name.label</note>
       </trans-unit>
       <trans-unit id="80c8ddeaa953a747d78aea56eb7911c665af0794" resname="user_profile.summary.title">
         <source>Summary</source>
-        <target state="translated">Zusammenfassung</target>
+        <target state="new">Zusammenfassung</target>
         <note>key: user_profile.summary.title</note>
       </trans-unit>
       <trans-unit id="cb6cbdd3a7414390e8e541915d88eb98c38a6a5d" resname="user_profile.view.title">
         <source>User profile</source>
-        <target state="translated">Benutzerprofil</target>
+        <target state="new">Benutzerprofil</target>
         <note>key: user_profile.view.title</note>
       </trans-unit>
       <trans-unit id="885ec7aab950e05f729031321cddbb6d7f9c3246" resname="version.delete.success">
         <source>Removed version(s) from '%name%'.</source>
-        <target state="translated">Version(en) aus '%name%' entfernt.</target>
+        <target state="new">Version(en) wurde(n) aus „%name%“ entfernt.</target>
         <note>key: version.delete.success</note>
       </trans-unit>
     </body>

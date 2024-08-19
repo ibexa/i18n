@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="8b23f97eb81bd9e3e5b47f858e2922e526a9c1cb" resname="close_btn.aria_label">
         <source>Close</source>
-        <target state="translated">Schließen</target>
+        <target state="new">Schließen</target>
         <note>key: close_btn.aria_label</note>
       </trans-unit>
       <trans-unit id="16af4f3a9799e5f803be1d7d9ca493e74bd2db40" resname="close_btn.title">
         <source>Close</source>
-        <target state="translated">Schließen</target>
+        <target state="new">Schließen</target>
         <note>key: close_btn.title</note>
       </trans-unit>
     </body>
