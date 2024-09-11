@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="30ebdcd0b49a220b9e85513aefe6a32223f654a9" resname="role.policy.cart">
         <source>Cart</source>
-        <target state="needs-translation">Cart</target>
+        <target state="translated">Warenkorb</target>
         <note>key: role.policy.cart</note>
       </trans-unit>
       <trans-unit id="b1f1f7be06ef147d8341c73826b3d1d4287a5768" resname="role.policy.cart.all_functions">
         <source>Cart / All functions</source>
-        <target state="needs-translation">Cart / All functions</target>
+        <target state="translated">Url / Alle Funktionen</target>
         <note>key: role.policy.cart.all_functions</note>
       </trans-unit>
       <trans-unit id="7657c6424e32d5b678147afb09c6376eba9bbdb2" resname="role.policy.cart.create">
         <source>Cart / Create</source>
-        <target state="needs-translation">Cart / Create</target>
+        <target state="translated">Warenkorb / Erstellen</target>
         <note>key: role.policy.cart.create</note>
       </trans-unit>
       <trans-unit id="f0cc423af9445423bdea96a3d3ac9d26c6f21ca3" resname="role.policy.cart.delete">
         <source>Cart / Delete</source>
-        <target state="needs-translation">Cart / Delete</target>
+        <target state="translated">Warenkorb / Löschen</target>
         <note>key: role.policy.cart.delete</note>
       </trans-unit>
       <trans-unit id="f8035d30e965222a22e1189cb5b0f1ef0682f70b" resname="role.policy.cart.edit">
         <source>Cart / Edit</source>
-        <target state="needs-translation">Cart / Edit</target>
+        <target state="translated">Warenkorb / Bearbeiten</target>
         <note>key: role.policy.cart.edit</note>
       </trans-unit>
       <trans-unit id="48177c92c5985050a4bac9a54de504e7e448b487" resname="role.policy.cart.view">
         <source>Cart / View</source>
-        <target state="needs-translation">Cart / View</target>
+        <target state="translated">Url / Ansicht</target>
         <note>key: role.policy.cart.view</note>
       </trans-unit>
     </body>
