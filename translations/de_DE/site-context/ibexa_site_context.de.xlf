@@ -8,67 +8,67 @@
     <body>
       <trans-unit id="0224bbc48522e8bf2474730a78b4b58fafd1b896" resname="change_sa.dropdown.selected_item.label">
         <source>Site: %sa_name%</source>
-        <target state="needs-translation">Site: %sa_name%</target>
+        <target state="translated">Seite: %sa_name%</target>
         <note>key: change_sa.dropdown.selected_item.label</note>
       </trans-unit>
       <trans-unit id="9f653a73cc476aba5c79fc69b6fb191814ccd93c" resname="full_preview.additional_actions.exit">
         <source>Exit full view</source>
-        <target state="needs-translation">Exit full view</target>
+        <target state="translated">Vollansicht verlassen</target>
         <note>key: full_preview.additional_actions.exit</note>
       </trans-unit>
       <trans-unit id="2d5ac3f6b3d9d57c849a8640e529594cf3372994" resname="full_preview.additional_actions.full_view">
         <source>Full view</source>
-        <target state="needs-translation">Full view</target>
+        <target state="translated">Vollansicht</target>
         <note>key: full_preview.additional_actions.full_view</note>
       </trans-unit>
       <trans-unit id="2ff4fcff8545b6bbedbf982fc14cbee93790eb71" resname="ibexa.site_context.preview.no_available.helper">
         <source>You can’t get the preview for this language because it is not added to this site.</source>
-        <target state="needs-translation">You can’t get the preview for this language because it is not added to this site.</target>
+        <target state="translated">Vorschau in der gewählten Sprache nicht verfügbar.</target>
         <note>key: ibexa.site_context.preview.no_available.helper</note>
       </trans-unit>
       <trans-unit id="3178c996a08cfe145df75ebef612944cfc8ed0aa" resname="ibexa.site_context.preview.no_available.main">
         <source>Preview is not available</source>
-        <target state="needs-translation">Preview is not available</target>
+        <target state="translated">Vorschau nicht verfügbar</target>
         <note>key: ibexa.site_context.preview.no_available.main</note>
       </trans-unit>
       <trans-unit id="bc905a91df55d75c058edd1437b6588a5b1d1a4f" resname="ibexa.site_context.settings.location_preview.description">
         <source>Location preview</source>
-        <target state="needs-translation">Location preview</target>
+        <target state="translated">Location Vorschau</target>
         <note>key: ibexa.site_context.settings.location_preview.description</note>
       </trans-unit>
       <trans-unit id="dfcc966c813b0af82dc15e539c8c24565c21280f" resname="ibexa.site_context.settings.location_preview.name">
         <source>Location preview</source>
-        <target state="needs-translation">Location preview</target>
+        <target state="translated">Location Vorschau</target>
         <note>key: ibexa.site_context.settings.location_preview.name</note>
       </trans-unit>
       <trans-unit id="57de00051f4a2a6a127e112674742d6a9857fc36" resname="ibexa.site_context.settings.location_preview.value.disabled">
         <source>Disabled</source>
-        <target state="needs-translation">Disabled</target>
+        <target state="translated">Deaktiviert</target>
         <note>key: ibexa.site_context.settings.location_preview.value.disabled</note>
       </trans-unit>
       <trans-unit id="aad8e146ee240fc4c63b864f63531d27c6317e67" resname="ibexa.site_context.settings.location_preview.value.enabled">
         <source>Enabled</source>
-        <target state="needs-translation">Enabled</target>
+        <target state="translated">Aktiviert</target>
         <note>key: ibexa.site_context.settings.location_preview.value.enabled</note>
       </trans-unit>
       <trans-unit id="587861c7ae5da5c81b5fb3768fe1dd69d22028da" resname="site_context.dropdown.label">
         <source>Sites</source>
-        <target state="needs-translation">Sites</target>
+        <target state="translated">Seiten</target>
         <note>key: site_context.dropdown.label</note>
       </trans-unit>
       <trans-unit id="70b1eb5ca8f987649698ba183deb9a3e2aa9ce3b" resname="site_context.dropdown.placeholder">
         <source>All context</source>
-        <target state="needs-translation">All context</target>
+        <target state="translated">Alle Kontexte</target>
         <note>key: site_context.dropdown.placeholder</note>
       </trans-unit>
       <trans-unit id="595250fee755995472e97fef1d405731bc6293ff" resname="site_context.dropdown.placeholder.description">
         <source>Shows all content you have access to. Some preview options are limited.</source>
-        <target state="needs-translation">Shows all content you have access to. Some preview options are limited.</target>
+        <target state="translated">Alle Inhalte ansehen, auf die ich Zugriff habe. Einige Vorschauoptionen sind eingeschränkt.</target>
         <note>key: site_context.dropdown.placeholder.description</note>
       </trans-unit>
       <trans-unit id="0ea999ae07d7f0b23cc3b6c734a8e9e7bdbdf1d5" resname="tab.preview.name">
         <source>View</source>
-        <target state="needs-translation">View</target>
+        <target state="translated">Ansicht</target>
         <note>key: tab.preview.name</note>
       </trans-unit>
     </body>
