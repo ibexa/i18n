@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="ab11f2b9d0e7690c24fb45ae253d0f1394f9079a" resname="actions.assign_content.udw_title">
         <source>Select Content to assign</source>
-        <target state="needs-translation">Select Content to assign</target>
+        <target state="translated">Zuzuweisenden Inhalt auswählen</target>
         <note>key: actions.assign_content.udw_title</note>
       </trans-unit>
       <trans-unit id="f3902e2cf1dc7593d56db51492f2c93763e17550" resname="add_location.title">
         <source>Select Location</source>
-        <target state="needs-translation">Select Location</target>
+        <target state="translated">Location auswählen</target>
         <note>key: add_location.title</note>
       </trans-unit>
     </body>
