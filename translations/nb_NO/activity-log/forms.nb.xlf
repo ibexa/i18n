@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="40212c5c72ccbf8ca63b8e16b12e8bada8909da3" resname="role.policy.activity_log">
         <source>Activity Log</source>
-        <target state="needs-translation">Activity Log</target>
+        <target state="translated">Aktivitetslogg</target>
         <note>key: role.policy.activity_log</note>
       </trans-unit>
       <trans-unit id="a680c7d461f182220accc433d5d13c35306fdecf" resname="role.policy.activity_log.all_functions">
         <source>Activity Log / All Functions</source>
-        <target state="needs-translation">Activity Log / All Functions</target>
+        <target state="translated">Aktivitetslogg / alle funksjoner</target>
         <note>key: role.policy.activity_log.all_functions</note>
       </trans-unit>
       <trans-unit id="2585966ec7eef76a4171881af56608df38cf9869" resname="role.policy.activity_log.read">
         <source>Activity Log / Read</source>
-        <target state="needs-translation">Activity Log / Read</target>
+        <target state="translated">Aktivitetslogg / Les</target>
         <note>key: role.policy.activity_log.read</note>
       </trans-unit>
     </body>
