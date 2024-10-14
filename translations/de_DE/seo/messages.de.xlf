@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="628b60a3b1a9cfba9f5e834b5b63d453cc0f785a" resname="Unable to render SEO tag for type '%typeName%' and field '%fieldName%'">
         <source>Unable to render SEO tag for type '%typeName%' and field '%fieldName%'</source>
-        <target state="needs-translation">Unable to render SEO tag for type '%typeName%' and field '%fieldName%'</target>
+        <target state="translated">SEO Tag kann nicht gerendert werden für '%typeName%' und '%fieldName%'</target>
         <note>key: Unable to render SEO tag for type '%typeName%' and field '%fieldName%'</note>
       </trans-unit>
     </body>

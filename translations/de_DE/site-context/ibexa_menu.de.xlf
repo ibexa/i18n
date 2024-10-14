@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="5d74956777ef0b159fa712d86ebb0c0fe2177e30" resname="fullscreen_content__sidebar_right__create">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">Inhalt erstellen</target>
         <note>key: fullscreen_content__sidebar_right__create</note>
       </trans-unit>
       <trans-unit id="d53f6dd5b19cf42f665f05286a08519e45ec37fb" resname="fullscreen_content__sidebar_right__edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Bearbeiten</target>
         <note>key: fullscreen_content__sidebar_right__edit</note>
       </trans-unit>
     </body>
