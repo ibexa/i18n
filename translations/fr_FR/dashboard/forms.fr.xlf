@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="b71b9907038c72f6da5ea69b76a4cd560c538123" resname="dashboard.customize">
         <source>Customize dashboard</source>
-        <target state="needs-translation">Customize dashboard</target>
+        <target state="translated">Personnaliser le tableau de bord</target>
         <note>key: dashboard.customize</note>
       </trans-unit>
       <trans-unit id="b885ee0d12f9783bac92a192ba6a4b3144febc31" resname="role.policy.dashboard">
         <source>Dashboard</source>
-        <target state="needs-translation">Dashboard</target>
+        <target state="translated">Tableau de bord</target>
         <note>key: role.policy.dashboard</note>
       </trans-unit>
       <trans-unit id="c97bad76317955a44cfc5e4b38cc1f5dcc3edcd8" resname="role.policy.dashboard.all_functions">
         <source>Dashboard / All functions</source>
-        <target state="needs-translation">Dashboard / All functions</target>
+        <target state="translated">Tableau de bord / Toutes les fonctions</target>
         <note>key: role.policy.dashboard.all_functions</note>
       </trans-unit>
       <trans-unit id="7066f41ec7eda72d59dc64f963cf80e2c00df2a7" resname="role.policy.dashboard.customize">
         <source>Dashboard / Customize</source>
-        <target state="needs-translation">Dashboard / Customize</target>
+        <target state="translated">Tableau de bord / Personnaliser</target>
         <note>key: role.policy.dashboard.customize</note>
       </trans-unit>
     </body>
