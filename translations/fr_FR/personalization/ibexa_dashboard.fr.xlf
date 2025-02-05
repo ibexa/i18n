@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="b66f736c979029c79cfdd36ce27f4e0974109369" resname="blocks._all_.no_permissions.body">
         <source>You don't have permissions to view this block</source>
-        <target state="needs-translation">You don't have permissions to view this block</target>
+        <target state="translated">Vous n'avez pas les permissions pour voir ce bloc</target>
         <note>key: blocks._all_.no_permissions.body</note>
       </trans-unit>
     </body>
