@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="858851f92b4dd3aea653760ee7d639b974abf134" resname="dashboard__infobar__edit__actions__cancel">
         <source>Delete draft</source>
-        <target state="needs-translation">Delete draft</target>
+        <target state="translated">Supprimer le brouillon</target>
         <note>key: dashboard__infobar__edit__actions__cancel</note>
       </trans-unit>
       <trans-unit id="7507374ae7b3aea56bc21bbaaffd8fc0c4a9ad19" resname="dashboard__infobar__edit__actions__publish">
         <source>Publish</source>
-        <target state="needs-translation">Publish</target>
+        <target state="translated">Publier</target>
         <note>key: dashboard__infobar__edit__actions__publish</note>
       </trans-unit>
       <trans-unit id="465f205f028354e8407672f49f4b9b747d86e955" resname="dashboard__infobar__edit__actions__save_draft">
         <source>Save draft</source>
-        <target state="needs-translation">Save draft</target>
+        <target state="translated">Enregistrer le brouillon</target>
         <note>key: dashboard__infobar__edit__actions__save_draft</note>
       </trans-unit>
       <trans-unit id="5ea0346904ae67d52174405f7453eed55912d3dc" resname="main__admin__dashboard">
         <source>Dashboards</source>
-        <target state="needs-translation">Dashboards</target>
+        <target state="translated">Tableaux de bord</target>
         <note>key: main__admin__dashboard</note>
       </trans-unit>
       <trans-unit id="f4b4f39ebadf7585b4c9f64cbb322622ed7a883f" resname="main__admin__dashboard_content_type">
         <source>Dashboard content type</source>
-        <target state="needs-translation">Dashboard content type</target>
+        <target state="translated">Type de contenu du tableau de bord</target>
         <note>key: main__admin__dashboard_content_type</note>
       </trans-unit>
       <trans-unit id="3533a8aedbcc80e5ddb1fe2291f87ecd8c8ef4a1" resname="main__customizable_dashboard">
         <source>Dashboard</source>
-        <target state="needs-translation">Dashboard</target>
+        <target state="translated">Tableau de bord</target>
         <note>key: main__customizable_dashboard</note>
       </trans-unit>
     </body>
