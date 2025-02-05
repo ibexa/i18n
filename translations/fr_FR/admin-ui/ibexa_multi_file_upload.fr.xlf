@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="03b8fddcf897c997afa956d17e595ceed173463d" resname="cannot_get_content_type_identifier.message">
         <source>Cannot get content type by identifier</source>
-        <target state="needs-translation">Cannot get content type by identifier</target>
+        <target state="translated">Impossible d'obtenir le type de contenu par identifiant</target>
         <note>key: cannot_get_content_type_identifier.message</note>
       </trans-unit>
       <trans-unit id="235e57ee5665f61ea5873be5e2f6cd15b05a51c0" resname="cannot_upload.message">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="4d6c4f42038f6ef1049e6f2243e57fdc2605ead2" resname="disallowed_type.message">
         <source>File type is not allowed</source>
-        <target state="translated">Type de fichier non autorisée</target>
+        <target state="translated">Type de fichier non autorisé</target>
         <note>key: disallowed_type.message</note>
       </trans-unit>
       <trans-unit id="694f61c4eb35d09307bcf40e14159061c6ba1f35" resname="drop_action.message">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="0cd9663c2a0626f9d1556efe30c151196af02e8e" resname="max_file_size.message">
         <source>Max file size:</source>
-        <target state="translated">Taille de fichier maximale:</target>
+        <target state="translated">Taille de fichier maximale :</target>
         <note>key: max_file_size.message</note>
       </trans-unit>
       <trans-unit id="412c9936722fbbcd34664fdbfe33880fad7ef998" resname="multi_file_upload_open_btn.label">
