@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="dddc97c66d483ea17123c23accf45f2dcb0ac930" resname="taxonomy.tag.content.modal.title">
         <source>Select %name%</source>
-        <target state="needs-translation">Select %name%</target>
+        <target state="translated">Sélectionner %name%</target>
         <note>key: taxonomy.tag.content.modal.title</note>
       </trans-unit>
     </body>

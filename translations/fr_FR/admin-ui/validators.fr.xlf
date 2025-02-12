@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="facbff93edf91393ba1bb60212f504d35beae555" resname="ez.content_type.descriptions">
         <source>Content type description cannot be longer than 255 characters.</source>
-        <target state="needs-translation">Content type description cannot be longer than 255 characters.</target>
+        <target state="translated">Les descriptions de type de contenu ne peuvent dépasser 255 caractères.</target>
         <note>key: ez.content_type.descriptions</note>
       </trans-unit>
       <trans-unit id="73aad2fb9c8f9a2103bf60d6e9221a619f261f9c" resname="ez.content_type.identifier.pattern">
         <source>Content type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="needs-translation">Content type identifier may only contain letters from "a" to "z", numbers and underscores.</target>
+        <target state="translated">L'identifiant du type de contenu ne peut contenir que des lettres de "a" à "z", des chiffres et des tirets bas.</target>
         <note>key: ez.content_type.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="e03cdf7df4e43a891269e0bbe734e7bab5cc61eb" resname="ez.content_type.identifier.unique">
         <source>The content type identifier "%identifier%" is used by another content type. Enter a unique identifier.</source>
-        <target state="needs-translation">The content type identifier "%identifier%" is used by another content type. Enter a unique identifier.</target>
+        <target state="translated">L'identifiant de type de contenu "%identifier%" est utilisé par un autre type de contenu. Entrez un identifiant unique.</target>
         <note>key: ez.content_type.identifier.unique</note>
       </trans-unit>
       <trans-unit id="7ecfa6bd2c1993d18d067f3abe3acebeb9c2458c" resname="ez.content_type.names">
         <source>Content type name cannot be blank and cannot be longer than 255 characters.</source>
-        <target state="needs-translation">Content type name cannot be blank and cannot be longer than 255 characters.</target>
+        <target state="translated">Les noms de type de contenu ne peuvent pas être vide ni dépasser 255 caractères.</target>
         <note>key: ez.content_type.names</note>
       </trans-unit>
       <trans-unit id="95f7490a739fd599a8d1d8f2ddec862744a71faa" resname="ez.field_definition.descriptions">
@@ -93,12 +93,12 @@
       </trans-unit>
       <trans-unit id="5c26acfa4532917d4763c44d5b7ec8dd180b98a4" resname="js.error.invalid_file_size">
         <source>{fieldName}: Cannot upload. File exceeds file size limit.</source>
-        <target state="translated">{fieldName}: impossible de télécharger. La limite de taille de fichier a été dépassée.</target>
+        <target state="translated">{fieldName} : impossible de télécharger. La limite de taille de fichier a été dépassée.</target>
         <note>key: js.error.invalid_file_size</note>
       </trans-unit>
       <trans-unit id="e34fdb2fe0c2a86056b2e9084b9226c921044df6" resname="js.error.invalid_file_type">
         <source>{fieldName}: Cannot upload. File has wrong type.</source>
-        <target state="needs-translation">{fieldName}: Cannot upload. File has wrong type.</target>
+        <target state="translated">{fieldName} : impossible de télécharger. Le type de fichier est incorrect.</target>
         <note>key: js.error.invalid_file_type</note>
       </trans-unit>
       <trans-unit id="21c38818d1cb73ff54f0dc0b184d6de25058f24d" resname="js.error.invalid_url">

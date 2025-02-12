@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0c103b4bcaaca67202176e8f5be544eb4c307e8e" resname="content.autosave.turn_off.message">
         <source>You can turn autosave off in your user settings</source>
-        <target state="needs-translation">You can turn autosave off in your user settings</target>
+        <target state="translated">Vous pouvez désactiver la sauvegarde automatique dans vos paramètres utilisateur</target>
         <note>key: content.autosave.turn_off.message</note>
       </trans-unit>
       <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success">
@@ -58,27 +58,27 @@
       </trans-unit>
       <trans-unit id="6048a32d88dbcdd5a62e232ed092a8efd11ed375" resname="content_edit.autosave.status_error.message">
         <source>Saving error</source>
-        <target state="needs-translation">Saving error</target>
+        <target state="translated">Erreur lors de l'enregistrement</target>
         <note>key: content_edit.autosave.status_error.message</note>
       </trans-unit>
       <trans-unit id="d364f97b275523fe571da0da612fdbc4a1064550" resname="content_edit.autosave.status_off.message">
         <source>Autosave is off, draft not created</source>
-        <target state="needs-translation">Autosave is off, draft not created</target>
+        <target state="translated">Enregistrement automatique désactivé, brouillon non créé</target>
         <note>key: content_edit.autosave.status_off.message</note>
       </trans-unit>
       <trans-unit id="93f0a5980aa14af989f4106ffda244ba02db1c32" resname="content_edit.autosave.status_on.message">
         <source>Autosave is on, draft created</source>
-        <target state="needs-translation">Autosave is on, draft created</target>
+        <target state="translated">Enregistrement automatique activé, brouillon créé</target>
         <note>key: content_edit.autosave.status_on.message</note>
       </trans-unit>
       <trans-unit id="123a6cff0d98d08927f6666246d451da50941a7b" resname="content_edit.autosave.status_saved.message.full">
         <source>Autosave is on, draft saved %time%</source>
-        <target state="needs-translation">Autosave is on, draft saved %time%</target>
+        <target state="translated">La sauvegarde automatique est activée, le brouillon a été sauvegardé à %time% </target>
         <note>key: content_edit.autosave.status_saved.message.full</note>
       </trans-unit>
       <trans-unit id="da43c85269df161b340e92296642e18ec6af033e" resname="content_edit.autosave.status_saving.message">
         <source>Saving</source>
-        <target state="needs-translation">Saving</target>
+        <target state="translated">Enregistrement</target>
         <note>key: content_edit.autosave.status_saving.message</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="f7854a70e37ed1a89ba0b4aa7937c586661ef300" resname="embedded_items.action.edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Modifier</target>
         <note>key: embedded_items.action.edit</note>
       </trans-unit>
       <trans-unit id="e5d738fc801ca98510d61b14a959bb08268953a0" resname="embedded_items.action.go_to_label">
         <source>Go to content</source>
-        <target state="needs-translation">Go to content</target>
+        <target state="translated">Aller au contenu</target>
         <note>key: embedded_items.action.go_to_label</note>
       </trans-unit>
       <trans-unit id="f6ae7078e77f584ad00c8003405ca11dc57c4d56" resname="preview_header.back">
