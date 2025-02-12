@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="05bad24df7e1efd6680f0c20d79080430605bf48" resname="user.setting.focus_mode.description">
         <source>Focus mode</source>
-        <target state="translated">Mode Focus</target>
+        <target state="translated">Focus Mode</target>
         <note>key: user.setting.focus_mode.description</note>
       </trans-unit>
       <trans-unit id="cffd55da53aff9b2efc64a42454deb1984c0264c" resname="user.setting.focus_mode.help">
@@ -100,7 +100,7 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="translated"><![CDATA[<p><strong>Mode Focus</strong> – Une interface propre et intuitive avec une structure de contenu
+        <target state="translated"><![CDATA[<p><strong>Focus Mode</strong> – Une interface propre et intuitive avec une structure de contenu
                         simplifiée, conçu pour les nouveaux utilisateurs et non avancés. Les fonctionnalités incluent :</p>
                         <ul>
                             <li>Afficher un aperçu du site dans le contexte</li>
@@ -112,12 +112,12 @@
       </trans-unit>
       <trans-unit id="3f9f3faa4259dc9c627396c82133e9f615e388a8" resname="user.setting.focus_mode.label">
         <source>Enable focus mode</source>
-        <target state="translated">Activer le mode focus</target>
+        <target state="translated">Activer le Focus Mode</target>
         <note>key: user.setting.focus_mode.label</note>
       </trans-unit>
       <trans-unit id="585f7f7c62212ea3de792ae339db9e838f27d77a" resname="user.setting.focus_mode.name">
         <source>Focus mode</source>
-        <target state="translated">Mode Focus</target>
+        <target state="translated">Focus Mode</target>
         <note>key: user.setting.focus_mode.name</note>
       </trans-unit>
       <trans-unit id="ff6e958aad946d4fed9a52212626b24394e70764" resname="user.setting.focus_mode.off">

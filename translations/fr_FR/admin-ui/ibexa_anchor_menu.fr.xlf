@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="4b260ae7c4bff42c0b4813dbb4e92de939f52717" resname="anchor_menu.more">
         <source>More</source>
-        <target state="needs-translation">More</target>
+        <target state="translated">Plus</target>
         <note>key: anchor_menu.more</note>
       </trans-unit>
     </body>

@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="4b260ae7c4bff42c0b4813dbb4e92de939f52717" resname="anchor_menu.more">
         <source>More</source>
-        <target state="needs-translation">More</target>
+        <target state="translated">Plus</target>
         <note>key: anchor_menu.more</note>
       </trans-unit>
       <trans-unit id="2d40f74124be77d408be57368842ef5e7bd64d98" resname="tab.label.design">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="0ad75dc33a5b3be79b83f39593dcf98f8ecc0807" resname="tab.label.properties">
         <source>Properties</source>
-        <target state="needs-translation">Properties</target>
+        <target state="translated">Propriétés</target>
         <note>key: tab.label.properties</note>
       </trans-unit>
       <trans-unit id="cdea1f34eff224ab9592f83235d861466aaec351" resname="tab.label.scheduler">

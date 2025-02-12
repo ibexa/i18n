@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
         <source>Data and analytics</source>
-        <target state="needs-translation">Data and analytics</target>
+        <target state="translated">Données et analyses</target>
         <note>key: dashboard.title</note>
       </trans-unit>
       <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="ca28b20d3fb0258a224cff53a0c367de985ba706" resname="ibexa_personalization.scenario.trash.modal.message.new_scenario">
         <source>Are you sure you want to delete new scenario?</source>
-        <target state="translated">Êtes-vous sûr de vouloir supprimer ce nouveau scénario?</target>
+        <target state="translated">Êtes-vous sûr de vouloir supprimer ce nouveau scénario ?</target>
         <note>key: ibexa_personalization.scenario.trash.modal.message.new_scenario</note>
       </trans-unit>
       <trans-unit id="48697d3cdd15ff4c2556b2234191d02514e1ed1d" resname="list.more_items">

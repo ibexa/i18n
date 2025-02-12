@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="df17c526bb1674b64ac8a4cd4eda1af9e0c5e7e5" resname="ezobjectrelation.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Type de contenu</target>
         <note>key: ezobjectrelation.content_type</note>
       </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Type de contenu</target>
         <note>key: ezobjectrelationlist.content_type</note>
       </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
