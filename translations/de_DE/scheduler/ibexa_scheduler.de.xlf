@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="abc38732fdbe14754853444c67f4ab5fb2cc30bb" resname="content.hidden">
         <source>Content hidden</source>
-        <target state="translated">Inhalt versteckt</target>
+        <target state="translated">Inhalt ausgeblendet</target>
         <note>key: content.hidden</note>
       </trans-unit>
       <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
         <source>Content published</source>
-        <target state="translated">content.veröffentlicht</target>
+        <target state="translated">Inhalt veröffentlicht</target>
         <note>key: content.published</note>
       </trans-unit>
       <trans-unit id="2457c173119f72384e0f665687acf67de93c5692" resname="content.reveal.modal.cancel">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="0c574b4551238bd5a900969428aa0fd0b768d808" resname="content.reveal.modal.confirm">
         <source>Cancel scheduled hiding</source>
-        <target state="translated">Geplantes Verstecken abbrechen</target>
+        <target state="translated">Geplante Ausblendung abbrechen</target>
         <note>key: content.reveal.modal.confirm</note>
       </trans-unit>
       <trans-unit id="2e824bec2898456ad726ce7631e8d14155ca26ce" resname="content.reveal.modal.warning_cancel_schedule">
         <source>Are you sure you want to cancel the scheduled hiding of the selected content?</source>
-        <target state="translated">Sind Sie sicher, dass Sie das geplante Verstecken des ausgewählten Inhalts abbrechen möchten?</target>
+        <target state="translated">Sind Sie sicher, dass Sie die geplante Ausblendung des ausgewählten Inhalts abbrechen möchten?</target>
         <note>key: content.reveal.modal.warning_cancel_schedule</note>
       </trans-unit>
       <trans-unit id="d3271090e4c7db6a79d168181876891a6577fa19" resname="content.scheduled.canceled">
@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="5e7a797868799d1e71a81ec0fb653c9e4f1637ac" resname="content.scheduled.hidden">
         <source>Hidden scheduled content</source>
-        <target state="translated">Versteckte geplante Inhalte</target>
+        <target state="translated">Ausgeblendeter geplanter Inhalt</target>
         <note>key: content.scheduled.hidden</note>
       </trans-unit>
       <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published">
         <source>Published scheduled content</source>
-        <target state="translated">Veröffentlichte geplante Inhalte</target>
+        <target state="translated">Veröffentlichter geplanter Inhalt</target>
         <note>key: content.scheduled.published</note>
       </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="f88139c0f922b2779c403149c9fd1febc793d5ea" resname="content.scheduled_hide.message">
         <source>This Content item will be hidden and won't be publicly available after %date%</source>
-        <target state="translated">Dieses Inhaltselement wird ausgeblendet und ist nach %date% nicht öffentlich verfügbar</target>
+        <target state="translated">Dieses Inhaltselement wird ausgeblendet und ist nach dem %date% nicht mehr öffentlich zugänglich</target>
         <note>key: content.scheduled_hide.message</note>
       </trans-unit>
       <trans-unit id="d72a29b32751f629c33f6223c5b6477308a0ebb4" resname="content.trashed">
@@ -88,22 +88,22 @@
       </trans-unit>
       <trans-unit id="766305a9ded97d44227e96e99aef04b945611f3d" resname="dashboard.all_scheduled.table.header">
         <source>All scheduled content</source>
-        <target state="needs-translation">All scheduled content</target>
+        <target state="translated">Alle geplanten Inhalte</target>
         <note>key: dashboard.all_scheduled.table.header</note>
       </trans-unit>
       <trans-unit id="99471ef43c3242ea8fd0b9ca711057222ae75211" resname="dashboard.all_scheduled.table.reschedule_btn.title">
         <source>Reschedule</source>
-        <target state="translated">Umplanen</target>
+        <target state="translated">Verlegen</target>
         <note>key: dashboard.all_scheduled.table.reschedule_btn.title</note>
       </trans-unit>
       <trans-unit id="7531a457372982be80f3ce9107d12317c1396adf" resname="dashboard.all_scheduled.table.reschedule_modal.table.title">
         <source>Selected content</source>
-        <target state="needs-translation">Selected content</target>
+        <target state="translated">Ausgewählter Inhalt</target>
         <note>key: dashboard.all_scheduled.table.reschedule_modal.table.title</note>
       </trans-unit>
       <trans-unit id="8d67102e475c92edbe5d6c6f1251378b69bc11a7" resname="dashboard.all_scheduled.table.reschedule_modal.title">
         <source>Reschedule</source>
-        <target state="translated">Umplanen</target>
+        <target state="translated">Verlegen</target>
         <note>key: dashboard.all_scheduled.table.reschedule_modal.title</note>
       </trans-unit>
       <trans-unit id="90b6566e9e064210d7072731d3b547fdc404272e" resname="dashboard.all_scheduled.table.unschedule_btn.title">
@@ -113,27 +113,27 @@
       </trans-unit>
       <trans-unit id="14caec281139f6f85ee0a11e9f1d4c943f1c90c7" resname="dashboard.all_scheduled.table.unschedule_modal.table.title">
         <source>Selected content</source>
-        <target state="needs-translation">Selected content</target>
+        <target state="translated">Ausgewählter Inhalt</target>
         <note>key: dashboard.all_scheduled.table.unschedule_modal.table.title</note>
       </trans-unit>
       <trans-unit id="bd5ba47d79b309c21e2e0a9e45c5b91788e48b9d" resname="dashboard.my_scheduled.table.header">
         <source>My scheduled content</source>
-        <target state="needs-translation">My scheduled content</target>
+        <target state="translated">Mein geplanter Inhalt</target>
         <note>key: dashboard.my_scheduled.table.header</note>
       </trans-unit>
       <trans-unit id="9f28d5df61744a2b6fda968bfe2b9601bc0ce725" resname="dashboard.my_scheduled.table.reschedule_btn.title">
         <source>Reschedule</source>
-        <target state="translated">Umplanen</target>
+        <target state="translated">Verlegen</target>
         <note>key: dashboard.my_scheduled.table.reschedule_btn.title</note>
       </trans-unit>
       <trans-unit id="787bf2f0a20872417ef32178ea8fe87dc02a72ba" resname="dashboard.my_scheduled.table.reschedule_modal.table.title">
         <source>Selected content</source>
-        <target state="needs-translation">Selected content</target>
+        <target state="translated">Ausgewählter Inhalt</target>
         <note>key: dashboard.my_scheduled.table.reschedule_modal.table.title</note>
       </trans-unit>
       <trans-unit id="dfed4b967679a183d932fb02ed8137ad40289b19" resname="dashboard.my_scheduled.table.reschedule_modal.title">
         <source>Reschedule</source>
-        <target state="translated">Umplanen</target>
+        <target state="translated">Verlegen</target>
         <note>key: dashboard.my_scheduled.table.reschedule_modal.title</note>
       </trans-unit>
       <trans-unit id="f56062bfb2d8aaa551b52b1d65dbbe8a5380f3ab" resname="dashboard.my_scheduled.table.unschedule_btn.title">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="8c9131405eba01a991e683892e29ffd4c235214c" resname="dashboard.my_scheduled.table.unschedule_modal.table.title">
         <source>Selected content</source>
-        <target state="needs-translation">Selected content</target>
+        <target state="translated">Ausgewählter Inhalt</target>
         <note>key: dashboard.my_scheduled.table.unschedule_modal.table.title</note>
       </trans-unit>
       <trans-unit id="9b09b4b8d96e4b4ca308efe64aa87fe6bd3e5398" resname="dashboard.my_scheduled.table.unschedule_modal.title">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="376d5063e9ae1c8d520f8cf514d736970ddbf0dc" resname="dashboard.scheduling.modal.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Inhaltstyp</target>
         <note>key: dashboard.scheduling.modal.content_type</note>
       </trans-unit>
       <trans-unit id="83603383d2345f88c862846db22f099a5b096d63" resname="dashboard.scheduling.modal.creation_date">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="227e74be2c6e69f933b5999846de05e03f1ca35e" resname="dashboard.scheduling.modal.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: dashboard.scheduling.modal.name</note>
       </trans-unit>
       <trans-unit id="be80300b4023889a3f2ae86c6842b022b69815b4" resname="dashboard.scheduling.modal.translations">
@@ -183,22 +183,22 @@
       </trans-unit>
       <trans-unit id="cd10b23cc3f7ece783cee7fef74579e6e65133d5" resname="dashboard.scheduling.modal.version">
         <source>Version</source>
-        <target state="translated">Ausführung</target>
+        <target state="translated">Version</target>
         <note>key: dashboard.scheduling.modal.version</note>
       </trans-unit>
       <trans-unit id="382ab608837ac7a3db830601fd7566b42f2e3fa1" resname="dashboard.tab.all_scheduled.empty">
         <source>There is no scheduled content yet.</source>
-        <target state="needs-translation">There is no scheduled content yet.</target>
+        <target state="translated">Es sind noch keine Inhalte geplant.</target>
         <note>key: dashboard.tab.all_scheduled.empty</note>
       </trans-unit>
       <trans-unit id="9264d8cfa846c33592bb9c75fc27d3746b79b069" resname="dashboard.tab.my_scheduled.empty">
         <source>There is no scheduled content yet.</source>
-        <target state="needs-translation">There is no scheduled content yet.</target>
+        <target state="translated">Es sind noch keine Inhalte geplant.</target>
         <note>key: dashboard.tab.my_scheduled.empty</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Inhaltstyp</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
@@ -223,17 +223,17 @@
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: dashboard.table.name</note>
       </trans-unit>
       <trans-unit id="d6004e8b261029b934ea4253dd02a83c23288cd4" resname="date_based_publisher.discard.publish_later">
         <source>Canceled scheduled publication.</source>
-        <target state="translated">Geplante Veröffentlichung abgebrochen.</target>
+        <target state="translated">Die geplante Veröffentlichung wurde abgebrochen.</target>
         <note>key: date_based_publisher.discard.publish_later</note>
       </trans-unit>
       <trans-unit id="7994323666a7722986c24f7f724e4862f9bbf9a6" resname="date_based_publisher.error.discard.publish_later">
         <source>Cannot cancel future publication: %reason%</source>
-        <target state="translated">Zukünftige Veröffentlichung kann nicht abgebrochen werden:% reason%</target>
+        <target state="translated">Künftige Veröffentlichungen können nicht abgebrochen werden: %reason%</target>
         <note>key: date_based_publisher.error.discard.publish_later</note>
       </trans-unit>
       <trans-unit id="f99f89ba09246220d9b545d89a5c6ba76ff7b977" resname="date_based_publisher.error.publish_later">
@@ -243,12 +243,12 @@
       </trans-unit>
       <trans-unit id="5e2950ca93ce5670c04559781714521d3c64e5ad" resname="date_based_publisher.success.publish_later">
         <source>Scheduled content for publication.</source>
-        <target state="translated">Geplanter Inhalt zur Veröffentlichung.</target>
+        <target state="translated">Inhalte wurden zur Veröffentlichung geplant.</target>
         <note>key: date_based_publisher.success.publish_later</note>
       </trans-unit>
       <trans-unit id="7d074c91468b3c1f9e6302ea0432306fef788e95" resname="discard_schedule_publish">
         <source>discard_schedule_publish</source>
-        <target state="needs-translation">discard_schedule_publish</target>
+        <target state="translated">discard_schedule_publish</target>
         <note>key: discard_schedule_publish</note>
       </trans-unit>
       <trans-unit id="dcb8f016db59563b21714e4ba0688f7650fc6995" resname="menu.date_based_publisher">
@@ -258,12 +258,12 @@
       </trans-unit>
       <trans-unit id="c9d2f1516b204c6e1a54e65850b843f5cc4d7650" resname="menu.date_based_publisher.discard">
         <source>Discard publish later</source>
-        <target state="translated">Spätere Veröffentlichung verwerfen</target>
+        <target state="translated">Später veröffentlichen verwerfen</target>
         <note>key: menu.date_based_publisher.discard</note>
       </trans-unit>
       <trans-unit id="26f482fde81774ad7fcaa8bc2626f6bf64eae9f7" resname="modal.scheduling.button.cancel.label">
         <source>Cancel</source>
-        <target state="translated">Stornieren</target>
+        <target state="translated">Abbrechen</target>
         <note>key: modal.scheduling.button.cancel.label</note>
       </trans-unit>
       <trans-unit id="c48bd427a263f448c5f9abe59519564ecc7eb434" resname="modal.scheduling.button.confirm.label">
@@ -293,42 +293,42 @@
       </trans-unit>
       <trans-unit id="556b388819e694acae15637989c32827c445faed" resname="publish_later.settings">
         <source>Future publication settings</source>
-        <target state="translated">Zukünftige Veröffentlichung Einstellungen</target>
+        <target state="translated">Einstellungen für künftige Veröffentlichungen</target>
         <note>key: publish_later.settings</note>
       </trans-unit>
       <trans-unit id="f48c4e472bd9e86a066060225f621949424f2b81" resname="reschedule.error.message">
         <source>An unexpected error occurred while rescheduling the selected draft(s). Please try again.</source>
-        <target state="needs-translation">An unexpected error occurred while rescheduling the selected draft(s). Please try again.</target>
+        <target state="translated">Bei der Verschiebung der ausgewählten Entwürfe ist ein unerwarteter Fehler aufgetreten. Bitte versuchen Sie es erneut.</target>
         <note>key: reschedule.error.message</note>
       </trans-unit>
       <trans-unit id="3e7c7f7ed781f0f39037d2b9e624196918bfd739" resname="reschedule.fail.message">
         <source>%failedCount% out of %totalCount% selected drafts could not be rescheduled. Please try again.</source>
-        <target state="needs-translation">%failedCount% out of %totalCount% selected drafts could not be rescheduled. Please try again.</target>
+        <target state="translated">%failedCount% von %totalCount% ausgewählten Entwürfen konnten nicht verschoben werden. Bitte versuchen Sie es erneut.</target>
         <note>key: reschedule.fail.message</note>
       </trans-unit>
       <trans-unit id="cad872e276597b29864f43d081afa4be3aee742e" resname="reschedule.success.message">
         <source>Rescheduled all drafts.</source>
-        <target state="needs-translation">Rescheduled all drafts.</target>
+        <target state="translated">Alle Entwürfe wurden verschoben.</target>
         <note>key: reschedule.success.message</note>
       </trans-unit>
       <trans-unit id="f359efb190eceeab2e49d2a646c91502426a987d" resname="schedule.content.cancel_schedule_hide.success">
         <source>Canceled scheduled hiding of Content item '%name%'.</source>
-        <target state="translated">Das geplante Ausblenden des Inhaltselements '% name%' wurde abgebrochen.</target>
+        <target state="translated">Die geplante Ausblendung des Inhaltselements „%name%“ wurde abgebrochen.</target>
         <note>key: schedule.content.cancel_schedule_hide.success</note>
       </trans-unit>
       <trans-unit id="b39b5bde75009f11b771793c4f0196a5822db732" resname="schedule.content.hide_hidden.error">
         <source>Cannot hide or schedule hiding the currently hidden content: '%name%'.</source>
-        <target state="translated">Der aktuell ausgeblendete Inhalt kann nicht ausgeblendet oder eingeblendet werden: '% name%'.</target>
+        <target state="translated">Der aktuell ausgeblendete Inhalt kann nicht ausgeblendet bzw. die Ausblendung kann nicht geplant werden: „%name%“.</target>
         <note>key: schedule.content.hide_hidden.error</note>
       </trans-unit>
       <trans-unit id="ac2dcf30629ea0f2974b4aeb8acefd4a15f1dd3c" resname="schedule.content.hide_now.success">
         <source>Content item '%name%' hidden.</source>
-        <target state="translated">Inhaltselement '% name%' ausgeblendet.</target>
+        <target state="translated">Das Inhaltselement „%name%“ ist ausgeblendet.</target>
         <note>key: schedule.content.hide_now.success</note>
       </trans-unit>
       <trans-unit id="e27df1a3f6785eacb845a7cbc6d620a33dbc123e" resname="schedule.content.schedule_hide.success">
         <source>Scheduled Content item '%name%' to hide.</source>
-        <target state="translated">Geplantes Inhaltselement '% name%' zum Ausblenden.</target>
+        <target state="translated">Das Inhaltselement „%name%“ wurde zum Ausblenden eingeplant.</target>
         <note>key: schedule.content.schedule_hide.success</note>
       </trans-unit>
       <trans-unit id="f9c384926313f5ec7d6685f8a56b3f5c826eb1d8" resname="schedule_hide.date_and_time">
@@ -338,37 +338,37 @@
       </trans-unit>
       <trans-unit id="1c0613de0745baf0f3227f244656ef37218404cc" resname="schedule_hide.title">
         <source>Schedule hiding</source>
-        <target state="translated">Planen Sie das Verstecken</target>
+        <target state="translated">Ausblenden planen</target>
         <note>key: schedule_hide.title</note>
       </trans-unit>
       <trans-unit id="b618f3dd85270257ed32cca10210efa9f5faa9f5" resname="schedule_publish">
         <source>schedule_publish</source>
-        <target state="needs-translation">schedule_publish</target>
+        <target state="translated">schedule_publish</target>
         <note>key: schedule_publish</note>
       </trans-unit>
       <trans-unit id="e5a66fd1e539dbf81f810d2022a3d8ee67a7a17c" resname="tab.name.all_scheduled">
         <source>Scheduled</source>
-        <target state="needs-translation">Scheduled</target>
+        <target state="translated">Geplant</target>
         <note>key: tab.name.all_scheduled</note>
       </trans-unit>
       <trans-unit id="20a2c0c41c7091973e1490a65b2268e1f7794eda" resname="tab.name.my_scheduled">
         <source>Scheduled</source>
-        <target state="needs-translation">Scheduled</target>
+        <target state="translated">Geplant</target>
         <note>key: tab.name.my_scheduled</note>
       </trans-unit>
       <trans-unit id="efe280f52ff7d384892d51a05ca8fe577ab73d78" resname="unschedule.error.message">
         <source>An error occurred while removing the selected publication dates. Please try again.</source>
-        <target state="needs-translation">An error occurred while removing the selected publication dates. Please try again.</target>
+        <target state="translated">Beim Entfernen der ausgewählten Veröffentlichungsdaten ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.</target>
         <note>key: unschedule.error.message</note>
       </trans-unit>
       <trans-unit id="505c2e16d2d41c2b03c225ee8fa809135f20f30e" resname="unschedule.fail.message">
         <source>%failedCount% out of %totalCount% selected publication dates could not be removed. Please try again.</source>
-        <target state="needs-translation">%failedCount% out of %totalCount% selected publication dates could not be removed. Please try again.</target>
+        <target state="translated">%failedCount% von %totalCount% ausgewählten Veröffentlichungsdaten konnte nicht entfernt werden. Bitte versuchen Sie es erneut.</target>
         <note>key: unschedule.fail.message</note>
       </trans-unit>
       <trans-unit id="fb26c08c460347ee25626a016ff11a9accbe08a6" resname="unschedule.success.message">
         <source>Removed all selected publication dates.</source>
-        <target state="needs-translation">Removed all selected publication dates.</target>
+        <target state="translated">Alle ausgewählten Veröffentlichungsdaten wurden entfernt.</target>
         <note>key: unschedule.success.message</note>
       </trans-unit>
       <trans-unit id="49e01918c7a89ab888e3fea20cf0a9f7953b4908" resname="version.deleted">

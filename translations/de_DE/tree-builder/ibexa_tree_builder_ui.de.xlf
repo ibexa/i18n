@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="a1125450055f79e2d96dcdda9faa1072d74124f2" resname="actions.collapse_all">
         <source>Collapse all</source>
-        <target state="translated">Alles zusammenbrechen</target>
+        <target state="translated">Alle einklappen</target>
         <note>key: actions.collapse_all</note>
       </trans-unit>
       <trans-unit id="86114ef28488e072f5328f84470b17ea4cd68e1d" resname="actions.copy">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="00fe7ffd5db35a8d23c9ec48e9c21f3ceff5ee45" resname="actions.delete">
         <source>Delete</source>
-        <target state="translated">Entfernen</target>
+        <target state="translated">Löschen</target>
         <note>key: actions.delete</note>
       </trans-unit>
       <trans-unit id="b23db0c5218f2b4a0835d677393004842532e537" resname="actions.move">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="fd746d4e8626abec02dafa780e685f2cb60f516b" resname="actions.select.all">
         <source>Select all children</source>
-        <target state="translated">Alle Unterelemente auswählen</target>
+        <target state="translated">Alle untergeordneten Elemente auswählen</target>
         <note>key: actions.select.all</note>
       </trans-unit>
       <trans-unit id="747080e221c79e7162993fd7559500a7c09b7c3c" resname="actions.select.all.elements">
@@ -38,27 +38,27 @@
       </trans-unit>
       <trans-unit id="3ef52cc98fdb1f3fd5cf1cc11d7779ec448b3719" resname="actions.unselect.all">
         <source>Unselect all children</source>
-        <target state="translated">Alle Unterelemente abwählen</target>
+        <target state="translated">Auswahl aller untergeordneten Elemente aufheben</target>
         <note>key: actions.unselect.all</note>
       </trans-unit>
       <trans-unit id="13ee22ebd2ad55d68a38a2c6f43d8186d4d49b3c" resname="actions.unselect.all.elements">
         <source>Unselect all elements</source>
-        <target state="translated">Alle Elemente abwählen</target>
+        <target state="translated">Auswahl aller Elemente aufheben</target>
         <note>key: actions.unselect.all.elements</note>
       </trans-unit>
       <trans-unit id="55878307150e4143679e4cbdd4f733c569ba64fc" resname="checkbox.limit.message">
         <source>You cannot select more than %selectedLimit% items.</source>
-        <target state="translated">Sie dürfen nicht mehr als %selectedLimit% auswählen.</target>
+        <target state="translated">Sie können nicht mehr als %selectedLimit% Elemente auswählen.</target>
         <note>key: checkbox.limit.message</note>
       </trans-unit>
       <trans-unit id="0cba8ae8f7a758a11886b6be4e7ce7e570063f8f" resname="expand_item.limit.message">
         <source>Cannot load sub-items for this Location because you reached max tree depth.</source>
-        <target state="translated">Es können keine Unterelemente mehr nachgeladen werden, da Sie die maximale Baumtiefe erreicht haben.</target>
+        <target state="translated">Es können keine Unterpunkte für diesen Standort geladen werden, da die maximale Baumtiefe erreicht wurde.</target>
         <note>key: expand_item.limit.message</note>
       </trans-unit>
       <trans-unit id="9042dc6dc12016a1ffce82c61781eb8df00d3a66" resname="loading_more">
         <source>Loading more...</source>
-        <target state="translated">Mehr laden...</target>
+        <target state="translated">Mehr laden …</target>
         <note>key: loading_more</note>
       </trans-unit>
       <trans-unit id="57ddf7e57d58eb3f4a79c0893f869acfece3de09" resname="modal.delete.cancel">
@@ -73,17 +73,17 @@
       </trans-unit>
       <trans-unit id="2b096dbbbcadb6a316903dce656706b528229e21" resname="search.placeholder">
         <source>Search...</source>
-        <target state="translated">Suchen...</target>
+        <target state="translated">Suche …</target>
         <note>key: search.placeholder</note>
       </trans-unit>
       <trans-unit id="005f697feb980b390fa35dcf088bdfbc76d2783a" resname="see_more">
         <source>See more</source>
-        <target state="translated">Mehr ansehen</target>
+        <target state="translated">Mehr anzeigen</target>
         <note>key: see_more</note>
       </trans-unit>
       <trans-unit id="fa32f3cd5131d17d3c18b13089f0c93216a1e85c" resname="show_more.limit_reached">
         <source>Loading limit reached</source>
-        <target state="translated">Ladelimit erreicht</target>
+        <target state="translated">Ladegrenze erreicht</target>
         <note>key: show_more.limit_reached</note>
       </trans-unit>
     </body>

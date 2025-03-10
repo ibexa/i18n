@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="07c51cf854c53ebcc11d9261c7ca5b0772d7f7a4" resname="field_definition.ezmatrix.minimum_rows">
         <source>Minimum number of rows</source>
-        <target state="translated">Nombre minimal de lignes</target>
+        <target state="translated">Nombre minimum de lignes</target>
         <note>key: field_definition.ezmatrix.minimum_rows</note>
       </trans-unit>
       <trans-unit id="fc0bcd313cd08b3ce3b2380d4cc714c20047a5c0" resname="fieldtype.column.identifier">

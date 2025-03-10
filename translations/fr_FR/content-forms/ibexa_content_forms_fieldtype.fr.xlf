@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="f0176a5e197c6c207e09affb1a027db2ab48a506" resname="content.field_type.ezmedia.display_controls">
         <source>Display controls</source>
-        <target state="translated">Afficher les commandes</target>
+        <target state="translated">Commandes d’affichage</target>
         <note>key: content.field_type.ezmedia.display_controls</note>
       </trans-unit>
       <trans-unit id="eb3b924b6a2d94344ea5e1e51636ef5b92a7a57a" resname="content.field_type.ezmedia.height">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="e5940ee516f3edb1d09e7ac4eed4fe7a28d3cacd" resname="content.field_type.ezmedia.width">
         <source>Width</source>
-        <target state="translated">Largeur </target>
+        <target state="translated">Largeur</target>
         <note>key: content.field_type.ezmedia.width</note>
       </trans-unit>
       <trans-unit id="25850f96dbb0457a35063e29e92a26cbba2de07d" resname="content.field_type.ezurl.link">
@@ -103,17 +103,17 @@
       </trans-unit>
       <trans-unit id="d2fe533f4032896195d524038c3abeb2209adece" resname="content.field_type.ezuser.password_confirm">
         <source>Confirm password</source>
-        <target state="translated">Confirmez le mot de passe</target>
+        <target state="translated">Confirmer le mot de passe</target>
         <note>key: content.field_type.ezuser.password_confirm</note>
       </trans-unit>
       <trans-unit id="d1f5c5fcee7eb206e496dd5073b0f95427431a1c" resname="content.field_type.ezuser.username">
         <source>Username</source>
-        <target state="translated">Nom d'utilisateur</target>
+        <target state="translated">Nom d’utilisateur</target>
         <note>key: content.field_type.ezuser.username</note>
       </trans-unit>
       <trans-unit id="1d777459cd2f508bdb4676d48eaeee62e11d3009" resname="content_forms.relation.location_type">
         <source>Select Starting Location</source>
-        <target state="translated">Sélectionnez un emplacement de départ</target>
+        <target state="translated">Sélectionner l’emplacement de départ</target>
         <note>key: content_forms.relation.location_type</note>
       </trans-unit>
       <trans-unit id="76697f8a72ee770ea298bfc2dd8d5d8d3d6b1615" resname="content_forms.relation.location_type.browse">
@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="4214a6b70c34472d3b23c1c7936aa7254f5a0372" resname="content_forms.relation.location_type.default">
         <source>Default</source>
-        <target state="translated">Défaut</target>
+        <target state="translated">Par défaut</target>
         <note>key: content_forms.relation.location_type.default</note>
       </trans-unit>
       <trans-unit id="d0229bc36e84e27b95b3b41a8dd7fd29fe952f33" resname="content_forms.relation.location_type.self">
         <source>Content location</source>
-        <target state="translated">Emplacement</target>
+        <target state="translated">Emplacement de contenu</target>
         <note>key: content_forms.relation.location_type.self</note>
       </trans-unit>
     </body>

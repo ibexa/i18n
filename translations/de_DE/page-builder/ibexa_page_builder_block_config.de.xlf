@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="695268abcf13ba7cdaa94d5effd5b28448cbf32c" resname="block.schedule.no_items_scheduled">
         <source>No Content item(s) scheduled to display in the block</source>
-        <target state="translated">Es sind keine Inhaltselemente geplant, die im Block angezeigt werden sollen</target>
+        <target state="translated">Im Block sind keine Inhaltselemente für die Anzeige geplant</target>
         <note>key: block.schedule.no_items_scheduled</note>
       </trans-unit>
       <trans-unit id="09c5180f1ea143dcc29686f8b1e07a71d76be34c" resname="block.schedule.now_showing">
         <source>Now showing</source>
-        <target state="translated">Jetzt zeigen</target>
+        <target state="translated">Jetzt angezeigt</target>
         <note>key: block.schedule.now_showing</note>
       </trans-unit>
       <trans-unit id="e18cee9ec72c04e9a963ad6f46412cbb20326e6e" resname="block.schedule.queue">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="2aaa2a096cfd7ef52b21574b79756e9fd3efa263" resname="block.schedule.select_content.label">
         <source>Select Content item(s)</source>
-        <target state="translated">Wählen Sie Inhaltselemente aus.</target>
+        <target state="translated">Inhaltselement(e) auswählen</target>
         <note>key: block.schedule.select_content.label</note>
       </trans-unit>
       <trans-unit id="da113ef6997dd899852e9f2fde59a357d0f78631" resname="block.schedule.select_content.wrapper.label">
         <source>Content items</source>
-        <target state="needs-translation">Content items</target>
+        <target state="translated">Inhaltselemente</target>
         <note>key: block.schedule.select_content.wrapper.label</note>
       </trans-unit>
       <trans-unit id="ce63f0ad9dc60242493136bc6a34a24eb7e69de5" resname="change.airtime">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="24714070f91ffe1c9b511be2703efb8e2f00b907" resname="embed_preview.change">
         <source>Change</source>
-        <target state="needs-translation">Change</target>
+        <target state="translated">Ändern</target>
         <note>key: embed_preview.change</note>
       </trans-unit>
       <trans-unit id="8f471b1b27d61346fdea81d93fc467fe08637010" resname="page_builder.block_configuration.class">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="1b017f2717748a39edad826a06b7da4e7bc34b55" resname="page_builder.block_configuration.hide">
         <source>Hide</source>
-        <target state="translated">Verstecken</target>
+        <target state="translated">Ausblenden</target>
         <note>key: page_builder.block_configuration.hide</note>
       </trans-unit>
       <trans-unit id="f25907170d46ba21aa3ab7e5a401a1c38d340168" resname="page_builder.block_configuration.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Name</target>
         <note>key: page_builder.block_configuration.name</note>
       </trans-unit>
       <trans-unit id="39c1b98e28909afc6445800e0a0494709f3f6d91" resname="page_builder.block_configuration.reveal">
@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="f1269b6fc5483b2a1528e8b2f1938cc37ab537c2" resname="page_builder.block_configuration.style">
         <source>Style</source>
-        <target state="needs-translation">Style</target>
+        <target state="translated">Stil</target>
         <note>key: page_builder.block_configuration.style</note>
       </trans-unit>
       <trans-unit id="02ba70eaa60e10264ec65a0da1ac96d9b110759f" resname="page_builder.block_configuration.view">
         <source>View</source>
-        <target state="translated">Ansicht</target>
+        <target state="translated">Anzeigen</target>
         <note>key: page_builder.block_configuration.view</note>
       </trans-unit>
       <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="736317ee24b04dca3922094f41fcec739ad7b83a" resname="tab.scheduler.schedule_visibility">
         <source>Schedule block visibility</source>
-        <target state="needs-translation">Schedule block visibility</target>
+        <target state="translated">Sichtbarkeit des Blocks planen</target>
         <note>key: tab.scheduler.schedule_visibility</note>
       </trans-unit>
     </body>

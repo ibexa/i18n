@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="8e5b8c40a6aa73f8ede20d4ac743d6467de784fd" resname="Could not find Segment Group for '%identifier%'">
         <source>Could not find Segment Group for '%identifier%'</source>
-        <target state="translated">Impossible de trouver le Groupe de Segmentations correspondant à '%identifier%'</target>
+        <target state="translated">Impossible de trouver un groupe de segments pour « %identifier% »</target>
         <note>key: Could not find Segment Group for '%identifier%'</note>
       </trans-unit>
       <trans-unit id="cd4af8959bca9e07afe60d305e63e11958455c45" resname="Could not find Segment for '%identifier%'">
         <source>Could not find Segment for '%identifier%'</source>
-        <target state="translated">Impossible de trouver la Segmentation correspondant à '%identifier%'</target>
+        <target state="translated">Impossible de trouver un segment pour « %identifier% »</target>
         <note>key: Could not find Segment for '%identifier%'</note>
       </trans-unit>
     </body>

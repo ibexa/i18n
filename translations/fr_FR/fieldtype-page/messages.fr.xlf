@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2c2ed6384cc0f144856a569e8420e413c2d06986" resname="landing_page_ft.settings.edit_mode.field_view">
         <source>Field view</source>
-        <target state="translated">Vue des champs</target>
+        <target state="translated">Vue du champ</target>
         <note>key: landing_page_ft.settings.edit_mode.field_view</note>
       </trans-unit>
       <trans-unit id="dfbdf2660cd09c69b8c1a565096d15b7bcd48b33" resname="landing_page_ft.settings.edit_mode.page_view">

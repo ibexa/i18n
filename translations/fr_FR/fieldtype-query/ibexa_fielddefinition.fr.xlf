@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="63bb25b1f9154e4a451f0940afacd58edd948f45" resname="ezcontentquery.no_defined_query_types">
         <source>There are no query types defined</source>
-        <target state="translated">Il n'y a aucun type de requête défini</target>
+        <target state="translated">Il n’y a aucun type de requête défini</target>
         <note>key: ezcontentquery.no_defined_query_types</note>
       </trans-unit>
       <trans-unit id="95e9fc9f8e314bbd35a18372cd7888be0a1ec1e0" resname="ezcontentquery.query_type.label">
         <source>Query type:</source>
-        <target state="translated">Type de requête:</target>
+        <target state="translated">Type de requête :</target>
         <note>key: ezcontentquery.query_type.label</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="c0c17d4227a518ff62d656c73167a6e4d102415d" resname="actions.hide_content">
         <source>Hide</source>
-        <target state="translated">Verstecken</target>
+        <target state="translated">Ausblenden</target>
         <note>key: actions.hide_content</note>
       </trans-unit>
       <trans-unit id="3caa712af1590a995b4bad3dd230e78284467db8" resname="actions.preview_content">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="fab4bddcadee1924ad4f3c0fade3879ae9494df5" resname="actions.remove_from_bookmarks">
         <source>Remove from bookmarks</source>
-        <target state="translated">Aus den Lesezeichen entfernen</target>
+        <target state="translated">Aus Lesezeichen entfernen</target>
         <note>key: actions.remove_from_bookmarks</note>
       </trans-unit>
       <trans-unit id="47823da8ee4bb5955e4e0ed05baac71c716b675a" resname="actions.reveal_content">
         <source>Reveal</source>
-        <target state="translated">Aufdecken</target>
+        <target state="translated">Anzeigen</target>
         <note>key: actions.reveal_content</note>
       </trans-unit>
       <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="875ac9201b26a4e616a939a6798af01bb63f70f5" resname="bulk_bookmark.success.message">
         <source>Content item(s) bookmarked.</source>
-        <target state="translated">Inhaltselement(e) wurde(n) als Lesezeichen hinzugefügt.</target>
+        <target state="translated">Inhaltselement(e) zu den Lesezeichen hinzugefügt.</target>
         <note>key: bulk_bookmark.success.message</note>
       </trans-unit>
       <trans-unit id="8c9027784ddccd5319b5a361e99434ae592d775d" resname="bulk_copy.error.message">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="ed2c9a96d164d69ddaaaf81a5d3485fc853b429c" resname="bulk_copy.success.message">
         <source>Content item(s) copied to {{ locationLink }}</source>
-        <target state="translated">Inhaltselement(e) kopiert nach {{ locationLink }}</target>
+        <target state="translated">Inhaltselement(e) zu {{ locationLink }} kopiert</target>
         <note>key: bulk_copy.success.message</note>
       </trans-unit>
       <trans-unit id="99402f0925918d4d739c4c61a90182a733824fa5" resname="bulk_delete.error.message.nonusers">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be sent to Trash because you do not have proper user permissions. Contact your Administrator.</source>
-        <target state="translated">%notDeletedCount% der %totalCount% ausgewählten Objekte konnten nicht in den Papierkorb verschoben werden, da Sie nicht über die entsprechenden Benutzerrechte verfügen. Wenden Sie sich an Ihren Administrator.</target>
+        <target state="translated">%notDeletedCount% der %totalCount% ausgewählten Elemente konnten nicht in den Papierkorb verschoben werden, da Sie nicht über die richtigen Benutzerrechte verfügen. Wenden Sie sich an Ihren Administrator.</target>
         <note>key: bulk_delete.error.message.nonusers</note>
       </trans-unit>
       <trans-unit id="c74a6c9cb4bb7cbcf4a652e03e4fe9344514f38f" resname="bulk_delete.error.message.users">
@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="a873d91c27d787399ce6dfe9a96c4541e718bacf" resname="bulk_delete.error.message.users_with_nonusers">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted or sent to Trash because you do not have proper user permissions. Contact your Administrator.</source>
-        <target state="translated">%notDeletedCount% der %totalCount% ausgewählten Objekte konnten nicht gelöscht oder in den Papierkorb verschoben werden, da Sie nicht über die entsprechenden Benutzerrechte verfügen. Wenden Sie sich an Ihren Administrator.</target>
+        <target state="translated">%notDeletedCount% der %totalCount% ausgewählten Elemente konnten nicht gelöscht oder in den Papierkorb verschoben werden, da Sie nicht über die richtigen Benutzerrechte verfügen. Wenden Sie sich an Ihren Administrator.</target>
         <note>key: bulk_delete.error.message.users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
         <source>Content item(s) sent to Trash.</source>
-        <target state="translated">Inhalt(e) wurden in den Papierkorb verschoben.</target>
+        <target state="translated">Inhaltselement(e) in den Papierkorb verschoben.</target>
         <note>key: bulk_delete.success.message.nonusers</note>
       </trans-unit>
       <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
         <source>Content item(s) sent to Trash. User(s) deleted.</source>
-        <target state="translated">Inhaltselemente(n) wurde(n) in den Papierkorb verschoben. Benutzer wurde(n) gelöscht.</target>
+        <target state="translated">Inhaltselement(e) in den Papierkorb verschoben. Benutzer gelöscht.</target>
         <note>key: bulk_delete.success.message.users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="ac326404ff958f8e3fa903df5750024602b812de" resname="bulk_move.success.message">
         <source>Content item(s) sent to {{ locationLink }}</source>
-        <target state="translated">Inhaltselement(e) verschoben nach {{ locationLink }}</target>
+        <target state="translated">Inhaltselement(e) in den {{ locationLink }} verschoben</target>
         <note>key: bulk_move.success.message</note>
       </trans-unit>
       <trans-unit id="856eedf1cbc5db3b541b944d72f52fb1b5efa9e7" resname="bulk_unbookmark.error.message.multi">
@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="fb96f94b2f4dece448eeda96f3110267256c3bb5" resname="bulk_unbookmark.error.message.single">
         <source>Selected item could not be removed from bookmarks.</source>
-        <target state="translated">Ausgewähltes Element konnte nicht aus den Lesezeichen entfernt werden.</target>
+        <target state="translated">Das ausgewählte Element konnte nicht aus den Lesezeichen entfernt werden.</target>
         <note>key: bulk_unbookmark.error.message.single</note>
       </trans-unit>
       <trans-unit id="16b09292d91ae157dea699657c6d76f6c6c4133e" resname="bulk_unbookmark.success.message">
         <source>Content item(s) removed from bookmarks.</source>
-        <target state="translated">Inhaltselemente wurden aus den Lesezeichen entfernt.</target>
+        <target state="translated">Die Inhaltselemente wurden aus den Lesezeichen entfernt.</target>
         <note>key: bulk_unbookmark.success.message</note>
       </trans-unit>
       <trans-unit id="5e6cd75c94e19781e680d58cdd765cf9abe73aa6" resname="content.1">
@@ -138,22 +138,22 @@
       </trans-unit>
       <trans-unit id="c7580000a5eff7628aba02b1926a57212e52ce2a" resname="content.empty">
         <source>Your tree is empty. Start creating your structure</source>
-        <target state="translated">Ihre Inhaltsstruktur ist leer. Beginnen Sie mit der Erstellung Ihrer Struktur</target>
+        <target state="translated">Ihr Baum ist leer. Beginnen Sie mit der Erstellung Ihrer Struktur</target>
         <note>key: content.empty</note>
       </trans-unit>
       <trans-unit id="37b6b28354e1e8986dcd7aca0fb7e76686d3b15f" resname="content.tree_name">
         <source>Content tree</source>
-        <target state="translated">Inhaltsstruktur</target>
+        <target state="translated">Inhaltsbaum</target>
         <note>key: content.tree_name</note>
       </trans-unit>
       <trans-unit id="52f7a6a69bf6d18c4aee124702514f8b3a882d9c" resname="delete.send_to_trash.modal.body">
         <source>Are you sure you want to send the selected Content item(s) to Trash?</source>
-        <target state="translated">Sind Sie sicher, dass Sie die ausgewählten Inhalte in den Papierkorb verschieben möchten?</target>
+        <target state="translated">Möchten Sie die ausgewählten Inhaltselemente wirklich in den Papierkorb verschieben?</target>
         <note>key: delete.send_to_trash.modal.body</note>
       </trans-unit>
       <trans-unit id="fda5d31392f746288f371fdb64897146e018a606" resname="load_content_types.error">
         <source>Cannot load content types</source>
-        <target state="translated">Kann Inhaltstypen nicht laden</target>
+        <target state="translated">Inhaltstypen konnten nicht geladen werden</target>
         <note>key: load_content_types.error</note>
       </trans-unit>
     </body>

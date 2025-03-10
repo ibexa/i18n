@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,212 +8,212 @@
     <body>
       <trans-unit id="5e6cd75c94e19781e680d58cdd765cf9abe73aa6" resname="content.1">
         <source>1</source>
-        <target state="needs-translation">1</target>
+        <target state="translated">1</target>
         <note>key: content.1</note>
       </trans-unit>
       <trans-unit id="b01a58cb9736974403f9f94ecce5180fb95a9627" resname="filters.apply">
         <source>Apply</source>
-        <target state="needs-translation">Apply</target>
+        <target state="translated">Appliquer</target>
         <note>key: filters.apply</note>
       </trans-unit>
       <trans-unit id="561bc96ad77fbf519000d0fa5e170d01b10c3de9" resname="filters.clear">
         <source>Clear</source>
-        <target state="needs-translation">Clear</target>
+        <target state="translated">Effacer</target>
         <note>key: filters.clear</note>
       </trans-unit>
       <trans-unit id="09ac7f0777838ccac0648aceca785c8d896d3adf" resname="filters.created.from.label">
         <source>From</source>
-        <target state="needs-translation">From</target>
+        <target state="translated">De</target>
         <note>key: filters.created.from.label</note>
       </trans-unit>
       <trans-unit id="be435384d872f33ab91c61df5b0e95dcaefedfa3" resname="filters.created.title">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Créée</target>
         <note>key: filters.created.title</note>
       </trans-unit>
       <trans-unit id="b3c5eb00e03ed439e84f3d627684c45b02baa645" resname="filters.created.to.label">
         <source>To</source>
-        <target state="needs-translation">To</target>
+        <target state="translated">À</target>
         <note>key: filters.created.to.label</note>
       </trans-unit>
       <trans-unit id="60166186a5ad3a53ab8f5f9dedb4527a6b27c2e5" resname="filters.file_format.label">
         <source>File format</source>
-        <target state="needs-translation">File format</target>
+        <target state="translated">Format de fichier</target>
         <note>key: filters.file_format.label</note>
       </trans-unit>
       <trans-unit id="2daa2bee77a723d6e8d4a0ed7a95f8d2b9bc281e" resname="filters.file_size.label">
         <source>File size</source>
-        <target state="needs-translation">File size</target>
+        <target state="translated">Taille de fichier</target>
         <note>key: filters.file_size.label</note>
       </trans-unit>
       <trans-unit id="e39f3837e618903bf10af197b73e218ca7754246" resname="filters.format_and_size.title">
         <source>Format and size</source>
-        <target state="needs-translation">Format and size</target>
+        <target state="translated">Format et taille</target>
         <note>key: filters.format_and_size.title</note>
       </trans-unit>
       <trans-unit id="a5f3eb53f41cb3781bd5f68d2c41c55f60034981" resname="filters.language.label">
         <source>Language</source>
-        <target state="needs-translation">Language</target>
+        <target state="translated">Langue</target>
         <note>key: filters.language.label</note>
       </trans-unit>
       <trans-unit id="46831585a0dc27a6e33611fcfd4400c9bc058dc0" resname="filters.orientation_and_dimensions.height.label">
         <source>Height</source>
-        <target state="needs-translation">Height</target>
+        <target state="translated">Hauteur</target>
         <note>key: filters.orientation_and_dimensions.height.label</note>
       </trans-unit>
       <trans-unit id="609e2eee4a860c96f918907d302503eb60c97b57" resname="filters.orientation_and_dimensions.landscape.label">
         <source>Landscape</source>
-        <target state="needs-translation">Landscape</target>
+        <target state="translated">Paysage</target>
         <note>key: filters.orientation_and_dimensions.landscape.label</note>
       </trans-unit>
       <trans-unit id="59be3b57079e31795de81c41aad4f0bfe2014d48" resname="filters.orientation_and_dimensions.orientation.label">
         <source>Orientation</source>
-        <target state="needs-translation">Orientation</target>
+        <target state="translated">Orientation</target>
         <note>key: filters.orientation_and_dimensions.orientation.label</note>
       </trans-unit>
       <trans-unit id="f9735bebd69025f7f76d82933d88982ab9a7a21d" resname="filters.orientation_and_dimensions.portrait.label">
         <source>Portrait</source>
-        <target state="needs-translation">Portrait</target>
+        <target state="translated">Portrait</target>
         <note>key: filters.orientation_and_dimensions.portrait.label</note>
       </trans-unit>
       <trans-unit id="bcdeb44b35c9b4d0f9b364b1b659c3dd6de493fe" resname="filters.orientation_and_dimensions.squarish.label">
         <source>Squarish</source>
-        <target state="needs-translation">Squarish</target>
+        <target state="translated">Légèrement carrée</target>
         <note>key: filters.orientation_and_dimensions.squarish.label</note>
       </trans-unit>
       <trans-unit id="c2669a484aa17f96d972fd40cdbefe9e5d2cde67" resname="filters.orientation_and_dimensions.title">
         <source>Orientation and dimensions</source>
-        <target state="needs-translation">Orientation and dimensions</target>
+        <target state="translated">Orientation et dimensions</target>
         <note>key: filters.orientation_and_dimensions.title</note>
       </trans-unit>
       <trans-unit id="4476ee05100dc070f487f11e9f91e417b8ba042f" resname="filters.orientation_and_dimensions.width.label">
         <source>Width</source>
-        <target state="needs-translation">Width</target>
+        <target state="translated">Largeur</target>
         <note>key: filters.orientation_and_dimensions.width.label</note>
       </trans-unit>
       <trans-unit id="9ec513700f55fd8f323738c7c76baa2b0847b6c3" resname="filters.tags.label">
         <source>Tags</source>
-        <target state="needs-translation">Tags</target>
+        <target state="translated">Balises</target>
         <note>key: filters.tags.label</note>
       </trans-unit>
       <trans-unit id="dfe3a7158e01da02bc0dfe357002def406425b8b" resname="filters.tags.no_tags.info">
         <source>If no tags available, you can’t use this filter.</source>
-        <target state="needs-translation">If no tags available, you can’t use this filter.</target>
+        <target state="translated">Vous ne pouvez pas utiliser ce filtre si aucune balise n’est disponible.</target>
         <note>key: filters.tags.no_tags.info</note>
       </trans-unit>
       <trans-unit id="6984b0d24e5754cfd7659ddd28fb19d1ee102c95" resname="filters.tags.placeholder">
         <source>Choose tags</source>
-        <target state="needs-translation">Choose tags</target>
+        <target state="translated">Choisir des balises</target>
         <note>key: filters.tags.placeholder</note>
       </trans-unit>
       <trans-unit id="148a19ce992ac6dfb29a81f9d4b1cca9c08782dd" resname="filters.tags.title">
         <source>Tags</source>
-        <target state="needs-translation">Tags</target>
+        <target state="translated">Balises</target>
         <note>key: filters.tags.title</note>
       </trans-unit>
       <trans-unit id="36ded7336444b1ecc68187be225a041e17eeb4b2" resname="filters.thumbnail">
         <source>Image library</source>
-        <target state="needs-translation">Image library</target>
+        <target state="translated">Bibliothèque d’images</target>
         <note>key: filters.thumbnail</note>
       </trans-unit>
       <trans-unit id="d4243297721bb92848a26161f2effe427171e26f" resname="filters.title">
         <source>Filters</source>
-        <target state="needs-translation">Filters</target>
+        <target state="translated">Filtres</target>
         <note>key: filters.title</note>
       </trans-unit>
       <trans-unit id="c75b636a5f9877b8f9e4ab63f0b4ae202f2cf555" resname="filters.translations.title">
         <source>Translations</source>
-        <target state="needs-translation">Translations</target>
+        <target state="translated">Traductions</target>
         <note>key: filters.translations.title</note>
       </trans-unit>
       <trans-unit id="b43f7453a4034bed3e84ca3df4af263f4c8e4292" resname="image_picker.module.label">
         <source>Image Picker</source>
-        <target state="needs-translation">Image Picker</target>
+        <target state="translated">Sélecteur d’images</target>
         <note>key: image_picker.module.label</note>
       </trans-unit>
       <trans-unit id="23145c2e9118fbef1d39394281e099c9393746ef" resname="items_view.no_items.info_text">
         <source>No images yet</source>
-        <target state="needs-translation">No images yet</target>
+        <target state="translated">Aucune image pour l’instant</target>
         <note>key: items_view.no_items.info_text</note>
       </trans-unit>
       <trans-unit id="ef24aeea17c44a1a184ffae241036ded6170f8c8" resname="list_view.header.created">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Créée</target>
         <note>key: list_view.header.created</note>
       </trans-unit>
       <trans-unit id="2851b2d273f0c99cf6e56dea6dbe7127f4b9d719" resname="list_view.header.dimensions">
         <source>Dimensions</source>
-        <target state="needs-translation">Dimensions</target>
+        <target state="translated">Dimensions</target>
         <note>key: list_view.header.dimensions</note>
       </trans-unit>
       <trans-unit id="2dc1a006a2b794ef73db37ac588e7747f2e7c81d" resname="list_view.header.file_format">
         <source>File format</source>
-        <target state="needs-translation">File format</target>
+        <target state="translated">Format de fichier</target>
         <note>key: list_view.header.file_format</note>
       </trans-unit>
       <trans-unit id="ffb30dd58b0c44020763d862f984e9105df7896b" resname="list_view.header.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nom</target>
         <note>key: list_view.header.name</note>
       </trans-unit>
       <trans-unit id="025ef378ba10d4aa210fb52335cf6a45ad785e15" resname="list_view.header.size">
         <source>Size</source>
-        <target state="needs-translation">Size</target>
+        <target state="translated">Taille</target>
         <note>key: list_view.header.size</note>
       </trans-unit>
       <trans-unit id="dcd4dc5b019b01d0c8d3fd4d6af70c83d46dc323" resname="list_view.header.thumbnail">
         <source>Thumbnail</source>
-        <target state="needs-translation">Thumbnail</target>
+        <target state="translated">Miniature</target>
         <note>key: list_view.header.thumbnail</note>
       </trans-unit>
       <trans-unit id="ad0d3e1ff872d7fcbbc7bfe77b68b4cee774e137" resname="list_view.header.updated">
         <source>Updated</source>
-        <target state="needs-translation">Updated</target>
+        <target state="translated">Mise à jour</target>
         <note>key: list_view.header.updated</note>
       </trans-unit>
       <trans-unit id="0ccf757794cf80d03dec7594b2d01f1b6067736b" resname="root_location.fake_name">
         <source>Location</source>
-        <target state="needs-translation">Location</target>
+        <target state="translated">Emplacement</target>
         <note>key: root_location.fake_name</note>
       </trans-unit>
       <trans-unit id="31cc54aed93ab7a24b95b1409f3997880eda65cc" resname="snackbar.insert.label">
         <source>Insert</source>
-        <target state="needs-translation">Insert</target>
+        <target state="translated">Insérer</target>
         <note>key: snackbar.insert.label</note>
       </trans-unit>
       <trans-unit id="d7ebb1e7bf0cedcd11fec7ea0de8c779918e7688" resname="snackbar.selected.label">
         <source>Selected</source>
-        <target state="needs-translation">Selected</target>
+        <target state="translated">Sélectionnée</target>
         <note>key: snackbar.selected.label</note>
       </trans-unit>
       <trans-unit id="a4b16c26cb1349d85fd849abedb5d4e4b921b4ce" resname="tree.empty">
         <source>Your tree is empty.</source>
-        <target state="needs-translation">Your tree is empty.</target>
+        <target state="translated">Votre arborescence est vide.</target>
         <note>key: tree.empty</note>
       </trans-unit>
       <trans-unit id="f4f2d0db0a15be834cf5ce04161a4ecf5192533e" resname="tree_browser.module_name">
         <source>Image picker folders browser</source>
-        <target state="needs-translation">Image picker folders browser</target>
+        <target state="translated">Navigateur de dossiers du sélecteur d’images</target>
         <note>key: tree_browser.module_name</note>
       </trans-unit>
       <trans-unit id="358c5d28e8b7ad188b38ef07468c578baf772d2e" resname="tree_browser.title">
         <source>Folders</source>
-        <target state="needs-translation">Folders</target>
+        <target state="translated">Dossiers</target>
         <note>key: tree_browser.title</note>
       </trans-unit>
       <trans-unit id="71163c5c559fc7ddbd92441dc94c4eddc7e58274" resname="view_switcher.grid_view">
         <source>Grid view</source>
-        <target state="needs-translation">Grid view</target>
+        <target state="translated">Affichage en grille</target>
         <note>key: view_switcher.grid_view</note>
       </trans-unit>
       <trans-unit id="193d58a61e04c3cef23665e876aa2534828430d0" resname="view_switcher.list_view">
         <source>List view</source>
-        <target state="needs-translation">List view</target>
+        <target state="translated">Affichage en liste</target>
         <note>key: view_switcher.list_view</note>
       </trans-unit>
       <trans-unit id="75247b44eb33fe5c35d9b5d8770bd76a15be7747" resname="view_switcher.view">
         <source>View</source>
-        <target state="needs-translation">View</target>
+        <target state="translated">Afficher</target>
         <note>key: view_switcher.view</note>
       </trans-unit>
     </body>

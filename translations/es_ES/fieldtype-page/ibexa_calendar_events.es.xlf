@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="15204acbfb66b707e1870987e2df8dd43d87fb23" resname="page_block_hide.label">
         <source>Future hide</source>
-        <target state="needs-translation">Future hide</target>
+        <target state="translated">Ocultado futuro</target>
         <note>key: page_block_hide.label</note>
       </trans-unit>
       <trans-unit id="e9e749d54f8be230e31ce9eeec8f66e6fe0656e0" resname="page_block_reveal.label">
         <source>Future reveal</source>
-        <target state="needs-translation">Future reveal</target>
+        <target state="translated">Revelado futuro</target>
         <note>key: page_block_reveal.label</note>
       </trans-unit>
       <trans-unit id="353ee0baf1d2304e82aaaf541340699f797db3ea" resname="page_block_visibility.attribute.block_type.label">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="3f33d0924567a52a3b81e930591e5fcfa899dfd3" resname="page_block_visibility.attribute.content_type.label">
         <source>Content type</source>
-        <target state="needs-translation">Content type</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: page_block_visibility.attribute.content_type.label</note>
       </trans-unit>
       <trans-unit id="c9f927de803212415a68ff596c26821af8585bc3" resname="page_block_visibility.attribute.modified_language.label">

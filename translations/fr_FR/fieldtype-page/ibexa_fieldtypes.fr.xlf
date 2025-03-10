@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="168b41d8f0b7d904679bdd1896939c6f6c54f3fc" resname="ezlandingpage.name">
         <source>Landing Page</source>
-        <target state="translated">Page d’atterrissage</target>
+        <target state="translated">Landing page</target>
         <note>key: ezlandingpage.name</note>
       </trans-unit>
     </body>

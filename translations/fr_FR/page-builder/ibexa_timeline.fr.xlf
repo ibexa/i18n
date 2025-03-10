@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,32 +13,32 @@
       </trans-unit>
       <trans-unit id="258c0c6baf5618d7e07897b16e391bbfb59096d9" resname="back_to_current_time.warning.text">
         <source>Previewing in the future</source>
-        <target state="translated">Prévisualisation du contenu dans le futur</target>
+        <target state="translated">Prévisualiser à une date future</target>
         <note>key: back_to_current_time.warning.text</note>
       </trans-unit>
       <trans-unit id="de7248ddafdc4964d17e793da131caa059208be8" resname="timeline.calendar">
         <source>Timeline calendar</source>
-        <target state="translated">Calendrier des évènements</target>
+        <target state="translated">Calendrier et échéances</target>
         <note>key: timeline.calendar</note>
       </trans-unit>
       <trans-unit id="a0bea7082c6e50c703558eab3141453ca1be8778" resname="timeline.close_btn">
         <source>Close timeline</source>
-        <target state="translated">Fermer la chronologie</target>
+        <target state="translated">Fermer l’échéancier</target>
         <note>key: timeline.close_btn</note>
       </trans-unit>
       <trans-unit id="d5554733563784c9682d71e6d1955fac70b4ed6e" resname="timeline.events_list_popup.toggler.label">
         <source>Jump to event</source>
-        <target state="translated">Aller à l'événement</target>
+        <target state="translated">Passer à l’événement</target>
         <note>key: timeline.events_list_popup.toggler.label</note>
       </trans-unit>
       <trans-unit id="bb645c51a07d2c29a4cd8b3225ca5e0cddec45c5" resname="timeline.schedule.config_panel.hide_timeline">
         <source>Hide timeline</source>
-        <target state="translated">Masquer la chronologie</target>
+        <target state="translated">Masquer l’échéancier</target>
         <note>key: timeline.schedule.config_panel.hide_timeline</note>
       </trans-unit>
       <trans-unit id="2e837c400344095b33750c4f5305b87b388a7bce" resname="timeline.schedule.config_panel.no_events.subtitle">
         <source>Your events will show up here</source>
-        <target state="translated">Vos événements apparaîtront ici</target>
+        <target state="translated">Vos événements s’afficheront ici</target>
         <note>key: timeline.schedule.config_panel.no_events.subtitle</note>
       </trans-unit>
       <trans-unit id="f36348459221958214763321b25f9899ef4aa15f" resname="timeline.schedule.config_panel.no_events.title">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="8f6dd4bd82aa0c42094385ba93e8998bd2330f0b" resname="timeline.schedule.config_panel.show_timeline">
         <source>Show timeline</source>
-        <target state="translated">Afficher la chronologie</target>
+        <target state="translated">Montrer l’échéancier</target>
         <note>key: timeline.schedule.config_panel.show_timeline</note>
       </trans-unit>
       <trans-unit id="84c5b195d7c9fed3675ac10835044f6ae3e98ee5" resname="timeline.schedule.config_panel.title">
         <source>Schedule</source>
-        <target state="translated">Planifier</target>
+        <target state="translated">Programmer</target>
         <note>key: timeline.schedule.config_panel.title</note>
       </trans-unit>
       <trans-unit id="1e9b15d69a542afb34c22bd16a43c1a9ad6d0b0d" resname="timeline.schedule.config_panel.view">

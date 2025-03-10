@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="6b9aadd7750a5f4b5331660d42c358959335b826" resname="role.policy.segment.assign_to_user">
         <source>Segment / Assign to user</source>
-        <target state="translated">Segment / Assigner à l'utilisateur</target>
+        <target state="translated">Segment / Attribuer à un utilisateur</target>
         <note>key: role.policy.segment.assign_to_user</note>
       </trans-unit>
       <trans-unit id="09a0c2388423585b64a6703b275eca4bb2e92777" resname="role.policy.segment.create">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="506b3e8dca9edee470906099f4e5e766e47e1506" resname="role.policy.segment.read">
         <source>Segment / Read</source>
-        <target state="translated">Segment / Lecture</target>
+        <target state="translated">Segment / Lire</target>
         <note>key: role.policy.segment.read</note>
       </trans-unit>
       <trans-unit id="9cc5de1950915f9efcff2fcd8f7180eb7071c5cb" resname="role.policy.segment.remove">
@@ -38,17 +38,17 @@
       </trans-unit>
       <trans-unit id="0c055076bc059993f1e44092473b7006ae34df96" resname="role.policy.segment.update">
         <source>Segment / Update</source>
-        <target state="translated">Segment / Mise à jour</target>
+        <target state="translated">Segment / Mettre à jour</target>
         <note>key: role.policy.segment.update</note>
       </trans-unit>
       <trans-unit id="c105a8689a3c11e6c3cc7840662eab1832989141" resname="role.policy.segment.view_user_segment_list">
         <source>Segment / View user segment list</source>
-        <target state="translated">Segment / Voir la liste des segments d'utilisateurs</target>
+        <target state="translated">Segment / Afficher la liste des segments utilisateur</target>
         <note>key: role.policy.segment.view_user_segment_list</note>
       </trans-unit>
       <trans-unit id="80900cd56c795ae32bc19af548c92ec378d7df63" resname="role.policy.segment_group">
         <source>Segment Group</source>
-        <target state="translated">Groupe de segment</target>
+        <target state="translated">Groupe de segments</target>
         <note>key: role.policy.segment_group</note>
       </trans-unit>
       <trans-unit id="f9cfe551c8bc01921b694a54d0038e93e289d38f" resname="role.policy.segment_group.all_functions">
@@ -58,12 +58,12 @@
       </trans-unit>
       <trans-unit id="6540ac8a8b75f8b8865aba1ef496c7cf25230a2b" resname="role.policy.segment_group.create">
         <source>Segment Group / Create</source>
-        <target state="translated">Groupe de Segment / Créer</target>
+        <target state="translated">Groupe de segments / Créer</target>
         <note>key: role.policy.segment_group.create</note>
       </trans-unit>
       <trans-unit id="20ec96c7e8a543e6db46087e1bdf8d57536fa87f" resname="role.policy.segment_group.read">
         <source>Segment Group / Read</source>
-        <target state="translated">Groupe de segments / Lecture</target>
+        <target state="translated">Groupe de segments / Lire</target>
         <note>key: role.policy.segment_group.read</note>
       </trans-unit>
       <trans-unit id="7d82357527b29fc05f07816c1eaf134a07896df0" resname="role.policy.segment_group.remove">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="85913834465cd211b38d0d8b21e6828f94b38df3" resname="role.policy.segment_group.update">
         <source>Segment Group / Update</source>
-        <target state="translated">Groupe de segments / Mise à jour</target>
+        <target state="translated">Groupe de segments / Mettre à jour</target>
         <note>key: role.policy.segment_group.update</note>
       </trans-unit>
       <trans-unit id="7977b91cf7f7467de74633ce7fd46a0714ab5412" resname="segment_bulk_delete_form.delete">

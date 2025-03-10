@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,72 +8,72 @@
     <body>
       <trans-unit id="18a38f6c46cc84d27fa3d24cbd09aee62125be8d" resname="Cannot publish an empty content type draft">
         <source>Cannot publish an empty content type draft</source>
-        <target state="needs-translation">Cannot publish an empty content type draft</target>
+        <target state="translated">No se puede publicar un borrador de tipo de contenido vacío</target>
         <note>key: Cannot publish an empty content type draft</note>
       </trans-unit>
       <trans-unit id="8bfebd32a3304d378cf1219c4b25b1044d9dde34" resname="Cannot unlink the content type from its only remaining group">
         <source>Cannot unlink the content type from its only remaining group</source>
-        <target state="needs-translation">Cannot unlink the content type from its only remaining group</target>
+        <target state="translated">No se puede desvincular el tipo de contenido de su único grupo restante</target>
         <note>key: Cannot unlink the content type from its only remaining group</note>
       </trans-unit>
       <trans-unit id="0b525944af0bdcb0dd04bcaa4a027212bffc9738" resname="Current version already has DRAFT status">
         <source>Current version already has DRAFT status</source>
-        <target state="needs-translation">Current version already has DRAFT status</target>
+        <target state="translated">La versión actual ya tiene estado de BORRADOR</target>
         <note>key: Current version already has DRAFT status</note>
       </trans-unit>
       <trans-unit id="f915c78ee350c1b4fb3d3adac7584a12fcc0cfdf" resname="Only empty content type groups can be deleted">
         <source>Only empty content type groups can be deleted</source>
-        <target state="needs-translation">Only empty content type groups can be deleted</target>
+        <target state="translated">Solo se pueden eliminar grupos de tipos de contenido vacíos</target>
         <note>key: Only empty content type groups can be deleted</note>
       </trans-unit>
       <trans-unit id="309f294f925bf5343de6ca4507a303bbc762090f" resname="Only versions with DRAFT status can be published">
         <source>Only versions with DRAFT status can be published</source>
-        <target state="needs-translation">Only versions with DRAFT status can be published</target>
+        <target state="translated">Solo se pueden publicar versiones con estado BORRADOR</target>
         <note>key: Only versions with DRAFT status can be published</note>
       </trans-unit>
       <trans-unit id="9698733c46daf6173c56ac6b9cdcb05cef60fbd6" resname="Only versions with DRAFT status can be updated">
         <source>Only versions with DRAFT status can be updated</source>
-        <target state="needs-translation">Only versions with DRAFT status can be updated</target>
+        <target state="translated">Solo se pueden actualizar versiones con estado BORRADOR</target>
         <note>key: Only versions with DRAFT status can be updated</note>
       </trans-unit>
       <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
         <source>Relation is not of type COMMON</source>
-        <target state="needs-translation">Relation is not of type COMMON</target>
+        <target state="translated">La relación no es de tipo COMÚN</target>
         <note>key: Relation is not of type COMMON</note>
       </trans-unit>
       <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
         <source>Relation of type COMMON can only be added to drafts</source>
-        <target state="needs-translation">Relation of type COMMON can only be added to drafts</target>
+        <target state="translated">La relación de tipo COMÚN solo se puede añadir a borradores</target>
         <note>key: Relation of type COMMON can only be added to drafts</note>
       </trans-unit>
       <trans-unit id="388dae35f493b4e06e6458455f4837b1691fd72b" resname="Relation of type COMMON can only be removed from drafts">
         <source>Relation of type COMMON can only be removed from drafts</source>
-        <target state="needs-translation">Relation of type COMMON can only be removed from drafts</target>
+        <target state="translated">La relación de tipo COMÚN solo se puede eliminar de borradores</target>
         <note>key: Relation of type COMMON can only be removed from drafts</note>
       </trans-unit>
       <trans-unit id="fe5e61a2dbe9daf82bf81a65e725bc070e17cc03" resname="Relation of type COMMON to the selected destination content ID already exists">
         <source>Relation of type COMMON to the selected destination content ID already exists</source>
-        <target state="needs-translation">Relation of type COMMON to the selected destination content ID already exists</target>
+        <target state="translated">La relación de tipo COMÚN con el ID de contenido de destino seleccionado ya existe</target>
         <note>key: Relation of type COMMON to the selected destination content ID already exists</note>
       </trans-unit>
       <trans-unit id="7d98c91ecfe4814f6268eb889de59ada9eec6a1d" resname="The content type is already linked to the provided group">
         <source>The content type is already linked to the provided group</source>
-        <target state="needs-translation">The content type is already linked to the provided group</target>
+        <target state="translated">El tipo de contenido ya se encuentra vinculado al grupo facilitado</target>
         <note>key: The content type is already linked to the provided group</note>
       </trans-unit>
       <trans-unit id="d71c63955373cbd73161528026feb878e5e042b8" resname="Translation can be deleted from a DRAFT version only">
         <source>Translation can be deleted from a DRAFT version only</source>
-        <target state="needs-translation">Translation can be deleted from a DRAFT version only</target>
+        <target state="translated">La traducción se puede eliminar únicamente a partir de una versión BORRADOR</target>
         <note>key: Translation can be deleted from a DRAFT version only</note>
       </trans-unit>
       <trans-unit id="28a8101ba74e406141eefc3a89ce0d743659707d" resname="Versions with PUBLISHED status cannot be deleted">
         <source>Versions with PUBLISHED status cannot be deleted</source>
-        <target state="needs-translation">Versions with PUBLISHED status cannot be deleted</target>
+        <target state="translated">Las versiones con estado PUBLICADO no se pueden eliminar</target>
         <note>key: Versions with PUBLISHED status cannot be deleted</note>
       </trans-unit>
       <trans-unit id="9307ee9a550b5c318fbbd6f5750e95d1de1d3483" resname="non_verbose_error">
         <source>An error has occurred. Please try again later or contact your Administrator.</source>
-        <target state="needs-translation">An error has occurred. Please try again later or contact your Administrator.</target>
+        <target state="translated">Ha ocurrido un error. Inténtalo de nuevo más tarde o ponte en contacto con tu administrador.</target>
         <note>key: non_verbose_error</note>
       </trans-unit>
     </body>

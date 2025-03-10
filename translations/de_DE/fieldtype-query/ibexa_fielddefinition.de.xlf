@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="95e9fc9f8e314bbd35a18372cd7888be0a1ec1e0" resname="ezcontentquery.query_type.label">
         <source>Query type:</source>
-        <target state="translated">Abfragetyp:</target>
+        <target state="translated">Abfragentyp:</target>
         <note>key: ezcontentquery.query_type.label</note>
       </trans-unit>
     </body>

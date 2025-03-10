@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="55f7e3b51a9cf46d7778064398a273bdf8d12ba9" resname="Content Id">
         <source>Content Id</source>
-        <target state="translated">Id. del contenido</target>
+        <target state="translated">ID de contenido</target>
         <note>key: Content Id</note>
       </trans-unit>
       <trans-unit id="bc6a25180a9678a7e2299b8a1070361d462ec9d3" resname="Create and edit draft">
@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="1b23470f704e53cc7b325e8fdf42ef526a431e6d" resname="From language">
         <source>From language</source>
-        <target state="translated">Desde el idioma</target>
+        <target state="translated">Del idioma</target>
         <note>key: From language</note>
       </trans-unit>
       <trans-unit id="6e7c32839481999b9ed6384f9a0a86d9abc5b037" resname="From version">
         <source>From version</source>
-        <target state="translated">Desde la versión</target>
+        <target state="translated">De la versión</target>
         <note>key: From version</note>
       </trans-unit>
       <trans-unit id="5656400564f25dcbe129f43deea78952060bee36" resname="Publish">
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="e4edccf256c4bf913a5929b429824155a7613ca3" resname="Publish and edit">
         <source>Publish and edit</source>
-        <target state="needs-translation">Publish and edit</target>
+        <target state="translated">Publicar y editar</target>
         <note>key: Publish and edit</note>
       </trans-unit>
       <trans-unit id="fb063a81c26c9246dd089025bf8e6ff896058ffc" resname="To language">
         <source>To language</source>
-        <target state="translated">A idioma</target>
+        <target state="translated">Al idioma</target>
         <note>key: To language</note>
       </trans-unit>
       <trans-unit id="4fd0653c4f2aef3b19a3c145bbdc5f4740715a09" resname="cancel">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="d57dc5d10311fb7d6d4730bfdee8a5b6e7c2d849" resname="save_draft_and_close">
         <source>Save draft and close</source>
-        <target state="needs-translation">Save draft and close</target>
+        <target state="translated">Guardar borrador y cerrar</target>
         <note>key: save_draft_and_close</note>
       </trans-unit>
     </body>

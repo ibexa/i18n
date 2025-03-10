@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,17 +18,17 @@
       </trans-unit>
       <trans-unit id="5f43a79f6a532c2ecf1a83d43ca2aa30d1d845ea" resname="dashboard.charts.date_time_range">
         <source>%start_date% to %end_date%</source>
-        <target state="translated">%start_date% à %end_date%</target>
+        <target state="translated">%start_date% au %end_date%</target>
         <note>key: dashboard.charts.date_time_range</note>
       </trans-unit>
       <trans-unit id="4005401b30938d46f88ea83a27a3c7cd37382bad" resname="dashboard.charts.recommendation_calls">
         <source>Recommendation calls</source>
-        <target state="translated">Appels de recommandation</target>
+        <target state="translated">Appels des recommandations</target>
         <note>key: dashboard.charts.recommendation_calls</note>
       </trans-unit>
       <trans-unit id="398569322a5cf470a8d3baa0cbbf8d5a10ffb180" resname="dashboard.charts.revenue">
         <source>Revenue</source>
-        <target state="translated">Revenus</target>
+        <target state="translated">Revenu</target>
         <note>key: dashboard.charts.revenue</note>
       </trans-unit>
       <trans-unit id="a986e297ff8c01767aad268379fa748bab9bb6f4" resname="dashboard.download_report">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
         <source>Select time range</source>
-        <target state="translated">Sélectionnez la plage de temps</target>
+        <target state="translated">Sélectionner une période</target>
         <note>key: ibexa_personalization.dashboard.time_period</note>
       </trans-unit>
       <trans-unit id="2f1c5eeea5e27f7221e63ee2d39fc3dea707e33f" resname="ibexa_personalization.date_time_range.last_24h">
         <source>Last 24h</source>
-        <target state="translated">Dernières 24h</target>
+        <target state="translated">Dernières 24 heures</target>
         <note>key: ibexa_personalization.date_time_range.last_24h</note>
       </trans-unit>
       <trans-unit id="7d0862a335ea32fae985fe56660fe17109747c27" resname="ibexa_personalization.scenario.details.subtitle">
@@ -78,17 +78,17 @@
       </trans-unit>
       <trans-unit id="cc0a11e4bd240e70176f949aa3a1031f1243cd76" resname="ibexa_personalization.scenario.trash.modal.message">
         <source><![CDATA[Are you sure you want to delete scenario <b>%scenarion_name%</b>?]]></source>
-        <target state="translated"><![CDATA[Êtes-vous sûr de vouloir supprimer le scénario <b>%scenarion_name%</b>?]]></target>
+        <target state="translated"><![CDATA[Voulez-vous vraiment supprimer le scénario <b>%scenarion_name%</b> ?]]></target>
         <note>key: ibexa_personalization.scenario.trash.modal.message</note>
       </trans-unit>
       <trans-unit id="ca28b20d3fb0258a224cff53a0c367de985ba706" resname="ibexa_personalization.scenario.trash.modal.message.new_scenario">
         <source>Are you sure you want to delete new scenario?</source>
-        <target state="translated">Êtes-vous sûr de vouloir supprimer ce nouveau scénario ?</target>
+        <target state="translated">Voulez-vous vraiment supprimer le nouveau scénario ?</target>
         <note>key: ibexa_personalization.scenario.trash.modal.message.new_scenario</note>
       </trans-unit>
       <trans-unit id="48697d3cdd15ff4c2556b2234191d02514e1ed1d" resname="list.more_items">
         <source>+%count% more</source>
-        <target state="translated">+%count% de plus</target>
+        <target state="translated">%count% de plus</target>
         <note>key: list.more_items</note>
       </trans-unit>
       <trans-unit id="9aba3f49645a0abdc34dc18ae35c8d63aad4a5a5" resname="model.details.nominal_submodel_name">
@@ -128,37 +128,37 @@
       </trans-unit>
       <trans-unit id="bce5e42b9a06fa207cd9eae1c751b9a7be108ecd" resname="models.segments.sidebar.search">
         <source>Search...</source>
-        <target state="translated">Rechercher...</target>
+        <target state="translated">Rechercher…</target>
         <note>key: models.segments.sidebar.search</note>
       </trans-unit>
       <trans-unit id="3ae03074d84616dfe9ad9a31703780eeec26d148" resname="models.submodel.sidebar.search.placeholder">
         <source>Search...</source>
-        <target state="translated">Rechercher...</target>
+        <target state="translated">Rechercher…</target>
         <note>key: models.submodel.sidebar.search.placeholder</note>
       </trans-unit>
       <trans-unit id="0a1edadd261d980d2b77d4e9c5a316e5d0b71a76" resname="preview.recommendation_response_description">
         <source>The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</source>
-        <target state="translated">La façon dont les recommandations sont présentées n'est qu'un exemple. Cela pourrait différer de l'approche utilisée par le client sur le site Web</target>
+        <target state="translated">Le rendu des recommandations est fourni à titre d’exemple uniquement. L’approche suivie par le client sur le site Web peut être différente</target>
         <note>key: preview.recommendation_response_description</note>
       </trans-unit>
       <trans-unit id="04a82a9f3d13db85aad2887c7b39464d8e520315" resname="product_type.edit.search">
         <source>Search...</source>
-        <target state="translated">Rechercher...</target>
+        <target state="translated">Rechercher…</target>
         <note>key: product_type.edit.search</note>
       </trans-unit>
       <trans-unit id="3e6d2ee994c937e372dd66650cf0a4e98dd6ef10" resname="scenario.edit.boost_item.enable">
         <source>Enable item boosting</source>
-        <target state="translated">Activer le boosting d'objets</target>
+        <target state="translated">Activer la stimulation des éléments</target>
         <note>key: scenario.edit.boost_item.enable</note>
       </trans-unit>
       <trans-unit id="7bf8cc529dfba3144d077a880d1afa6c2e9e86c7" resname="scenario.edit.boost_item.info">
         <source>User attribute has the same name</source>
-        <target state="translated">L'attribut utilisateur a le même nom</target>
+        <target state="translated">L’attribut utilisateur comporte le même nom</target>
         <note>key: scenario.edit.boost_item.info</note>
       </trans-unit>
       <trans-unit id="2c454f4500d7a716dc9d8fc958299b65a0bb46d0" resname="scenario.edit.boost_item.position.label">
         <source>Move up by</source>
-        <target state="translated">Monter par</target>
+        <target state="translated">Faire monter de</target>
         <note>key: scenario.edit.boost_item.position.label</note>
       </trans-unit>
       <trans-unit id="99b247413362b7dc6eb69a76ed96b9d6421fcf43" resname="scenario.edit.boost_item.positions">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="ed15523a6915ee689ea6ecf441c42e317662447e" resname="scenario.edit.exclude_repeated_recommendations.">
         <source>Max. repeated shows of identical recommendations per session.</source>
-        <target state="translated">Max. séries répétées de recommandations identiques par session.</target>
+        <target state="translated">Nombre max. d’affichages répétés de recommandations identiques par session.</target>
         <note>key: scenario.edit.exclude_repeated_recommendations.</note>
       </trans-unit>
       <trans-unit id="179113ce1d5ce4a4d252cbe1db23bbc8686ab52e" resname="scenario.edit.exclude_repeated_recommendations.label">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="d0d43d3599208e43af3a077e5b64093ce9de34e8" resname="scenario.edit.user_attribute_name">
         <source>User attribute has different name</source>
-        <target state="translated">L'attribut utilisateur a un nom différent</target>
+        <target state="translated">L’attribut utilisateur a un nom différent</target>
         <note>key: scenario.edit.user_attribute_name</note>
       </trans-unit>
       <trans-unit id="f8cb075e68ee0d4580e70b92da8912e2ace02c6e" resname="scenarios.add_item">
@@ -198,22 +198,22 @@
       </trans-unit>
       <trans-unit id="556c8f71713b16de4fc1f2c51a439eda65c422c9" resname="scenarios.context_items.title">
         <source>Set up items</source>
-        <target state="translated">Configurez les éléments</target>
+        <target state="translated">Configurer les éléments</target>
         <note>key: scenarios.context_items.title</note>
       </trans-unit>
       <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
         <source>From date - to date</source>
-        <target state="translated">De la date - jusqu'à la date</target>
+        <target state="translated">De la date - à la date</target>
         <note>key: search.date.range</note>
       </trans-unit>
       <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
         <source><![CDATA[I have read and agree to the <a class='ibexa-perso-welcome__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
-        <target state="translated"><![CDATA[J'ai lu et j'accepte les <a class='ibexa-perso-welcome__show-modal-button' href='#'>Conditions Générales.</a>]]></target>
+        <target state="translated"><![CDATA[J’ai lu et j’accepte les <a class='ibexa-perso-welcome__show-modal-button' href='#'>Conditions générales.</a>]]></target>
         <note>key: welcome.form.tems_accept</note>
       </trans-unit>
       <trans-unit id="8ca1884015c59d5115a04c940d0eaa0cb6d938b6" resname="welcome.form.tems_accept_description">
         <source>If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</source>
-        <target state="translated">Si vous acceptez ces conditions pour le compte d'une autre personne ou société ou d'une autre personne morale. Vous déclarez et garantissez que vous avez pleine autorité pour lier cette personne, cette société ou cette entité juridique aux présentes conditions.</target>
+        <target state="translated">Si vous acceptez ces conditions au nom d’une autre personne, entreprise ou entité juridique. Vous déclarez et garantissez que vous détenez tous les pouvoirs requis pour lier cette personne, entreprise ou entité juridique aux présentes conditions.</target>
         <note>key: welcome.form.tems_accept_description</note>
       </trans-unit>
     </body>

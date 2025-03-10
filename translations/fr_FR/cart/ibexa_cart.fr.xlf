@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="b65cff1cb06737742a728819507fc1a75c8ae4c9" resname="maincart.item.remove_btn.label">
         <source>Remove product</source>
-        <target state="translated">Retirer produit</target>
+        <target state="translated">Supprimer le produit</target>
         <note>key: maincart.item.remove_btn.label</note>
       </trans-unit>
       <trans-unit id="36e01594025abca417d46248009ad6bdc5831764" resname="maincart.net_price">
@@ -48,17 +48,17 @@
       </trans-unit>
       <trans-unit id="ec94e2b23007a8a93e5f1ce01419d91b863f302a" resname="summary.item.percentage.label">
         <source>Tax %percentage%%</source>
-        <target state="translated">Taxe %percentage%%</target>
+        <target state="translated">%percentage% % de taxe</target>
         <note>key: summary.item.percentage.label</note>
       </trans-unit>
       <trans-unit id="db0aa96d7320762a79db2bf1da231d54348c2256" resname="summary.item.shipping_cost.label">
         <source>Shipping cost</source>
-        <target state="translated">Frais de livraison</target>
+        <target state="translated">Frais d’expédition</target>
         <note>key: summary.item.shipping_cost.label</note>
       </trans-unit>
       <trans-unit id="dd192106c7608690ea1a6de7c87c48760724a168" resname="summary.item.shipping_cost.value">
         <source>Calculated at checkout</source>
-        <target state="translated">Calculé lors de la commande</target>
+        <target state="translated">Calculé lors de la finalisation</target>
         <note>key: summary.item.shipping_cost.value</note>
       </trans-unit>
       <trans-unit id="1efe4d907513991cdbd4689f48487c221bc5eab9" resname="summary.item.subtotal.label">

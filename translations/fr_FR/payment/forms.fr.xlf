@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -33,37 +33,37 @@
       </trans-unit>
       <trans-unit id="5fb4720b397e2935ff273b7823d46a6a7e9c0079" resname="role.policy.payment.view">
         <source>Payment / View</source>
-        <target state="translated">Paiement / Voir</target>
+        <target state="translated">Paiement / Afficher</target>
         <note>key: role.policy.payment.view</note>
       </trans-unit>
       <trans-unit id="5dc62cb4a30030dd86e4445442e69030f89ab4e6" resname="role.policy.payment_method">
         <source>Payment method</source>
-        <target state="translated">Moyen de paiement</target>
+        <target state="translated">Mode de paiement</target>
         <note>key: role.policy.payment_method</note>
       </trans-unit>
       <trans-unit id="54f2e5cdaddc95bdcee3be25b7bfcd59893082a4" resname="role.policy.payment_method.all_functions">
         <source>Payment method / All functions</source>
-        <target state="translated">Méthode de paiement / Toutes les fonctions</target>
+        <target state="translated">Mode de paiement / Toutes les fonctions</target>
         <note>key: role.policy.payment_method.all_functions</note>
       </trans-unit>
       <trans-unit id="d48595ee46eb85d06731b81cea6248f8c6ef90b3" resname="role.policy.payment_method.create">
         <source>Payment method / Create</source>
-        <target state="translated">Méthode de paiement / Créer</target>
+        <target state="translated">Mode de paiement / Créer</target>
         <note>key: role.policy.payment_method.create</note>
       </trans-unit>
       <trans-unit id="47c088b71f89d9c7bcbc316f6467d38c1fc39493" resname="role.policy.payment_method.delete">
         <source>Payment method / Delete</source>
-        <target state="translated">Méthode de paiement / Supprimer</target>
+        <target state="translated">Mode de paiement / Supprimer</target>
         <note>key: role.policy.payment_method.delete</note>
       </trans-unit>
       <trans-unit id="17107919a4384698b308fffddc6ea8457bb800ea" resname="role.policy.payment_method.edit">
         <source>Payment method / Edit</source>
-        <target state="translated">Méthode de paiement / Modifier</target>
+        <target state="translated">Mode de paiement / Modifier</target>
         <note>key: role.policy.payment_method.edit</note>
       </trans-unit>
       <trans-unit id="fa2ca7a0c3bfab0c188f9c2604d4e72161c51f3c" resname="role.policy.payment_method.view">
         <source>Payment method / View</source>
-        <target state="translated">Méthode de paiement / Voir</target>
+        <target state="translated">Mode de paiement / Afficher</target>
         <note>key: role.policy.payment_method.view</note>
       </trans-unit>
     </body>

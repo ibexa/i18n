@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="a1d4aa87fb144c0363c57215a74ae734b43932f1" resname="field_definition.ibexa_seo.types">
         <source>SEO types</source>
-        <target state="translated">Types SEO</target>
+        <target state="translated">Types de SEO</target>
         <note>key: field_definition.ibexa_seo.types</note>
       </trans-unit>
       <trans-unit id="feccffc4180c7f2ceec664ae9e9f80620a518a99" resname="type.meta_tags">
         <source>Meta tags</source>
-        <target state="translated">Balises méta</target>
+        <target state="translated">Méta balises</target>
         <note>key: type.meta_tags</note>
       </trans-unit>
       <trans-unit id="3b3388e55a98915b75a5377256d5a3cce8b87a72" resname="type.open_graph">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="e00fd76bcab7b3424b030240cde6ed949478772c" resname="type.meta_tags.field.keywords">
         <source>Keywords</source>
-        <target state="translated">Mot-clés</target>
+        <target state="translated">Mots-clés</target>
         <note>key: type.meta_tags.field.keywords</note>
       </trans-unit>
       <trans-unit id="9baf17ba6ceae89d1ec99ae6cd913741605ab113" resname="type.meta_tags.field.canonical">
         <source>Canonical</source>
-        <target state="translated">URL canonique</target>
+        <target state="translated">Canonique</target>
         <note>key: type.meta_tags.field.canonical</note>
       </trans-unit>
       <trans-unit id="cb937a3c1920d26771ba290bf64533b06f6001fb" resname="type.open_graph.field.og_title">

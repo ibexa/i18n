@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="504ce9f80e074eeb880d5ae5f54d4811e2ab6862" resname="role.policy.comparison">
         <source>Comparison</source>
-        <target state="needs-translation">Comparison</target>
+        <target state="translated">Comparación</target>
         <note>key: role.policy.comparison</note>
       </trans-unit>
       <trans-unit id="aa75e405b40b2c0fb249bbcc690de4e409191dd4" resname="role.policy.comparison.all_functions">
         <source>Comparison / All functions</source>
-        <target state="needs-translation">Comparison / All functions</target>
+        <target state="translated">Comparación/Todas las funciones</target>
         <note>key: role.policy.comparison.all_functions</note>
       </trans-unit>
       <trans-unit id="0a08a017bb100a4d45400bc82e83c84a89252586" resname="role.policy.comparison.view">
         <source>Comparison / View</source>
-        <target state="needs-translation">Comparison / View</target>
+        <target state="translated">Comparación/Visualizar</target>
         <note>key: role.policy.comparison.view</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="5545db232bd86319ec49973648fb5d0efa6794ad" resname="notification_email.data.empty">
         <source>-</source>
-        <target state="needs-translation">-</target>
+        <target state="translated">-</target>
         <note>key: notification_email.data.empty</note>
       </trans-unit>
       <trans-unit id="5e3b0ae0b553effddeea6f015e2803051524b41f" resname="notification_email.data.header.field">
         <source>Field</source>
-        <target state="needs-translation">Field</target>
+        <target state="translated">Feld</target>
         <note>key: notification_email.data.header.field</note>
       </trans-unit>
       <trans-unit id="0708883c26c814ed9479845117b9fc1bf1b077b8" resname="notification_email.data.header.value">
         <source>Value</source>
-        <target state="needs-translation">Value</target>
+        <target state="translated">Wert</target>
         <note>key: notification_email.data.header.value</note>
       </trans-unit>
       <trans-unit id="bd6a4a6eaa2ac888c71c224b7f0bc6e732fa04e9" resname="notification_email.header">
         <source>New %name% form submission</source>
-        <target state="needs-translation">New %name% form submission</target>
+        <target state="translated">Neues %name%-Formular einreichen</target>
         <note>key: notification_email.header</note>
       </trans-unit>
       <trans-unit id="c4c1eef54c552362a25b3666b0dbda46349ad7ad" resname="notification_email.header.created_at">
         <source>Send at %datetime% </source>
-        <target state="needs-translation">Send at %datetime% </target>
+        <target state="translated">Senden an %datetime% </target>
         <note>key: notification_email.header.created_at</note>
       </trans-unit>
       <trans-unit id="9ae7ee329319310387b096b199936c8bd2ccd89a" resname="notification_email.subject">
         <source>New %name% form submission</source>
-        <target state="needs-translation">New %name% form submission</target>
+        <target state="translated">Neues %name%-Formular einreichen</target>
         <note>key: notification_email.subject</note>
       </trans-unit>
     </body>

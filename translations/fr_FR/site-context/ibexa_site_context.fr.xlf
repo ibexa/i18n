@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="0224bbc48522e8bf2474730a78b4b58fafd1b896" resname="change_sa.dropdown.selected_item.label">
         <source>Site: %sa_name%</source>
-        <target state="translated">Site : %sa_name%</target>
+        <target state="translated">Site : %sa_name%</target>
         <note>key: change_sa.dropdown.selected_item.label</note>
       </trans-unit>
       <trans-unit id="9f653a73cc476aba5c79fc69b6fb191814ccd93c" resname="full_preview.additional_actions.exit">
         <source>Exit full view</source>
-        <target state="translated">Quitter la vue complète</target>
+        <target state="translated">Quitter l’affichage intégral</target>
         <note>key: full_preview.additional_actions.exit</note>
       </trans-unit>
       <trans-unit id="2d5ac3f6b3d9d57c849a8640e529594cf3372994" resname="full_preview.additional_actions.full_view">
         <source>Full view</source>
-        <target state="translated">Vue complète</target>
+        <target state="translated">Affichage intégral</target>
         <note>key: full_preview.additional_actions.full_view</note>
       </trans-unit>
       <trans-unit id="2ff4fcff8545b6bbedbf982fc14cbee93790eb71" resname="ibexa.site_context.preview.no_available.helper">
         <source>You can’t get the preview for this language because it is not added to this site.</source>
-        <target state="translated">Vous ne pouvez pas obtenir l'aperçu de cette langue car elle n'est pas ajoutée à ce site.</target>
+        <target state="translated">Vous ne pouvez pas obtenir l’aperçu pour cette langue, car elle n’a pas été ajoutée à ce site.</target>
         <note>key: ibexa.site_context.preview.no_available.helper</note>
       </trans-unit>
       <trans-unit id="3178c996a08cfe145df75ebef612944cfc8ed0aa" resname="ibexa.site_context.preview.no_available.main">
         <source>Preview is not available</source>
-        <target state="translated">L'aperçu n'est pas disponible</target>
+        <target state="translated">L’aperçu n’est pas disponible</target>
         <note>key: ibexa.site_context.preview.no_available.main</note>
       </trans-unit>
       <trans-unit id="bc905a91df55d75c058edd1437b6588a5b1d1a4f" resname="ibexa.site_context.settings.location_preview.description">
         <source>Location preview</source>
-        <target state="translated">Aperçu de l'emplacement</target>
+        <target state="translated">Aperçu d’emplacement</target>
         <note>key: ibexa.site_context.settings.location_preview.description</note>
       </trans-unit>
       <trans-unit id="dfcc966c813b0af82dc15e539c8c24565c21280f" resname="ibexa.site_context.settings.location_preview.name">
         <source>Location preview</source>
-        <target state="translated">Aperçu de l'emplacement</target>
+        <target state="translated">Aperçu d’emplacement</target>
         <note>key: ibexa.site_context.settings.location_preview.name</note>
       </trans-unit>
       <trans-unit id="57de00051f4a2a6a127e112674742d6a9857fc36" resname="ibexa.site_context.settings.location_preview.value.disabled">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="595250fee755995472e97fef1d405731bc6293ff" resname="site_context.dropdown.placeholder.description">
         <source>Shows all content you have access to. Some preview options are limited.</source>
-        <target state="translated">Affiche tout le contenu auquel vous avez accès. Certaines options de prévisualisation sont limitées.</target>
+        <target state="translated">Montre tout le contenu auquel vous avez accès. Certaines options d’aperçu sont limitées.</target>
         <note>key: site_context.dropdown.placeholder.description</note>
       </trans-unit>
       <trans-unit id="0ea999ae07d7f0b23cc3b6c734a8e9e7bdbdf1d5" resname="tab.preview.name">

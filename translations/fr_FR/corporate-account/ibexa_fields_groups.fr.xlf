@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0f316440cb89c58d3fd1ff34782f83715909f602" resname="basic_information">
         <source>Basic information</source>
-        <target state="translated">Informations générales</target>
+        <target state="translated">Informations de base</target>
         <note>key: basic_information</note>
       </trans-unit>
       <trans-unit id="bc2c6f07dfa926df59e804c841049e5c44090e92" resname="billing_address">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="71b21161ffa1e6516bcc072aaf5ef38cbe85b511" resname="company">
         <source>Company</source>
-        <target state="translated">Société</target>
+        <target state="translated">Entreprise</target>
         <note>key: company</note>
       </trans-unit>
       <trans-unit id="9f33a7c798af6fd6abb28049d9c1b3edfa2fd24a" resname="internal">

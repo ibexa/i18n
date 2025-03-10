@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="f7abacc4ff5dae93e1de71e1fcb569e1d162f4d9" resname="cart_view.empty.headline">
         <source>Your shopping cart is empty</source>
-        <target state="translated">Votre panier est vide</target>
+        <target state="translated">Votre panier d’achats est vide</target>
         <note>key: cart_view.empty.headline</note>
       </trans-unit>
       <trans-unit id="ba8758b61e00dea1ac02cd53ba037672ddd6100c" resname="ibexa_storefront.maincart.clear_cart_btn.label">
         <source>Clear cart</source>
-        <target state="translated">Vider le panier</target>
+        <target state="translated">Effacer le panier</target>
         <note>key: ibexa_storefront.maincart.clear_cart_btn.label</note>
       </trans-unit>
       <trans-unit id="e6c713463dfb507d2a4246a0bf040c3ae3da284f" resname="ibexa_storefront.maincart.header.counter.label">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="6713f8164032ceb741f0505616b72aefc9db1f3f" resname="maincart.summary.go_to_checkout_btn.label">
         <source>Go to checkout</source>
-        <target state="translated">Passer la commande</target>
+        <target state="translated">Aller à la finalisation</target>
         <note>key: maincart.summary.go_to_checkout_btn.label</note>
       </trans-unit>
       <trans-unit id="5c943dada72f62f4b1a87f7d482f33bb344c5110" resname="minicart.icon.alt">

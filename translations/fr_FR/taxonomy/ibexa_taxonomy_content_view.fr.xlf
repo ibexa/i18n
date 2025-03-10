@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="b97ff023802dc5e879d14be64835d4ffdb6abb6c" resname="tab.unassign_content.modal.message">
         <source>Do you want to unassign content?</source>
-        <target state="translated">Voulez-vous désassigner ce contenu</target>
+        <target state="translated">Voulez-vous supprimer l’attribution du contenu ?</target>
         <note>key: tab.unassign_content.modal.message</note>
       </trans-unit>
       <trans-unit id="aef452f8040700116fbc5ae9817bb8fc46ed5275" resname="taxonomy.assign">
         <source>Assign</source>
-        <target state="translated">Assigner</target>
+        <target state="translated">Attribuer</target>
         <note>key: taxonomy.assign</note>
       </trans-unit>
       <trans-unit id="a5157261b7db968f9d2cd4a00ae28744be17006b" resname="taxonomy.select_new_parent">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="225ff02fe1e4ab54f8e94fc388306a9eeac76ada" resname="taxonomy.unassign">
         <source>Unassign</source>
-        <target state="translated">Désassigner</target>
+        <target state="translated">Supprimer l’attribution</target>
         <note>key: taxonomy.unassign</note>
       </trans-unit>
     </body>

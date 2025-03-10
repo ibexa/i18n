@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="4fd0653c4f2aef3b19a3c145bbdc5f4740715a09" resname="cancel">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Abandonner</target>
         <note>key: cancel</note>
       </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="3fa4054f214f0f8063d8fb4453be65d460e3e30c" resname="submit">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Enregistrer et fermer</target>
         <note>key: submit</note>
       </trans-unit>
     </body>

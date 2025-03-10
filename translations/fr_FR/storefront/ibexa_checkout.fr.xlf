@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="e675883f8fbcd6f810ff30127f4b533ade3e1404" resname="ibexa_storefront.checkout.confirmation_main.payment_fail.subtext">
         <source><![CDATA[Your order #<b>%order_identifier%</b> has been placed but there was problem with your payment.]]></source>
-        <target state="needs-translation"><![CDATA[Your order #<b>%order_identifier%</b> has been placed but there was problem with your payment.]]></target>
+        <target state="translated"><![CDATA[Votre commande n° <b>%order_identifier%</b> a été enregistrée, mais un problème est survenu avec votre paiement.]]></target>
         <note>key: ibexa_storefront.checkout.confirmation_main.payment_fail.subtext</note>
       </trans-unit>
       <trans-unit id="5853e50d2a588d6640c2594fc644e8d7e0bf1a69" resname="ibexa_storefront.checkout.confirmation_main.subtext">
         <source><![CDATA[Your order #<b>%order_identifier%</b> has been placed and is being processed.]]></source>
-        <target state="translated"><![CDATA[Votre commande n°<b>%order_identifier%</b> a été passée et est en cours de traitement.]]></target>
+        <target state="translated"><![CDATA[Votre commande n° <b>%order_identifier%</b> a été enregistrée et est en cours de traitement.]]></target>
         <note>key: ibexa_storefront.checkout.confirmation_main.subtext</note>
       </trans-unit>
       <trans-unit id="12fa1d62e13328f8d4b990080d6f4d69af4cc817" resname="ibexa_storefront.checkout.layout.continue.shopping">
