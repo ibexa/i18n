@@ -136,10 +136,10 @@
         <target state="new">No images yet</target>
         <note>key: items_view.no_items.info_text</note>
       </trans-unit>
-      <trans-unit id="ef24aeea17c44a1a184ffae241036ded6170f8c8" resname="list_view.header.created">
-        <source>Created</source>
-        <target state="new">Created</target>
-        <note>key: list_view.header.created</note>
+      <trans-unit id="ef24aeea17c44a1a184ffae241036ded6170f8c8" resname="list_view.header.published">
+        <source>Published</source>
+        <target state="new">Published</target>
+        <note>key: list_view.header.published</note>
       </trans-unit>
       <trans-unit id="2851b2d273f0c99cf6e56dea6dbe7127f4b9d719" resname="list_view.header.dimensions">
         <source>Dimensions</source>
@@ -166,10 +166,10 @@
         <target state="new">Thumbnail</target>
         <note>key: list_view.header.thumbnail</note>
       </trans-unit>
-      <trans-unit id="ad0d3e1ff872d7fcbbc7bfe77b68b4cee774e137" resname="list_view.header.updated">
-        <source>Updated</source>
-        <target state="new">Updated</target>
-        <note>key: list_view.header.updated</note>
+      <trans-unit id="ad0d3e1ff872d7fcbbc7bfe77b68b4cee774e137" resname="list_view.header.modified">
+        <source>Modified</source>
+        <target state="new">Modified</target>
+        <note>key: list_view.header.modified</note>
       </trans-unit>
       <trans-unit id="0ccf757794cf80d03dec7594b2d01f1b6067736b" resname="root_location.fake_name">
         <source>Location</source>
