@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="69e52e7a6c6f794982f94ad81ffbde1bb2d88463" resname="product_availability_status.available">
+        <source>Available</source>
+        <target state="new">Available</target>
+        <note>key: product_availability_status.available</note>
+      </trans-unit>
+      <trans-unit id="d41dfd6c53c3d961c4f59c6bc6be214474a76d45" resname="product_availability_status.not_available">
+        <source>Not available</source>
+        <target state="new">Not available</target>
+        <note>key: product_availability_status.not_available</note>
+      </trans-unit>
+      <trans-unit id="74af08bb5891fbcf76c69d9e7690f20a8ef5e769" resname="products.label">
+        <source>Products</source>
+        <target state="new">Products</target>
+        <note>key: products.label</note>
+      </trans-unit>
+      <trans-unit id="5557a64340dc73d4831514dcee2b2a298a739ff0" resname="products_discovery_widget.category_select_popup.cancel">
+        <source>Discard</source>
+        <target state="new">Discard</target>
+        <note>key: products_discovery_widget.category_select_popup.cancel</note>
+      </trans-unit>
+      <trans-unit id="2cede4181d22fed4851d5f91ad15ef12fec051f8" resname="products_discovery_widget.category_select_popup.confirm">
+        <source>Select</source>
+        <target state="new">Select</target>
+        <note>key: products_discovery_widget.category_select_popup.confirm</note>
+      </trans-unit>
+      <trans-unit id="d5f445bccf75cdebd255df22ec2e3d4b2be7cd56" resname="products_discovery_widget.category_select_popup.header.title">
+        <source>Select product categories</source>
+        <target state="new">Select product categories</target>
+        <note>key: products_discovery_widget.category_select_popup.header.title</note>
+      </trans-unit>
+      <trans-unit id="406450744283845aaa817757eb88c4cc30c6df43" resname="products_discovery_widget.category_select_popup.subheader.title">
+        <source>in %languageName%</source>
+        <target state="new">in %languageName%</target>
+        <note>key: products_discovery_widget.category_select_popup.subheader.title</note>
+      </trans-unit>
+      <trans-unit id="a24323da6cca7efa2df9a454bf1da3a3cd4e1279" resname="products_discovery_widget.product_table.empty_table.action_text">
+        <source><![CDATA[Go to <a target='_blank' rel='noopener noreferrer' href='%product_catalog_href%'>product catalog</a> and add products.]]></source>
+        <target state="new"><![CDATA[Go to <a target='_blank' rel='noopener noreferrer' href='%product_catalog_href%'>product catalog</a> and add products.]]></target>
+        <note>key: products_discovery_widget.product_table.empty_table.action_text</note>
+      </trans-unit>
+      <trans-unit id="e925d3ed174bcbaa6b2bdd94eba98ba6f9da2305" resname="products_discovery_widget.product_table.empty_table.info_text">
+        <source>No products yet</source>
+        <target state="new">No products yet</target>
+        <note>key: products_discovery_widget.product_table.empty_table.info_text</note>
+      </trans-unit>
+      <trans-unit id="ef77d0ed41c422ba527f17139e5f13fa076e9378" resname="products_discovery_widget.product_table.header.availability">
+        <source>Availability</source>
+        <target state="new">Availability</target>
+        <note>key: products_discovery_widget.product_table.header.availability</note>
+      </trans-unit>
+      <trans-unit id="af79f578f10b012a64f90277c1ff9cf8bf34b7f7" resname="products_discovery_widget.product_table.header.code">
+        <source>Code</source>
+        <target state="new">Code</target>
+        <note>key: products_discovery_widget.product_table.header.code</note>
+      </trans-unit>
+      <trans-unit id="8987617e20bfbbd2fd3ebe42da29441592983cab" resname="products_discovery_widget.product_table.header.image">
+        <source>Image</source>
+        <target state="new">Image</target>
+        <note>key: products_discovery_widget.product_table.header.image</note>
+      </trans-unit>
+      <trans-unit id="87d4e1feaaf7f8ec14f1b948544898857d3d677f" resname="products_discovery_widget.product_table.header.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: products_discovery_widget.product_table.header.name</note>
+      </trans-unit>
+      <trans-unit id="d09ac09468b2c740247c0191d3787e4ff12e3edb" resname="products_discovery_widget.product_table.header.stock">
+        <source>Stock</source>
+        <target state="new">Stock</target>
+        <note>key: products_discovery_widget.product_table.header.stock</note>
+      </trans-unit>
+      <trans-unit id="2b6995299f077559378241cc0010efc286cdf307" resname="products_discovery_widget.product_table.header.type">
+        <source>Type</source>
+        <target state="new">Type</target>
+        <note>key: products_discovery_widget.product_table.header.type</note>
+      </trans-unit>
+      <trans-unit id="563f8e60b202934bc51213a83dd8c84b30264ddc" resname="products_discovery_widget.product_table.header.variants">
+        <source>Variants</source>
+        <target state="new">Variants</target>
+        <note>key: products_discovery_widget.product_table.header.variants</note>
+      </trans-unit>
+      <trans-unit id="2357ff0447d9861a17922fe54a61699f01282f1c" resname="products_discovery_widget.product_table.headline">
+        <source>Products (%totalCount%)</source>
+        <target state="new">Products (%totalCount%)</target>
+        <note>key: products_discovery_widget.product_table.headline</note>
+      </trans-unit>
+      <trans-unit id="9b322c0f5c115e7c7d9daba631e086463eac5b8d" resname="products_discovery_widget.product_table.search.search_results">
+        <source>Results for “%searchPhrase%” (%total%)</source>
+        <target state="new">Results for “%searchPhrase%” (%total%)</target>
+        <note>key: products_discovery_widget.product_table.search.search_results</note>
+      </trans-unit>
+      <trans-unit id="c5f7bc9bc320591e79dff1bb612b84be2ceb4e6e" resname="products_discovery_widget.product_table.variants_btn.label">
+        <source>%variantsNo% variants</source>
+        <target state="new">%variantsNo% variants</target>
+        <note>key: products_discovery_widget.product_table.variants_btn.label</note>
+      </trans-unit>
+      <trans-unit id="68fe85f8c4d58fb4a3ae64311570aaa13b98b18a" resname="products_discovery_widget.product_variant_table.back_to_products_btn.title">
+        <source>Back to products</source>
+        <target state="new">Back to products</target>
+        <note>key: products_discovery_widget.product_variant_table.back_to_products_btn.title</note>
+      </trans-unit>
+      <trans-unit id="3be640b1f1c9245df545626b00a68ab9e698e9f3" resname="products_discovery_widget.product_variant_table.header.availability">
+        <source>Availability</source>
+        <target state="new">Availability</target>
+        <note>key: products_discovery_widget.product_variant_table.header.availability</note>
+      </trans-unit>
+      <trans-unit id="286d639d5c2ead77b43267a2afcb0a5e948dc4d7" resname="products_discovery_widget.product_variant_table.header.code">
+        <source>Code</source>
+        <target state="new">Code</target>
+        <note>key: products_discovery_widget.product_variant_table.header.code</note>
+      </trans-unit>
+      <trans-unit id="7cd665f9e42273213fb134da4439f3b14e999030" resname="products_discovery_widget.product_variant_table.header.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: products_discovery_widget.product_variant_table.header.name</note>
+      </trans-unit>
+      <trans-unit id="afed401762826d38701022d976efaac6cbc8d982" resname="products_discovery_widget.product_variant_table.headline">
+        <source>%baseProductName% (%totalCount% variants)</source>
+        <target state="new">%baseProductName% (%totalCount% variants)</target>
+        <note>key: products_discovery_widget.product_variant_table.headline</note>
+      </trans-unit>
+      <trans-unit id="56cc8b35122a047f9840cc94954652d4ba19bd77" resname="products_discovery_widget.product_variants_view.filters.row.attributes.title">
+        <source>Attributes</source>
+        <target state="new">Attributes</target>
+        <note>key: products_discovery_widget.product_variants_view.filters.row.attributes.title</note>
+      </trans-unit>
+      <trans-unit id="ff6f4185860852d8743671626b3fcd7e634fa8c0" resname="products_discovery_widget.products_view.filters.row.category.select_btn.label">
+        <source>Select category</source>
+        <target state="new">Select category</target>
+        <note>key: products_discovery_widget.products_view.filters.row.category.select_btn.label</note>
+      </trans-unit>
+      <trans-unit id="36a74bcd0c0469d26c6625bfb0d183e6ca965058" resname="products_discovery_widget.products_view.filters.row.category.title">
+        <source>Category</source>
+        <target state="new">Category</target>
+        <note>key: products_discovery_widget.products_view.filters.row.category.title</note>
+      </trans-unit>
+      <trans-unit id="5d3b759aceda9bc622698a2bd87d29ba2dbfa750" resname="products_discovery_widget.products_view.filters.row.product_codes.input.label">
+        <source>Codes</source>
+        <target state="new">Codes</target>
+        <note>key: products_discovery_widget.products_view.filters.row.product_codes.input.label</note>
+      </trans-unit>
+      <trans-unit id="33bf14d41a9c19cb176c4473e8af9e455c9559dd" resname="products_discovery_widget.products_view.filters.row.product_codes.title">
+        <source>Product codes</source>
+        <target state="new">Product codes</target>
+        <note>key: products_discovery_widget.products_view.filters.row.product_codes.title</note>
+      </trans-unit>
+      <trans-unit id="a2062ea8ecf4676f991c84974d25cc24bf88916f" resname="products_discovery_widget.products_view.filters.row.product_type.no_product_types.info">
+        <source>No product types defined.</source>
+        <target state="new">No product types defined.</target>
+        <note>key: products_discovery_widget.products_view.filters.row.product_type.no_product_types.info</note>
+      </trans-unit>
+      <trans-unit id="e2478fb17bc56b0f4ba6ab35e52219ea90e39a9a" resname="products_discovery_widget.products_view.filters.row.product_type.title">
+        <source>Product types</source>
+        <target state="new">Product types</target>
+        <note>key: products_discovery_widget.products_view.filters.row.product_type.title</note>
+      </trans-unit>
+      <trans-unit id="d1ea82176d99763b884e25488b0bb759093d13b1" resname="products_discovery_widget.selected_items.product.variants_label.has_variants">
+        <source>Variants (%selectedVariantsCount%/%totalVariantsCount%)</source>
+        <target state="new">Variants (%selectedVariantsCount%/%totalVariantsCount%)</target>
+        <note>key: products_discovery_widget.selected_items.product.variants_label.has_variants</note>
+      </trans-unit>
+      <trans-unit id="3d10cec3c145efbf643a23ca72473dec70ada4fe" resname="products_discovery_widget.selected_items.product.variants_label.no_variants">
+        <source>Variants: No</source>
+        <target state="new">Variants: No</target>
+        <note>key: products_discovery_widget.selected_items.product.variants_label.no_variants</note>
+      </trans-unit>
+      <trans-unit id="2802819082125f97c9199eb08f8577765b2258d8" resname="products_discovery_widget.views.table.label">
+        <source>Table</source>
+        <target state="new">Table</target>
+        <note>key: products_discovery_widget.views.table.label</note>
+      </trans-unit>
+      <trans-unit id="b358d77d29a6b9869920d03666b1ebf0c13e21d2" resname="search.search_results.clear_btn.label">
+        <source>Clear results</source>
+        <target state="new">Clear results</target>
+        <note>key: search.search_results.clear_btn.label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

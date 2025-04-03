@@ -11,6 +11,11 @@
         <target state="new">Commerce</target>
         <note>key: main__commerce</note>
       </trans-unit>
+      <trans-unit id="9798f6356c9e959bf75d66e77c0c2aa839fa93a2" resname="main__commerce__group_settings">
+        <source>Settings</source>
+        <target state="new">Settings</target>
+        <note>key: main__commerce__group_settings</note>
+      </trans-unit>
       <trans-unit id="829b64659f95ca247a2327a9884147821e8499c3" resname="main__commerce__payment_methods">
         <source>Payment methods</source>
         <target state="new">Payment methods</target>

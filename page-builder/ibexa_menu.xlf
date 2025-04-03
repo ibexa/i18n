@@ -33,8 +33,13 @@
       </trans-unit>
       <trans-unit id="327a7fa97c120a7401e0ad51b8750db2b3efdc96" resname="page_builder__infobar__edit__actions__save_draft">
         <source>Save draft</source>
-        <target state="new">Save draft</target>
+        <target state="new">Save</target>
         <note>key: page_builder__infobar__edit__actions__save_draft</note>
+      </trans-unit>
+      <trans-unit id="0ebcfc43de6685b313777b7951474b2aa812252d" resname="page_builder__infobar__edit__actions__save_draft_and_close">
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
+        <note>key: page_builder__infobar__edit__actions__save_draft_and_close</note>
       </trans-unit>
       <trans-unit id="0ba863bd868948ade36a1fc746f300f9f4ec5c28" resname="page_builder__infobar__preview__tools__add_translation">
         <source>Add translation</source>

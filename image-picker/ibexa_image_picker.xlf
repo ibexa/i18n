@@ -6,6 +6,21 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="138ce0b75542326362a35095ffb9e240dc159a6e" resname="actions.create_content">
+        <source>Create</source>
+        <target state="new">Create</target>
+        <note>key: actions.create_content</note>
+      </trans-unit>
+      <trans-unit id="4b5c0572b0e3fe492853d73e4edcdaf84daa6570" resname="actions.rename_content">
+        <source>Rename</source>
+        <target state="new">Rename</target>
+        <note>key: actions.rename_content</note>
+      </trans-unit>
+      <trans-unit id="7828a0babb3449d8e144d80eef509a58217f015b" resname="close.label">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <note>key: close.label</note>
+      </trans-unit>
       <trans-unit id="5e6cd75c94e19781e680d58cdd765cf9abe73aa6" resname="content.1">
         <source>1</source>
         <target state="new">1</target>
@@ -127,9 +142,29 @@
         <note>key: filters.translations.title</note>
       </trans-unit>
       <trans-unit id="b43f7453a4034bed3e84ca3df4af263f4c8e4292" resname="image_picker.module.label">
-        <source>Image Picker</source>
-        <target state="new">Image Picker</target>
+        <source>Assets</source>
+        <target state="new">Assets</target>
         <note>key: image_picker.module.label</note>
+      </trans-unit>
+      <trans-unit id="4b986e04c80b6e809895353ccfd4a1da8cb813e8" resname="image_picker_bookmarks.module.label">
+        <source>Bookmarks</source>
+        <target state="new">Bookmarks</target>
+        <note>key: image_picker_bookmarks.module.label</note>
+      </trans-unit>
+      <trans-unit id="8550aacbecc32b8a8e9c2c300385feebb7ca0f16" resname="image_picker_bookmarks.module.no_items.action_text">
+        <source>All bookmarked assets will appear here.</source>
+        <target state="new">All bookmarked assets will appear here.</target>
+        <note>key: image_picker_bookmarks.module.no_items.action_text</note>
+      </trans-unit>
+      <trans-unit id="ea90570c74c548a827f091a0d36ca96d67e6ede1" resname="image_picker_bookmarks.module.no_items.info_text">
+        <source>No bookmarks yet</source>
+        <target state="new">No bookmarks yet</target>
+        <note>key: image_picker_bookmarks.module.no_items.info_text</note>
+      </trans-unit>
+      <trans-unit id="8539831cc2e86f6f8509c0e58293d4486144af97" resname="items_view.no_items.action_text">
+        <source>Drag and drop files here to upload or click the Upload button.</source>
+        <target state="new">Drag and drop files here to upload or click the Upload button.</target>
+        <note>key: items_view.no_items.action_text</note>
       </trans-unit>
       <trans-unit id="23145c2e9118fbef1d39394281e099c9393746ef" resname="items_view.no_items.info_text">
         <source>No images yet</source>
@@ -137,8 +172,8 @@
         <note>key: items_view.no_items.info_text</note>
       </trans-unit>
       <trans-unit id="ef24aeea17c44a1a184ffae241036ded6170f8c8" resname="list_view.header.created">
-        <source>Created</source>
-        <target state="new">Created</target>
+        <source>Published</source>
+        <target state="new">Published</target>
         <note>key: list_view.header.created</note>
       </trans-unit>
       <trans-unit id="2851b2d273f0c99cf6e56dea6dbe7127f4b9d719" resname="list_view.header.dimensions">
@@ -167,29 +202,154 @@
         <note>key: list_view.header.thumbnail</note>
       </trans-unit>
       <trans-unit id="ad0d3e1ff872d7fcbbc7bfe77b68b4cee774e137" resname="list_view.header.updated">
-        <source>Updated</source>
-        <target state="new">Updated</target>
+        <source>Modified</source>
+        <target state="new">Modified</target>
         <note>key: list_view.header.updated</note>
+      </trans-unit>
+      <trans-unit id="553595b287436b7f41b46ab321972cd2fa9296db" resname="quick_actions.validation_msgs.create_error">
+        <source>Can’t create %name%. Try again later.</source>
+        <target state="new">Can’t create %name%. Try again later.</target>
+        <note>key: quick_actions.validation_msgs.create_error</note>
+      </trans-unit>
+      <trans-unit id="724012a9f2b1d380a794b1fac7bca9ee8b1a192c" resname="quick_actions.validation_msgs.delete_error">
+        <source>Can’t delete %names%. Try again later.</source>
+        <target state="new">Can’t delete %names%. Try again later.</target>
+        <note>key: quick_actions.validation_msgs.delete_error</note>
+      </trans-unit>
+      <trans-unit id="7109c10980f87068707bf90ffa8c2f1d98cadd62" resname="quick_actions.validation_msgs.fetch_content_type_error">
+        <source>An error occurred while fetching Content Type. Try again later</source>
+        <target state="new">An error occurred while fetching Content Type. Try again later</target>
+        <note>key: quick_actions.validation_msgs.fetch_content_type_error</note>
+      </trans-unit>
+      <trans-unit id="a10f7c6bdde990828717726672ea12a4dc564de8" resname="quick_actions.validation_msgs.move_destination_error">
+        <source>Can’t move %names%. Drop into a different location.</source>
+        <target state="new">Can’t move %names%. Drop into a different location.</target>
+        <note>key: quick_actions.validation_msgs.move_destination_error</note>
+      </trans-unit>
+      <trans-unit id="b098f07a95055ff070284f3fd646021f0242c703" resname="quick_actions.validation_msgs.move_error">
+        <source>Can’t move %names%. Try again later.</source>
+        <target state="new">Can’t move %names%. Try again later.</target>
+        <note>key: quick_actions.validation_msgs.move_error</note>
+      </trans-unit>
+      <trans-unit id="e6bbda8e5cc00a22e382851264e3e915631d0174" resname="quick_actions.validation_msgs.rename_error">
+        <source>Can’t rename %name%. Try again later.</source>
+        <target state="new">Can’t rename %name%. Try again later.</target>
+        <note>key: quick_actions.validation_msgs.rename_error</note>
       </trans-unit>
       <trans-unit id="0ccf757794cf80d03dec7594b2d01f1b6067736b" resname="root_location.fake_name">
         <source>Location</source>
         <target state="new">Location</target>
         <note>key: root_location.fake_name</note>
       </trans-unit>
-      <trans-unit id="31cc54aed93ab7a24b95b1409f3997880eda65cc" resname="snackbar.insert.label">
+      <trans-unit id="5fc82ecbc048b1d8a97bc7561dee6e75e697a6cb" resname="snackbar.actions.delete.label">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: snackbar.actions.delete.label</note>
+      </trans-unit>
+      <trans-unit id="9fbf13a9e1771dfa24b2d8b323b00f2e8c9e9358" resname="snackbar.actions.delete.popup.cancel_label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: snackbar.actions.delete.popup.cancel_label</note>
+      </trans-unit>
+      <trans-unit id="2a42e138fd7d3f95bb1e6a84d949f6bdbeacf16d" resname="snackbar.actions.delete.popup.confirmation_label">
+        <source>Confirm</source>
+        <target state="new">Confirm</target>
+        <note>key: snackbar.actions.delete.popup.confirmation_label</note>
+      </trans-unit>
+      <trans-unit id="1340bba4cd3bdde315d894117e694d5a9f27aeaf" resname="snackbar.actions.download.error_msg">
+        <source>Can't download content. Try again later</source>
+        <target state="new">Can't download content. Try again later</target>
+        <note>key: snackbar.actions.download.error_msg</note>
+      </trans-unit>
+      <trans-unit id="95f2efddc83cab21b518f85291b39efb26f328a6" resname="snackbar.actions.download.label">
+        <source>Download</source>
+        <target state="new">Download</target>
+        <note>key: snackbar.actions.download.label</note>
+      </trans-unit>
+      <trans-unit id="6fbd7bbe99caefd3ed7b60b1e55ea433c23e96a3" resname="snackbar.actions.download.multi_files_label">
+        <source>Items</source>
+        <target state="new">Items</target>
+        <note>key: snackbar.actions.download.multi_files_label</note>
+      </trans-unit>
+      <trans-unit id="ade4e2436f5c888306d607c1b61c190b6acd5258" resname="snackbar.actions.duplicate.label">
+        <source>Duplicate</source>
+        <target state="new">Duplicate</target>
+        <note>key: snackbar.actions.duplicate.label</note>
+      </trans-unit>
+      <trans-unit id="2a49288d694aa6f10e0a618d6ecef4defac3a83c" resname="snackbar.actions.edit.error_msg">
+        <source>Can't edit content. Try again later</source>
+        <target state="new">Can't edit content. Try again later</target>
+        <note>key: snackbar.actions.edit.error_msg</note>
+      </trans-unit>
+      <trans-unit id="e9542cc525f93179a47d447b200df2e2991b2abe" resname="snackbar.actions.edit.label">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: snackbar.actions.edit.label</note>
+      </trans-unit>
+      <trans-unit id="5880e787869209bcafc9e8a387904da625766d81" resname="snackbar.actions.error_msgs.delete_error">
+        <source>Can’t delete. Try again later.</source>
+        <target state="new">Can’t delete. Try again later.</target>
+        <note>key: snackbar.actions.error_msgs.delete_error</note>
+      </trans-unit>
+      <trans-unit id="3acade3aa700dc8a8ad4ca7329c0be1dee36dcd6" resname="snackbar.actions.error_msgs.duplicate_error">
+        <source>Can’t duplicate. Try again later.</source>
+        <target state="new">Can’t duplicate. Try again later.</target>
+        <note>key: snackbar.actions.error_msgs.duplicate_error</note>
+      </trans-unit>
+      <trans-unit id="d287db70521023f78beaedc96ff7106339168a9c" resname="snackbar.actions.insert.label">
         <source>Insert</source>
         <target state="new">Insert</target>
-        <note>key: snackbar.insert.label</note>
+        <note>key: snackbar.actions.insert.label</note>
+      </trans-unit>
+      <trans-unit id="66b6dbd325ff6fefcdc057851f5ced71bdb6b415" resname="snackbar.actions.move_to_trash.popup.confirmation_msg">
+        <source>Are you sure you want do send this Content item to Trash?</source>
+        <target state="new">Are you sure you want do send this Content item to Trash?</target>
+        <note>key: snackbar.actions.move_to_trash.popup.confirmation_msg</note>
+      </trans-unit>
+      <trans-unit id="077f87495a663237db7dfb2a5d88669dbcd47c89" resname="snackbar.actions.popup.cancel_label">
+        <source>Discard</source>
+        <target state="new">Discard</target>
+        <note>key: snackbar.actions.popup.cancel_label</note>
+      </trans-unit>
+      <trans-unit id="6625bfe1a246cdaa925ef3f13eb7bcf6bce972d6" resname="snackbar.actions.popup.confirm_label">
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
+        <note>key: snackbar.actions.popup.confirm_label</note>
+      </trans-unit>
+      <trans-unit id="1f0ad2d58cedd79dcb2dd91a4ab6618e9a3dc8cd" resname="snackbar.actions.select_all.label">
+        <source>Select all</source>
+        <target state="new">Select all</target>
+        <note>key: snackbar.actions.select_all.label</note>
+      </trans-unit>
+      <trans-unit id="6f0a4bae5a5f005db453500551cd562d0c1fa8c6" resname="snackbar.actions.unselect_all.label">
+        <source>Unselect all</source>
+        <target state="new">Unselect all</target>
+        <note>key: snackbar.actions.unselect_all.label</note>
       </trans-unit>
       <trans-unit id="d7ebb1e7bf0cedcd11fec7ea0de8c779918e7688" resname="snackbar.selected.label">
         <source>Selected</source>
         <target state="new">Selected</target>
         <note>key: snackbar.selected.label</note>
       </trans-unit>
+      <trans-unit id="279bfbc81b83bff551268a0188c424d50de4a0f8" resname="snackbar.selected.multi_select_hint">
+        <source>Some options aren’t available for multi-select</source>
+        <target state="new">Some options aren’t available for multi-select</target>
+        <note>key: snackbar.selected.multi_select_hint</note>
+      </trans-unit>
+      <trans-unit id="1bfde9e3ad8b3f5e1d21625b3208bafcd9cee82f" resname="top_bar.bookmarks_tab.title">
+        <source>Bookmarks</source>
+        <target state="new">Bookmarks</target>
+        <note>key: top_bar.bookmarks_tab.title</note>
+      </trans-unit>
       <trans-unit id="a4b16c26cb1349d85fd849abedb5d4e4b921b4ce" resname="tree.empty">
         <source>Your tree is empty.</source>
         <target state="new">Your tree is empty.</target>
         <note>key: tree.empty</note>
+      </trans-unit>
+      <trans-unit id="fa3343511877e1da963d8d45983250f0245eca04" resname="tree_browser.create_btn.title">
+        <source>Create %contentTypeName% inside %rootLocationName%</source>
+        <target state="new">Create %contentTypeName% inside %rootLocationName%</target>
+        <note>key: tree_browser.create_btn.title</note>
       </trans-unit>
       <trans-unit id="f4f2d0db0a15be834cf5ce04161a4ecf5192533e" resname="tree_browser.module_name">
         <source>Image picker folders browser</source>

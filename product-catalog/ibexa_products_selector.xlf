@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="99abbaf952e0955603827ab62c7a872ffed89d75" resname="product_table.header.code">
+        <source>Code</source>
+        <target state="new">Code</target>
+        <note>key: product_table.header.code</note>
+      </trans-unit>
+      <trans-unit id="87314b8a3bf4c9c87b1eca16e7b0cdee247ecd58" resname="product_table.header.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: product_table.header.name</note>
+      </trans-unit>
+      <trans-unit id="afc22b982f16a4c3795560bae468fa1d47f82ebc" resname="product_table.header.type">
+        <source>Type</source>
+        <target state="new">Type</target>
+        <note>key: product_table.header.type</note>
+      </trans-unit>
+      <trans-unit id="608c056391a4fd6320bb9b2758301007434ba6f3" resname="product_table.remove_btn.title">
+        <source>Remove from selection</source>
+        <target state="new">Remove from selection</target>
+        <note>key: product_table.remove_btn.title</note>
+      </trans-unit>
+      <trans-unit id="fca9ce096d2103099dcc13a4a9782e91afeca9c8" resname="product_table_item.variants_btn.has_variants.label">
+        <source>Yes (%variantsCount%/%totalVariantsCount%)</source>
+        <target state="new">Yes (%variantsCount%/%totalVariantsCount%)</target>
+        <note>key: product_table_item.variants_btn.has_variants.label</note>
+      </trans-unit>
+      <trans-unit id="da1a92ecae63b7c0586ceb19f7411b26b02fd59e" resname="product_table_item.variants_btn.no_variants.label">
+        <source>No</source>
+        <target state="new">No</target>
+        <note>key: product_table_item.variants_btn.no_variants.label</note>
+      </trans-unit>
+      <trans-unit id="fee81d04d583c5bf38900503b519835f39e3b016" resname="product_variants_table.header.code">
+        <source>Code</source>
+        <target state="new">Code</target>
+        <note>key: product_variants_table.header.code</note>
+      </trans-unit>
+      <trans-unit id="187f247bf09320b1f464bac9c6fccbd89f8014e9" resname="product_variants_table.header.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: product_variants_table.header.name</note>
+      </trans-unit>
+      <trans-unit id="c166a676dadeff870efa33e761aa6ca740295a80" resname="product_variants_table.header.variants">
+        <source>Variants</source>
+        <target state="new">Variants</target>
+        <note>key: product_variants_table.header.variants</note>
+      </trans-unit>
+      <trans-unit id="2ba73e8f3a7c5fae56a1d093a48994556a0131f1" resname="selector_view.remove_locally_selected_products_btn.label">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: selector_view.remove_locally_selected_products_btn.label</note>
+      </trans-unit>
+      <trans-unit id="9cec70fa113f376d3217fe7638beb9a03a976384" resname="selector_view.select_product_btn.label">
+        <source>Select products</source>
+        <target state="new">Select products</target>
+        <note>key: selector_view.select_product_btn.label</note>
+      </trans-unit>
+      <trans-unit id="4addf550dbaaecce272e9c8e39fe7c890b9d2f66" resname="selector_view.selector_info">
+        <source>Choose products for discount</source>
+        <target state="new">Choose products for discount</target>
+        <note>key: selector_view.selector_info</note>
+      </trans-unit>
+      <trans-unit id="30b95b06adad5d14c1e4072ab39fcbfd32c97a07" resname="universal_discovery_widget.title">
+        <source>Select products</source>
+        <target state="new">Select products</target>
+        <note>key: universal_discovery_widget.title</note>
+      </trans-unit>
+      <trans-unit id="7d89153d4d28a148b304cc0b402840d9fd5dd2ae" resname="variants_popup.title">
+        <source>Variants</source>
+        <target state="new">Variants</target>
+        <note>key: variants_popup.title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

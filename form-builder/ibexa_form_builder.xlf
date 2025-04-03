@@ -21,6 +21,11 @@
         <target state="new">Build form</target>
         <note>key: building.form</note>
       </trans-unit>
+      <trans-unit id="ee1a6091d9aa01227acfb10059fa6621ad5bdd09" resname="content.file.unauthorized">
+        <source>To view this file, you need a proper level of permissions.</source>
+        <target state="new">To view this file, you need a proper level of permissions.</target>
+        <note>key: content.file.unauthorized</note>
+      </trans-unit>
       <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
         <source>Create your form.</source>
         <target state="new">Create your form.</target>

@@ -6,6 +6,56 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="70536a46e9ab6ac71e70d73cb90d0990193fa39b" resname="ibexa.action_configuration.connect.action.go_to_connect">
+        <source>Go to Connect</source>
+        <target state="new">Go to Connect</target>
+        <note>key: ibexa.action_configuration.connect.action.go_to_connect</note>
+      </trans-unit>
+      <trans-unit id="0b2f02790b8307d36116bbdb39d01dd8e5af88ad" resname="ibexa.action_configuration.connect.invalid_configuration">
+        <source>Ibexa Connect is not configured correctly. Please contact your administrator to set up the integration.</source>
+        <target state="new">Ibexa Connect is not configured correctly. Please contact your administrator to set up the integration.</target>
+        <note>key: ibexa.action_configuration.connect.invalid_configuration</note>
+      </trans-unit>
+      <trans-unit id="235ed380bd2780edd5c565c86e272fd515eebcc8" resname="ibexa.action_configuration.connect.scenario_id.empty">
+        <source>No scenario chosen</source>
+        <target state="new">No scenario chosen</target>
+        <note>key: ibexa.action_configuration.connect.scenario_id.empty</note>
+      </trans-unit>
+      <trans-unit id="ee1fba734bf9bf45ee122739c4d9c7282f7756cf" resname="ibexa.action_configuration.connect.scenario_id.label">
+        <source>Select scenario</source>
+        <target state="new">Select scenario</target>
+        <note>key: ibexa.action_configuration.connect.scenario_id.label</note>
+      </trans-unit>
+      <trans-unit id="5d98956a6aa70eedb95c6329d5e62dd03d786b74" resname="ibexa.action_configuration.connect.scenario_label.label">
+        <source>Scenario name</source>
+        <target state="new">Scenario name</target>
+        <note>key: ibexa.action_configuration.connect.scenario_label.label</note>
+      </trans-unit>
+      <trans-unit id="fba1a0fdc5ef161beaa0bae2a63fb54009ed4282" resname="ibexa.action_configuration.connect.template_id.empty">
+        <source>No template chosen</source>
+        <target state="new">No template chosen</target>
+        <note>key: ibexa.action_configuration.connect.template_id.empty</note>
+      </trans-unit>
+      <trans-unit id="2a5394477732239865243f547b3e498d000caa3c" resname="ibexa.action_configuration.connect.template_id.label">
+        <source>Create scenario based on template</source>
+        <target state="new">Create scenario based on template</target>
+        <note>key: ibexa.action_configuration.connect.template_id.label</note>
+      </trans-unit>
+      <trans-unit id="b44ddf52beb4671b6d111d6360078c96e84b391c" resname="ibexa.action_configuration.connect.template_label.label">
+        <source>Template name</source>
+        <target state="new">Template name</target>
+        <note>key: ibexa.action_configuration.connect.template_label.label</note>
+      </trans-unit>
+      <trans-unit id="bcbe4a0fe2ddbe55930645b324f9d5d3e0c0ed88" resname="ibexa.action_configuration.connect.view_in_connect">
+        <source>Click the link to view all available scenarios in Ibexa Connect</source>
+        <target state="new">Click the link to view all available scenarios in Ibexa Connect</target>
+        <note>key: ibexa.action_configuration.connect.view_in_connect</note>
+      </trans-unit>
+      <trans-unit id="48d06e2c86f06ccc5f33411f0bc38d0d17339b1a" resname="ibexa.action_configuration.connect.webhook_url.label">
+        <source>Webhook URL</source>
+        <target state="new">Webhook URL</target>
+        <note>key: ibexa.action_configuration.connect.webhook_url.label</note>
+      </trans-unit>
       <trans-unit id="4b60b60a50c9a8cc37adc2724e29098809b5c6e3" resname="page_builder.send_customer_group_identifier">
         <source>Send Customer Group identifier</source>
         <target state="new">Send Customer Group identifier</target>

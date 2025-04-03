@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="f2a2098de40668db420d19f5ded1206aa4a33d04" resname="Generate alt text for given image">
+        <source>Generate alt text for given image.</source>
+        <target state="new">Generate alt text for given image.</target>
+        <note>key: Generate alt text for given image</note>
+      </trans-unit>
+      <trans-unit id="8c884849330559781fa56173a57a0bfbbf644fcd" resname="Refine given text">
+        <source>Refine given text.</source>
+        <target state="new">Refine given text.</target>
+        <note>key: Refine given text</note>
+      </trans-unit>
+      <trans-unit id="821d13ad9e4e052d009e4e6bedbc19f066317186" resname="action_configuration.disabled">
+        <source>Disabled</source>
+        <target state="new">Disabled</target>
+        <note>key: action_configuration.disabled</note>
+      </trans-unit>
+      <trans-unit id="1dcc605dcf233261a8f3b8ecefdca708463b02d6" resname="action_configuration.enabled">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note>key: action_configuration.enabled</note>
+      </trans-unit>
+      <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
+        <source>Admin</source>
+        <target state="new">Admin</target>
+        <note>key: breadcrumb.admin</note>
+      </trans-unit>
+      <trans-unit id="80926bf631f2be37b9634d4a3ea66cf1be8cad83" resname="ibexa.action_configuration.breadcrumb.list">
+        <source>AI actions</source>
+        <target state="new">AI actions</target>
+        <note>key: ibexa.action_configuration.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="56bb3b371bf6da8e242e7c2bf0d32c7619dfa95f" resname="ibexa.action_configuration.breadcrumb.view">
+        <source>%action_configuration_name%</source>
+        <target state="new">%action_configuration_name%</target>
+        <note>key: ibexa.action_configuration.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="caf430f719e2d1ca8d89495960ceac3aeb3ce83f" resname="ibexa.action_configuration.bulk_delete.success">
+        <source>{1}AI action '%deletedNames%' removed.|]1,Inf[ AI actions '%deletedNames%' removed.</source>
+        <target state="new">{1}AI action '%deletedNames%' removed.|]1,Inf[ AI actions '%deletedNames%' removed.</target>
+        <note>key: ibexa.action_configuration.bulk_delete.success</note>
+      </trans-unit>
+      <trans-unit id="8bc0ac54ca22c05755009927269ec6ee3ac17048" resname="ibexa.action_configuration.copy.success">
+        <source>AI action '%name%' copied.</source>
+        <target state="new">AI action '%name%' copied.</target>
+        <note>key: ibexa.action_configuration.copy.success</note>
+      </trans-unit>
+      <trans-unit id="f102cb109e37980759b7d15f780c521a7d2dc98a" resname="ibexa.action_configuration.create.action_handler">
+        <source>Action handler</source>
+        <target state="new">Action handler</target>
+        <note>key: ibexa.action_configuration.create.action_handler</note>
+      </trans-unit>
+      <trans-unit id="59c7c820270f3cb96650db30af1cf569feea24e0" resname="ibexa.action_configuration.create.action_type">
+        <source>Action type</source>
+        <target state="new">Action type</target>
+        <note>key: ibexa.action_configuration.create.action_type</note>
+      </trans-unit>
+      <trans-unit id="c4028758940569efc69e497f3a8399bab28cb4a3" resname="ibexa.action_configuration.create.success">
+        <source>AI action '%name%' created.</source>
+        <target state="new">AI action '%name%' created.</target>
+        <note>key: ibexa.action_configuration.create.success</note>
+      </trans-unit>
+      <trans-unit id="2510308109ae357bf6274f3329c431a6c29d7a6e" resname="ibexa.action_configuration.delete.success">
+        <source>AI action '%name%' removed.</source>
+        <target state="new">AI action '%name%' removed.</target>
+        <note>key: ibexa.action_configuration.delete.success</note>
+      </trans-unit>
+      <trans-unit id="a57488510bc9f7e9ad842a13184624b28b6ca879" resname="ibexa.action_configuration.details.column.action_type">
+        <source>Action type</source>
+        <target state="new">Action type</target>
+        <note>key: ibexa.action_configuration.details.column.action_type</note>
+      </trans-unit>
+      <trans-unit id="85e832830e400e59bb1bf73081560082c2e945d3" resname="ibexa.action_configuration.details.column.description">
+        <source>Description</source>
+        <target state="new">Description</target>
+        <note>key: ibexa.action_configuration.details.column.description</note>
+      </trans-unit>
+      <trans-unit id="12e1d01793038bd69b1680af70e1dda77046f7e4" resname="ibexa.action_configuration.details.column.identifier">
+        <source>Identifier</source>
+        <target state="new">Identifier</target>
+        <note>key: ibexa.action_configuration.details.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="1e5f8f94ae9a6e9cc77feb2ca5bbb0e8c24f45a8" resname="ibexa.action_configuration.details.column.modified_at">
+        <source>Modification date</source>
+        <target state="new">Modification date</target>
+        <note>key: ibexa.action_configuration.details.column.modified_at</note>
+      </trans-unit>
+      <trans-unit id="6cd88ccf5d56224cf4ea2b32ff7a79923289d83b" resname="ibexa.action_configuration.details.column.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: ibexa.action_configuration.details.column.name</note>
+      </trans-unit>
+      <trans-unit id="c44384c35f046e07ae1a10676895ba25e73a8611" resname="ibexa.action_configuration.details.column.prompt">
+        <source>Prompt</source>
+        <target state="new">Prompt</target>
+        <note>key: ibexa.action_configuration.details.column.prompt</note>
+      </trans-unit>
+      <trans-unit id="771b91f3b7800279886668094f834b051a777183" resname="ibexa.action_configuration.details.column.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: ibexa.action_configuration.details.column.status</note>
+      </trans-unit>
+      <trans-unit id="24d40aec7e4abf46106a14e84678d303dbaa7965" resname="ibexa.action_configuration.details.column.status.disabled">
+        <source>Disabled</source>
+        <target state="new">Disabled</target>
+        <note>key: ibexa.action_configuration.details.column.status.disabled</note>
+      </trans-unit>
+      <trans-unit id="5ed6e30eb9350a0e58cda9157b1956e1ace32f83" resname="ibexa.action_configuration.details.column.status.enabled">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note>key: ibexa.action_configuration.details.column.status.enabled</note>
+      </trans-unit>
+      <trans-unit id="fc3d106f08d780f5ebb226c83288044b2d357a7e" resname="ibexa.action_configuration.list.search.query.placeholder">
+        <source>Search by name, identifier</source>
+        <target state="new">Search by name, identifier</target>
+        <note>key: ibexa.action_configuration.list.search.query.placeholder</note>
+      </trans-unit>
+      <trans-unit id="f0b37c19c6783133b851d79cc7f23bbb9b66818f" resname="ibexa.action_configuration.list.status.disabled">
+        <source>Disabled</source>
+        <target state="new">Disabled</target>
+        <note>key: ibexa.action_configuration.list.status.disabled</note>
+      </trans-unit>
+      <trans-unit id="d20c48cf9ac9e49cbf619891cfcb636f7792361a" resname="ibexa.action_configuration.list.status.enabled">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note>key: ibexa.action_configuration.list.status.enabled</note>
+      </trans-unit>
+      <trans-unit id="354b2854cd55453cea96d31829231cc8fc4cb62a" resname="ibexa.action_configuration.list.title">
+        <source>AI actions</source>
+        <target state="new">AI actions</target>
+        <note>key: ibexa.action_configuration.list.title</note>
+      </trans-unit>
+      <trans-unit id="09887cad1597635c52de821fbaa5785b6d36e84f" resname="ibexa.action_configuration.prompt_length">
+        <source>Length of prompt output</source>
+        <target state="new">Length of prompt output</target>
+        <note>key: ibexa.action_configuration.prompt_length</note>
+      </trans-unit>
+      <trans-unit id="70dcf984a262966d4cd706f59b218657476ad26d" resname="ibexa.action_configuration.search.enabled.label">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note>key: ibexa.action_configuration.search.enabled.label</note>
+      </trans-unit>
+      <trans-unit id="88bf8efe70530daf6d0ec5c9e43755d62a652cc3" resname="ibexa.action_configuration.status.label">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: ibexa.action_configuration.status.label</note>
+      </trans-unit>
+      <trans-unit id="57e754aa11dbafd20d184a36c2f65848d18d6219" resname="ibexa.action_configuration.translations.label">
+        <source>Translations</source>
+        <target state="new">Translations</target>
+        <note>key: ibexa.action_configuration.translations.label</note>
+      </trans-unit>
+      <trans-unit id="a32b1d6c84c7fbb8e294dec486b95ee4357250b3" resname="ibexa.action_configuration.update.success">
+        <source>AI action '%name%' updated.</source>
+        <target state="new">AI action '%name%' updated.</target>
+        <note>key: ibexa.action_configuration.update.success</note>
+      </trans-unit>
+      <trans-unit id="0de4ea8829c528c77d685a92d8608bf9d6f9e3df" resname="ibexa.action_configuration.view.preview">
+        <source>Preview</source>
+        <target state="new">Preview</target>
+        <note>key: ibexa.action_configuration.view.preview</note>
+      </trans-unit>
+      <trans-unit id="df6b838ffa93f271d2565ea1a1a0c2a9b7a051fe" resname="ibexa.action_configuration.view.tab.global_properties.label">
+        <source>Global properties</source>
+        <target state="new">Global properties</target>
+        <note>key: ibexa.action_configuration.view.tab.global_properties.label</note>
+      </trans-unit>
+      <trans-unit id="45027dabde7b8edccf507aa7621483fc1eaf62eb" resname="ibexa.action_configuration.view.tab.settings.label">
+        <source>Settings</source>
+        <target state="new">Settings</target>
+        <note>key: ibexa.action_configuration.view.tab.settings.label</note>
+      </trans-unit>
+      <trans-unit id="1d045c8f188b34ed4313f76225ce179327a29a03" resname="ibexa.action_configuration.view.title">
+        <source>%action_configuration_name% AI action</source>
+        <target state="new">%action_configuration_name% AI action</target>
+        <note>key: ibexa.action_configuration.view.title</note>
+      </trans-unit>
+      <trans-unit id="aff1004170dd7a4bd1d8c301c9e625332ff86df0" resname="ibexa.ai.action.generate_alt_text.name">
+        <source>Generate alternative text</source>
+        <target state="new">Generate alternative text</target>
+        <note>key: ibexa.ai.action.generate_alt_text.name</note>
+      </trans-unit>
+      <trans-unit id="7d1b2aabbec210b8e46f5b45d6a948a20feb351b" resname="ibexa.ai.action.refine_text.name">
+        <source>Refine text</source>
+        <target state="new">Refine text</target>
+        <note>key: ibexa.ai.action.refine_text.name</note>
+      </trans-unit>
+      <trans-unit id="4f37eb34c3276bc943470416a696e159c388e446" resname="ibexa.connector_ai.action_configuration.anchor_navigation.global_properties">
+        <source>Global properties</source>
+        <target state="new">Global properties</target>
+        <note>key: ibexa.connector_ai.action_configuration.anchor_navigation.global_properties</note>
+      </trans-unit>
+      <trans-unit id="cb3a737a5af6fc9bef16729422931696d95fdd49" resname="ibexa.connector_ai.action_configuration.anchor_navigation.settings">
+        <source>Settings</source>
+        <target state="new">Settings</target>
+        <note>key: ibexa.connector_ai.action_configuration.anchor_navigation.settings</note>
+      </trans-unit>
+      <trans-unit id="4ea53072918d3cb57c47a6352a6f255fd56890b5" resname="ibexa.connector_ai.action_configuration.create.discard">
+        <source>Discard</source>
+        <target state="new">Discard</target>
+        <note>key: ibexa.connector_ai.action_configuration.create.discard</note>
+      </trans-unit>
+      <trans-unit id="0b91ae12a269c86d2fa9686b7d42e82372134dd9" resname="ibexa.connector_ai.action_configuration.create.submit">
+        <source>Create</source>
+        <target state="new">Create</target>
+        <note>key: ibexa.connector_ai.action_configuration.create.submit</note>
+      </trans-unit>
+      <trans-unit id="3421b7d8e7cd994315b0d046e476ab3c7928fd4e" resname="ibexa.connector_ai.action_configuration.edit.action_name">
+        <source>Editing AI action</source>
+        <target state="new">Editing AI action</target>
+        <note>key: ibexa.connector_ai.action_configuration.edit.action_name</note>
+      </trans-unit>
+      <trans-unit id="56545530cf967ee49541b43ea4ea1b8945e2ec3d" resname="ibexa.connector_ai.action_configuration.enabled.label">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note>key: ibexa.connector_ai.action_configuration.enabled.label</note>
+      </trans-unit>
+      <trans-unit id="aa36931d14085756fd5d4d8cca4161145fbf7c76" resname="ibexa.connector_ai.action_configuration.list.bulk_delete.confirm_message">
+        <source>Delete selected AI actions?</source>
+        <target state="new">Delete selected AI actions?</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.bulk_delete.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="01439c75615400b617efa5d68a49fb1575b43400" resname="ibexa.connector_ai.action_configuration.list.bulk_delete.delete.btn.label">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.bulk_delete.delete.btn.label</note>
+      </trans-unit>
+      <trans-unit id="f689df7bdbebaf5f8c550ee8b521989ad54596be" resname="ibexa.connector_ai.action_configuration.list.table.empty.action_text">
+        <source>Try again with new search criteria</source>
+        <target state="new">Try again with new search criteria</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.table.empty.action_text</note>
+      </trans-unit>
+      <trans-unit id="657d8b9aee0bdccab467fa347d8abab1c74fa1f3" resname="ibexa.connector_ai.action_configuration.list.table.empty.info">
+        <source>No AI actions available</source>
+        <target state="new">No AI actions available</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.table.empty.info</note>
+      </trans-unit>
+      <trans-unit id="94b6ea292d05e0f3ea1722df5d3ae7514b19d84a" resname="ibexa.connector_ai.action_configuration.list.table.header.action_type">
+        <source>Action type</source>
+        <target state="new">Action type</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.table.header.action_type</note>
+      </trans-unit>
+      <trans-unit id="a0d52f336597f2abcf0681a558b9c9350ba7fcbd" resname="ibexa.connector_ai.action_configuration.list.table.header.identifier">
+        <source>Identifier</source>
+        <target state="new">Identifier</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.table.header.identifier</note>
+      </trans-unit>
+      <trans-unit id="eb61e2cec6255c537d36b3886bc834a219954135" resname="ibexa.connector_ai.action_configuration.list.table.header.modification_date">
+        <source>Modification date</source>
+        <target state="new">Modification date</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.table.header.modification_date</note>
+      </trans-unit>
+      <trans-unit id="aeed2ef0507000e3ce0a85185fc891821425fc81" resname="ibexa.connector_ai.action_configuration.list.table.header.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.table.header.name</note>
+      </trans-unit>
+      <trans-unit id="1c32a033ffcc0173aa3316784a3479e654057e90" resname="ibexa.connector_ai.action_configuration.list.table.header.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: ibexa.connector_ai.action_configuration.list.table.header.status</note>
+      </trans-unit>
+      <trans-unit id="87b616e37bbc3698171d10d0212727c553246d33" resname="ibexa.connector_ai.action_configuration.new.action_name">
+        <source>Creating</source>
+        <target state="new">Creating</target>
+        <note>key: ibexa.connector_ai.action_configuration.new.action_name</note>
+      </trans-unit>
+      <trans-unit id="6306d01e8d57d0f48fdf2ccbbe17cd6a3a1c6d6e" resname="ibexa.connector_ai.action_configuration.new.subtitle">
+        <source>in %language_name%</source>
+        <target state="new">in %language_name%</target>
+        <note>key: ibexa.connector_ai.action_configuration.new.subtitle</note>
+      </trans-unit>
+      <trans-unit id="692326ec43d148c54baa6e9c80aefb2f345982ac" resname="ibexa.connector_ai.action_configuration.new.title">
+        <source>New %action_type_name% AI action</source>
+        <target state="new">New %action_type_name% AI action</target>
+        <note>key: ibexa.connector_ai.action_configuration.new.title</note>
+      </trans-unit>
+      <trans-unit id="07c3b01882f8ee6c2baa488fd46d85a45afc3ee6" resname="ibexa.connector_ai.anchor_navigation.action_options">
+        <source>Settings</source>
+        <target state="new">Settings</target>
+        <note>key: ibexa.connector_ai.anchor_navigation.action_options</note>
+      </trans-unit>
+      <trans-unit id="5aa51af1286cdcc63404ddf29378a07a60478d82" resname="ibexa.connector_ai.anchor_navigation.global_properties">
+        <source>Global properties</source>
+        <target state="new">Global properties</target>
+        <note>key: ibexa.connector_ai.anchor_navigation.global_properties</note>
+      </trans-unit>
+      <trans-unit id="585e120a21e5b80db0b32d8e244cdb947e9a7cfd" resname="ibexa.connector_ai.enabled.no">
+        <source>No</source>
+        <target state="new">No</target>
+        <note>key: ibexa.connector_ai.enabled.no</note>
+      </trans-unit>
+      <trans-unit id="1866d20212a92f3a181e258a849a16572bc239ee" resname="ibexa.connector_ai.enabled.yes">
+        <source>Yes</source>
+        <target state="new">Yes</target>
+        <note>key: ibexa.connector_ai.enabled.yes</note>
+      </trans-unit>
+      <trans-unit id="489cdb92cd6ad442fe28175c06d083e274ed7603" resname="ibexa.connector_ai.pre_create.title">
+        <source>Create AI action</source>
+        <target state="new">Create AI action</target>
+        <note>key: ibexa.connector_ai.pre_create.title</note>
+      </trans-unit>
+      <trans-unit id="acba66488cd6f6712b412c629e9edc81f7420c16" resname="ibexa.list.action.create">
+        <source>Create</source>
+        <target state="new">Create</target>
+        <note>key: ibexa.list.action.create</note>
+      </trans-unit>
+      <trans-unit id="4a550e9a85aacebd941ed54f13cddcd56f96daa9" resname="ibexa.modal.delete">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: ibexa.modal.delete</note>
+      </trans-unit>
+      <trans-unit id="0b17b95d880794f94de57828df34efcd45af6c38" resname="ibexa.modal.delete.action_configuration.confirm_message">
+        <source>Delete this AI action?</source>
+        <target state="new">Delete this AI action?</target>
+        <note>key: ibexa.modal.delete.action_configuration.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="0f611e1abfacbc405e16bae85c870abc501b858b" resname="ibexa_connector_ai.actions.cancel.label">
+        <source>Stop</source>
+        <target state="new">Stop</target>
+        <note>key: ibexa_connector_ai.actions.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="5c8c0a7fdc83ba0d0b909d49c4a9c5bf26fb613b" resname="ibexa_connector_ai.actions.replace.label">
+        <source>Replace</source>
+        <target state="new">Replace</target>
+        <note>key: ibexa_connector_ai.actions.replace.label</note>
+      </trans-unit>
+      <trans-unit id="3b83916ef674ed85c0c9a4695153649310418f71" resname="ibexa_connector_ai.actions.try_again.label">
+        <source>Try again</source>
+        <target state="new">Try again</target>
+        <note>key: ibexa_connector_ai.actions.try_again.label</note>
+      </trans-unit>
+      <trans-unit id="3091ccd5bcda12f7663cff3ce4bf14d9c123f116" resname="ibexa_connector_ai.ai_assistant.preview.generating">
+        <source>AI is generating...</source>
+        <target state="new">AI is generating...</target>
+        <note>key: ibexa_connector_ai.ai_assistant.preview.generating</note>
+      </trans-unit>
+      <trans-unit id="f422ee7d24d5d5aeb0d7359788713eb89568202d" resname="ibexa_connector_ai.ai_assistant.title">
+        <source>AI Assistant: %actionName%</source>
+        <target state="new">AI Assistant: %actionName%</target>
+        <note>key: ibexa_connector_ai.ai_assistant.title</note>
+      </trans-unit>
+      <trans-unit id="b0af2d09b2e6778b73c780b9b8de0744ece9b1b5" resname="ibexa_connector_ai.generating_msg">
+        <source>AI is generating...</source>
+        <target state="new">AI is generating...</target>
+        <note>key: ibexa_connector_ai.generating_msg</note>
+      </trans-unit>
+      <trans-unit id="c15e45452b65e0e2502e806acc2a2ff522e76053" resname="ibexa_connector_ai.go_to_ai_actions.label">
+        <source>Go to AI actions</source>
+        <target state="new">Go to AI actions</target>
+        <note>key: ibexa_connector_ai.go_to_ai_actions.label</note>
+      </trans-unit>
+      <trans-unit id="5ae47884a22e68029e0a9ddf3a10cb41fb503590" resname="ibexa_connector_ai.stop_generating.label">
+        <source>Stop generating</source>
+        <target state="new">Stop generating</target>
+        <note>key: ibexa_connector_ai.stop_generating.label</note>
+      </trans-unit>
+      <trans-unit id="f2c946447733803e03a6774ccb35fc8f70a7a3ae" resname="ibexa_connector_ai.use_ai.label">
+        <source>Use AI</source>
+        <target state="new">Use AI</target>
+        <note>key: ibexa_connector_ai.use_ai.label</note>
+      </trans-unit>
+      <trans-unit id="3777fedfcccdbd11c0f029428339908b60583b7f" resname="list.tooltip.copy">
+        <source>Duplicate</source>
+        <target state="new">Duplicate</target>
+        <note>key: list.tooltip.copy</note>
+      </trans-unit>
+      <trans-unit id="0a8304c7b1a9343820fd80386eb33b9524678bcd" resname="tab.action_handler_options.label">
+        <source>Action handler options</source>
+        <target state="new">Action handler options</target>
+        <note>key: tab.action_handler_options.label</note>
+      </trans-unit>
+      <trans-unit id="002db5a37bff7ece927919f88cc55b3090a70451" resname="tab.action_type_options.label">
+        <source>Action type options</source>
+        <target state="new">Action type options</target>
+        <note>key: tab.action_type_options.label</note>
+      </trans-unit>
+      <trans-unit id="2469af53e5a38ef19a781d4982cd8a7c3fe2f929" resname="tab.properties.label">
+        <source>Properties</source>
+        <target state="new">Properties</target>
+        <note>key: tab.properties.label</note>
+      </trans-unit>
+      <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
+        <source>Add</source>
+        <target state="new">Add</target>
+        <note>key: tab.translations.action.add</note>
+      </trans-unit>
+      <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: tab.translations.action.delete</note>
+      </trans-unit>
+      <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: tab.translations.add.cancel</note>
+      </trans-unit>
+      <trans-unit id="8e8e7e0b1aafc4199ae1a55b40e21531f5fde298" resname="tab.translations.add.submit">
+        <source>Add translation</source>
+        <target state="new">Add translation</target>
+        <note>key: tab.translations.add.submit</note>
+      </trans-unit>
+      <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
+        <source>Create a new translation</source>
+        <target state="new">Create a new translation</target>
+        <note>key: tab.translations.add.title</note>
+      </trans-unit>
+      <trans-unit id="d494d753de03a08f7a10792b727ec88ca74d4913" resname="tab.translations.language_code">
+        <source>Language code</source>
+        <target state="new">Language code</target>
+        <note>key: tab.translations.language_code</note>
+      </trans-unit>
+      <trans-unit id="0becdca42cbaa039a6166b8aa778a86657bb362f" resname="tab.translations.language_name">
+        <source>Language name</source>
+        <target state="new">Language name</target>
+        <note>key: tab.translations.language_name</note>
+      </trans-unit>
+      <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
+        <source>Do you want to delete the translation ?</source>
+        <target state="new">Do you want to delete the translation ?</target>
+        <note>key: tab.translations.modal.message</note>
+      </trans-unit>
+      <trans-unit id="fdd630bb252ee383b5100b99e2d072ac957f155d" resname="tab.translations.translation_manager">
+        <source>Translation manager</source>
+        <target state="new">Translation manager</target>
+        <note>key: tab.translations.translation_manager</note>
+      </trans-unit>
+      <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">
+        <source>No language</source>
+        <target state="new">No language</target>
+        <note>key: translation.base_language.no_language</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

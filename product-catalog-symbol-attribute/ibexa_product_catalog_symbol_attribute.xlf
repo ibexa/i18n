@@ -6,10 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="628b60a3b1a9cfba9f5e834b5b63d453cc0f785a" resname="Unable to render SEO tag for type '%typeName%' and field '%fieldName%'">
-        <source>Unable to render SEO tag for type '%typeName%' and field '%fieldName%'</source>
-        <target state="new">Unable to render SEO tag for type '%typeName%' and field '%fieldName%'</target>
-        <note>key: Unable to render SEO tag for type '%typeName%' and field '%fieldName%'</note>
+      <trans-unit id="ab326c731569c677cc0f60a9e5517d5c775bd262" resname="symbol.help">
+        <source>For example: %example%"</source>
+        <target state="new">For example: %example%"</target>
+        <note>key: symbol.help</note>
       </trans-unit>
     </body>
   </file>

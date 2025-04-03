@@ -51,15 +51,40 @@
         <target state="new">Subtotal</target>
         <note>key: ibexa_storefront.maincart.item.subtotal_price_net.label</note>
       </trans-unit>
+      <trans-unit id="6d01c584013f2b05ce3279dc0cbea892b197cae6" resname="maincart.summary.apply_coupon_btn.label">
+        <source>Apply</source>
+        <target state="new">Apply</target>
+        <note>key: maincart.summary.apply_coupon_btn.label</note>
+      </trans-unit>
       <trans-unit id="aa454c07b57da03495cc2796472a7cab0719d1ca" resname="maincart.summary.continue_shopping_btn.label">
         <source>Continue shopping</source>
         <target state="new">Continue shopping</target>
         <note>key: maincart.summary.continue_shopping_btn.label</note>
       </trans-unit>
+      <trans-unit id="3fa1b0b7f9a2ee01c9fd711d1dda91e063c79894" resname="maincart.summary.coupon.error.coupon_not_found.info">
+        <source>This code is invalid</source>
+        <target state="new">This code is invalid</target>
+        <note>key: maincart.summary.coupon.error.coupon_not_found.info</note>
+      </trans-unit>
+      <trans-unit id="49c6f5fc72ea5e9c424b3dce403079dcbb9a54ca" resname="maincart.summary.coupon.error.general_error.info">
+        <source>An internal error occurred.</source>
+        <target state="new">An internal error occurred.</target>
+        <note>key: maincart.summary.coupon.error.general_error.info</note>
+      </trans-unit>
+      <trans-unit id="4120345061d9481446bcbc8f7579628da826ffe8" resname="maincart.summary.coupon.label">
+        <source>Promo code</source>
+        <target state="new">Promo code</target>
+        <note>key: maincart.summary.coupon.label</note>
+      </trans-unit>
       <trans-unit id="6713f8164032ceb741f0505616b72aefc9db1f3f" resname="maincart.summary.go_to_checkout_btn.label">
         <source>Go to checkout</source>
         <target state="new">Go to checkout</target>
         <note>key: maincart.summary.go_to_checkout_btn.label</note>
+      </trans-unit>
+      <trans-unit id="8fad19f56d7a611d59f8ca8252c287256e14dcc4" resname="maincart.summary.remove_coupon_btn.label">
+        <source>Remove</source>
+        <target state="new">Remove</target>
+        <note>key: maincart.summary.remove_coupon_btn.label</note>
       </trans-unit>
       <trans-unit id="5c943dada72f62f4b1a87f7d482f33bb344c5110" resname="minicart.icon.alt">
         <source>Cart</source>
@@ -70,6 +95,11 @@
         <source>cart</source>
         <target state="new">cart</target>
         <note>key: minicart.label</note>
+      </trans-unit>
+      <trans-unit id="9bf551c71e76f1adaef5e8870e587850ae545fc6" resname="summary.item.discount.label">
+        <source>Discount</source>
+        <target state="new">Discount</target>
+        <note>key: summary.item.discount.label</note>
       </trans-unit>
     </body>
   </file>

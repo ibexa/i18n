@@ -51,6 +51,11 @@
         <target state="new">No segments defined. Create Segments in the Admin panel to use this block.</target>
         <note>key: targeted_content_map.no_configuration</note>
       </trans-unit>
+      <trans-unit id="f6dfd4604427f5b09f138435994b17c79b32083c" resname="visibility.action_btn.close">
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
+        <note>key: visibility.action_btn.close</note>
+      </trans-unit>
       <trans-unit id="4b70ae03eb9f3d1a03af779f706a9c4a22cc12b5" resname="visibility.action_btn.title">
         <source>Visibility</source>
         <target state="new">Visibility</target>
