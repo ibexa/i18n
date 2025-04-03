@@ -231,6 +231,11 @@
         <target>crwdns250841:0crwdne250841:0</target>
         <note>key: order.detail.details.billing_address.label</note>
       </trans-unit>
+      <trans-unit id="3b4b9668d2302bb833cab993e3c18f17c9f6bd16" resname="order.detail.details.discount.label">
+        <source>Discount</source>
+        <target>crwdns267473:0crwdne267473:0</target>
+        <note>key: order.detail.details.discount.label</note>
+      </trans-unit>
       <trans-unit id="b235c33b5e3a447325f1efce7c551572c0e8211a" resname="order.detail.details.payment_method.label">
         <source>Payment method</source>
         <target>crwdns250843:0crwdne250843:0</target>
@@ -261,10 +266,35 @@
         <target>crwdns250853:0crwdne250853:0</target>
         <note>key: order.detail.details.title</note>
       </trans-unit>
+      <trans-unit id="de3fce962d5e6199ab2e560250ca491541c1bd91" resname="order.detail.items.column.base_subtotal_price_net">
+        <source>Base subtotal price net</source>
+        <target>crwdns267475:0crwdne267475:0</target>
+        <note>key: order.detail.items.column.base_subtotal_price_net</note>
+      </trans-unit>
+      <trans-unit id="a81157949d762b3fc23528e7dbf5d26b799b1175" resname="order.detail.items.column.base_unit_price_net">
+        <source>Base unit price net</source>
+        <target>crwdns267477:0crwdne267477:0</target>
+        <note>key: order.detail.items.column.base_unit_price_net</note>
+      </trans-unit>
       <trans-unit id="76275a4970e73439b299b17ea77d82ddfe95b888" resname="order.detail.items.column.code">
         <source>Code</source>
         <target>crwdns250855:0crwdne250855:0</target>
         <note>key: order.detail.items.column.code</note>
+      </trans-unit>
+      <trans-unit id="b65f9241b3bafab306e287fa1b911fba69890c86" resname="order.detail.items.column.discount_name">
+        <source>Discount name</source>
+        <target>crwdns267479:0crwdne267479:0</target>
+        <note>key: order.detail.items.column.discount_name</note>
+      </trans-unit>
+      <trans-unit id="d2f18c39806fa2eae77eae96aad914938bc9c51c" resname="order.detail.items.column.discount_value">
+        <source>Discount value</source>
+        <target>crwdns267481:0crwdne267481:0</target>
+        <note>key: order.detail.items.column.discount_value</note>
+      </trans-unit>
+      <trans-unit id="22532dc1bf5c7ac40f559bef7505ed8c054f50e0" resname="order.detail.items.column.discounted_unit_price_net">
+        <source>Discounted unit price net</source>
+        <target>crwdns267483:0crwdne267483:0</target>
+        <note>key: order.detail.items.column.discounted_unit_price_net</note>
       </trans-unit>
       <trans-unit id="5b6795a8e002e0d1bb3fb9724adc62873eb742a7" resname="order.detail.items.column.product_name">
         <source>Product name</source>
