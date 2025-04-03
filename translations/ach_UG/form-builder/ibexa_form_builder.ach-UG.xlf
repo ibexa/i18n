@@ -21,6 +21,11 @@
         <target>crwdns253404:0crwdne253404:0</target>
         <note>key: building.form</note>
       </trans-unit>
+      <trans-unit id="ee1a6091d9aa01227acfb10059fa6621ad5bdd09" resname="content.file.unauthorized">
+        <source>To view this file, you need a proper level of permissions.</source>
+        <target>crwdns267287:0crwdne267287:0</target>
+        <note>key: content.file.unauthorized</note>
+      </trans-unit>
       <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
         <source>Create your form.</source>
         <target>crwdns245258:0crwdne245258:0</target>
