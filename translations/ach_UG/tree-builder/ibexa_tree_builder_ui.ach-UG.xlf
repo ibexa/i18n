@@ -71,6 +71,11 @@
         <target>crwdns245674:0crwdne245674:0</target>
         <note>key: modal.delete.confirm</note>
       </trans-unit>
+      <trans-unit id="0fa999563e203837ef68e3804310ebb58064c91e" resname="quick_actions.create.placeholder">
+        <source>New item</source>
+        <target>crwdns267489:0crwdne267489:0</target>
+        <note>key: quick_actions.create.placeholder</note>
+      </trans-unit>
       <trans-unit id="2b096dbbbcadb6a316903dce656706b528229e21" resname="search.placeholder">
         <source>Search...</source>
         <target>crwdns247724:0crwdne247724:0</target>
