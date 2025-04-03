@@ -31,6 +31,11 @@
         <target>crwdns242408:0crwdne242408:0</target>
         <note>key: timeline.events_list_popup.toggler.label</note>
       </trans-unit>
+      <trans-unit id="db98c4e8ba0676b9bd579c4e1717672be4f0fd8c" resname="timeline.schedule.config_panel.close">
+        <source>Close</source>
+        <target>crwdns267413:0crwdne267413:0</target>
+        <note>key: timeline.schedule.config_panel.close</note>
+      </trans-unit>
       <trans-unit id="bb645c51a07d2c29a4cd8b3225ca5e0cddec45c5" resname="timeline.schedule.config_panel.hide_timeline">
         <source>Hide timeline</source>
         <target>crwdns242410:0crwdne242410:0</target>
