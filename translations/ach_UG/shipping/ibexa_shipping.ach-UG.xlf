@@ -266,6 +266,11 @@
         <target>crwdns250547:0%shipping_method_name%crwdne250547:0</target>
         <note>key: ibexa.shipping_method.breadcrumb.view</note>
       </trans-unit>
+      <trans-unit id="c2ac22ffaf9a26bd04d166b927226b9d47ead759" resname="ibexa.shipping_method.cost.vat_rate.label">
+        <source>VAT Rate</source>
+        <target>crwdns267445:0crwdne267445:0</target>
+        <note>key: ibexa.shipping_method.cost.vat_rate.label</note>
+      </trans-unit>
       <trans-unit id="f85f6bae7efe52a66b236597236504da9aef7aa7" resname="ibexa.shipping_method.create.region_help">
         <source>Only regions with VAT categories assigned are displayed here.</source>
         <target>crwdns250549:0crwdne250549:0</target>
@@ -297,8 +302,8 @@
         <note>key: ibexa.shipping_method.flat_rate.cost.label</note>
       </trans-unit>
       <trans-unit id="ff287f3f717bb356bd9f5f92e56e9712f6cd6917" resname="ibexa.shipping_method.flat_rate.help">
-        <source>You can choose from activated currencies</source>
-        <target>crwdns250561:0crwdne250561:0</target>
+        <source>You can choose from enabled currencies</source>
+        <target>crwdns267447:0crwdne267447:0</target>
         <note>key: ibexa.shipping_method.flat_rate.help</note>
       </trans-unit>
       <trans-unit id="8b97f845b637993f30b805e581c27fabb3696c2b" resname="ibexa.shipping_method.free.cost.label">
@@ -312,8 +317,8 @@
         <note>key: ibexa.shipping_method.free.cost.prefix</note>
       </trans-unit>
       <trans-unit id="b5c6da9e5dce74e7f5f471faeac5c0f87d1ee76c" resname="ibexa.shipping_method.free.help">
-        <source>You can choose from activated currencies</source>
-        <target>crwdns250567:0crwdne250567:0</target>
+        <source>You can choose from enabled currencies</source>
+        <target>crwdns267449:0crwdne267449:0</target>
         <note>key: ibexa.shipping_method.free.help</note>
       </trans-unit>
       <trans-unit id="50eea9b159190b3a7626e5672bb0f373f4ea825c" resname="ibexa.shipping_method.list.title">
