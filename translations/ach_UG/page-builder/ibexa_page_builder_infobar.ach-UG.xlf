@@ -51,11 +51,6 @@
         <target>crwdns242520:0crwdne242520:0</target>
         <note>key: infobar.translation.using_fallback_language</note>
       </trans-unit>
-      <trans-unit id="c490c1cbc57823605f1e9a5a7fb8ac7c3e07262c" resname="menu_bar.close_btn.label">
-        <source>Close</source>
-        <target>crwdns247124:0crwdne247124:0</target>
-        <note>key: menu_bar.close_btn.label</note>
-      </trans-unit>
       <trans-unit id="d1e0675bdb4ccf37ae0be5e65be934d74e0d19e6" resname="menu_bar.page_buider.label">
         <source>Page Builder</source>
         <target>crwdns242524:0crwdne242524:0</target>
