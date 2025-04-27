@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="d7d2ca54041d64f8575842a245b0079bf3898eb6" resname="ibexa.unsplash.orientation">
+        <source>Orientation</source>
+        <target>crwdns266801:0crwdne266801:0</target>
+        <note>key: ibexa.unsplash.orientation</note>
+      </trans-unit>
+      <trans-unit id="60ff967f90873f53e32c5b7c2f1dfd7eb756c618" resname="ibexa.unsplash.orientation.landscape">
+        <source>Landscape</source>
+        <target>crwdns266803:0crwdne266803:0</target>
+        <note>key: ibexa.unsplash.orientation.landscape</note>
+      </trans-unit>
+      <trans-unit id="2ea87c08b6e2059160ebcbcbe041c6907402d5bf" resname="ibexa.unsplash.orientation.portrait">
+        <source>Portrait</source>
+        <target>crwdns266805:0crwdne266805:0</target>
+        <note>key: ibexa.unsplash.orientation.portrait</note>
+      </trans-unit>
+      <trans-unit id="c1297ad05455235b63c5179f59140a7d828416b4" resname="ibexa.unsplash.orientation.squarish">
+        <source>Squarish</source>
+        <target>crwdns266807:0crwdne266807:0</target>
+        <note>key: ibexa.unsplash.orientation.squarish</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

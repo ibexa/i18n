@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="d7bceca8ed7da8a33274c4ffd4ebc774f3f234e4" resname="role.policy.action_configuration">
+        <source>AI action</source>
+        <target>crwdns266521:0crwdne266521:0</target>
+        <note>key: role.policy.action_configuration</note>
+      </trans-unit>
+      <trans-unit id="835a424a2f41ca94042c1de6911a49487127de80" resname="role.policy.action_configuration.all_functions">
+        <source>AI action / All Functions</source>
+        <target>crwdns266523:0crwdne266523:0</target>
+        <note>key: role.policy.action_configuration.all_functions</note>
+      </trans-unit>
+      <trans-unit id="24194cf8b734fcd643fad511db3fdcf6520c14c0" resname="role.policy.action_configuration.create">
+        <source>AI action / Create</source>
+        <target>crwdns266525:0crwdne266525:0</target>
+        <note>key: role.policy.action_configuration.create</note>
+      </trans-unit>
+      <trans-unit id="d8d5410f63d92e29c60128eef8027025273cc542" resname="role.policy.action_configuration.delete">
+        <source>AI action / Delete</source>
+        <target>crwdns266527:0crwdne266527:0</target>
+        <note>key: role.policy.action_configuration.delete</note>
+      </trans-unit>
+      <trans-unit id="a926d313ac979a435fe5fb0ad93bfd6f42e90514" resname="role.policy.action_configuration.edit">
+        <source>AI action / Edit</source>
+        <target>crwdns266529:0crwdne266529:0</target>
+        <note>key: role.policy.action_configuration.edit</note>
+      </trans-unit>
+      <trans-unit id="ca422a554f67b82db865f254e174d360bcda6082" resname="role.policy.action_configuration.execute">
+        <source>AI action / Execute</source>
+        <target>crwdns266531:0crwdne266531:0</target>
+        <note>key: role.policy.action_configuration.execute</note>
+      </trans-unit>
+      <trans-unit id="53a98102951736c16607177ebf2feebb8754b102" resname="role.policy.action_configuration.view">
+        <source>AI action / View</source>
+        <target>crwdns266533:0crwdne266533:0</target>
+        <note>key: role.policy.action_configuration.view</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

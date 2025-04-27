@@ -26,6 +26,11 @@
         <target>crwdns253418:0crwdne253418:0</target>
         <note>key: block.cannot_update</note>
       </trans-unit>
+      <trans-unit id="e3a84a88a015eacebbeff73fba50a2c41ad69946" resname="block.copy">
+        <source>Copy</source>
+        <target>crwdns267385:0crwdne267385:0</target>
+        <note>key: block.copy</note>
+      </trans-unit>
       <trans-unit id="e61d69c5b35faa8c43084885c01641cd96683877" resname="block.delete">
         <source>Delete</source>
         <target>crwdns253420:0crwdne253420:0</target>
@@ -45,6 +50,11 @@
         <source>Move up block</source>
         <target>crwdns253426:0crwdne253426:0</target>
         <note>key: block.move.up</note>
+      </trans-unit>
+      <trans-unit id="7bef33e2ca412f0a0522e9eb2e7d8fb3b9bc63dd" resname="block.name.duplicate">
+        <source>%block_name% [duplicate]</source>
+        <target>crwdns267387:0%block_name%crwdne267387:0</target>
+        <note>key: block.name.duplicate</note>
       </trans-unit>
       <trans-unit id="b264e5fe26bc4d10d5ca3becf3ab73542f738925" resname="block.no_availability">
         <source>One or more blocks is not available in this page</source>
@@ -76,10 +86,35 @@
         <target>crwdns242458:0crwdne242458:0</target>
         <note>key: block.settings</note>
       </trans-unit>
+      <trans-unit id="8f3f332e774e4ebe4f456ecc1fa5b845abbc235f" resname="block.unavailable.tooltip">
+        <source>This block is switched off</source>
+        <target>crwdns267389:0crwdne267389:0</target>
+        <note>key: block.unavailable.tooltip</note>
+      </trans-unit>
       <trans-unit id="27557cc8101e53aa465cdb6d32850673a348e953" resname="block_filter.placeholder">
         <source>Search...</source>
         <target>crwdns247126:0crwdne247126:0</target>
         <note>key: block_filter.placeholder</note>
+      </trans-unit>
+      <trans-unit id="e2ab8561c5a8f9967e62486c44211c63bcf7d002" resname="clipboard">
+        <source>Clipboard</source>
+        <target>crwdns267391:0crwdne267391:0</target>
+        <note>key: clipboard</note>
+      </trans-unit>
+      <trans-unit id="3eb3d715ac3c819ee9ff6e6b8253ab28622c532f" resname="clipboard.get_item.error">
+        <source>Cannot get block from clipboard.</source>
+        <target>crwdns267393:0crwdne267393:0</target>
+        <note>key: clipboard.get_item.error</note>
+      </trans-unit>
+      <trans-unit id="6f203d204e2c077d78fffdce0cb903c4a56f575b" resname="clipboard.set_item.error">
+        <source>Cannot copy block to clipboard.</source>
+        <target>crwdns267395:0crwdne267395:0</target>
+        <note>key: clipboard.set_item.error</note>
+      </trans-unit>
+      <trans-unit id="0135804e0367b8e929cb20a26983fbb1c33b239d" resname="clipboard.set_item.success">
+        <source>Block %name% has been copied successfully.</source>
+        <target>crwdns267397:0%name%crwdne267397:0</target>
+        <note>key: clipboard.set_item.success</note>
       </trans-unit>
       <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title">
         <source>Browse content</source>
@@ -95,6 +130,11 @@
         <source>Select content</source>
         <target>crwdns242466:0crwdne242466:0</target>
         <note>key: config_form.widgets.schedule.udw.title</note>
+      </trans-unit>
+      <trans-unit id="a9aa3e78a3043fde0dfe4b2a53704481c8258251" resname="config_panel.save_and_close">
+        <source>Save and close</source>
+        <target>crwdns267399:0crwdne267399:0</target>
+        <note>key: config_panel.save_and_close</note>
       </trans-unit>
       <trans-unit id="5a88a93c8b1cd819dc183fcd3b252b24acbe487b" resname="config_popup.close.label">
         <source>Close</source>
@@ -186,6 +226,16 @@
         <target>crwdns253440:0crwdne253440:0</target>
         <note>key: notification.no_dropzone</note>
       </trans-unit>
+      <trans-unit id="ba5bb78f14716b3748f6f6eb2f5fb073c413faf4" resname="notification.no_zones_in_template">
+        <source>There is no added zones in template</source>
+        <target>crwdns267401:0crwdne267401:0</target>
+        <note>key: notification.no_zones_in_template</note>
+      </trans-unit>
+      <trans-unit id="7d5253acadd8fd944c854356ca726325a5689ab7" resname="preview_block.iframe_load.error">
+        <source>Cannot load block settings.</source>
+        <target>crwdns267403:0crwdne267403:0</target>
+        <note>key: preview_block.iframe_load.error</note>
+      </trans-unit>
       <trans-unit id="0b2dafc4e64f7587b08008c137c6861abc8232d2" resname="settings.popup.add_block_info">
         <source>When you add a block by dragging it from Page blocks menu into the drop zone, the block settings panel opens immediately where you can configure all block properties.</source>
         <target>crwdns253442:0crwdne253442:0</target>
@@ -220,6 +270,11 @@
         <source>Configuration</source>
         <target>crwdns253452:0crwdne253452:0</target>
         <note>key: structure.action.configuration</note>
+      </trans-unit>
+      <trans-unit id="641dc13631be292a0a420db5058ef5464f308c9f" resname="structure.action.copy">
+        <source>Copy</source>
+        <target>crwdns267405:0crwdne267405:0</target>
+        <note>key: structure.action.copy</note>
       </trans-unit>
       <trans-unit id="d696a75de4e11076e1b9499e64aef2a8582dcf00" resname="structure.action.duplicate">
         <source>Duplicate</source>
@@ -257,8 +312,8 @@
         <note>key: toolbox.structure.view</note>
       </trans-unit>
       <trans-unit id="f101cb8261e36b0d5e513e37fe157c8d3c0ba047" resname="toolbox.title">
-        <source>Elements</source>
-        <target>crwdns253466:0crwdne253466:0</target>
+        <source>Page blocks</source>
+        <target>crwdns267407:0crwdne267407:0</target>
         <note>key: toolbox.title</note>
       </trans-unit>
       <trans-unit id="3e1605f26b2df05fc721d6a0b91e9e4011fdf9f1" resname="user.settings.automatically_open_block_settings.description">
@@ -272,13 +327,13 @@
         <note>key: user.settings.automatically_open_block_settings.name</note>
       </trans-unit>
       <trans-unit id="4e32b8b746cdf9471b433d25ec36d5a4793dd8bf" resname="user.settings.automatically_open_block_settings.value.disabled">
-        <source>disabled</source>
-        <target>crwdns253472:0crwdne253472:0</target>
+        <source>Disabled</source>
+        <target>crwdns267409:0crwdne267409:0</target>
         <note>key: user.settings.automatically_open_block_settings.value.disabled</note>
       </trans-unit>
       <trans-unit id="4a286f075175595ce7527359c30b5f92226029db" resname="user.settings.automatically_open_block_settings.value.enabled">
-        <source>enabled</source>
-        <target>crwdns253474:0crwdne253474:0</target>
+        <source>Enabled</source>
+        <target>crwdns267411:0crwdne267411:0</target>
         <note>key: user.settings.automatically_open_block_settings.value.enabled</note>
       </trans-unit>
     </body>

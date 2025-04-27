@@ -37,13 +37,13 @@
         <note>key: fieldtype.translation_is_disabled</note>
       </trans-unit>
       <trans-unit id="39b4081643351e2a41c1b3b811b6dc78fb528520" resname="on_the_fly.cancel">
-        <source>Cancel</source>
-        <target>crwdns237812:0crwdne237812:0</target>
+        <source>Discard</source>
+        <target>crwdns267067:0crwdne267067:0</target>
         <note>key: on_the_fly.cancel</note>
       </trans-unit>
       <trans-unit id="d466f97702d045f02d8b55379a9c6ea5270ecfef" resname="on_the_fly.confirm">
-        <source>Confirm</source>
-        <target>crwdns237814:0crwdne237814:0</target>
+        <source>Save and close</source>
+        <target>crwdns267069:0crwdne267069:0</target>
         <note>key: on_the_fly.confirm</note>
       </trans-unit>
     </body>

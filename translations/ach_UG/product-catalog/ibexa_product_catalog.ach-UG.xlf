@@ -181,6 +181,11 @@
         <target>crwdns243158:0%name%crwdne243158:0</target>
         <note>key: attribute_definition.update.success</note>
       </trans-unit>
+      <trans-unit id="ea81e3d0c19e17f934a0df6300d54568e89e9b72" resname="attribute_definition.view.description">
+        <source>Description</source>
+        <target>crwdns267425:0crwdne267425:0</target>
+        <note>key: attribute_definition.view.description</note>
+      </trans-unit>
       <trans-unit id="d8a741f53d8fb247e8e15a9b887acc4a547cd4de" resname="attribute_definition.view.group">
         <source>Group</source>
         <target>crwdns243160:0crwdne243160:0</target>
@@ -425,6 +430,11 @@
         <source>Creator</source>
         <target>crwdns247262:0crwdne247262:0</target>
         <note>key: catalog.details.creator</note>
+      </trans-unit>
+      <trans-unit id="68934b4b240ddfdd3a1e0aa937b3f1c9fbccf48c" resname="catalog.details.description">
+        <source>Description</source>
+        <target>crwdns267427:0crwdne267427:0</target>
+        <note>key: catalog.details.description</note>
       </trans-unit>
       <trans-unit id="1376608d323e76b5b1e82efaba4da13822156ba9" resname="catalog.details.identifier">
         <source>Identifier</source>
@@ -1030,6 +1040,11 @@
         <source>Create product</source>
         <target>crwdns243332:0crwdne243332:0</target>
         <note>key: ibexa_product_catalog.product_create_form.title</note>
+      </trans-unit>
+      <trans-unit id="43aabeb6d9636154f19babfa86df55c0456a805b" resname="ibexa_product_catalog.product_update_form.product_referenced">
+        <source>Product is already referenced, the code cannot be changed.</source>
+        <target>crwdns267429:0crwdne267429:0</target>
+        <note>key: ibexa_product_catalog.product_update_form.product_referenced</note>
       </trans-unit>
       <trans-unit id="05ac6bd0badf7c95db6f444e62cc0ff4a363c6a9" resname="list.action.create">
         <source>Create</source>
@@ -1651,6 +1666,16 @@
         <target>crwdns243430:0crwdne243430:0</target>
         <note>key: product.view.availability.label.edit</note>
       </trans-unit>
+      <trans-unit id="68c62fe1653d4627a49f16b1540916ff067078f7" resname="product.view.availability.no_availability.action">
+        <source>Specify stock quantity and start selling product.</source>
+        <target>crwdns267431:0crwdne267431:0</target>
+        <note>key: product.view.availability.no_availability.action</note>
+      </trans-unit>
+      <trans-unit id="e2208991e5cbf2ad3e8d35a9b1ee36baca1c5116" resname="product.view.availability.no_availability.info">
+        <source>Make this product available</source>
+        <target>crwdns267433:0crwdne267433:0</target>
+        <note>key: product.view.availability.no_availability.info</note>
+      </trans-unit>
       <trans-unit id="60eb18eb6b8b4ee30b94d952fd4c89f6829e55af" resname="product.view.availability.title">
         <source>Availability</source>
         <target>crwdns243432:0crwdne243432:0</target>
@@ -1890,6 +1915,11 @@
         <source>Base price</source>
         <target>crwdns243488:0crwdne243488:0</target>
         <note>key: product_price.base_price</note>
+      </trans-unit>
+      <trans-unit id="3e0d5953b66d52f2a33118ecccda75f4c3859448" resname="product_price.base_price.input.helper_msg">
+        <source>The value must be greater than 0.</source>
+        <target>crwdns267435:0crwdne267435:0</target>
+        <note>key: product_price.base_price.input.helper_msg</note>
       </trans-unit>
       <trans-unit id="bd54047a23728c4b5e3fadf2c38767759b42cdb8" resname="product_price.creating.action_name">
         <source>Creating new product price</source>
