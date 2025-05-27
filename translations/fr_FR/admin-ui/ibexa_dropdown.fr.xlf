@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="a3390555f717ffd9b3560f17198e5a437899967f" resname="dropdown.placeholder">
         <source>Choose an option</source>
-        <target state="translated">Choisissez une option</target>
+        <target state="translated">Choisir une option</target>
         <note>key: dropdown.placeholder</note>
       </trans-unit>
       <trans-unit id="bcf45496a8dbad6959111ca6eae0ab456d4ad1c7" resname="dropdown.placeholder.all">
         <source>All</source>
-        <target state="translated">Tous</target>
+        <target state="translated">Tout</target>
         <note>key: dropdown.placeholder.all</note>
       </trans-unit>
       <trans-unit id="49f6d75aca8da375a2a79c0778934bc45a8ffe8c" resname="dropdown.placeholder.empty">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="40f8da5227ff717dc8e4d57dc26c074c25c00d3a" resname="dropdown.placeholder.empty.label">
         <source>All</source>
-        <target state="translated">Tous</target>
+        <target state="translated">Tout</target>
         <note>key: dropdown.placeholder.empty.label</note>
       </trans-unit>
       <trans-unit id="3f446c9bfc8591ebdb9a2bc8fa98410bdcc4ced2" resname="dropdown.select_all">

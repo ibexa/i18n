@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="db5d6f82fe5ba6f40d1d159dca89c659c76aad06" resname="content.field_type.ezauthor.email">
         <source>Email</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">E-Mail-Adresse</target>
         <note>key: content.field_type.ezauthor.email</note>
       </trans-unit>
       <trans-unit id="05fe48833d61c38f4c532c34c4b6fdad323e1fe1" resname="content.field_type.ezauthor.name">
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="2fcb1cae76dae0c5ddda6446822bf2d656e84601" resname="content.field_type.ezgmaplocation.latitude">
         <source>Latitude</source>
-        <target state="translated">Latitude</target>
+        <target state="translated">Breitengrad</target>
         <note>key: content.field_type.ezgmaplocation.latitude</note>
       </trans-unit>
       <trans-unit id="f598e2bedb749c004e232b9c3f0cffbc08f9c491" resname="content.field_type.ezgmaplocation.longitude">
         <source>Longitude</source>
-        <target state="translated">Longitude</target>
+        <target state="translated">Längengrad</target>
         <note>key: content.field_type.ezgmaplocation.longitude</note>
       </trans-unit>
       <trans-unit id="aa904d94a0f6df2084d669e82dac178189509aab" resname="content.field_type.ezimage.alternative_text">
@@ -53,12 +53,12 @@
       </trans-unit>
       <trans-unit id="7162d22b1be8aaa634e57fa94cc2664026be4390" resname="content.field_type.ezmedia.autoplay">
         <source>Autoplay</source>
-        <target state="translated">Automatisches Abspielen</target>
+        <target state="translated">Autoplay</target>
         <note>key: content.field_type.ezmedia.autoplay</note>
       </trans-unit>
       <trans-unit id="f0176a5e197c6c207e09affb1a027db2ab48a506" resname="content.field_type.ezmedia.display_controls">
         <source>Display controls</source>
-        <target state="translated">Steuerelemente anzeigen</target>
+        <target state="translated">Bedienelemente anzeigen</target>
         <note>key: content.field_type.ezmedia.display_controls</note>
       </trans-unit>
       <trans-unit id="eb3b924b6a2d94344ea5e1e51636ef5b92a7a57a" resname="content.field_type.ezmedia.height">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="48e4eb02443e58b9ff501ca03bdc4008e842eba4" resname="content.field_type.ezmedia.loop">
         <source>Loop</source>
-        <target state="translated">Wiederholen</target>
+        <target state="translated">Loop</target>
         <note>key: content.field_type.ezmedia.loop</note>
       </trans-unit>
       <trans-unit id="e5940ee516f3edb1d09e7ac4eed4fe7a28d3cacd" resname="content.field_type.ezmedia.width">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="7a3eb3ea13db1c9d6a0bd64c7d249a45e7b83b52" resname="content.field_type.ezuser.email">
         <source>Email</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">E-Mail-Adresse</target>
         <note>key: content.field_type.ezuser.email</note>
       </trans-unit>
       <trans-unit id="8ac4ec40153c80fd39d2051802e30ebffb6f1fe1" resname="content.field_type.ezuser.enabled">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="1d777459cd2f508bdb4676d48eaeee62e11d3009" resname="content_forms.relation.location_type">
         <source>Select Starting Location</source>
-        <target state="translated">Wählen Sie den Startort</target>
+        <target state="translated">Anfangsstandort auswählen</target>
         <note>key: content_forms.relation.location_type</note>
       </trans-unit>
       <trans-unit id="76697f8a72ee770ea298bfc2dd8d5d8d3d6b1615" resname="content_forms.relation.location_type.browse">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="d0229bc36e84e27b95b3b41a8dd7fd29fe952f33" resname="content_forms.relation.location_type.self">
         <source>Content location</source>
-        <target state="translated">Ort</target>
+        <target state="translated">Standort des Inhalts</target>
         <note>key: content_forms.relation.location_type.self</note>
       </trans-unit>
     </body>

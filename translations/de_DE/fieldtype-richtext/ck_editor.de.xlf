@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="a31bc2d766bef988d3d4e2e0892c79b64d2aadd9" resname="anchor_btn.error.unique">
         <source>Anchor name must be unique.</source>
-        <target state="translated">Ankername muss eindeutig sein.</target>
+        <target state="translated">Der Name des Ankers muss eindeutig sein.</target>
         <note>key: anchor_btn.error.unique</note>
       </trans-unit>
       <trans-unit id="88d893050d5eea476d9559abba8b7cdda519154a" resname="anchor_btn.error.valid">
         <source>A valid anchor link is needed.</source>
-        <target state="translated">Ein gültiger Ankerlink wird benötigt.</target>
+        <target state="translated">Ein gültiger Anker-Link ist erforderlich.</target>
         <note>key: anchor_btn.error.valid</note>
       </trans-unit>
       <trans-unit id="2fec67b71cd77563c4e494477e691ba9661d95fe" resname="anchor_btn.label">
@@ -23,17 +23,17 @@
       </trans-unit>
       <trans-unit id="18521c98ecdb47eba2ceee2926516d53f89b0e34" resname="block_alignment.center">
         <source>Center</source>
-        <target state="translated">Zentriert</target>
+        <target state="translated">Mitte</target>
         <note>key: block_alignment.center</note>
       </trans-unit>
       <trans-unit id="8a9146b3a0aec35567929ab9e793312af26ce89b" resname="block_alignment.left">
         <source>Left</source>
-        <target state="translated">Linksbündig</target>
+        <target state="translated">Links</target>
         <note>key: block_alignment.left</note>
       </trans-unit>
       <trans-unit id="a371a27c4cfc05d751e69ac9c478c336e5bc9826" resname="block_alignment.right">
         <source>Right</source>
-        <target state="translated">Rechtsbündig</target>
+        <target state="translated">Rechts</target>
         <note>key: block_alignment.right</note>
       </trans-unit>
       <trans-unit id="250e037cfe2d6e349e2da22428ac75e7559f1d66" resname="custom_attributes_btn.label">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="fb7fb71848f42499261b9e92b40f0254e730ddd4" resname="custom_styles_btn.label">
         <source>Custom styles</source>
-        <target state="translated">Benutzerdefiniertes Stile</target>
+        <target state="translated">Benutzerdefinierte Stile</target>
         <note>key: custom_styles_btn.label</note>
       </trans-unit>
       <trans-unit id="3b257be2c6dd1f7bf0d5c70e64c22bf5b298dbbf" resname="elements_path.list.label">

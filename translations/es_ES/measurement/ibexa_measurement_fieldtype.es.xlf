@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="7b351cb752fb361875b3eca35b0dc5810c3ee76c" resname="content.field_type.ibexa_measurement.range_maximum_value">
         <source>Maximum</source>
-        <target state="needs-translation">Maximum</target>
+        <target state="translated">Máximo</target>
         <note>key: content.field_type.ibexa_measurement.range_maximum_value</note>
       </trans-unit>
       <trans-unit id="77ce1e3c613ae56f36a5c8cac08bceedc82af214" resname="content.field_type.ibexa_measurement.range_minimum_value">
         <source>Minimum</source>
-        <target state="needs-translation">Minimum</target>
+        <target state="translated">Mínimo</target>
         <note>key: content.field_type.ibexa_measurement.range_minimum_value</note>
       </trans-unit>
       <trans-unit id="c8b39c7a010713902ffde37e1f5ec81d200eb3dd" resname="content.field_type.ibexa_measurement.value">
         <source>Value</source>
-        <target state="needs-translation">Value</target>
+        <target state="translated">Valor</target>
         <note>key: content.field_type.ibexa_measurement.value</note>
       </trans-unit>
       <trans-unit id="5157b0602c53597ca45dfcf2e3b5e28693443d16" resname="field_definition.ibexa_measurement.measurement_unit">
         <source>Measurement Unit</source>
-        <target state="needs-translation">Measurement Unit</target>
+        <target state="translated">Unidad de medida</target>
         <note>key: field_definition.ibexa_measurement.measurement_unit</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="f5a269d34f71855970d09ca7d7cf9bebfbde47de" resname="content.comparison.header.back_button">
         <source>Back</source>
-        <target state="translated">Précédent</target>
+        <target state="translated">Retour</target>
         <note>key: content.comparison.header.back_button</note>
       </trans-unit>
       <trans-unit id="916ba732aa4f4670cf806c233617d4885d86aef5" resname="content.comparison.language_selector.label">
@@ -16,9 +16,9 @@
         <target state="translated">Langue</target>
         <note>key: content.comparison.language_selector.label</note>
       </trans-unit>
-      <trans-unit id="88ee23804e21af17492f778144f3f8be16959b90" resname="content.comparison.title" approved="yes">
+      <trans-unit id="88ee23804e21af17492f778144f3f8be16959b90" resname="content.comparison.title">
         <source>Comparing versions</source>
-        <target state="final">Comparer les versions</target>
+        <target state="translated">Comparaison des versions</target>
         <note>key: content.comparison.title</note>
       </trans-unit>
       <trans-unit id="d4af9d73b5774c8f8b4c2aa3e35a1affc984a8ea" resname="content.comparison.tooltip.item.label.added">
@@ -61,29 +61,29 @@
         <target state="translated">%status% - Version %version% - %language%</target>
         <note>key: version_info.comparison.select_name</note>
       </trans-unit>
-      <trans-unit id="a7f78628f4533483d54c7648511cc2720d9eda45" resname="version_info.comparison.select_placeholder" approved="yes">
+      <trans-unit id="a7f78628f4533483d54c7648511cc2720d9eda45" resname="version_info.comparison.select_placeholder">
         <source>Select a version to compare</source>
-        <target state="final">Sélectionner une version à comparer</target>
+        <target state="translated">Sélectionner une version à comparer</target>
         <note>key: version_info.comparison.select_placeholder</note>
       </trans-unit>
       <trans-unit id="ce9e882347182c3131045e8139681bb856864faf" resname="version_info.language.select_placeholder">
         <source>Language select placeholder</source>
-        <target state="needs-translation">Language select placeholder</target>
+        <target state="translated">Langue sélectionner espace réservé</target>
         <note>key: version_info.language.select_placeholder</note>
       </trans-unit>
-      <trans-unit id="2606e3196d40ee3cdfbdb7c62334d8c4e0dfb87a" resname="version_info.status.archived" approved="yes">
+      <trans-unit id="2606e3196d40ee3cdfbdb7c62334d8c4e0dfb87a" resname="version_info.status.archived">
         <source>Archived</source>
-        <target state="final">Archivé</target>
+        <target state="translated">Archivé</target>
         <note>key: version_info.status.archived</note>
       </trans-unit>
-      <trans-unit id="785ea96b442ac54b8a25423b3edd36dcc574a8a4" resname="version_info.status.draft" approved="yes">
+      <trans-unit id="785ea96b442ac54b8a25423b3edd36dcc574a8a4" resname="version_info.status.draft">
         <source>Draft</source>
-        <target state="final">Brouillon</target>
+        <target state="translated">Brouillon</target>
         <note>key: version_info.status.draft</note>
       </trans-unit>
-      <trans-unit id="8d33e24a1a15c90ea3eac14dd7888a14eec26f87" resname="version_info.status.published" approved="yes">
+      <trans-unit id="8d33e24a1a15c90ea3eac14dd7888a14eec26f87" resname="version_info.status.published">
         <source>Published</source>
-        <target state="final">Publié</target>
+        <target state="translated">Publié</target>
         <note>key: version_info.status.published</note>
       </trans-unit>
     </body>

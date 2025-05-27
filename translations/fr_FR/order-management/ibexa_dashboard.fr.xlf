@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,52 +8,52 @@
     <body>
       <trans-unit id="303e73dbab1ee129c1f75f1130d65a05780603f1" resname="block.recent_order.column.company_name">
         <source>Company name</source>
-        <target state="needs-translation">Company name</target>
+        <target state="translated">Nom de l’entreprise</target>
         <note>key: block.recent_order.column.company_name</note>
       </trans-unit>
       <trans-unit id="00a99c62da6567c353ce852cb061f9da6d7e1996" resname="block.recent_order.column.created_at">
         <source>Created</source>
-        <target state="needs-translation">Created</target>
+        <target state="translated">Créée</target>
         <note>key: block.recent_order.column.created_at</note>
       </trans-unit>
       <trans-unit id="2fa317f2c7e0a42c1daeabfb43ffaef02e6c087e" resname="block.recent_order.column.customer_name">
         <source>Customer name</source>
-        <target state="needs-translation">Customer name</target>
+        <target state="translated">Nom du client</target>
         <note>key: block.recent_order.column.customer_name</note>
       </trans-unit>
       <trans-unit id="b0440186a3370687fe069fd916b433545ecca12b" resname="block.recent_order.column.id">
         <source>Order ID</source>
-        <target state="needs-translation">Order ID</target>
+        <target state="translated">Identifiant de la commande</target>
         <note>key: block.recent_order.column.id</note>
       </trans-unit>
       <trans-unit id="fbeebfd5216cbe8c8212372f803c42fd0e19a15f" resname="block.recent_order.column.status">
         <source>Status</source>
-        <target state="needs-translation">Status</target>
+        <target state="translated">Statut</target>
         <note>key: block.recent_order.column.status</note>
       </trans-unit>
       <trans-unit id="b45d59195a91d7eda9792df2a15e8769e006257c" resname="block.recent_order.column.total_value">
         <source>Total value</source>
-        <target state="needs-translation">Total value</target>
+        <target state="translated">Valeur totale</target>
         <note>key: block.recent_order.column.total_value</note>
       </trans-unit>
       <trans-unit id="bff52a3782a84c3ae4452be7a670dacad4f0901d" resname="block.recent_order.empty">
         <source>No results found</source>
-        <target state="needs-translation">No results found</target>
+        <target state="translated">Aucun résultat trouvé</target>
         <note>key: block.recent_order.empty</note>
       </trans-unit>
       <trans-unit id="88c32ef428fcecce316275bcfbd62d15fd714c99" resname="block.recent_order.title">
         <source>Recent orders</source>
-        <target state="needs-translation">Recent orders</target>
+        <target state="translated">Commandes récentes</target>
         <note>key: block.recent_order.title</note>
       </trans-unit>
       <trans-unit id="8af90040bde072fb9ec445dac1f0af27d14d35f1" resname="dashboard.orders_status.dataset_label">
         <source>Orders</source>
-        <target state="needs-translation">Orders</target>
+        <target state="translated">Commandes</target>
         <note>key: dashboard.orders_status.dataset_label</note>
       </trans-unit>
       <trans-unit id="74d3c30eb5f610c7eae2c8f993de963a1927ef8d" resname="dashboard.orders_status.title">
         <source>Orders by status</source>
-        <target state="needs-translation">Orders by status</target>
+        <target state="translated">Commandes par statut</target>
         <note>key: dashboard.orders_status.title</note>
       </trans-unit>
     </body>

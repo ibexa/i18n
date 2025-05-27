@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="1a7f237934a127173ca3b55ffaf463df71d71e4f" resname="form.product_search.query.placeholder">
         <source>Search by product name or code</source>
-        <target state="translated">Recherche par nom de produit ou code</target>
+        <target state="translated">Rechercher par nom ou code de produit</target>
         <note>key: form.product_search.query.placeholder</note>
       </trans-unit>
       <trans-unit id="a08c47560bffd7488e17f503672ed38f7273eafd" resname="form.product_search.sort.label">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="4192b8b8a7ec47065dec3528b5c48a37c63532b3" resname="ibexa_storefront.choice.show_less">
         <source>Show less</source>
-        <target state="translated">Voir moins</target>
+        <target state="translated">Afficher moins</target>
         <note>key: ibexa_storefront.choice.show_less</note>
       </trans-unit>
       <trans-unit id="72a4ec03e161515ab9fa1b5a69280c4c1a67fd1e" resname="ibexa_storefront.choice.show_more">
         <source>Show more</source>
-        <target state="translated">Voir plus</target>
+        <target state="translated">Afficher plus</target>
         <note>key: ibexa_storefront.choice.show_more</note>
       </trans-unit>
       <trans-unit id="2e5d3cca946481caa65a929ae3e365f8fbc34a3f" resname="ibexa_storefront.choice.to">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="c7b99737871fa00a2c8b78fbd4eb2e4a1497feaf" resname="ibexa_storefront.currency_switcher.label">
         <source>Currency: %currency%</source>
-        <target state="translated">Devise : %currency%</target>
+        <target state="translated">Devise : %currency%</target>
         <note>key: ibexa_storefront.currency_switcher.label</note>
       </trans-unit>
       <trans-unit id="fc358b85321f4ce6a516048384f9d74e212f2bd8" resname="ibexa_storefront.filters.title">
@@ -68,32 +68,32 @@
       </trans-unit>
       <trans-unit id="ada7bf4118481f45d3a65b2314266c83607d6f1b" resname="ibexa_storefront.language_switcher.label">
         <source>Language: %language_code%</source>
-        <target state="translated">Langue : %languageName%</target>
+        <target state="translated">Langue : %language_code%</target>
         <note>key: ibexa_storefront.language_switcher.label</note>
       </trans-unit>
       <trans-unit id="3c2a08fd40b7c6d3a615a2c28faae117f6211b17" resname="ibexa_storefront.login.button.login">
         <source>Log in</source>
-        <target state="translated">Se connecter</target>
+        <target state="translated">Connexion</target>
         <note>key: ibexa_storefront.login.button.login</note>
       </trans-unit>
       <trans-unit id="b3b9730ca825835b312fc5c6ebecfefad14eb72f" resname="ibexa_storefront.login.button.register">
         <source>Register</source>
-        <target state="translated">Créer un compte</target>
+        <target state="translated">S’inscrire</target>
         <note>key: ibexa_storefront.login.button.register</note>
       </trans-unit>
       <trans-unit id="0fab2ceb8bf37bda3a1eda203e943597f1793727" resname="ibexa_storefront.login.description">
         <source>It includes key components used to display and sell products, that help to build a target store.</source>
-        <target state="translated">Il comprend des composants clés utilisés pour afficher et vendre des produits, qui aident à construire un magasin cible.</target>
+        <target state="translated">Des composants clés sont inclus pour présenter et vendre des produits, afin de vous aider à créer une boutique.</target>
         <note>key: ibexa_storefront.login.description</note>
       </trans-unit>
       <trans-unit id="787376ab492e627f35c5e2a762e4d1123bf7e680" resname="ibexa_storefront.login.form.header">
         <source>Log in</source>
-        <target state="translated">Se connecter</target>
+        <target state="translated">Connexion</target>
         <note>key: ibexa_storefront.login.form.header</note>
       </trans-unit>
       <trans-unit id="9b5ca3f3804149ea05e9e7146bfd3fa48e5743c6" resname="ibexa_storefront.login.header">
         <source>Welcome to Ibexa Storefront</source>
-        <target state="translated">Bienvenue dans la boutique Ibexa</target>
+        <target state="translated">Bienvenue dans la vitrine d’Ibexa</target>
         <note>key: ibexa_storefront.login.header</note>
       </trans-unit>
       <trans-unit id="febd0e6d609afad3d8f4a596ada670262add68e1" resname="ibexa_storefront.login.password">
@@ -103,12 +103,12 @@
       </trans-unit>
       <trans-unit id="2b092350561199274d03051ad6d8bd7fa1917f29" resname="ibexa_storefront.login.username">
         <source>Username</source>
-        <target state="translated">Nom d'utilisateur</target>
+        <target state="translated">Nom d’utilisateur</target>
         <note>key: ibexa_storefront.login.username</note>
       </trans-unit>
       <trans-unit id="6efbf78b4823a71aeeac9b2a30dc2ab039b46a3a" resname="ibexa_storefront.menu.user.change_password">
         <source>Change password</source>
-        <target state="translated">Modifier mot de passe</target>
+        <target state="translated">Modifier le mot de passe</target>
         <note>key: ibexa_storefront.menu.user.change_password</note>
       </trans-unit>
       <trans-unit id="ae29b118a45360485cb74c97c471f2a775f179b7" resname="ibexa_storefront.menu.user.logout">
@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="ccaa3afecfba938bc0965b27b4e7e3613cf1483a" resname="ibexa_storefront.menu.user.settings">
         <source>Settings</source>
-        <target state="translated">Réglages</target>
+        <target state="translated">Paramètres</target>
         <note>key: ibexa_storefront.menu.user.settings</note>
       </trans-unit>
       <trans-unit id="7bab86b637147c245e9e4b3e7e3b0fdf59f86564" resname="ibexa_storefront.pagination.total">
         <source>%total% products found</source>
-        <target state="translated">Produits %total% trouvés</target>
+        <target state="translated">%total% produits trouvés</target>
         <note>key: ibexa_storefront.pagination.total</note>
       </trans-unit>
       <trans-unit id="349f54ff4408405ec8534f3a109208850a5ffd56" resname="ibexa_storefront.product.code">
@@ -168,17 +168,17 @@
       </trans-unit>
       <trans-unit id="3a4cbdea0d4c422ebc8089c06e6bbbc720887480" resname="ibexa_storefront.product_card.view_details_btn.label">
         <source>View details</source>
-        <target state="translated">Voir les détails</target>
+        <target state="translated">Afficher les détails</target>
         <note>key: ibexa_storefront.product_card.view_details_btn.label</note>
       </trans-unit>
       <trans-unit id="275e19a2856b2308a9707abffcdbb35f51e3913a" resname="ibexa_storefront.product_catalog.title">
         <source>Product catalog</source>
-        <target state="needs-translation">Product catalog</target>
+        <target state="translated">Catalogue de produits</target>
         <note>key: ibexa_storefront.product_catalog.title</note>
       </trans-unit>
       <trans-unit id="2f528d4b2fd384e59bf655f270bf5bee4a9a639b" resname="ibexa_storefront.region_switcher.label">
         <source>Region: %region%</source>
-        <target state="translated">Région : %region%</target>
+        <target state="translated">Zone : %region%</target>
         <note>key: ibexa_storefront.region_switcher.label</note>
       </trans-unit>
       <trans-unit id="916c1c2648c60f6ba82781992a6cc8833a443ac7" resname="ibexa_storefront.register.form_group.account_data">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="39673b45cb4176e5b691d53a2bc8f5320c298e45" resname="ibexa_storefront.user_menu.register">
         <source>Register</source>
-        <target state="translated">Créer un compte</target>
+        <target state="translated">S’inscrire</target>
         <note>key: ibexa_storefront.user_menu.register</note>
       </trans-unit>
       <trans-unit id="1f28882093edb85d6672e18cd42dbf1e9f153f3c" resname="order.detail.back_to_list.btn">
@@ -243,17 +243,17 @@
       </trans-unit>
       <trans-unit id="a19bef11afced8c5acfb9088e01fcf39109f7d5c" resname="order.detail.details.shipping_address.label">
         <source>Shipping address</source>
-        <target state="translated">Adresse de livraison</target>
+        <target state="translated">Adresse d’expédition</target>
         <note>key: order.detail.details.shipping_address.label</note>
       </trans-unit>
       <trans-unit id="ac95053397e4b9d3851a2e3b973cd02f1af7dd63" resname="order.detail.details.shipping_method.label">
         <source>Shipping method</source>
-        <target state="translated">Mode de livraison</target>
+        <target state="translated">Méthode d’expédition</target>
         <note>key: order.detail.details.shipping_method.label</note>
       </trans-unit>
       <trans-unit id="3cabfd69681005d1866589a57efd72059e19cbe0" resname="order.detail.details.shipping_status.label">
         <source>Shipping status</source>
-        <target state="translated">Statut de livraison</target>
+        <target state="translated">Statut de l’expédition</target>
         <note>key: order.detail.details.shipping_status.label</note>
       </trans-unit>
       <trans-unit id="2d34056361f9281583645a15ee53d7e8c0787f0d" resname="order.detail.details.title">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="4f645f67c1a87843efe3b9262e7a35d4ba4e9a2f" resname="order.detail.price_details.shipping_cost.label">
         <source>Shipping cost</source>
-        <target state="translated">Frais de livraison</target>
+        <target state="translated">Frais d’expédition</target>
         <note>key: order.detail.price_details.shipping_cost.label</note>
       </trans-unit>
       <trans-unit id="f2fd74f39058c7a3689a4dbb4df5e22a06d8b96a" resname="order.detail.price_details.subtotal_net.label">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="fcda60175465d1515ec89d68e637be93dc47b8cf" resname="order.detail.price_details.title">
         <source>Price details</source>
-        <target state="translated">Détails du prix</target>
+        <target state="translated">Détails sur le prix</target>
         <note>key: order.detail.price_details.title</note>
       </trans-unit>
       <trans-unit id="6074aa1b1d17f09c8499102fbd160c7fac36b8e9" resname="order.detail.price_details.total_value.label">
@@ -333,17 +333,17 @@
       </trans-unit>
       <trans-unit id="a7d013edd76a0d154b9482cf99ca93e542f84fc7" resname="order.detail.reorder.btn">
         <source>Reorder</source>
-        <target state="translated">Réordonner</target>
+        <target state="translated">Commander à nouveau</target>
         <note>key: order.detail.reorder.btn</note>
       </trans-unit>
       <trans-unit id="ecd2fcfcf901b67113e7bc8b7b5fd902645c96e8" resname="order.detail.title">
         <source>Order #%identifier%</source>
-        <target state="translated">Commande n°%identifier%</target>
+        <target state="translated">Commande n° %identifier%</target>
         <note>key: order.detail.title</note>
       </trans-unit>
       <trans-unit id="936763ac64ca68a62d68d780f443e24831922202" resname="order.filter.label.created_at">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: order.filter.label.created_at</note>
       </trans-unit>
       <trans-unit id="64dece24d070c1563dc2df7baef2741f311a64cb" resname="order.filter.label.status">
@@ -358,12 +358,12 @@
       </trans-unit>
       <trans-unit id="c1bf1a488a203c5c330e11042b2232920c508453" resname="order.list.column.created">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: order.list.column.created</note>
       </trans-unit>
       <trans-unit id="c12c5989d701900dd99f78a27b38e83416cf5d3a" resname="order.list.column.identifier">
         <source>Order ID</source>
-        <target state="translated">ID de commande</target>
+        <target state="translated">Identifiant de la commande</target>
         <note>key: order.list.column.identifier</note>
       </trans-unit>
       <trans-unit id="dc390226a57b139225bbee232fa5efee1df0e45d" resname="order.list.column.order_status">
@@ -383,17 +383,17 @@
       </trans-unit>
       <trans-unit id="2fe66bcf7d3176c08af55b2002908e99fb8c80e7" resname="order.list.filters.query.placeholder">
         <source>Search by order ID</source>
-        <target state="translated">Recherche par ID de commande</target>
+        <target state="translated">Rechercher par identifiant de commande</target>
         <note>key: order.list.filters.query.placeholder</note>
       </trans-unit>
       <trans-unit id="e423f0f9a21b8db369a5e5812290ffd7870f2341" resname="order.list.no_orders.action_text">
         <source>When you place your first order, it will appear here.</source>
-        <target state="translated">Lorsque vous passez votre première commande, elle apparaîtra ici.</target>
+        <target state="translated">Lorsque vous passez votre première commande, elle s’affiche ici.</target>
         <note>key: order.list.no_orders.action_text</note>
       </trans-unit>
       <trans-unit id="df44ae65dc45fd0aa38d5d39e9bf9f410251576d" resname="order.list.no_orders.info_text">
         <source>No orders yet</source>
-        <target state="translated">Pas encore de commandes</target>
+        <target state="translated">Aucune commande pour l’instant</target>
         <note>key: order.list.no_orders.info_text</note>
       </trans-unit>
       <trans-unit id="c732ca5d859e4c7d8b1d8271b6709a12ce3adee6" resname="order.list.no_search_results.action_text">
@@ -403,12 +403,12 @@
       </trans-unit>
       <trans-unit id="4c39dd26f41eec8ded6c157165400fa2a77f5e78" resname="order.list.no_search_results.info_text">
         <source>Sorry, there are no orders for your search</source>
-        <target state="translated">Désolé, il n'y a pas de lignes pour votre recherche</target>
+        <target state="translated">Aucune commande ne correspond à votre recherche</target>
         <note>key: order.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="732d66bad97d7f2742b453dcc806b6a12eeb7642" resname="order.list.reorder.btn">
         <source>Reorder</source>
-        <target state="translated">Réordonner</target>
+        <target state="translated">Commander à nouveau</target>
         <note>key: order.list.reorder.btn</note>
       </trans-unit>
       <trans-unit id="8359954d0c874b1639ec1ce162c254b24a56581d" resname="order.list.title">
@@ -423,27 +423,27 @@
       </trans-unit>
       <trans-unit id="3cfe75ff79c46f043f991ce35ab18415d28fc9b2" resname="product.sort_clause.created_at_asc">
         <source>Oldest</source>
-        <target state="translated">Plus ancien</target>
+        <target state="translated">Le plus ancien</target>
         <note>key: product.sort_clause.created_at_asc</note>
       </trans-unit>
       <trans-unit id="4616b2dff02a6f8d4f8ed24672b5a46c8797e55c" resname="product.sort_clause.created_at_desc">
         <source>Newest</source>
-        <target state="translated">Plus récent</target>
+        <target state="translated">Le plus récent</target>
         <note>key: product.sort_clause.created_at_desc</note>
       </trans-unit>
       <trans-unit id="2bb0ac949cf75d80ac39a7b6f614ba75ce7be6da" resname="product.sort_clause.name_asc">
         <source>Name A-Z</source>
-        <target state="translated">Nom de A à Z</target>
+        <target state="translated">Nom A-Z</target>
         <note>key: product.sort_clause.name_asc</note>
       </trans-unit>
       <trans-unit id="896f0b4cbf788ed4079cfee3fd8ce9e671a38a06" resname="product.sort_clause.name_desc">
         <source>Name Z-A</source>
-        <target state="translated">Nom de Z à A</target>
+        <target state="translated">Nom Z-A</target>
         <note>key: product.sort_clause.name_desc</note>
       </trans-unit>
       <trans-unit id="b239dc19446839d1533d70efba9ec14acebe0248" resname="product.variant.choice.select_variant_placeholder">
         <source>Select variant...</source>
-        <target state="translated">Choisir une variante...</target>
+        <target state="translated">Sélectionner une variante...</target>
         <note>key: product.variant.choice.select_variant_placeholder</note>
       </trans-unit>
       <trans-unit id="aecedc57ec948d6ac88962bb890429b259dc976a" resname="quick_order.file.add_btn.label">
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="102133ac7229b88f70914ae3fd184a64d1a7e38b" resname="quick_order.file.description">
         <source>Drag and drop  your own XLS, XLSX or CSV file and add products to cart.</source>
-        <target state="translated">Glissez et déposez votre propre fichier XLS, XLSX ou CSV et ajoutez des produits au panier.</target>
+        <target state="translated">Glissez-déposez votre propre fichier XLS, XLSX ou CSV et ajoutez des produits dans le panier.</target>
         <note>key: quick_order.file.description</note>
       </trans-unit>
       <trans-unit id="2d899cce15da0017066d1c4a137c16fd86932d9a" resname="quick_order.file.headline">
@@ -463,12 +463,12 @@
       </trans-unit>
       <trans-unit id="90af2fbf836143131b87287114e65cc78a62d1ca" resname="quick_order.file.max_size">
         <source>Max file size: %max_file_size%</source>
-        <target state="translated">Taille maximale du fichier : %max_file_size%</target>
+        <target state="translated">Taille de fichier max. : %max_file_size%</target>
         <note>key: quick_order.file.max_size</note>
       </trans-unit>
       <trans-unit id="b97a064b6c5327c78cf77b876e56198249433a0e" resname="quick_order.file.template.link">
         <source>Download sample csv file</source>
-        <target state="translated">Télécharger l'exemple de fichier csv</target>
+        <target state="translated">Télécharger le fichier csv d’exemple</target>
         <note>key: quick_order.file.template.link</note>
       </trans-unit>
       <trans-unit id="28953e338f4e8aa4e032befea0566f058df7c6c5" resname="quick_order.header">
@@ -478,7 +478,7 @@
       </trans-unit>
       <trans-unit id="4f69a8795fcc58e62d174fb5872703f14ebad4bc" resname="quick_order.success">
         <source>All products entered in Quick order have been added successfully.</source>
-        <target state="translated">Tous les produits entrés dans l'ordre rapide ont été ajoutés avec succès.</target>
+        <target state="translated">Tous les produits saisis dans la commande rapide ont été ajoutés avec succès.</target>
         <note>key: quick_order.success</note>
       </trans-unit>
       <trans-unit id="0a43a5c7cc8a874fa6f7699914940389f79cef65" resname="user.setting.currency.description">
@@ -493,7 +493,7 @@
       </trans-unit>
       <trans-unit id="6dce9fec029221078e32a8cfb647c7049b07d07c" resname="user.setting.currency.undefined">
         <source>undefined</source>
-        <target state="needs-translation">undefined</target>
+        <target state="translated">non définie</target>
         <note>key: user.setting.currency.undefined</note>
       </trans-unit>
     </body>

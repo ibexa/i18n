@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -48,27 +48,27 @@
       </trans-unit>
       <trans-unit id="ecf02677fe877b84d5dfffc2cba4021b0bb2e1a3" resname="url_wildcard.delete.success">
         <source>URL Wildcard(s) deleted.</source>
-        <target state="translated">URL avec joker supprimées.</target>
+        <target state="translated">URL avec joker supprimée(s).</target>
         <note>key: url_wildcard.delete.success</note>
       </trans-unit>
       <trans-unit id="8fe44f043fa71a16c618cde88dd0e1098e5479bb" resname="url_wildcard.disabled">
         <source>URL wildcards are disabled. Contact your Administrator.</source>
-        <target state="translated">Les URLs Joker sont désactivés. Contactez votre administrateur.</target>
+        <target state="translated">Les URL avec joker sont désactivées. Contactez votre administrateur.</target>
         <note>key: url_wildcard.disabled</note>
       </trans-unit>
       <trans-unit id="96a90dc2272bef795abed845ba2a8b4c24615371" resname="url_wildcard.editing">
         <source>Editing URL wildcard: %url%</source>
-        <target state="translated">Modification en cours de l'URL joker: %url%</target>
+        <target state="translated">Modification de l’URL avec joker : %url%</target>
         <note>key: url_wildcard.editing</note>
       </trans-unit>
       <trans-unit id="88cbad5f7fda2954c1ee100f5ba1e15f761cbbde" resname="url_wildcard.empty">
         <source>No URL wildcards.</source>
-        <target state="translated">Aucune URL joker.</target>
+        <target state="translated">Aucune URL avec joker.</target>
         <note>key: url_wildcard.empty</note>
       </trans-unit>
       <trans-unit id="921c295cb79d59f1703cfdfae6f1fcdb581451cf" resname="url_wildcard.label.alias">
         <source>URL alias wildcard</source>
-        <target state="translated">Alias d'URL avec joker</target>
+        <target state="translated">Alias d’URL avec joker</target>
         <note>key: url_wildcard.label.alias</note>
       </trans-unit>
       <trans-unit id="906de07fde9ac052d30b57ea68d7c3ffa70375aa" resname="url_wildcard.label.destination">
@@ -88,17 +88,17 @@
       </trans-unit>
       <trans-unit id="75d2bf0fb2fc725c0e6909a48601346997114d22" resname="url_wildcard.modal.create.redirect">
         <source>Redirect to wildcard destination</source>
-        <target state="translated">Rediriger vers la destination de l'url avec joker</target>
+        <target state="translated">Rediriger vers la destination de l’URL avec joker</target>
         <note>key: url_wildcard.modal.create.redirect</note>
       </trans-unit>
       <trans-unit id="b739781c8d6b640df7432c6f4b4c14f3ada7716c" resname="url_wildcard.modal.create.redirect.helper">
         <source>When checked, the URL displayed will be the URL of the destination. When unchecked, the wildcard will not redirect to the destination and the URL will stay the same.</source>
-        <target state="translated">Si coché, l'URL qui sera affiché sera l'URL de destination. Si non coché, l'URL avec joker ne redirigera pas vers la destination et sera celle affichée.</target>
+        <target state="translated">Lorsque la case est cochée, l’URL affichée est l’URL de la destination. Lorsque la case n’est pas cochée, le joker ne redirige pas vers la destination et l’URL ne change pas.</target>
         <note>key: url_wildcard.modal.create.redirect.helper</note>
       </trans-unit>
       <trans-unit id="697d3a96a811b4d511ecd8366e0da5a3b9b0ca73" resname="url_wildcard.modal.create.title">
         <source>Create a new URL wildcard</source>
-        <target state="translated">Créer une nouvelle url avec joker</target>
+        <target state="translated">Créer une nouvelle URL avec joker</target>
         <note>key: url_wildcard.modal.create.title</note>
       </trans-unit>
       <trans-unit id="18581091634e767b0fda027d72e003df647a6a95" resname="url_wildcard.modal.create.url.destintion">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="d5f8b02988ca5a63f52253b3eec84f9cc8f799cd" resname="url_wildcard.search.placeholder">
         <source>Search for URL wildcards</source>
-        <target state="translated">Rechercher des jokers d'URL</target>
+        <target state="translated">Rechercher des URL avec joker</target>
         <note>key: url_wildcard.search.placeholder</note>
       </trans-unit>
       <trans-unit id="5646653e7d129c0a5c96b6b87e99eeb9d92a6fee" resname="url_wildcard.type.all">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="845ff50e5a5dd8e26d619dce56195e85daae20f7" resname="url_wildcard.type.forward">
         <source>Forward</source>
-        <target state="translated">Avancer</target>
+        <target state="translated">Transférer</target>
         <note>key: url_wildcard.type.forward</note>
       </trans-unit>
       <trans-unit id="744a5ddc1ab83b98c6b70a5d9650efa62147b324" resname="url_wildcard.update.success">

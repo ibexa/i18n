@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,42 +8,42 @@
     <body>
       <trans-unit id="20ac9753abf3ecf3185fec732493ca1d8ad2786a" resname="ibexa.attribute_definition.identifier.pattern">
         <source>Attribute identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">L'identifiant d'attribut ne peut contenir que des lettres de "a" à "z", des chiffres et des tirets bas.</target>
+        <target state="translated">L’identifiant de l’attribut ne peut contenir que des lettres de « a » à « z », des chiffres et des tirets bas « _ ».</target>
         <note>key: ibexa.attribute_definition.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="1af99fa409d6e46b8db4a5d98a3f0e95cb98ee30" resname="ibexa.attribute_definition.identifier.unique">
         <source>Attribute Definition identifier must be unique</source>
-        <target state="translated">L'identifiant de définition d'attribut doit être unique</target>
+        <target state="translated">L’identifiant de la définition de l’attribut doit être unique</target>
         <note>key: ibexa.attribute_definition.identifier.unique</note>
       </trans-unit>
       <trans-unit id="d7d6303a3a3aab28bec181e65eca4df75853c747" resname="ibexa.attribute_group.identifier.pattern">
         <source>Attribute Group identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">L'identifiant du groupe d'attributs ne peut contenir que des lettres de "a" à "z", des chiffres et des tirets bas.</target>
+        <target state="translated">L’identifiant du groupe d’attributs ne peut contenir que des lettres de « a » à « z », des chiffres et des tirets bas « _ ».</target>
         <note>key: ibexa.attribute_group.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="30a1ea4d6db2f84559296e1531f12730e60fba9f" resname="ibexa.attribute_group.identifier.unique">
         <source>Attribute Group identifier must be unique</source>
-        <target state="translated">L'identifiant du groupe d'attributs doit être unique</target>
+        <target state="translated">L’identifiant du groupe d’attributs doit être unique</target>
         <note>key: ibexa.attribute_group.identifier.unique</note>
       </trans-unit>
       <trans-unit id="d477c467cf078910e203c881e4c5b7e22bd10e97" resname="ibexa.catalog.identifier.unique">
         <source>Catalog identifier must be unique</source>
-        <target state="translated">L'identifiant du catalogue doit être unique</target>
+        <target state="translated">L’identifiant du catalogue doit être unique</target>
         <note>key: ibexa.catalog.identifier.unique</note>
       </trans-unit>
       <trans-unit id="cb667a4a576b67fe914cfbe6c2d47ccca3825ca1" resname="ibexa.currency.code.unique">
         <source>Currency code must be unique</source>
-        <target state="translated">Le code de la devise doit être unique</target>
+        <target state="translated">Le code de devise doit être unique</target>
         <note>key: ibexa.currency.code.unique</note>
       </trans-unit>
       <trans-unit id="5ac6c8a245f28a72d878c892e77a538ffbb8c833" resname="ibexa.customer_group.identifier.pattern">
         <source>Customer Group identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">L'identifiant du groupe de clients ne peut contenir que des lettres de "a" à "z", des chiffres et des underscores.</target>
+        <target state="translated">L’identifiant du groupe de clients ne peut contenir que des lettres de « a » à « z », des chiffres et des tirets bas « _ ».</target>
         <note>key: ibexa.customer_group.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="6c107745eadbe45c3f9c09ee8078301b9d530c01" resname="ibexa.customer_group.identifier.unique">
         <source>Customer Group identifier must be unique</source>
-        <target state="translated">L'identifiant du groupe de clients doit être unique</target>
+        <target state="translated">L’identifiant du groupe de clients doit être unique</target>
         <note>key: ibexa.customer_group.identifier.unique</note>
       </trans-unit>
       <trans-unit id="6beab87e8a16d97d66cb89b2e7a63c1593406191" resname="ibexa.language.at_least_one">
@@ -53,47 +53,47 @@
       </trans-unit>
       <trans-unit id="471d1ffe749cac120c3e672f8dd33ce8a3bad09d" resname="ibexa.product.attribute.value.valid">
         <source>Attribute value is invalid</source>
-        <target state="translated">La valeur de l'attribut est invalide</target>
+        <target state="translated">La valeur de l’attribut n’est pas valide</target>
         <note>key: ibexa.product.attribute.value.valid</note>
       </trans-unit>
       <trans-unit id="902f3863f0cecc17c353f9848cd490fd1d645359" resname="ibexa.product.attribute_definition.options.valid">
         <source>Attribute Definition options are invalid</source>
-        <target state="translated">Les options de définition d'attribut ne sont pas valides</target>
+        <target state="translated">Les options de définition de l’attribut ne sont pas valides</target>
         <note>key: ibexa.product.attribute_definition.options.valid</note>
       </trans-unit>
       <trans-unit id="fc275ce0b2056dc990f65cc5ae2ef50322469497" resname="ibexa.product.code.length">
         <source>Product code is too long. It should have :max_length characters or less</source>
-        <target state="translated">Le code du produit est trop long. Il doit contenir :max_length caractères ou moins</target>
+        <target state="translated">Le code de produit est trop long. Il doit comporter :max_length caractères ou moins</target>
         <note>key: ibexa.product.code.length</note>
       </trans-unit>
       <trans-unit id="30735161edf3e8a1199008948f9ec9de7cd19905" resname="ibexa.product.code.pattern">
         <source>Product code may only contain letters from "a" to "z", numbers, underscores and dashes.</source>
-        <target state="translated">Le code du produit ne peut contenir que des lettres de "a" à "z", des chiffres, des tirets bas et des tirets.</target>
+        <target state="translated">Le code de produit ne peut contenir que des lettres de « a » à « z », des chiffres, des tirets et des tirets bas « _ ».</target>
         <note>key: ibexa.product.code.pattern</note>
       </trans-unit>
       <trans-unit id="f2bd5943d15a04ffb8281a5f1889225a47a3f573" resname="ibexa.product.code.required">
         <source>Product code is required</source>
-        <target state="translated">Le code du produit est requis</target>
+        <target state="translated">Le code de produit est requis</target>
         <note>key: ibexa.product.code.required</note>
       </trans-unit>
       <trans-unit id="ef81329813d4599f93674fc76504717929410434" resname="ibexa.product.code.unique">
         <source>Product code must be unique</source>
-        <target state="translated">Le code du produit doit être unique</target>
+        <target state="translated">Le code de produit doit être unique</target>
         <note>key: ibexa.product.code.unique</note>
       </trans-unit>
       <trans-unit id="2733cb9e5a80cd57184147828549faa5933d9984" resname="ibexa.product.variant.attributes.unique">
         <source>Attribute combination already exists in Product Variant %product_variant_code%</source>
-        <target state="translated">La combinaison d'attributs existe déjà dans la variante de produit %product_variant_code%</target>
+        <target state="translated">Cette combinaison d’attributs existe déjà dans la variante de produit %product_variant_code%</target>
         <note>key: ibexa.product.variant.attributes.unique</note>
       </trans-unit>
       <trans-unit id="d469e3648b5682b7868ac9d06f9f653cb7858f61" resname="ibexa.product_price.customer_group.price_exists">
         <source>Product price already exists for customer group %customer_group_identifier%, product with code %product_code%, for currency %currency_code%</source>
-        <target state="translated">Le prix du produit existe déjà pour le groupe de clients %customer_group_identifier%, produit avec le code %product_code%, pour la devise %currency_code%</target>
+        <target state="translated">Le prix du produit existe déjà pour le groupe de clients %customer_group_identifier%, avec le produit associé au code %product_code% dans la devise %currency_code%</target>
         <note>key: ibexa.product_price.customer_group.price_exists</note>
       </trans-unit>
       <trans-unit id="ac7e95455d0b340800797dd8c3a0e979b5821107" resname="ibexa.product_price.price_exists">
         <source>Product price already exists for product with code %product_code% for currency %currency_code%</source>
-        <target state="translated">Le prix du produit avec le code %product_code% existe déjà pour la devise %currency_code%</target>
+        <target state="translated">Le prix du produit existe déjà pour le produit associé au code %product_code% dans la devise %currency_code%</target>
         <note>key: ibexa.product_price.price_exists</note>
       </trans-unit>
     </body>

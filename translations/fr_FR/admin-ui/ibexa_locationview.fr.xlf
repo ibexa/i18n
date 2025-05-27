@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="fdc7d270cec1081be5a6888bf565ff03eebc6ce9" resname="content.create.cancel_btn.label">
         <source>Discard</source>
-        <target state="translated">Annuler</target>
+        <target state="translated">Abandonner</target>
         <note>key: content.create.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="translated">Créer un contenu</target>
+        <target state="translated">Créer du contenu</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="90210d6d68a4c36d75906bd4fea9194a88988205" resname="content.create.editing_details">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
         <source>Select a language:</source>
-        <target state="translated">Sélectionnez une langue :</target>
+        <target state="translated">Sélectionner une langue :</target>
         <note>key: content.create.select_language</note>
       </trans-unit>
       <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language">
@@ -53,37 +53,37 @@
       </trans-unit>
       <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
         <source>This Content item or its Location is hidden.</source>
-        <target state="translated">Cet élément de Contenu ou son emplacement est masqué.</target>
+        <target state="translated">Cet élément de contenu ou son emplacement est masqué.</target>
         <note>key: content.hidden.message</note>
       </trans-unit>
       <trans-unit id="4f1f7e7763187d69da3f75ebfb74d391a451cec6" resname="content.view.subitems.bulk_action.limited_permissions">
         <source>Limited user permissions</source>
-        <target state="translated">Permissions utilisateur limitées</target>
+        <target state="translated">Autorisations de l’utilisateur limitées</target>
         <note>key: content.view.subitems.bulk_action.limited_permissions</note>
       </trans-unit>
       <trans-unit id="1141888f8212e6140ea4bac1a5fba11c02e94d13" resname="dashboard.table.relation.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="translated">Vous n'avez pas la permission '%function%' '%module%' ' pour le contenu dont l'ID est : %contentId%</target>
+        <target state="translated">Vous n’avez pas l’autorisation « %function% » « %module% » pour l’ID de contenu : %contentId%</target>
         <note>key: dashboard.table.relation.unauthorized</note>
       </trans-unit>
       <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
         <source>Add to bookmarks</source>
-        <target state="translated">Ajouter aux favoris</target>
+        <target state="translated">Ajouter aux signets</target>
         <note>key: location.bookmark.add</note>
       </trans-unit>
       <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
         <source>Remove from Bookmarks</source>
-        <target state="translated">Supprimer des favoris</target>
+        <target state="translated">Supprimer des signets</target>
         <note>key: location.bookmark.remove</note>
       </trans-unit>
       <trans-unit id="0ac5837ba570c72c15eae58ab98735697a790528" resname="modal.email_address">
         <source>Email address</source>
-        <target state="translated">Adresse E-mail</target>
+        <target state="translated">Adresse e-mail</target>
         <note>key: modal.email_address</note>
       </trans-unit>
       <trans-unit id="b57923cd51800de1a02208a4765ab1b14d437c50" resname="modal.info">
         <source>Enter your team members email addresses.</source>
-        <target state="translated">Entrez les adresses e-mail des membres de votre équipe.</target>
+        <target state="translated">Saisissez les adresses e-mail de vos collaborateurs.</target>
         <note>key: modal.info</note>
       </trans-unit>
       <trans-unit id="6c7b23f10048a1a732637fab418a66e6aa10b3dc" resname="tab.author.authors">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="f3531550ad402d3be828ec391f1a80a295d3382c" resname="tab.author.content_id">
         <source>Content ID</source>
-        <target state="translated">ID du contenu</target>
+        <target state="translated">ID de contenu</target>
         <note>key: tab.author.content_id</note>
       </trans-unit>
       <trans-unit id="762ccb5d0506d7818b3b00dcd1459dfa6b4776d9" resname="tab.author.creator">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="6bb8a4c032509c485369da8d80e46b248911bbe7" resname="tab.author.location_id">
         <source>Location ID</source>
-        <target state="translated">ID de l'emplacement</target>
+        <target state="translated">ID d’emplacement</target>
         <note>key: tab.author.location_id</note>
       </trans-unit>
       <trans-unit id="d3e1f764a54cdc6e1a8e0c1d197c9d439f734b31" resname="tab.author.modified">
@@ -133,12 +133,12 @@
       </trans-unit>
       <trans-unit id="4fd9a40170cf4bc5acff719c14eaf2d15fc9942d" resname="tab.details.change_section ">
         <source>Change section</source>
-        <target state="translated">Changer de section</target>
+        <target state="translated">Modifier la section</target>
         <note>key: tab.details.change_section </note>
       </trans-unit>
       <trans-unit id="5c08278a7b80c4aae97e5683688b5b55b5f5b37e" resname="tab.details.change_state">
         <source>Change Object state</source>
-        <target state="translated">Changer l'état de l'objet</target>
+        <target state="translated">Modifier l’état d’objet</target>
         <note>key: tab.details.change_state</note>
       </trans-unit>
       <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details">
@@ -148,22 +148,22 @@
       </trans-unit>
       <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
         <source>Content ID</source>
-        <target state="translated">ID du contenu</target>
+        <target state="translated">ID de contenu</target>
         <note>key: tab.details.content_id</note>
       </trans-unit>
       <trans-unit id="d5236d13b41dc38ee965599754a05e3283b55ae2" resname="tab.details.content_remote_id">
         <source>Content remote ID</source>
-        <target state="translated">ID externe du contenu</target>
+        <target state="translated">ID distant du contenu</target>
         <note>key: tab.details.content_remote_id</note>
       </trans-unit>
       <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
         <source>Location ID</source>
-        <target state="translated">ID de l'emplacement</target>
+        <target state="translated">ID d’emplacement</target>
         <note>key: tab.details.location_id</note>
       </trans-unit>
       <trans-unit id="c391debe9105c6823145ca6c5ec76a252ba5538c" resname="tab.details.location_remote_id">
         <source>Location remote ID</source>
-        <target state="translated">ID externe de l'emplacement</target>
+        <target state="translated">ID distant de l’emplacement</target>
         <note>key: tab.details.location_remote_id</note>
       </trans-unit>
       <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
         <source>Object state details</source>
-        <target state="translated">Détails de l'état de l'objet</target>
+        <target state="translated">Détails de l’état d’objet</target>
         <note>key: tab.details.state_details</note>
       </trans-unit>
       <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
@@ -193,17 +193,17 @@
       </trans-unit>
       <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
         <source>Current Object state</source>
-        <target state="translated">État d'objet actuel</target>
+        <target state="translated">État d’objet actuel</target>
         <note>key: tab.details.state_name</note>
       </trans-unit>
       <trans-unit id="8ddd1c9e60bd352b4395e1753ede6534db2aac8b" resname="tab.details.sub_items_listing_by.in">
         <source>in</source>
-        <target state="translated">en ordre</target>
+        <target state="translated">dans</target>
         <note>key: tab.details.sub_items_listing_by.in</note>
       </trans-unit>
       <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by">
         <source>Order by</source>
-        <target state="translated">Trié par</target>
+        <target state="translated">Trier par</target>
         <note>key: tab.details.sub_items_listing_by.order_by</note>
       </trans-unit>
       <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
@@ -233,12 +233,12 @@
       </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
         <source>Content locations</source>
-        <target state="translated">Emplacements du contenu</target>
+        <target state="translated">Emplacements de contenu</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
       <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
         <source>Content or its ancestor is hidden</source>
-        <target state="translated">Le Contenu ou son ancêtre est masqué</target>
+        <target state="translated">Le contenu ou son ancêtre est masqué</target>
         <note>key: tab.locations.hidden_content_or_superior</note>
       </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
         <source>Do you want to delete the Location? All its sub-items will be sent to Trash.</source>
-        <target state="translated">Voulez-vous supprimer l'emplacement ? Tous ses sous-éléments seront envoyés à la corbeille.</target>
+        <target state="translated">Voulez-vous supprimer l’emplacement ? Tous ses sous-éléments seront envoyés à la corbeille.</target>
         <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="b5d6fe3a752b0c391bfa751acb7c4c3ac82e2c0c" resname="tab.locations.subitems">
         <source>Sub-items</source>
-        <target state="translated">Sous-élements</target>
+        <target state="translated">Sous-éléments</target>
         <note>key: tab.locations.subitems</note>
       </trans-unit>
       <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="a483f367c17cc75d6c5cf331f80e395b254cbbd6" resname="tab.name.policies">
         <source>Policies</source>
-        <target state="translated">Politiques de sécurité</target>
+        <target state="translated">Politiques</target>
         <note>key: tab.name.policies</note>
       </trans-unit>
       <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations">
@@ -323,27 +323,27 @@
       </trans-unit>
       <trans-unit id="373c6d223e1f346d71cf6cfd85f0fbc3d76ca1d5" resname="tab.relations.no_relations">
         <source>This Content item has no related content.</source>
-        <target state="translated">Cet élément de Contenu n'a pas de Contenu lié.</target>
+        <target state="translated">Cet élément de contenu n’a pas de contenu associé.</target>
         <note>key: tab.relations.no_relations</note>
       </trans-unit>
       <trans-unit id="1c95181a07cb4d7b83aa9b003eb4e8df95c8bfd9" resname="tab.relations.no_reverse_relations">
         <source>This Content item has no reverse Relations.</source>
-        <target state="translated">Cet élément de Contenu n'a aucune relation inverse.</target>
+        <target state="translated">Cet élément de contenu n’a aucune relation inverse.</target>
         <note>key: tab.relations.no_reverse_relations</note>
       </trans-unit>
       <trans-unit id="853cb6f02ff64af4dc6016318eff1c30bd16cc70" resname="tab.relations.related_content">
         <source>Related content (Content items used by %contentName%)</source>
-        <target state="translated">Contenu lié (éléments de Contenu utilisés par %contentName%)</target>
+        <target state="translated">Contenu associé (éléments de contenu utilisés par %contentName%)</target>
         <note>key: tab.relations.related_content</note>
       </trans-unit>
       <trans-unit id="797eb29381132df5a71378b71b3237cf9a063b5c" resname="tab.relations.reverse_relations">
         <source>Reverse relations (Content items using %contentName%)</source>
-        <target state="translated">Relations inverses (éléments de Contenu utilisant %contentName%)</target>
+        <target state="translated">Relations inverses (éléments de contenu utilisant %contentName%)</target>
         <note>key: tab.relations.reverse_relations</note>
       </trans-unit>
       <trans-unit id="d667f9ef2cf04ce8966bc908b8930be596925561" resname="tab.relations.table.content_type">
         <source>Content type</source>
-        <target state="translated">Type</target>
+        <target state="translated">Type de contenu</target>
         <note>key: tab.relations.table.content_type</note>
       </trans-unit>
       <trans-unit id="e649f067bcea898ef987cd5ebce6a9a6fca570f2" resname="tab.relations.table.name">
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="d8360b13746f836dc7c28998696a69b24ea30b18" resname="tab.relations.table.relation_type.content_level_relation">
         <source>Content level relation</source>
-        <target state="translated">Niveau de relation de contenu</target>
+        <target state="translated">Relation au niveau du contenu</target>
         <note>key: tab.relations.table.relation_type.content_level_relation</note>
       </trans-unit>
       <trans-unit id="79779455bd3c932297c6b8cefdcd1251836525c5" resname="tab.relations.table.relation_type.embed">
@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="9a9a16a9516cdda3bc3213bbdf77a02ff04b8fc8" resname="tab.relations.table.relation_type.field">
         <source>Field</source>
-        <target state="translated">Champ </target>
+        <target state="translated">Champ</target>
         <note>key: tab.relations.table.relation_type.field</note>
       </trans-unit>
       <trans-unit id="cd43dc791bb87dda363d311d449b68d5876392d1" resname="tab.relations.table.relation_type.link">
@@ -398,12 +398,12 @@
       </trans-unit>
       <trans-unit id="d494d753de03a08f7a10792b727ec88ca74d4913" resname="tab.translations.language_code">
         <source>Language code</source>
-        <target state="translated">Code de la langue</target>
+        <target state="translated">Code de langue</target>
         <note>key: tab.translations.language_code</note>
       </trans-unit>
       <trans-unit id="0becdca42cbaa039a6166b8aa778a86657bb362f" resname="tab.translations.language_name">
         <source>Language name</source>
-        <target state="translated">Nom de la langue</target>
+        <target state="translated">Nom de langue</target>
         <note>key: tab.translations.language_name</note>
       </trans-unit>
       <trans-unit id="c5d8ba580b9dd86b38986590b338816e3193c857" resname="tab.translations.main_language">
@@ -413,12 +413,12 @@
       </trans-unit>
       <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
         <source>Do you want to delete the translation?</source>
-        <target state="translated">Voulez-vous vraiment supprimer la traduction ?</target>
+        <target state="translated">Voulez-vous supprimer la traduction ?</target>
         <note>key: tab.translations.modal.message</note>
       </trans-unit>
       <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
         <source>Translation manager</source>
-        <target state="translated">Gestionnaire de traduction</target>
+        <target state="translated">Gestionnaire de traductions</target>
         <note>key: tab.translations.translation_manger</note>
       </trans-unit>
       <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
@@ -433,12 +433,12 @@
       </trans-unit>
       <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
         <source>Open drafts</source>
-        <target state="translated">Ouvrir les brouillons</target>
+        <target state="translated">Brouillons en cours d’édition</target>
         <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
       <trans-unit id="134ac8f9b086171dcda7931b3bb7acc0042bb1c9" resname="tab.versions.modal.message">
         <source>Do you want to delete the version(s)?</source>
-        <target state="translated">Voulez-vous vraiment supprimer la ou les version(s) ?</target>
+        <target state="translated">Voulez-vous supprimer la ou les versions ?</target>
         <note>key: tab.versions.modal.message</note>
       </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
@@ -453,12 +453,12 @@
       </trans-unit>
       <trans-unit id="4c6353b63f5bc2031c8380c4007edf9c5f6be456" resname="tab.versions.table.created">
         <source>Created</source>
-        <target state="translated">Date de création</target>
+        <target state="translated">Créé</target>
         <note>key: tab.versions.table.created</note>
       </trans-unit>
       <trans-unit id="472157bdf440a9c6636057ac194d53029ac589dd" resname="tab.versions.table.last_saved">
         <source>Last saved</source>
-        <target state="translated">Modifié</target>
+        <target state="translated">Dernier enregistrement</target>
         <note>key: tab.versions.table.last_saved</note>
       </trans-unit>
       <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
@@ -473,17 +473,17 @@
       </trans-unit>
       <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
         <source>Off</source>
-        <target state="translated">Off</target>
+        <target state="translated">Désactivé</target>
         <note>key: toggle_widget.label.off</note>
       </trans-unit>
       <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
         <source>On</source>
-        <target state="translated">On</target>
+        <target state="translated">Activé</target>
         <note>key: toggle_widget.label.on</note>
       </trans-unit>
       <trans-unit id="c285bc654712e44ed56cd6f18262a2d6485f4fb9" resname="user.edit.select_language">
         <source>Select a language:</source>
-        <target state="translated">Sélectionnez une langue :</target>
+        <target state="translated">Sélectionner une langue :</target>
         <note>key: user.edit.select_language</note>
       </trans-unit>
     </body>

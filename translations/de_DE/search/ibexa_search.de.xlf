@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
         <source>Viewing %viewing% out of %total% items</source>
-        <target state="translated">%viewingCount% von %totalCount% Elementen werden angezeigt</target>
+        <target state="translated">%viewing% von %total% Elementen werden angezeigt</target>
         <note>key: pagination.viewing</note>
       </trans-unit>
       <trans-unit id="2c0d71c1688c1f04ff156bb9dff167ca5ae663b6" resname="search.any.content.type">
         <source>Any content type</source>
-        <target state="translated">Alle Inhaltstypen</target>
+        <target state="translated">Beliebiger Inhaltstyp</target>
         <note>key: search.any.content.type</note>
       </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="56906249002c19e57c1992ba0d25f86bbc7120c0" resname="search.language.any">
         <source>Choose an option</source>
-        <target state="translated">Bitte Option wählen</target>
+        <target state="translated">Wählen Sie eine Option</target>
         <note>key: search.language.any</note>
       </trans-unit>
       <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
@@ -58,12 +58,12 @@
       </trans-unit>
       <trans-unit id="8c11cc36acf58db9ff898f3a4cf02fd0fc293f67" resname="search.no_result">
         <source>No results found for "%query%".</source>
-        <target state="translated">Für "%query%" wurden keine Ergebnisse gefunden.</target>
+        <target state="translated">Keine Ergebnisse gefunden für „%query%“.</target>
         <note>key: search.no_result</note>
       </trans-unit>
       <trans-unit id="6ffbb9b14f98e94b8dda5418ef3910942b42c44e" resname="search.search">
         <source>Search</source>
-        <target state="translated">Suchen</target>
+        <target state="translated">Suche</target>
         <note>key: search.search</note>
       </trans-unit>
       <trans-unit id="34cd11448c2016e5c0a098947eb3e2aef01a9ac5" resname="search.section">
@@ -78,29 +78,27 @@
       </trans-unit>
       <trans-unit id="777cc1ef279096d5a978aa3553e9434d828f8248" resname="search.tips.check_spelling">
         <source>Check the spelling of keywords.</source>
-        <target state="translated">Prüfen Sie die Schreibweise von Schlüsselwörtern.</target>
+        <target state="translated">Überprüfen Sie die Schreibweise der Schlüsselwörter.</target>
         <note>key: search.tips.check_spelling</note>
       </trans-unit>
       <trans-unit id="d89a8ff5c4b03f1dd7bd1ce3e3306862e1855751" resname="search.tips.different_keywords">
         <source>Try different keywords.</source>
-        <target state="translated">Versuchen Sie andere Schlüsselwörter.</target>
+        <target state="translated">Versuchen Sie es mit anderen Schlüsselwörtern.</target>
         <note>key: search.tips.different_keywords</note>
       </trans-unit>
       <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords">
         <source>Try fewer keywords. Reducing keywords results in more matches.</source>
-        <target state="translated">Versuchen Sie es mit weniger Schlüsselwörtern. Das Reduzieren von Keywords führt zu mehr Übereinstimmungen.</target>
+        <target state="translated">Versuchen Sie es mit weniger Schlüsselwörtern. Weniger Schlüsselwörter führen zu mehr Treffern.</target>
         <note>key: search.tips.fewer_keywords</note>
       </trans-unit>
       <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
         <source>Some helpful search tips:</source>
-        <target state="translated">Einige hilfreiche Suchtipps:
-
-</target>
+        <target state="translated">Einige hilfreiche Tipps für die Suche:</target>
         <note>key: search.tips.headline</note>
       </trans-unit>
       <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
         <source>Try more general keywords.</source>
-        <target state="translated">Probieren Sie allgemeinere Suchbegriffe.</target>
+        <target state="translated">Versuchen Sie es mit allgemeineren Schlüsselwörtern.</target>
         <note>key: search.tips.more_general_keywords</note>
       </trans-unit>
       <trans-unit id="e477a87ca96bb3e22e8eed710e54e9a6bffefc52" resname="search.translations">
@@ -115,37 +113,37 @@
       </trans-unit>
       <trans-unit id="fa5761c7de14d55bfe7d064dbed7b0414618d0ee" resname="sort_definition.date_modified_asc.label">
         <source>Sort by modification date (Oldest)</source>
-        <target state="translated">Sortieren nach Änderungsdatum (Älteste)</target>
+        <target state="translated">Nach Änderungsdatum sortieren (Ältestes)</target>
         <note>key: sort_definition.date_modified_asc.label</note>
       </trans-unit>
       <trans-unit id="d347942d7df28fc0e37401cc6a4466647d5522bd" resname="sort_definition.date_modified_desc.label">
         <source>Sort by modification date (Newest)</source>
-        <target state="translated">Sortieren nach Änderungsdatum (Neueste)</target>
+        <target state="translated">Nach Änderungsdatum sortieren (Neuestes)</target>
         <note>key: sort_definition.date_modified_desc.label</note>
       </trans-unit>
       <trans-unit id="9bdd88504463f9d98eb8c8ba59275d1004ce7c77" resname="sort_definition.date_published_asc.label">
         <source>Sort by publication date (Oldest)</source>
-        <target state="translated">Sortieren nach Veröffentlichungsdatum (Älteste)</target>
+        <target state="translated">Nach Veröffentlichungsdatum sortieren (Ältestes)</target>
         <note>key: sort_definition.date_published_asc.label</note>
       </trans-unit>
       <trans-unit id="93987e74fb2a656b65a99df21aa80c82ebe4a03d" resname="sort_definition.date_published_desc.label">
         <source>Sort by publication date (Newest)</source>
-        <target state="translated">Sortieren nach Erscheinungsdatum (Neueste)</target>
+        <target state="translated">Nach Veröffentlichungsdatum sortieren (Neuestes)</target>
         <note>key: sort_definition.date_published_desc.label</note>
       </trans-unit>
       <trans-unit id="5e8c9a364b0b2991a3ce09833b5f29cd51b3ed46" resname="sort_definition.name_asc.label">
         <source>Sort by name A-Z</source>
-        <target state="translated">Sortieren nach Name A-Z</target>
+        <target state="translated">Nach Namen sortieren von A–Z</target>
         <note>key: sort_definition.name_asc.label</note>
       </trans-unit>
       <trans-unit id="cd6190374822df1268eb795d0d9ad7708145c9cf" resname="sort_definition.name_desc.label">
         <source>Sort by name Z-A</source>
-        <target state="translated">Sortieren nach Name Z-A</target>
+        <target state="translated">Nach Namen sortieren von Z–A</target>
         <note>key: sort_definition.name_desc.label</note>
       </trans-unit>
       <trans-unit id="93c30dbedf81f260d2906c302f3920c137cca63f" resname="sort_definition.relevance.label">
         <source>Sort by relevance</source>
-        <target state="translated">Sortieren nach Relevanz</target>
+        <target state="translated">Nach Relevanz sortieren</target>
         <note>key: sort_definition.relevance.label</note>
       </trans-unit>
     </body>

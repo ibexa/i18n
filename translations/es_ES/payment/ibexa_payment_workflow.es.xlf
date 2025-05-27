@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="d84d268500ed938e8c3ff17c353ba908af8e2792" resname="ibexa.payment.workflow.place.cancelled.label">
         <source>Cancelled</source>
-        <target state="needs-translation">Cancelled</target>
+        <target>Cancelado</target>
         <note>key: ibexa.payment.workflow.place.cancelled.label</note>
       </trans-unit>
       <trans-unit id="15a873c423e058490d22064753d358fef1896000" resname="ibexa.payment.workflow.place.failed.label">
         <source>Failed</source>
-        <target state="needs-translation">Failed</target>
+        <target>Error</target>
         <note>key: ibexa.payment.workflow.place.failed.label</note>
       </trans-unit>
       <trans-unit id="458274433ee76d7b6d603385ec0b0fe0e15339c2" resname="ibexa.payment.workflow.place.paid.label">
         <source>Paid</source>
-        <target state="needs-translation">Paid</target>
+        <target>Pagado</target>
         <note>key: ibexa.payment.workflow.place.paid.label</note>
       </trans-unit>
       <trans-unit id="8d8ada5a2a0932c8b21338e2b9a8ca7292a31812" resname="ibexa.payment.workflow.place.pending.label">
         <source>Pending</source>
-        <target state="needs-translation">Pending</target>
+        <target>Pendiente</target>
         <note>key: ibexa.payment.workflow.place.pending.label</note>
       </trans-unit>
       <trans-unit id="b0452fe234571eebc875776ccff66047699f93d7" resname="ibexa.payment.workflow.transition.pay.label">
         <source>Confirm</source>
-        <target state="needs-translation">Confirm</target>
+        <target>Confirmar</target>
         <note>key: ibexa.payment.workflow.transition.pay.label</note>
       </trans-unit>
     </body>

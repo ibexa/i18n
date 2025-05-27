@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="58d2f20a2f7444814b1ce85b909aa78f2e1d968a" resname="block.ibexa_news.title">
         <source>Ibexa news</source>
-        <target state="translated">Nouvelles Ibexa</target>
+        <target state="translated">Actualités Ibexa</target>
         <note>key: block.ibexa_news.title</note>
       </trans-unit>
       <trans-unit id="85b94c4fb2206ed42a2e919a7253ccbd961eb24f" resname="block.quick_actions.tile.catalog">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="e382dfe5757291ec63fae866c4fba972bc0996e5" resname="block.quick_actions.tile.create_content.udw.title">
         <source>Create content</source>
-        <target state="translated">Créer un contenu</target>
+        <target state="translated">Créer du contenu</target>
         <note>key: block.quick_actions.tile.create_content.udw.title</note>
       </trans-unit>
       <trans-unit id="09e4068e541fde9ec0eaedc814a67729ff9baa1b" resname="block.quick_actions.tile.create_form.udw.title">
@@ -58,12 +58,12 @@
       </trans-unit>
       <trans-unit id="a869aead4b6dfebcdf01ec571e49a3f2960e6a2a" resname="dashboard.builder.functionality">
         <source>Access the dashboard's customization tool, that allows you to personalize it to create a more intuitive user experience.</source>
-        <target state="translated">Accédez à l'outil de personnalisation du tableau de bord, qui vous permet de le personnaliser pour créer une expérience utilisateur plus intuitive.</target>
+        <target state="translated">Accédez à l’outil de personnalisation du tableau de bord pour bénéficier d’une expérience utilisateur plus intuitive.</target>
         <note>key: dashboard.builder.functionality</note>
       </trans-unit>
       <trans-unit id="099756a566ba5e73ab5da3bfd66c35400b7a1c90" resname="dashboard.change_active.success">
         <source>Active dashboard is set to '%name%' </source>
-        <target state="translated">Le tableau de bord actif est réglé sur '%name%' </target>
+        <target state="translated">Le tableau de bord actif est configuré sur « %name% » </target>
         <note>key: dashboard.change_active.success</note>
       </trans-unit>
       <trans-unit id="b71b9907038c72f6da5ea69b76a4cd560c538123" resname="dashboard.customize">
@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="0322c3aa37cbf2183c17fdc1a0f0bba26dab49d4" resname="dashboard.enhance_dashboard_experience">
         <source>Enhance your dashboard experience</source>
-        <target state="translated">Améliorez votre expérience de tableau de bord</target>
+        <target state="translated">Améliorez votre tableau de bord</target>
         <note>key: dashboard.enhance_dashboard_experience</note>
       </trans-unit>
       <trans-unit id="91daf327da16d3b4531baa6c91bab9cce90b7c4f" resname="dashboard.error.unable_to_load">
         <source>The dashboard could not be loaded</source>
-        <target state="translated">Le tableau de bord n'a pas pu être chargé</target>
+        <target state="translated">Impossible de charger le tableau de bord</target>
         <note>key: dashboard.error.unable_to_load</note>
       </trans-unit>
       <trans-unit id="1130a63ac7bbd452111d6db5b5143506c2d7e120" resname="dashboard.ibexa_news.unable_to_fetch">
@@ -103,32 +103,32 @@
       </trans-unit>
       <trans-unit id="27569ea498dd6ed40297e3ed7dac9b1faaaec4d2" resname="dashboard.switch_to_custom">
         <source>Switch to %name%</source>
-        <target state="translated">Basculer vers %name%</target>
+        <target state="translated">Passer à %name%</target>
         <note>key: dashboard.switch_to_custom</note>
       </trans-unit>
       <trans-unit id="52bb6f67f57956da055325ef570ef6508392ee92" resname="dashboard.switch_to_default">
         <source>Switch to default dashboard</source>
-        <target state="translated">Basculer vers le tableau de bord par défaut</target>
+        <target state="translated">Passer au tableau de bord par défaut</target>
         <note>key: dashboard.switch_to_default</note>
       </trans-unit>
       <trans-unit id="cf2651e3db2814e56e32a5a081301dc68a2b0958" resname="dashboard.title.afternoon">
         <source>Good afternoon, %user_name%!</source>
-        <target state="translated">Bon après-midi, %user_name% !</target>
+        <target state="translated">Bonjour, %user_name% !</target>
         <note>key: dashboard.title.afternoon</note>
       </trans-unit>
       <trans-unit id="1815c08728d013d31de962bee01725e73bc7d4ce" resname="dashboard.title.evening">
         <source>Good evening, %user_name%!</source>
-        <target state="translated">Bonsoir, %user_name% !</target>
+        <target state="translated">Bonsoir, %user_name% !</target>
         <note>key: dashboard.title.evening</note>
       </trans-unit>
       <trans-unit id="e339ba274be20b998b787a65e22aa364517fd57a" resname="dashboard.title.morning">
         <source>Good morning, %user_name%!</source>
-        <target state="translated">Bonjour, %user_name% !</target>
+        <target state="translated">Bonjour, %user_name% !</target>
         <note>key: dashboard.title.morning</note>
       </trans-unit>
       <trans-unit id="28936a58fd6a2a3c9b2b7e0da76e2d10a38f653b" resname="info_bar.dashboard.label">
         <source>Dashboard Builder</source>
-        <target state="translated">Constructeur de tableau de bord</target>
+        <target state="translated">Éditeur de tableaux de bord</target>
         <note>key: info_bar.dashboard.label</note>
       </trans-unit>
       <trans-unit id="f9178a816fa89ee2d59cf2e88df4f8d62adb8f45" resname="user.setting.active_dashboard.description">

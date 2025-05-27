@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="d4de5a4ec1a58e845b16ca57b75b6b7585b2c5af" resname="distraction_free_mode.disable_hint">
         <source>To exit distraction free mode, click the %icon% or press Esc.</source>
-        <target state="translated">Pour quitter le mode sans distraction, cliquez sur %icon% ou appuyez sur Échap.</target>
+        <target state="translated">Pour quitter le mode sans distraction, cliquez sur le %icon% ou appuyez sur Échap.</target>
         <note>key: distraction_free_mode.disable_hint</note>
       </trans-unit>
       <trans-unit id="2b32ded42b66d42abbe117ec91d128e2c85bd20d" resname="distraction_free_mode.enable.label">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="8145d8a19ad7bb79048f2a1391153c8f45b2d14f" resname="distraction_free_mode.enable.tooltip">
         <source>Enter distraction free mode. It shows only rich text editor toolbar and focuses your attention on editing text.</source>
-        <target state="translated">Entrez en mode sans distraction. Il n'affiche que la barre d'outils de l'éditeur de texte riche et concentre votre attention sur l'édition de texte.</target>
+        <target state="translated">Passez au mode sans distraction. Il affiche uniquement la barre d’outils de l’éditeur de texte riche et vous permet de vous concentrer sur la modification du texte.</target>
         <note>key: distraction_free_mode.enable.tooltip</note>
       </trans-unit>
       <trans-unit id="d899cb1dbb25a42ea34f296bf7bef9821df66b72" resname="edit_translation.edit.title">
@@ -53,17 +53,17 @@
       </trans-unit>
       <trans-unit id="e4b8188e898e654dae14fc6b18133958f8e56084" resname="translation.remove.success">
         <source>Removed '%languageCode%' translation from '%name%'.</source>
-        <target state="translated">Suppression de la traduction '%languageCode%' de '%name%'.</target>
+        <target state="translated">Traduction en « %languageCode% » supprimée de « %name% ».</target>
         <note>key: translation.remove.success</note>
       </trans-unit>
       <trans-unit id="73736cfd7959543f99b6edba300bc4d7c9c5683a" resname="user.focus_mode.off">
         <source>Focus mode</source>
-        <target state="translated">Focus Mode</target>
+        <target state="translated">Mode concentration</target>
         <note>key: user.focus_mode.off</note>
       </trans-unit>
       <trans-unit id="8606b9e2c215d136dccfdb4b64cd5bfaa5a904cc" resname="user.focus_mode.on">
         <source>Focus mode</source>
-        <target state="translated">Focus Mode</target>
+        <target state="translated">Mode concentration</target>
         <note>key: user.focus_mode.on</note>
       </trans-unit>
       <trans-unit id="d88f09dfa6b5a01de87c36fb97c09902cebcb3cc" resname="user_profile.action.edit">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="e3ac3ec941d44047ec290142bd7b8f82c6c8c12b" resname="user_profile.page.title">
         <source>User profile</source>
-        <target state="translated">Profil utilisateur</target>
+        <target state="translated">Profil de l’utilisateur</target>
         <note>key: user_profile.page.title</note>
       </trans-unit>
       <trans-unit id="0f5838e96bc64daa4815d5ffc1acdfab0e9b1af5" resname="user_profile.roles.header">
@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="cb6cbdd3a7414390e8e541915d88eb98c38a6a5d" resname="user_profile.view.title">
         <source>User profile</source>
-        <target state="translated">Profil utilisateur</target>
+        <target state="translated">Profil de l’utilisateur</target>
         <note>key: user_profile.view.title</note>
       </trans-unit>
       <trans-unit id="885ec7aab950e05f729031321cddbb6d7f9c3246" resname="version.delete.success">
         <source>Removed version(s) from '%name%'.</source>
-        <target state="translated">Version(s) retirée(s) de '%name%'.</target>
+        <target state="translated">La ou les versions ont été supprimées de « %name% ».</target>
         <note>key: version.delete.success</note>
       </trans-unit>
     </body>

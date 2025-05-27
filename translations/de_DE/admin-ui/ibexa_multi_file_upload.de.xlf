@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="44e1a07a310b2a69264788b3df5199d2f9a75472" resname="cannot_create_content_structure.message">
         <source>Cannot create content structure</source>
-        <target state="translated">Inhaltsstruktur kann nicht erstellt werden</target>
+        <target state="translated">Kann keine Inhaltsstruktur erstellen</target>
         <note>key: cannot_create_content_structure.message</note>
       </trans-unit>
       <trans-unit id="03b8fddcf897c997afa956d17e595ceed173463d" resname="cannot_get_content_type_identifier.message">
         <source>Cannot get content type by identifier</source>
-        <target state="translated">Kein passender Inhaltstyp zum Bezeichner gefunden</target>
+        <target state="translated">Inhaltstyp kann nicht über Kennung abgerufen werden</target>
         <note>key: cannot_get_content_type_identifier.message</note>
       </trans-unit>
       <trans-unit id="235e57ee5665f61ea5873be5e2f6cd15b05a51c0" resname="cannot_upload.message">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="f2a2dab7435a694af5f4e9d2393e3cfb9c9c79f0" resname="disallowed_size.message">
         <source>File size is not allowed</source>
-        <target state="translated">Dateigröße nicht erlaubt</target>
+        <target state="translated">Dateigröße ist nicht zulässig</target>
         <note>key: disallowed_size.message</note>
       </trans-unit>
       <trans-unit id="4d6c4f42038f6ef1049e6f2243e57fdc2605ead2" resname="disallowed_type.message">
         <source>File type is not allowed</source>
-        <target state="translated">Dateityp nicht erlaubt</target>
+        <target state="translated">Dateityp ist nicht zulässig</target>
         <note>key: disallowed_type.message</note>
       </trans-unit>
       <trans-unit id="694f61c4eb35d09307bcf40e14159061c6ba1f35" resname="drop_action.message">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="b23e0c9a0c723cb5fc100bbf270a045cb6c895da" resname="upload.progress_bar.uploading">
         <source>Uploading...</source>
-        <target state="translated">Wird hochgeladen...</target>
+        <target state="translated">Wird hochgeladen ...</target>
         <note>key: upload.progress_bar.uploading</note>
       </trans-unit>
       <trans-unit id="76d7ffabd7e8c5d27a9b732dd5f15d1da68ff00c" resname="upload.success.message">
         <source>100% Uploaded</source>
-        <target state="translated">100% hochgeladen</target>
+        <target state="translated">100 % hochgeladen</target>
         <note>key: upload.success.message</note>
       </trans-unit>
       <trans-unit id="13ad49603f42b4ec5f9328d94f90e4f6d7ba6203" resname="upload_btn.label">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="6b2bc429ffc374b49b5de9e3563d3d5a7668e4b2" resname="upload_popup.close">
         <source>Multi-file upload</source>
-        <target state="translated">Upload mehrerer Dateien</target>
+        <target state="translated">Mehrere Dateien hochladen</target>
         <note>key: upload_popup.close</note>
       </trans-unit>
     </body>

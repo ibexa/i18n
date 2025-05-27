@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="a31bc2d766bef988d3d4e2e0892c79b64d2aadd9" resname="anchor_btn.error.unique">
         <source>Anchor name must be unique.</source>
-        <target state="translated">Ankername muss eindeutig sein.</target>
+        <target state="translated">Der Name des Ankers muss eindeutig sein.</target>
         <note>key: anchor_btn.error.unique</note>
       </trans-unit>
       <trans-unit id="88d893050d5eea476d9559abba8b7cdda519154a" resname="anchor_btn.error.valid">
         <source>A valid anchor link is needed.</source>
-        <target state="translated">Ein gültiger Ankerlink wird benötigt.</target>
+        <target state="translated">Ein gültiger Anker-Link ist erforderlich.</target>
         <note>key: anchor_btn.error.valid</note>
       </trans-unit>
       <trans-unit id="2fec67b71cd77563c4e494477e691ba9661d95fe" resname="anchor_btn.label">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="babf94a4044ba933a0ebe008c0f027745402c989" resname="block_text_align_center_btn.label">
         <source>Center</source>
-        <target state="translated">Zentriert</target>
+        <target state="translated">Mitte</target>
         <note>key: block_text_align_center_btn.label</note>
       </trans-unit>
       <trans-unit id="e9151d069b51a054185d5a9183626cb6995e3607" resname="blocktext_align_justify_btn.label">
         <source>Justify</source>
-        <target state="translated">Rechtfertigen</target>
+        <target state="translated">Bündig</target>
         <note>key: blocktext_align_justify_btn.label</note>
       </trans-unit>
       <trans-unit id="fb43488f3117923887d60b470389b92564d1224e" resname="blocktext_align_left_btn.label">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="5a25d3a19c8addc868947381a4eb1a699d01cf22" resname="embed.ezlocation.error">
         <source>This embedded item relies on 'ezlocation' imported from Legacy. It isn't supported by Online Editor yet.</source>
-        <target state="translated">Dieses eingebettete Element basiert auf der aus Legacy importierten 'Ezlocation'. Es wird vom Online-Editor noch nicht unterstützt.</target>
+        <target state="translated">This embedded item relies on 'ezlocation' imported from Legacy. It isn't supported by Online Editor yet.</target>
         <note>key: embed.ezlocation.error</note>
       </trans-unit>
       <trans-unit id="ac0f20994b177772319ac51d8f9b3389ea74de7c" resname="embed_align_center_btn.label">
         <source>Center</source>
-        <target state="translated">Zentriert</target>
+        <target state="translated">Mitte</target>
         <note>key: embed_align_center_btn.label</note>
       </trans-unit>
       <trans-unit id="2e4fbbc64e1aefa2a2911851e4e2f66052ee281a" resname="embed_align_left_btn.label">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="f646efa9564da382019a8267461d76231bb688e2" resname="embed_update_btn.label">
         <source>Select another Content item</source>
-        <target state="translated">Wähle ein anderes Inhaltselement</target>
+        <target state="translated">Ein anderes Inhaltselement auswählen</target>
         <note>key: embed_update_btn.label</note>
       </trans-unit>
       <trans-unit id="e7a9e3844a638a4ee009a878206b96c9d0af681e" resname="embed_update_btn.udw.title">
@@ -123,17 +123,17 @@
       </trans-unit>
       <trans-unit id="392f9d82a172655fbfe702c584ca3e5880fac25e" resname="image_btn.udw.label">
         <source>Select an image</source>
-        <target state="translated">Bild auswählen</target>
+        <target state="translated">Ein Bild auswählen</target>
         <note>key: image_btn.udw.label</note>
       </trans-unit>
       <trans-unit id="85da4c4b98bb2f13b880845e1f5850134ace276d" resname="image_update_btn.label">
         <source>Select another image</source>
-        <target state="translated">Wähle ein anderes Bild</target>
+        <target state="translated">Ein anderes Bild auswählen</target>
         <note>key: image_update_btn.label</note>
       </trans-unit>
       <trans-unit id="d8edff94c5ba9f6148382057d71339ba75bc3903" resname="image_update_btn.udw.title">
         <source>Select an image</source>
-        <target state="translated">Bild auswählen</target>
+        <target state="translated">Ein Bild auswählen</target>
         <note>key: image_update_btn.udw.title</note>
       </trans-unit>
       <trans-unit id="15e27e2548df7ace117c1dd3b119db5798d34e9a" resname="link_edit_btn.action_row.remove">
@@ -198,12 +198,12 @@
       </trans-unit>
       <trans-unit id="082d2d34dd20fe267d5693d3f6a2c8be105c490c" resname="move_down_btn.title">
         <source>Move down</source>
-        <target state="translated">Nach unten</target>
+        <target state="translated">Nach unten verschieben</target>
         <note>key: move_down_btn.title</note>
       </trans-unit>
       <trans-unit id="c2a6d468674bfb33d708531dc64ac512a8e9c87a" resname="move_up_btn.title">
         <source>Move up</source>
-        <target state="translated">Nach oben</target>
+        <target state="translated">Nach oben verschieben</target>
         <note>key: move_up_btn.title</note>
       </trans-unit>
       <trans-unit id="37870b74e43bad51e49f69d41625b29a5ef65458" resname="ordered_list_btn.label">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="76d14e18928d2f58ee195c720e54ae4735bd2026" resname="paragraph_btn.label">
         <source>Paragraph</source>
-        <target state="translated">Absatz</target>
+        <target state="translated">Paragraph</target>
         <note>key: paragraph_btn.label</note>
       </trans-unit>
       <trans-unit id="289fdecb2d66f81c13dc96c04253ab84f14c0561" resname="remove_block_btn.title">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="e51c80180acbd8d90c95344dbdfb0f6a3ada456e" resname="table_btn.label">
         <source>Table</source>
-        <target state="translated">Tisch</target>
+        <target state="translated">Tabelle</target>
         <note>key: table_btn.label</note>
       </trans-unit>
       <trans-unit id="0c10a4feb5cd5308daca6d6528a12cc7be825def" resname="toolbar_config_base.formatted_label">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="5261ce3329c2fa8448f25a0ea609a8d57ebf9953" resname="toolbar_config_base.paragraph_label">
         <source>Paragraph</source>
-        <target state="translated">Absatz</target>
+        <target state="translated">Paragraph</target>
         <note>key: toolbar_config_base.paragraph_label</note>
       </trans-unit>
       <trans-unit id="f5aa82a917683c8bcd6a800a75a086822a209f77" resname="unordered_list_btn.label">

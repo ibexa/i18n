@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="2dbcbba33f781f8ae3b27074fb870a7d35370019" resname="corporate_account.invite_members.site_access">
         <source>Select SiteAccess</source>
-        <target state="needs-translation">Select SiteAccess</target>
+        <target state="translated">Seleccionar SiteAccess</target>
         <note>key: corporate_account.invite_members.site_access</note>
       </trans-unit>
       <trans-unit id="37004803f895915f0b2251d93489ddd4471fb639" resname="corporate_account.invite_members.submit">
         <source>Send</source>
-        <target state="needs-translation">Send</target>
+        <target state="translated">Enviar</target>
         <note>key: corporate_account.invite_members.submit</note>
       </trans-unit>
       <trans-unit id="192fcedc1ad90eca96a32cf9f27abb14c5d59511" resname="corporate_account.member.corporate_role_change.new_role">
         <source>Select new role</source>
-        <target state="needs-translation">Select new role</target>
+        <target state="translated">Seleccionar nuevo rol</target>
         <note>key: corporate_account.member.corporate_role_change.new_role</note>
       </trans-unit>
       <trans-unit id="84a2dd78ebb53146e71e9f0aa153d49982fc9004" resname="corporate_account.member.corporate_role_change.submit">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Guardar</target>
         <note>key: corporate_account.member.corporate_role_change.submit</note>
       </trans-unit>
       <trans-unit id="e45d424a13bebfcf370a04f91a5ccc4a1919cf1d" resname="role.policy.company_application">
         <source>Company Application</source>
-        <target state="needs-translation">Company Application</target>
+        <target state="translated">Solicitud de empresa</target>
         <note>key: role.policy.company_application</note>
       </trans-unit>
       <trans-unit id="9be47efa344d227226a2232456c1fe1482eb26a6" resname="role.policy.company_application.all_functions">
         <source>Company Application / All functions</source>
-        <target state="needs-translation">Company Application / All functions</target>
+        <target state="translated">Solicitud de empresa/Todas las funciones</target>
         <note>key: role.policy.company_application.all_functions</note>
       </trans-unit>
       <trans-unit id="5d39df7cc9f226b98092a0f0dc029a0f446ee6ba" resname="role.policy.company_application.workflow">
         <source>Company Application / Workflow</source>
-        <target state="needs-translation">Company Application / Workflow</target>
+        <target state="translated">Solicitud de empresa/Flujo de trabajo</target>
         <note>key: role.policy.company_application.workflow</note>
       </trans-unit>
     </body>

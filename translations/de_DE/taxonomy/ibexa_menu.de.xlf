@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="157d0d237cf4695bc0394d69309b658234aa5ca3" resname="taxonomy_context__create">
         <source>Create</source>
-        <target state="needs-translation">Create</target>
+        <target state="translated">Erstellen</target>
         <note>key: taxonomy_context__create</note>
       </trans-unit>
       <trans-unit id="a1f5b9d3848851f6ee132d59981dde6bf7fa3ee4" resname="taxonomy_context__delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>key: taxonomy_context__delete</note>
       </trans-unit>
       <trans-unit id="70a172e27ea2f9ea6f9d88cfbfb7c3543b04f124" resname="taxonomy_context__edit">
         <source>Edit</source>
-        <target state="needs-translation">Edit</target>
+        <target state="translated">Bearbeiten</target>
         <note>key: taxonomy_context__edit</note>
       </trans-unit>
       <trans-unit id="cd11464fc57338bb1fc528b219285efa3ab7a5b1" resname="taxonomy_context__move">
         <source>Move</source>
-        <target state="needs-translation">Move</target>
+        <target state="translated">Verschieben</target>
         <note>key: taxonomy_context__move</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="e890168e1ef7753c250affa3fcdfb21074c35c6f" resname="url.editing">
         <source>Editing</source>
-        <target state="translated">Édition</target>
+        <target state="translated">Modification en cours</target>
         <note>key: url.editing</note>
       </trans-unit>
       <trans-unit id="51af0ce5242ede206403aac1116ee36ed8887d44" resname="url.editing.title">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="ed6ebb919604a265c372578f297370881bfe4220" resname="url.label.created">
         <source>Created</source>
-        <target state="translated">Date de création</target>
+        <target state="translated">Créée</target>
         <note>key: url.label.created</note>
       </trans-unit>
       <trans-unit id="9f504bd4b4d9667acd04b788b3b0dbb4d7d9500f" resname="url.label.last_checked">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="d23c2f190381df7d8a1ac3c3de0df4631c161818" resname="url.label.modified">
         <source>Modified</source>
-        <target state="translated">Modifié</target>
+        <target state="translated">Modifiée</target>
         <note>key: url.label.modified</note>
       </trans-unit>
       <trans-unit id="323936a3e831f2a2db95bbf5f9a857b56ddc9c8a" resname="url.label.status">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="960c2d7573696185d28d8e385eabe01dbe9dacf3" resname="url.search.placeholder">
         <source>Search for URLs</source>
-        <target state="translated">Recherche d’URL</target>
+        <target state="translated">Rechercher des URL</target>
         <note>key: url.search.placeholder</note>
       </trans-unit>
       <trans-unit id="3e0d8fcb74e476fcae45da9c4c7b0b261118c7a3" resname="url.status.invalid">
@@ -98,17 +98,17 @@
       </trans-unit>
       <trans-unit id="ab21b5c3a570d491adc4ab793f2ce4f13f0f2ca7" resname="url.tab.information">
         <source>Details</source>
-        <target state="translated">Informations</target>
+        <target state="translated">Détails</target>
         <note>key: url.tab.information</note>
       </trans-unit>
       <trans-unit id="af51e21b845c88f95912dd85c6e94559d7038df6" resname="url.tab.usages">
         <source>Content item(s) using this URL</source>
-        <target state="translated">Élément(s) de contenu utilisant cette URL</target>
+        <target state="translated">Elément(s) de contenu utilisant cette URL</target>
         <note>key: url.tab.usages</note>
       </trans-unit>
       <trans-unit id="9ff98d02d294a164470b9491cabfa3526f2f63f6" resname="url.update.success">
         <source>URL updated</source>
-        <target state="translated">L'URL a été mise à jour</target>
+        <target state="translated">URL mise à jour</target>
         <note>key: url.update.success</note>
       </trans-unit>
       <trans-unit id="8fe54f2938f83a529ad5d7aa94d4e2fc9934bac1" resname="url.usages.column.name">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="91023a897ee0c18e2cc4f392c2eefb06f935882e" resname="list.action_name">
         <source>Editing %action%</source>
-        <target state="translated">Bearbeitung von %action%</target>
+        <target state="translated">%action% wird bearbeitet</target>
         <note>key: list.action_name</note>
       </trans-unit>
       <trans-unit id="9f3b1a45a0ce10a940f96bdba73bba914cc78bb6" resname="list.title">
@@ -18,17 +18,17 @@
       </trans-unit>
       <trans-unit id="ecbb0cf3b32660e173d0b1e4af6a5c8470045128" resname="section.my_account_settings">
         <source>Account settings</source>
-        <target state="translated">Meine Kontoeinstellungen</target>
+        <target state="translated">Kontoeinstellungen</target>
         <note>key: section.my_account_settings</note>
       </trans-unit>
       <trans-unit id="a225cd02a97a3cff5001bf4651bbe84dc62c3631" resname="section.my_preferences">
         <source>Preferences</source>
-        <target state="translated">Voreinstellungen</target>
+        <target state="translated">Präferenzen</target>
         <note>key: section.my_preferences</note>
       </trans-unit>
       <trans-unit id="53b6d0de00a5f914e863bed8b805457da18742ac" resname="settings.autosave.value.description">
         <source>Autosave draft every given period</source>
-        <target state="translated">Automatisch Entwurf speichern in jedem Zeitraum</target>
+        <target state="translated">Entwürfe nach einem bestimmten Zeitraum automatisch speichern</target>
         <note>key: settings.autosave.value.description</note>
       </trans-unit>
       <trans-unit id="8d3d9c3a593c29c5ad69cf09b44cc423b27b1b64" resname="settings.autosave.value.disabled">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="16b6d2224d9bf8a8ce12e0540d3528adc39315a0" resname="settings.autosave_interval.value.description">
         <source>Seconds till next draft autosave</source>
-        <target state="translated">Sekunden bis zum nächsten Entwurf Autosave</target>
+        <target state="translated">Sekunden bis zur nächsten automatischen Speicherung des Entwurfs</target>
         <note>key: settings.autosave_interval.value.description</note>
       </trans-unit>
       <trans-unit id="870ccdccf629e90b1100e2422684918accc5c4c1" resname="settings.autosave_interval.value.title">
         <source>Autosave interval</source>
-        <target state="translated">Intervall automatisch speichern</target>
+        <target state="translated">Intervall für automatisches Speichern</target>
         <note>key: settings.autosave_interval.value.title</note>
       </trans-unit>
       <trans-unit id="befc3e49a7bee4547f8c720a0fbb9d03d0d3e265" resname="settings.datetime_format.preview_label">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="3e6a40d77072c330caa54630a0ee78371e3b5bcc" resname="settings.in_context_translation.value.description">
         <source>Toggle In-Context translation feature</source>
-        <target state="translated">Umschalten der In-Context-Übersetzungsfunktion</target>
+        <target state="translated">Kontext-Übersetzungsfunktion umschalten</target>
         <note>key: settings.in_context_translation.value.description</note>
       </trans-unit>
       <trans-unit id="3f33c08a95b774bfdcb67ade54bce7f62bd2ac54" resname="settings.in_context_translation.value.disabled">
@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="655baeb177f1234a01684cf79c22ccdcaf5bee51" resname="settings.in_context_translation.value.title">
         <source>In-Context translation</source>
-        <target state="translated">Übersetzung im Kontext</target>
+        <target state="translated">Übersetzung im Zusammenhang</target>
         <note>key: settings.in_context_translation.value.title</note>
       </trans-unit>
       <trans-unit id="05bad24df7e1efd6680f0c20d79080430605bf48" resname="user.setting.focus_mode.description">
         <source>Focus mode</source>
-        <target state="translated">Fokusmodus</target>
+        <target state="translated">Fokus-Modus</target>
         <note>key: user.setting.focus_mode.description</note>
       </trans-unit>
       <trans-unit id="cffd55da53aff9b2efc64a42454deb1984c0264c" resname="user.setting.focus_mode.help">
@@ -100,23 +100,24 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="translated"><![CDATA[<p><strong>Fokusmodus</strong> – Eine einfache intuitive Oberfläche mit einer vereinfachten Inhaltstruktur, die für neue und nicht fortgeschrittene Benutzer konzipiert ist. Die Funktionen umfassen:</p>
-                        <ul>
-                            <li>Registerkarte "Ansicht", die eine Vorschau des Inhalts im Kontext anzeigt</li>
-                            <li>Ausgeblendete Registerkarte Technische Details</li>
-                            <li>Ausgeblendete Registerkarten "Orte" und "Versionen" bei Inhaltselementen</li>
-                        </ul>
-                    </p>]]></target>
+        <target state="translated"><![CDATA[<p><strong>Fokus-Modus</strong> – Eine saubere und intuitive Oberfläche mit einer vereinfachten Inhaltsstruktur,
+                        die für neue und nicht fortgeschrittene Benutzer konzipiert ist. Zu den Funktionen gehören:</p>
+                         <ul>
+                            <li>Registerkarte zur Anzeige der Site-Vorschau im Kontext</li>
+                             <li>Ausgeblendete Registerkarte Technische Details</li>
+                             <li>Ausgeblendete Registerkarten „Standorte“ und „Versionen“ in Inhaltselementen</li>
+                         </ul>
+		</p>]]></target>
         <note>key: user.setting.focus_mode.help</note>
       </trans-unit>
       <trans-unit id="3f9f3faa4259dc9c627396c82133e9f615e388a8" resname="user.setting.focus_mode.label">
         <source>Enable focus mode</source>
-        <target state="translated">Fokusmodus aktivieren</target>
+        <target state="translated">Fokus-Modus aktivieren</target>
         <note>key: user.setting.focus_mode.label</note>
       </trans-unit>
       <trans-unit id="585f7f7c62212ea3de792ae339db9e838f27d77a" resname="user.setting.focus_mode.name">
         <source>Focus mode</source>
-        <target state="translated">Fokusmodus</target>
+        <target state="translated">Fokus-Modus</target>
         <note>key: user.setting.focus_mode.name</note>
       </trans-unit>
       <trans-unit id="ff6e958aad946d4fed9a52212626b24394e70764" resname="user.setting.focus_mode.off">

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="7fe6937710fc7ea8e9233c52f19086aa536bc9d2" resname="modal.drop">
         <source>Drag and drop file</source>
-        <target state="translated">Glisser et déposer un fichier</target>
+        <target state="translated">Faire glisser/déposer le fichier</target>
         <note>key: modal.drop</note>
       </trans-unit>
       <trans-unit id="0a8067f383ddf3e9c308a65b0fcd66bfb1ecd38e" resname="modal.entry_issues.alert.duplicate_emails">
         <source>Duplicated emails (%count%)</source>
-        <target state="translated">E-mails dupliqués (%count%)</target>
+        <target state="translated">E-mails en doublon (%count%)</target>
         <note>key: modal.entry_issues.alert.duplicate_emails</note>
       </trans-unit>
       <trans-unit id="4734b951ff129b695f738938b60a7f211f5df2ab" resname="modal.entry_issues.alert.empty_emails">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="7b6c1913c1228485af394c170a67e65a7224b9b1" resname="modal.entry_issues.alert.go_to_next">
         <source>Go to next issue</source>
-        <target state="translated">Aller au problème suivant</target>
+        <target state="translated">Passer au problème suivant</target>
         <note>key: modal.entry_issues.alert.go_to_next</note>
       </trans-unit>
       <trans-unit id="d41a67a4c6e8826e16ecb3b8e4b5849feae538bf" resname="modal.entry_issues.alert.invalid_emails">
@@ -63,22 +63,22 @@
       </trans-unit>
       <trans-unit id="80bb3b8dd64e241684d30a6081918b6bbc6c1598" resname="modal.file_uploaded.message">
         <source>File %fileName% was uploaded</source>
-        <target state="translated">Le fichier %fileName% a été téléchargé</target>
+        <target state="translated">Le fichier %fileName% a été chargé</target>
         <note>key: modal.file_uploaded.message</note>
       </trans-unit>
       <trans-unit id="a89aa4f2fe7be667c66c1deeb229e80f71181bef" resname="modal.issue.bad_file.alert.message">
         <source><![CDATA[This file has no valid entries or may be empty.<br>Check your file and try again.]]></source>
-        <target state="translated"><![CDATA[Ce fichier n'a pas d'entrées valides ou peut être vide.<br>Vérifiez votre fichier et réessayez.]]></target>
+        <target state="translated"><![CDATA[Ce fichier ne contient aucune entrée valide ou peut être vide.<br>Vérifiez votre fichier et réessayez.]]></target>
         <note>key: modal.issue.bad_file.alert.message</note>
       </trans-unit>
       <trans-unit id="5f0b55fcb399ab7a8e3441d7d618e1c59c81a01c" resname="modal.issue.email.empty.message">
         <source>Email cannot be empty</source>
-        <target state="translated">L'e-mail ne peut pas être vide</target>
+        <target state="translated">L’e-mail ne peut pas être vide</target>
         <note>key: modal.issue.email.empty.message</note>
       </trans-unit>
       <trans-unit id="ced65d98fa61646be5b3cff4a199f6191e9565e8" resname="modal.issue.email.invalid.message">
         <source>Invalid email format</source>
-        <target state="translated">Format de courriel non valide</target>
+        <target state="translated">Format d’e-mail non valide</target>
         <note>key: modal.issue.email.invalid.message</note>
       </trans-unit>
       <trans-unit id="b343fdc1707b04f903db66cb60e073869869e0aa" resname="modal.issue.entry.deuplicate.merged">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="29116d0fe8e9abb27e7083ff31e58e9b065e6a58" resname="modal.or_upload">
         <source>Or upload a file with one email address per line</source>
-        <target state="translated">Ou télécharger un fichier avec une adresse e-mail par ligne</target>
+        <target state="translated">Ou charger un fichier avec une adresse e-mail par ligne</target>
         <note>key: modal.or_upload</note>
       </trans-unit>
       <trans-unit id="e24ff29c6da3a5f357a58c012cd82181af2f080e" resname="modal.search.no_entries">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="4eb38f2e1191d6cd77cf5002b8c70949a2c44631" resname="modal.search.placeholder">
         <source>Search...</source>
-        <target state="translated">Rechercher...</target>
+        <target state="translated">Rechercher…</target>
         <note>key: modal.search.placeholder</note>
       </trans-unit>
       <trans-unit id="0f21db2aec9802fb51610b96cc774d8bd3a03156" resname="modal.submit.label">

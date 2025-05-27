@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="8e0df121f055f3d6217967eaae5b9530d3ed4e3d" resname="dashboard.breadcrumbs.dashboard">
         <source>Dashboard</source>
-        <target state="translated">Mon tableau de bord</target>
+        <target state="translated">Tableau de bord</target>
         <note>key: dashboard.breadcrumbs.dashboard</note>
       </trans-unit>
       <trans-unit id="b9b7f78038b71a27e7b4c2d2978a3946bb48c90b" resname="dashboard.create">
         <source>Create content</source>
-        <target state="translated">Créer</target>
+        <target state="translated">Créer du contenu</target>
         <note>key: dashboard.create</note>
       </trans-unit>
       <trans-unit id="8f2d000c044a9f04c457499e57f6fbbb8360e23f" resname="dashboard.tab.all_content.empty">
         <source>No content. Content items you create will show up here</source>
-        <target state="translated">Aucun contenu. Les éléments de contenu que vous créez apparaissent ici</target>
+        <target state="translated">Aucun contenu. Les éléments de contenu que vous créez sont affichés ici</target>
         <note>key: dashboard.tab.all_content.empty</note>
       </trans-unit>
       <trans-unit id="50e7fa5609748dabc694245d5a54a77e9d5c7c1f" resname="dashboard.tab.all_media.empty">
         <source>No content. Media you create will show up here</source>
-        <target state="translated">Aucun contenu. Les médias que vous créez apparaissent ici</target>
+        <target state="translated">Aucun contenu. Les supports que vous créez sont affichés ici</target>
         <note>key: dashboard.tab.all_media.empty</note>
       </trans-unit>
       <trans-unit id="9c6f10545440752bc7bc2e8142cbea5d265403cd" resname="dashboard.tab.my_content.empty">
         <source>No content. Content items you create will show up here</source>
-        <target state="translated">Aucun contenu. Les éléments de contenu que vous créez apparaissent ici</target>
+        <target state="translated">Aucun contenu. Les éléments de contenu que vous créez sont affichés ici</target>
         <note>key: dashboard.tab.my_content.empty</note>
       </trans-unit>
       <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
         <source>You have no drafts yet. Your drafts will show up here.</source>
-        <target state="translated">Vous n'avez pas encore de brouillons. Vos brouillons apparaisent ici.</target>
+        <target state="translated">Vous n’avez pas encore de brouillon. Vos brouillons s’afficheront ici.</target>
         <note>key: dashboard.tab.my_drafts.empty</note>
       </trans-unit>
       <trans-unit id="9ef83b3497fae569ba56b6a8ab96004f359ae918" resname="dashboard.tab.my_media.empty">
         <source>No content. Media you create will show up here</source>
-        <target state="translated">Aucun contenu. Les médias que vous créez apparaissent ici</target>
+        <target state="translated">Aucun contenu. Les supports que vous créez sont affichés ici</target>
         <note>key: dashboard.tab.my_media.empty</note>
       </trans-unit>
       <trans-unit id="749d4759e304735bcec6ef6ec10af43e70f1f289" resname="dashboard.table.all.content.edit">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="translated">Vous n'avez pas la permission '%function%' '%module%' ' pour le contenu dont l'ID est : %contentId%</target>
+        <target state="translated">Vous n’avez pas l’autorisation « %function% » « %module% » pour l’ID de contenu : %contentId%</target>
         <note>key: dashboard.table.draft.unauthorized</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
@@ -108,12 +108,12 @@
       </trans-unit>
       <trans-unit id="a49a78f944bf1f73f3f7ff9672463bb1abd4a402" resname="everyone">
         <source>Common content</source>
-        <target state="translated">Contenu commun</target>
+        <target state="translated">Contenu courant</target>
         <note>key: everyone</note>
       </trans-unit>
       <trans-unit id="b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8" resname="me">
         <source>My content</source>
-        <target state="translated">Mes contenus</target>
+        <target state="translated">Mon contenu</target>
         <note>key: me</note>
       </trans-unit>
       <trans-unit id="013cb5f0c7391fd9db25ef277f72bd0d3b62a0e3" resname="my.dashboard">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="73956c614b0e87aa1d4ae18abb82cdc6e2770bba" resname="tab.name.everyone_media">
         <source>Media</source>
-        <target state="translated">Média</target>
+        <target state="translated">Support</target>
         <note>key: tab.name.everyone_media</note>
       </trans-unit>
       <trans-unit id="fdd56e68fb3a108fce6f8ee4c5a191c0aa8f2996" resname="tab.name.my_content">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="3cd97096c4d5ea83d5591467ab43021b86c65f27" resname="tab.name.my_media">
         <source>Media</source>
-        <target state="translated">Média</target>
+        <target state="translated">Support</target>
         <note>key: tab.name.my_media</note>
       </trans-unit>
     </body>
