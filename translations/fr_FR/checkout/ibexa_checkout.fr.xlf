@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -23,17 +23,17 @@
       </trans-unit>
       <trans-unit id="ebe7cb5019429e835805c9f7a70025137654386c" resname="ibexa_checkout.checkout.summary.shipping_address">
         <source>Shipping address</source>
-        <target state="translated">Adresse de livraison</target>
+        <target state="translated">Adresse d’expédition</target>
         <note>key: ibexa_checkout.checkout.summary.shipping_address</note>
       </trans-unit>
       <trans-unit id="98ff3d04647ac91ed09871c5b9b08de99a56e00c" resname="ibexa_checkout.checkout.summary.shipping_method">
         <source>Shipping method</source>
-        <target state="translated">Méthode de livraison</target>
+        <target state="translated">Méthode d’expédition</target>
         <note>key: ibexa_checkout.checkout.summary.shipping_method</note>
       </trans-unit>
       <trans-unit id="dbd49fc245d6ca0763f96354338a8f9e65067cee" resname="ibexa_checkout.ui.actions.go_back">
         <source>Go Back</source>
-        <target state="translated">Retour</target>
+        <target state="translated">Revenir en arrière</target>
         <note>key: ibexa_checkout.ui.actions.go_back</note>
       </trans-unit>
       <trans-unit id="5afef0f417dcfea59920f5b02a10d369f5b0bfa0" resname="ibexa_checkout.ui.billing_address.address">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="0ffe62b8ab834ca02b0e0768846817d6942e1b13" resname="ibexa_checkout.ui.billing_address.company">
         <source>Company name</source>
-        <target state="translated">Nom de la société</target>
+        <target state="translated">Nom de l’entreprise</target>
         <note>key: ibexa_checkout.ui.billing_address.company</note>
       </trans-unit>
       <trans-unit id="48860202acc8447a9f03ac10b2117f20a5470ad4" resname="ibexa_checkout.ui.billing_address.first_name">
         <source>First name</source>
-        <target state="needs-translation">First name</target>
+        <target state="translated">Prénom</target>
         <note>key: ibexa_checkout.ui.billing_address.first_name</note>
       </trans-unit>
       <trans-unit id="fb9880912ec85fdebcfe28e550b2378572e45048" resname="ibexa_checkout.ui.billing_address.label">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="09421d4df4f5551e0e09c9fd40c026a62cccfb4c" resname="ibexa_checkout.ui.billing_address.last_name">
         <source>Last name</source>
-        <target state="needs-translation">Last name</target>
+        <target state="translated">Nom</target>
         <note>key: ibexa_checkout.ui.billing_address.last_name</note>
       </trans-unit>
       <trans-unit id="0e4bb074f2a99b418e5fe6d3fee7f298c8281656" resname="ibexa_checkout.ui.billing_address.phone">
@@ -68,17 +68,17 @@
       </trans-unit>
       <trans-unit id="6e704c635cdbb2bfb6f97c50cbbe5d72ffcbf95d" resname="ibexa_checkout.ui.billing_address.same_for_shipping">
         <source>Use the same address for shipping</source>
-        <target state="translated">Utiliser la même adresse pour la livraison</target>
+        <target state="translated">Utiliser la même adresse pour l’expédition</target>
         <note>key: ibexa_checkout.ui.billing_address.same_for_shipping</note>
       </trans-unit>
       <trans-unit id="aa11bf97a23edc21ac415af515f37ec6fa451e18" resname="ibexa_checkout.ui.billing_address.tax">
         <source>TAX ID</source>
-        <target state="translated">ID de taxe</target>
+        <target state="translated">ID FISCAL</target>
         <note>key: ibexa_checkout.ui.billing_address.tax</note>
       </trans-unit>
       <trans-unit id="e45a509e781a9c664a58969ac5eba2b9bf2f824e" resname="ibexa_checkout.ui.billing_address.tax_id">
         <source>Tax ID</source>
-        <target state="translated">ID de taxe</target>
+        <target state="translated">ID fiscal</target>
         <note>key: ibexa_checkout.ui.billing_address.tax_id</note>
       </trans-unit>
       <trans-unit id="3003a9eb739585d47b1e95eaacd3d6bb623c4416" resname="ibexa_checkout.ui.choose_payment_method.label">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="dc6d29fc916577bc7c959077b3117fa3f86376ee" resname="ibexa_checkout.ui.choose_shipping_method.label">
         <source>Choose shipping method</source>
-        <target state="translated">Choisir une méthode de livraison</target>
+        <target state="translated">Choisir une méthode d’expédition</target>
         <note>key: ibexa_checkout.ui.choose_shipping_method.label</note>
       </trans-unit>
       <trans-unit id="24129e532bc1757c6ad69a8820f016b944fc696a" resname="ibexa_checkout.ui.confirmation_cta.continue_action">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="4f6337edbe00dbe2bdbd7dabcd519b52d803b994" resname="ibexa_checkout.ui.confirmation_main.header">
         <source>Thank you for your order!</source>
-        <target state="translated">Merci pour votre commande !</target>
+        <target state="translated">Merci pour votre commande !</target>
         <note>key: ibexa_checkout.ui.confirmation_main.header</note>
       </trans-unit>
       <trans-unit id="12fd1afc106123b1557575f53f7749c4e61ce4fb" resname="ibexa_checkout.ui.data_summary.items">
@@ -113,17 +113,17 @@
       </trans-unit>
       <trans-unit id="34928e740f8a95af8435dfbeb418518661f24d31" resname="ibexa_checkout.ui.data_summary.items.net">
         <source>x %value% net</source>
-        <target state="needs-translation">x %value% net</target>
+        <target state="translated">x %value% net</target>
         <note>key: ibexa_checkout.ui.data_summary.items.net</note>
       </trans-unit>
       <trans-unit id="7878cd0ccae390c9edc95de156e0921e6f13162d" resname="ibexa_checkout.ui.data_summary.items.subtotal_net">
         <source>%value% net</source>
-        <target state="needs-translation">%value% net</target>
+        <target state="translated">%value% net</target>
         <note>key: ibexa_checkout.ui.data_summary.items.subtotal_net</note>
       </trans-unit>
       <trans-unit id="c616ef8f48dd5788641b051346d62f0084240f4c" resname="ibexa_checkout.ui.go_to.summary.label">
         <source>Go to summary</source>
-        <target state="translated">Aller au récapitulatif</target>
+        <target state="translated">Aller au résumé</target>
         <note>key: ibexa_checkout.ui.go_to.summary.label</note>
       </trans-unit>
       <trans-unit id="9fbb69dc0bfcbbbdf95cbcde81fb8cc7d98e5239" resname="ibexa_checkout.ui.go_to_payment_and_summary.label">
@@ -138,12 +138,12 @@
       </trans-unit>
       <trans-unit id="c80bd395ca68e35275e966f7255ccc6ebf315251" resname="ibexa_checkout.ui.go_to_shipping_and_payment_method.label">
         <source><![CDATA[Go to shipping & payment method]]></source>
-        <target state="translated"><![CDATA[Aller au mode de livraison et de paiement]]></target>
+        <target state="translated"><![CDATA[Aller au mode de paiement et à la méthode d’expédition]]></target>
         <note>key: ibexa_checkout.ui.go_to_shipping_and_payment_method.label</note>
       </trans-unit>
       <trans-unit id="9e574ddf7c45801786a8f9d68309f7f13e768def" resname="ibexa_checkout.ui.invalid_cart.part_one">
         <source>At least one of the products has changed since you started the checkout process. To see changes, go back to </source>
-        <target state="translated">Au moins un des produits a changé depuis que vous avez commencé le processus de paiement. Pour voir les changements, retournez à </target>
+        <target state="translated">Au moins un des produits a été modifié depuis que vous avez commencé le processus de finalisation. Pour consulter les modifications, revenez à </target>
         <note>key: ibexa_checkout.ui.invalid_cart.part_one</note>
       </trans-unit>
       <trans-unit id="df40ea72c81bc31434750d54942513a1f902b5d1" resname="ibexa_checkout.ui.invalid_cart.part_two">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="ae6b294686dd2a39861eb0715cb84d826dbe3492" resname="ibexa_checkout.ui.order_thanks">
         <source>Thank you for ordering!</source>
-        <target state="translated">Merci pour votre commande !</target>
+        <target state="translated">Merci d’avoir passé commande !</target>
         <note>key: ibexa_checkout.ui.order_thanks</note>
       </trans-unit>
       <trans-unit id="f74ec0486a18a7c19357c2691aacc519e69607a2" resname="ibexa_checkout.ui.payment_method.label">
@@ -178,17 +178,17 @@
       </trans-unit>
       <trans-unit id="63ccd9bacb253e65b13ff5aad85d6eab157c0d49" resname="ibexa_checkout.ui.price_summary.place_order_action_btn">
         <source>Place order</source>
-        <target state="translated">Passer une commande</target>
+        <target state="translated">Passer commande</target>
         <note>key: ibexa_checkout.ui.price_summary.place_order_action_btn</note>
       </trans-unit>
       <trans-unit id="3bd0f02a3937b7ca91bce964b65782e3e7306cf9" resname="ibexa_checkout.ui.price_summary.shipping_cost">
         <source>Shipping cost</source>
-        <target state="translated">Frais de livraison</target>
+        <target state="translated">Frais d’expédition</target>
         <note>key: ibexa_checkout.ui.price_summary.shipping_cost</note>
       </trans-unit>
       <trans-unit id="842beb7a0a5229dfe492f8c1f312da1ca2d5a888" resname="ibexa_checkout.ui.price_summary.shipping_tax">
         <source>Shipping tax</source>
-        <target state="translated">Taxe de livraison</target>
+        <target state="translated">Taxe d’expédition</target>
         <note>key: ibexa_checkout.ui.price_summary.shipping_tax</note>
       </trans-unit>
       <trans-unit id="f8b8b5ad6d0c1349f5f7a20dd82221bd3c63e88d" resname="ibexa_checkout.ui.price_summary.subtotal">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="93acafc2fe40d458a6487852f4d0c96503ee1ca2" resname="ibexa_checkout.ui.select_address.submit">
         <source><![CDATA[Go to shipping & payment method]]></source>
-        <target state="translated"><![CDATA[Aller au mode de livraison et de paiement]]></target>
+        <target state="translated"><![CDATA[Aller au mode de paiement et à la méthode d’expédition]]></target>
         <note>key: ibexa_checkout.ui.select_address.submit</note>
       </trans-unit>
       <trans-unit id="c763ea06a140f0337c7bbd3e9aecf858733ba477" resname="ibexa_checkout.ui.select_payment.submit">
@@ -233,17 +233,17 @@
       </trans-unit>
       <trans-unit id="70ab62e94a894ed8bf96f40984138e42a7325a2c" resname="ibexa_checkout.ui.shipping_address.choose.label">
         <source>Choose from saved addresses:</source>
-        <target state="translated">Choisir parmi les adresses enregistrées :</target>
+        <target state="translated">Choisir l’une des adresses enregistrées :</target>
         <note>key: ibexa_checkout.ui.shipping_address.choose.label</note>
       </trans-unit>
       <trans-unit id="decc0255430fd8debba6cbb0d8237b64a9368479" resname="ibexa_checkout.ui.shipping_address.label">
         <source>Shipping address</source>
-        <target state="translated">Adresse de livraison</target>
+        <target state="translated">Adresse d’expédition</target>
         <note>key: ibexa_checkout.ui.shipping_address.label</note>
       </trans-unit>
       <trans-unit id="9e1b7393d6909c6d1694f188a8cd441d4d19b003" resname="ibexa_checkout.ui.shipping_method.label">
         <source>Shipping method</source>
-        <target state="translated">Méthode de livraison</target>
+        <target state="translated">Méthode d’expédition</target>
         <note>key: ibexa_checkout.ui.shipping_method.label</note>
       </trans-unit>
       <trans-unit id="7f84920eb71d34da9df209d97fea9c61888703e5" resname="ibexa_checkout.ui.summary.submit">

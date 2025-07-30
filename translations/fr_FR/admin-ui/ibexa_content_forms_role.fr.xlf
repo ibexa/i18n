@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button">
         <source>Select Locations</source>
-        <target state="translated">Sélectionner les emplacements</target>
+        <target state="translated">Sélectionner des emplacements</target>
         <note>key: role.policy.limitation.location.udw_button</note>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select Location(s) to use as Limitation</source>
-        <target state="translated">Sélectionnez le(s) emplacement(s) à utiliser comme restriction</target>
+        <target state="translated">Sélectionner un ou des emplacements à utiliser comme limitation</target>
         <note>key: role.policy.limitation.location.udw_title</note>
       </trans-unit>
       <trans-unit id="290f48ccc1eb2889852b730ac62b2b148594c85f" resname="role.policy.limitation.location_deleted">
@@ -63,17 +63,17 @@
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
         <source>Editing Limitations for '%limitationTypeIdentifier%' is not available.</source>
-        <target state="translated">Il n'est pas possible de modifier les limitations pour '%limitationTypeIdentifier%'.</target>
+        <target state="translated">La modification des limitations pour « %limitationTypeIdentifier% » n’est pas disponible.</target>
         <note>key: role.policy.limitation.not_implemented</note>
       </trans-unit>
       <trans-unit id="6e6115f8e643b119a030e79d964280d51d7f254c" resname="role.policy.limitation.userpermissions.role_title">
         <source>Roles:</source>
-        <target state="translated">Rôles :</target>
+        <target state="translated">Rôles :</target>
         <note>key: role.policy.limitation.userpermissions.role_title</note>
       </trans-unit>
       <trans-unit id="d4d3dd0f27d3408bb66b16d7218872d81c4fa7bb" resname="role.policy.limitation.userpermissions.user_groups_title">
         <source>User Groups:</source>
-        <target state="translated">Groupes d'utilisateurs :</target>
+        <target state="translated">Groupes d’utilisateurs :</target>
         <note>key: role.policy.limitation.userpermissions.user_groups_title</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
         <source>Choose a type</source>
-        <target state="translated">Choisissez un type</target>
+        <target state="translated">Choisir un type</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
     </body>

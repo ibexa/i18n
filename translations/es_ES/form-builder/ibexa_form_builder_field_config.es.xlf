@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="cfcfb2b87f2c9cf442a2d2ee46ff54db033bf696" resname="validation.extensions">
         <source>Allowed file extensions</source>
-        <target state="translated">Tipos de extensiones de archivo permitidos</target>
+        <target state="translated">Extensiones de archivo permitidas</target>
         <note>key: validation.extensions</note>
       </trans-unit>
       <trans-unit id="9b033fb98a8e288c0dfe93e430257b03e72d6d34" resname="validation.max_choices">
         <source>Maximum number of choices</source>
-        <target state="translated">Número máximo de opciones</target>
+        <target state="translated">Número máximo de elecciones</target>
         <note>key: validation.max_choices</note>
       </trans-unit>
       <trans-unit id="30ee572232388ccb03ba9a0e8f2ea921375c87d7" resname="validation.max_length">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="d2c3ab833a4cbc0df1c3612b250b8ac4c6ec6105" resname="validation.min_choices">
         <source>Minimum number of choices</source>
-        <target state="translated">Número mínimo de opciones</target>
+        <target state="translated">Número mínimo de elecciones</target>
         <note>key: validation.min_choices</note>
       </trans-unit>
       <trans-unit id="d127f4e5ef7ee8b20500120e6ded6e0676eef32e" resname="validation.min_length">
@@ -68,17 +68,17 @@
       </trans-unit>
       <trans-unit id="059a5d6429f8ce5f9f766c16f60a3da4e186a724" resname="validation.regex">
         <source>Regular expression pattern</source>
-        <target state="translated">Patrón de expresiones regulares</target>
+        <target state="translated">Patrón de expresión regular</target>
         <note>key: validation.regex</note>
       </trans-unit>
       <trans-unit id="3b06b5fa4ba9d5a6b4c5efb7f585ae8fb98289b3" resname="validation.required">
         <source>Required</source>
-        <target state="translated">Obligatorio</target>
+        <target state="translated">Requerido</target>
         <note>key: validation.required</note>
       </trans-unit>
       <trans-unit id="eb6eb4abe8b098eeb00ee553334a75fab1641bb5" resname="validation.upload_size">
         <source>Maximum allowed file size (MB)</source>
-        <target state="translated">Tamaño máximo permitido de archivo (MB)</target>
+        <target state="translated">Tamaño máximo de archivo permitido (MB)</target>
         <note>key: validation.upload_size</note>
       </trans-unit>
     </body>

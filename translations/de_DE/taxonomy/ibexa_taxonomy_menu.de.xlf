@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="a4b74c374dab95820dff68597fe3e29ffb8f780c" resname="taxonomy_content_create__sidebar_right__cancel">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Verwerfen</target>
         <note>key: taxonomy_content_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="a4d28282a4e4ace2fddc5effdae9db6aa6c3afcd" resname="taxonomy_content_create__sidebar_right__publish">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Speichern und schließen</target>
         <note>key: taxonomy_content_create__sidebar_right__publish</note>
       </trans-unit>
       <trans-unit id="1ee5921eaaba8ee0bb410a55185e18bd4e2e340b" resname="taxonomy_content_edit__sidebar_right__cancel">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Verwerfen</target>
         <note>key: taxonomy_content_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="6e74eab153976f97777cf709f49589e00c09fba9" resname="taxonomy_content_edit__sidebar_right__publish">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Speichern und schließen</target>
         <note>key: taxonomy_content_edit__sidebar_right__publish</note>
       </trans-unit>
       <trans-unit id="ca8eb053dccd987d00ddbe478c8880a226e416db" resname="taxonomy_taxonomy__sidebar_right__publish_and_edit">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Speichern</target>
         <note>key: taxonomy_taxonomy__sidebar_right__publish_and_edit</note>
       </trans-unit>
     </body>

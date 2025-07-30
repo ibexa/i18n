@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="7ddd17c1a96742c10988612627d3bf5134bcd912" resname="ezrichtext.custom_tags.ezfacebook.attributes.post_url.label">
         <source>Post URL</source>
-        <target state="translated">URL du post</target>
+        <target state="translated">URL de la publication</target>
         <note>key: ezrichtext.custom_tags.ezfacebook.attributes.post_url.label</note>
       </trans-unit>
       <trans-unit id="14df6986afb2121f6d8f3a8e3fd3cc2e8719f28e" resname="ezrichtext.custom_tags.ezfacebook.attributes.width.label">
         <source>Width</source>
-        <target state="translated">Largeur </target>
+        <target state="translated">Largeur</target>
         <note>key: ezrichtext.custom_tags.ezfacebook.attributes.width.label</note>
       </trans-unit>
       <trans-unit id="04a09b59ee06e7996670b684a9ca256d792992d2" resname="ezrichtext.custom_tags.ezfacebook.description">
         <source>Add a Facebook post</source>
-        <target state="translated">Ajouter un post Facebook</target>
+        <target state="translated">Ajouter une publication Facebook</target>
         <note>key: ezrichtext.custom_tags.ezfacebook.description</note>
       </trans-unit>
       <trans-unit id="48fc0ce4ff40934d1fff06a56055c9ad73f634f4" resname="ezrichtext.custom_tags.ezfacebook.label">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="df37139c5dd99f14d3e1390341bd49d11da3d5ba" resname="ezrichtext.custom_tags.eztwitter.attributes.lang.label">
         <source>Lang</source>
-        <target state="translated">Langue</target>
+        <target state="translated">Lang</target>
         <note>key: ezrichtext.custom_tags.eztwitter.attributes.lang.label</note>
       </trans-unit>
       <trans-unit id="9dfc2154505a7ab82c6ab07c110e0f6170513fc9" resname="ezrichtext.custom_tags.eztwitter.attributes.link_color.label">
@@ -58,12 +58,12 @@
       </trans-unit>
       <trans-unit id="4c8cbac4f038c15c7e71194a1af3726117d28279" resname="ezrichtext.custom_tags.eztwitter.attributes.tweet_url.label">
         <source>Tweet URL</source>
-        <target state="translated">URL du Tweet</target>
+        <target state="translated">URL du tweet</target>
         <note>key: ezrichtext.custom_tags.eztwitter.attributes.tweet_url.label</note>
       </trans-unit>
       <trans-unit id="47da3c994119e5c6e00e9e9fe61495155e8427c2" resname="ezrichtext.custom_tags.eztwitter.attributes.width.label">
         <source>Width</source>
-        <target state="translated">Largeur </target>
+        <target state="translated">Largeur</target>
         <note>key: ezrichtext.custom_tags.eztwitter.attributes.width.label</note>
       </trans-unit>
       <trans-unit id="c1fd25ffc048cf47e9bc6bcaae98dd86abb2a7dd" resname="ezrichtext.custom_tags.eztwitter.description">
@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="aea37ec43e2230a8627b214d93cb548de4e81d1f" resname="ezrichtext.custom_tags.ezyoutube.attributes.width.label">
         <source>Width</source>
-        <target state="translated">Largeur </target>
+        <target state="translated">Largeur</target>
         <note>key: ezrichtext.custom_tags.ezyoutube.attributes.width.label</note>
       </trans-unit>
       <trans-unit id="8f9f4c953fc856ffdd89f2584789096bc29cd806" resname="ezrichtext.custom_tags.ezyoutube.description">
         <source>Add a YouTube video</source>
-        <target state="translated">Ajouter une Vidéo YouTube</target>
+        <target state="translated">Ajouter une vidéo YouTube</target>
         <note>key: ezrichtext.custom_tags.ezyoutube.description</note>
       </trans-unit>
       <trans-unit id="522f743b7ab00a525b5d5501de4c59bdeca967a4" resname="ezrichtext.custom_tags.ezyoutube.label">

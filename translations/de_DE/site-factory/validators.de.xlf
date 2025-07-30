@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="1ba78fb71ed4acf87d97952c43e861203a24f30a" resname="ibexa.site_factory.validator.hostname_with_optional_port.invalid">
         <source>Invalid hostname and/or port</source>
-        <target state="needs-translation">Invalid hostname and/or port</target>
+        <target state="translated">Ungültiger Hostname und/oder Port</target>
         <note>key: ibexa.site_factory.validator.hostname_with_optional_port.invalid</note>
       </trans-unit>
       <trans-unit id="8a1c78d384d4019f9ab14d02905a7a294057bdb0" resname="ibexa.site_factory.validator.port.invalid">
         <source>Invalid port</source>
-        <target state="needs-translation">Invalid port</target>
+        <target state="translated">Ungültiger Port</target>
         <note>key: ibexa.site_factory.validator.port.invalid</note>
       </trans-unit>
     </body>

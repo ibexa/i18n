@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
         <source>From:</source>
-        <target state="translated">De :</target>
+        <target state="translated">De :</target>
         <note>key: content.review.from</note>
       </trans-unit>
       <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
         <source>Read more</source>
-        <target state="translated">En savoir plus</target>
+        <target state="translated">Lire plus</target>
         <note>key: content.review.read_more</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="0a1f3297ccc08882f5a4610f9af8fc4148c74adc" resname="ezfloat.name">
         <source>Float</source>
-        <target state="translated">Fließkommazahl</target>
+        <target state="translated">Gleitkommazahl</target>
         <note>key: ezfloat.name</note>
       </trans-unit>
       <trans-unit id="fcabb29fdb097d916c88328daad461c1ea765121" resname="ezgmaplocation.name">
         <source>Map location</source>
-        <target state="translated">Kartenposition</target>
+        <target state="translated">Kartenstandort</target>
         <note>key: ezgmaplocation.name</note>
       </trans-unit>
       <trans-unit id="6300f890f00d9999466b4abc478857b0d29022b4" resname="ezimage.name">
@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
         <source>Content relation (single)</source>
-        <target state="translated">Content-Beziehung (Single)</target>
+        <target state="translated">Inhaltsbeziehung (einfach)</target>
         <note>key: ezobjectrelation.name</note>
       </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
         <source>Content relations (multiple)</source>
-        <target state="translated">Content-Beziehungen (mehrfach)</target>
+        <target state="translated">Inhaltsbeziehungen (mehrfach)</target>
         <note>key: ezobjectrelationlist.name</note>
       </trans-unit>
       <trans-unit id="3229c3fc41a4af84f0fd1636f0678aac770359bc" resname="ezselection.name">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="e35280b88546fdd18c84ce9c401e17cbfca56e72" resname="eztext.name">
         <source>Text block</source>
-        <target state="translated">Textbaustein</target>
+        <target state="translated">Textblock</target>
         <note>key: eztext.name</note>
       </trans-unit>
       <trans-unit id="503c2801427b2d773d020ef953413d14c17968bd" resname="eztime.name">

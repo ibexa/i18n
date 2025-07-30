@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,52 +8,52 @@
     <body>
       <trans-unit id="0dca2eed1bfc767c52cd3b53805baea065cf61dc" resname="tab.content.headline">
         <source>Content items (%total%)</source>
-        <target state="needs-translation">Content items (%total%)</target>
+        <target state="translated">Ítems de contenido (%total%)</target>
         <note>key: tab.content.headline</note>
       </trans-unit>
       <trans-unit id="b4fd0d77ae26bc0a5e5c4cdb6f36fb43e35c72ec" resname="tab.content.name">
         <source>Name</source>
-        <target state="needs-translation">Name</target>
+        <target state="translated">Nombre</target>
         <note>key: tab.content.name</note>
       </trans-unit>
       <trans-unit id="461acbb3501e29e5936435f896068d49cdc89321" resname="tab.content.path">
         <source>Path</source>
-        <target state="needs-translation">Path</target>
+        <target state="translated">Ruta</target>
         <note>key: tab.content.path</note>
       </trans-unit>
       <trans-unit id="52899c53e5b2e9a5ee3a0cb0c990deb66be5c305" resname="tab.content.translations">
         <source>Used in translations</source>
-        <target state="needs-translation">Used in translations</target>
+        <target state="translated">Utilizado en traducciones</target>
         <note>key: tab.content.translations</note>
       </trans-unit>
       <trans-unit id="3cff3e10e5bdca20843565bd73cba7e016392a84" resname="tab.locations.modification_date">
         <source>Modification date</source>
-        <target state="needs-translation">Modification date</target>
+        <target state="translated">Fecha de modificación</target>
         <note>key: tab.locations.modification_date</note>
       </trans-unit>
       <trans-unit id="10ba99f6729685d7380aac06c965bda5b3d2a1b1" resname="tab.name.assigned_content">
         <source>Content</source>
-        <target state="needs-translation">Content</target>
+        <target state="translated">Contenido</target>
         <note>key: tab.name.assigned_content</note>
       </trans-unit>
       <trans-unit id="b97ff023802dc5e879d14be64835d4ffdb6abb6c" resname="tab.unassign_content.modal.message">
         <source>Do you want to unassign content?</source>
-        <target state="needs-translation">Do you want to unassign content?</target>
+        <target state="translated">¿Quieres desasignar contenido?</target>
         <note>key: tab.unassign_content.modal.message</note>
       </trans-unit>
       <trans-unit id="aef452f8040700116fbc5ae9817bb8fc46ed5275" resname="taxonomy.assign">
         <source>Assign</source>
-        <target state="needs-translation">Assign</target>
+        <target state="translated">Asignar</target>
         <note>key: taxonomy.assign</note>
       </trans-unit>
       <trans-unit id="a5157261b7db968f9d2cd4a00ae28744be17006b" resname="taxonomy.select_new_parent">
         <source>Select new parent</source>
-        <target state="needs-translation">Select new parent</target>
+        <target state="translated">Seleccionar nuevo elemento principal</target>
         <note>key: taxonomy.select_new_parent</note>
       </trans-unit>
       <trans-unit id="225ff02fe1e4ab54f8e94fc388306a9eeac76ada" resname="taxonomy.unassign">
         <source>Unassign</source>
-        <target state="needs-translation">Unassign</target>
+        <target state="translated">Desasignar</target>
         <note>key: taxonomy.unassign</note>
       </trans-unit>
     </body>

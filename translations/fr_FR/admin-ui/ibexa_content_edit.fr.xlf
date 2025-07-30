@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="cd6fb4cd7385ecdb31009da852c23fb5038b9c72" resname="content.draft_saved.success">
         <source>Content draft saved.</source>
-        <target state="translated">Le brouillon du contenu a été sauvegardé.</target>
+        <target state="translated">Brouillon du contenu enregistré.</target>
         <note>key: content.draft_saved.success</note>
       </trans-unit>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing</source>
-        <target state="translated">En cours d'édition</target>
+        <target state="translated">Modification en cours</target>
         <note>key: editing</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
         <source>Location: %location% Translation: %language%</source>
-        <target state="translated">Emplacement : %location% Traduction : %language%</target>
+        <target state="translated">Emplacement : %location% Traduction : %language%</target>
         <note>key: editing_details</note>
       </trans-unit>
       <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">

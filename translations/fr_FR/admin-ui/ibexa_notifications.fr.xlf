@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="2e6761d0506e8b330fe5e2350a82f7e2e74b13ee" resname="menu.notification">
         <source>View Notifications</source>
-        <target state="translated">Voir les notifications</target>
+        <target state="translated">Afficher les notifications</target>
         <note>key: menu.notification</note>
       </trans-unit>
       <trans-unit id="fc349b70133a7a68cae9be363e112ee397044b6a" resname="notification.date">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="dda5c8f76779648fe17e298aaae2ea426df3f85e" resname="notification.trashed">
         <source>Sent to Trash</source>
-        <target state="translated">Envoyé à la Corbeille</target>
+        <target state="translated">Mis à la corbeille</target>
         <note>key: notification.trashed</note>
       </trans-unit>
       <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type">

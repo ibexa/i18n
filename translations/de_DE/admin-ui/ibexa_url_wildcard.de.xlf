@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="2451ff2ec3f769b1d2492cba373ddcf07c27d5e1" resname="url_wildcard.breadcrumb.list">
         <source>URL management</source>
-        <target state="translated">URL-Verwaltung</target>
+        <target state="translated">URL-Management</target>
         <note>key: url_wildcard.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="0d4e2915af539759633ce2317d17e4df6131d739" resname="url_wildcard.create.identifier">
@@ -43,22 +43,22 @@
       </trans-unit>
       <trans-unit id="ed6eb46311d0d99a1221cf8676a5df8cf4fdd533" resname="url_wildcard.create.success">
         <source>URL Wildcard created.</source>
-        <target state="translated">URL-Wildcard wurde erstellt.</target>
+        <target state="translated">URL-Platzhalter erstellt.</target>
         <note>key: url_wildcard.create.success</note>
       </trans-unit>
       <trans-unit id="ecf02677fe877b84d5dfffc2cba4021b0bb2e1a3" resname="url_wildcard.delete.success">
         <source>URL Wildcard(s) deleted.</source>
-        <target state="translated">URL-Wildcard(s) wurde(n) gelöscht.</target>
+        <target state="translated">URL-Platzhalter gelöscht.</target>
         <note>key: url_wildcard.delete.success</note>
       </trans-unit>
       <trans-unit id="8fe44f043fa71a16c618cde88dd0e1098e5479bb" resname="url_wildcard.disabled">
         <source>URL wildcards are disabled. Contact your Administrator.</source>
-        <target state="translated">URL-Platzhalter sind deaktiviert. Kontaktieren Sie Ihren Administrator.</target>
+        <target state="translated">URL-Platzhalter sind deaktiviert. Wenden Sie sich bitte an Ihren Administrator.</target>
         <note>key: url_wildcard.disabled</note>
       </trans-unit>
       <trans-unit id="96a90dc2272bef795abed845ba2a8b4c24615371" resname="url_wildcard.editing">
         <source>Editing URL wildcard: %url%</source>
-        <target state="translated">URL-Platzhalter bearbeiten: %url%</target>
+        <target state="translated">URL-Platzhalter wird bearbeitet: %url%</target>
         <note>key: url_wildcard.editing</note>
       </trans-unit>
       <trans-unit id="88cbad5f7fda2954c1ee100f5ba1e15f761cbbde" resname="url_wildcard.empty">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="921c295cb79d59f1703cfdfae6f1fcdb581451cf" resname="url_wildcard.label.alias">
         <source>URL alias wildcard</source>
-        <target state="translated">URL Alias Platzhalter</target>
+        <target state="translated">URL-Alias-Platzhalter</target>
         <note>key: url_wildcard.label.alias</note>
       </trans-unit>
       <trans-unit id="906de07fde9ac052d30b57ea68d7c3ffa70375aa" resname="url_wildcard.label.destination">
@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="75d2bf0fb2fc725c0e6909a48601346997114d22" resname="url_wildcard.modal.create.redirect">
         <source>Redirect to wildcard destination</source>
-        <target state="translated">Auf Wildcard-Ziel umleiten</target>
+        <target state="translated">Umleitung zum Zielort des Platzhalters</target>
         <note>key: url_wildcard.modal.create.redirect</note>
       </trans-unit>
       <trans-unit id="b739781c8d6b640df7432c6f4b4c14f3ada7716c" resname="url_wildcard.modal.create.redirect.helper">
         <source>When checked, the URL displayed will be the URL of the destination. When unchecked, the wildcard will not redirect to the destination and the URL will stay the same.</source>
-        <target state="translated">Wenn diese Option aktiviert ist, ist die angezeigte URL die URL des Ziels. Wenn das Kontrollkästchen deaktiviert ist, wird der Platzhalter nicht zum Ziel umgeleitet und die URL bleibt unverändert.</target>
+        <target state="translated">Wenn diese Option aktiviert ist, ist die angezeigte URL die URL des Ziels. Wenn diese Option nicht aktiviert ist, wird der Platzhalter nicht an das Ziel weitergeleitet und die URL bleibt unverändert.</target>
         <note>key: url_wildcard.modal.create.redirect.helper</note>
       </trans-unit>
       <trans-unit id="697d3a96a811b4d511ecd8366e0da5a3b9b0ca73" resname="url_wildcard.modal.create.title">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="d5f8b02988ca5a63f52253b3eec84f9cc8f799cd" resname="url_wildcard.search.placeholder">
         <source>Search for URL wildcards</source>
-        <target state="translated">Suche nach URL-Platzhaltern</target>
+        <target state="translated">URL-Platzhalter suchen</target>
         <note>key: url_wildcard.search.placeholder</note>
       </trans-unit>
       <trans-unit id="5646653e7d129c0a5c96b6b87e99eeb9d92a6fee" resname="url_wildcard.type.all">
@@ -138,12 +138,12 @@
       </trans-unit>
       <trans-unit id="845ff50e5a5dd8e26d619dce56195e85daae20f7" resname="url_wildcard.type.forward">
         <source>Forward</source>
-        <target state="translated">Vorwärts</target>
+        <target state="translated">Weiterleiten</target>
         <note>key: url_wildcard.type.forward</note>
       </trans-unit>
       <trans-unit id="744a5ddc1ab83b98c6b70a5d9650efa62147b324" resname="url_wildcard.update.success">
         <source>URL Wildcard updated.</source>
-        <target state="translated">URL-Wildcard wurden aktualisiert.</target>
+        <target state="translated">URL-Platzhalter wurde aktualisiert.</target>
         <note>key: url_wildcard.update.success</note>
       </trans-unit>
     </body>

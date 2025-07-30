@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,62 +13,62 @@
       </trans-unit>
       <trans-unit id="8bfebd32a3304d378cf1219c4b25b1044d9dde34" resname="Cannot unlink the content type from its only remaining group">
         <source>Cannot unlink the content type from its only remaining group</source>
-        <target state="translated">Impossible de délier le type de contenu de son seul groupe restant</target>
+        <target state="translated">Impossible de dissocier le type de contenu de son seul groupe restant</target>
         <note>key: Cannot unlink the content type from its only remaining group</note>
       </trans-unit>
       <trans-unit id="0b525944af0bdcb0dd04bcaa4a027212bffc9738" resname="Current version already has DRAFT status">
         <source>Current version already has DRAFT status</source>
-        <target state="translated">La version actuelle est déjà en statut Brouillon</target>
+        <target state="translated">La version actuelle a déjà le statut BROUILLON</target>
         <note>key: Current version already has DRAFT status</note>
       </trans-unit>
       <trans-unit id="f915c78ee350c1b4fb3d3adac7584a12fcc0cfdf" resname="Only empty content type groups can be deleted">
         <source>Only empty content type groups can be deleted</source>
-        <target state="translated">Seuls les groupes de type de contenu vides peuvent être supprimés</target>
+        <target state="translated">Seuls les groupes de types de contenu vides peuvent être supprimés</target>
         <note>key: Only empty content type groups can be deleted</note>
       </trans-unit>
       <trans-unit id="309f294f925bf5343de6ca4507a303bbc762090f" resname="Only versions with DRAFT status can be published">
         <source>Only versions with DRAFT status can be published</source>
-        <target state="translated">Seules les versions avec le statut DRAFT peuvent être publiées</target>
+        <target state="translated">Seules les versions dont le statut est BROUILLON peuvent être publiées</target>
         <note>key: Only versions with DRAFT status can be published</note>
       </trans-unit>
       <trans-unit id="9698733c46daf6173c56ac6b9cdcb05cef60fbd6" resname="Only versions with DRAFT status can be updated">
         <source>Only versions with DRAFT status can be updated</source>
-        <target state="translated">Seules les versions avec le statut DRAFT peuvent être mises à jour</target>
+        <target state="translated">Seules les versions dont le statut est BROUILLON peuvent être mises à jour</target>
         <note>key: Only versions with DRAFT status can be updated</note>
       </trans-unit>
       <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
         <source>Relation is not of type COMMON</source>
-        <target state="translated">La relation n'est pas de type COMMUN</target>
+        <target state="translated">La relation n’est pas du type COMMUNE</target>
         <note>key: Relation is not of type COMMON</note>
       </trans-unit>
       <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
         <source>Relation of type COMMON can only be added to drafts</source>
-        <target state="translated">La relation de type COMMUN ne peut être ajoutée qu'aux brouillons</target>
+        <target state="translated">La relation de type COMMUNE peut uniquement être ajoutée aux brouillons</target>
         <note>key: Relation of type COMMON can only be added to drafts</note>
       </trans-unit>
       <trans-unit id="388dae35f493b4e06e6458455f4837b1691fd72b" resname="Relation of type COMMON can only be removed from drafts">
         <source>Relation of type COMMON can only be removed from drafts</source>
-        <target state="translated">Une relation de type COMMUN peut être uniquement supprimée des Brouillons</target>
+        <target state="translated">La relation de type COMMUNE peut uniquement être supprimée des brouillons</target>
         <note>key: Relation of type COMMON can only be removed from drafts</note>
       </trans-unit>
       <trans-unit id="fe5e61a2dbe9daf82bf81a65e725bc070e17cc03" resname="Relation of type COMMON to the selected destination content ID already exists">
         <source>Relation of type COMMON to the selected destination content ID already exists</source>
-        <target state="translated">Une relation de type COMMUN pour l'ID du contenu cible existe déjà</target>
+        <target state="translated">La relation de type COMMUNE vers l’identifiant de contenu de destination sélectionné existe déjà</target>
         <note>key: Relation of type COMMON to the selected destination content ID already exists</note>
       </trans-unit>
       <trans-unit id="7d98c91ecfe4814f6268eb889de59ada9eec6a1d" resname="The content type is already linked to the provided group">
         <source>The content type is already linked to the provided group</source>
-        <target state="translated">Le type de contenu est déjà lié au groupe spécifié</target>
+        <target state="translated">Le type de contenu est déjà associé au groupe indiqué</target>
         <note>key: The content type is already linked to the provided group</note>
       </trans-unit>
       <trans-unit id="d71c63955373cbd73161528026feb878e5e042b8" resname="Translation can be deleted from a DRAFT version only">
         <source>Translation can be deleted from a DRAFT version only</source>
-        <target state="translated">La traduction peut être supprimée d'une version DRAFT seulement</target>
+        <target state="translated">La traduction peut uniquement être supprimée dans une version BROUILLON</target>
         <note>key: Translation can be deleted from a DRAFT version only</note>
       </trans-unit>
       <trans-unit id="28a8101ba74e406141eefc3a89ce0d743659707d" resname="Versions with PUBLISHED status cannot be deleted">
         <source>Versions with PUBLISHED status cannot be deleted</source>
-        <target state="translated">Les versions avec le statut PUBLIÉ ne peuvent pas être supprimées</target>
+        <target state="translated">Les versions dont le statut est PUBLIÉE ne peuvent pas être supprimées</target>
         <note>key: Versions with PUBLISHED status cannot be deleted</note>
       </trans-unit>
       <trans-unit id="9307ee9a550b5c318fbbd6f5750e95d1de1d3483" resname="non_verbose_error">

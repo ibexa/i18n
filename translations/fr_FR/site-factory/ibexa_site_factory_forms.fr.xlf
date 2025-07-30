@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="5384febd277cb70ffb9508085940615c8cf0b0cc" resname="copy_site_skeleton.label">
         <source>Generate site using site skeleton</source>
-        <target state="translated">Générer un site en utilisant le squelette du site</target>
+        <target state="translated">Générer un site à l’aide d’un squelette de site</target>
         <note>key: copy_site_skeleton.label</note>
       </trans-unit>
       <trans-unit id="813c0825c4190d08e42a9dd2171d804f2ad012b7" resname="languages.label">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="22051bfb289327b100e12541f7284b0600f14593" resname="matcher_configuration.label">
         <source>Site Access Matching</source>
-        <target state="translated">Correspondance de Site Access</target>
+        <target state="translated">Mise en correspondance de l’accès au site</target>
         <note>key: matcher_configuration.label</note>
       </trans-unit>
       <trans-unit id="8913bb9ab32e82b7dace33343f506f1fea38193d" resname="name.label">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="4f64932a8e6184e5ca765574a331828a77bd38e5" resname="object_state.update.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Enregistrer</target>
         <note>key: object_state.update.save</note>
       </trans-unit>
       <trans-unit id="8b0cdd1fff0afd68d0716c1d8dc122a13b5f2e58" resname="object_state.update.save_and_close">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Enregistrer et fermer</target>
         <note>key: object_state.update.save_and_close</note>
       </trans-unit>
       <trans-unit id="a9bfc35dc8d3c037bc4268ec0ce4dc548c832790" resname="parent_location.label">

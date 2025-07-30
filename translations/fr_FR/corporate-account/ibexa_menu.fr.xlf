@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="bcad7589606d679428f715ddf8fa972c9cdefca7" resname="corporate_content_create__sidebar_right__cancel">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Abandonner</target>
         <note>key: corporate_content_create__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="e3e92c9d3febe7debf3a1407c99c2c6a44b4f23d" resname="corporate_content_create__sidebar_right__publish">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Enregistrer et fermer</target>
         <note>key: corporate_content_create__sidebar_right__publish</note>
       </trans-unit>
       <trans-unit id="1380c17c3ddcb6d709f80be46f1b5208e062a0cf" resname="corporate_content_edit__sidebar_right__cancel">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Abandonner</target>
         <note>key: corporate_content_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="7addc65c8a0c3930aab3f088432f6e00a9ae97bd" resname="corporate_content_edit__sidebar_right__publish">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Enregistrer et fermer</target>
         <note>key: corporate_content_edit__sidebar_right__publish</note>
       </trans-unit>
       <trans-unit id="b8e18a121a5a126029e6318b7769b1912fb6980a" resname="customer_portal__account_settings">
         <source>Settings</source>
-        <target state="translated">Réglages</target>
+        <target state="translated">Paramètres</target>
         <note>key: customer_portal__account_settings</note>
       </trans-unit>
       <trans-unit id="797de736e8e87ef43e283efb03f4df7d5d25a00c" resname="customer_portal__account_settings__my_profile">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="0c7336855c87312e5401c4a135e17c27069eb5a0" resname="customer_portal__order_management">
         <source>Order management</source>
-        <target state="translated">Gestion des commandes</target>
+        <target state="translated">Gestion de commandes</target>
         <note>key: customer_portal__order_management</note>
       </trans-unit>
       <trans-unit id="7046d195ad90d74bd72643bcc18dccaeb1a58874" resname="customer_portal__order_management__past_orders">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="1268cef29e1976872a40640cfa1f845bc11c7995" resname="main__content__corporateaccount">
         <source>Corporate</source>
-        <target state="translated">Entreprise</target>
+        <target state="translated">Société</target>
         <note>key: main__content__corporateaccount</note>
       </trans-unit>
       <trans-unit id="f0f9efa7cb6f487bb8a15f6e4b81991e5447c99a" resname="main__corporateaccount">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="cd0b713549681ad5fc76eb22b02c664b017f7528" resname="main__corporateaccount__applications">
         <source>Applications</source>
-        <target state="translated">Applications</target>
+        <target state="translated">Candidatures</target>
         <note>key: main__corporateaccount__applications</note>
       </trans-unit>
       <trans-unit id="de510ce299f61480d5fba13e1f98ecb5b309f22d" resname="main__corporateaccount__companies">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="0c9c4cf942519a7fd59d5a23cf6b753064297ae1" resname="main__corporateaccount__settings">
         <source>Settings</source>
-        <target state="translated">Réglages</target>
+        <target state="translated">Paramètres</target>
         <note>key: main__corporateaccount__settings</note>
       </trans-unit>
     </body>

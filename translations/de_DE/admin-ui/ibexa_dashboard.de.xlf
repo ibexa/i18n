@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,32 +13,32 @@
       </trans-unit>
       <trans-unit id="b9b7f78038b71a27e7b4c2d2978a3946bb48c90b" resname="dashboard.create">
         <source>Create content</source>
-        <target state="translated">Erstellen</target>
+        <target state="translated">Inhalt erstellen</target>
         <note>key: dashboard.create</note>
       </trans-unit>
       <trans-unit id="8f2d000c044a9f04c457499e57f6fbbb8360e23f" resname="dashboard.tab.all_content.empty">
         <source>No content. Content items you create will show up here</source>
-        <target state="translated">Kein Inhalt. Inhaltselemente, die Sie erstellen, werden hier angezeigt</target>
+        <target state="translated">Kein Inhalt Die von Ihnen erstellten Inhaltselemente werden hier angezeigt</target>
         <note>key: dashboard.tab.all_content.empty</note>
       </trans-unit>
       <trans-unit id="50e7fa5609748dabc694245d5a54a77e9d5c7c1f" resname="dashboard.tab.all_media.empty">
         <source>No content. Media you create will show up here</source>
-        <target state="translated">Kein Inhalt. Die von Ihnen erstellten Medien werden hier angezeigt</target>
+        <target state="translated">Kein Inhalt Die von Ihnen erstellten Medien werden hier angezeigt.</target>
         <note>key: dashboard.tab.all_media.empty</note>
       </trans-unit>
       <trans-unit id="9c6f10545440752bc7bc2e8142cbea5d265403cd" resname="dashboard.tab.my_content.empty">
         <source>No content. Content items you create will show up here</source>
-        <target state="translated">Kein Inhalt. Inhaltselemente, die Sie erstellen, werden hier angezeigt</target>
+        <target state="translated">Kein Inhalt Die von Ihnen erstellten Inhaltselemente werden hier angezeigt</target>
         <note>key: dashboard.tab.my_content.empty</note>
       </trans-unit>
       <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
         <source>You have no drafts yet. Your drafts will show up here.</source>
-        <target state="translated">Sie haben noch keine Entwürfe. Ihre Entwürfe werden hier erscheinen.</target>
+        <target state="translated">Sie haben noch keine Entwürfe. Ihre Entwürfe werden hier angezeigt.</target>
         <note>key: dashboard.tab.my_drafts.empty</note>
       </trans-unit>
       <trans-unit id="9ef83b3497fae569ba56b6a8ab96004f359ae918" resname="dashboard.tab.my_media.empty">
         <source>No content. Media you create will show up here</source>
-        <target state="translated">Kein Inhalt. Die von Ihnen erstellten Medien werden hier angezeigt</target>
+        <target state="translated">Kein Inhalt Die von Ihnen erstellten Medien werden hier angezeigt.</target>
         <note>key: dashboard.tab.my_media.empty</note>
       </trans-unit>
       <trans-unit id="749d4759e304735bcec6ef6ec10af43e70f1f289" resname="dashboard.table.all.content.edit">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="e7790665f417ad7d9479f8b7c0920d212e4e24f6" resname="dashboard.table.contributor.not_found">
         <source>Can't fetch contributor</source>
-        <target state="translated">Beitragender kann nicht abgerufen werden</target>
+        <target state="translated">Es kann kein Beitragender abgerufen werden</target>
         <note>key: dashboard.table.contributor.not_found</note>
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="translated">Sie haben nicht die Berechtigung '%function%' '%module%' für die Inhalts-ID: %contentId%</target>
+        <target state="translated">Sie haben keine Berechtigungen für „%function%“ „%module%“ der Inhalts-ID: %contentId%</target>
         <note>key: dashboard.table.draft.unauthorized</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="a49a78f944bf1f73f3f7ff9672463bb1abd4a402" resname="everyone">
         <source>Common content</source>
-        <target state="translated">Allgemeiner Inhalt</target>
+        <target state="translated">Gemeinsamer Inhalt</target>
         <note>key: everyone</note>
       </trans-unit>
       <trans-unit id="b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8" resname="me">

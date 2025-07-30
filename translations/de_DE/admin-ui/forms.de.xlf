@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="c5edf119facebac72a105963da8db6be47549180" resname="content_location_add_type.add">
         <source>Add Location</source>
-        <target state="translated">Ort hinzufügen</target>
+        <target state="translated">Standort hinzufügen</target>
         <note>key: content_location_add_type.add</note>
       </trans-unit>
       <trans-unit id="9e3c743fb052b12d69896a30ee9a6e1bb0c41427" resname="content_location_remove_form.remove">
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="2c32d3b89f20704d8a78092c617310a52b22008c" resname="content_type.copy.copy">
         <source>Create</source>
-        <target state="translated">Anlegen</target>
+        <target state="translated">Erstellen</target>
         <note>key: content_type.copy.copy</note>
       </trans-unit>
       <trans-unit id="4c29e9392116163c51f0e3d4d0c08ff96717f695" resname="content_type_groups_delete_form.delete">
         <source>Delete content type groups</source>
-        <target state="translated">Inhaltstypgruppen löschen</target>
+        <target state="translated">Inhaltstyp-Gruppen löschen</target>
         <note>key: content_type_groups_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="5f7545e2c370cd0511521d95d0309d264b5d16e5" resname="content_types_delete_form.delete">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
         <source>%fieldName% cannot be empty</source>
-        <target state="translated">%fieldName% darf nicht leer sein</target>
+        <target state="translated">%fieldName% kann nicht leer sein.</target>
         <note>key: error.required.field</note>
       </trans-unit>
       <trans-unit id="6090b5d2c17e00053a576ede5c82afba67f0cc49" resname="error.required.field_not_blank">
         <source>This value should not be blank</source>
-        <target state="translated">Dieses Feld darf nicht leer sein</target>
+        <target state="translated">Dieser Wert sollte nicht leer sein.</target>
         <note>key: error.required.field_not_blank</note>
       </trans-unit>
       <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="74b72ba5150cd449b231ca3441626aa46bd4622f" resname="ezplatform.language.create.language_code">
         <source>Language code</source>
-        <target state="translated">Sprachen-Code</target>
+        <target state="translated">Sprachcode</target>
         <note>key: ezplatform.language.create.language_code</note>
       </trans-unit>
       <trans-unit id="7e920869e5863044fa54ffb855890d4e53f42c6b" resname="ezplatform.language.create.name">
@@ -93,22 +93,22 @@
       </trans-unit>
       <trans-unit id="1a2cc7b7518a1267208aafa8aa96d1dba950eeb1" resname="form.has_children.label">
         <source>Sub-items</source>
-        <target state="translated">Unterelemente</target>
+        <target state="translated">Abhängige Elemente</target>
         <note>key: form.has_children.label</note>
       </trans-unit>
       <trans-unit id="80d979ff2734a875fcd38a2178e4d28c8bf0afb5" resname="form.has_reverse_relation.label">
         <source>Conflict with reverse Relations</source>
-        <target state="translated">Konflikt mit umgekehrten Beziehungen</target>
+        <target state="translated">Konflikt mit umgekehrten Beziehungen.</target>
         <note>key: form.has_reverse_relation.label</note>
       </trans-unit>
       <trans-unit id="4a2eb58572364b0fa04e67a800e0fbb09df205be" resname="form.trash_assets.label">
         <source>Asset Fields(s)</source>
-        <target state="translated">Asset-Felder(n)</target>
+        <target state="translated">Asset-Feld(er)</target>
         <note>key: form.trash_assets.label</note>
       </trans-unit>
       <trans-unit id="6bc8ac1fbf981deec94bd4a2b8aa877d60eee651" resname="form.trash_assets_non_unique.label">
         <source>Asset Fields(s)</source>
-        <target state="translated">Asset-Felder(n)</target>
+        <target state="translated">Asset-Feld(er)</target>
         <note>key: form.trash_assets_non_unique.label</note>
       </trans-unit>
       <trans-unit id="32094a2bed643086c29c124312938f6eee9240c8" resname="language.create.save">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="2598fe0050f38f3c02014a404ed14aee248e27d1" resname="location_trash_form.trash_with_asset">
         <source>Send the Content item and its related assets to trash</source>
-        <target state="translated">Verschieben Sie das Inhaltselement und die verknüpften Elemente in den Papierkorb</target>
+        <target state="translated">Das Inhaltselement und die zugehörigen Assets in den Papierkorb verschieben</target>
         <note>key: location_trash_form.trash_with_asset</note>
       </trans-unit>
       <trans-unit id="f86cd366867d370b0706e250355f605e2b783229" resname="policies_delete_form.delete">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
         <source>Choose a Policy</source>
-        <target state="translated">Wählen Sie eine Richtlinie</target>
+        <target state="translated">Wählen Sie eine Richtlinie aus</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
       <trans-unit id="f11a379ba38d1a4e5fb7de3bc3a2fb76b72fe9dd" resname="role_assignment.delete">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="6c0384498e37f0a821ff9155da7b6c2cb94d0a95" resname="role_copy.copy">
         <source>Copy</source>
-        <target state="translated">Kopie</target>
+        <target state="translated">Kopieren</target>
         <note>key: role_copy.copy</note>
       </trans-unit>
       <trans-unit id="ff0696ea021d81a9898e8c7f19f41e092cb5bb42" resname="role_copy.name">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="54b875a849e645c86904a2c3663c02b2aab86bb4" resname="section_form.identifier">
         <source>Identifier</source>
-        <target state="translated">Bezeichner</target>
+        <target state="translated">Kennung</target>
         <note>key: section_form.identifier</note>
       </trans-unit>
       <trans-unit id="a8e6cb63af5cccaf0b468435ce04fd304aa77e5c" resname="section_form.name">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="1076fdadc49ac9198c278970f355457c26075975" resname="sections_delete_form.delete">
         <source>Delete Sections</source>
-        <target state="translated">Abschnitte löschen</target>
+        <target state="translated">Sektionen löschen</target>
         <note>key: sections_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="4d530164d6f917754a1625bae48c2a323197ac7a" resname="user.invitation.submit">
         <source>Send</source>
-        <target state="translated">Absenden</target>
+        <target state="translated">Senden</target>
         <note>key: user.invitation.submit</note>
       </trans-unit>
       <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete">

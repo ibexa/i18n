@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,32 +18,32 @@
       </trans-unit>
       <trans-unit id="8a848dd69c514b773958b84bc5973ce638a8c0c3" resname="edit_site">
         <source>Site "%name%"</source>
-        <target state="translated">Site "%name%"</target>
+        <target state="translated">Site « %name% »</target>
         <note>key: edit_site</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing</source>
-        <target state="translated">En cours d'édition</target>
+        <target state="translated">Modification</target>
         <note>key: editing</note>
       </trans-unit>
       <trans-unit id="7d04ae342a68cc290cd9ac77424c3e7863fcfcc2" resname="header.create.unavailable">
         <source>There is a design configuration error and you will not be able to create a new site. Please update the configuration.</source>
-        <target state="translated">Il y a une erreur de configuration et vous ne serez pas en mesure de créer un nouveau site. Veuillez mettre à jour la configuration.</target>
+        <target state="translated">Une erreur de configuration d’esthétique est survenue. Vous ne pourrez pas créer un nouveau site. Veuillez mettre la configuration à jour.</target>
         <note>key: header.create.unavailable</note>
       </trans-unit>
       <trans-unit id="f60b504e4b5465ca8ef5322de7068f70a5f633b7" resname="header.grid_view">
         <source>Grid view</source>
-        <target state="translated">Vue grille</target>
+        <target state="translated">Affichage en grille</target>
         <note>key: header.grid_view</note>
       </trans-unit>
       <trans-unit id="fec12680d0d0abaf9fd42b13e090ae0529a02018" resname="header.list_view">
         <source>List view</source>
-        <target state="translated">Vue liste</target>
+        <target state="translated">Affichage en liste</target>
         <note>key: header.list_view</note>
       </trans-unit>
       <trans-unit id="12f7c467aa956e11af390f81d26d0f7f44c3649a" resname="new_site_title">
         <source>Creating New Site</source>
-        <target state="translated">Créer un nouveau site</target>
+        <target state="translated">Création d’un nouveau site</target>
         <note>key: new_site_title</note>
       </trans-unit>
       <trans-unit id="6fa93ef4dfbce97076a254427bb30bf7c5819c5d" resname="search.perform">
@@ -83,27 +83,27 @@
       </trans-unit>
       <trans-unit id="a9fb803a701f3226aff42f2d5ad2b87c4a5fbac3" resname="site.create.success">
         <source>Site '%name%' has been created.</source>
-        <target state="translated">Le site «%name%» a été créé.</target>
+        <target state="translated">Le site « %name% » a été créé.</target>
         <note>key: site.create.success</note>
       </trans-unit>
       <trans-unit id="d0276207f7c538aa63b6aa105be2fc682ed8ec60" resname="site.delete.success">
         <source>Site '%name%' removed.</source>
-        <target state="translated">Le site «%name%» a été supprimé.</target>
+        <target state="translated">Site « %name% » supprimé.</target>
         <note>key: site.delete.success</note>
       </trans-unit>
       <trans-unit id="aef7dfbda52feec2df0703dc800138796d3b7bfd" resname="site.factory.page.status.building">
         <source>Building...</source>
-        <target state="translated">En cours de construction...</target>
+        <target state="translated">Création...</target>
         <note>key: site.factory.page.status.building</note>
       </trans-unit>
       <trans-unit id="8dd7282e7f7ac897ae11ca7e0ed006c937d60149" resname="site.factory.page.status.offline">
         <source>Offline</source>
-        <target state="translated">Hors-ligne</target>
+        <target state="translated">Hors ligne</target>
         <note>key: site.factory.page.status.offline</note>
       </trans-unit>
       <trans-unit id="60211b86dfdc3a4ab0baf7d3041a55c11d8e3595" resname="site.factory.page.status.online">
         <source>Live</source>
-        <target state="translated">En ligne</target>
+        <target state="translated">En direct</target>
         <note>key: site.factory.page.status.online</note>
       </trans-unit>
       <trans-unit id="81bd5dd3c979d2e3105c77611ce12b16882c4c19" resname="site.label.actions">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="d578e1f85cbd8df68aebb09e488a60d2869f467e" resname="site.label.created">
         <source>Created date</source>
-        <target state="translated">Date de création</target>
+        <target state="translated">Date créée</target>
         <note>key: site.label.created</note>
       </trans-unit>
       <trans-unit id="b1d61ef9df17aed58ac638a002b77ae0339315bc" resname="site.label.domains">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="cf96c20090b52044fbadd8f5c5bfd54e7f028340" resname="site.list.cannot_delete_notice">
         <source>You cannot delete active sites.</source>
-        <target state="translated">Vous ne pouvez pas supprimer les sites actifs.</target>
+        <target state="translated">Vous ne pouvez pas supprimer des sites actifs.</target>
         <note>key: site.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="89d0c7b6270f68d1a44de718c59a3d8b63b9cd5f" resname="site.list.create">
@@ -168,22 +168,22 @@
       </trans-unit>
       <trans-unit id="8b94081bbe2854988afb5e47ea8362219f08942e" resname="site.modal.delete.message">
         <source>Are you sure you want to delete this site and all the related elements?</source>
-        <target state="translated">Êtes-vous sûr de vouloir supprimer ce site ainsi que tous ses contenus liés ?</target>
+        <target state="translated">Voulez-vous vraiment supprimer ce site et tous les éléments associés ?</target>
         <note>key: site.modal.delete.message</note>
       </trans-unit>
       <trans-unit id="fd695d5f1aa4bd7efd0ac256a6cfe7b2de8618f9" resname="site.modal.message">
         <source>Do you want to delete the Site(s)?</source>
-        <target state="translated">Voulez-vous supprimer le(s) site(s) ?</target>
+        <target state="translated">Voulez-vous supprimer le ou les sites ?</target>
         <note>key: site.modal.message</note>
       </trans-unit>
       <trans-unit id="5369420ba17d5d62a4ebebfade4873d2b82cf591" resname="site.update.success">
         <source>Site '%name%' has been updated.</source>
-        <target state="translated">Le site %name% a été mis à jour.</target>
+        <target state="translated">Le site « %name% » a été mis à jour.</target>
         <note>key: site.update.success</note>
       </trans-unit>
       <trans-unit id="224958e1c5cbe332ebc239e5083a14036407323d" resname="site.view.add_domains">
         <source>Add domains</source>
-        <target state="translated">Ajouter un domaine</target>
+        <target state="translated">Ajouter des domaines</target>
         <note>key: site.view.add_domains</note>
       </trans-unit>
       <trans-unit id="e9480475bf75134fde3504b523de2f8e2971f9d7" resname="site.view.add_new_domain">
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="fb67639d775ccef0abfcb2033c503519e40cf113" resname="site.view.create.access.label">
         <source>Domain name</source>
-        <target state="translated">Nom de domaine</target>
+        <target state="translated">Nom du domaine</target>
         <note>key: site.view.create.access.label</note>
       </trans-unit>
       <trans-unit id="54c847d70c86d68aa2a4c739cc3380d5082ceb15" resname="site.view.create.global_properties">
@@ -218,12 +218,12 @@
       </trans-unit>
       <trans-unit id="d65595de6f19312712dcec874774aed93c745ce8" resname="site.view.edit.choose_language">
         <source>Choose language</source>
-        <target state="translated">Choisir la langue</target>
+        <target state="translated">Choisir une langue</target>
         <note>key: site.view.edit.choose_language</note>
       </trans-unit>
       <trans-unit id="d350120908ef264419df59262d47c9e8c1fbdf6e" resname="site.view.global_properties.design">
         <source>Design</source>
-        <target state="translated">Mise en page</target>
+        <target state="translated">Esthétique</target>
         <note>key: site.view.global_properties.design</note>
       </trans-unit>
       <trans-unit id="ad4fb4d341141b546c9260a6d3599283110d6b2f" resname="site.view.global_properties.name">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="29a25045cc2d91fa13ec36cff92985570ae4ba43" resname="site.view_switcher.view">
         <source>View</source>
-        <target state="translated">Affichage</target>
+        <target state="translated">Vue</target>
         <note>key: site.view_switcher.view</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -33,17 +33,17 @@
       </trans-unit>
       <trans-unit id="ec631464149c44e065eb4dd410ae90fd0a85b2f5" resname="personalization.page_builder.block.last_purchased">
         <source>Last purchased</source>
-        <target state="translated">Dernier achat</target>
+        <target state="translated">Dernier article acheté</target>
         <note>key: personalization.page_builder.block.last_purchased</note>
       </trans-unit>
       <trans-unit id="fc7788d8f536e9122554dddda77150a10c689522" resname="personalization.page_builder.block.last_viewed">
         <source>Last viewed</source>
-        <target state="translated">Dernière vue</target>
+        <target state="translated">Dernier article vu</target>
         <note>key: personalization.page_builder.block.last_viewed</note>
       </trans-unit>
       <trans-unit id="7ff992a7de5317311f4c72471510fec74add2557" resname="personalization.page_builder.block.recently_added">
         <source>Recently added</source>
-        <target state="translated">Récemment ajouté</target>
+        <target state="translated">Ajouté récemment</target>
         <note>key: personalization.page_builder.block.recently_added</note>
       </trans-unit>
     </body>

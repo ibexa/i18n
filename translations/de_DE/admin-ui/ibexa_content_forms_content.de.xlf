@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,17 +13,17 @@
       </trans-unit>
       <trans-unit id="29eeb1b93f4861921c61a7945e2391277f8f51cb" resname="content.field_type.ezimage.dimensions.height">
         <source>H:%height% px</source>
-        <target state="translated">Höhe: %height% px</target>
+        <target state="translated">H:%height% px</target>
         <note>key: content.field_type.ezimage.dimensions.height</note>
       </trans-unit>
       <trans-unit id="f7b5c9f8a50ded940700a03352cf0e485ea60c76" resname="content.field_type.ezimage.dimensions.label">
         <source>Master dimension</source>
-        <target state="translated">Original Maße</target>
+        <target state="translated">Stammabmessung</target>
         <note>key: content.field_type.ezimage.dimensions.label</note>
       </trans-unit>
       <trans-unit id="6c094e8d763a88aa509c3cbbede52fa7c3845d1e" resname="content.field_type.ezimage.dimensions.width">
         <source>W:%width% px</source>
-        <target state="translated">Breite: %width% px</target>
+        <target state="translated">B:%width% px</target>
         <note>key: content.field_type.ezimage.dimensions.width</note>
       </trans-unit>
       <trans-unit id="5b2917ba4fda1ac4fb73307200d9928f736d98fc" resname="content.field_type.ezimage.file_name.label">
@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="031874e861b36e8a866f00fad21ab9b123bfeac0" resname="content.field_type.ezimage.file_size.label">
         <source>Size</source>
-        <target state="translated">Dateigröße</target>
+        <target state="translated">Größe</target>
         <note>key: content.field_type.ezimage.file_size.label</note>
       </trans-unit>
       <trans-unit id="9cadbe380acedd355a84784a1c98cc7aca8897c6" resname="content.field_type.ezimage.img_alt">
         <source>Image stored in Field '%label%'</source>
-        <target state="translated">Bild im Feld '%label% ' gespeichert</target>
+        <target state="translated">Das Bild wurde im Feld „%label%“ gespeichert.</target>
         <note>key: content.field_type.ezimage.img_alt</note>
       </trans-unit>
       <trans-unit id="c8a4bdb275beb9d4f81c8d89ae3241d23205e059" resname="content.field_type.ezimage.preview">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="03ebd0d1e50c8323be782f1095d9d4d7f9edffa4" resname="content.field_type.ezimageasset.img_alt">
         <source>Image stored in Field '%label%'</source>
-        <target state="translated">Bild im Feld '%label%' gespeichert</target>
+        <target state="translated">Das Bild wurde im Feld „%label%“ gespeichert.</target>
         <note>key: content.field_type.ezimageasset.img_alt</note>
       </trans-unit>
       <trans-unit id="bdf413a5b83f6299a56d72a472afd24ab790bab1" resname="content.field_type.ezmedia.delete">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="4bf6f1e57e56347d3f67817a1821e34e8e10223f" resname="content.field_type.ezmedia.file_size.label">
         <source>Size</source>
-        <target state="translated">Dateigröße</target>
+        <target state="translated">Größe</target>
         <note>key: content.field_type.ezmedia.file_size.label</note>
       </trans-unit>
       <trans-unit id="093c498e82bd382a4732e4bb8356c7d88b671f25" resname="content.field_type.ezmedia.player_settings">
         <source>Player settings</source>
-        <target state="translated">Player Einstellungen</target>
+        <target state="translated">Player-Einstellungen</target>
         <note>key: content.field_type.ezmedia.player_settings</note>
       </trans-unit>
       <trans-unit id="c15c1fb87393dc433715e52ccded62d91f8743a2" resname="ezbinaryfile.action.download">
@@ -98,27 +98,27 @@
       </trans-unit>
       <trans-unit id="6d325718c51e875c68421267b3327d4293e2377c" resname="ezbinaryfile.file_size.label">
         <source>Size</source>
-        <target state="translated">Dateigröße</target>
+        <target state="translated">Größe</target>
         <note>key: ezbinaryfile.file_size.label</note>
       </trans-unit>
       <trans-unit id="7c04ee07097d51038bc2f39c8d21a29d7088eb73" resname="ezgmaplocation.input.placeholder">
         <source>Search address</source>
-        <target state="translated">Adresse</target>
+        <target state="translated">Adresse suchen</target>
         <note>key: ezgmaplocation.input.placeholder</note>
       </trans-unit>
       <trans-unit id="1f1e64c4f617827d9668a0b463990d86abb94202" resname="ezgmaplocation.text.info">
         <source>or enter geographical coordinates</source>
-        <target state="translated">oder geographische Koordinaten eingeben</target>
+        <target state="translated">oder geografische Koordinaten eingeben.</target>
         <note>key: ezgmaplocation.text.info</note>
       </trans-unit>
       <trans-unit id="8743253091e5a5798966bae8d2dc65682bffa0de" resname="ezobjectrelation.helper">
         <source>Stores a Relation to a Content item.</source>
-        <target state="translated">Speichert eine Beziehung zu einem Content-Element.</target>
+        <target state="translated">Speichert eine Beziehung zu einem Inhaltselement.</target>
         <note>key: ezobjectrelation.helper</note>
       </trans-unit>
       <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
         <source>Select Item</source>
-        <target state="translated">Wählen Sie ein Element</target>
+        <target state="translated">Element auswählen</target>
         <note>key: ezobjectrelationlist.cta.select</note>
       </trans-unit>
       <trans-unit id="85874e8811087f9c2169915345cdf71d5243182e" resname="ezobjectrelationlist.delete_selected_relations">
@@ -148,12 +148,12 @@
       </trans-unit>
       <trans-unit id="0254a0c716b5d598484130bb3431d278a7be11d8" resname="ezobjectrelationlist.table.row.order">
         <source>Order</source>
-        <target state="translated">Sortierung</target>
+        <target state="translated">Bestellung</target>
         <note>key: ezobjectrelationlist.table.row.order</note>
       </trans-unit>
       <trans-unit id="1a3bc0622c5d839ed1a8ef9f32bd5dd9e5cfb479" resname="fieldtype.binary_base.drag_drop">
         <source>Drag and drop file</source>
-        <target state="translated">Ziehen Sie Ihre Dateien in das Browserfenster oder wählen Sie sie aus</target>
+        <target state="translated">Datei ziehen und ablegen.</target>
         <note>key: fieldtype.binary_base.drag_drop</note>
       </trans-unit>
       <trans-unit id="02ce19b8a1c8ed94bade2e4fcff441b8226b90c0" resname="fieldtype.binary_base.drag_drop.or">
@@ -183,12 +183,12 @@
       </trans-unit>
       <trans-unit id="dcf8a820f28bd6b955d76c6d3b95a2661d2b7540" resname="fieldtype.ezimageasset.select.label">
         <source>Select from library</source>
-        <target state="translated">Aus Mediathek wählen</target>
+        <target state="translated">Aus Bibliothek auswählen</target>
         <note>key: fieldtype.ezimageasset.select.label</note>
       </trans-unit>
       <trans-unit id="349f28b1b2e3f9c6ac1a0d2cb881f1647419e955" resname="fieldtype.imageasset.drag_drop">
         <source><![CDATA[Drag and drop image here or <br /><button class="ibexa-data-source__btn-add">Browse</button> to choose a file]]></source>
-        <target state="translated"><![CDATA[Ziehen Sie Ihre Dateien in das Browserfenster oder <br /><button class="ibexa-data-source__btn-add">Durchsuchen</button> um eine Datei auszuwählen]]></target>
+        <target state="translated"><![CDATA[Bild hierherziehen und ablegen oder zum Auswählen einer Datei auf <br /><button class="ibexa-data-source__btn-add">Durchsuchen</button> klicken.]]></target>
         <note>key: fieldtype.imageasset.drag_drop</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="4469ef580653e092258a59f262e526230903fd7a" resname="airtime_popup.discard.btn">
         <source>Cancel</source>
-        <target state="needs-translation">Cancel</target>
+        <target state="translated">Abbrechen</target>
         <note>key: airtime_popup.discard.btn</note>
       </trans-unit>
       <trans-unit id="ab252a2b69fb6f158ae38d8eb8c0d3e9d9a1635a" resname="airtime_popup.submit.btn">
@@ -18,57 +18,57 @@
       </trans-unit>
       <trans-unit id="9717fa924c93123aa1f57b01a3e231670d690052" resname="airtime_popup.title">
         <source>Content airtime settings</source>
-        <target state="translated">Content airtime Einstellungen</target>
+        <target state="translated">Einstellungen der Publikationszeit für Inhalte</target>
         <note>key: airtime_popup.title</note>
       </trans-unit>
       <trans-unit id="02e961b3df3878793a33a6ed347a20567ef1a12f" resname="block.cannot_update">
         <source>Cannot update blocks preview</source>
-        <target state="needs-translation">Cannot update blocks preview</target>
+        <target state="translated">Vorschau der Blöcke kann nicht aktualisiert werden</target>
         <note>key: block.cannot_update</note>
       </trans-unit>
       <trans-unit id="e61d69c5b35faa8c43084885c01641cd96683877" resname="block.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>key: block.delete</note>
       </trans-unit>
       <trans-unit id="004c6e30a0aae148a9a83a6b9ed16b9d90f41de6" resname="block.duplicate">
         <source>Duplicate</source>
-        <target state="needs-translation">Duplicate</target>
+        <target state="translated">Duplizieren</target>
         <note>key: block.duplicate</note>
       </trans-unit>
       <trans-unit id="3401bb1dcfef98108a504e912e0b3fcf621d9411" resname="block.move.down">
         <source>Move down block</source>
-        <target state="needs-translation">Move down block</target>
+        <target state="translated">Block nach unten verschieben</target>
         <note>key: block.move.down</note>
       </trans-unit>
       <trans-unit id="6a6fbc64b9487be9c68fb11031141e934aea579a" resname="block.move.up">
         <source>Move up block</source>
-        <target state="needs-translation">Move up block</target>
+        <target state="translated">Block nach oben verschieben</target>
         <note>key: block.move.up</note>
       </trans-unit>
       <trans-unit id="b264e5fe26bc4d10d5ca3becf3ab73542f738925" resname="block.no_availability">
         <source>One or more blocks is not available in this page</source>
-        <target state="needs-translation">One or more blocks is not available in this page</target>
+        <target state="translated">Mindestens ein Block ist auf dieser Seite nicht verfügbar</target>
         <note>key: block.no_availability</note>
       </trans-unit>
       <trans-unit id="c2bafa11a7a79aa55273eda0981c33424c1d12d4" resname="block.no_availability.content">
         <source>You have to delete it to publish</source>
-        <target state="needs-translation">You have to delete it to publish</target>
+        <target state="translated">Sie müssen diese Blöcke löschen, um die Seite zu veröffentlichen</target>
         <note>key: block.no_availability.content</note>
       </trans-unit>
       <trans-unit id="9a04c1252a90155788d459f44b624d895993a151" resname="block.no_availability.delete">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>key: block.no_availability.delete</note>
       </trans-unit>
       <trans-unit id="0158828df9fbd639bd687854ed04a7df932fb90d" resname="block.no_availability.title">
         <source>This element is not available in this page</source>
-        <target state="needs-translation">This element is not available in this page</target>
+        <target state="translated">Dieses Element ist auf dieser Seite nicht verfügbar</target>
         <note>key: block.no_availability.title</note>
       </trans-unit>
       <trans-unit id="40932eb015c698a95f55867405525edf2df592de" resname="block.refresh">
         <source>Refresh</source>
-        <target state="needs-translation">Refresh</target>
+        <target state="translated">Aktualisieren</target>
         <note>key: block.refresh</note>
       </trans-unit>
       <trans-unit id="2a2fe3def10e04d741369aa5ddf4d4ea00680ca6" resname="block.settings">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="27557cc8101e53aa465cdb6d32850673a348e953" resname="block_filter.placeholder">
         <source>Search...</source>
-        <target state="needs-translation">Search...</target>
+        <target state="translated">Suche ...</target>
         <note>key: block_filter.placeholder</note>
       </trans-unit>
       <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title">
         <source>Browse content</source>
-        <target state="translated">Inhalte durchsuchen</target>
+        <target state="translated">Inhalt durchsuchen</target>
         <note>key: config_form.block_config.embed_field_base.udw.title</note>
       </trans-unit>
       <trans-unit id="1cea3c1fab7233ec7948b0aa22fb3e45643b7a9a" resname="config_form.widgets.collection.udw.title">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="0b4c883fbcdbb12f3612d374db26c3303757640a" resname="config_form.widgets.schedule.udw.title">
         <source>Select content</source>
-        <target state="translated">Content auswählen</target>
+        <target state="translated">Inhalt auswählen</target>
         <note>key: config_form.widgets.schedule.udw.title</note>
       </trans-unit>
       <trans-unit id="5a88a93c8b1cd819dc183fcd3b252b24acbe487b" resname="config_popup.close.label">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
         <source>Creating %content_type_name%</source>
-        <target state="needs-translation">Creating %content_type_name%</target>
+        <target state="translated">%content_type_name% wird erstellt</target>
         <note>key: creating</note>
       </trans-unit>
       <trans-unit id="195a806c1a0668adbea700cd92ec432cd9e08854" resname="date_picker.label">
@@ -113,57 +113,57 @@
       </trans-unit>
       <trans-unit id="35d2114d55123561f0f625894fb5ef3807d4e3e3" resname="drag.drop.blocks.here">
         <source>Drag and drop blocks here</source>
-        <target state="needs-translation">Drag and drop blocks here</target>
+        <target state="translated">Blöcke per Drag-and-Drop hierher ziehen und ablegen</target>
         <note>key: drag.drop.blocks.here</note>
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing %content_type_name%</source>
-        <target state="needs-translation">Editing %content_type_name%</target>
+        <target state="translated">%content_type_name% wird bearbeitet</target>
         <note>key: editing</note>
       </trans-unit>
       <trans-unit id="36cdc651708919d9a830acb2c742b325fd23aeb5" resname="error.message">
         <source>Something went wrong</source>
-        <target state="translated">Etwas ist schiefgelaufen</target>
+        <target state="translated">Ein Fehler ist aufgetreten</target>
         <note>key: error.message</note>
       </trans-unit>
       <trans-unit id="bae55c4f6b57464225cfd31dbd0394aee5325786" resname="fields_editing_details">
         <source>Location: %location% in %language_name%</source>
-        <target state="needs-translation">Location: %location% in %language_name%</target>
+        <target state="translated">Standort: %location% in %language_name%</target>
         <note>key: fields_editing_details</note>
       </trans-unit>
       <trans-unit id="4a59666b61e8dc389b7390ad051bb8ef705ae1e4" resname="fieldtype.landing_page.missing_proper_configuration.error.message">
         <source>Some blocks are missing configuration</source>
-        <target state="translated">Bei einigen Blöcken fehlt die Konfiguration</target>
+        <target state="translated">Einige Blöcke sind nicht konfiguriert</target>
         <note>key: fieldtype.landing_page.missing_proper_configuration.error.message</note>
       </trans-unit>
       <trans-unit id="39e5be1a5ad879d51619ff58db63c7c727eadfc7" resname="layout_selector.create.select.label">
         <source>Select</source>
-        <target state="needs-translation">Select</target>
+        <target state="translated">Auswählen</target>
         <note>key: layout_selector.create.select.label</note>
       </trans-unit>
       <trans-unit id="f4f449bcfb82f0fdd95ad75a37dc4b41edfa1d3c" resname="layout_selector.create.subtitle">
         <source>Choose layout</source>
-        <target state="needs-translation">Choose layout</target>
+        <target state="translated">Layout wählen</target>
         <note>key: layout_selector.create.subtitle</note>
       </trans-unit>
       <trans-unit id="cacca78c6c00e60e652f42e41b6c404d76548a59" resname="layout_selector.create.title">
         <source>Select layout</source>
-        <target state="needs-translation">Select layout</target>
+        <target state="translated">Layout auswählen</target>
         <note>key: layout_selector.create.title</note>
       </trans-unit>
       <trans-unit id="e94ad19ea2af271f43328447db78ed70274121df" resname="layout_selector.discard.label">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Verwerfen</target>
         <note>key: layout_selector.discard.label</note>
       </trans-unit>
       <trans-unit id="b64b29a6cd5b945bee2aaa605c1d8984a4a79fd9" resname="layout_selector.error.change_layout">
         <source>Change layout</source>
-        <target state="needs-translation">Change layout</target>
+        <target state="translated">Layout ändern</target>
         <note>key: layout_selector.error.change_layout</note>
       </trans-unit>
       <trans-unit id="c17ec5ea18318c6cd0431c0d009d3d9e18bdfd42" resname="layout_selector.error.label">
         <source>The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</source>
-        <target state="needs-translation">The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</target>
+        <target state="translated">Das Layout dieser Seite ist nicht mehr verfügbar und Sie können sie nicht veröffentlichen. Bitte wählen Sie ein anderes Layout.</target>
         <note>key: layout_selector.error.label</note>
       </trans-unit>
       <trans-unit id="4a825e3c6cecb70c8488d232e887a76396c53022" resname="layout_selector.switch.confirm.label">
@@ -178,37 +178,37 @@
       </trans-unit>
       <trans-unit id="71c903ad87f59b59b56f8275b47d53204d3632b8" resname="layout_selector.warning.message">
         <source>Switching layout saves the current Page draft</source>
-        <target state="translated">Durch das Wechseln des Layouts wird der aktuelle Seitenentwurf gespeichert</target>
+        <target state="translated">Wechseln des Layouts speichert den aktuellen Seitenentwurf</target>
         <note>key: layout_selector.warning.message</note>
       </trans-unit>
       <trans-unit id="df76ed2d59214595b7b9b002dce1f723892dcdf5" resname="notification.no_dropzone">
         <source>This page does not have a designed dropzone area for adding content</source>
-        <target state="needs-translation">This page does not have a designed dropzone area for adding content</target>
+        <target state="translated">Diese Seite hat keinen Ablagebereich zum Hinzufügen von Inhalten</target>
         <note>key: notification.no_dropzone</note>
       </trans-unit>
       <trans-unit id="0b2dafc4e64f7587b08008c137c6861abc8232d2" resname="settings.popup.add_block_info">
         <source>When you add a block by dragging it from Page blocks menu into the drop zone, the block settings panel opens immediately where you can configure all block properties.</source>
-        <target state="needs-translation">When you add a block by dragging it from Page blocks menu into the drop zone, the block settings panel opens immediately where you can configure all block properties.</target>
+        <target state="translated">Wenn Sie einen Block hinzufügen, indem Sie ihn aus dem Menü „Seitenblöcke“ in den Ablagebereich ziehen, öffnet sich unmittelbar das Einstellungsfenster, in dem Sie alle Eigenschaften des Blocks konfigurieren können.</target>
         <note>key: settings.popup.add_block_info</note>
       </trans-unit>
       <trans-unit id="2aacee9e3b82f82bcfea2e7083d42c7d27b5d501" resname="settings.popup.change_settings">
         <source>Change settings</source>
-        <target state="needs-translation">Change settings</target>
+        <target state="translated">Einstellungen ändern</target>
         <note>key: settings.popup.change_settings</note>
       </trans-unit>
       <trans-unit id="daf62054e49ace7a87b59196f7a7b6af2b7dc62d" resname="settings.popup.continue">
         <source>Continue</source>
-        <target state="needs-translation">Continue</target>
+        <target state="translated">Weiter</target>
         <note>key: settings.popup.continue</note>
       </trans-unit>
       <trans-unit id="c137f8e9a3f57ea45f3a310439f6340af6e91150" resname="settings.popup.default_behaviour">
         <source>This is a default behavior which applies to both Page and Dashboard builder. You can globally turn off automatic opening of the block settings panel in the user settings.</source>
-        <target state="needs-translation">This is a default behavior which applies to both Page and Dashboard builder. You can globally turn off automatic opening of the block settings panel in the user settings.</target>
+        <target state="translated">Dies ist ein Standardverhalten, das sowohl für den Seiten- als auch für den Dashboard-Editor gilt. In den Benutzereinstellungen haben Sie die Möglichkeit, das automatische Öffnen des Fensters für die Blockeinstellungen systemweit zu deaktivieren.</target>
         <note>key: settings.popup.default_behaviour</note>
       </trans-unit>
       <trans-unit id="2b8b924ef8398e7ba16486e7646511119ec6f722" resname="settings.popup.title">
         <source>How builder works</source>
-        <target state="needs-translation">How builder works</target>
+        <target state="translated">So funktioniert der Editor</target>
         <note>key: settings.popup.title</note>
       </trans-unit>
       <trans-unit id="3757c8d49f2f414947ad6e44afc53498b4474d55" resname="sidebar.title">
@@ -218,32 +218,32 @@
       </trans-unit>
       <trans-unit id="4b8c13f811dc9e5093557dff59b266355bb5197f" resname="structure.action.configuration">
         <source>Configuration</source>
-        <target state="needs-translation">Configuration</target>
+        <target state="translated">Konfiguration</target>
         <note>key: structure.action.configuration</note>
       </trans-unit>
       <trans-unit id="d696a75de4e11076e1b9499e64aef2a8582dcf00" resname="structure.action.duplicate">
         <source>Duplicate</source>
-        <target state="needs-translation">Duplicate</target>
+        <target state="translated">Duplizieren</target>
         <note>key: structure.action.duplicate</note>
       </trans-unit>
       <trans-unit id="0ffa494ed399bd73df6cc82d6da3e3a42b2adbbd" resname="structure.action.move.down">
         <source>Move down</source>
-        <target state="needs-translation">Move down</target>
+        <target state="translated">Nach unten verschieben</target>
         <note>key: structure.action.move.down</note>
       </trans-unit>
       <trans-unit id="5043a2c65a3bb720e05d772456c41ac626e0cbd3" resname="structure.action.move.up">
         <source>Move up</source>
-        <target state="needs-translation">Move up</target>
+        <target state="translated">Nach oben verschieben</target>
         <note>key: structure.action.move.up</note>
       </trans-unit>
       <trans-unit id="568e891a8e9a931ebc3ccd6b4a12ca975edc6a3c" resname="structure.action.refresh">
         <source>Refresh</source>
-        <target state="needs-translation">Refresh</target>
+        <target state="translated">Aktualisieren</target>
         <note>key: structure.action.refresh</note>
       </trans-unit>
       <trans-unit id="9a1f012b46edc1cfc75ef000163ea898fb35a16c" resname="structure.drop.zone">
         <source>Drop zone %number%</source>
-        <target state="needs-translation">Drop zone %number%</target>
+        <target state="translated">Ablagebereich %number%</target>
         <note>key: structure.drop.zone</note>
       </trans-unit>
       <trans-unit id="720578005f4f9df5991d84e11d283389de3f5801" resname="switch_layout.label">
@@ -253,32 +253,32 @@
       </trans-unit>
       <trans-unit id="737f5482b6104ace11a578a45c3cf2a185e2f8e8" resname="toolbox.structure.view">
         <source>Structure view</source>
-        <target state="needs-translation">Structure view</target>
+        <target state="translated">Strukturansicht</target>
         <note>key: toolbox.structure.view</note>
       </trans-unit>
       <trans-unit id="f101cb8261e36b0d5e513e37fe157c8d3c0ba047" resname="toolbox.title">
         <source>Elements</source>
-        <target state="needs-translation">Elements</target>
+        <target state="translated">Elemente</target>
         <note>key: toolbox.title</note>
       </trans-unit>
       <trans-unit id="3e1605f26b2df05fc721d6a0b91e9e4011fdf9f1" resname="user.settings.automatically_open_block_settings.description">
         <source>Automatically open block settings in builders</source>
-        <target state="needs-translation">Automatically open block settings in builders</target>
+        <target state="translated">Blockeinstellungen in den Editoren automatisch öffnen</target>
         <note>key: user.settings.automatically_open_block_settings.description</note>
       </trans-unit>
       <trans-unit id="9fc13298e7bbddf434d17872f5b65a5af2ea7972" resname="user.settings.automatically_open_block_settings.name">
         <source>Automatically open block settings in builders</source>
-        <target state="needs-translation">Automatically open block settings in builders</target>
+        <target state="translated">Blockeinstellungen in den Editoren automatisch öffnen</target>
         <note>key: user.settings.automatically_open_block_settings.name</note>
       </trans-unit>
       <trans-unit id="4e32b8b746cdf9471b433d25ec36d5a4793dd8bf" resname="user.settings.automatically_open_block_settings.value.disabled">
         <source>disabled</source>
-        <target state="needs-translation">disabled</target>
+        <target state="translated">deaktiviert</target>
         <note>key: user.settings.automatically_open_block_settings.value.disabled</note>
       </trans-unit>
       <trans-unit id="4a286f075175595ce7527359c30b5f92226029db" resname="user.settings.automatically_open_block_settings.value.enabled">
         <source>enabled</source>
-        <target state="needs-translation">enabled</target>
+        <target state="translated">aktiviert</target>
         <note>key: user.settings.automatically_open_block_settings.value.enabled</note>
       </trans-unit>
     </body>
