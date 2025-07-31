@@ -71,10 +71,25 @@
         <target>crwdns267463:0crwdne267463:0</target>
         <note>key: maincart.summary.coupon.error.general_error.info</note>
       </trans-unit>
+      <trans-unit id="e17d06c128f5da183a7425c52a4fb9429827b8c0" resname="maincart.summary.coupon.input.placeholder">
+        <source>Promo code</source>
+        <target>crwdns268022:0crwdne268022:0</target>
+        <note>key: maincart.summary.coupon.input.placeholder</note>
+      </trans-unit>
       <trans-unit id="4120345061d9481446bcbc8f7579628da826ffe8" resname="maincart.summary.coupon.label">
         <source>Promo code</source>
         <target>crwdns267465:0crwdne267465:0</target>
         <note>key: maincart.summary.coupon.label</note>
+      </trans-unit>
+      <trans-unit id="bac084866bb91074db9eaee95e6d97d5668b2e80" resname="maincart.summary.discounts_info.toggler.show_less.label">
+        <source>Show less</source>
+        <target>crwdns268024:0crwdne268024:0</target>
+        <note>key: maincart.summary.discounts_info.toggler.show_less.label</note>
+      </trans-unit>
+      <trans-unit id="fb764970dd4ee1dc9a368bad23ac6828b9206127" resname="maincart.summary.discounts_info.toggler.show_more.label">
+        <source>Show more</source>
+        <target>crwdns268026:0crwdne268026:0</target>
+        <note>key: maincart.summary.discounts_info.toggler.show_more.label</note>
       </trans-unit>
       <trans-unit id="6713f8164032ceb741f0505616b72aefc9db1f3f" resname="maincart.summary.go_to_checkout_btn.label">
         <source>Go to checkout</source>
