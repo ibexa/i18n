@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="13bcf5100c01c70dc89276776118befc97bf5046" resname="applies_to.type.cart.label">
+        <source>Cart</source>
+        <target state="new">Cart</target>
+        <note>key: applies_to.type.cart.label</note>
+      </trans-unit>
+      <trans-unit id="64b9a8ef5c1fcabf7a98b69c01683963bceb0ece" resname="applies_to.type.catalog.label">
+        <source>Catalog</source>
+        <target state="new">Catalog</target>
+        <note>key: applies_to.type.catalog.label</note>
+      </trans-unit>
+      <trans-unit id="fef3674ca5d8ce950b156558b32cb6bb9467646d" resname="create.wizard.create.discount_will_start_as_soon_as_you_save_it.warning.text">
+        <source>Your discount will start as soon as you click “Save and close” button. Make sure you scheduled the discount properly.</source>
+        <target state="new">Your discount will start as soon as you click “Save and close” button. Make sure you scheduled the discount properly.</target>
+        <note>key: create.wizard.create.discount_will_start_as_soon_as_you_save_it.warning.text</note>
+      </trans-unit>
+      <trans-unit id="92c634f579abfe35d1a489149a7e7c4e8b18b860" resname="create.wizard.create.header">
+        <source>New %discount_type% discount</source>
+        <target state="new">New %discount_type% discount</target>
+        <note>key: create.wizard.create.header</note>
+      </trans-unit>
+      <trans-unit id="5c3a67e175a2524018f809aec1321b6c0ae612fd" resname="create.wizard.form.category_selector.tag.content.modal.confirm">
+        <source>Select</source>
+        <target state="new">Select</target>
+        <note>key: create.wizard.form.category_selector.tag.content.modal.confirm</note>
+      </trans-unit>
+      <trans-unit id="025d7ac2ca7c0a34e1b536efcb5aae9a4e6e7479" resname="create.wizard.form.category_selector.tag.content.modal.subtitle">
+        <source>in %languageName%</source>
+        <target state="new">in %languageName%</target>
+        <note>key: create.wizard.form.category_selector.tag.content.modal.subtitle</note>
+      </trans-unit>
+      <trans-unit id="7a05609fc3d198dc003167f82ed66cffbe89a92b" resname="create.wizard.form.category_selector.tag.content.modal.title">
+        <source>Select %name%</source>
+        <target state="new">Select %name%</target>
+        <note>key: create.wizard.form.category_selector.tag.content.modal.title</note>
+      </trans-unit>
+      <trans-unit id="c696b24d021fa22822e51f677237f9ee3781ab0b" resname="create.wizard.form.category_selector.title">
+        <source>Select product categories for discount</source>
+        <target state="new">Select product categories for discount</target>
+        <note>key: create.wizard.form.category_selector.title</note>
+      </trans-unit>
+      <trans-unit id="159e5fa79cdad5c649c4290263b602ceb6de36c7" resname="create.wizard.form.discard_btn.label">
+        <source>Discard</source>
+        <target state="new">Discard</target>
+        <note>key: create.wizard.form.discard_btn.label</note>
+      </trans-unit>
+      <trans-unit id="be08cc9bab8ecd884d05e11e9f58b10068fdc8c3" resname="create.wizard.form.discount_value.fixed.fields.label">
+        <source>Customer gets discount value</source>
+        <target state="new">Customer gets discount value</target>
+        <note>key: create.wizard.form.discount_value.fixed.fields.label</note>
+      </trans-unit>
+      <trans-unit id="a22a0bd4ba893004c5270c16dc5906a27503413b" resname="create.wizard.form.general_properties.headline">
+        <source>Global properties</source>
+        <target state="new">Global properties</target>
+        <note>key: create.wizard.form.general_properties.headline</note>
+      </trans-unit>
+      <trans-unit id="04a464fe1d1cea91590eb5c9d36b81da556d2f2c" resname="create.wizard.form.general_properties.promotion_information">
+        <source>Promotion information</source>
+        <target state="new">Promotion information</target>
+        <note>key: create.wizard.form.general_properties.promotion_information</note>
+      </trans-unit>
+      <trans-unit id="1bf7be0d2aedf171b42e1c816e2cc29f1103224f" resname="create.wizard.form.general_properties.promotion_information.customers_will_see_this_information">
+        <source>Customers will see this information.</source>
+        <target state="new">Customers will see this information.</target>
+        <note>key: create.wizard.form.general_properties.promotion_information.customers_will_see_this_information</note>
+      </trans-unit>
+      <trans-unit id="7773d9c1ed2b1b36611d358bb9b1f56918631ac1" resname="create.wizard.form.next_btn.label">
+        <source>Next</source>
+        <target state="new">Next</target>
+        <note>key: create.wizard.form.next_btn.label</note>
+      </trans-unit>
+      <trans-unit id="c2e579310dded88a9fc2732374a890415a4fe8c9" resname="create.wizard.form.previous_btn.label">
+        <source>Previous</source>
+        <target state="new">Previous</target>
+        <note>key: create.wizard.form.previous_btn.label</note>
+      </trans-unit>
+      <trans-unit id="00558975f8284b54ee674080e79d9a57bff1103f" resname="create.wizard.form.save_and_close.label">
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
+        <note>key: create.wizard.form.save_and_close.label</note>
+      </trans-unit>
+      <trans-unit id="e27b76007e63ca196858c7c42851bab5b57307b0" resname="create.wizard.layout.title">
+        <source>Create discount</source>
+        <target state="new">Create discount</target>
+        <note>key: create.wizard.layout.title</note>
+      </trans-unit>
+      <trans-unit id="bf04a1008114c5d16f67b672b184430d4f36fde6" resname="discount.breadcrumb.list">
+        <source>Discounts</source>
+        <target state="new">Discounts</target>
+        <note>key: discount.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="8b50747dc0fee128796390e9d7d91ca67d293d8d" resname="discount.create.details.conditions.conditions.label">
+        <source>Customer must meet selected conditions</source>
+        <target state="new">Customer must meet selected conditions</target>
+        <note>key: discount.create.details.conditions.conditions.label</note>
+      </trans-unit>
+      <trans-unit id="4bd7532c286ddea99ce90dd3c1167afd9377d3fc" resname="discount.create.details.conditions.conditions.none">
+        <source>None</source>
+        <target state="new">None</target>
+        <note>key: discount.create.details.conditions.conditions.none</note>
+      </trans-unit>
+      <trans-unit id="91ae857a44f309cdfba02157de4f1cc0d464c44d" resname="discount.create.details.conditions.discount_code.global_usage.label">
+        <source>Global usage of discount code</source>
+        <target state="new">Global usage of discount code</target>
+        <note>key: discount.create.details.conditions.discount_code.global_usage.label</note>
+      </trans-unit>
+      <trans-unit id="e79e11c664603352f1ff7df18681dadecb1de78b" resname="discount.create.details.conditions.discount_code.label">
+        <source>Discount code</source>
+        <target state="new">Discount code</target>
+        <note>key: discount.create.details.conditions.discount_code.label</note>
+      </trans-unit>
+      <trans-unit id="c3b5f0c2bfa440d4514cae569a858f74cdf6e0c5" resname="discount.create.details.conditions.discount_code.user_usage.label">
+        <source>Customer can use discount code</source>
+        <target state="new">Customer can use discount code</target>
+        <note>key: discount.create.details.conditions.discount_code.user_usage.label</note>
+      </trans-unit>
+      <trans-unit id="94ade8dfc645de262d456028dea2afa7c15857e2" resname="discount.create.details.conditions.headline">
+        <source>Conditions</source>
+        <target state="new">Conditions</target>
+        <note>key: discount.create.details.conditions.headline</note>
+      </trans-unit>
+      <trans-unit id="34e28bceeb3be4229899cae522edf623d6e270e8" resname="discount.create.details.conditions.is_discount_code.label">
+        <source>Customer must use discount code</source>
+        <target state="new">Customer must use discount code</target>
+        <note>key: discount.create.details.conditions.is_discount_code.label</note>
+      </trans-unit>
+      <trans-unit id="2a3541a2c33544aad3878db23bba29d5320e7b1e" resname="discount.create.details.discount_value.customer_gets_discount_value.label">
+        <source>Customer gets discount value</source>
+        <target state="new">Customer gets discount value</target>
+        <note>key: discount.create.details.discount_value.customer_gets_discount_value.label</note>
+      </trans-unit>
+      <trans-unit id="fa1b2bc082930d977d9a124c16bafa99ba7918ed" resname="discount.create.details.discount_value.headline">
+        <source>Discount value</source>
+        <target state="new">Discount value</target>
+        <note>key: discount.create.details.discount_value.headline</note>
+      </trans-unit>
+      <trans-unit id="1db827904bd833f8086b2ffa3c61d3fc5e663dc8" resname="discount.create.details.products.headline">
+        <source>Products</source>
+        <target state="new">Products</target>
+        <note>key: discount.create.details.products.headline</note>
+      </trans-unit>
+      <trans-unit id="7eac0f58830f5e19ffaaf0eb46d5dd5078b1f1a3" resname="discount.create.details.products.selected_categories.label">
+        <source>Selected categories</source>
+        <target state="new">Selected categories</target>
+        <note>key: discount.create.details.products.selected_categories.label</note>
+      </trans-unit>
+      <trans-unit id="17b1701e3d56bb48e3c58d40a924dc7fdbe088ea" resname="discount.create.details.products.selected_products.label">
+        <source>Selected products</source>
+        <target state="new">Selected products</target>
+        <note>key: discount.create.details.products.selected_products.label</note>
+      </trans-unit>
+      <trans-unit id="35d1be4acf864713ed25a51284261b450a437ec0" resname="discount.create.details.summary.products.all">
+        <source>You have selected all products.</source>
+        <target state="new">You have selected all products.</target>
+        <note>key: discount.create.details.summary.products.all</note>
+      </trans-unit>
+      <trans-unit id="a20558f34f6a2e8f17443e727b3cdef54066ed16" resname="discount.create.details.target_group.headline">
+        <source>Target group</source>
+        <target state="new">Target group</target>
+        <note>key: discount.create.details.target_group.headline</note>
+      </trans-unit>
+      <trans-unit id="2ffe8f6b25320e7cf722632f2d54a297906e0c25" resname="discount.create.details.target_group.label">
+        <source>Customers</source>
+        <target state="new">Customers</target>
+        <note>key: discount.create.details.target_group.label</note>
+      </trans-unit>
+      <trans-unit id="0ef93783201d1ed234439e736a459471f71bf390" resname="discount.error.discount_unavailable">
+        <source>Discount does not exist or is unavailable for the user.</source>
+        <target state="new">Discount does not exist or is unavailable for the user.</target>
+        <note>key: discount.error.discount_unavailable</note>
+      </trans-unit>
+      <trans-unit id="ab8ec02a0a24dc29e7f23068cb77c3a23f5c7eae" resname="discount.form.conditions.product_condition.all">
+        <source>Any of available products</source>
+        <target state="new">Any of available products</target>
+        <note>key: discount.form.conditions.product_condition.all</note>
+      </trans-unit>
+      <trans-unit id="150aed180733adbcfc8cf29b9d711bce799e0e09" resname="discount.form.conditions.product_condition.categories">
+        <source>Specific categories</source>
+        <target state="new">Specific categories</target>
+        <note>key: discount.form.conditions.product_condition.categories</note>
+      </trans-unit>
+      <trans-unit id="656b107feee27d9194c9e4d2d7d52bcd8655277e" resname="discount.form.conditions.product_condition.products">
+        <source>Specific products</source>
+        <target state="new">Specific products</target>
+        <note>key: discount.form.conditions.product_condition.products</note>
+      </trans-unit>
+      <trans-unit id="ed17828a3b78402ebcbf81f0b2d47abb23a042c3" resname="discount.form.conditions.type.minimum_purchase_amount">
+        <source>Minimum purchase amount (total cart value)</source>
+        <target state="new">Minimum purchase amount (total cart value)</target>
+        <note>key: discount.form.conditions.type.minimum_purchase_amount</note>
+      </trans-unit>
+      <trans-unit id="9a90295c1c369225e715ba6c8b1d8cf4c3fd472c" resname="discount.form.conditions.type.minimum_purchase_quantity">
+        <source>Minimum purchase quantity (per product)</source>
+        <target state="new">Minimum purchase quantity (per product)</target>
+        <note>key: discount.form.conditions.type.minimum_purchase_quantity</note>
+      </trans-unit>
+      <trans-unit id="6492ad5edf62c1e8fc07a4e0308b1136498d2905" resname="discount.form.conditions.type.none">
+        <source>None</source>
+        <target state="new">None</target>
+        <note>key: discount.form.conditions.type.none</note>
+      </trans-unit>
+      <trans-unit id="91e093400720243cfee696238209c3fcb9ae8113" resname="discount.form.conditions.user_condition.all">
+        <source>Everyone</source>
+        <target state="new">Everyone</target>
+        <note>key: discount.form.conditions.user_condition.all</note>
+      </trans-unit>
+      <trans-unit id="347a43a19ae62b9d5094edecaf2d6626f58e8961" resname="discount.form.conditions.user_condition.customer_groups">
+        <source>Specific customer group</source>
+        <target state="new">Specific customer group</target>
+        <note>key: discount.form.conditions.user_condition.customer_groups</note>
+      </trans-unit>
+      <trans-unit id="d82736b8eaebe4ff8c878a177e7d72c05ca5f97f" resname="discount.form.value.fixed_amount">
+        <source>Customer gets discount value</source>
+        <target state="new">Customer gets discount value</target>
+        <note>key: discount.form.value.fixed_amount</note>
+      </trans-unit>
+      <trans-unit id="83eb73813efcb8b4a878d005d9ac6caa321e4bfb" resname="discount.form.value.fixed_amount.cart.help">
+        <source>This discount value will be applied to each single item.</source>
+        <target state="new">This discount value will be applied to each single item.</target>
+        <note>key: discount.form.value.fixed_amount.cart.help</note>
+      </trans-unit>
+      <trans-unit id="6b48f9b33b2a9173eecb9e13f01c557921e3ae4f" resname="discount.form.value.percentage">
+        <source>Customer gets discount value</source>
+        <target state="new">Customer gets discount value</target>
+        <note>key: discount.form.value.percentage</note>
+      </trans-unit>
+      <trans-unit id="0b87a824a8b739d2347eb9aa14836ec6d10c71ec" resname="discount.form.value.percentage.cart.help">
+        <source>This discount value will be applied to each single item.</source>
+        <target state="new">This discount value will be applied to each single item.</target>
+        <note>key: discount.form.value.percentage.cart.help</note>
+      </trans-unit>
+      <trans-unit id="c141eee680a8b5c4f8925d09d799b27b672aa5d0" resname="discount.label.target_group.label">
+        <source>Target group</source>
+        <target state="new">Target group</target>
+        <note>key: discount.label.target_group.label</note>
+      </trans-unit>
+      <trans-unit id="ef8f050edfc12f65cfe95d0f3cb262b7ea9eee2e" resname="discount.list.action.disable">
+        <source>Disable</source>
+        <target state="new">Disable</target>
+        <note>key: discount.list.action.disable</note>
+      </trans-unit>
+      <trans-unit id="a2ad637ef677e0e444b6bf75b389ce62af40f1fd" resname="discount.list.action.enable">
+        <source>Enable</source>
+        <target state="new">Enable</target>
+        <note>key: discount.list.action.enable</note>
+      </trans-unit>
+      <trans-unit id="c0f97d8431864fad618fa12d85a53cfd196c1a27" resname="discount.list.breadcrumbs.discount">
+        <source>Discounts</source>
+        <target state="new">Discounts</target>
+        <note>key: discount.list.breadcrumbs.discount</note>
+      </trans-unit>
+      <trans-unit id="fb28052c97c6a9439cb6f3b238e4030d115bea18" resname="discount.list.column.creator">
+        <source>Creator</source>
+        <target state="new">Creator</target>
+        <note>key: discount.list.column.creator</note>
+      </trans-unit>
+      <trans-unit id="02240ef89d903dd25ff8f93921346010c3998a5e" resname="discount.list.column.end_date">
+        <source>End date</source>
+        <target state="new">End date</target>
+        <note>key: discount.list.column.end_date</note>
+      </trans-unit>
+      <trans-unit id="8e8d54ab60ddbadf8ffed82728ba28d602491510" resname="discount.list.column.modified_date">
+        <source>Modified</source>
+        <target state="new">Modified</target>
+        <note>key: discount.list.column.modified_date</note>
+      </trans-unit>
+      <trans-unit id="44e7459e4af0f0c20d71e47d36113b4c5b952d23" resname="discount.list.column.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: discount.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="f2ad7edf373573780f3226318ab4131e4b7bd3dc" resname="discount.list.column.priority">
+        <source>Priority</source>
+        <target state="new">Priority</target>
+        <note>key: discount.list.column.priority</note>
+      </trans-unit>
+      <trans-unit id="1d6a55035716a8b497e284f42bd0d73a5d230093" resname="discount.list.column.start_date">
+        <source>Start date</source>
+        <target state="new">Start date</target>
+        <note>key: discount.list.column.start_date</note>
+      </trans-unit>
+      <trans-unit id="a88171d21ba55d982ae8847b39ca1dc3e80f8ab5" resname="discount.list.column.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: discount.list.column.status</note>
+      </trans-unit>
+      <trans-unit id="ce1ce0f916e3a6bc3cbe7853db2f44bde88c857a" resname="discount.list.column.type">
+        <source>Discount type</source>
+        <target state="new">Discount type</target>
+        <note>key: discount.list.column.type</note>
+      </trans-unit>
+      <trans-unit id="4024bdebddbe07f2bef2119ec337a78787b48a20" resname="discount.list.creator.not_found">
+        <source>Can't fetch creator</source>
+        <target state="new">Can't fetch creator</target>
+        <note>key: discount.list.creator.not_found</note>
+      </trans-unit>
+      <trans-unit id="fc5edca55a4d1dc6f082f72ff11892d84d5f1af4" resname="discount.list.edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: discount.list.edit</note>
+      </trans-unit>
+      <trans-unit id="0a271379813d9cbd484831017831a8cb2c52f346" resname="discount.list.search.query.placeholder">
+        <source>Search...</source>
+        <target state="new">Search...</target>
+        <note>key: discount.list.search.query.placeholder</note>
+      </trans-unit>
+      <trans-unit id="e44fc2a1f09ef9d772b3564e0e33a5a2ec209f1b" resname="discount.list.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: discount.list.status</note>
+      </trans-unit>
+      <trans-unit id="f1bd9d5f6ecf2220705be4b4d851fa611e903e83" resname="discount.list.status.active.label">
+        <source>Active</source>
+        <target state="new">Active</target>
+        <note>key: discount.list.status.active.label</note>
+      </trans-unit>
+      <trans-unit id="5302bdff7cf345a97c8b4f6352f833a0282f5fa6" resname="discount.list.status.disabled.label">
+        <source>Disabled</source>
+        <target state="new">Disabled</target>
+        <note>key: discount.list.status.disabled.label</note>
+      </trans-unit>
+      <trans-unit id="0bd7740830e2bf49f58c670bc06f0adf5243d57b" resname="discount.list.status.inactive.label">
+        <source>Inactive</source>
+        <target state="new">Inactive</target>
+        <note>key: discount.list.status.inactive.label</note>
+      </trans-unit>
+      <trans-unit id="c03677072ca8d00809bb6e8f378ebfe1fb07d834" resname="discount.list.table.empty.action_text">
+        <source>When you create discounts, they will appear here.</source>
+        <target state="new">When you create discounts, they will appear here.</target>
+        <note>key: discount.list.table.empty.action_text</note>
+      </trans-unit>
+      <trans-unit id="beeead927874957a94916fbf8440631f96cd0c49" resname="discount.list.table.empty.info">
+        <source>No discounts yet</source>
+        <target state="new">No discounts yet</target>
+        <note>key: discount.list.table.empty.info</note>
+      </trans-unit>
+      <trans-unit id="18a1f7a34549c06964c05774c32e218268e8d548" resname="discount.list.table.search.empty.action_text">
+        <source>Try again with new search criteria.</source>
+        <target state="new">Try again with new search criteria.</target>
+        <note>key: discount.list.table.search.empty.action_text</note>
+      </trans-unit>
+      <trans-unit id="fca00b0d4ef50c185d3950f61da974509a866c81" resname="discount.list.table.search.empty.info">
+        <source>Sorry, there are no discounts for your search</source>
+        <target state="new">Sorry, there are no discounts for your search</target>
+        <note>key: discount.list.table.search.empty.info</note>
+      </trans-unit>
+      <trans-unit id="f58bb0b1703d39ef53ddd4ed27e562f37ffcb302" resname="discount.list.title">
+        <source>Discounts</source>
+        <target state="new">Discounts</target>
+        <note>key: discount.list.title</note>
+      </trans-unit>
+      <trans-unit id="da5368c444c1cc465b978846f56ea896dd6682a9" resname="discount.list.type.cart.label">
+        <source>Cart</source>
+        <target state="new">Cart</target>
+        <note>key: discount.list.type.cart.label</note>
+      </trans-unit>
+      <trans-unit id="525ad234ccc336a2f2c0b47674a6a8f5b4e7bab7" resname="discount.list.type.catalog.label">
+        <source>Catalog</source>
+        <target state="new">Catalog</target>
+        <note>key: discount.list.type.catalog.label</note>
+      </trans-unit>
+      <trans-unit id="8202f89bac192ddcb4ce7fefb99726fc111b6fee" resname="discount.rule_type.fixed_amount">
+        <source>Fixed amount</source>
+        <target state="new">Fixed amount</target>
+        <note>key: discount.rule_type.fixed_amount</note>
+      </trans-unit>
+      <trans-unit id="cbc151ff7950470c434c076b378a43580550459b" resname="discount.rule_type.percentage">
+        <source>Percentage</source>
+        <target state="new">Percentage</target>
+        <note>key: discount.rule_type.percentage</note>
+      </trans-unit>
+      <trans-unit id="8068df979d22b4f767c813052ee92137ad1c7f30" resname="discount.search.type.label">
+        <source>Discount type</source>
+        <target state="new">Discount type</target>
+        <note>key: discount.search.type.label</note>
+      </trans-unit>
+      <trans-unit id="6556779a6ff22221ac62f9c962e212432f669076" resname="discount.sort_clause.id_asc">
+        <source>ID (lowest, highest)</source>
+        <target state="new">ID (lowest, highest)</target>
+        <note>key: discount.sort_clause.id_asc</note>
+      </trans-unit>
+      <trans-unit id="62492c11dee0ebbaa3431bf9a88c72cdb419d9c4" resname="discount.sort_clause.id_desc">
+        <source>ID (highest, lowest)</source>
+        <target state="new">ID (highest, lowest)</target>
+        <note>key: discount.sort_clause.id_desc</note>
+      </trans-unit>
+      <trans-unit id="4fae8f656ead19069e34b8012194f81529733f89" resname="discount.sort_clause.start_date_asc">
+        <source>Start date (oldest, newest)</source>
+        <target state="new">Start date (oldest, newest)</target>
+        <note>key: discount.sort_clause.start_date_asc</note>
+      </trans-unit>
+      <trans-unit id="0134155859593d11582ac892c454cea03eeeef1d" resname="discount.sort_clause.start_date_desc">
+        <source>Start date (newest, oldest)</source>
+        <target state="new">Start date (newest, oldest)</target>
+        <note>key: discount.sort_clause.start_date_desc</note>
+      </trans-unit>
+      <trans-unit id="513c7f72dc7c4622b7ccde6cf8fbb7510bf430b3" resname="discount.sort_clause.updated_asc">
+        <source>Updated (oldest, newest)</source>
+        <target state="new">Updated (oldest, newest)</target>
+        <note>key: discount.sort_clause.updated_asc</note>
+      </trans-unit>
+      <trans-unit id="90b67f52c8b1c492ed667bec039a67d032595535" resname="discount.sort_clause.updated_desc">
+        <source>Updated (newest, oldest)</source>
+        <target state="new">Updated (newest, oldest)</target>
+        <note>key: discount.sort_clause.updated_desc</note>
+      </trans-unit>
+      <trans-unit id="e5bdb778e4b4e7a7355c4765b20a0bf6ffbcd859" resname="discount.step.conditions.form.label">
+        <source>Customer must meet selected conditions</source>
+        <target state="new">Customer must meet selected conditions</target>
+        <note>key: discount.step.conditions.form.label</note>
+      </trans-unit>
+      <trans-unit id="cc68ff499390772e5427e279cc33dd53abec4f6a" resname="discount.step.conditions.label">
+        <source>Conditions</source>
+        <target state="new">Conditions</target>
+        <note>key: discount.step.conditions.label</note>
+      </trans-unit>
+      <trans-unit id="0954252cb60c3c961c316ad070b1cedfe24daa02" resname="discount.step.discount_value.form.label">
+        <source>Discount value</source>
+        <target state="new">Discount value</target>
+        <note>key: discount.step.discount_value.form.label</note>
+      </trans-unit>
+      <trans-unit id="09cafe4aea523737f5a081f02712594957ca2cc2" resname="discount.step.discount_value.label">
+        <source>Discount value</source>
+        <target state="new">Discount value</target>
+        <note>key: discount.step.discount_value.label</note>
+      </trans-unit>
+      <trans-unit id="e15513efcf5998ae076701c42b566a1be6b70b03" resname="discount.step.general_properties.form.label">
+        <source>General properties</source>
+        <target state="new">General properties</target>
+        <note>key: discount.step.general_properties.form.label</note>
+      </trans-unit>
+      <trans-unit id="d72b275bf1ed2478d07c8d703325e4f907aa44fe" resname="discount.step.general_properties.label">
+        <source>General properties</source>
+        <target state="new">General properties</target>
+        <note>key: discount.step.general_properties.label</note>
+      </trans-unit>
+      <trans-unit id="4baae73d804d9dfc3c1e7205d4e9309c22f595e3" resname="discount.step.products.form.label">
+        <source>Customer buys</source>
+        <target state="new">Customer buys</target>
+        <note>key: discount.step.products.form.label</note>
+      </trans-unit>
+      <trans-unit id="5a820026c6921a21c35b2826b211c925b4f6e7e8" resname="discount.step.products.label">
+        <source>Products</source>
+        <target state="new">Products</target>
+        <note>key: discount.step.products.label</note>
+      </trans-unit>
+      <trans-unit id="62a969ada081e57f07be1e05d5fac2daf8a2bb45" resname="discount.step.summary.label">
+        <source>Summary</source>
+        <target state="new">Summary</target>
+        <note>key: discount.step.summary.label</note>
+      </trans-unit>
+      <trans-unit id="bedd317aa94e02666883eeaa33e56c4c85405cb4" resname="discount.step.target_group.label">
+        <source>Customers</source>
+        <target state="new">Customers</target>
+        <note>key: discount.step.target_group.label</note>
+      </trans-unit>
+      <trans-unit id="f52e27605b5b24dd8df88edfbcee3202b66f896f" resname="discount.summary.conditions.products.selected_products.variants">
+        <source>%product_code% (only variants: %product_variant_codes%)</source>
+        <target state="new">%product_code% (only variants: %product_variant_codes%)</target>
+        <note>key: discount.summary.conditions.products.selected_products.variants</note>
+      </trans-unit>
+      <trans-unit id="8506eb49ef8d6f8d465019346f97f197415f8649" resname="discount.translate.edit.header">
+        <source>Translating %discount_name% discount into %language_code%</source>
+        <target state="new">Translating %discount_name% discount into %language_code%</target>
+        <note>key: discount.translate.edit.header</note>
+      </trans-unit>
+      <trans-unit id="9031aabf8e2561a86bc39fb8992a143aaa285c24" resname="discount.translate.edit.title">
+        <source>Translate %discount_name% discount into %language_code%</source>
+        <target state="new">Translate %discount_name% discount into %language_code%</target>
+        <note>key: discount.translate.edit.title</note>
+      </trans-unit>
+      <trans-unit id="ff30f476a0a8187f4e36aba01edcee28c6f12bf1" resname="discount.view.tab.authors.details.creator">
+        <source>Creator</source>
+        <target state="new">Creator</target>
+        <note>key: discount.view.tab.authors.details.creator</note>
+      </trans-unit>
+      <trans-unit id="acb3c72933c2a9dac830d61f26e3996652cd85d0" resname="discount.view.tab.authors.details.last_contributor">
+        <source>Last contributor</source>
+        <target state="new">Last contributor</target>
+        <note>key: discount.view.tab.authors.details.last_contributor</note>
+      </trans-unit>
+      <trans-unit id="d8b378a28c2c271f00831f24dd58ab5f4b280a3d" resname="discount.view.tab.authors.headline">
+        <source>Authors</source>
+        <target state="new">Authors</target>
+        <note>key: discount.view.tab.authors.headline</note>
+      </trans-unit>
+      <trans-unit id="7ab7d8cac1d3d3b006c7bbeb8a4950b784326f88" resname="discount.view.tab.details.details.created">
+        <source>Created</source>
+        <target state="new">Created</target>
+        <note>key: discount.view.tab.details.details.created</note>
+      </trans-unit>
+      <trans-unit id="038f7476f181f867e1ebb21cc43bbcbe251aa85e" resname="discount.view.tab.details.details.general_properties.applies_to.label">
+        <source>Applies to</source>
+        <target state="new">Applies to</target>
+        <note>key: discount.view.tab.details.details.general_properties.applies_to.label</note>
+      </trans-unit>
+      <trans-unit id="4e5b0fbffba810598c56a321912985c6425d88f1" resname="discount.view.tab.details.details.general_properties.currency.all">
+        <source>All</source>
+        <target state="new">All</target>
+        <note>key: discount.view.tab.details.details.general_properties.currency.all</note>
+      </trans-unit>
+      <trans-unit id="49b454e133a6c8fe4e00e25b2d92b02e3510a39a" resname="discount.view.tab.details.details.general_properties.currency.label">
+        <source>Currency</source>
+        <target state="new">Currency</target>
+        <note>key: discount.view.tab.details.details.general_properties.currency.label</note>
+      </trans-unit>
+      <trans-unit id="64dc1693dec251f5ffc229250d12650e9c585bf0" resname="discount.view.tab.details.details.general_properties.description.label">
+        <source>Description</source>
+        <target state="new">Description</target>
+        <note>key: discount.view.tab.details.details.general_properties.description.label</note>
+      </trans-unit>
+      <trans-unit id="296e6864e4526af564b9ecef74cd6cc0b597ccfb" resname="discount.view.tab.details.details.general_properties.end_date.label">
+        <source>End date</source>
+        <target state="new">End date</target>
+        <note>key: discount.view.tab.details.details.general_properties.end_date.label</note>
+      </trans-unit>
+      <trans-unit id="ebbd4bba42631d8abf9c90ff412cbd8639a97703" resname="discount.view.tab.details.details.general_properties.headline">
+        <source>General properties</source>
+        <target state="new">General properties</target>
+        <note>key: discount.view.tab.details.details.general_properties.headline</note>
+      </trans-unit>
+      <trans-unit id="3285fc0749ce42301b1bbacc0b4dcdbc995e1883" resname="discount.view.tab.details.details.general_properties.identifier.label">
+        <source>Identifier</source>
+        <target state="new">Identifier</target>
+        <note>key: discount.view.tab.details.details.general_properties.identifier.label</note>
+      </trans-unit>
+      <trans-unit id="21b971db69f54f3e626fc4207459d5fbe52b53d0" resname="discount.view.tab.details.details.general_properties.name.label">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: discount.view.tab.details.details.general_properties.name.label</note>
+      </trans-unit>
+      <trans-unit id="fd902a06d6702181cc7e49df6b6b52e085d71b77" resname="discount.view.tab.details.details.general_properties.permanent">
+        <source>permanent</source>
+        <target state="new">permanent</target>
+        <note>key: discount.view.tab.details.details.general_properties.permanent</note>
+      </trans-unit>
+      <trans-unit id="94529d7a1e79756e0ee5d1901eaaa24f88a9297d" resname="discount.view.tab.details.details.general_properties.priority.label">
+        <source>Priority</source>
+        <target state="new">Priority</target>
+        <note>key: discount.view.tab.details.details.general_properties.priority.label</note>
+      </trans-unit>
+      <trans-unit id="f34f68b7f805229ff669a8cc7fb58eb581dc95dd" resname="discount.view.tab.details.details.general_properties.promotion.description.label">
+        <source>Promotion description</source>
+        <target state="new">Promotion description</target>
+        <note>key: discount.view.tab.details.details.general_properties.promotion.description.label</note>
+      </trans-unit>
+      <trans-unit id="c7b7e4870f35473a4cff2a2ea093387321d53d6e" resname="discount.view.tab.details.details.general_properties.promotion.label">
+        <source>Promotion label</source>
+        <target state="new">Promotion label</target>
+        <note>key: discount.view.tab.details.details.general_properties.promotion.label</note>
+      </trans-unit>
+      <trans-unit id="b8fb4981b033aa7fda9742d0e2f98d0e725c8063" resname="discount.view.tab.details.details.general_properties.region.all">
+        <source>All</source>
+        <target state="new">All</target>
+        <note>key: discount.view.tab.details.details.general_properties.region.all</note>
+      </trans-unit>
+      <trans-unit id="4e04c9fe209eb8a24c9c33af6b6ac6e8d64a4d8b" resname="discount.view.tab.details.details.general_properties.region.label">
+        <source>Region</source>
+        <target state="new">Region</target>
+        <note>key: discount.view.tab.details.details.general_properties.region.label</note>
+      </trans-unit>
+      <trans-unit id="5b982ae361ed9daa65e3ce7d647d35cb8a265e12" resname="discount.view.tab.details.details.general_properties.start_date.label">
+        <source>Start date</source>
+        <target state="new">Start date</target>
+        <note>key: discount.view.tab.details.details.general_properties.start_date.label</note>
+      </trans-unit>
+      <trans-unit id="13eff7359ad98c02515c74e1ee0a9efd4eaa7abc" resname="discount.view.tab.details.details.modified">
+        <source>Modified</source>
+        <target state="new">Modified</target>
+        <note>key: discount.view.tab.details.details.modified</note>
+      </trans-unit>
+      <trans-unit id="d3a8248721f430e09914fc5ecb429bb9653f2fd3" resname="discount.view.tab.details.summary.minimum_purchase_amount">
+        <source>Minimum purchase amount (total cart value): %minimum_purchase_amount%</source>
+        <target state="new">Minimum purchase amount (total cart value): %minimum_purchase_amount%</target>
+        <note>key: discount.view.tab.details.summary.minimum_purchase_amount</note>
+      </trans-unit>
+      <trans-unit id="683ac5b938fdef67476726d5688427a710c84236" resname="discount.view.tab.details.summary.minimum_purchase_quantity">
+        <source>Minimum purchase quantity (per product): %quantity%</source>
+        <target state="new">Minimum purchase quantity (per product): %quantity%</target>
+        <note>key: discount.view.tab.details.summary.minimum_purchase_quantity</note>
+      </trans-unit>
+      <trans-unit id="d1d1b186076578899be90b554f3b5dcc6fb1fb75" resname="discount.view.tab.details.summary.specific_customer_groups">
+        <source>Specific customer groups</source>
+        <target state="new">Specific customer groups</target>
+        <note>key: discount.view.tab.details.summary.specific_customer_groups</note>
+      </trans-unit>
+      <trans-unit id="97c346188471a5783322c9ee94a2f41259b9210d" resname="discount.view.tab.details.target_group.customer_group.label">
+        <source>Everyone</source>
+        <target state="new">Everyone</target>
+        <note>key: discount.view.tab.details.target_group.customer_group.label</note>
+      </trans-unit>
+      <trans-unit id="c7cbe2f3c0c2bcab88e9cbd671cef039f95e6ce8" resname="discount.view.tab.products.all_products_selected.alert.list_link">
+        <source>To see the list, click here.</source>
+        <target state="new">To see the list, click here.</target>
+        <note>key: discount.view.tab.products.all_products_selected.alert.list_link</note>
+      </trans-unit>
+      <trans-unit id="df7e20c6b59ac331cc6f1a04d869e50a06a51f75" resname="discount.view.tab.products.all_products_selected.alert.title">
+        <source>You have selected all products.</source>
+        <target state="new">You have selected all products.</target>
+        <note>key: discount.view.tab.products.all_products_selected.alert.title</note>
+      </trans-unit>
+      <trans-unit id="dea12995c72613d02f2a6e8657bdf6bd708ee076" resname="discount.view.tab.products.list.column.base_price">
+        <source>Base price</source>
+        <target state="new">Base price</target>
+        <note>key: discount.view.tab.products.list.column.base_price</note>
+      </trans-unit>
+      <trans-unit id="7a5e738b7370eb5bc7fbd769ff98b84eec9ce79c" resname="discount.view.tab.products.list.column.code">
+        <source>Code</source>
+        <target state="new">Code</target>
+        <note>key: discount.view.tab.products.list.column.code</note>
+      </trans-unit>
+      <trans-unit id="f01110d8b188908f51becfd5d88f02d72c4e154d" resname="discount.view.tab.products.list.column.created">
+        <source>Created</source>
+        <target state="new">Created</target>
+        <note>key: discount.view.tab.products.list.column.created</note>
+      </trans-unit>
+      <trans-unit id="c3c4ad3fe12071c1156e4276640136f9476c1ef6" resname="discount.view.tab.products.list.column.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: discount.view.tab.products.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="debf3eb35254445a197719b32a58b82094dcd278" resname="discount.view.tab.products.list.column.stock">
+        <source>Stock</source>
+        <target state="new">Stock</target>
+        <note>key: discount.view.tab.products.list.column.stock</note>
+      </trans-unit>
+      <trans-unit id="1bfd57039bbd3d0f9695b5921f4558cd21f51d1a" resname="discount.view.tab.products.list.column.thumbnail">
+        <source>Image</source>
+        <target state="new">Image</target>
+        <note>key: discount.view.tab.products.list.column.thumbnail</note>
+      </trans-unit>
+      <trans-unit id="fcbe5d314b37b72a5ef7bdc172495c9198bc27b6" resname="discount.view.tab.products.list.column.type">
+        <source>Type</source>
+        <target state="new">Type</target>
+        <note>key: discount.view.tab.products.list.column.type</note>
+      </trans-unit>
+      <trans-unit id="a39737c07fdbd1a5a802b27e28253501276e3c32" resname="discount.view.tab.products.list.column.variant">
+        <source>Variant</source>
+        <target state="new">Variant</target>
+        <note>key: discount.view.tab.products.list.column.variant</note>
+      </trans-unit>
+      <trans-unit id="54817431fca78cd4597deb05117ae16543fdbf7c" resname="discount.view.tab.products.products.list.no_product_assigned.action_text">
+        <source>Edit the discount and add products.</source>
+        <target state="new">Edit the discount and add products.</target>
+        <note>key: discount.view.tab.products.products.list.no_product_assigned.action_text</note>
+      </trans-unit>
+      <trans-unit id="fa0213dddda013a5c659763c4b39489dcc7fe199" resname="discount.view.tab.products.products.list.no_product_assigned.info">
+        <source>No product is assigned to the discount.</source>
+        <target state="new">No product is assigned to the discount.</target>
+        <note>key: discount.view.tab.products.products.list.no_product_assigned.info</note>
+      </trans-unit>
+      <trans-unit id="edbd6955285f2226904f9d88d43c692a882e7784" resname="discount.view.tab.products.stock.unlimited">
+        <source>Unlimited</source>
+        <target state="new">Unlimited</target>
+        <note>key: discount.view.tab.products.stock.unlimited</note>
+      </trans-unit>
+      <trans-unit id="a0c1c16fec4dbe5c19b0ad96446a275806784693" resname="discount.view.tab.translations.list.column.code">
+        <source xml:space="preserve">Language code	</source>
+        <target xml:space="preserve" state="new">Language code	</target>
+        <note>key: discount.view.tab.translations.list.column.code</note>
+      </trans-unit>
+      <trans-unit id="23ad39c9001d2d2ba207b8d4e5cd116e2d9acb1f" resname="discount.view.tab.translations.list.column.name">
+        <source>Language name</source>
+        <target state="new">Language name</target>
+        <note>key: discount.view.tab.translations.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="c181988ea27650476386e90d5b5daae0bd96c805" resname="discounts.search.created_at.label">
+        <source>Created</source>
+        <target state="new">Created</target>
+        <note>key: discounts.search.created_at.label</note>
+      </trans-unit>
+      <trans-unit id="f2cf9c77153906978e7dcde7b1188ecc0579244f" resname="discounts.search.datetime.placeholder.any_time">
+        <source>Any time</source>
+        <target state="new">Any time</target>
+        <note>key: discounts.search.datetime.placeholder.any_time</note>
+      </trans-unit>
+      <trans-unit id="e139f75ac5c992deb3e978d753e1d827e9770282" resname="discounts.search.validity_period.label">
+        <source>Validity period</source>
+        <target state="new">Validity period</target>
+        <note>key: discounts.search.validity_period.label</note>
+      </trans-unit>
+      <trans-unit id="2d202006eec9b96ca638ee966036b2e0a3c523f5" resname="discounts.view.tab.products.list.headline">
+        <source>Products (%count%)</source>
+        <target state="new">Products (%count%)</target>
+        <note>key: discounts.view.tab.products.list.headline</note>
+      </trans-unit>
+      <trans-unit id="4a8e9bfd1ae820def599aaed4fa54b764b7d237d" resname="edit.wizard.edit.header">
+        <source>Editing %discount_name% discount</source>
+        <target state="new">Editing %discount_name% discount</target>
+        <note>key: edit.wizard.edit.header</note>
+      </trans-unit>
+      <trans-unit id="a564d443e3e7c59e26af32c31371c0a051435992" resname="edit.wizard.layout.title">
+        <source>Edit %discount_name% discount</source>
+        <target state="new">Edit %discount_name% discount</target>
+        <note>key: edit.wizard.layout.title</note>
+      </trans-unit>
+      <trans-unit id="cfc07de8e8a93e65be2a144132ea205ed66580c7" resname="general_properties.currency.label">
+        <source>Currency</source>
+        <target state="new">Currency</target>
+        <note>key: general_properties.currency.label</note>
+      </trans-unit>
+      <trans-unit id="ca4b9aa795b1a17679d81690dcd30c57af0b6564" resname="general_properties.description.label">
+        <source>Description</source>
+        <target state="new">Description</target>
+        <note>key: general_properties.description.label</note>
+      </trans-unit>
+      <trans-unit id="1e64f406a431e65c3fb6ec7de7d9fc9c3f8033e9" resname="general_properties.end_date_and_time.label">
+        <source>End date and time</source>
+        <target state="new">End date and time</target>
+        <note>key: general_properties.end_date_and_time.label</note>
+      </trans-unit>
+      <trans-unit id="ed64238d501e47ed81d9615868490c26622c85d4" resname="general_properties.identifier.label">
+        <source>Identifier</source>
+        <target state="new">Identifier</target>
+        <note>key: general_properties.identifier.label</note>
+      </trans-unit>
+      <trans-unit id="31a7ae1f7f0cf52563df3cf239cf36deb105579a" resname="general_properties.label.label">
+        <source>Promotion label</source>
+        <target state="new">Promotion label</target>
+        <note>key: general_properties.label.label</note>
+      </trans-unit>
+      <trans-unit id="7797bbb1a3740eb2a3c34ef438781b5b45f4e8ef" resname="general_properties.label_description.label">
+        <source>Promotion description</source>
+        <target state="new">Promotion description</target>
+        <note>key: general_properties.label_description.label</note>
+      </trans-unit>
+      <trans-unit id="b6ba28e05f05cc9d04df02805290a1a20cf2cd15" resname="general_properties.name.label">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: general_properties.name.label</note>
+      </trans-unit>
+      <trans-unit id="8f6e0cd7721e1ae0ea947cb5b08a47a075f69cde" resname="general_properties.permanent_discount.label">
+        <source>Permanent discount</source>
+        <target state="new">Permanent discount</target>
+        <note>key: general_properties.permanent_discount.label</note>
+      </trans-unit>
+      <trans-unit id="15950fdbd8ae9baff84dbd59ea7863b8e9201e02" resname="general_properties.priority.label">
+        <source>Priority</source>
+        <target state="new">Priority</target>
+        <note>key: general_properties.priority.label</note>
+      </trans-unit>
+      <trans-unit id="9bba77adec3721d62df322469826a244cd0b74fb" resname="general_properties.region.label">
+        <source>Region</source>
+        <target state="new">Region</target>
+        <note>key: general_properties.region.label</note>
+      </trans-unit>
+      <trans-unit id="de6fe88728a8ce862d1ba45134ac3762d234e5d9" resname="general_properties.start_date_and_time.label">
+        <source>Start date and time</source>
+        <target state="new">Start date and time</target>
+        <note>key: general_properties.start_date_and_time.label</note>
+      </trans-unit>
+      <trans-unit id="0ad1ab73287b181912e3f7acb75df74049668611" resname="ibexa.commerce">
+        <source>Commerce</source>
+        <target state="new">Commerce</target>
+        <note>key: ibexa.commerce</note>
+      </trans-unit>
+      <trans-unit id="c3d0544bd6ba4a2ba46f140791ae760217cba2b2" resname="ibexa.discount.action.create.discard">
+        <source>Discard</source>
+        <target state="new">Discard</target>
+        <note>key: ibexa.discount.action.create.discard</note>
+      </trans-unit>
+      <trans-unit id="20477e844ad470f30542de01807fa75649be392f" resname="ibexa.discount.action.create.discount_applies_to">
+        <source>Discount applies to</source>
+        <target state="new">Discount applies to</target>
+        <note>key: ibexa.discount.action.create.discount_applies_to</note>
+      </trans-unit>
+      <trans-unit id="32a3b7a8c57bfd6b3078c7640b42682f587506b6" resname="ibexa.discount.action.create.discount_applies_to.rule_type.helper">
+        <source>All discounts for cart are applied per item.</source>
+        <target state="new">All discounts for cart are applied per item.</target>
+        <note>key: ibexa.discount.action.create.discount_applies_to.rule_type.helper</note>
+      </trans-unit>
+      <trans-unit id="3b777a32055131c626270a309f42a3c443ef4601" resname="ibexa.discount.action.create.rule_type">
+        <source>Discount type</source>
+        <target state="new">Discount type</target>
+        <note>key: ibexa.discount.action.create.rule_type</note>
+      </trans-unit>
+      <trans-unit id="827c39422230c13bc57e6fafe4b71f7c8f204720" resname="ibexa.discount.action.create.submit">
+        <source>Create</source>
+        <target state="new">Create</target>
+        <note>key: ibexa.discount.action.create.submit</note>
+      </trans-unit>
+      <trans-unit id="e0fc10ca49fcc554c5869ab2739829781f408727" resname="ibexa.discount.type.fixed_amount">
+        <source>Fixed amount</source>
+        <target state="new">Fixed amount</target>
+        <note>key: ibexa.discount.type.fixed_amount</note>
+      </trans-unit>
+      <trans-unit id="b04f727c2873f6f9b9e792865539b1af6a5ac2a5" resname="ibexa.discount.type.percentage">
+        <source>Percentage</source>
+        <target state="new">Percentage</target>
+        <note>key: ibexa.discount.type.percentage</note>
+      </trans-unit>
+      <trans-unit id="d78aef24456fd3eaec40a1f69c374a3f4771b0c3" resname="ibexa.discounts.action.create.header">
+        <source>Create discount</source>
+        <target state="new">Create discount</target>
+        <note>key: ibexa.discounts.action.create.header</note>
+      </trans-unit>
+      <trans-unit id="6161a3f307fdf8bb996f11d6b4bd7f5f93d4c956" resname="ibexa.discounts.edit_translation.discard_button.label">
+        <source>Discard</source>
+        <target state="new">Discard</target>
+        <note>key: ibexa.discounts.edit_translation.discard_button.label</note>
+      </trans-unit>
+      <trans-unit id="30a03f1e9643b4d534b0244161933c2106cfb246" resname="ibexa.discounts.edit_translation.save_button.label">
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
+        <note>key: ibexa.discounts.edit_translation.save_button.label</note>
+      </trans-unit>
+      <trans-unit id="7cb78cb759e3c8772a895f0e9a29841d2f78a02a" resname="modal.bulk_delete.discount.confirm_message">
+        <source>Delete the selected discounts permanently?</source>
+        <target state="new">Delete the selected discounts permanently?</target>
+        <note>key: modal.bulk_delete.discount.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="c60b62d66615884bc4888e4ebcfa5a50b306c7d5" resname="modal.delete.cancel.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: modal.delete.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="c9596f0451ffd2fc545637d06f1261461c1f24e1" resname="modal.delete.confirm.label">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: modal.delete.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="8fbaf0706e56eef87d0618c5ed2e9e87b400b718" resname="modal.delete.confirm_message">
+        <source>Are you sure you want to delete discount?</source>
+        <target state="new">Are you sure you want to delete discount?</target>
+        <note>key: modal.delete.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="0e9de081196d3197bf4c388f86eec27434745bcd" resname="modal.disable.cancel.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: modal.disable.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="bb74318af1fffa9bad2d119f08bcc812215139de" resname="modal.disable.confirm.label">
+        <source>Disable</source>
+        <target state="new">Disable</target>
+        <note>key: modal.disable.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="7b6f1c698a6392c47243d1d851725cf638f36efc" resname="modal.disable.confirm_message">
+        <source>Are you sure you want to disable discount?</source>
+        <target state="new">Are you sure you want to disable discount?</target>
+        <note>key: modal.disable.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="25c1a1498df4d495e90beaeb4e85096a0b825866" resname="modal.discard_discount_form.cancel.label">
+        <source>Keep editing</source>
+        <target state="new">Keep editing</target>
+        <note>key: modal.discard_discount_form.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="ca0e00f28a440ad6365d2ba4c08fdfd4dd18550d" resname="modal.discard_discount_form.confirm.label">
+        <source>Discard changes</source>
+        <target state="new">Discard changes</target>
+        <note>key: modal.discard_discount_form.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="aa9fccbaa7ccb3e191defe0d4858489696f22280" resname="modal.discard_discount_form.confirm_message">
+        <source><![CDATA[You’re going to discard discount.<br><br>All changes you’ve made will be deleted permanently.]]></source>
+        <target state="new"><![CDATA[You’re going to discard discount.<br><br>All changes you’ve made will be deleted permanently.]]></target>
+        <note>key: modal.discard_discount_form.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="c37817e5bf6bc259d2441c7e729813c082c4961d" resname="modal.discard_discount_form.title">
+        <source>Discard discount</source>
+        <target state="new">Discard discount</target>
+        <note>key: modal.discard_discount_form.title</note>
+      </trans-unit>
+      <trans-unit id="655fb4169c4bdc166c198860ff91e160590b1daa" resname="modal.enable.cancel.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: modal.enable.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="7d022c0637e9f408eedefa49b88cc38a641e2ff4" resname="modal.enable.confirm.label">
+        <source>Enable</source>
+        <target state="new">Enable</target>
+        <note>key: modal.enable.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="ed76cddb77503d5c532f3fe1f59df41de6071e4c" resname="modal.enable.confirm_message">
+        <source>Are you sure you want to enable discount?</source>
+        <target state="new">Are you sure you want to enable discount?</target>
+        <note>key: modal.enable.confirm_message</note>
+      </trans-unit>
+      <trans-unit id="f2d2334074d731f6702aeb44aabe3c41ff992eef" resname="policy.limitation.discountowner.self">
+        <source>Self</source>
+        <target state="new">Self</target>
+        <note>key: policy.limitation.discountowner.self</note>
+      </trans-unit>
+      <trans-unit id="d1b8c4b5f1920ea90e6b4e1376a3e8167f2ef21a" resname="tab.name.authors">
+        <source>Authors</source>
+        <target state="new">Authors</target>
+        <note>key: tab.name.authors</note>
+      </trans-unit>
+      <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
+        <source>Details</source>
+        <target state="new">Details</target>
+        <note>key: tab.name.details</note>
+      </trans-unit>
+      <trans-unit id="275ec374b70a18444943110e030b6dd59ae7d001" resname="tab.name.products">
+        <source>Products</source>
+        <target state="new">Products</target>
+        <note>key: tab.name.products</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target state="new">Translations</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
+        <source>Add</source>
+        <target state="new">Add</target>
+        <note>key: tab.translations.action.add</note>
+      </trans-unit>
+      <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: tab.translations.action.delete</note>
+      </trans-unit>
+      <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
+        <source>Delete the translations permanently?</source>
+        <target state="new">Delete the translations permanently?</target>
+        <note>key: tab.translations.modal.message</note>
+      </trans-unit>
+      <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
+        <source>Translation manager</source>
+        <target state="new">Translation manager</target>
+        <note>key: tab.translations.translation_manger</note>
+      </trans-unit>
+      <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">
+        <source>Not selected</source>
+        <target state="new">Not selected</target>
+        <note>key: translation.base_language.no_language</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

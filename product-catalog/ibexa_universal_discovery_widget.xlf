@@ -161,6 +161,11 @@
         <target state="new">Product types</target>
         <note>key: products_discovery_widget.products_view.filters.row.product_type.title</note>
       </trans-unit>
+      <trans-unit id="a78ba60ccddfc9c8b09661919d0ded245acec171" resname="products_discovery_widget.products_view.filters.row.products_codes.formatting.info">
+        <source>To add more codes, separate them with comma (preferred), semicolon or use space.</source>
+        <target state="new">To add more codes, separate them with comma (preferred), semicolon or use space.</target>
+        <note>key: products_discovery_widget.products_view.filters.row.products_codes.formatting.info</note>
+      </trans-unit>
       <trans-unit id="d1ea82176d99763b884e25488b0bb759093d13b1" resname="products_discovery_widget.selected_items.product.variants_label.has_variants">
         <source>Variants (%selectedVariantsCount%/%totalVariantsCount%)</source>
         <target state="new">Variants (%selectedVariantsCount%/%totalVariantsCount%)</target>
