@@ -16,10 +16,10 @@
         <target>crwdns237626:0crwdne237626:0</target>
         <note>key: creating</note>
       </trans-unit>
-      <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
-        <source>Location: %location% Translation: %language%</source>
-        <target>crwdns252974:0%location%crwdnd252974:0%language%crwdne252974:0</target>
-        <note>key: editing_details</note>
+      <trans-unit id="582b09a837963ba464ba24493c8cc7c360b99708" resname="editing_details_subtitle">
+        <source>under: %location%</source>
+        <target>crwdns267968:0%location%crwdne267968:0</target>
+        <note>key: editing_details_subtitle</note>
       </trans-unit>
       <trans-unit id="32d50c07b2eacd6fa72742ff1c1f5963c26a251d" resname="new_content_item">
         <source>New %contentType%</source>
