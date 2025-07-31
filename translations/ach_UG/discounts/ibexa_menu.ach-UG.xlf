@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="8d11ceee40667d9e531011f3cbb5c921aae0c1d4" resname="discount_list__context_menu__create">
+        <source>Create</source>
+        <target>crwdns267928:0crwdne267928:0</target>
+        <note>key: discount_list__context_menu__create</note>
+      </trans-unit>
+      <trans-unit id="d46ce390e0ae73375b62072847bcced43663700d" resname="discount_view__context_menu__delete">
+        <source>Delete</source>
+        <target>crwdns267930:0crwdne267930:0</target>
+        <note>key: discount_view__context_menu__delete</note>
+      </trans-unit>
+      <trans-unit id="a6678cd22903175f4179cc74d5bdce00cfa20ab1" resname="discount_view__context_menu__disable">
+        <source>Disable</source>
+        <target>crwdns267932:0crwdne267932:0</target>
+        <note>key: discount_view__context_menu__disable</note>
+      </trans-unit>
+      <trans-unit id="f98e1b89bd9d1cb0ab14f0dfb0ff8801f18572a0" resname="discount_view__context_menu__edit">
+        <source>Edit</source>
+        <target>crwdns267934:0crwdne267934:0</target>
+        <note>key: discount_view__context_menu__edit</note>
+      </trans-unit>
+      <trans-unit id="d0e632b53dbf97e5d4d546d2951db39bdce6cf60" resname="discount_view__context_menu__enable">
+        <source>Enable</source>
+        <target>crwdns267936:0crwdne267936:0</target>
+        <note>key: discount_view__context_menu__enable</note>
+      </trans-unit>
+      <trans-unit id="f71bb2e7ff268832def29be34c3249c33f577a3b" resname="menu.discounts">
+        <source>Discounts</source>
+        <target>crwdns267938:0crwdne267938:0</target>
+        <note>key: menu.discounts</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
