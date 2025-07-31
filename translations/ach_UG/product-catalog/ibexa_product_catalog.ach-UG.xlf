@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="901dd92dad081c7f72970b873a49663c5d94fa43" resname="asset.unavailable.message">
+        <source>Asset with ID %asset_id% is not available or has been removed.</source>
+        <target>crwdns267986:0%asset_id%crwdne267986:0</target>
+        <note>key: asset.unavailable.message</note>
+      </trans-unit>
       <trans-unit id="340a2c63dca7109702c4c70c94ab9ad0e8bdbfc2" resname="attribute.definition.variant.form_mapper.help">
         <source>Provide color values as hex codes. For example, #FF0000.</source>
         <target>crwdns253532:0crwdne253532:0</target>
@@ -122,8 +127,8 @@
         <note>key: attribute_definition.new.title</note>
       </trans-unit>
       <trans-unit id="cfbf370cf0dde5c5b8082f2e3ee6ea9e9705eec0" resname="attribute_definition.no_attributes.action_text">
-        <source>Content items which you or your User group can review will show up here.</source>
-        <target>crwdns252218:0crwdne252218:0</target>
+        <source>Add attributes and organize them into attribute groups.</source>
+        <target>crwdns267988:0crwdne267988:0</target>
         <note>key: attribute_definition.no_attributes.action_text</note>
       </trans-unit>
       <trans-unit id="4cadd1754fa5ec14fc96ce0f73bf5c64236db77c" resname="attribute_definition.no_attributes.info_text">
@@ -145,6 +150,11 @@
         <source>Go to attribute groups</source>
         <target>crwdns243146:0crwdne243146:0</target>
         <note>key: attribute_definition.no_attributes_group.link_label</note>
+      </trans-unit>
+      <trans-unit id="92d2971e9e6e910d647012d7a442991dfcaffcc1" resname="attribute_definition.no_attributes_in_group.action_text">
+        <source>All attributes that belong to this group will show up here.</source>
+        <target>crwdns267990:0crwdne267990:0</target>
+        <note>key: attribute_definition.no_attributes_in_group.action_text</note>
       </trans-unit>
       <trans-unit id="ef677424268316f7330f727d606c939e1f1d29fc" resname="attribute_definition.no_search_results.action_text">
         <source>Try again with new search criteria</source>
@@ -307,8 +317,8 @@
         <note>key: attribute_group.new.title</note>
       </trans-unit>
       <trans-unit id="358c7debce239a8a4f9c956204c7cda965b2142f" resname="attribute_group.no_attributes_group.action_text">
-        <source>Content items which you or your User group can review will show up here.</source>
-        <target>crwdns252222:0crwdne252222:0</target>
+        <source>Create groups and organize attributes.</source>
+        <target>crwdns267992:0crwdne267992:0</target>
         <note>key: attribute_group.no_attributes_group.action_text</note>
       </trans-unit>
       <trans-unit id="4b6c5dfd16839e4273f72551101f81d1336e1a4a" resname="attribute_group.no_attributes_group.info_text">
@@ -816,6 +826,11 @@
         <target>crwdns243282:0crwdne243282:0</target>
         <note>key: customer_group.list.column.name</note>
       </trans-unit>
+      <trans-unit id="89c919ed720e0c2a0682d9df93be422de0f18a44" resname="customer_group.list.deny_delete_reason.published_content">
+        <source>Cannot remove customer group. There is at least one published content item assigned to it</source>
+        <target>crwdns267994:0crwdne267994:0</target>
+        <note>key: customer_group.list.deny_delete_reason.published_content</note>
+      </trans-unit>
       <trans-unit id="4121913e7e6ce7cf2a4d3726fece6567511a0fd6" resname="customer_group.list.details.description">
         <source>Description</source>
         <target>crwdns243284:0crwdne243284:0</target>
@@ -985,6 +1000,11 @@
         <source>Created</source>
         <target>crwdns248465:0crwdne248465:0</target>
         <note>key: filter.product_created.label</note>
+      </trans-unit>
+      <trans-unit id="e04b46f434c763ebbe8c85fa36e162272fdecd62" resname="filter.product_custom_price.label">
+        <source>Custom price</source>
+        <target>crwdns267996:0crwdne267996:0</target>
+        <note>key: filter.product_custom_price.label</note>
       </trans-unit>
       <trans-unit id="7eddd6b84b553343a25ac418b903cf6ee5ab493d" resname="filter.product_price.label">
         <source>Price</source>
@@ -1211,10 +1231,20 @@
         <target>crwdns247444:0crwdne247444:0</target>
         <note>key: product.asset.delete.success</note>
       </trans-unit>
+      <trans-unit id="e300046260d3af717b1187bfd4fcb2ce3b2e4d44" resname="product.asset.disallowed_type.message">
+        <source>The uploaded file types are not allowed</source>
+        <target>crwdns267998:0crwdne267998:0</target>
+        <note>key: product.asset.disallowed_type.message</note>
+      </trans-unit>
       <trans-unit id="d90613484c3b5901786fb6b30ec08b0fa1d01f98" resname="product.asset.group.success">
         <source>Assets collection created.</source>
         <target>crwdns248200:0crwdne248200:0</target>
         <note>key: product.asset.group.success</note>
+      </trans-unit>
+      <trans-unit id="ba26a26316f75e1cb9120aa666004e06fed1dbba" resname="product.asset.not.all.disallowed_type.message">
+        <source>One or more files have an unsupported file type</source>
+        <target>crwdns268000:0crwdne268000:0</target>
+        <note>key: product.asset.not.all.disallowed_type.message</note>
       </trans-unit>
       <trans-unit id="ed4b78a9b00310cbd7774f9412f1ee4716f501a8" resname="product.availability.create.success">
         <source>Availability for Product '%product_name%' (%product_code%) created.</source>
@@ -1426,6 +1456,11 @@
         <target>crwdns247478:0%product_type_name%crwdne247478:0</target>
         <note>key: product.new.title</note>
       </trans-unit>
+      <trans-unit id="750c10d12c93fe59648ca8bf886fe24f195e76e0" resname="product.no_categorized_products.action_text">
+        <source>All categorized products will show up here.</source>
+        <target>crwdns268002:0crwdne268002:0</target>
+        <note>key: product.no_categorized_products.action_text</note>
+      </trans-unit>
       <trans-unit id="a700c3f8899929b0c8b868d48ff286ba09c1aa61" resname="product.no_category_products.action_text">
         <source>Assign some products to it.</source>
         <target>crwdns248485:0crwdne248485:0</target>
@@ -1451,11 +1486,6 @@
         <target>crwdns243400:0crwdne243400:0</target>
         <note>key: product.no_product_types.link_label</note>
       </trans-unit>
-      <trans-unit id="eb55aec8cab8d6939e10c54d7d61500e6a7c8bfa" resname="product.no_products.action_text">
-        <source>Content items which you or your User group can review will show up here.</source>
-        <target>crwdns252274:0crwdne252274:0</target>
-        <note>key: product.no_products.action_text</note>
-      </trans-unit>
       <trans-unit id="a6e7493e0fe9feeccd8aaf445a3a1257877c9964" resname="product.no_products.info_text">
         <source>Add your first product</source>
         <target>crwdns243404:0crwdne243404:0</target>
@@ -1470,6 +1500,11 @@
         <source>Sorry, there are no products for your search</source>
         <target>crwdns243408:0crwdne243408:0</target>
         <note>key: product.no_search_results.info_text</note>
+      </trans-unit>
+      <trans-unit id="efbcb8fde79e0bcff6705c68229211ae204dabb6" resname="product.no_uncategorized_products.action_text">
+        <source>All uncategorized products will show up here.</source>
+        <target>crwdns268004:0crwdne268004:0</target>
+        <note>key: product.no_uncategorized_products.action_text</note>
       </trans-unit>
       <trans-unit id="0b9b1dcb71273596011bb718dd5a81ba57b5679f" resname="product.pre_create.create">
         <source>Create</source>
@@ -1645,6 +1680,11 @@
         <source>Upload results</source>
         <target>crwdns248503:0crwdne248503:0</target>
         <note>key: product.view.assets.validation_status_modal.title</note>
+      </trans-unit>
+      <trans-unit id="eb91860b66afa8a93a50bd24ca99f7779d9db1ae" resname="product.view.attribute.empty">
+        <source>This attribute is empty</source>
+        <target>crwdns268006:0crwdne268006:0</target>
+        <note>key: product.view.attribute.empty</note>
       </trans-unit>
       <trans-unit id="a01e1716cd2c170e1882d2f64fcb0417da4cbc43" resname="product.view.attributes.no_attributes.header">
         <source>There are no attributes yet</source>
@@ -2590,6 +2630,26 @@
         <source>Not selected</source>
         <target>crwdns252302:0crwdne252302:0</target>
         <note>key: translation.base_language.no_language</note>
+      </trans-unit>
+      <trans-unit id="3a107a4e9bb0415b994cc012dd0000b10b045125" resname="variants_viewer.no_variants.info">
+        <source>No</source>
+        <target>crwdns268008:0crwdne268008:0</target>
+        <note>key: variants_viewer.no_variants.info</note>
+      </trans-unit>
+      <trans-unit id="9aebf45b077c0d0e0171e43aebdf9cefe127e7ee" resname="variants_viewer.variants_btn.all_selected.text">
+        <source>All</source>
+        <target>crwdns268010:0crwdne268010:0</target>
+        <note>key: variants_viewer.variants_btn.all_selected.text</note>
+      </trans-unit>
+      <trans-unit id="2d1f24d4e0d52c409f2a4fa7aa7a49361cd1ddb7" resname="variants_viewer.variants_btn.with_total_count.label">
+        <source>Yes (%variantsCount%/%totalVariantsCount%)</source>
+        <target>crwdns268012:0%variantsCount%crwdnd268012:0%totalVariantsCount%crwdne268012:0</target>
+        <note>key: variants_viewer.variants_btn.with_total_count.label</note>
+      </trans-unit>
+      <trans-unit id="9b73a0f92b515bd88cd4146333a263a0288fab6b" resname="variants_viewer.variants_btn.without_total_count.label">
+        <source>Yes (%variantsCount%)</source>
+        <target>crwdns268014:0%variantsCount%crwdne268014:0</target>
+        <note>key: variants_viewer.variants_btn.without_total_count.label</note>
       </trans-unit>
       <trans-unit id="20fad9e8d345522985e50ce73aa14456dd0aaeba" resname="virtual_product_type.edit.action_name">
         <source>Editing Virtual Product type</source>
