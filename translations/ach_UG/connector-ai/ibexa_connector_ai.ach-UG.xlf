@@ -336,6 +336,11 @@
         <target>crwdns266665:0crwdne266665:0</target>
         <note>key: ibexa_connector_ai.actions.try_again.label</note>
       </trans-unit>
+      <trans-unit id="3bbf372b772b22c64ab96d4c45c17c623cbc4bb6" resname="ibexa_connector_ai.ai_assistant.close">
+        <source>Close</source>
+        <target>crwdns267984:0crwdne267984:0</target>
+        <note>key: ibexa_connector_ai.ai_assistant.close</note>
+      </trans-unit>
       <trans-unit id="3091ccd5bcda12f7663cff3ce4bf14d9c123f116" resname="ibexa_connector_ai.ai_assistant.preview.generating">
         <source>AI is generating...</source>
         <target>crwdns266667:0crwdne266667:0</target>
