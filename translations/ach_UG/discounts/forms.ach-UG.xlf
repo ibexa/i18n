@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="ed386cac6e7518f73f63826d86f05687567cc897" resname="role.policy.discount">
+        <source>Discount</source>
+        <target>crwdns267540:0crwdne267540:0</target>
+        <note>key: role.policy.discount</note>
+      </trans-unit>
+      <trans-unit id="1c6cb7731cd5a5532e1e254ade071c3a7791c149" resname="role.policy.discount.all_functions">
+        <source>Discount / All functions</source>
+        <target>crwdns267542:0crwdne267542:0</target>
+        <note>key: role.policy.discount.all_functions</note>
+      </trans-unit>
+      <trans-unit id="627769f7cc27567409fd8d439356c544ba631033" resname="role.policy.discount.create">
+        <source>Discount / Create</source>
+        <target>crwdns267544:0crwdne267544:0</target>
+        <note>key: role.policy.discount.create</note>
+      </trans-unit>
+      <trans-unit id="12d8b7fb582270b1e83982806e5146ded15ca310" resname="role.policy.discount.delete">
+        <source>Discount / Delete</source>
+        <target>crwdns267546:0crwdne267546:0</target>
+        <note>key: role.policy.discount.delete</note>
+      </trans-unit>
+      <trans-unit id="ee6536e606f7f043cb552dc1956e7200947baa5c" resname="role.policy.discount.disable">
+        <source>Discount / Disable</source>
+        <target>crwdns267548:0crwdne267548:0</target>
+        <note>key: role.policy.discount.disable</note>
+      </trans-unit>
+      <trans-unit id="cf8c0df2c11bdefd474469d81c81981de8222cd8" resname="role.policy.discount.enable">
+        <source>Discount / Enable</source>
+        <target>crwdns267550:0crwdne267550:0</target>
+        <note>key: role.policy.discount.enable</note>
+      </trans-unit>
+      <trans-unit id="82fbcea5da8efbfa1f93c4b0ea46f1bf2ee35b1d" resname="role.policy.discount.update">
+        <source>Discount / Update</source>
+        <target>crwdns267552:0crwdne267552:0</target>
+        <note>key: role.policy.discount.update</note>
+      </trans-unit>
+      <trans-unit id="6501a8a2e7e26187777056cf77eca103bee4f65b" resname="role.policy.discount.view">
+        <source>Discount / View</source>
+        <target>crwdns267554:0crwdne267554:0</target>
+        <note>key: role.policy.discount.view</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

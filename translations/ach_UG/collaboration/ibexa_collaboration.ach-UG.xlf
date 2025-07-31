@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="343d1e5cffd7c0e7b8635d401d60487f0bdfa57c" resname="collaboration.onboarding_modal.content_row.bottom">
+        <source>You can leave collaboration session any time without losing data.</source>
+        <target>crwdns267502:0crwdne267502:0</target>
+        <note>key: collaboration.onboarding_modal.content_row.bottom</note>
+      </trans-unit>
+      <trans-unit id="8eac8772f58802c06e280cf802b9efc03bf46981" resname="collaboration.onboarding_modal.content_row.top">
+        <source>All changes made by collaborators are automatically saved when owner publishes or saves content.</source>
+        <target>crwdns267504:0crwdne267504:0</target>
+        <note>key: collaboration.onboarding_modal.content_row.top</note>
+      </trans-unit>
+      <trans-unit id="279dccee66007bbdbd90da4406fc9e4544468ac7" resname="collaboration.onboarding_modal.footer.close_btn.label">
+        <source>Continue</source>
+        <target>crwdns267506:0crwdne267506:0</target>
+        <note>key: collaboration.onboarding_modal.footer.close_btn.label</note>
+      </trans-unit>
+      <trans-unit id="4de136281dbb460df8fed8d1674239e71b49a399" resname="collaboration.onboarding_modal.title">
+        <source>How collaboration works</source>
+        <target>crwdns267508:0crwdne267508:0</target>
+        <note>key: collaboration.onboarding_modal.title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
