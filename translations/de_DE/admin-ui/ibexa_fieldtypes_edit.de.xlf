@@ -26,6 +26,11 @@
         <target state="translated">Das Bild wurde veröffentlicht und kann jetzt wiederverwendet werden</target>
         <note>key: ezimageasset.create.message.success</note>
       </trans-unit>
+      <trans-unit id="75c1175bca5f2a2334ffe321afdaedf7fa6887bd" resname="ezimageasset.empty_data.message.error">
+        <source>The chosen asset has no image data available.</source>
+        <target state="translated">Für das ausgewählte Asset sind keine Bilddaten verfügbar.</target>
+        <note>key: ezimageasset.empty_data.message.error</note>
+      </trans-unit>
       <trans-unit id="d10ad93186c93b5a79a7aa921eb874b7df716935" resname="ezmaplocation.create.message.error">
         <source>Area below needs correction</source>
         <target state="translated">Der unten gezeigte Bereich muss korrigiert werden</target>

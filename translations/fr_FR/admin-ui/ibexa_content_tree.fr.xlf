@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="9042dc6dc12016a1ffce82c61781eb8df00d3a66" resname="loading_more">
         <source>Loading more...</source>
-        <target state="translated">Chargement de plus d’éléments…</target>
+        <target state="translated">Chargement de plus d’éléments...</target>
         <note>key: loading_more</note>
       </trans-unit>
       <trans-unit id="493d808c2fef6e72becec01dd34b5157a2fc3b51" resname="no_subitems">

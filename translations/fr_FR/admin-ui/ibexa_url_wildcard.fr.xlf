@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="921c295cb79d59f1703cfdfae6f1fcdb581451cf" resname="url_wildcard.label.alias">
         <source>URL alias wildcard</source>
-        <target state="translated">Alias d’URL avec joker</target>
+        <target state="translated">Joker d’alias d’URL</target>
         <note>key: url_wildcard.label.alias</note>
       </trans-unit>
       <trans-unit id="906de07fde9ac052d30b57ea68d7c3ffa70375aa" resname="url_wildcard.label.destination">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="75d2bf0fb2fc725c0e6909a48601346997114d22" resname="url_wildcard.modal.create.redirect">
         <source>Redirect to wildcard destination</source>
-        <target state="translated">Rediriger vers la destination de l’URL avec joker</target>
+        <target state="translated">Rediriger vers l’emplacement du joker</target>
         <note>key: url_wildcard.modal.create.redirect</note>
       </trans-unit>
       <trans-unit id="b739781c8d6b640df7432c6f4b4c14f3ada7716c" resname="url_wildcard.modal.create.redirect.helper">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="5646653e7d129c0a5c96b6b87e99eeb9d92a6fee" resname="url_wildcard.type.all">
         <source>All</source>
-        <target state="translated">Tout</target>
+        <target state="translated">Tous</target>
         <note>key: url_wildcard.type.all</note>
       </trans-unit>
       <trans-unit id="a3115263bb80e6486cc16154e23fecd398c0b352" resname="url_wildcard.type.direct">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="845ff50e5a5dd8e26d619dce56195e85daae20f7" resname="url_wildcard.type.forward">
         <source>Forward</source>
-        <target state="translated">Transférer</target>
+        <target state="translated">Avancer</target>
         <note>key: url_wildcard.type.forward</note>
       </trans-unit>
       <trans-unit id="744a5ddc1ab83b98c6b70a5d9650efa62147b324" resname="url_wildcard.update.success">

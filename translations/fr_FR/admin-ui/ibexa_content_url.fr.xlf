@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="0d3138c0198569f427ab4568fffa5d9d894db72a" resname="tab.urls.modal.message">
         <source>Delete the selected custom URL aliases permanently?</source>
-        <target state="translated">Supprimer définitivement les alias d’URL personnalisés sélectionnés ?</target>
+        <target state="translated">Supprimer les alias d’URL personnalisés sélectionnés de façon permanente ?</target>
         <note>key: tab.urls.modal.message</note>
       </trans-unit>
       <trans-unit id="56d218db883ed4cc59dbbca53364dc2e725013e4" resname="tab.urls.no_custom_urls">

@@ -16,11 +16,6 @@
         <target state="translated">Brouillons</target>
         <note>key: drafts.list</note>
       </trans-unit>
-      <trans-unit id="7a00fa1045089ab6b05a30314644f3f53477ecbf" resname="drafts.list.action.edit">
-        <source>Edit</source>
-        <target state="translated">Modifier</target>
-        <note>key: drafts.list.action.edit</note>
-      </trans-unit>
       <trans-unit id="887b9056de68ebd1c33c43af14093c2cafb38c5d" resname="drafts.list.action.remove">
         <source>Remove</source>
         <target state="translated">Supprimer</target>
@@ -28,7 +23,7 @@
       </trans-unit>
       <trans-unit id="7e9e5a5a2374b6f20dd6ffc35334073627778d62" resname="drafts.list.action.remove.confirmation.text">
         <source>Are you sure you want to permanently delete the selected draft(s)?</source>
-        <target state="translated">Voulez-vous vraiment supprimer définitivement le ou les brouillons sélectionnés ?</target>
+        <target state="translated">Voulez-vous vraiment supprimer de façon permanente le ou les brouillons sélectionnés ?</target>
         <note>key: drafts.list.action.remove.confirmation.text</note>
       </trans-unit>
       <trans-unit id="61be4cf21a9d454b832543ae2ecb5b2b10f94583" resname="drafts.list.action.remove.confirmation.title">
@@ -65,6 +60,11 @@
         <source>Version</source>
         <target state="translated">Version</target>
         <note>key: drafts.list.version</note>
+      </trans-unit>
+      <trans-unit id="b107e8277d2dda6c41872a6478d99abbe9b46dc0" resname="trash.modal.send_to_trash_draft_warning.message">
+        <source>Sending this content item to Trash will also delete all drafts of content items that haven’t been published yet, and belong to the trashed subtree.</source>
+        <target state="translated">L’envoi de cet élément de contenu à la corbeille supprimera également tous les brouillons d’éléments de contenu qui n’ont pas encore été publiés et appartiennent à la sous-arborescence placée dans la corbeille.</target>
+        <note>key: trash.modal.send_to_trash_draft_warning.message</note>
       </trans-unit>
     </body>
   </file>

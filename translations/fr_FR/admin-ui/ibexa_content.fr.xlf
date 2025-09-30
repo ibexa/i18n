@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="d773dd487e4e5467fd20fc4fc4987eba33eaf1b7" resname="content.main_language_update.success">
         <source>Main language for '%name%' updated.</source>
-        <target state="translated">La langue principale de « %name% » a été mise à jour.</target>
+        <target state="translated">La langue principale pour « %name% » a été mise à jour.</target>
         <note>key: content.main_language_update.success</note>
       </trans-unit>
       <trans-unit id="5f36fd5bb4e6938a731079f403467900e0396ed2" resname="content.main_location_update.success">
         <source>Main Location for '%name%' updated.</source>
-        <target state="translated">L’emplacement principal de « %name% » a été mis à jour.</target>
+        <target state="translated">L’emplacement principal pour « %name% » a été mis à jour.</target>
         <note>key: content.main_location_update.success</note>
       </trans-unit>
       <trans-unit id="d906dd66ce60bd64f6ba3ccc4ecf3fa443ff9e83" resname="content.reveal.already_visible">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="56c081f0ee65c4b44e231b9e616e9613e93e4f97" resname="content.reveal.success">
         <source>Content item '%name%' revealed.</source>
-        <target state="translated">Élément de contenu « %name% » visible.</target>
+        <target state="translated">L’élément de contenu « %name% » est visible.</target>
         <note>key: content.reveal.success</note>
       </trans-unit>
       <trans-unit id="6048a32d88dbcdd5a62e232ed092a8efd11ed375" resname="content_edit.autosave.status_error.message">
@@ -97,14 +97,9 @@
         <note>key: embedded_items.action.go_to_label</note>
       </trans-unit>
       <trans-unit id="f6ae7078e77f584ad00c8003405ca11dc57c4d56" resname="preview_header.back">
-        <source>Back</source>
-        <target state="translated">Retour</target>
-        <note>key: preview_header.back</note>
-      </trans-unit>
-      <trans-unit id="583285bb674e4f29b273ceb4b19dc700e44c4130" resname="tooltip.close_label">
         <source>Close</source>
         <target state="translated">Fermer</target>
-        <note>key: tooltip.close_label</note>
+        <note>key: preview_header.back</note>
       </trans-unit>
       <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
         <source>Are you sure you want to send this Content item to Trash?</source>

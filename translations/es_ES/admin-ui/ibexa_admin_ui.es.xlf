@@ -16,15 +16,20 @@
         <target state="translated">Completa tu perfil.</target>
         <note>key: details.alert.complete_profile</note>
       </trans-unit>
+      <trans-unit id="bb6a66ce981e1f4c979da6d4eccc06282388f871" resname="details.show_less.label">
+        <source>Show less</source>
+        <target state="translated">Mostrar menos</target>
+        <note>key: details.show_less.label</note>
+      </trans-unit>
+      <trans-unit id="8f1aba9dd9aa37972db51830a10ec4ddfb52031e" resname="details.show_more.label">
+        <source>Show more</source>
+        <target state="translated">Mostrar más</target>
+        <note>key: details.show_more.label</note>
+      </trans-unit>
       <trans-unit id="68a1a5ea4fa56098f5eae44460514a09ea8f8509" resname="distraction_free_mode.disable.label">
         <source>Exit distraction free mode</source>
         <target state="translated">Salir del modo libre de distracciones</target>
         <note>key: distraction_free_mode.disable.label</note>
-      </trans-unit>
-      <trans-unit id="3b73a0132e7934156fcf413f3af229612d8eca9c" resname="distraction_free_mode.disable.tooltip">
-        <source>Exit distraction free mode.</source>
-        <target state="translated">Salir del modo libre de distracciones.</target>
-        <note>key: distraction_free_mode.disable.tooltip</note>
       </trans-unit>
       <trans-unit id="d4de5a4ec1a58e845b16ca57b75b6b7585b2c5af" resname="distraction_free_mode.disable_hint">
         <source>To exit distraction free mode, click the %icon% or press Esc.</source>
@@ -58,12 +63,12 @@
       </trans-unit>
       <trans-unit id="73736cfd7959543f99b6edba300bc4d7c9c5683a" resname="user.focus_mode.off">
         <source>Focus mode</source>
-        <target state="translated">Modo de concentración</target>
+        <target state="translated">Modo concentración</target>
         <note>key: user.focus_mode.off</note>
       </trans-unit>
       <trans-unit id="8606b9e2c215d136dccfdb4b64cd5bfaa5a904cc" resname="user.focus_mode.on">
         <source>Focus mode</source>
-        <target state="translated">Modo de concentración</target>
+        <target state="translated">Modo concentración</target>
         <note>key: user.focus_mode.on</note>
       </trans-unit>
       <trans-unit id="d88f09dfa6b5a01de87c36fb97c09902cebcb3cc" resname="user_profile.action.edit">

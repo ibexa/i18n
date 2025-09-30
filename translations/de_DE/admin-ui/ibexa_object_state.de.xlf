@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="ba36d98066b4d157d8c91e3d642a2b54442f4846" resname="object_state.create.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: object_state.create.identifier</note>
       </trans-unit>
       <trans-unit id="89b2cde1a5a8302f98a6cc3b1a3e01260c74da1b" resname="object_state.create.name">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="8470ab4a8afa94731e8cce5193cc8631cc3c7167" resname="object_state.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: object_state.identifier</note>
       </trans-unit>
       <trans-unit id="9fc13c2d1fd12500855a381a919451e75a693858" resname="object_state.list.empty">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="fabfbcda1358cae555b0b005a386cf6b20ade908" resname="object_state.update.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: object_state.update.identifier</note>
       </trans-unit>
       <trans-unit id="17bcbe05b299c49f10b78a0b190029807eed8c1a" resname="object_state.update.name">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="f87d9f18a93e3ce9f164386ee0255d53d4c5227e" resname="object_state_group.create.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: object_state_group.create.identifier</note>
       </trans-unit>
       <trans-unit id="4690380cb356182c97f08bb2191692e7be2e753b" resname="object_state_group.create.name">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="31e5d74a2673e57390f478380181bc63977bc229" resname="object_state_group.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: object_state_group.identifier</note>
       </trans-unit>
       <trans-unit id="2a4bd8ce0453d59cfbc12c0b4f06668db088ebce" resname="object_state_group.list.empty">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="2db8c3e77568f759b118b23aec8cfacaca3d96c0" resname="object_state_group.update.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: object_state_group.update.identifier</note>
       </trans-unit>
       <trans-unit id="917b345087c0ca0bfc9c68645751e8cd63f0c6d2" resname="object_state_group.update.name">

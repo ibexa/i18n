@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="91023a897ee0c18e2cc4f392c2eefb06f935882e" resname="list.action_name">
         <source>Editing %action%</source>
-        <target state="translated">Modification de %action% en cours</target>
+        <target state="translated">Modification de %action%</target>
         <note>key: list.action_name</note>
       </trans-unit>
       <trans-unit id="9f3b1a45a0ce10a940f96bdba73bba914cc78bb6" resname="list.title">
@@ -28,32 +28,32 @@
       </trans-unit>
       <trans-unit id="53b6d0de00a5f914e863bed8b805457da18742ac" resname="settings.autosave.value.description">
         <source>Autosave draft every given period</source>
-        <target state="translated">Enregistrer automatiquement un brouillon avec la période donnée</target>
+        <target state="translated">Enregistrer automatiquement le brouillon à chaque période donnée</target>
         <note>key: settings.autosave.value.description</note>
       </trans-unit>
       <trans-unit id="8d3d9c3a593c29c5ad69cf09b44cc423b27b1b64" resname="settings.autosave.value.disabled">
-        <source>disabled</source>
-        <target state="translated">désactivé</target>
+        <source>Disabled</source>
+        <target state="translated">Désactivé</target>
         <note>key: settings.autosave.value.disabled</note>
       </trans-unit>
       <trans-unit id="5f85d72d00abca8e47ea83a67c9577c3cdb454b8" resname="settings.autosave.value.enabled">
-        <source>enabled</source>
-        <target state="translated">activé</target>
+        <source>Enabled</source>
+        <target state="translated">Activé</target>
         <note>key: settings.autosave.value.enabled</note>
       </trans-unit>
       <trans-unit id="6e582329e8e54377b58d547389fda8ac2dd2cf5c" resname="settings.autosave.value.title">
         <source>Autosave draft</source>
-        <target state="translated">Enregistrement automatique de brouillon</target>
+        <target state="translated">Enregistrer automatiquement le brouillon</target>
         <note>key: settings.autosave.value.title</note>
       </trans-unit>
       <trans-unit id="16b6d2224d9bf8a8ce12e0540d3528adc39315a0" resname="settings.autosave_interval.value.description">
         <source>Seconds till next draft autosave</source>
-        <target state="translated">Secondes entre les enregistrements automatiques d'un brouillon</target>
+        <target state="translated">Secondes avant le prochain enregistrement automatique du brouillon</target>
         <note>key: settings.autosave_interval.value.description</note>
       </trans-unit>
       <trans-unit id="870ccdccf629e90b1100e2422684918accc5c4c1" resname="settings.autosave_interval.value.title">
         <source>Autosave interval</source>
-        <target state="translated">Période d’enregistrement automatique</target>
+        <target state="translated">Intervalle d’enregistrement automatique</target>
         <note>key: settings.autosave_interval.value.title</note>
       </trans-unit>
       <trans-unit id="befc3e49a7bee4547f8c720a0fbb9d03d0d3e265" resname="settings.datetime_format.preview_label">
@@ -72,13 +72,13 @@
         <note>key: settings.in_context_translation.value.description</note>
       </trans-unit>
       <trans-unit id="3f33c08a95b774bfdcb67ade54bce7f62bd2ac54" resname="settings.in_context_translation.value.disabled">
-        <source>disabled</source>
-        <target state="translated">désactivé</target>
+        <source>Disabled</source>
+        <target state="translated">Désactivé</target>
         <note>key: settings.in_context_translation.value.disabled</note>
       </trans-unit>
       <trans-unit id="08e33cb64156307a5a8197a0cdb4e254e6c4c5c5" resname="settings.in_context_translation.value.enabled">
-        <source>enabled</source>
-        <target state="translated">activé</target>
+        <source>Enabled</source>
+        <target state="translated">Activé</target>
         <note>key: settings.in_context_translation.value.enabled</note>
       </trans-unit>
       <trans-unit id="655baeb177f1234a01684cf79c22ccdcaf5bee51" resname="settings.in_context_translation.value.title">
@@ -100,13 +100,14 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="translated"><![CDATA[<p><strong>Mode Concentration</strong> – Une interface claire et intuitive avec une structure de contenu simplifiée, conçue pour les nouveaux utilisateurs et ceux qui ne sont pas expérimentés. Les fonctionnalités comprennent :</p>
-			<ul>
-                            <li>Un onglet Affichage pour visualiser un aperçu du site dans son contexte</li>
-			    <li>Un onglet Détails techniques masqués</li>
-			    <li>Des onglets Emplacements masqués et Versions dans les éléments de contenu</li>
-			</ul>
-		</p>]]></target>
+        <target state="translated"><![CDATA[<p><strong>Mode concentration</strong> – Une interface propre et intuitive avec une structure de contenu simplifiée,
+                        conçue pour les nouveaux utilisateurs et les utilisateurs non avancés. Les caractéristiques comprennent :</p>
+                        <ul>
+                            <li>Onglet Afficher affichant un aperçu du site dans le contexte</li>
+                            <li>Onglet Détails techniques masqués</li>
+                            <li>Onglets Emplacements et Versions masqués dans les éléments de contenu</li>
+                        </ul>
+                    </p>]]></target>
         <note>key: user.setting.focus_mode.help</note>
       </trans-unit>
       <trans-unit id="3f9f3faa4259dc9c627396c82133e9f615e388a8" resname="user.setting.focus_mode.label">

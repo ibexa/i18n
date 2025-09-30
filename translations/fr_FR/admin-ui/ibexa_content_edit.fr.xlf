@@ -16,6 +16,11 @@
         <target state="translated">Ce type de champ n’est pas modifiable</target>
         <note>key: content.field.non_editable</note>
       </trans-unit>
+      <trans-unit id="927b5658769b10a67f0aa5e9f3d8b35e746e0276" resname="content.meta.created_by">
+        <source>Created by %name%</source>
+        <target state="translated">Créé par %name%</target>
+        <note>key: content.meta.created_by</note>
+      </trans-unit>
       <trans-unit id="07d6fb7c02b8730592a3bb68a315caa63031d44e" resname="content.published.success">
         <source>Content published.</source>
         <target state="translated">Contenu publié.</target>
@@ -23,7 +28,7 @@
       </trans-unit>
       <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
         <source>Editing</source>
-        <target state="translated">Modification en cours</target>
+        <target state="translated">Modification</target>
         <note>key: editing</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
@@ -31,19 +36,24 @@
         <target state="translated">Emplacement : %location% Traduction : %language%</target>
         <note>key: editing_details</note>
       </trans-unit>
+      <trans-unit id="582b09a837963ba464ba24493c8cc7c360b99708" resname="editing_details_subtitle">
+        <source>under: %location%</source>
+        <target state="translated">sous : %location%</target>
+        <note>key: editing_details_subtitle</note>
+      </trans-unit>
       <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">
         <source>Translating the %fieldName% Field is disabled. See content type definition for details.</source>
         <target state="translated">La traduction du champ %fieldName% est désactivée. Voir la définition du type de contenu pour plus de détails.</target>
         <note>key: fieldtype.translation_is_disabled</note>
       </trans-unit>
       <trans-unit id="39b4081643351e2a41c1b3b811b6dc78fb528520" resname="on_the_fly.cancel">
-        <source>Cancel</source>
-        <target state="translated">Annuler</target>
+        <source>Discard</source>
+        <target state="translated">Abandonner</target>
         <note>key: on_the_fly.cancel</note>
       </trans-unit>
       <trans-unit id="d466f97702d045f02d8b55379a9c6ea5270ecfef" resname="on_the_fly.confirm">
-        <source>Confirm</source>
-        <target state="translated">Confirmer</target>
+        <source>Save and close</source>
+        <target state="translated">Enregistrer et fermer</target>
         <note>key: on_the_fly.confirm</note>
       </trans-unit>
     </body>

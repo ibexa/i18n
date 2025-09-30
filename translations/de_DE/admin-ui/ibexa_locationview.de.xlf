@@ -72,7 +72,7 @@
         <note>key: location.bookmark.add</note>
       </trans-unit>
       <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
-        <source>Remove from Bookmarks</source>
+        <source>Remove from bookmarks</source>
         <target state="translated">Aus Lesezeichen entfernen</target>
         <note>key: location.bookmark.remove</note>
       </trans-unit>
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by">
         <source>Order by</source>
-        <target state="translated">Bestellen nach</target>
+        <target state="translated">Sortieren nach</target>
         <note>key: tab.details.sub_items_listing_by.order_by</note>
       </trans-unit>
       <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
         <source>Content or its ancestor is hidden</source>
-        <target state="translated">Inhalt oder sein Vorgänger ist ausgeblendet</target>
+        <target state="translated">Inhalt oder sein Vorfahre ist ausgeblendet</target>
         <note>key: tab.locations.hidden_content_or_superior</note>
       </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="b5d6fe3a752b0c391bfa751acb7c4c3ac82e2c0c" resname="tab.locations.subitems">
         <source>Sub-items</source>
-        <target state="translated">Abhängige Elemente</target>
+        <target state="translated">Untergeordnete Elemente</target>
         <note>key: tab.locations.subitems</note>
       </trans-unit>
       <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="7e5efcb8041239f2e067d416f6ebfdfe9cd120a1" resname="tab.name.sub_items">
         <source>Sub-items</source>
-        <target state="translated">Abhängige Elemente</target>
+        <target state="translated">Untergeordnete Elemente</target>
         <note>key: tab.name.sub_items</note>
       </trans-unit>
       <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="134ac8f9b086171dcda7931b3bb7acc0042bb1c9" resname="tab.versions.modal.message">
         <source>Do you want to delete the version(s)?</source>
-        <target state="translated">Möchten Sie die Version(en) löschen?</target>
+        <target state="translated">Möchten Sie die Versionen löschen?</target>
         <note>key: tab.versions.modal.message</note>
       </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">

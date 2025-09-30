@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="7100bfb6741e032fcfcc681f3eceef78650e4672" resname="header.search">
         <source>Search...</source>
-        <target state="translated">Suche ...</target>
+        <target state="translated">Suche ...</target>
         <note>key: header.search</note>
       </trans-unit>
       <trans-unit id="3559d7accf00360971961ca18989adc0614089c0" resname="search">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="3cda85a3d6f81d71d24c9a518007b45423c9d8a7" resname="search.no_results.title">
         <source>No results found for "%query%"</source>
-        <target state="translated">Keine Ergebnisse gefunden für „%query%“.</target>
+        <target state="translated">Keine Ergebnisse für „%query%“ gefunden</target>
         <note>key: search.no_results.title</note>
       </trans-unit>
       <trans-unit id="cf6a8b73336f4f6df2b48489f9fca8fcb128db0e" resname="search.results_for">

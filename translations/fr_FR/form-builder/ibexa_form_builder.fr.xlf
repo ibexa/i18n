@@ -21,6 +21,11 @@
         <target state="translated">Créer un formulaire</target>
         <note>key: building.form</note>
       </trans-unit>
+      <trans-unit id="ee1a6091d9aa01227acfb10059fa6621ad5bdd09" resname="content.file.unauthorized">
+        <source>To view this file, you need a proper level of permissions.</source>
+        <target state="translated">Pour afficher ce fichier, vous devez disposer d’un niveau d’autorisation approprié.</target>
+        <note>key: content.file.unauthorized</note>
+      </trans-unit>
       <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
         <source>Create your form.</source>
         <target state="translated">Créez votre formulaire.</target>
@@ -188,7 +193,7 @@
       </trans-unit>
       <trans-unit id="ecd39f5f51085813a2ee59a9801b8dc2a7a93b87" resname="select.content.item.created_date">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: select.content.item.created_date</note>
       </trans-unit>
       <trans-unit id="66fe51277fc59cd5cf5f56feaf51ccf873eedf4f" resname="select.content.item.headline">

@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="e676ac2f04711e7a31e0f547a57e674f7cad4661" resname="url.label.last_checked.never">
         <source>This URL has not been checked</source>
-        <target state="translated">Diese URL wurde nicht überprüft.</target>
+        <target state="translated">Diese URL wurde nicht überprüft</target>
         <note>key: url.label.last_checked.never</note>
       </trans-unit>
       <trans-unit id="d23c2f190381df7d8a1ac3c3de0df4631c161818" resname="url.label.modified">
@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="3e0d8fcb74e476fcae45da9c4c7b0b261118c7a3" resname="url.status.invalid">
         <source>Invalid</source>
-        <target state="translated">Ungültige</target>
+        <target state="translated">Ungültig</target>
         <note>key: url.status.invalid</note>
       </trans-unit>
       <trans-unit id="8907a4f74219ceff2ee07437ec1657f1ee75a830" resname="url.status.valid">
         <source>Valid</source>
-        <target state="translated">Gültige</target>
+        <target state="translated">Gültig</target>
         <note>key: url.status.valid</note>
       </trans-unit>
       <trans-unit id="ab21b5c3a570d491adc4ab793f2ce4f13f0f2ca7" resname="url.tab.information">
@@ -103,12 +103,12 @@
       </trans-unit>
       <trans-unit id="af51e21b845c88f95912dd85c6e94559d7038df6" resname="url.tab.usages">
         <source>Content item(s) using this URL</source>
-        <target state="translated">Inhaltselement(e), die diese URL verwenden.</target>
+        <target state="translated">Inhaltselemente, die diese URL verwenden</target>
         <note>key: url.tab.usages</note>
       </trans-unit>
       <trans-unit id="9ff98d02d294a164470b9491cabfa3526f2f63f6" resname="url.update.success">
         <source>URL updated</source>
-        <target state="translated">URL wurde aktualisiert.</target>
+        <target state="translated">URL wurde aktualisiert</target>
         <note>key: url.update.success</note>
       </trans-unit>
       <trans-unit id="8fe54f2938f83a529ad5d7aa94d4e2fc9934bac1" resname="url.usages.column.name">

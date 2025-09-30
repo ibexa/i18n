@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="f511d74c1c98e02f8ab1e4c15e718cd635c27135" resname="ibexa.payment.details.column.created">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: ibexa.payment.details.column.created</note>
       </trans-unit>
       <trans-unit id="fb7f417438d002e443cdb6fa7293d45946b6a679" resname="ibexa.payment.details.column.payment_method">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="f6c32e96df818ce33a83fdc07ab12b215a8215b7" resname="ibexa.payment.list.column.created">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: ibexa.payment.list.column.created</note>
       </trans-unit>
       <trans-unit id="3d4bb2fe940abaf3fe96a5fd63920e190f6b307c" resname="ibexa.payment.list.column.identifier">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="35f298f5ebb91378048b92657b11684b246d100e" resname="ibexa.payment.search.created_at.label">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: ibexa.payment.search.created_at.label</note>
       </trans-unit>
       <trans-unit id="735e607e10fee87f6361aece565f953282594080" resname="ibexa.payment.search.payment_methods.label">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="f96039d34ca65c0d5d9d5850aa86a666e528c74a" resname="ibexa.payment.summary.created.label">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: ibexa.payment.summary.created.label</note>
       </trans-unit>
       <trans-unit id="618ed384b94e5e6975601c0c16fc6011937c5ae7" resname="ibexa.payment.summary.go_to_details">

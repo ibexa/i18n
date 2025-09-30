@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="d84d268500ed938e8c3ff17c353ba908af8e2792" resname="ibexa.payment.workflow.place.cancelled.label">
         <source>Cancelled</source>
-        <target>Cancelado</target>
+        <target state="translated">Cancelado</target>
         <note>key: ibexa.payment.workflow.place.cancelled.label</note>
       </trans-unit>
       <trans-unit id="15a873c423e058490d22064753d358fef1896000" resname="ibexa.payment.workflow.place.failed.label">
         <source>Failed</source>
-        <target>Error</target>
+        <target state="translated">Error</target>
         <note>key: ibexa.payment.workflow.place.failed.label</note>
       </trans-unit>
       <trans-unit id="458274433ee76d7b6d603385ec0b0fe0e15339c2" resname="ibexa.payment.workflow.place.paid.label">
         <source>Paid</source>
-        <target>Pagado</target>
+        <target state="translated">Pagado</target>
         <note>key: ibexa.payment.workflow.place.paid.label</note>
       </trans-unit>
       <trans-unit id="8d8ada5a2a0932c8b21338e2b9a8ca7292a31812" resname="ibexa.payment.workflow.place.pending.label">
         <source>Pending</source>
-        <target>Pendiente</target>
+        <target state="translated">Pendiente</target>
         <note>key: ibexa.payment.workflow.place.pending.label</note>
       </trans-unit>
       <trans-unit id="b0452fe234571eebc875776ccff66047699f93d7" resname="ibexa.payment.workflow.transition.pay.label">
         <source>Confirm</source>
-        <target>Confirmar</target>
+        <target state="translated">Confirmar</target>
         <note>key: ibexa.payment.workflow.transition.pay.label</note>
       </trans-unit>
     </body>

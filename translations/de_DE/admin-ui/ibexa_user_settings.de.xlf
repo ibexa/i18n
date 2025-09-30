@@ -32,13 +32,13 @@
         <note>key: settings.autosave.value.description</note>
       </trans-unit>
       <trans-unit id="8d3d9c3a593c29c5ad69cf09b44cc423b27b1b64" resname="settings.autosave.value.disabled">
-        <source>disabled</source>
-        <target state="translated">deaktiviert</target>
+        <source>Disabled</source>
+        <target state="translated">Deaktiviert</target>
         <note>key: settings.autosave.value.disabled</note>
       </trans-unit>
       <trans-unit id="5f85d72d00abca8e47ea83a67c9577c3cdb454b8" resname="settings.autosave.value.enabled">
-        <source>enabled</source>
-        <target state="translated">aktiviert</target>
+        <source>Enabled</source>
+        <target state="translated">Aktiviert</target>
         <note>key: settings.autosave.value.enabled</note>
       </trans-unit>
       <trans-unit id="6e582329e8e54377b58d547389fda8ac2dd2cf5c" resname="settings.autosave.value.title">
@@ -72,13 +72,13 @@
         <note>key: settings.in_context_translation.value.description</note>
       </trans-unit>
       <trans-unit id="3f33c08a95b774bfdcb67ade54bce7f62bd2ac54" resname="settings.in_context_translation.value.disabled">
-        <source>disabled</source>
-        <target state="translated">deaktiviert</target>
+        <source>Disabled</source>
+        <target state="translated">Deaktiviert</target>
         <note>key: settings.in_context_translation.value.disabled</note>
       </trans-unit>
       <trans-unit id="08e33cb64156307a5a8197a0cdb4e254e6c4c5c5" resname="settings.in_context_translation.value.enabled">
-        <source>enabled</source>
-        <target state="translated">aktiviert</target>
+        <source>Enabled</source>
+        <target state="translated">Aktiviert</target>
         <note>key: settings.in_context_translation.value.enabled</note>
       </trans-unit>
       <trans-unit id="655baeb177f1234a01684cf79c22ccdcaf5bee51" resname="settings.in_context_translation.value.title">
@@ -100,14 +100,14 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="translated"><![CDATA[<p><strong>Fokus-Modus</strong> – Eine saubere und intuitive Oberfläche mit einer vereinfachten Inhaltsstruktur,
-                        die für neue und nicht fortgeschrittene Benutzer konzipiert ist. Zu den Funktionen gehören:</p>
-                         <ul>
-                            <li>Registerkarte zur Anzeige der Site-Vorschau im Kontext</li>
-                             <li>Ausgeblendete Registerkarte Technische Details</li>
-                             <li>Ausgeblendete Registerkarten „Standorte“ und „Versionen“ in Inhaltselementen</li>
-                         </ul>
-		</p>]]></target>
+        <target state="translated"><![CDATA[<p><strong>Fokus-Modus</strong> – Eine übersichtliche und intuitive Benutzeroberfläche mit vereinfachter Inhalts-
+                        Struktur, konzipiert für neue und nicht fortgeschrittene Benutzer. Zu den Funktionen gehören:</p>
+                        <ul>
+                            <li>Registerkarte „Ansicht“ zeigt eine Site-Vorschau im Kontext an</li>
+                            <li>Ausgeblendete Registerkarte „Technische Details“</li>
+                            <li>Ausgeblendete Registerkarten „Standorte“ und “Versionen” in Inhaltselementen</li>
+                        </ul>
+                    </p>]]></target>
         <note>key: user.setting.focus_mode.help</note>
       </trans-unit>
       <trans-unit id="3f9f3faa4259dc9c627396c82133e9f615e388a8" resname="user.setting.focus_mode.label">

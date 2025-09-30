@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select Location(s) to use as Limitation</source>
-        <target state="translated">Wählen Sie die Standort aus, die als Einschränkung verwendet werden soll</target>
+        <target state="translated">Wählen Sie die Standorte aus, die als Einschränkung verwendet werden soll</target>
         <note>key: role.policy.limitation.location.udw_title</note>
       </trans-unit>
       <trans-unit id="290f48ccc1eb2889852b730ac62b2b148594c85f" resname="role.policy.limitation.location_deleted">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
         <source>Choose a type</source>
-        <target state="translated">Wählen Sie einen Typ aus.</target>
+        <target state="translated">Wählen Sie einen Typ aus</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
     </body>

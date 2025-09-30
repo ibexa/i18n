@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="0c3800a29144ab27e80a81e100212ccd5fd7e509" resname="content_translation_remove_form.remove">
         <source>Remove translation</source>
-        <target state="translated">Eliminar traducción</target>
+        <target state="translated">Quitar traducción</target>
         <note>key: content_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="2c32d3b89f20704d8a78092c617310a52b22008c" resname="content_type.copy.copy">
@@ -47,13 +47,13 @@
         <note>key: content_types_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
-        <source>%fieldName% cannot be empty</source>
-        <target state="translated">%fieldName% no puede estar vacío</target>
+        <source>%fieldName% cannot be empty.</source>
+        <target state="translated">%fieldName% no puede estar vacío.</target>
         <note>key: error.required.field</note>
       </trans-unit>
       <trans-unit id="6090b5d2c17e00053a576ede5c82afba67f0cc49" resname="error.required.field_not_blank">
-        <source>This value should not be blank</source>
-        <target state="translated">Este valor no debe estar en blanco</target>
+        <source>This value should not be blank.</source>
+        <target state="translated">Este valor no debe estar en blanco.</target>
         <note>key: error.required.field_not_blank</note>
       </trans-unit>
       <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled">

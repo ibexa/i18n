@@ -91,6 +91,16 @@
         <target state="translated">Bearbeiten</target>
         <note>key: policy.view.limitations.title</note>
       </trans-unit>
+      <trans-unit id="23ea93648ea660ff72d374919fe6df5398ed070f" resname="policy.view.list.no_policies.action">
+        <source>Select policies to effectively manage users access.</source>
+        <target state="translated">Wählen Sie Richtlinien zur effektiven Verwaltung des Benutzerzugriffs aus.</target>
+        <note>key: policy.view.list.no_policies.action</note>
+      </trans-unit>
+      <trans-unit id="c298a13835d0e03798c0d658b9828774bae0ef45" resname="policy.view.list.no_policies.info">
+        <source>Add first policy</source>
+        <target state="translated">Erste Richtlinie hinzufügen</target>
+        <note>key: policy.view.list.no_policies.info</note>
+      </trans-unit>
       <trans-unit id="35aa96a30453aa7b604432885032fd961a7f508a" resname="policy.view.list.panel.policies.action.edit">
         <source>Edit</source>
         <target state="translated">Bearbeiten</target>
@@ -188,12 +198,12 @@
       </trans-unit>
       <trans-unit id="6f6e274dd8d21241d5bb3d647b1089c939e84313" resname="role.view.copy.title">
         <source>Copying Role: %identifier%</source>
-        <target state="translated">Rolle %identifier% wird kopiert.</target>
+        <target state="translated">Rolle %identifier% wird kopiert</target>
         <note>key: role.view.copy.title</note>
       </trans-unit>
       <trans-unit id="d3938c40d50b4d6e972248900f2d43cda1fe02a3" resname="role.view.edit.title">
         <source>Editing Role '%identifier%'</source>
-        <target state="translated">Rolle „%identifier%“ wird bearbeitet.</target>
+        <target state="translated">Rolle „%identifier%“ wird bearbeitet</target>
         <note>key: role.view.edit.title</note>
       </trans-unit>
       <trans-unit id="88d7426f344cc9d85b90903dad013d5806b82faa" resname="role.view.list.action.add">
@@ -258,7 +268,7 @@
       </trans-unit>
       <trans-unit id="61a5ec154d3f0620ec619d196611b011996128ff" resname="role_assignment.view.add.title">
         <source>Assigning users and groups</source>
-        <target state="translated">Benutzer und Gruppen werden zugewiesen.</target>
+        <target state="translated">Benutzer und Gruppen werden zugewiesen</target>
         <note>key: role_assignment.view.add.title</note>
       </trans-unit>
       <trans-unit id="a21a7a13956cadf2256095fbdd062f1b33dd05a8" resname="role_assignment.view.list.action.add">
@@ -275,6 +285,16 @@
         <source>Users and Groups</source>
         <target state="translated">Benutzer und Gruppen</target>
         <note>key: role_assignment.view.list.header</note>
+      </trans-unit>
+      <trans-unit id="970ece71cc63ecb5801a372c11086cd9c9ea3f6b" resname="role_assignment.view.list.no_assignments.action">
+        <source>Select assignments to effectively manage user roles access by adding them to specific groups.</source>
+        <target state="translated">Wählen Sie Zuweisungen aus, um den Zugriff von Benutzerrollen effektiv zu verwalten, indem Sie sie bestimmten Gruppen hinzufügen.</target>
+        <note>key: role_assignment.view.list.no_assignments.action</note>
+      </trans-unit>
+      <trans-unit id="60d27e45bb1366da2a24048afbc1ee4f6e53ab1b" resname="role_assignment.view.list.no_assignments.info">
+        <source>Add users assignment</source>
+        <target state="translated">Benutzerzuweisung hinzufügen</target>
+        <note>key: role_assignment.view.list.no_assignments.info</note>
       </trans-unit>
       <trans-unit id="f7b9f2997c5eada07c20a0bde7e89cc0c688e1ea" resname="role_assignment.view.list.panel.assignments.column.limitation">
         <source>Limitation</source>
@@ -348,7 +368,7 @@
       </trans-unit>
       <trans-unit id="5abe6179f254b9bdd5e8680eec4456118980932e" resname="validator.assign_users_or_groups">
         <source>Assign User(s) and/or Group(s) to the Role</source>
-        <target state="translated">Benutzer und/oder Gruppe(n) der Rolle zuweisen</target>
+        <target state="translated">Benutzer und/oder Gruppen der Rolle zuweisen</target>
         <note>key: validator.assign_users_or_groups</note>
       </trans-unit>
     </body>

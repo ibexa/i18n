@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="c82a33e6a2272aab44ff7b78c90817c0fc8768cb" resname="base.need_assistance">
         <source>Get to know Ibexa DXP</source>
-        <target state="translated">Conocer Ibexa DXP</target>
+        <target state="translated">Conocer a Ibexa DXP</target>
         <note>key: base.need_assistance</note>
       </trans-unit>
       <trans-unit id="2db35ee6d4dcf83edd936a8a8a6baabd1e4ffd76" resname="base.registration">
@@ -93,12 +93,12 @@
       </trans-unit>
       <trans-unit id="34e898c4a61c4925b523416b0c7ecd9574d8e48b" resname="base.visit_support">
         <source><![CDATA[See the %ibexa_documentation_link%<br/>or %ibexa_contact_link%]]></source>
-        <target state="translated"><![CDATA[Ver el %ibexa_documentation_link%<br/>o %ibexa_contact_link%]]></target>
+        <target state="translated"><![CDATA[Consulta la documentación %ibexa_documentation_link%<br/>o %ibexa_contact_link%]]></target>
         <note>key: base.visit_support</note>
       </trans-unit>
       <trans-unit id="59c7ae16de21fe5b4f16ac740a708e72fff4654a" resname="base.welcome">
         <source><![CDATA[Welcome to<br/> Ibexa DXP]]></source>
-        <target state="translated"><![CDATA[Bienvenido a<br/> Ibexa DXP]]></target>
+        <target state="translated"><![CDATA[Te damos la bienvenida a<br/> Ibexa DXP]]></target>
         <note>key: base.welcome</note>
       </trans-unit>
       <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="fc543140fe88431b31013a20fbceef4ecf9e7430" resname="content.details.parent_location_id">
         <source>Parent Location ID: %locationId%</source>
-        <target state="translated">ID de ubicación de los elementos primarios: %locationId%</target>
+        <target state="translated">ID de ubicación principal: %locationId%</target>
         <note>key: content.details.parent_location_id</note>
       </trans-unit>
       <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="a2f384a133f8c542cc8c7388d9115f62ae3c4234" resname="content_type.view.edit.search">
         <source>Search...</source>
-        <target state="translated">Buscar…</target>
+        <target state="translated">Buscar...</target>
         <note>key: content_type.view.edit.search</note>
       </trans-unit>
       <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
         <source>Search...</source>
-        <target state="translated">Buscar…</target>
+        <target state="translated">Buscar...</target>
         <note>key: dropdown.search</note>
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
@@ -300,6 +300,11 @@
         <source>Something went wrong</source>
         <target state="translated">Algo ha ido mal</target>
         <note>key: error.page.default.title</note>
+      </trans-unit>
+      <trans-unit id="82a14ddaa0744c4e5942d373df7194a92ba4e0f5" resname="error.request.default_msg">
+        <source>Something went wrong. Try to refresh the page or contact your administrator.</source>
+        <target state="translated">Algo ha ido mal. Intenta actualizar la página o ponte en contacto con tu administrador.</target>
+        <note>key: error.request.default_msg</note>
       </trans-unit>
       <trans-unit id="2c7f89a37db43b829ff76f40565020c5bd4c2dae" resname="ezauthor.Email">
         <source>Email</source>
@@ -353,7 +358,7 @@
       </trans-unit>
       <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator">
         <source>If you do not remember your login, contact your Administrator.</source>
-        <target state="translated">Si no recuerdas tu nombre de usuario, ponte en contacto con tu administrador.</target>
+        <target state="translated">Si no recuerdas tu inicio de sesión, ponte en contacto con tu administrador.</target>
         <note>key: ezplatform.forgot_user_password.contact_administrator</note>
       </trans-unit>
       <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
@@ -364,19 +369,18 @@
       <trans-unit id="db6dd97ed4776bb0e9843554c48e3962327e8f50" resname="ezplatform.forgot_user_password.message">
         <source><![CDATA[Hi,
         <br /><br />
-        We have received a request to reset the password for your eZ Platform account. Click “reset password” below to choose a new password:
+        We have received a request to reset the password for your Ibexa DXP account. Click “reset password” below to choose a new password:
         <br /><br />
         <a href="%reset_password%">Reset password</a>
         <br /><br />
         If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
-        <target state="translated"><![CDATA[Hola, 
-	<br /><br />
-	Hemos recibido una solicitud para restablecer la contraseña de tu cuenta de eZ Platform. Haz clic en “restablecer contraseña” a continuación para escoger una nueva contraseña:
+        <target state="translated"><![CDATA[Hola:
         <br /><br />
-
+        Hemos recibido una solicitud para restablecer la contraseña de tu cuenta de Ibexa DXP. Haz clic en “restablecer contraseña” a continuación para escoger una nueva contraseña:
+        <br /><br />
         <a href="%reset_password%">Restablecer contraseña</a>
-	<br /><br />
-	Si no has solicitado un restablecimiento de contraseña, ignora este correo electrónico y tu contraseña seguirá siendo la misma.]]></target>
+        <br /><br />
+        Si no has solicitado un restablecimiento de contraseña, ignora este correo electrónico y tu contraseña seguirá siendo la misma.]]></target>
         <note>key: ezplatform.forgot_user_password.message</note>
       </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
@@ -405,8 +409,8 @@
         <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
       </trans-unit>
       <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
-        <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to eZ Platform.]]></source>
-        <target state="translated"><![CDATA[Se ha cambiado tu contraseña. Puedes <a href="%login%">iniciar sesión</a> en eZ Platform.]]></target>
+        <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to Ibexa DXP.]]></source>
+        <target state="translated"><![CDATA[Se ha cambiado tu contraseña. Puedes <a href="%login%">iniciar sesión</a> en Ibexa DXP.]]></target>
         <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="bd5ae6bdfe2b60c317c3b47f27c5bf5a264b71ba" resname="fieldview.toggler.hide">
@@ -421,7 +425,7 @@
       </trans-unit>
       <trans-unit id="b469507c15ca085ba9753f60ab835f68cda9c725" resname="footer.copyright">
         <source><![CDATA[Copyright &copy; %year% Ibexa. All right reserved]]></source>
-        <target state="translated"><![CDATA[Copyright y copia; %year% Ibexa. Todos los derechos reservados]]></target>
+        <target state="translated"><![CDATA[Copyright &copy; %year% Ibexa. Todos los derechos reservados]]></target>
         <note>key: footer.copyright</note>
       </trans-unit>
       <trans-unit id="9108451fc15edd434efe02a84ea849c334073272" resname="footer.ibexa_documentation">
@@ -511,7 +515,7 @@
       </trans-unit>
       <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
         <source>Title:</source>
-        <target state="translated">Título:</target>
+        <target state="translated">Cargo:</target>
         <note>key: notification.title</note>
       </trans-unit>
       <trans-unit id="0480844e257807b48dbf75fa7a374ceb7649ec5c" resname="object_state.delete.bulk_delete.submit">
@@ -598,16 +602,6 @@
         <source>Swap the Content item at this Location with another</source>
         <target state="translated">Intercambiar el ítem de contenido en esta ubicación por otro</target>
         <note>key: tab.locations.swap_with_another</note>
-      </trans-unit>
-      <trans-unit id="d2e707023baa6830915c5d12b915974d627522e4" resname="tab.versions.table.action.archived.edit">
-        <source>Restore archived version</source>
-        <target state="translated">Restaurar la versión archivada</target>
-        <note>key: tab.versions.table.action.archived.edit</note>
-      </trans-unit>
-      <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
-        <source>Edit</source>
-        <target state="translated">Editar</target>
-        <note>key: tab.versions.table.action.draft.edit</note>
       </trans-unit>
       <trans-unit id="a602612589c6e902caaf8acf1fd51fcd215955f1" resname="tab.versions.table.author.not_found">
         <source>Can't fetch contributor</source>

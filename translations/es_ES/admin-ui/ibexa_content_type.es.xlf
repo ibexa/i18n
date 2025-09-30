@@ -73,22 +73,22 @@
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
         <source>Sort children by default by:</source>
-        <target state="translated">Ordenar a los elementos secundarios de forma predeterminada por:</target>
+        <target state="translated">Ordenar a los niños de forma predeterminada por:</target>
         <note>key: content_type.default_children_sorting</note>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
         <source>Sort children by default in order:</source>
-        <target state="translated">Ordenar a los elementos secundarios de forma predeterminada por clasificación:</target>
+        <target state="translated">Ordenar a los niños de forma predeterminada por clasificación:</target>
         <note>key: content_type.default_sort</note>
       </trans-unit>
       <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
         <source>Sort children by default by</source>
-        <target state="translated">Ordenar a los elementos secundarios de forma predeterminada por</target>
+        <target state="translated">Ordenar a los niños de forma predeterminada por</target>
         <note>key: content_type.default_sort_field</note>
       </trans-unit>
       <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order">
         <source>Sort children by default in order</source>
-        <target state="translated">Ordenar a los elementos secundarios de forma predeterminada por clasificación</target>
+        <target state="translated">Ordenar a los niños de forma predeterminada por clasificación</target>
         <note>key: content_type.default_sort_order</note>
       </trans-unit>
       <trans-unit id="be2f64eb4557a3af16a2f32f5e0185c591d3ca8f" resname="content_type.delete">
@@ -823,7 +823,7 @@
       </trans-unit>
       <trans-unit id="1b81ac541baeeaf535b19ae644965c799c218329" resname="field_definition.ezuser.password_ttl_warning">
         <source>Days before a user is notified about expiration</source>
-        <target state="translated">Días antes de que se notifique a un usuario que sobre vencimiento</target>
+        <target state="translated">Días antes de que se notifique a un usuario que ha caducado</target>
         <note>key: field_definition.ezuser.password_ttl_warning</note>
       </trans-unit>
       <trans-unit id="98c42f6735c213cd7c7580fdcc918aeec57920da" resname="field_definition.ezuser.require_at_least_one_lower_case_character">
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="fdcfd21005fcd975636d979b1be61e28bb88d875" resname="field_definition.ezuser.require_not_compromised_password">
         <source>Password must not be contained in a public breach.</source>
-        <target state="translated">La contraseña no puede estar contenida en la lista de contraseñas divulgadas públicamente.</target>
+        <target state="translated">La contraseña no debe estar presente en una infracción pública.</target>
         <note>key: field_definition.ezuser.require_not_compromised_password</note>
       </trans-unit>
       <trans-unit id="73a71072b428bec8a32c4ca1cf4813314b2a783d" resname="field_definition.ezuser.require_not_compromised_password_help">

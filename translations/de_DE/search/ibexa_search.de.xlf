@@ -78,17 +78,17 @@
       </trans-unit>
       <trans-unit id="777cc1ef279096d5a978aa3553e9434d828f8248" resname="search.tips.check_spelling">
         <source>Check the spelling of keywords.</source>
-        <target state="translated">Überprüfen Sie die Schreibweise der Schlüsselwörter.</target>
+        <target state="translated">Überprüfen Sie die Schreibweise der Schlagwörter.</target>
         <note>key: search.tips.check_spelling</note>
       </trans-unit>
       <trans-unit id="d89a8ff5c4b03f1dd7bd1ce3e3306862e1855751" resname="search.tips.different_keywords">
         <source>Try different keywords.</source>
-        <target state="translated">Versuchen Sie es mit anderen Schlüsselwörtern.</target>
+        <target state="translated">Versuchen Sie verschiedene Schlagwörter.</target>
         <note>key: search.tips.different_keywords</note>
       </trans-unit>
       <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords">
         <source>Try fewer keywords. Reducing keywords results in more matches.</source>
-        <target state="translated">Versuchen Sie es mit weniger Schlüsselwörtern. Weniger Schlüsselwörter führen zu mehr Treffern.</target>
+        <target state="translated">Versuchen Sie es mit weniger Schlagwörtern. Weniger Schlagwörter führen zu mehr Treffern.</target>
         <note>key: search.tips.fewer_keywords</note>
       </trans-unit>
       <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
         <source>Try more general keywords.</source>
-        <target state="translated">Versuchen Sie es mit allgemeineren Schlüsselwörtern.</target>
+        <target state="translated">Versuchen Sie es mit allgemeineren Schlagwörtern.</target>
         <note>key: search.tips.more_general_keywords</note>
       </trans-unit>
       <trans-unit id="e477a87ca96bb3e22e8eed710e54e9a6bffefc52" resname="search.translations">

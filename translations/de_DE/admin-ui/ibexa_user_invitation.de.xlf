@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="0a8067f383ddf3e9c308a65b0fcd66bfb1ecd38e" resname="modal.entry_issues.alert.duplicate_emails">
         <source>Duplicated emails (%count%)</source>
-        <target state="translated">Doppelte E-Mails (%count%)</target>
+        <target state="translated">E-Mail-Duplikate (%count%)</target>
         <note>key: modal.entry_issues.alert.duplicate_emails</note>
       </trans-unit>
       <trans-unit id="4734b951ff129b695f738938b60a7f211f5df2ab" resname="modal.entry_issues.alert.empty_emails">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="80bb3b8dd64e241684d30a6081918b6bbc6c1598" resname="modal.file_uploaded.message">
         <source>File %fileName% was uploaded</source>
-        <target state="translated">Die Datei %fileName% wurde hochgeladen.</target>
+        <target state="translated">Die Datei %fileName% wurde hochgeladen</target>
         <note>key: modal.file_uploaded.message</note>
       </trans-unit>
       <trans-unit id="a89aa4f2fe7be667c66c1deeb229e80f71181bef" resname="modal.issue.bad_file.alert.message">

@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="0254a0c716b5d598484130bb3431d278a7be11d8" resname="ezobjectrelationlist.table.row.order">
         <source>Order</source>
-        <target state="translated">Clasificación</target>
+        <target state="translated">Pedido</target>
         <note>key: ezobjectrelationlist.table.row.order</note>
       </trans-unit>
       <trans-unit id="1a3bc0622c5d839ed1a8ef9f32bd5dd9e5cfb479" resname="fieldtype.binary_base.drag_drop">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="349f28b1b2e3f9c6ac1a0d2cb881f1647419e955" resname="fieldtype.imageasset.drag_drop">
         <source><![CDATA[Drag and drop image here or <br /><button class="ibexa-data-source__btn-add">Browse</button> to choose a file]]></source>
-        <target state="translated"><![CDATA[Arrastrar y soltar la imagen aquí o <br /><button class="ibexa-data-source__btn-add">Explorar</button> para elegir un archivo]]></target>
+        <target state="translated"><![CDATA[Arrastra y suelta la imagen aquí o <br /><button class="ibexa-data-source__btn-add">Explora</button> para elegir un archivo]]></target>
         <note>key: fieldtype.imageasset.drag_drop</note>
       </trans-unit>
     </body>

@@ -51,6 +51,11 @@
         <target state="translated">No hay segmentos definidos. Crear segmentos en el panel de administración para utilizar este bloque.</target>
         <note>key: targeted_content_map.no_configuration</note>
       </trans-unit>
+      <trans-unit id="f6dfd4604427f5b09f138435994b17c79b32083c" resname="visibility.action_btn.close">
+        <source>Save and close</source>
+        <target state="translated">Guardar y cerrar</target>
+        <note>key: visibility.action_btn.close</note>
+      </trans-unit>
       <trans-unit id="4b70ae03eb9f3d1a03af779f706a9c4a22cc12b5" resname="visibility.action_btn.title">
         <source>Visibility</source>
         <target state="translated">Visibilidad</target>

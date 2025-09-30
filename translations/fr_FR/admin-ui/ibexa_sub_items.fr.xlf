@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="ba6155333e2bbe9f762d1e1462a9c3075ce38a75" resname="bulk_add_location.error.message">
         <source>%failedCount% of the %totalCount% selected Locations(s) could not be added because you do not have proper user permissions. {{ moreInformationLink }} Contact your Administrator to obtain permissions.</source>
-        <target state="translated">Impossible d’ajouter %failedCount% du ou des %totalCount% emplacements sélectionnés, car vous n’avez pas les autorisations d’utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur pour obtenir les autorisations.</target>
+        <target state="translated">Impossible d’ajouter %failedCount% du ou des %totalCount% emplacements sélectionnés, car vous n’avez pas les autorisations utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur pour obtenir les autorisations.</target>
         <note>key: bulk_add_location.error.message</note>
       </trans-unit>
       <trans-unit id="d90e512d5cfd6d471246fad1cea365751b1cace5" resname="bulk_add_location.error.modal.table_title">
@@ -43,17 +43,17 @@
       </trans-unit>
       <trans-unit id="99402f0925918d4d739c4c61a90182a733824fa5" resname="bulk_delete.error.message.nonusers">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be sent to Trash because you do not have proper user permissions. {{ moreInformationLink }} Contact your Administrator.</source>
-        <target state="translated">Impossible de mettre à la corbeille %notDeletedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations d’utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur.</target>
+        <target state="translated">Impossible de mettre à la corbeille %notDeletedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur.</target>
         <note>key: bulk_delete.error.message.nonusers</note>
       </trans-unit>
       <trans-unit id="c74a6c9cb4bb7cbcf4a652e03e4fe9344514f38f" resname="bulk_delete.error.message.users">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted because you do not have proper user permissions. {{ moreInformationLink }} Contact your Administrator.</source>
-        <target state="translated">Impossible de supprimer %notDeletedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations d’utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur.</target>
+        <target state="translated">Impossible de supprimer %notDeletedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur.</target>
         <note>key: bulk_delete.error.message.users</note>
       </trans-unit>
       <trans-unit id="a873d91c27d787399ce6dfe9a96c4541e718bacf" resname="bulk_delete.error.message.users_with_nonusers">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted or sent to Trash because you do not have proper user permissions. {{ moreInformationLink }} Contact your Administrator.</source>
-        <target state="translated">Impossible de supprimer ou de mettre à la corbeille %notDeletedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations d’utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur.</target>
+        <target state="translated">Impossible de supprimer ou de mettre à la corbeille %notDeletedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur.</target>
         <note>key: bulk_delete.error.message.users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="237dbc61da0079a4ad224512ef0678262f224ad9" resname="bulk_delete.error.modal.table_title.nonusers">
@@ -98,22 +98,22 @@
       </trans-unit>
       <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
         <source>Content item(s) sent to Trash.</source>
-        <target state="translated">Élément(s) de contenu mis à la corbeille.</target>
+        <target state="translated">Les ou les éléments de contenu ont été mis à la corbeille.</target>
         <note>key: bulk_delete.success.message.nonusers</note>
       </trans-unit>
       <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
         <source>User(s) deleted.</source>
-        <target state="translated">Utilisateur(s) supprimé(s).</target>
+        <target state="translated">Le ou les utilisateurs ont été supprimés.</target>
         <note>key: bulk_delete.success.message.users</note>
       </trans-unit>
       <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
         <source>Content item(s) sent to Trash. User(s) deleted.</source>
-        <target state="translated">Élément(s) de contenu mis à la corbeille. Utilisateur(s) supprimé(s).</target>
+        <target state="translated">Les ou les éléments de contenu ont été mis à la corbeille. Le ou les utilisateurs ont été supprimés.</target>
         <note>key: bulk_delete.success.message.users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="5e5f346e9dca66d113585207c4e7a98e87421d34" resname="bulk_hide.error.message">
         <source>%failedCount% of the %totalCount% selected item(s) could not be hidden because you do not have proper user permissions. {{ moreInformationLink }} Contact your Administrator to obtain permissions.</source>
-        <target state="translated">Impossible de masquer %failedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations d’utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur pour obtenir les autorisations.</target>
+        <target state="translated">Impossible de masquer %failedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur pour obtenir les autorisations.</target>
         <note>key: bulk_hide.error.message</note>
       </trans-unit>
       <trans-unit id="3a8fe14b551e382f3f1f20f7aed2e5de9804f619" resname="bulk_hide.error.modal.table_title">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
         <source>%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. {{ moreInformationLink }} Contact your Administrator.</source>
-        <target state="translated">Impossible de déplacer %notMovedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations d’utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur.</target>
+        <target state="translated">Impossible de déplacer %notMovedCount% du ou des %totalCount% éléments sélectionnés, car vous n’avez pas les autorisations utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur.</target>
         <note>key: bulk_move.error.message</note>
       </trans-unit>
       <trans-unit id="44a971e3ea91b95b9fbbd596f54ca632ef0865d4" resname="bulk_move.error.modal.table_title">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="ac326404ff958f8e3fa903df5750024602b812de" resname="bulk_move.success.message">
         <source>Content item(s) sent to {{ locationLink }}</source>
-        <target state="translated">Élément(s) de contenu envoyé(s) à {{ locationLink }}</target>
+        <target state="translated">Le ou les éléments de contenu ont été envoyés à {{ locationLink }}</target>
         <note>key: bulk_move.success.message</note>
       </trans-unit>
       <trans-unit id="93850319ec8e493cc4d0b8bb1ae2a87cdf26d3d6" resname="bulk_request.error.message">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="1208ce7816f3fa2b489c6946068c415949cf4c64" resname="bulk_unhide.error.message">
         <source>%failedCount% of the %totalCount% selected Location(s) could not be revealed because you do not have proper user permissions. {{ moreInformationLink }} Contact your Administrator to obtain permissions.</source>
-        <target state="translated">Impossible de rendre visible(s) %failedCount% du ou des %totalCount% emplacements sélectionnés, car vous n’avez pas les autorisations d’utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur pour obtenir les autorisations.</target>
+        <target state="translated">Impossible de rendre visible(s) %failedCount% du ou des %totalCount% emplacements sélectionnés, car vous n’avez pas les autorisations utilisateur appropriées. {{ moreInformationLink }} Contactez votre administrateur pour obtenir les autorisations.</target>
         <note>key: bulk_unhide.error.message</note>
       </trans-unit>
       <trans-unit id="02b906429a29023075754b4dd3bf437b80a25ce6" resname="bulk_unhide.error.modal.table_title">
@@ -291,6 +291,16 @@
         <target state="translated">Déplacer</target>
         <note>key: move_btn.label</note>
       </trans-unit>
+      <trans-unit id="c281023fd6d213d849962bc4a45d59cb7b5c8440" resname="no_items.action">
+        <source>Add sub-items by uploading or use the ‘Create’ button in the top right corner to populate this section.</source>
+        <target state="translated">Ajoutez des sous-éléments en les téléchargeant ou utilisez le bouton « Créer » dans le coin supérieur droit pour remplir cette section.</target>
+        <note>key: no_items.action</note>
+      </trans-unit>
+      <trans-unit id="782f084072f3de4010eed417a9c4abcb5404c601" resname="no_items.info">
+        <source>Add first sub-item</source>
+        <target state="translated">Ajouter le premier sous-élément</target>
+        <note>key: no_items.info</note>
+      </trans-unit>
       <trans-unit id="11b5de206f496e357ede3c3798b8e113c2946a60" resname="trash_btn.label">
         <source>Delete</source>
         <target state="translated">Supprimer</target>
@@ -318,12 +328,12 @@
       </trans-unit>
       <trans-unit id="193d58a61e04c3cef23665e876aa2534828430d0" resname="view_switcher.list_view">
         <source>List view</source>
-        <target state="translated">Affichage en liste</target>
+        <target state="translated">Vue liste</target>
         <note>key: view_switcher.list_view</note>
       </trans-unit>
       <trans-unit id="75247b44eb33fe5c35d9b5d8770bd76a15be7747" resname="view_switcher.view">
         <source>View</source>
-        <target state="translated">Affichage</target>
+        <target state="translated">Vue</target>
         <note>key: view_switcher.view</note>
       </trans-unit>
     </body>

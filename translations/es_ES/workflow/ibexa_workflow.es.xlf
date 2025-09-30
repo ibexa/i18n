@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="7c6e325dd52179c8f9262c5321f93788b6fe7f8c" resname="content.review.title">
         <source>Title:</source>
-        <target state="translated">Título:</target>
+        <target state="translated">Cargo:</target>
         <note>key: content.review.title</note>
       </trans-unit>
       <trans-unit id="b7578d210bb0a2f0f03a30ee0fc33a0e377cc227" resname="content.unlock.accept">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="af4a30229997bc086a9e66b1d3551c98a07b6fad" resname="dashboard.tab.my_drafts_under_review.empty.action_text">
         <source>Content items which you or your User group can review will show up here.</source>
-        <target state="translated">Los elementos de contenido que tanto tu grupo de usuarios como tú mismo/a podéis revisar se mostrarán aquí.</target>
+        <target state="translated">Los ítems de contenido que tanto tu grupo de usuarios como tú mismo/a podéis revisar se mostrarán aquí.</target>
         <note>key: dashboard.tab.my_drafts_under_review.empty.action_text</note>
       </trans-unit>
       <trans-unit id="a878bd15386bacea4af5e3356c731640710d3618" resname="dashboard.table.activity">
@@ -85,26 +85,6 @@
         <source>Content type</source>
         <target state="translated">Tipo de contenido</target>
         <note>key: dashboard.table.content_type</note>
-      </trans-unit>
-      <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
-        <source>Edit</source>
-        <target state="translated">Editar</target>
-        <note>key: dashboard.table.draft.edit</note>
-      </trans-unit>
-      <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
-        <source>Show history</source>
-        <target state="translated">Mostrar historial</target>
-        <note>key: dashboard.table.draft.transition.list</note>
-      </trans-unit>
-      <trans-unit id="149b6c8f2d0d25c74fbcb7f242e7a71e9fdd6ea8" resname="dashboard.table.draft.unlock">
-        <source>Unlock</source>
-        <target state="translated">Desbloquear</target>
-        <note>key: dashboard.table.draft.unlock</note>
-      </trans-unit>
-      <trans-unit id="eb02a089823e8728654697a70ee8dddfbfb2903c" resname="dashboard.table.draft.unlock.ask">
-        <source>Request access</source>
-        <target state="translated">Solicitar acceso</target>
-        <note>key: dashboard.table.draft.unlock.ask</note>
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified language</source>

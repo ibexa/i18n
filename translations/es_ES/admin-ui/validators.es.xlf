@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="1235bb9d75f7a324d6b06742720ab9c18775ddce" resname="ezplatform.copy_subtree.is_not_container">
         <source>Selected Location cannot contain children.</source>
-        <target state="translated">La ubicación seleccionada no puede contener elementos secundarios.</target>
+        <target state="translated">La ubicación seleccionada no puede contener niños.</target>
         <note>key: ezplatform.copy_subtree.is_not_container</note>
       </trans-unit>
       <trans-unit id="f8f63f1b19c0003727cfed4fa1bbeba18b1d9265" resname="ezplatform.copy_subtree.is_root">
@@ -73,8 +73,13 @@
       </trans-unit>
       <trans-unit id="50f88ff616406e9f9474c6f78937aadb1303868e" resname="ezplatform.trash.location_has_no_children">
         <source>Selected Location has no children.</source>
-        <target state="translated">La ubicación seleccionada no tiene elementos secundarios.</target>
+        <target state="translated">La ubicación seleccionada no tiene niños.</target>
         <note>key: ezplatform.trash.location_has_no_children</note>
+      </trans-unit>
+      <trans-unit id="ea852842b560d609441b8470b79735f2dc91698f" resname="ibexa.language.language_code.format">
+        <source>The Language code {{ value }} contains illegal characters. Language code should start with a letter, digit or underscore and only contain letters, digits, numbers, underscores, hyphens and colons.</source>
+        <target state="translated">El código de idioma {{ value }} contiene caracteres no válidos. El código de idioma debe comenzar con una letra, dígito o guion bajo, y solo debe contener letras, dígitos, números, guiones bajos, guiones y dos puntos.</target>
+        <note>key: ibexa.language.language_code.format</note>
       </trans-unit>
       <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">
         <source>Provided address does not exist</source>
@@ -123,7 +128,7 @@
       </trans-unit>
       <trans-unit id="4fb6689be5f8ff74f3f86c7af72bdeb92c74bd53" resname="js.error.is_not_float">
         <source>{fieldName} value must be a float number</source>
-        <target state="translated">El valor {fieldName} debe ser un número flotante</target>
+        <target state="translated">El valor {fieldName} debe ser un número decimal</target>
         <note>key: js.error.is_not_float</note>
       </trans-unit>
       <trans-unit id="f9cf14c56aca4bc1c2bccd9cae839ff0d3f3cd36" resname="js.error.is_not_integer">

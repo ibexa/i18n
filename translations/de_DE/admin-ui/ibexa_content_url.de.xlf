@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="9ef990fca45f612ab2d3af7b21968803d76d5d77" resname="tab.urls.add.site_root">
         <source>Place at the site root</source>
-        <target state="translated">Im Stammverzeichnis der Site ablegen.</target>
+        <target state="translated">Im Stammverzeichnis der Site ablegen</target>
         <note>key: tab.urls.add.site_root</note>
       </trans-unit>
       <trans-unit id="9fc6fbd86b58ee883321610dd1726551772edaf1" resname="tab.urls.add.site_root.helper.checked">
@@ -83,17 +83,17 @@
       </trans-unit>
       <trans-unit id="db531fb5f993263b5ea57393101781b9d731a738" resname="tab.urls.add.site_root.helper.unchecked">
         <source>The alias will be placed under %parent_name%</source>
-        <target state="translated">Der Alias wird unter %parent_name% abgelegt.</target>
+        <target state="translated">Der Alias wird unter %parent_name% abgelegt</target>
         <note>key: tab.urls.add.site_root.helper.unchecked</note>
       </trans-unit>
       <trans-unit id="25badd959ce69714e8eb349ebddbbbe126c14458" resname="tab.urls.add.title">
         <source>Create a new URL alias</source>
-        <target state="translated">Einen neuen URL-Alias erstellen.</target>
+        <target state="translated">Einen neuen URL-Alias erstellen</target>
         <note>key: tab.urls.add.title</note>
       </trans-unit>
       <trans-unit id="d244966cab8b41f92fd5553d8f33f0e1ca8bf85f" resname="tab.urls.custom_url_aliases">
         <source>Custom URL aliases for %contentName%</source>
-        <target state="translated">Benutzerdefinierte URL-Aliase für %contentName%.</target>
+        <target state="translated">Benutzerdefinierte URL-Aliase für %contentName%</target>
         <note>key: tab.urls.custom_url_aliases</note>
       </trans-unit>
       <trans-unit id="5a1947624cf55689d80d38b7583bac538da641bb" resname="tab.urls.language">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="61f03f8e307131c37fed1b46302b43efcc519d07" resname="tab.urls.no_custom_urls.action">
         <source>Add new custom URL aliases manually</source>
-        <target state="translated">Neue benutzerdefinierte URL-Aliase manuell hinzufügen.</target>
+        <target state="translated">Neue benutzerdefinierte URL-Aliase manuell hinzufügen</target>
         <note>key: tab.urls.no_custom_urls.action</note>
       </trans-unit>
       <trans-unit id="c9fdd1434b44a4592626e8fe493c19141aab24d5" resname="tab.urls.no_system_urls">

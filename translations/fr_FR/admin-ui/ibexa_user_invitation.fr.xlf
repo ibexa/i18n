@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="7fe6937710fc7ea8e9233c52f19086aa536bc9d2" resname="modal.drop">
         <source>Drag and drop file</source>
-        <target state="translated">Faire glisser/déposer le fichier</target>
+        <target state="translated">Glisser-déposer le fichier</target>
         <note>key: modal.drop</note>
       </trans-unit>
       <trans-unit id="0a8067f383ddf3e9c308a65b0fcd66bfb1ecd38e" resname="modal.entry_issues.alert.duplicate_emails">
         <source>Duplicated emails (%count%)</source>
-        <target state="translated">E-mails en doublon (%count%)</target>
+        <target state="translated">E-mails doublons (%count%)</target>
         <note>key: modal.entry_issues.alert.duplicate_emails</note>
       </trans-unit>
       <trans-unit id="4734b951ff129b695f738938b60a7f211f5df2ab" resname="modal.entry_issues.alert.empty_emails">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="4eb38f2e1191d6cd77cf5002b8c70949a2c44631" resname="modal.search.placeholder">
         <source>Search...</source>
-        <target state="translated">Rechercher…</target>
+        <target state="translated">Rechercher...</target>
         <note>key: modal.search.placeholder</note>
       </trans-unit>
       <trans-unit id="0f21db2aec9802fb51610b96cc774d8bd3a03156" resname="modal.submit.label">

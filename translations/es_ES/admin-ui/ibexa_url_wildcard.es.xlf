@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="a3115263bb80e6486cc16154e23fecd398c0b352" resname="url_wildcard.type.direct">
         <source>Direct</source>
-        <target state="translated">Directa</target>
+        <target state="translated">Dirigir</target>
         <note>key: url_wildcard.type.direct</note>
       </trans-unit>
       <trans-unit id="845ff50e5a5dd8e26d619dce56195e85daae20f7" resname="url_wildcard.type.forward">

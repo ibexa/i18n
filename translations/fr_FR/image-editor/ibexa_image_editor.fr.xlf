@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="15ed133ec163074eb0f215eb45e84294e8f150d3" resname="image_editor.actions.crop.warning">
         <source>Adjust the focal point, crop might change its parameters</source>
-        <target state="translated">Ajustez le point focal ; les paramètres de recadrage peuvent être modifiés</target>
+        <target state="translated">Ajustez le point de mire; les parametres de recadrage peuvent etre modifiés</target>
         <note>key: image_editor.actions.crop.warning</note>
       </trans-unit>
       <trans-unit id="134b698047fe264a2a211c55f0471ff12a299c58" resname="image_editor.actions.flip.horizontal">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="2203c32d4bb3070d4a0162b68ef729f3c62b7100" resname="image_editor.actions.focal_point.label">
         <source>Focal point</source>
-        <target state="translated">Point focal</target>
+        <target state="translated">Point de mire</target>
         <note>key: image_editor.actions.focal_point.label</note>
       </trans-unit>
       <trans-unit id="bc129661969afa91e8e6551b1a49722dc9dfba38" resname="image_editor.actions.focal_point.restore">

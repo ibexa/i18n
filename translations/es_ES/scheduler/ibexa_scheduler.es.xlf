@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
         <source>Title:</source>
-        <target state="translated">Título:</target>
+        <target state="translated">Cargo:</target>
         <note>key: content.scheduled.title</note>
       </trans-unit>
       <trans-unit id="a6747a32fb851855b9fa7689ab2bc2d27d10c60f" resname="content.scheduled_hide.action.cancel">
@@ -335,6 +335,16 @@
         <source>Date and time</source>
         <target state="translated">Fecha y hora</target>
         <note>key: schedule_hide.date_and_time</note>
+      </trans-unit>
+      <trans-unit id="25f8d3a0fbb1e7eb7592a18c8c0e2670806a0316" resname="schedule_hide.hide_later">
+        <source>Hide later</source>
+        <target state="translated">Ocultar más tarde</target>
+        <note>key: schedule_hide.hide_later</note>
+      </trans-unit>
+      <trans-unit id="de6ba9de6bd206e5c0569afcc9175e9740667a09" resname="schedule_hide.hide_now">
+        <source>Hide now</source>
+        <target state="translated">Ocultar ahora</target>
+        <note>key: schedule_hide.hide_now</note>
       </trans-unit>
       <trans-unit id="1c0613de0745baf0f3227f244656ef37218404cc" resname="schedule_hide.title">
         <source>Schedule hiding</source>

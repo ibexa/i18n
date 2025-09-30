@@ -47,12 +47,12 @@
         <note>key: content_types_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
-        <source>%fieldName% cannot be empty</source>
-        <target state="translated">%fieldName% kann nicht leer sein.</target>
+        <source>%fieldName% cannot be empty.</source>
+        <target state="translated">%fieldName% darf nicht leer sein.</target>
         <note>key: error.required.field</note>
       </trans-unit>
       <trans-unit id="6090b5d2c17e00053a576ede5c82afba67f0cc49" resname="error.required.field_not_blank">
-        <source>This value should not be blank</source>
+        <source>This value should not be blank.</source>
         <target state="translated">Dieser Wert sollte nicht leer sein.</target>
         <note>key: error.required.field_not_blank</note>
       </trans-unit>
@@ -93,12 +93,12 @@
       </trans-unit>
       <trans-unit id="1a2cc7b7518a1267208aafa8aa96d1dba950eeb1" resname="form.has_children.label">
         <source>Sub-items</source>
-        <target state="translated">Abhängige Elemente</target>
+        <target state="translated">Untergeordnete Elemente</target>
         <note>key: form.has_children.label</note>
       </trans-unit>
       <trans-unit id="80d979ff2734a875fcd38a2178e4d28c8bf0afb5" resname="form.has_reverse_relation.label">
         <source>Conflict with reverse Relations</source>
-        <target state="translated">Konflikt mit umgekehrten Beziehungen.</target>
+        <target state="translated">Konflikt mit umgekehrten Beziehungen</target>
         <note>key: form.has_reverse_relation.label</note>
       </trans-unit>
       <trans-unit id="4a2eb58572364b0fa04e67a800e0fbb09df205be" resname="form.trash_assets.label">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="54b875a849e645c86904a2c3663c02b2aab86bb4" resname="section_form.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: section_form.identifier</note>
       </trans-unit>
       <trans-unit id="a8e6cb63af5cccaf0b468435ce04fd304aa77e5c" resname="section_form.name">

@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="a871dec7f18c06b9061bc2aae9af1aafe1ad1600" resname="ezdatetime.useseconds.enabled">
         <source>`The date format is based on your user preferences and does not include seconds even if the Field allows it`</source>
-        <target state="translated">„Das Datumsformat basiert auf Ihren Benutzereinstellungen und enthält keine Sekunden, selbst wenn das Feld dies zulässt“</target>
+        <target state="translated">„Das Datumsformat basiert auf Ihren Benutzereinstellungen und enthält keine Sekunden, selbst wenn das Feld dies zulässt.“</target>
         <note>key: ezdatetime.useseconds.enabled</note>
       </trans-unit>
       <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="504042c3fda41a357db1614358fd3c8dc94e301f" resname="ezimage.master_dimensions">
         <source>Master dimensions</source>
-        <target state="translated">Stammabmessungen</target>
+        <target state="translated">Abmessung</target>
         <note>key: ezimage.master_dimensions</note>
       </trans-unit>
       <trans-unit id="55cfda30a4255cffac54e4c644dc6033720c28f6" resname="ezimage.ratio">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="dd0de6b207b703b96d015f309ffa8d53d32f64bf" resname="ezimageasset.master_dimensions">
         <source>Master dimensions</source>
-        <target state="translated">Dimensionen</target>
+        <target state="translated">Abmessung</target>
         <note>key: ezimageasset.master_dimensions</note>
       </trans-unit>
       <trans-unit id="c63a925d645b5365654bfaa2e5ac129280388bc0" resname="ezimageasset.not_available">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="8f298e16cc3766b185e4e45db13e4f84f03f5d89" resname="ezmedia.display_controls">
         <source>Display controls</source>
-        <target state="translated">Bildschirmsteuerungselemente</target>
+        <target state="translated">Bedienelemente anzeigen</target>
         <note>key: ezmedia.display_controls</note>
       </trans-unit>
       <trans-unit id="0a8b2fdd1d0a69bd12d066f8f7f8b517df9974bf" resname="ezmedia.file_name">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="207f2af6642a19b3e2ee254f82bd71ae2351d6f0" resname="ezmedia.video_file_properties">
         <source>Video file properties</source>
-        <target state="translated">Videodateieigenschaften</target>
+        <target state="translated">Eigenschaften der Videodatei</target>
         <note>key: ezmedia.video_file_properties</note>
       </trans-unit>
       <trans-unit id="2f9f973623d548ff2cac08afcd1de234bd2493c8" resname="ezmedia.yes">

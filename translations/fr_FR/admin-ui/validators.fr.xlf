@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="924826be1015d20c1f4524754c690e10935abaac" resname="ez.section.identifier.format">
         <source>Section identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">L’identifiant de la section ne peut contenir que les lettres de « a » à « z », des chiffres et des tirets bas « _ »..</target>
+        <target state="translated">L’identifiant de la section ne peut contenir que les lettres de « a » à « z », des chiffres et des tirets de soulignement.</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
       <trans-unit id="1235bb9d75f7a324d6b06742720ab9c18775ddce" resname="ezplatform.copy_subtree.is_not_container">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="fc7e56b8b26344ec7393604951e1fb2199069e18" resname="ezplatform.copy_subtree.is_sub_location">
         <source>Cannot copy subtree to its own descendant Location</source>
-        <target state="translated">Impossible de copier la sous-arborescence vers un de ses propres emplacements descendants</target>
+        <target state="translated">Impossible de copier la sous-arborescence vers l’emplacement de son propre descendant</target>
         <note>key: ezplatform.copy_subtree.is_sub_location</note>
       </trans-unit>
       <trans-unit id="631da4c4fb5b000ee7f5c0c422e830ca192341a6" resname="ezplatform.copy_subtree.limit_exceeded">
@@ -75,6 +75,11 @@
         <source>Selected Location has no children.</source>
         <target state="translated">L’emplacement sélectionné n’a pas d’enfants.</target>
         <note>key: ezplatform.trash.location_has_no_children</note>
+      </trans-unit>
+      <trans-unit id="ea852842b560d609441b8470b79735f2dc91698f" resname="ibexa.language.language_code.format">
+        <source>The Language code {{ value }} contains illegal characters. Language code should start with a letter, digit or underscore and only contain letters, digits, numbers, underscores, hyphens and colons.</source>
+        <target state="translated">Le code de langue {{ value }} contient des caractères non autorisés. Le code de langue doit commencer par une lettre, un chiffre ou un tiret bas « _ » et ne contenir que des lettres, des chiffres, des numéros, des tirets bas « _ », des tirets et des deux-points.</target>
+        <note>key: ibexa.language.language_code.format</note>
       </trans-unit>
       <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">
         <source>Provided address does not exist</source>
@@ -123,7 +128,7 @@
       </trans-unit>
       <trans-unit id="4fb6689be5f8ff74f3f86c7af72bdeb92c74bd53" resname="js.error.is_not_float">
         <source>{fieldName} value must be a float number</source>
-        <target state="translated">La valeur de {fieldName} doit être un nombre décimal</target>
+        <target state="translated">La valeur de {fieldName} doit etre un nombre décimal</target>
         <note>key: js.error.is_not_float</note>
       </trans-unit>
       <trans-unit id="f9cf14c56aca4bc1c2bccd9cae839ff0d3f3cd36" resname="js.error.is_not_integer">

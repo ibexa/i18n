@@ -416,8 +416,7 @@
       <trans-unit id="c6934cd2cfa0e59cac3c0fa40ebc5e5f901ffa8b" resname="registration.banner.info.title">
         <source><![CDATA[Are you interested in doing business with us?<br> Send your application to be considered as a business partner.
                 ]]></source>
-        <target state="translated"><![CDATA[Voulez-vous faire affaire avec nous ?<br>
- Envoyez-nous votre candidature pour que votre demande de partenariat soit étudiée.
+        <target state="translated"><![CDATA[Voulez-vous faire affaire avec nous ?<br> Envoyez-nous votre candidature pour que votre demande de partenariat soit étudiée.
                 ]]></target>
         <note>key: registration.banner.info.title</note>
       </trans-unit>

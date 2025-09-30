@@ -72,7 +72,7 @@
         <note>key: location.bookmark.add</note>
       </trans-unit>
       <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
-        <source>Remove from Bookmarks</source>
+        <source>Remove from bookmarks</source>
         <target state="translated">Supprimer des signets</target>
         <note>key: location.bookmark.remove</note>
       </trans-unit>
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
         <source>Group name</source>
-        <target state="translated">Nom du groupe</target>
+        <target state="translated">Nom de groupe</target>
         <note>key: tab.details.state_group_name</note>
       </trans-unit>
       <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
@@ -433,7 +433,7 @@
       </trans-unit>
       <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
         <source>Open drafts</source>
-        <target state="translated">Brouillons en cours d’édition</target>
+        <target state="translated">Ouvrir les brouillons</target>
         <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
       <trans-unit id="134ac8f9b086171dcda7931b3bb7acc0042bb1c9" resname="tab.versions.modal.message">
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="4c6353b63f5bc2031c8380c4007edf9c5f6be456" resname="tab.versions.table.created">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: tab.versions.table.created</note>
       </trans-unit>
       <trans-unit id="472157bdf440a9c6636057ac194d53029ac589dd" resname="tab.versions.table.last_saved">

@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="9a0bc26e4046cdf4ab8b4ba67b46e529db11cab8" resname="catalog_view__context_menu__archive">
         <source>Archive</source>
-        <target state="translated">Archivo</target>
+        <target state="translated">Archivar</target>
         <note>key: catalog_view__context_menu__archive</note>
       </trans-unit>
       <trans-unit id="48b6a440d2f748e28e7826e8c4a115acfb73b9e0" resname="catalog_view__context_menu__copy">

@@ -36,6 +36,21 @@
         <target state="translated">Extensiones de archivo permitidas</target>
         <note>key: validation.extensions</note>
       </trans-unit>
+      <trans-unit id="eaba89c07e532457fd12b37c320c9d7368a272d1" resname="validation.is_not_blank_message_action">
+        <source>The message to display cannot be empty.</source>
+        <target state="translated">El mensaje para mostrar no puede estar vacío.</target>
+        <note>key: validation.is_not_blank_message_action</note>
+      </trans-unit>
+      <trans-unit id="dace53eab26a470218051d194aa8becf37558419" resname="validation.is_not_empty_redirect_action">
+        <source>The content item cannot be empty.</source>
+        <target state="translated">El ítem de contenido no puede estar vacío.</target>
+        <note>key: validation.is_not_empty_redirect_action</note>
+      </trans-unit>
+      <trans-unit id="9ffc2ec3d66625d1d75f930a1be88165c4f449e1" resname="validation.is_not_empty_url_redirect_action">
+        <source>The redirection URL cannot be empty.</source>
+        <target state="translated">La URL de redireccionamiento no puede estar vacía.</target>
+        <note>key: validation.is_not_empty_url_redirect_action</note>
+      </trans-unit>
       <trans-unit id="9b033fb98a8e288c0dfe93e430257b03e72d6d34" resname="validation.max_choices">
         <source>Maximum number of choices</source>
         <target state="translated">Número máximo de elecciones</target>

@@ -72,8 +72,8 @@
         <note>key: location.bookmark.add</note>
       </trans-unit>
       <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
-        <source>Remove from Bookmarks</source>
-        <target state="translated">Eliminar de marcadores</target>
+        <source>Remove from bookmarks</source>
+        <target state="translated">Quitar de marcadores</target>
         <note>key: location.bookmark.remove</note>
       </trans-unit>
       <trans-unit id="0ac5837ba570c72c15eae58ab98735697a790528" resname="modal.email_address">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
         <source>Content or its ancestor is hidden</source>
-        <target state="translated">El contenido o su antecesor está oculto</target>
+        <target state="translated">El antecesor o su antepasado está oculto</target>
         <note>key: tab.locations.hidden_content_or_superior</note>
       </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">

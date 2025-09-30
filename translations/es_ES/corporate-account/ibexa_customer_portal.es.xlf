@@ -416,8 +416,7 @@
       <trans-unit id="c6934cd2cfa0e59cac3c0fa40ebc5e5f901ffa8b" resname="registration.banner.info.title">
         <source><![CDATA[Are you interested in doing business with us?<br> Send your application to be considered as a business partner.
                 ]]></source>
-        <target state="translated"><![CDATA[¿Te interesa hacer negocios con nosotros?<br>
- Envía tu solicitud para que te consideremos socio comercial.
+        <target state="translated"><![CDATA[¿Te interesa hacer negocios con nosotros?<br> Envía tu solicitud para que te consideremos socio comercial.
                 ]]></target>
         <note>key: registration.banner.info.title</note>
       </trans-unit>
@@ -508,17 +507,17 @@
       </trans-unit>
       <trans-unit id="6fc866ce4a39797136c01cfcea23618b85215fce" resname="registration_confirmation.info.after_info">
         <source>Once your application has been approved, you will be able to customize your account.</source>
-        <target state="translated">Una vez aprobada tu solicitud, podrás personalizar tu cuenta.</target>
+        <target state="translated">Una vez que tu solicitud sea aprobada, podrás personalizar tu cuenta.</target>
         <note>key: registration_confirmation.info.after_info</note>
       </trans-unit>
       <trans-unit id="a7cb31f8dc3d307861502b44c2b496c385d17fe6" resname="registration_confirmation.info.appoval_info.notified">
         <source>You will be notified when the application is approved.</source>
-        <target state="translated">Se te notificará cuando se apruebe la solicitud.</target>
+        <target state="translated">Se te notificará cuando la solicitud sea aprobada.</target>
         <note>key: registration_confirmation.info.appoval_info.notified</note>
       </trans-unit>
       <trans-unit id="28696414989edd11797cb69a337c2fc9521ed446" resname="registration_confirmation.info.appoval_info.will_be_reviewed">
         <source>Your application has been submitted and will be reviewed for approval.</source>
-        <target state="translated">Se ha enviado tu solicitud y se revisará para su aprobación.</target>
+        <target state="translated">Tu solicitud ha sido enviada y será revisada para su aprobación.</target>
         <note>key: registration_confirmation.info.appoval_info.will_be_reviewed</note>
       </trans-unit>
       <trans-unit id="c4e6ef896ca736301761f12d5be2f8241e5d496c" resname="registration_confirmation.info.title">

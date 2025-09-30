@@ -46,6 +46,11 @@
         <target state="translated">Pour obtenir un aperçu, choisissez le contexte du site et accédez à l’onglet « Vue » ou cliquez sur le bouton « Aperçu ».</target>
         <note>key: landingpage.no_preview</note>
       </trans-unit>
+      <trans-unit id="3260a01f8efbce6ccf489c4e3052e65accc2091d" resname="landingpage.unavailable_preview">
+        <source>Preview isn't available.</source>
+        <target state="translated">L’aperçu n’est pas disponible.</target>
+        <note>key: landingpage.unavailable_preview</note>
+      </trans-unit>
       <trans-unit id="4e6b467aeed03b748276c99091952733f2ab538c" resname="layouts.select_layouts">
         <source>Select layouts</source>
         <target state="translated">Sélectionner des mises en page</target>

@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="fec12680d0d0abaf9fd42b13e090ae0529a02018" resname="header.list_view">
         <source>List view</source>
-        <target state="translated">Affichage en liste</target>
+        <target state="translated">Vue liste</target>
         <note>key: header.list_view</note>
       </trans-unit>
       <trans-unit id="12f7c467aa956e11af390f81d26d0f7f44c3649a" resname="new_site_title">
@@ -60,6 +60,11 @@
         <source>Delete</source>
         <target state="translated">Supprimer</target>
         <note>key: site.action.delete</note>
+      </trans-unit>
+      <trans-unit id="37190d27c6859753cb7187c4b1e0dc24b64efa9e" resname="site.action.details">
+        <source>Site details</source>
+        <target state="translated">Détails du site</target>
+        <note>key: site.action.details</note>
       </trans-unit>
       <trans-unit id="f2b182ac0f78d68d059e24c6d0364dac9bba1f79" resname="site.action.domain">
         <source>Open link in browser</source>

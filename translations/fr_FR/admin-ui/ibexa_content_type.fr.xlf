@@ -73,22 +73,22 @@
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
         <source>Sort children by default by:</source>
-        <target state="translated">Trier par défaut les enfants par :</target>
+        <target state="translated">Trier les enfants par défaut par :</target>
         <note>key: content_type.default_children_sorting</note>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
         <source>Sort children by default in order:</source>
-        <target state="translated">Trier par défaut les enfants dans l’ordre :</target>
+        <target state="translated">Trier les enfants par défaut dans l’ordre :</target>
         <note>key: content_type.default_sort</note>
       </trans-unit>
       <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
         <source>Sort children by default by</source>
-        <target state="translated">Trier par défaut les enfants par</target>
+        <target state="translated">Trier les enfants par défaut par</target>
         <note>key: content_type.default_sort_field</note>
       </trans-unit>
       <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order">
         <source>Sort children by default in order</source>
-        <target state="translated">Trier par défaut les enfants dans l’ordre</target>
+        <target state="translated">Trier les enfants par défaut dans l’ordre</target>
         <note>key: content_type.default_sort_order</note>
       </trans-unit>
       <trans-unit id="be2f64eb4557a3af16a2f32f5e0185c591d3ca8f" resname="content_type.delete">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
         <source>Content Field definitions</source>
-        <target state="translated">Définitions des champs de contenu</target>
+        <target state="translated">Définitions du champ de contenu</target>
         <note>key: content_type.field_definitions_data</note>
       </trans-unit>
       <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
@@ -418,7 +418,7 @@
       </trans-unit>
       <trans-unit id="cd6124f27c9a5743763f9a49cfc160d34723d713" resname="content_type_group.new.action_name">
         <source>Creating</source>
-        <target state="translated">Création en cours</target>
+        <target state="translated">Création</target>
         <note>key: content_type_group.new.action_name</note>
       </trans-unit>
       <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
@@ -488,7 +488,7 @@
       </trans-unit>
       <trans-unit id="ad4e9a4e42b99d945f972bab5a2eff694d283793" resname="creating">
         <source>Creating</source>
-        <target state="translated">Création en cours</target>
+        <target state="translated">Création</target>
         <note>key: creating</note>
       </trans-unit>
       <trans-unit id="3e8769270428f8e66f5880d772f45e09d2c88aa0" resname="creating.title">
@@ -853,7 +853,7 @@
       </trans-unit>
       <trans-unit id="fdcfd21005fcd975636d979b1be61e28bb88d875" resname="field_definition.ezuser.require_not_compromised_password">
         <source>Password must not be contained in a public breach.</source>
-        <target state="translated">Le mot de passe ne doit pas faire partie d'une fuite de données connue.</target>
+        <target state="translated">Le mot de passe ne doit pas être contenu dans une violation de données publique.</target>
         <note>key: field_definition.ezuser.require_not_compromised_password</note>
       </trans-unit>
       <trans-unit id="73a71072b428bec8a32c4ca1cf4813314b2a783d" resname="field_definition.ezuser.require_not_compromised_password_help">
@@ -888,7 +888,7 @@
       </trans-unit>
       <trans-unit id="84eed8c69d2ed1727569c36cda88c9781d37dd92" resname="field_definition.is_thumbnail">
         <source>Can be a thumbnail</source>
-        <target state="translated">Utilisable comme vignette</target>
+        <target state="translated">Peut être une vignette</target>
         <note>key: field_definition.is_thumbnail</note>
       </trans-unit>
       <trans-unit id="83aba8c0c4c654d481c4520feb76e789fbc64c22" resname="field_definition.is_translatable">

@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="4eb38f2e1191d6cd77cf5002b8c70949a2c44631" resname="modal.search.placeholder">
         <source>Search...</source>
-        <target state="translated">Buscar…</target>
+        <target state="translated">Buscar...</target>
         <note>key: modal.search.placeholder</note>
       </trans-unit>
       <trans-unit id="0f21db2aec9802fb51610b96cc774d8bd3a03156" resname="modal.submit.label">

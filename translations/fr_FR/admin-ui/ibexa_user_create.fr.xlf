@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="6e157c5da4410b7e9de85f5c93026b9176e69064" resname="Create">
         <source>Creating</source>
-        <target state="translated">Création en cours</target>
+        <target state="translated">Création</target>
         <note>key: Create</note>
       </trans-unit>
       <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">

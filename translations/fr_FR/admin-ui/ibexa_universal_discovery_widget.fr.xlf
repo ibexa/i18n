@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="a3390555f717ffd9b3560f17198e5a437899967f" resname="dropdown.placeholder">
         <source>Search...</source>
-        <target state="translated">Rechercher…</target>
+        <target state="translated">Rechercher...</target>
         <note>key: dropdown.placeholder</note>
       </trans-unit>
       <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ezimageasset.title">
@@ -176,6 +176,11 @@
         <target state="translated">Filtres</target>
         <note>key: filters.title</note>
       </trans-unit>
+      <trans-unit id="94d848778c1cab60409c69dcff7e1cb8ea415ffc" resname="init_selected_locations.alert.title">
+        <source>Items already added to the list are marked as selected and unable to deselect.</source>
+        <target state="translated">Les éléments déjà ajoutés à la liste sont marqués comme sélectionnés et ne peuvent pas être désélectionnés.</target>
+        <note>key: init_selected_locations.alert.title</note>
+      </trans-unit>
       <trans-unit id="2d4febe56a341671c069ff47b6e6adfd2bba005c" resname="limitation.pick.error">
         <source>Could not fetch content names</source>
         <target state="translated">Impossible de récupérer les noms de contenu</target>
@@ -193,7 +198,7 @@
       </trans-unit>
       <trans-unit id="5e42fe3d48d64c1c9a735ac6286d3b0c06a008a0" resname="meta_preview.creation_date">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: meta_preview.creation_date</note>
       </trans-unit>
       <trans-unit id="2e0757eac91bd5a5cd89bd2811a0126bf8bd8194" resname="meta_preview.edit">
@@ -228,7 +233,7 @@
       </trans-unit>
       <trans-unit id="d31e50b1f33f2682ff35901dc7d7c4ea646ca922" resname="pagination.info.viewing_message">
         <source>Viewing %viewingCount% out of %totalCount% items</source>
-        <target state="translated">Affichage de %viewingCount% éléments sur %totalCount%</target>
+        <target state="translated">Affichage de %viewingCount% élément(s) sur %totalCount%</target>
         <note>key: pagination.info.viewing_message</note>
       </trans-unit>
       <trans-unit id="fde645e6790429ce2f904099b7aa2712224be9aa" resname="popup.close.label">
@@ -263,7 +268,7 @@
       </trans-unit>
       <trans-unit id="8e21115785735225359ccc0ab394af1242ad3862" resname="search.no_results.hint.fewer_keywords">
         <source>Try fewer keywords. Reducing keywords results in more matches.</source>
-        <target state="translated">Essayez d’utiliser moins de mots-clés. Réduire les mots-clés augmente les correspondances.</target>
+        <target state="translated">Essayez d’utiliser moins de mots-clés. Limitez le nombre de mots-clés pour obtenir plus de résultats.</target>
         <note>key: search.no_results.hint.fewer_keywords</note>
       </trans-unit>
       <trans-unit id="559bdc2720dbe0b6327fd25f533a4bc66c28c05a" resname="search.no_results.hint.more_general">
@@ -273,13 +278,18 @@
       </trans-unit>
       <trans-unit id="2b096dbbbcadb6a316903dce656706b528229e21" resname="search.placeholder">
         <source>Search...</source>
-        <target state="translated">Rechercher…</target>
+        <target state="translated">Rechercher...</target>
         <note>key: search.placeholder</note>
       </trans-unit>
       <trans-unit id="69f8e58ee01f604b377aaa638cabe3f245b45a73" resname="search.search_results">
         <source>Results for “%search_phrase%” (%total%)</source>
         <target state="translated">Résultats pour « %search_phrase% » (%total%)</target>
         <note>key: search.search_results</note>
+      </trans-unit>
+      <trans-unit id="b358d77d29a6b9869920d03666b1ebf0c13e21d2" resname="search.search_results.clear_btn.label">
+        <source>Clear results</source>
+        <target state="translated">Effacer les résultats</target>
+        <note>key: search.search_results.clear_btn.label</note>
       </trans-unit>
       <trans-unit id="3ae249fbdcae8da1215537a7407789511ff8fd3b" resname="search.search_results.in_language">
         <source>in %search_language%</source>
@@ -290,6 +300,31 @@
         <source>Cannot find children Locations with ID %idList%</source>
         <target state="translated">Impossible de trouver les emplacements enfants avec l’ID %idList%</target>
         <note>key: select_location.error</note>
+      </trans-unit>
+      <trans-unit id="9683e003c6df3c0b3e5e3d7a67f44cd0d1564b27" resname="selected_items.collapse.sidebar">
+        <source>Collapse sidebar</source>
+        <target state="translated">Réduire la barre latérale</target>
+        <note>key: selected_items.collapse.sidebar</note>
+      </trans-unit>
+      <trans-unit id="31f604a099c6795044ad9fe5eeb9ae5ed53b317c" resname="selected_items.deselect_all">
+        <source>{1}Deselect|[2,Inf]Deselect all</source>
+        <target state="translated">{1}Désélectionner|[2,Inf]Désélectionner tout</target>
+        <note>key: selected_items.deselect_all</note>
+      </trans-unit>
+      <trans-unit id="968df1cecdd3962e13a6f1f8a4469a5de1fd63ce" resname="selected_items.expand.sidebar">
+        <source>Expand sidebar</source>
+        <target state="translated">Développer la barre latérale</target>
+        <note>key: selected_items.expand.sidebar</note>
+      </trans-unit>
+      <trans-unit id="14f4788ed456f8eeabd0beccc78f1026671790c8" resname="selected_items.selection_info">
+        <source>{1}%count% selected item|[2,Inf]%count% selected items</source>
+        <target state="translated">{1}%count% élément sélectionné|[2,Inf]%count% éléments sélectionnés</target>
+        <note>key: selected_items.selection_info</note>
+      </trans-unit>
+      <trans-unit id="78dacf26451435b61bf654b180ceed82022a2c3c" resname="selected_items_panel.item.remove_item">
+        <source>Clear selection</source>
+        <target state="translated">Effacer la sélection</target>
+        <note>key: selected_items_panel.item.remove_item</note>
       </trans-unit>
       <trans-unit id="f57171aaa260d58b75c085d5606779e75a97751f" resname="selected_locations.clear_selection">
         <source>Clear selection</source>
@@ -302,8 +337,8 @@
         <note>key: selected_locations.collapse.sidebar</note>
       </trans-unit>
       <trans-unit id="d4462bb9386e96a0984586618fbfbcd0852fd4ea" resname="selected_locations.deselect_all">
-        <source>Deselect all</source>
-        <target state="translated">Tout désélectionner</target>
+        <source>{1}Deselect|[2,Inf]Deselect all</source>
+        <target state="translated">{1}Désélectionner|[2,Inf]Désélectionner tout</target>
         <note>key: selected_locations.deselect_all</note>
       </trans-unit>
       <trans-unit id="19700661da70137e52d0009660c9a87f5bcb99bd" resname="selected_locations.expand.sidebar">
@@ -312,8 +347,8 @@
         <note>key: selected_locations.expand.sidebar</note>
       </trans-unit>
       <trans-unit id="fe05e738022445778cb775ca099ba54291ae88e9" resname="selected_locations.selected_items">
-        <source>%count% selected item(s)</source>
-        <target state="translated">%count% élément(s) sélectionné(s)</target>
+        <source>{1}%count% selected item|[2,Inf]%count% selected items</source>
+        <target state="translated">{1}%count% élément sélectionné|[2,Inf]%count% éléments sélectionnés</target>
         <note>key: selected_locations.selected_items</note>
       </trans-unit>
       <trans-unit id="6b02292efbef3c6800f618acb3c41f968d9ea305" resname="sorting.date.label">
@@ -353,12 +388,12 @@
       </trans-unit>
       <trans-unit id="27c00b5da502fe6afe6b76e59ddeb951bbbf2c6f" resname="sorting.panels.view">
         <source>Panels view</source>
-        <target state="translated">Affichage en panneaux</target>
+        <target state="translated">Affichage des panneaux</target>
         <note>key: sorting.panels.view</note>
       </trans-unit>
       <trans-unit id="ab9d717b161673fc155f8f08fec3bc1818fb7e43" resname="sorting.tree.view">
         <source>Tree view</source>
-        <target state="translated">Affichage en arborescence</target>
+        <target state="translated">Affichage de l’arborescence</target>
         <note>key: sorting.tree.view</note>
       </trans-unit>
       <trans-unit id="987330c357d2475b80942e5c449e4215b623a459" resname="subtree.title">
@@ -373,12 +408,17 @@
       </trans-unit>
       <trans-unit id="7dad0dfeafd90e145f0e9efff5313d2a6040ba4c" resname="swap.title">
         <source>Select Location to swap with</source>
-        <target state="translated">Sélectionner l’emplacement avec lequel permuter</target>
+        <target state="translated">Sélectionner l’emplacement pour la permutation</target>
         <note>key: swap.title</note>
+      </trans-unit>
+      <trans-unit id="03cbaa7ecd3e035072635bdac4fda304a14129ae" resname="table.empty_table_body_row.info_text.default">
+        <source>Table is empty</source>
+        <target state="translated">Le tableau est vide</target>
+        <note>key: table.empty_table_body_row.info_text.default</note>
       </trans-unit>
       <trans-unit id="75247b44eb33fe5c35d9b5d8770bd76a15be7747" resname="view_switcher.view">
         <source>View</source>
-        <target state="translated">Affichage</target>
+        <target state="translated">Vue</target>
         <note>key: view_switcher.view</note>
       </trans-unit>
     </body>

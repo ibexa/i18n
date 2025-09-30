@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="e2b8dff16cf1b8ad7848630c4d7c42cc31ac5e21" resname="Enter login or email">
         <source>Enter login or email</source>
-        <target>Introduce el nombre de usuario o correo electrónico</target>
+        <target state="translated">Introduce el nombre de usuario o correo electrónico</target>
         <note>key: Enter login or email</note>
       </trans-unit>
       <trans-unit id="570591c060a999e9ab1592763c74d881b7654ee1" resname="Enter password">
         <source>Enter password</source>
-        <target>Introduce la contraseña</target>
+        <target state="translated">Introduce la contraseña</target>
         <note>key: Enter password</note>
       </trans-unit>
       <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login">
         <source>Login</source>
-        <target>Iniciar sesión</target>
+        <target state="translated">Iniciar sesión</target>
         <note>key: Login</note>
       </trans-unit>
       <trans-unit id="be81ab98cb9ccf753975f50fa70cd32581a821fc" resname="Password:">
         <source>Password:</source>
-        <target>Contraseña:</target>
+        <target state="translated">Contraseña:</target>
         <note>key: Password:</note>
       </trans-unit>
       <trans-unit id="17dfb031e086e3415d71f3928e6ce08d6b1c1d4d" resname="Username:">
         <source>Username:</source>
-        <target>Nombre de usuario:</target>
+        <target state="translated">Nombre de usuario:</target>
         <note>key: Username:</note>
       </trans-unit>
     </body>

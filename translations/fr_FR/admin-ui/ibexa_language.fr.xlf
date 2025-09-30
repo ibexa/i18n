@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="a00565bd7765a0bc061d4930db4a1323bae9a178" resname="language.editing">
         <source>Editing</source>
-        <target state="translated">Modification en cours</target>
+        <target state="translated">Modification</target>
         <note>key: language.editing</note>
       </trans-unit>
       <trans-unit id="065fdff561c25266ec49bbdaf8c5d0bdd6e9dd7f" resname="language.enabled">

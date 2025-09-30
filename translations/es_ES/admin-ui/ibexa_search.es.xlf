@@ -28,17 +28,17 @@
       </trans-unit>
       <trans-unit id="75d6d16d28be17ef015b223c19696f17e99f2be3" resname="global_search.focus.hint">
         <source>Search</source>
-        <target state="translated">Buscar</target>
+        <target state="translated">Buscar...</target>
         <note>key: global_search.focus.hint</note>
       </trans-unit>
       <trans-unit id="7100bfb6741e032fcfcc681f3eceef78650e4672" resname="header.search">
         <source>Search...</source>
-        <target state="translated">Buscar…</target>
+        <target state="translated">Buscar...</target>
         <note>key: header.search</note>
       </trans-unit>
       <trans-unit id="3559d7accf00360971961ca18989adc0614089c0" resname="search">
         <source>Search</source>
-        <target state="translated">Buscar</target>
+        <target state="translated">Buscar...</target>
         <note>key: search</note>
       </trans-unit>
       <trans-unit id="2c0d71c1688c1f04ff156bb9dff167ca5ae663b6" resname="search.any.content.type">

@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: section.identifier</note>
       </trans-unit>
       <trans-unit id="d91e051a7d7b54b42011fb6fc61bbb3997340d2a" resname="section.list.cannot_delete_notice">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="2bfeef4370b18e469fba6df1d4d2888f9252c764" resname="section.update.title">
         <source>Editing Section '%identifier%'</source>
-        <target state="translated">Sektion „%identifier%“ wird bearbeitet.</target>
+        <target state="translated">Sektion „%identifier%“ wird bearbeitet</target>
         <note>key: section.update.title</note>
       </trans-unit>
       <trans-unit id="9266789d0a5e68e102410798a2db431137039aad" resname="section.view.title.identifier">

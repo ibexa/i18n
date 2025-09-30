@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="aba90860c7115fd786796930267c78c815b93f25" resname="asset.upload.invalid_csrf">
         <source>Missing or invalid CSRF token</source>
-        <target state="translated">Fehlender oder ungültiger CSRF-Token.</target>
+        <target state="translated">Fehlender oder ungültiger CSRF-Token</target>
         <note>key: asset.upload.invalid_csrf</note>
       </trans-unit>
       <trans-unit id="9717da29459125f3b5220f29faebb149dfcb3f35" resname="details.alert.complete_profile">
@@ -16,15 +16,20 @@
         <target state="translated">Vervollständigen Sie Ihr Profil.</target>
         <note>key: details.alert.complete_profile</note>
       </trans-unit>
+      <trans-unit id="bb6a66ce981e1f4c979da6d4eccc06282388f871" resname="details.show_less.label">
+        <source>Show less</source>
+        <target state="translated">Weniger anzeigen</target>
+        <note>key: details.show_less.label</note>
+      </trans-unit>
+      <trans-unit id="8f1aba9dd9aa37972db51830a10ec4ddfb52031e" resname="details.show_more.label">
+        <source>Show more</source>
+        <target state="translated">Mehr anzeigen</target>
+        <note>key: details.show_more.label</note>
+      </trans-unit>
       <trans-unit id="68a1a5ea4fa56098f5eae44460514a09ea8f8509" resname="distraction_free_mode.disable.label">
         <source>Exit distraction free mode</source>
         <target state="translated">Ablenkungsfreien Modus beenden</target>
         <note>key: distraction_free_mode.disable.label</note>
-      </trans-unit>
-      <trans-unit id="3b73a0132e7934156fcf413f3af229612d8eca9c" resname="distraction_free_mode.disable.tooltip">
-        <source>Exit distraction free mode.</source>
-        <target state="translated">Ablenkungsfreien Modus beenden</target>
-        <note>key: distraction_free_mode.disable.tooltip</note>
       </trans-unit>
       <trans-unit id="d4de5a4ec1a58e845b16ca57b75b6b7585b2c5af" resname="distraction_free_mode.disable_hint">
         <source>To exit distraction free mode, click the %icon% or press Esc.</source>
@@ -103,7 +108,7 @@
       </trans-unit>
       <trans-unit id="885ec7aab950e05f729031321cddbb6d7f9c3246" resname="version.delete.success">
         <source>Removed version(s) from '%name%'.</source>
-        <target state="translated">Version(en) wurde(n) aus „%name%“ entfernt.</target>
+        <target state="translated">Versionen wurden aus „%name%“ entfernt.</target>
         <note>key: version.delete.success</note>
       </trans-unit>
     </body>

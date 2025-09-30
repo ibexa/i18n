@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="7100bfb6741e032fcfcc681f3eceef78650e4672" resname="header.search">
         <source>Search...</source>
-        <target state="translated">Rechercher…</target>
+        <target state="translated">Rechercher...</target>
         <note>key: header.search</note>
       </trans-unit>
       <trans-unit id="3559d7accf00360971961ca18989adc0614089c0" resname="search">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: search.created</note>
       </trans-unit>
       <trans-unit id="a32fe0699ebb4545ab1a39bab0311633c3f92fc3" resname="search.creator">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="3d9f547776de4846ff54fcd1cd173ac5937e5a46" resname="search.creator_input.placeholder">
         <source>Type creator's name</source>
-        <target state="translated">Saisir le nom du créateur</target>
+        <target state="translated">Nom du créateur du type</target>
         <note>key: search.creator_input.placeholder</note>
       </trans-unit>
       <trans-unit id="a18d7835f5b4a97ac94331f82e729abcb698be41" resname="search.custom_range">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="923ca53f6602fe7eabe79838efdca27c2756b0fd" resname="search.spellcheck.suggestion">
         <source>Did you mean %s?</source>
-        <target state="translated">Vouliez-vous dire « %s? »</target>
+        <target state="translated">Vouliez-vous dire %s ?</target>
         <note>key: search.spellcheck.suggestion</note>
       </trans-unit>
       <trans-unit id="b484be9d33f5cd9961f4ddd89c628f2cbca2a6a1" resname="search.subtree">

@@ -32,13 +32,13 @@
         <note>key: settings.autosave.value.description</note>
       </trans-unit>
       <trans-unit id="8d3d9c3a593c29c5ad69cf09b44cc423b27b1b64" resname="settings.autosave.value.disabled">
-        <source>disabled</source>
-        <target state="translated">deshabilitado</target>
+        <source>Disabled</source>
+        <target state="translated">Deshabilitado</target>
         <note>key: settings.autosave.value.disabled</note>
       </trans-unit>
       <trans-unit id="5f85d72d00abca8e47ea83a67c9577c3cdb454b8" resname="settings.autosave.value.enabled">
-        <source>enabled</source>
-        <target state="translated">habilitado</target>
+        <source>Enabled</source>
+        <target state="translated">Habilitado</target>
         <note>key: settings.autosave.value.enabled</note>
       </trans-unit>
       <trans-unit id="6e582329e8e54377b58d547389fda8ac2dd2cf5c" resname="settings.autosave.value.title">
@@ -72,13 +72,13 @@
         <note>key: settings.in_context_translation.value.description</note>
       </trans-unit>
       <trans-unit id="3f33c08a95b774bfdcb67ade54bce7f62bd2ac54" resname="settings.in_context_translation.value.disabled">
-        <source>disabled</source>
-        <target state="translated">deshabilitado</target>
+        <source>Disabled</source>
+        <target state="translated">Deshabilitado</target>
         <note>key: settings.in_context_translation.value.disabled</note>
       </trans-unit>
       <trans-unit id="08e33cb64156307a5a8197a0cdb4e254e6c4c5c5" resname="settings.in_context_translation.value.enabled">
-        <source>enabled</source>
-        <target state="translated">habilitado</target>
+        <source>Enabled</source>
+        <target state="translated">Habilitado</target>
         <note>key: settings.in_context_translation.value.enabled</note>
       </trans-unit>
       <trans-unit id="655baeb177f1234a01684cf79c22ccdcaf5bee51" resname="settings.in_context_translation.value.title">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="05bad24df7e1efd6680f0c20d79080430605bf48" resname="user.setting.focus_mode.description">
         <source>Focus mode</source>
-        <target state="translated">Modo de concentración</target>
+        <target state="translated">Modo concentración</target>
         <note>key: user.setting.focus_mode.description</note>
       </trans-unit>
       <trans-unit id="cffd55da53aff9b2efc64a42454deb1984c0264c" resname="user.setting.focus_mode.help">
@@ -100,23 +100,24 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="translated"><![CDATA[<p><strong>Modo de concentración</strong>: una interfaz limpia e intuitiva con una estructura de contenido simplificada, diseñada para usuarios nuevos y no avanzados. Las funciones incluyen:</p> 
-			<ul>
-                            <li>Ver pestaña que muestra la previsualización del sitio dentro del contexto</li>
-			    <li>Ocultar pestaña de detalles técnicos</li>
-			    <li>Ocultar pestaña de ubicaciones y versiones en ítems de contenido</li>
-			</ul>
-		</p>]]></target>
+        <target state="translated"><![CDATA[<p><strong>Modo concentración</strong>: una interfaz limpia e intuitiva con una estructura de contenido simplificada
+                        diseñada para usuarios nuevos y no avanzados. Las características incluyen:</p>
+                        <ul>
+                            <li>Pestaña que muestra la previsualización del sitio dentro del contexto</li>
+                            <li>Pestaña de detalles técnicos oculta</li>
+                            <li>Pestañas de ubicaciones y versiones ocultas en ítems de contenido</li>
+                        </ul>
+                    </p>]]></target>
         <note>key: user.setting.focus_mode.help</note>
       </trans-unit>
       <trans-unit id="3f9f3faa4259dc9c627396c82133e9f615e388a8" resname="user.setting.focus_mode.label">
         <source>Enable focus mode</source>
-        <target state="translated">Habilitar modo de concentración</target>
+        <target state="translated">Habilitar modo concentración</target>
         <note>key: user.setting.focus_mode.label</note>
       </trans-unit>
       <trans-unit id="585f7f7c62212ea3de792ae339db9e838f27d77a" resname="user.setting.focus_mode.name">
         <source>Focus mode</source>
-        <target state="translated">Modo de concentración</target>
+        <target state="translated">Modo concentración</target>
         <note>key: user.setting.focus_mode.name</note>
       </trans-unit>
       <trans-unit id="ff6e958aad946d4fed9a52212626b24394e70764" resname="user.setting.focus_mode.off">

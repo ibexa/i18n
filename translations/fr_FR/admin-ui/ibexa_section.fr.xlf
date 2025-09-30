@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content">
         <source>Assign content</source>
-        <target state="translated">Attribuer du contenu</target>
+        <target state="translated">Attribuer le contenu</target>
         <note>key: section.assign_content</note>
       </trans-unit>
       <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="9acf0e8d215ddc5f79a8b660be280af8eb3e22e7" resname="section.creating">
         <source>Creating</source>
-        <target state="translated">Création en cours</target>
+        <target state="translated">Création</target>
         <note>key: section.creating</note>
       </trans-unit>
       <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="4415ad4901be9df6454161d40f078fc1a2fc923b" resname="section.editing">
         <source>Editing</source>
-        <target state="translated">Modification en cours</target>
+        <target state="translated">Modification</target>
         <note>key: section.editing</note>
       </trans-unit>
       <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
