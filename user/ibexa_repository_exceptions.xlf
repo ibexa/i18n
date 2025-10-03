@@ -6,10 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="f9b36d5eb16022b70bd8bcb01286406fc84321a9" resname="sidebar.toggle.label">
-        <source>Toggle Elements</source>
-        <target state="new">Toggle Elements</target>
-        <note>key: sidebar.toggle.label</note>
+      <trans-unit id="619a3446ec0941d3e7e64a1b63c2938925e9b56a" resname="limitationValues[%key%] =&gt; '%value%' does not exist in the backend">
+        <source><![CDATA[limitationValues[%key%] => '%value%' does not exist in the backend]]></source>
+        <target state="new"><![CDATA[limitationValues[%key%] => '%value%' does not exist in the backend]]></target>
+        <note>key: limitationValues[%key%] =&gt; '%value%' does not exist in the backend</note>
       </trans-unit>
     </body>
   </file>

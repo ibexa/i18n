@@ -36,11 +36,6 @@
         <target state="new">Shipping method</target>
         <note>key: ibexa_checkout.checkout.summary.shipping_method</note>
       </trans-unit>
-      <trans-unit id="259dbaf543e311152125730cd23aa61f06000478" resname="ibexa_checkout.reorder.product_cannot_be_reordered">
-        <source>At least one of the products cannot be reordered.</source>
-        <target state="new">At least one of the products cannot be reordered.</target>
-        <note>key: ibexa_checkout.reorder.product_cannot_be_reordered</note>
-      </trans-unit>
       <trans-unit id="dbd49fc245d6ca0763f96354338a8f9e65067cee" resname="ibexa_checkout.ui.actions.go_back">
         <source>Go Back</source>
         <target state="new">Go Back</target>

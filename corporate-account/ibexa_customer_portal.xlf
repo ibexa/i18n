@@ -480,26 +480,6 @@
         <target state="new">Register</target>
         <note>key: registration.form.submit.btn</note>
       </trans-unit>
-      <trans-unit id="d6c5e54e54472f7090fd62e16c51774a43af3e78" resname="registration_already_exists.info.explanation">
-        <source>Your application has NOT been submitted because there is already an application for that e-mail address.</source>
-        <target state="new">Your application has NOT been submitted because there is already an application for that e-mail address.</target>
-        <note>key: registration_already_exists.info.explanation</note>
-      </trans-unit>
-      <trans-unit id="4b37cf55b7bda5b33a39fd1817dce2e1ada559ea" resname="registration_already_exists.info.title">
-        <source>Application already exists.</source>
-        <target state="new">Application already exists.</target>
-        <note>key: registration_already_exists.info.title</note>
-      </trans-unit>
-      <trans-unit id="fa25dd4e34e214653fba103113d3a2349d734d4d" resname="registration_already_exists.info.todo">
-        <source>Please contact us directly if you think this is a mistake.</source>
-        <target state="new">Please contact us directly if you think this is a mistake.</target>
-        <note>key: registration_already_exists.info.todo</note>
-      </trans-unit>
-      <trans-unit id="fa81b7a926fe90fcad4e5affde9e55dda7378d66" resname="registration_confirmation.image">
-        <source>registration confirmation</source>
-        <target state="new">registration confirmation</target>
-        <note>key: registration_confirmation.image</note>
-      </trans-unit>
       <trans-unit id="49c6026a629b3dbe922fe8e824acc26763d9273f" resname="registration_confirmation.image.alt.success">
         <source>Registration successful</source>
         <target state="new">Registration successful</target>

@@ -6,10 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success">
-        <source>Created new draft version of '%name%'.</source>
-        <target state="new">Created new draft version of '%name%'.</target>
-        <note>key: content.create_draft.success</note>
+      <trans-unit id="74b6e1a66c69c9b4321a0ed9d340acf3878da684" resname="limitationValues[] =&gt; '%fieldsGroups%' fields group(s) do not exist">
+        <source><![CDATA[limitationValues[] => '%fieldsGroups%' fields group(s) do not exist]]></source>
+        <target state="new"><![CDATA[limitationValues[] => '%fieldsGroups%' fields group(s) do not exist]]></target>
+        <note>key: limitationValues[] =&gt; '%fieldsGroups%' fields group(s) do not exist</note>
       </trans-unit>
     </body>
   </file>

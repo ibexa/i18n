@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="08b8cb789033a36e7c1b3e0919d9b0f6367fa6ea" resname="Validator %validator% expects parameter %parameter% to be in type %$type%.">
+        <source>Validator %validator% expects parameter %parameter% to be in type %$type%.</source>
+        <target state="new">Validator %validator% expects parameter %parameter% to be in type %$type%.</target>
+        <note>key: Validator %validator% expects parameter %parameter% to be in type %$type%.</note>
+      </trans-unit>
+      <trans-unit id="60b08b7060418c6649003ad172cb464d0f08a5ca" resname="Validator %validator% expects parameter %parameter% to be of %type%.">
+        <source>Validator %validator% expects parameter %parameter% to be of %type%.</source>
+        <target state="new">Validator %validator% expects parameter %parameter% to be of %type%.</target>
+        <note>key: Validator %validator% expects parameter %parameter% to be of %type%.</note>
+      </trans-unit>
+      <trans-unit id="a9f2ff0ce778111aff38235670551cc9c6b30c9c" resname="Validator %validator% expects parameter %parameter% to be set.">
+        <source>Validator %validator% expects parameter %parameter% to be set.</source>
+        <target state="new">Validator %validator% expects parameter %parameter% to be set.</target>
+        <note>key: Validator %validator% expects parameter %parameter% to be set.</note>
+      </trans-unit>
+      <trans-unit id="53769a408989ce357c62f26d2e911672f9b052a6" resname="Validator '%validator%' is unknown">
+        <source>Validator '%validator%' is unknown</source>
+        <target state="new">Validator '%validator%' is unknown</target>
+        <note>key: Validator '%validator%' is unknown</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

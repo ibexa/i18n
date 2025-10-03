@@ -32,7 +32,7 @@
         <note>key: page_builder__infobar__edit__actions__publish</note>
       </trans-unit>
       <trans-unit id="327a7fa97c120a7401e0ad51b8750db2b3efdc96" resname="page_builder__infobar__edit__actions__save_draft">
-        <source>Save</source>
+        <source>Save draft</source>
         <target state="new">Save</target>
         <note>key: page_builder__infobar__edit__actions__save_draft</note>
       </trans-unit>

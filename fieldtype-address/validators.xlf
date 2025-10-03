@@ -6,10 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="d806b91f8d71c9ddae32c5a1d34d29b412956f91" resname="ibexa_form.name">
-        <source>Form</source>
-        <target state="new">Form</target>
-        <note>key: ibexa_form.name</note>
+      <trans-unit id="f9528f726dba7a6073efe4ee4479bb3d511fe013" resname="ibexa.address.validator.field_required">
+        <source>Field is required</source>
+        <target state="new">Field is required</target>
+        <note>key: ibexa.address.validator.field_required</note>
       </trans-unit>
     </body>
   </file>

@@ -351,25 +351,10 @@
         <target state="new">AI Assistant: %actionName%</target>
         <note>key: ibexa_connector_ai.ai_assistant.title</note>
       </trans-unit>
-      <trans-unit id="b0af2d09b2e6778b73c780b9b8de0744ece9b1b5" resname="ibexa_connector_ai.generating_msg">
-        <source>AI is generating...</source>
-        <target state="new">AI is generating...</target>
-        <note>key: ibexa_connector_ai.generating_msg</note>
-      </trans-unit>
       <trans-unit id="c15e45452b65e0e2502e806acc2a2ff522e76053" resname="ibexa_connector_ai.go_to_ai_actions.label">
         <source>Go to AI actions</source>
         <target state="new">Go to AI actions</target>
         <note>key: ibexa_connector_ai.go_to_ai_actions.label</note>
-      </trans-unit>
-      <trans-unit id="5ae47884a22e68029e0a9ddf3a10cb41fb503590" resname="ibexa_connector_ai.stop_generating.label">
-        <source>Stop generating</source>
-        <target state="new">Stop generating</target>
-        <note>key: ibexa_connector_ai.stop_generating.label</note>
-      </trans-unit>
-      <trans-unit id="f2c946447733803e03a6774ccb35fc8f70a7a3ae" resname="ibexa_connector_ai.use_ai.label">
-        <source>Use AI</source>
-        <target state="new">Use AI</target>
-        <note>key: ibexa_connector_ai.use_ai.label</note>
       </trans-unit>
       <trans-unit id="3777fedfcccdbd11c0f029428339908b60583b7f" resname="list.tooltip.copy">
         <source>Duplicate</source>

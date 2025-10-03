@@ -941,10 +941,10 @@
         <target state="new">Value must be integer</target>
         <note>key: error.required.field.integer</note>
       </trans-unit>
-      <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ezimageasset.title">
+      <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ibexa_image_asset.title">
         <source>Select Image Asset</source>
         <target state="new">Select Image Asset</target>
-        <note>key: ezimageasset.title</note>
+        <note>key: ibexa_image_asset.title</note>
       </trans-unit>
       <trans-unit id="fec8270453451fdd353b4a9c8f6e459908355a73" resname="field_definition.ibexa_product_specification.attributes_definitions">
         <source>Attributes</source>
@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="e300046260d3af717b1187bfd4fcb2ce3b2e4d44" resname="product.asset.disallowed_type.message">
         <source>The uploaded file types are not allowed</source>
-        <target state="new">The uploaded file types are not allowed</target>
+        <target state="new">The uploaded file types are not allowed.</target>
         <note>key: product.asset.disallowed_type.message</note>
       </trans-unit>
       <trans-unit id="d90613484c3b5901786fb6b30ec08b0fa1d01f98" resname="product.asset.group.success">
@@ -1243,7 +1243,7 @@
       </trans-unit>
       <trans-unit id="ba26a26316f75e1cb9120aa666004e06fed1dbba" resname="product.asset.not.all.disallowed_type.message">
         <source>One or more files have an unsupported file type</source>
-        <target state="new">One or more files have an unsupported file type</target>
+        <target state="new">One or more files have an unsupported file type.</target>
         <note>key: product.asset.not.all.disallowed_type.message</note>
       </trans-unit>
       <trans-unit id="ed4b78a9b00310cbd7774f9412f1ee4716f501a8" resname="product.availability.create.success">
