@@ -16,6 +16,21 @@
         <target state="new">Share</target>
         <note>key: role.policy.product.share</note>
       </trans-unit>
+      <trans-unit id="4db84e4df637c1d31da50a3dda4b9dcf14c3f82e" resname="role.policy.share">
+        <source>Share</source>
+        <target state="new">Share</target>
+        <note>key: role.policy.share</note>
+      </trans-unit>
+      <trans-unit id="16cb669ad866efd3639f749914f44f254fc59fd0" resname="role.policy.share.all_functions">
+        <source>All functions</source>
+        <target state="new">All functions</target>
+        <note>key: role.policy.share.all_functions</note>
+      </trans-unit>
+      <trans-unit id="2ded3717e03ea89b92d5ec0ae001e9e28ca0344d" resname="role.policy.share.manage_public_link">
+        <source>Share</source>
+        <target state="new">Manage public link</target>
+        <note>key: role.policy.share.manage_public_link</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

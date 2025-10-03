@@ -6,10 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="b67d8a40f95c77bdbc6e54dabf2dc417d5e2fa39" resname="Select accuracy">
-        <source>Select accuracy</source>
-        <target state="new">Select accuracy</target>
-        <note>key: Select accuracy</note>
+      <trans-unit id="da39a3ee5e6b4b0d3255bfef95601890afd80709" resname="">
+        <source />
+        <target state="new" />
+        <note>key: </note>
       </trans-unit>
       <trans-unit id="ae606b92d94db64caa93471524454c9a2235e98e" resname="ibexa.product_catalog.attribute.form.accuracy.day_eg_select_label">
         <source>Day (2020-01-01)</source>

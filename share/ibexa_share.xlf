@@ -11,6 +11,16 @@
         <target state="new">Share</target>
         <note>key: share.action.label</note>
       </trans-unit>
+      <trans-unit id="cdb96b59869803b97523e2bce7014a2226a54fdf" resname="share.blocked_drafts.warning">
+        <source>Some drafts on the list might be disabled for editing due to active real-time collaboration session. Only session participants can edit them.</source>
+        <target state="new">Some drafts on the list might be disabled for editing due to active real-time collaboration session. Only session participants can edit them.</target>
+        <note>key: share.blocked_drafts.warning</note>
+      </trans-unit>
+      <trans-unit id="ee265ffa7dd9b16ca6c86bc0281b6cf6443fcb92" resname="share.blocked_fields.warning">
+        <source>Some fields in the form might be disabled for real-time collaboration. Only owner of this content can edit it.</source>
+        <target state="new">Some fields in the form might be disabled for real-time collaboration. Only owner of this content can edit it.</target>
+        <note>key: share.blocked_fields.warning</note>
+      </trans-unit>
       <trans-unit id="bffab669d60889771d09bc5402a29fda93f72ef0" resname="share.copy_invite_link.label">
         <source>Copy invite link</source>
         <target state="new">Copy invite link</target>
@@ -40,6 +50,31 @@
         <source>Copy link</source>
         <target state="new">Copy link</target>
         <note>key: share.copy_link.label</note>
+      </trans-unit>
+      <trans-unit id="98b44301358e56c6b7e7d29c698ec2b5137281f6" resname="share.end_collaboration.modal.footer.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: share.end_collaboration.modal.footer.cancel_btn.label</note>
+      </trans-unit>
+      <trans-unit id="f4ae4e2bf44cbe8266bca469b3fd25c2d139f622" resname="share.end_collaboration.modal.footer.confirm_btn.label">
+        <source>Confirm</source>
+        <target state="new">Confirm</target>
+        <note>key: share.end_collaboration.modal.footer.confirm_btn.label</note>
+      </trans-unit>
+      <trans-unit id="2099f1fc49ec28eaeb548acbb67872018b90c55a" resname="share.end_collaboration.modal.saving.notice">
+        <source>All changes will be saved.</source>
+        <target state="new">All changes will be saved.</target>
+        <note>key: share.end_collaboration.modal.saving.notice</note>
+      </trans-unit>
+      <trans-unit id="84b995d08ab40319bd0ad7b61efd7028b49acab6" resname="share.end_collaboration.modal.title">
+        <source>End collaboration</source>
+        <target state="new">End collaboration</target>
+        <note>key: share.end_collaboration.modal.title</note>
+      </trans-unit>
+      <trans-unit id="fdef3382cb1bc0b9a095fb5700186926deb54fe5" resname="share.end_collaboration.modal.warning.notice">
+        <source>This will end collaboration session for all users.</source>
+        <target state="new">This will end collaboration session for all users.</target>
+        <note>key: share.end_collaboration.modal.warning.notice</note>
       </trans-unit>
       <trans-unit id="8d037d91f17cc52b6597d58a396b634acb5c3de5" resname="share.invite.action.edit">
         <source>Edit</source>
@@ -82,8 +117,8 @@
         <note>key: share.invite.search.error.text</note>
       </trans-unit>
       <trans-unit id="543aa7210030eeb746a1dc46c361d408cf9bbed2" resname="share.invite.search.helper.text">
-        <source>Select users existing in our system with set permissions, or invite people from outside of your organisation</source>
-        <target state="new">Select users existing in our system with set permissions, or invite people from outside of your organisation</target>
+        <source>Select users existing in our system with set permissions, or invite people from outside of your organisation.</source>
+        <target state="new">Select users existing in our system with set permissions, or invite people from outside of your organisation.</target>
         <note>key: share.invite.search.helper.text</note>
       </trans-unit>
       <trans-unit id="0916dd27be4a12f204ccbd556028f4a67e50b96f" resname="share.invite.search.placeholder">
@@ -96,6 +131,16 @@
         <target state="new">People</target>
         <note>key: share.invite.search.title</note>
       </trans-unit>
+      <trans-unit id="67623e91da7ab7335645c8ef77149e4e0be40b64" resname="share.invite.user_list.owner_marker">
+        <source>(owner)</source>
+        <target state="new">(owner)</target>
+        <note>key: share.invite.user_list.owner_marker</note>
+      </trans-unit>
+      <trans-unit id="5dd467983c30c820639974f901132bc5217d613d" resname="share.invite.user_list.self_marker">
+        <source>(you)</source>
+        <target state="new">(you)</target>
+        <note>key: share.invite.user_list.self_marker</note>
+      </trans-unit>
       <trans-unit id="7810557aeed8ffe537bdd299acf3dc9be8eba925" resname="share.link_settings.label">
         <source>Link settings</source>
         <target state="new">Link settings</target>
@@ -107,9 +152,114 @@
         <note>key: share.modal.invite.title</note>
       </trans-unit>
       <trans-unit id="dad2d289153c9f6f03c10fccd3ff74bd9e3fd448" resname="share.modal.link_settings.title">
-        <source>Link Settings</source>
-        <target state="new">Link Settings</target>
+        <source>Link settings</source>
+        <target state="new">Link settings</target>
         <note>key: share.modal.link_settings.title</note>
+      </trans-unit>
+      <trans-unit id="979cb4bc5611c1015fa0c98fb8a036c0d32829c8" resname="share.notification.invitation.content_edit.email.body.cta">
+        <source>Join collaboration</source>
+        <target state="new">Join collaboration</target>
+        <note>key: share.notification.invitation.content_edit.email.body.cta</note>
+      </trans-unit>
+      <trans-unit id="b8744259467a8cfc339b3a7229678e906344d3f5" resname="share.notification.invitation.content_edit.email.body.greetings">
+        <source>Hi %name%,</source>
+        <target state="new">Hi %name%,</target>
+        <note>key: share.notification.invitation.content_edit.email.body.greetings</note>
+      </trans-unit>
+      <trans-unit id="9093a59ec2f1085cd601e4a98cdf56c179408de1" resname="share.notification.invitation.content_edit.email.body.location">
+        <source>Location: %name%</source>
+        <target state="new">Location: %name%</target>
+        <note>key: share.notification.invitation.content_edit.email.body.location</note>
+      </trans-unit>
+      <trans-unit id="3c805a396b63b110ba7e2c02b6390ae812c8e58a" resname="share.notification.invitation.content_edit.email.body.subject">
+        <source>You are invited to collaborate on</source>
+        <target state="new">You are invited to collaborate on</target>
+        <note>key: share.notification.invitation.content_edit.email.body.subject</note>
+      </trans-unit>
+      <trans-unit id="7f2de2fdc3c47af109f7a70c22ae0bf9b16c2083" resname="share.notification.invitation.content_edit.email.subject">
+        <source>%participant% is inviting you to collaborate on %name%</source>
+        <target state="new">%participant% is inviting you to collaborate on %name%</target>
+        <note>key: share.notification.invitation.content_edit.email.subject</note>
+      </trans-unit>
+      <trans-unit id="63b5701e8cc37848906c20693b8b605034b67aff" resname="share.notification.invitation.content_edit.system_notification.message">
+        <source>%sender% is inviting you to collaborate on %name% in %location%</source>
+        <target state="new">%sender% is inviting you to collaborate on %name% in %location%</target>
+        <note>key: share.notification.invitation.content_edit.system_notification.message</note>
+      </trans-unit>
+      <trans-unit id="5377e735d11eb46686b539eff7c1464c0a1a8d21" resname="share.notification.invitation.content_edit.system_notification.message.without_location">
+        <source>%sender% is inviting you to collaborate on %name%</source>
+        <target state="new">%sender% is inviting you to collaborate on %name%</target>
+        <note>key: share.notification.invitation.content_edit.system_notification.message.without_location</note>
+      </trans-unit>
+      <trans-unit id="22764e12cf2ccab27f4bf29c0b02d6f82a809a16" resname="share.notification.invitation.content_edit.system_notification.subject">
+        <source>Invitation to collaborative editing</source>
+        <target state="new">Invitation to collaborative editing</target>
+        <note>key: share.notification.invitation.content_edit.system_notification.subject</note>
+      </trans-unit>
+      <trans-unit id="293763d1fbe784e8558f656c4d65956ae345dc65" resname="share.notification.invitation.content_view.email.body.cta">
+        <source>Preview</source>
+        <target state="new">Preview</target>
+        <note>key: share.notification.invitation.content_view.email.body.cta</note>
+      </trans-unit>
+      <trans-unit id="ac236f2fa4d1712915ae15337cc52c708757e05a" resname="share.notification.invitation.content_view.email.body.greetings">
+        <source>Hi %name%,</source>
+        <target state="new">Hi %name%,</target>
+        <note>key: share.notification.invitation.content_view.email.body.greetings</note>
+      </trans-unit>
+      <trans-unit id="bcde5cd9f3eef60e61c72b943b618b375e081560" resname="share.notification.invitation.content_view.email.body.location">
+        <source>Location: %name%</source>
+        <target state="new">Location: %name%</target>
+        <note>key: share.notification.invitation.content_view.email.body.location</note>
+      </trans-unit>
+      <trans-unit id="6eb78c20158efa2096e17e72096f569f4bd0bed3" resname="share.notification.invitation.content_view.email.body.subject">
+        <source>You are invited to collaborate on</source>
+        <target state="new">You are invited to collaborate on</target>
+        <note>key: share.notification.invitation.content_view.email.body.subject</note>
+      </trans-unit>
+      <trans-unit id="d2ea73b6bfdac926121b91bbeac8bda34202cf85" resname="share.notification.invitation.content_view.email.subject">
+        <source>%participant% is sharing with you %name%</source>
+        <target state="new">%participant% is sharing with you %name%</target>
+        <note>key: share.notification.invitation.content_view.email.subject</note>
+      </trans-unit>
+      <trans-unit id="6f58ed9a0f6da3e27c33e6313926b8be503da3aa" resname="share.notification.invitation.content_view.system_notification.message">
+        <source>%sender% is sharing preview of %name% with you in %location%</source>
+        <target state="new">%sender% is sharing preview of %name% with you in %location%</target>
+        <note>key: share.notification.invitation.content_view.system_notification.message</note>
+      </trans-unit>
+      <trans-unit id="bf13179c098220c960b259526f7afb7fc0ccbcfb" resname="share.notification.invitation.content_view.system_notification.message.without_location">
+        <source>%sender% is sharing preview of %name% with you</source>
+        <target state="new">%sender% is sharing preview of %name% with you</target>
+        <note>key: share.notification.invitation.content_view.system_notification.message.without_location</note>
+      </trans-unit>
+      <trans-unit id="8d880e71bcedfad5c1f5623c9cbd4b121baeec45" resname="share.notification.invitation.content_view.system_notification.subject">
+        <source>Invitation to content preview</source>
+        <target state="new">Invitation to content preview</target>
+        <note>key: share.notification.invitation.content_view.system_notification.subject</note>
+      </trans-unit>
+      <trans-unit id="787293df189897e2fb141e9ac3be60769936f53a" resname="share.notification.join.content_published">
+        <source>Content is published. Collaboration session has ended.</source>
+        <target state="new">Content is published. Collaboration session has ended.</target>
+        <note>key: share.notification.join.content_published</note>
+      </trans-unit>
+      <trans-unit id="d994c772083d3a670644deb4c19fac641fa7fd8c" resname="share.notification.join.content_trashed">
+        <source>Content has been moved to trash or deleted. Collaboration session has ended.</source>
+        <target state="new">Content has been moved to trash or deleted. Collaboration session has ended.</target>
+        <note>key: share.notification.join.content_trashed</note>
+      </trans-unit>
+      <trans-unit id="36055473a204ff41f3be94e82ab523b65c6da73d" resname="share.notification.leave.content_published">
+        <source>Content is published. Collaboration session has ended.</source>
+        <target state="new">Content is published. Collaboration session has ended.</target>
+        <note>key: share.notification.leave.content_published</note>
+      </trans-unit>
+      <trans-unit id="90779cbb1fb76597d76c1010d43faec50e297f1d" resname="share.notification.leave.out_of_collaboration_session">
+        <source>You are out of the collaboration session.</source>
+        <target state="new">You are out of the collaboration session.</target>
+        <note>key: share.notification.leave.out_of_collaboration_session</note>
+      </trans-unit>
+      <trans-unit id="03013030482dac3337f519f9b87c76a56658a732" resname="share.notification.leave.scope_changed">
+        <source>You are out of the collaboration session. Your access to session has been changed.</source>
+        <target state="new">You are out of the collaboration session. Your access to session has been changed.</target>
+        <note>key: share.notification.leave.scope_changed</note>
       </trans-unit>
       <trans-unit id="3ee1b10b8b704c661fea827d7fc0a77d7fa75906" resname="share.suggestions.already_added">
         <source>Already added</source>

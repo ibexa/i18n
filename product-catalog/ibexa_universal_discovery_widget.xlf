@@ -56,6 +56,11 @@
         <target state="new">Availability</target>
         <note>key: products_discovery_widget.product_table.header.availability</note>
       </trans-unit>
+      <trans-unit id="ebbbe8db90440fb0482c5d56bfa6778f3f726829" resname="products_discovery_widget.product_table.header.base_price">
+        <source>Base price</source>
+        <target state="new">Base price</target>
+        <note>key: products_discovery_widget.product_table.header.base_price</note>
+      </trans-unit>
       <trans-unit id="af79f578f10b012a64f90277c1ff9cf8bf34b7f7" resname="products_discovery_widget.product_table.header.code">
         <source>Code</source>
         <target state="new">Code</target>
@@ -111,6 +116,11 @@
         <target state="new">Availability</target>
         <note>key: products_discovery_widget.product_variant_table.header.availability</note>
       </trans-unit>
+      <trans-unit id="1248e57df2f1737e034cc81245f65ce5313dd008" resname="products_discovery_widget.product_variant_table.header.base_price">
+        <source>Base price</source>
+        <target state="new">Base price</target>
+        <note>key: products_discovery_widget.product_variant_table.header.base_price</note>
+      </trans-unit>
       <trans-unit id="286d639d5c2ead77b43267a2afcb0a5e948dc4d7" resname="products_discovery_widget.product_variant_table.header.code">
         <source>Code</source>
         <target state="new">Code</target>
@@ -121,10 +131,20 @@
         <target state="new">Name</target>
         <note>key: products_discovery_widget.product_variant_table.header.name</note>
       </trans-unit>
+      <trans-unit id="39fce3388965747b18b173780a709482acf3c5f8" resname="products_discovery_widget.product_variant_table.header.stock">
+        <source>Stock</source>
+        <target state="new">Stock</target>
+        <note>key: products_discovery_widget.product_variant_table.header.stock</note>
+      </trans-unit>
       <trans-unit id="afed401762826d38701022d976efaac6cbc8d982" resname="products_discovery_widget.product_variant_table.headline">
         <source>%baseProductName% (%totalCount% variants)</source>
         <target state="new">%baseProductName% (%totalCount% variants)</target>
         <note>key: products_discovery_widget.product_variant_table.headline</note>
+      </trans-unit>
+      <trans-unit id="015264c16c058fe39cb50e07f4e695f1da96cd1f" resname="products_discovery_widget.product_variant_table.search.no_results.hint.different_search_criteria">
+        <source>Try different search criteria.</source>
+        <target state="new">Try different search criteria.</target>
+        <note>key: products_discovery_widget.product_variant_table.search.no_results.hint.different_search_criteria</note>
       </trans-unit>
       <trans-unit id="56cc8b35122a047f9840cc94954652d4ba19bd77" resname="products_discovery_widget.product_variants_view.filters.row.attributes.title">
         <source>Attributes</source>

@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
-        <source>From:</source>
-        <target state="new">From:</target>
+        <source>from:</source>
+        <target state="new">from:</target>
         <note>key: content.review.from</note>
       </trans-unit>
       <trans-unit id="ae6d8d014d80092d6c7254b3baaa05e9a4cea7ae" resname="content.review.ready">
@@ -27,8 +27,8 @@
         <note>key: content.review.title</note>
       </trans-unit>
       <trans-unit id="b7578d210bb0a2f0f03a30ee0fc33a0e377cc227" resname="content.unlock.accept">
-        <source>Accept</source>
-        <target state="new">Accept</target>
+        <source>Accept request</source>
+        <target state="new">Accept request</target>
         <note>key: content.unlock.accept</note>
       </trans-unit>
       <trans-unit id="40824da1203ecd7402887434c46c4107d02f85d7" resname="content.unlock.request">
@@ -240,6 +240,21 @@
         <source>Workflow</source>
         <target state="new">Workflow</target>
         <note>key: workflow.list.title</note>
+      </trans-unit>
+      <trans-unit id="ee5a116df2b13a68378143ed184acd8f47a0426b" resname="workflow.notification.ask_unlock.label">
+        <source>Unlock request sent</source>
+        <target state="new">Unlock request sent</target>
+        <note>key: workflow.notification.ask_unlock.label</note>
+      </trans-unit>
+      <trans-unit id="d90008b9ed9c00da901e2bd79616d463bdebf27c" resname="workflow.notification.notify_reviewer.label">
+        <source>Review requested</source>
+        <target state="new">Review requested</target>
+        <note>key: workflow.notification.notify_reviewer.label</note>
+      </trans-unit>
+      <trans-unit id="ec6e3f1050d36d5121eb5223012792e13b50a69b" resname="workflow.notification.stage_change.label">
+        <source>Workflow stage changed</source>
+        <target state="new">Workflow stage changed</target>
+        <note>key: workflow.notification.stage_change.label</note>
       </trans-unit>
       <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
         <source>Content type</source>

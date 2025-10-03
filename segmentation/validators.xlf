@@ -16,6 +16,16 @@
         <target state="new">Segment identifier "{{ identifier }}" is not unique</target>
         <note>key: ibexa.segmentation.validator.segment_unique_identifier</note>
       </trans-unit>
+      <trans-unit id="2faa0848cac7e8c2a4c13d2baf25fd9b7abab16b" resname="ibexa.segmentation.validator.segment_group_struct_unique_identifier">
+        <source>Segment Group identifier "%identifier%" is not unique</source>
+        <target state="new">Segment Group identifier "%identifier%" is not unique</target>
+        <note>key: ibexa.segmentation.validator.segment_group_struct_unique_identifier</note>
+      </trans-unit>
+      <trans-unit id="20b8c791f71575a252a419f0ae748c15c9bbb850" resname="ibexa.segmentation.validator.segment_struct_unique_identifier">
+        <source>Segment identifier "%identifier%" is not unique</source>
+        <target state="new">Segment identifier "%identifier%" is not unique</target>
+        <note>key: ibexa.segmentation.validator.segment_struct_unique_identifier</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

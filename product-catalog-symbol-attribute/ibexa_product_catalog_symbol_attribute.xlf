@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="ab326c731569c677cc0f60a9e5517d5c775bd262" resname="symbol.help">
-        <source>For example: %example%"</source>
-        <target state="new">For example: %example%"</target>
+        <source>For example: "%example%"</source>
+        <target state="new">For example: "%example%"</target>
         <note>key: symbol.help</note>
       </trans-unit>
     </body>
