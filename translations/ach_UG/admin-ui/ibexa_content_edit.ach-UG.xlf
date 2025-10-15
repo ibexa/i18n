@@ -16,6 +16,11 @@
         <target>crwdns237802:0crwdne237802:0</target>
         <note>key: content.field.non_editable</note>
       </trans-unit>
+      <trans-unit id="927b5658769b10a67f0aa5e9f3d8b35e746e0276" resname="content.meta.created_by">
+        <source>Created by %name%</source>
+        <target>crwdns267970:0%name%crwdne267970:0</target>
+        <note>key: content.meta.created_by</note>
+      </trans-unit>
       <trans-unit id="07d6fb7c02b8730592a3bb68a315caa63031d44e" resname="content.published.success">
         <source>Content published.</source>
         <target>crwdns237804:0crwdne237804:0</target>
@@ -31,19 +36,24 @@
         <target>crwdns252976:0%location%crwdnd252976:0%language%crwdne252976:0</target>
         <note>key: editing_details</note>
       </trans-unit>
+      <trans-unit id="582b09a837963ba464ba24493c8cc7c360b99708" resname="editing_details_subtitle">
+        <source>under: %location%</source>
+        <target>crwdns267972:0%location%crwdne267972:0</target>
+        <note>key: editing_details_subtitle</note>
+      </trans-unit>
       <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">
         <source>Translating the %fieldName% Field is disabled. See content type definition for details.</source>
         <target>crwdns252978:0%fieldName%crwdne252978:0</target>
         <note>key: fieldtype.translation_is_disabled</note>
       </trans-unit>
       <trans-unit id="39b4081643351e2a41c1b3b811b6dc78fb528520" resname="on_the_fly.cancel">
-        <source>Cancel</source>
-        <target>crwdns237812:0crwdne237812:0</target>
+        <source>Discard</source>
+        <target>crwdns267067:0crwdne267067:0</target>
         <note>key: on_the_fly.cancel</note>
       </trans-unit>
       <trans-unit id="d466f97702d045f02d8b55379a9c6ea5270ecfef" resname="on_the_fly.confirm">
-        <source>Confirm</source>
-        <target>crwdns237814:0crwdne237814:0</target>
+        <source>Save and close</source>
+        <target>crwdns267069:0crwdne267069:0</target>
         <note>key: on_the_fly.confirm</note>
       </trans-unit>
     </body>

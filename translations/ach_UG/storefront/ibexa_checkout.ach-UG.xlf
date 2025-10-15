@@ -21,6 +21,11 @@
         <target>crwdns250715:0crwdne250715:0</target>
         <note>key: ibexa_storefront.checkout.layout.continue.shopping</note>
       </trans-unit>
+      <trans-unit id="af530eab271b612e7cfd1eb2cd019c21dbe5565c" resname="ibexa_storefront.checkout.summary.discount">
+        <source>Discount</source>
+        <target>crwdns267471:0crwdne267471:0</target>
+        <note>key: ibexa_storefront.checkout.summary.discount</note>
+      </trans-unit>
       <trans-unit id="a7e4efa258dbf99023c761e8749710166c215c24" resname="ibexa_storefront.checkout.summary.quick_summary.label">
         <source>Order</source>
         <target>crwdns250723:0crwdne250723:0</target>

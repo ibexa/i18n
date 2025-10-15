@@ -21,6 +21,11 @@
         <target state="new">Country</target>
         <note>key: ibexa.address.country</note>
       </trans-unit>
+      <trans-unit id="c466b52d0344218c7b447ba73d70da130977a0a9" resname="ibexa.address.country.placeholder">
+        <source>None</source>
+        <target state="new">None</target>
+        <note>key: ibexa.address.country.placeholder</note>
+      </trans-unit>
       <trans-unit id="841264ffb30bbec6ea9917af2df640567d45f8ae" resname="ibexa.address.country.validation.empty">
         <source>Country cannot be empty.</source>
         <target state="new">Country cannot be empty.</target>

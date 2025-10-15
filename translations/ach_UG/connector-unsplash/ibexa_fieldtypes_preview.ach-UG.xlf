@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="2a4658ffd8ed0cce7c2686a234b267597bd82bbe" resname="ezimageasset.dam_asset.alternativeText">
+        <source>DAM alternative text</source>
+        <target>crwdns266779:0crwdne266779:0</target>
+        <note>key: ezimageasset.dam_asset.alternativeText</note>
+      </trans-unit>
+      <trans-unit id="e94b7b9794aacb476fd1dc6fa487280f5f2835ae" resname="ezimageasset.dam_asset.author">
+        <source>DAM author</source>
+        <target>crwdns266781:0crwdne266781:0</target>
+        <note>key: ezimageasset.dam_asset.author</note>
+      </trans-unit>
+      <trans-unit id="e8a22904ddaee770ab4c558343aff233f0b0a98b" resname="ezimageasset.dam_asset.author_link_html">
+        <source>DAM author link</source>
+        <target>crwdns266783:0crwdne266783:0</target>
+        <note>key: ezimageasset.dam_asset.author_link_html</note>
+      </trans-unit>
+      <trans-unit id="60db511b561806914a670f4d78b3e2e30304d80f" resname="ezimageasset.dam_asset.created_at">
+        <source>DAM created at</source>
+        <target>crwdns266785:0crwdne266785:0</target>
+        <note>key: ezimageasset.dam_asset.created_at</note>
+      </trans-unit>
+      <trans-unit id="538b36bbf7bc4a1b74d7e180f395b50ca31a8c61" resname="ezimageasset.dam_asset.height">
+        <source>DAM height</source>
+        <target>crwdns266787:0crwdne266787:0</target>
+        <note>key: ezimageasset.dam_asset.height</note>
+      </trans-unit>
+      <trans-unit id="01146b80b1e0621255fe5c32849380607e181fc2" resname="ezimageasset.dam_asset.updated_at">
+        <source>DAM updated at</source>
+        <target>crwdns266789:0crwdne266789:0</target>
+        <note>key: ezimageasset.dam_asset.updated_at</note>
+      </trans-unit>
+      <trans-unit id="8c0e3541e5e4dbfdefd5ffb58b23307509cfdc33" resname="ezimageasset.dam_asset.width">
+        <source>DAM width</source>
+        <target>crwdns266791:0crwdne266791:0</target>
+        <note>key: ezimageasset.dam_asset.width</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

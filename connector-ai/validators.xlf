@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="0bb1340cd9d65290bcae3cf4786297dd106293c2" resname="Max length must be between 50 and 300 characters.">
+        <source>Max length must be between 50 and 300 characters.</source>
+        <target state="new">Max length must be between 50 and 300 characters.</target>
+        <note>key: Max length must be between 50 and 300 characters.</note>
+      </trans-unit>
+      <trans-unit id="f0258b23662b4810db703c5dfe62229c9b5abb6a" resname="ibexa.connector_ai.action_configuration.handler_options.valid">
+        <source>Invalid AI action handler options</source>
+        <target state="new">Invalid AI action handler options</target>
+        <note>key: ibexa.connector_ai.action_configuration.handler_options.valid</note>
+      </trans-unit>
+      <trans-unit id="8542f6fcb542a7e8a15e8736114e928c5a686baa" resname="ibexa.connector_ai.action_configuration.identifier.pattern">
+        <source>AI action identifier may only contain letters from "a" to "z", numbers, dashes and underscores.</source>
+        <target state="new">AI action identifier may only contain letters from "a" to "z", numbers, dashes and underscores.</target>
+        <note>key: ibexa.connector_ai.action_configuration.identifier.pattern</note>
+      </trans-unit>
+      <trans-unit id="cea1abe7371d99f58752de7e779f96be0b022778" resname="ibexa.connector_ai.action_configuration.identifier.unique">
+        <source>AI action identifier is not unique</source>
+        <target state="new">AI action identifier is not unique</target>
+        <note>key: ibexa.connector_ai.action_configuration.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="74a1e99559040c5ed47692c918c0dd4c2f2cfd10" resname="ibexa.connector_ai.action_configuration.type_options.valid">
+        <source>Invalid AI action type options</source>
+        <target state="new">Invalid AI action type options</target>
+        <note>key: ibexa.connector_ai.action_configuration.type_options.valid</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

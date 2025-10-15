@@ -46,6 +46,11 @@
         <target>crwdns253398:0crwdne253398:0</target>
         <note>key: landingpage.no_preview</note>
       </trans-unit>
+      <trans-unit id="3260a01f8efbce6ccf489c4e3052e65accc2091d" resname="landingpage.unavailable_preview">
+        <source>Preview isn't available.</source>
+        <target>crwdns267257:0crwdne267257:0</target>
+        <note>key: landingpage.unavailable_preview</note>
+      </trans-unit>
       <trans-unit id="4e6b467aeed03b748276c99091952733f2ab538c" resname="layouts.select_layouts">
         <source>Select layouts</source>
         <target>crwdns242690:0crwdne242690:0</target>

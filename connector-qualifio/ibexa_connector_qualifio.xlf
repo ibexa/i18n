@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="a6b6bb71dfdf0fb35c6dc09facf3e81bccbf0efe" resname="ibexa.connector.qualifio.form.channel_list.error.campaign_no_longer_available">
+        <source>Selected campaign is no longer available</source>
+        <target state="new">Selected campaign is no longer available</target>
+        <note>key: ibexa.connector.qualifio.form.channel_list.error.campaign_no_longer_available</note>
+      </trans-unit>
+      <trans-unit id="2b887fbfbf7be4fe502b1c5c5e9fff18ff443b18" resname="ibexa.connector.qualifio.form.channel_list.error.communication">
+        <source>Invalid response from API</source>
+        <target state="new">Invalid response from API</target>
+        <note>key: ibexa.connector.qualifio.form.channel_list.error.communication</note>
+      </trans-unit>
+      <trans-unit id="81a49578d4198b45e6e0fc37f5dad72fe814fb30" resname="ibexa.connector.qualifio.form.channel_list.error.description.campaign_no_longer_available">
+        <source>Choose different campaign or check Campaign settings in Engage backoffice</source>
+        <target state="new">Choose different campaign or check Campaign settings in Engage backoffice</target>
+        <note>key: ibexa.connector.qualifio.form.channel_list.error.description.campaign_no_longer_available</note>
+      </trans-unit>
+      <trans-unit id="ce092eacd6d5bc27763a4c9b99e856736b98da91" resname="ibexa.connector.qualifio.form.channel_list.error.description.check_configuration">
+        <source>Check the configuration of Ibexa Engage</source>
+        <target state="new">Check the configuration of Ibexa Engage</target>
+        <note>key: ibexa.connector.qualifio.form.channel_list.error.description.check_configuration</note>
+      </trans-unit>
+      <trans-unit id="92d8833afdc63069e9e5ca2b4f468db70e1ca8ec" resname="ibexa.qualifio.exception.communication_error">
+        <source>Qualifio communication error occured</source>
+        <target state="new">Qualifio communication error occured</target>
+        <note>key: ibexa.qualifio.exception.communication_error</note>
+      </trans-unit>
+      <trans-unit id="30750ef0f0a534a5a5f5325d408d938b38ba98b1" resname="ibexa.qualifio.exception.not_configured">
+        <source>Qualifio connector is not configured</source>
+        <target state="new">Qualifio connector is not configured</target>
+        <note>key: ibexa.qualifio.exception.not_configured</note>
+      </trans-unit>
+      <trans-unit id="8d36036de3f7404566e0037d27435add07b282fc" resname="ibexa.connector.qualifio.page_builder.html_size_design.empty_value_note">
+        <source>If size fields are blank, the system sets default template values. Adjust them for better results.</source>
+        <target state="new">If size fields are blank, the system sets default template values. Adjust them for better results.</target>
+        <note>key: ibexa.connector.qualifio.page_builder.html_size_design.empty_value_note</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

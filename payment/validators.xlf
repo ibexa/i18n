@@ -11,10 +11,10 @@
         <target state="new">Payment identifier must be unique</target>
         <note>key: ibexa.payment.identifier.unique</note>
       </trans-unit>
-      <trans-unit id="5464f542f1866e82cc7e0047ef0197e9c9c0bc95" resname="ibexa.payment.money_amount.greater_than_zero">
-        <source>Money amount must be greater than 0 {{ currency }}</source>
-        <target state="new">Money amount must be greater than 0 {{ currency }}</target>
-        <note>key: ibexa.payment.money_amount.greater_than_zero</note>
+      <trans-unit id="ae5b9e24716aa8ffe6ec02999209b6e74f89aa44" resname="ibexa.payment.money_amount.equal_to_or_greater_than_zero">
+        <source>Money amount must be equal to or greater than 0 {{ currency }}</source>
+        <target state="new">Money amount must be equal to or greater than 0 {{ currency }}</target>
+        <note>key: ibexa.payment.money_amount.equal_to_or_greater_than_zero</note>
       </trans-unit>
       <trans-unit id="3d05dcfb03798e071d57af1f9eb64407667bb14a" resname="ibexa.payment.payment_method.at_least_one_translation">
         <source>Ensure that you have at least one translation.</source>

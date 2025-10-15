@@ -16,10 +16,10 @@
         <target state="new">Creating</target>
         <note>key: creating</note>
       </trans-unit>
-      <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
-        <source>Location: %location% Translation: %language%</source>
-        <target state="new">Location: %location% Translation: %language%</target>
-        <note>key: editing_details</note>
+      <trans-unit id="582b09a837963ba464ba24493c8cc7c360b99708" resname="editing_details_subtitle">
+        <source>under: %location%</source>
+        <target state="new">under: %location%</target>
+        <note>key: editing_details_subtitle</note>
       </trans-unit>
       <trans-unit id="32d50c07b2eacd6fa72742ff1c1f5963c26a251d" resname="new_content_item">
         <source>New %contentType%</source>
@@ -27,13 +27,13 @@
         <note>key: new_content_item</note>
       </trans-unit>
       <trans-unit id="39b4081643351e2a41c1b3b811b6dc78fb528520" resname="on_the_fly.cancel">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
+        <source>Discard</source>
+        <target state="new">Discard</target>
         <note>key: on_the_fly.cancel</note>
       </trans-unit>
       <trans-unit id="d466f97702d045f02d8b55379a9c6ea5270ecfef" resname="on_the_fly.confirm">
-        <source>Confirm</source>
-        <target state="new">Confirm</target>
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
         <note>key: on_the_fly.confirm</note>
       </trans-unit>
     </body>

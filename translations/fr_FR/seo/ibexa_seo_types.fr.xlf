@@ -6,30 +6,15 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="a1d4aa87fb144c0363c57215a74ae734b43932f1" resname="field_definition.ibexa_seo.types">
-        <source>SEO types</source>
-        <target state="translated">Types SEO</target>
-        <note>key: field_definition.ibexa_seo.types</note>
-      </trans-unit>
       <trans-unit id="feccffc4180c7f2ceec664ae9e9f80620a518a99" resname="type.meta_tags">
         <source>Meta tags</source>
         <target state="translated">Balises méta</target>
         <note>key: type.meta_tags</note>
       </trans-unit>
-      <trans-unit id="3b3388e55a98915b75a5377256d5a3cce8b87a72" resname="type.open_graph">
-        <source>OpenGraph</source>
-        <target state="translated">OpenGraph</target>
-        <note>key: type.open_graph</note>
-      </trans-unit>
-      <trans-unit id="c590f0a4e3204e1463590c0f1405fa954f09b726" resname="type.twitter">
-        <source>Twitter</source>
-        <target state="translated">Twitter</target>
-        <note>key: type.twitter</note>
-      </trans-unit>
-      <trans-unit id="9f3a016a5469ae91f4ed23b1491c8ca35839559d" resname="type.meta_tags.field.title">
-        <source>Title</source>
-        <target state="translated">Titre</target>
-        <note>key: type.meta_tags.field.title</note>
+      <trans-unit id="9baf17ba6ceae89d1ec99ae6cd913741605ab113" resname="type.meta_tags.field.canonical">
+        <source>Canonical</source>
+        <target state="translated">URL canonique</target>
+        <note>key: type.meta_tags.field.canonical</note>
       </trans-unit>
       <trans-unit id="1a50b86dc42be367b19ee452c5330a59c75620ce" resname="type.meta_tags.field.description">
         <source>Description</source>
@@ -41,30 +26,40 @@
         <target state="translated">Mot-clés</target>
         <note>key: type.meta_tags.field.keywords</note>
       </trans-unit>
-      <trans-unit id="9baf17ba6ceae89d1ec99ae6cd913741605ab113" resname="type.meta_tags.field.canonical">
-        <source>Canonical</source>
-        <target state="translated">URL canonique</target>
-        <note>key: type.meta_tags.field.canonical</note>
-      </trans-unit>
-      <trans-unit id="cb937a3c1920d26771ba290bf64533b06f6001fb" resname="type.open_graph.field.og_title">
+      <trans-unit id="9f3a016a5469ae91f4ed23b1491c8ca35839559d" resname="type.meta_tags.field.title">
         <source>Title</source>
         <target state="translated">Titre</target>
-        <note>key: type.open_graph.field.og_title</note>
+        <note>key: type.meta_tags.field.title</note>
+      </trans-unit>
+      <trans-unit id="3b3388e55a98915b75a5377256d5a3cce8b87a72" resname="type.open_graph">
+        <source>OpenGraph</source>
+        <target state="translated">OpenGraph</target>
+        <note>key: type.open_graph</note>
       </trans-unit>
       <trans-unit id="8c3f9e23293eee4798494c1eb3ed8f85f4fc3235" resname="type.open_graph.field.og_description">
         <source>Description</source>
         <target state="translated">Description</target>
         <note>key: type.open_graph.field.og_description</note>
       </trans-unit>
-      <trans-unit id="10ac51e8a28624f97ba0ec040e3cda3bfd96befc" resname="type.twitter.field.twitter_title">
+      <trans-unit id="cb937a3c1920d26771ba290bf64533b06f6001fb" resname="type.open_graph.field.og_title">
         <source>Title</source>
         <target state="translated">Titre</target>
-        <note>key: type.twitter.field.twitter_title</note>
+        <note>key: type.open_graph.field.og_title</note>
+      </trans-unit>
+      <trans-unit id="c590f0a4e3204e1463590c0f1405fa954f09b726" resname="type.twitter">
+        <source>Twitter</source>
+        <target state="translated">Twitter</target>
+        <note>key: type.twitter</note>
       </trans-unit>
       <trans-unit id="e7e886e650ba2e142f3a4f0b2bdd566c51bf83ab" resname="type.twitter.field.twitter_description">
         <source>Description</source>
         <target state="translated">Description</target>
         <note>key: type.twitter.field.twitter_description</note>
+      </trans-unit>
+      <trans-unit id="10ac51e8a28624f97ba0ec040e3cda3bfd96befc" resname="type.twitter.field.twitter_title">
+        <source>Title</source>
+        <target state="translated">Titre</target>
+        <note>key: type.twitter.field.twitter_title</note>
       </trans-unit>
     </body>
   </file>

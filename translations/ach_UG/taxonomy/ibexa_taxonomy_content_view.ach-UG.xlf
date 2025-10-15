@@ -11,6 +11,16 @@
         <target>crwdns246016:0%total%crwdne246016:0</target>
         <note>key: tab.content.headline</note>
       </trans-unit>
+      <trans-unit id="be518f14bda4028883a543ad68ad445282d0eaa5" resname="tab.content.list.no_content.action">
+        <source>Start organizing content with tags and streamline your system for easier navigation.</source>
+        <target>crwdns267485:0crwdne267485:0</target>
+        <note>key: tab.content.list.no_content.action</note>
+      </trans-unit>
+      <trans-unit id="f5a5fe272658f85a2ec29e577f5256e4405e62c3" resname="tab.content.list.no_content.info">
+        <source>Assign content to tags</source>
+        <target>crwdns267487:0crwdne267487:0</target>
+        <note>key: tab.content.list.no_content.info</note>
+      </trans-unit>
       <trans-unit id="b4fd0d77ae26bc0a5e5c4cdb6f36fb43e35c72ec" resname="tab.content.name">
         <source>Name</source>
         <target>crwdns246018:0crwdne246018:0</target>

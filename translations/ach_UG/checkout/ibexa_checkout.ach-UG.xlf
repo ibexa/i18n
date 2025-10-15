@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="5fa0af8a1ab18baf8a64d23d1382a6403b26a8cd" resname="checkout.error.discounts_have_changed">
+        <source>The applied discounts have changed since you started the checkout process. Verify your cart.</source>
+        <target>crwdns267976:0crwdne267976:0</target>
+        <note>key: checkout.error.discounts_have_changed</note>
+      </trans-unit>
       <trans-unit id="8ef35fe2d50e4733d8dd06d6f3d19640eac38665" resname="ibexa.checkout.address.country">
         <source>Country</source>
         <target>crwdns249575:0crwdne249575:0</target>
@@ -150,6 +155,16 @@
         <source>your cart</source>
         <target>crwdns249617:0crwdne249617:0</target>
         <note>key: ibexa_checkout.ui.invalid_cart.part_two</note>
+      </trans-unit>
+      <trans-unit id="6db3fd1d00d5d96b22c912accc889d50f31f1011" resname="ibexa_checkout.ui.invalid_discount.part_one">
+        <source>The applied discounts have changed since you started the checkout process. Verify the summary and if needed, go back to </source>
+        <target>crwdns267978:0crwdne267978:0</target>
+        <note>key: ibexa_checkout.ui.invalid_discount.part_one</note>
+      </trans-unit>
+      <trans-unit id="036e35001ed2fab42368bc8c6add08efff995d0a" resname="ibexa_checkout.ui.invalid_discount.part_two">
+        <source>your cart</source>
+        <target>crwdns267980:0crwdne267980:0</target>
+        <note>key: ibexa_checkout.ui.invalid_discount.part_two</note>
       </trans-unit>
       <trans-unit id="ae6b294686dd2a39861eb0715cb84d826dbe3492" resname="ibexa_checkout.ui.order_thanks">
         <source>Thank you for ordering!</source>

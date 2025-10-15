@@ -101,11 +101,11 @@
                         </ul>
                     </p>]]></source>
         <target state="translated"><![CDATA[<p><strong>Focus Mode</strong> – Une interface propre et intuitive avec une structure de contenu
-                        simplifiée, conçu pour les nouveaux utilisateurs et non avancés. Les fonctionnalités incluent :</p>
+                        simplifiée, conçu pour les utilisateurs nouveaux et non avancés. Les fonctionnalités incluent :</p>
                         <ul>
                             <li>Afficher un aperçu du site dans le contexte</li>
                             <li>Onglet de détails techniques cachés</li>
-                            <li>Onglets Lieux cachés et Versions dans les éléments de contenu</li>
+                            <li>Onglets Emplacement et Versions cachés dans les éléments de contenu</li>
                         </ul>
                     </p>]]></target>
         <note>key: user.setting.focus_mode.help</note>

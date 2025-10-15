@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="4879a6c5c13e545c32be136f5fdd03a0decc15e7" resname="address_book.list.no_addresses.action">
+        <source>Easily add new billing addresses or switch the default one to streamline the shopping process.</source>
+        <target>crwdns267239:0crwdne267239:0</target>
+        <note>key: address_book.list.no_addresses.action</note>
+      </trans-unit>
+      <trans-unit id="2d5ca284ea39f68dc9ad5de63d427b5af3e999e5" resname="address_book.list.no_addresses.info">
+        <source>Add first address for this company</source>
+        <target>crwdns267241:0crwdne267241:0</target>
+        <note>key: address_book.list.no_addresses.info</note>
+      </trans-unit>
       <trans-unit id="4846d544dad1052a505923d0c673f66ab6b053cf" resname="application.delete.bulk.submit.label">
         <source>Delete applications</source>
         <target>crwdns251043:0crwdne251043:0</target>
@@ -260,16 +270,6 @@
         <source>Creating</source>
         <target>crwdns247944:0crwdne247944:0</target>
         <note>key: comapany.create.action_name</note>
-      </trans-unit>
-      <trans-unit id="8fa0d5464c0ab82e43f3a908bb4292b0b15445ff" resname="comapany.create.section.basic_information.title">
-        <source>Company information</source>
-        <target>crwdns247946:0crwdne247946:0</target>
-        <note>key: comapany.create.section.basic_information.title</note>
-      </trans-unit>
-      <trans-unit id="10d9a9f866b45df65fc46ec0cfb52eda1e034a49" resname="comapany.create.section.billing_address.title">
-        <source>Billing address</source>
-        <target>crwdns247948:0crwdne247948:0</target>
-        <note>key: comapany.create.section.billing_address.title</note>
       </trans-unit>
       <trans-unit id="e9a7b3c857c480488e33fef33331da4993e75d38" resname="comapany.create.section.company.title">
         <source>Company</source>
@@ -720,6 +720,16 @@
         <source>Phone</source>
         <target>crwdns247994:0crwdne247994:0</target>
         <note>key: details.billing_address.label.phone</note>
+      </trans-unit>
+      <trans-unit id="179080339bf9394da558183c2675d924185a4c70" resname="details_invitations.list.no_invitations.action">
+        <source>Easily manage invitations, registration links, and resend invitations when needed.</source>
+        <target>crwdns267243:0crwdne267243:0</target>
+        <note>key: details_invitations.list.no_invitations.action</note>
+      </trans-unit>
+      <trans-unit id="8ef2ad3d6e3b3d0836219925d0b889e89e7996ba" resname="details_invitations.list.no_invitations.info">
+        <source>Invite new members</source>
+        <target>crwdns267245:0crwdne267245:0</target>
+        <note>key: details_invitations.list.no_invitations.info</note>
       </trans-unit>
       <trans-unit id="019a091d637b107516516b0bd1b4c259ba998421" resname="ibexa.corporate_accounts.invitations.success">
         <source>Invitations sent</source>

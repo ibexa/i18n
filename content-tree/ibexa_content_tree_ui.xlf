@@ -11,6 +11,11 @@
         <target state="new">Add to bookmarks</target>
         <note>key: actions.add_to_bookmarks</note>
       </trans-unit>
+      <trans-unit id="5c2d711483b0e2c391eb8d2797bcce8e2240ad63" resname="actions.add_to_bookmarks.with_count">
+        <source>Add to bookmarks (%count%)</source>
+        <target state="new">Add to bookmarks (%count%)</target>
+        <note>key: actions.add_to_bookmarks.with_count</note>
+      </trans-unit>
       <trans-unit id="63c03cf8e5d0caa5cea425323c6e1b28e09cb102" resname="actions.add_translation">
         <source>Add translation</source>
         <target state="new">Add translation</target>
@@ -20,6 +25,16 @@
         <source>Create</source>
         <target state="new">Create</target>
         <note>key: actions.create_content</note>
+      </trans-unit>
+      <trans-unit id="0cbbb9f431b9cd325afd82280b0a9cd085c206f9" resname="actions.delete.label.delete">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: actions.delete.label.delete</note>
+      </trans-unit>
+      <trans-unit id="005bc5a771df74755bf21b7a4267394bc7b715e1" resname="actions.delete.label.trash">
+        <source>Send to trash</source>
+        <target state="new">Send to trash</target>
+        <note>key: actions.delete.label.trash</note>
       </trans-unit>
       <trans-unit id="5924115d912717281eac1da2b55fed6abf9187e8" resname="actions.edit_content">
         <source>Edit</source>
@@ -40,6 +55,11 @@
         <source>Remove from bookmarks</source>
         <target state="new">Remove from bookmarks</target>
         <note>key: actions.remove_from_bookmarks</note>
+      </trans-unit>
+      <trans-unit id="ea0fd51d6c9aa0d4cc959eaa763d9f3a303ba366" resname="actions.remove_from_bookmarks.with_count">
+        <source>Remove from bookmarks (%count%)</source>
+        <target state="new">Remove from bookmarks (%count%)</target>
+        <note>key: actions.remove_from_bookmarks.with_count</note>
       </trans-unit>
       <trans-unit id="47823da8ee4bb5955e4e0ed05baac71c716b675a" resname="actions.reveal_content">
         <source>Reveal</source>
@@ -146,15 +166,65 @@
         <target state="new">Content tree</target>
         <note>key: content.tree_name</note>
       </trans-unit>
-      <trans-unit id="52f7a6a69bf6d18c4aee124702514f8b3a882d9c" resname="delete.send_to_trash.modal.body">
-        <source>Are you sure you want to send the selected Content item(s) to Trash?</source>
-        <target state="new">Are you sure you want to send the selected Content item(s) to Trash?</target>
-        <note>key: delete.send_to_trash.modal.body</note>
+      <trans-unit id="26902ae74a03f81c299e5a32051f2ab1eb69d63f" resname="content_type_suggestions">
+        <source>Suggestions</source>
+        <target state="new">Suggestions</target>
+        <note>key: content_type_suggestions</note>
       </trans-unit>
-      <trans-unit id="fda5d31392f746288f371fdb64897146e018a606" resname="load_content_types.error">
-        <source>Cannot load content types</source>
-        <target state="new">Cannot load content types</target>
-        <note>key: load_content_types.error</note>
+      <trans-unit id="e34400ade1c1b2ae70185c618890d57bcdd7cd4c" resname="modal.delete.confirm.message">
+        <source>I understand the consequences of this action.</source>
+        <target state="new">I understand the consequences of this action.</target>
+        <note>key: modal.delete.confirm.message</note>
+      </trans-unit>
+      <trans-unit id="716238417aca49d3f51f5ede6a209651fc1a8ff7" resname="modal.delete.header.content">
+        <source>Are you sure you want to delete this Content?</source>
+        <target state="new">Are you sure you want to delete this Content?</target>
+        <note>key: modal.delete.header.content</note>
+      </trans-unit>
+      <trans-unit id="cbc218de6c47ee6ee7c44b47c80de997910155d6" resname="modal.delete.header.send_to_trash_draft_warning">
+        <source>Sending this content item to Trash will also delete all drafts of content items that haven’t been published yet, and belong to the trashed subtree.</source>
+        <target state="new">Sending this content item to Trash will also delete all drafts of content items that haven’t been published yet, and belong to the trashed subtree.</target>
+        <note>key: modal.delete.header.send_to_trash_draft_warning</note>
+      </trans-unit>
+      <trans-unit id="83b27a0c6a8a29a8ef2e4324395e0f4433c221f1" resname="modal.delete.header.send_to_trash_draft_warning_header">
+        <source>Drafts</source>
+        <target state="new">Drafts</target>
+        <note>key: modal.delete.header.send_to_trash_draft_warning_header</note>
+      </trans-unit>
+      <trans-unit id="034e838cc1c3f307b9489d2729be7f7cccd74790" resname="modal.delete.header.trash_content">
+        <source>Are you sure you want to send this Content item to Trash?</source>
+        <target state="new">Are you sure you want to send this Content item to Trash?</target>
+        <note>key: modal.delete.header.trash_content</note>
+      </trans-unit>
+      <trans-unit id="6b586c5278d83727435b4d9920999529c816fe11" resname="modal.delete.header.user">
+        <source>Are you sure you want to delete this User?</source>
+        <target state="new">Are you sure you want to delete this User?</target>
+        <note>key: modal.delete.header.user</note>
+      </trans-unit>
+      <trans-unit id="3649515c9a90306d77fbc9036a17c52e69036815" resname="modal.delete.reverse_relation.header">
+        <source>Conflict with reverse Relations</source>
+        <target state="new">Conflict with reverse Relations</target>
+        <note>key: modal.delete.reverse_relation.header</note>
+      </trans-unit>
+      <trans-unit id="740544fa084825528e315c784b956aeedff1f17e" resname="modal.delete.reverse_relation.message">
+        <source>'%name%' is in use by %reverseRelationsCount% Content item(s). You should remove all reverse Relations before deleting the Content item.</source>
+        <target state="new">'%name%' is in use by %reverseRelationsCount% Content item(s). You should remove all reverse Relations before deleting the Content item.</target>
+        <note>key: modal.delete.reverse_relation.message</note>
+      </trans-unit>
+      <trans-unit id="7959752d22fff324746c5d3d2074c32fb5416ee7" resname="modal.delete.subitems.header">
+        <source>Sub-items</source>
+        <target state="new">Sub-items</target>
+        <note>key: modal.delete.subitems.header</note>
+      </trans-unit>
+      <trans-unit id="7f6adca12935314d020382a30ba5b64251f2e5bd" resname="modal.delete.subitems.message">
+        <source>Deleting '%name%' and its %totalSubitemsCount% Content item(s) will also delete the sub-items of this Location.</source>
+        <target state="new">Deleting '%name%' and its %totalSubitemsCount% Content item(s) will also delete the sub-items of this Location.</target>
+        <note>key: modal.delete.subitems.message</note>
+      </trans-unit>
+      <trans-unit id="97eed8ae8abeda0a88005c5adee8bc96a241852e" resname="modal.delete.subitems.trash_message">
+        <source>Sending '%name%' and its %totalSubitemsCount% Content item(s) to Trash will also send the sub-items of this Location to Trash.</source>
+        <target state="new">Sending '%name%' and its %totalSubitemsCount% Content item(s) to Trash will also send the sub-items of this Location to Trash.</target>
+        <note>key: modal.delete.subitems.trash_message</note>
       </trans-unit>
     </body>
   </file>

@@ -61,6 +61,11 @@
         <target state="new">Delete</target>
         <note>key: site.action.delete</note>
       </trans-unit>
+      <trans-unit id="37190d27c6859753cb7187c4b1e0dc24b64efa9e" resname="site.action.details">
+        <source>Site details</source>
+        <target state="new">Site details</target>
+        <note>key: site.action.details</note>
+      </trans-unit>
       <trans-unit id="f2b182ac0f78d68d059e24c6d0364dac9bba1f79" resname="site.action.domain">
         <source>Open link in browser</source>
         <target state="new">Open link in browser</target>

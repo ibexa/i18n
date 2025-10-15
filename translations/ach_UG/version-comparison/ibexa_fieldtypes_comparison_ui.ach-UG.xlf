@@ -51,11 +51,6 @@
         <target>crwdns251477:0crwdne251477:0</target>
         <note>key: content.comparison.type_selector.unified.label</note>
       </trans-unit>
-      <trans-unit id="7d61d1117395c8c60ee55b37a1103b212f56492f" resname="tab.versions.table.action.version_compare">
-        <source>Version compare</source>
-        <target>crwdns252450:0crwdne252450:0</target>
-        <note>key: tab.versions.table.action.version_compare</note>
-      </trans-unit>
       <trans-unit id="664d2e29c7d676aa99c558d7d2bb663168b70e8e" resname="version_info.comparison.select_name">
         <source>%status% - Version %version% - %language%</source>
         <target>crwdns245876:0%status%crwdnd245876:0%version%crwdnd245876:0%language%crwdne245876:0</target>

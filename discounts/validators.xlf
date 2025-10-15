@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="9a33910bc557829187f2773fd8c9bb64d7b9a468" resname="ibexa.discounts.wizard.count_category_selection">
+        <source>Select at least {{ limit }} category|Select at least {{ limit }} categories</source>
+        <target state="new">Select at least {{ limit }} category|Select at least {{ limit }} categories</target>
+        <note>key: ibexa.discounts.wizard.count_category_selection</note>
+      </trans-unit>
+      <trans-unit id="ae9a139039fa85401a0d8ffad28ea77196ab6ffa" resname="ibexa.discounts.wizard.count_customer_group_selection">
+        <source>Select at least {{ limit }} customer group|Select at least {{ limit }} customer groups</source>
+        <target state="new">Select at least {{ limit }} customer group|Select at least {{ limit }} customer groups</target>
+        <note>key: ibexa.discounts.wizard.count_customer_group_selection</note>
+      </trans-unit>
+      <trans-unit id="ba2533dea9219757d8f6691e9997d6ee14d509bb" resname="ibexa.discounts.wizard.count_product_selection">
+        <source>Select at least {{ limit }} product|Select at least {{ limit }} products</source>
+        <target state="new">Select at least {{ limit }} product|Select at least {{ limit }} products</target>
+        <note>key: ibexa.discounts.wizard.count_product_selection</note>
+      </trans-unit>
+      <trans-unit id="fe6a0058d4e9f439cba1e020c14dbe2fa0f5858c" resname="ibexa.discounts.wizard.currency_selection_required">
+        <source>Currency is required for monetary fields. Select currency in general properties.</source>
+        <target state="new">Currency is required for monetary fields. Select currency in general properties.</target>
+        <note>key: ibexa.discounts.wizard.currency_selection_required</note>
+      </trans-unit>
+      <trans-unit id="584efa4c97879950f931cc5463b714756fa04bff" resname="validation.discount.discount_identifier_already_exists">
+        <source>Discount identifier already exists.</source>
+        <target state="new">Discount identifier already exists.</target>
+        <note>key: validation.discount.discount_identifier_already_exists</note>
+      </trans-unit>
+      <trans-unit id="e7e880da2a40dc2a07d41084806db5fab26a6bbd" resname="validation.discount.discount_invalid_rule_type">
+        <source>Invalid discount rule type "{{ rule_type }}" for discount type {{ type }}.</source>
+        <target state="new">Invalid discount rule type "{{ rule_type }}" for discount type {{ type }}.</target>
+        <note>key: validation.discount.discount_invalid_rule_type</note>
+      </trans-unit>
+      <trans-unit id="bf8befdfdba2f5cf1e2978d9b755e103475f206b" resname="validation.discount.translation.at_least_one">
+        <source>Cannot remove all translations</source>
+        <target state="new">Cannot remove all translations</target>
+        <note>key: validation.discount.translation.at_least_one</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

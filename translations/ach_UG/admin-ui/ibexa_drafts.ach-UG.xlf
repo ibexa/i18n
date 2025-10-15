@@ -16,11 +16,6 @@
         <target>crwdns237960:0crwdne237960:0</target>
         <note>key: drafts.list</note>
       </trans-unit>
-      <trans-unit id="7a00fa1045089ab6b05a30314644f3f53477ecbf" resname="drafts.list.action.edit">
-        <source>Edit</source>
-        <target>crwdns251706:0crwdne251706:0</target>
-        <note>key: drafts.list.action.edit</note>
-      </trans-unit>
       <trans-unit id="887b9056de68ebd1c33c43af14093c2cafb38c5d" resname="drafts.list.action.remove">
         <source>Remove</source>
         <target>crwdns237964:0crwdne237964:0</target>
@@ -65,6 +60,11 @@
         <source>Version</source>
         <target>crwdns237980:0crwdne237980:0</target>
         <note>key: drafts.list.version</note>
+      </trans-unit>
+      <trans-unit id="b107e8277d2dda6c41872a6478d99abbe9b46dc0" resname="trash.modal.send_to_trash_draft_warning.message">
+        <source>Sending this content item to Trash will also delete all drafts of content items that haven’t been published yet, and belong to the trashed subtree.</source>
+        <target>crwdns267071:0crwdne267071:0</target>
+        <note>key: trash.modal.send_to_trash_draft_warning.message</note>
       </trans-unit>
     </body>
   </file>

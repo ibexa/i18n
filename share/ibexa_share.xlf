@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="0c575e6b56ba26c883104843cdd0223e049a7d60" resname="share.action.label">
+        <source>Share</source>
+        <target state="new">Share</target>
+        <note>key: share.action.label</note>
+      </trans-unit>
+      <trans-unit id="bffab669d60889771d09bc5402a29fda93f72ef0" resname="share.copy_invite_link.label">
+        <source>Copy invite link</source>
+        <target state="new">Copy invite link</target>
+        <note>key: share.copy_invite_link.label</note>
+      </trans-unit>
+      <trans-unit id="aefab1e54ce6f51bf85d80fdd320f7c19d2716c2" resname="share.copy_link.copied_tooltip.title">
+        <source>Copied!</source>
+        <target state="new">Copied!</target>
+        <note>key: share.copy_link.copied_tooltip.title</note>
+      </trans-unit>
+      <trans-unit id="80cac419c95fdb84b4b4336c7bc14d82da4f1773" resname="share.copy_link.copy_clipboard_error">
+        <source>Failed to copy link to clipboard.</source>
+        <target state="new">Failed to copy link to clipboard.</target>
+        <note>key: share.copy_link.copy_clipboard_error</note>
+      </trans-unit>
+      <trans-unit id="eda7a9107a7ca56e304190e03c77cc16195137b8" resname="share.copy_link.copy_clipboard_error_browser">
+        <source>Cannot copy link due to browser limitations.</source>
+        <target state="new">Cannot copy link due to browser limitations.</target>
+        <note>key: share.copy_link.copy_clipboard_error_browser</note>
+      </trans-unit>
+      <trans-unit id="e5b53df051695fd6ba4793b43c309c4035f7df56" resname="share.copy_link.get_link_request.error">
+        <source>Error.</source>
+        <target state="new">Error.</target>
+        <note>key: share.copy_link.get_link_request.error</note>
+      </trans-unit>
+      <trans-unit id="16c418a071aa9708942e8346113be43e2413b0cd" resname="share.copy_link.label">
+        <source>Copy link</source>
+        <target state="new">Copy link</target>
+        <note>key: share.copy_link.label</note>
+      </trans-unit>
+      <trans-unit id="8d037d91f17cc52b6597d58a396b634acb5c3de5" resname="share.invite.action.edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: share.invite.action.edit</note>
+      </trans-unit>
+      <trans-unit id="72676db3fa3e7b45a8f3834a79191ea2a70dda84" resname="share.invite.action.preview">
+        <source>Preview</source>
+        <target state="new">Preview</target>
+        <note>key: share.invite.action.preview</note>
+      </trans-unit>
+      <trans-unit id="a3f9551399c4a9dab8002dae4a6868d9e75571cd" resname="share.invite.action.remove">
+        <source>Remove access</source>
+        <target state="new">Remove access</target>
+        <note>key: share.invite.action.remove</note>
+      </trans-unit>
+      <trans-unit id="fb177282310654f7ae60129221819db4c1f4c771" resname="share.invite.button.label">
+        <source>Invite</source>
+        <target state="new">Invite</target>
+        <note>key: share.invite.button.label</note>
+      </trans-unit>
+      <trans-unit id="bdab38d32541562237b7a01238f240991916067a" resname="share.invite.list.external.header">
+        <source>External users</source>
+        <target state="new">External users</target>
+        <note>key: share.invite.list.external.header</note>
+      </trans-unit>
+      <trans-unit id="6ea1f5887e3e5b4e1befc65ff03157fa8ecbe7ef" resname="share.invite.list.header">
+        <source>People with access</source>
+        <target state="new">People with access</target>
+        <note>key: share.invite.list.header</note>
+      </trans-unit>
+      <trans-unit id="fe9a10476adf49b237c9de22a6cc17d2a9cab9f5" resname="share.invite.list.internal.header">
+        <source>Ibexa users</source>
+        <target state="new">Ibexa users</target>
+        <note>key: share.invite.list.internal.header</note>
+      </trans-unit>
+      <trans-unit id="d62474e28e72c81a6988c748bee9528922614a21" resname="share.invite.search.error.text">
+        <source>This field must contain only user name or a valid email address. You can add the same user only once.</source>
+        <target state="new">This field must contain only user name or a valid email address. You can add the same user only once.</target>
+        <note>key: share.invite.search.error.text</note>
+      </trans-unit>
+      <trans-unit id="543aa7210030eeb746a1dc46c361d408cf9bbed2" resname="share.invite.search.helper.text">
+        <source>Select users existing in our system with set permissions, or invite people from outside of your organisation</source>
+        <target state="new">Select users existing in our system with set permissions, or invite people from outside of your organisation</target>
+        <note>key: share.invite.search.helper.text</note>
+      </trans-unit>
+      <trans-unit id="0916dd27be4a12f204ccbd556028f4a67e50b96f" resname="share.invite.search.placeholder">
+        <source>Invite people by name or email</source>
+        <target state="new">Invite people by name or email</target>
+        <note>key: share.invite.search.placeholder</note>
+      </trans-unit>
+      <trans-unit id="2ee5c239cc945d1b054708e9acc437059d2c77a6" resname="share.invite.search.title">
+        <source>People</source>
+        <target state="new">People</target>
+        <note>key: share.invite.search.title</note>
+      </trans-unit>
+      <trans-unit id="7810557aeed8ffe537bdd299acf3dc9be8eba925" resname="share.link_settings.label">
+        <source>Link settings</source>
+        <target state="new">Link settings</target>
+        <note>key: share.link_settings.label</note>
+      </trans-unit>
+      <trans-unit id="998bb704948af51e4fc41cfae5e3707f948ce24a" resname="share.modal.invite.title">
+        <source>Invite to collaborate</source>
+        <target state="new">Invite to collaborate</target>
+        <note>key: share.modal.invite.title</note>
+      </trans-unit>
+      <trans-unit id="dad2d289153c9f6f03c10fccd3ff74bd9e3fd448" resname="share.modal.link_settings.title">
+        <source>Link Settings</source>
+        <target state="new">Link Settings</target>
+        <note>key: share.modal.link_settings.title</note>
+      </trans-unit>
+      <trans-unit id="3ee1b10b8b704c661fea827d7fc0a77d7fa75906" resname="share.suggestions.already_added">
+        <source>Already added</source>
+        <target state="new">Already added</target>
+        <note>key: share.suggestions.already_added</note>
+      </trans-unit>
+      <trans-unit id="e0586d718bdff4a9b0535a0e18735ba719d2e827" resname="share.suggestions.has_access">
+        <source>Users with permissions</source>
+        <target state="new">Users with permissions</target>
+        <note>key: share.suggestions.has_access</note>
+      </trans-unit>
+      <trans-unit id="93eec2e2809a9f55098b876d0362aecc75e4c40a" resname="share.suggestions.no_access">
+        <source>Users without permissions (can’t be invited)</source>
+        <target state="new">Users without permissions (can’t be invited)</target>
+        <note>key: share.suggestions.no_access</note>
+      </trans-unit>
+      <trans-unit id="d1473b16a14059fbaa5592cc96bc8e584cd1d1f7" resname="share.suggestions.no_results">
+        <source>There are no matching users. You can add users e-mail address for preview only.</source>
+        <target state="new">There are no matching users. You can add users e-mail address for preview only.</target>
+        <note>key: share.suggestions.no_results</note>
+      </trans-unit>
+      <trans-unit id="016c96a8dcc82b45c09cd3894974575592fbf7ae" resname="toggle_widget.header">
+        <source>Anyone with the shared link can preview the item.</source>
+        <target state="new">Anyone with the shared link can preview the item.</target>
+        <note>key: toggle_widget.header</note>
+      </trans-unit>
+      <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
+        <source>Off</source>
+        <target state="new">Off</target>
+        <note>key: toggle_widget.label.off</note>
+      </trans-unit>
+      <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
+        <source>On</source>
+        <target state="new">On</target>
+        <note>key: toggle_widget.label.on</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
