@@ -11,10 +11,10 @@
         <target>crwdns238346:0crwdne238346:0</target>
         <note>key: editing</note>
       </trans-unit>
-      <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
-        <source>Location: %location%</source>
-        <target>crwdns251804:0%location%crwdne251804:0</target>
-        <note>key: editing_details</note>
+      <trans-unit id="582b09a837963ba464ba24493c8cc7c360b99708" resname="editing_details_subtitle">
+        <source>under %location%</source>
+        <target>crwdns268150:0%location%crwdne268150:0</target>
+        <note>key: editing_details_subtitle</note>
       </trans-unit>
     </body>
   </file>
