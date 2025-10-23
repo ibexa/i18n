@@ -32,8 +32,8 @@
         <note>key: page_builder__infobar__edit__actions__publish</note>
       </trans-unit>
       <trans-unit id="327a7fa97c120a7401e0ad51b8750db2b3efdc96" resname="page_builder__infobar__edit__actions__save_draft">
-        <source>Save draft</source>
-        <target>crwdns242324:0crwdne242324:0</target>
+        <source>Save</source>
+        <target>crwdns268290:0crwdne268290:0</target>
         <note>key: page_builder__infobar__edit__actions__save_draft</note>
       </trans-unit>
       <trans-unit id="0ebcfc43de6685b313777b7951474b2aa812252d" resname="page_builder__infobar__edit__actions__save_draft_and_close">
