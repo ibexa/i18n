@@ -101,11 +101,6 @@
         <target><![CDATA[crwdns236972:0crwdne236972:0]]></target>
         <note>key: base.welcome</note>
       </trans-unit>
-      <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
-        <source>You have no notifications.</source>
-        <target>crwdns236974:0crwdne236974:0</target>
-        <note>key: bookmark.list.empty</note>
-      </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
         <target>crwdns236976:0crwdne236976:0</target>
@@ -457,6 +452,26 @@
         <target>crwdns237128:0crwdne237128:0</target>
         <note>key: ibexa.forgot_user_password.success.alert</note>
       </trans-unit>
+      <trans-unit id="ed391233ecfa73eeaf4884c184b6b07e30d8f8fa" resname="ibexa.notifications.search_form.label.from">
+        <source>From</source>
+        <target>crwdns268152:0crwdne268152:0</target>
+        <note>key: ibexa.notifications.search_form.label.from</note>
+      </trans-unit>
+      <trans-unit id="b5ffcfba814a8539a4257894dc59affdfb49f1c6" resname="ibexa.notifications.search_form.label.to">
+        <source>To</source>
+        <target>crwdns268154:0crwdne268154:0</target>
+        <note>key: ibexa.notifications.search_form.label.to</note>
+      </trans-unit>
+      <trans-unit id="a8c78354005b82690d25244c10c2914d1c7cc620" resname="ibexa_notifications">
+        <source>Notifications</source>
+        <target>crwdns268156:0crwdne268156:0</target>
+        <note>key: ibexa_notifications</note>
+      </trans-unit>
+      <trans-unit id="3fb3513f9d1afa70eca71242490ec7b403bdd41c" resname="ibexa_notifications.btn.mark_all_as_read">
+        <source>Mark all as read</source>
+        <target>crwdns268158:0crwdne268158:0</target>
+        <note>key: ibexa_notifications.btn.mark_all_as_read</note>
+      </trans-unit>
       <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete">
         <source>Delete</source>
         <target>crwdns237130:0crwdne237130:0</target>
@@ -502,15 +517,10 @@
         <target>crwdns237148:0crwdne237148:0</target>
         <note>key: my_account_settings.password.title</note>
       </trans-unit>
-      <trans-unit id="5b03625b8de51d296ad7f4bc980e631c964185d8" resname="notification.no_longer_available">
-        <source>The Content item is no longer available</source>
-        <target>crwdns237150:0crwdne237150:0</target>
-        <note>key: notification.no_longer_available</note>
-      </trans-unit>
-      <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
-        <source>Title:</source>
-        <target>crwdns237152:0crwdne237152:0</target>
-        <note>key: notification.title</note>
+      <trans-unit id="05b456539a9866744a3469d40b20bf4df9c4d8a8" resname="notifications.list.empty">
+        <source>You don't have any notifications.</source>
+        <target>crwdns268160:0crwdne268160:0</target>
+        <note>key: notifications.list.empty</note>
       </trans-unit>
       <trans-unit id="0480844e257807b48dbf75fa7a374ceb7649ec5c" resname="object_state.delete.bulk_delete.submit">
         <source>Delete</source>
@@ -586,6 +596,11 @@
         <source>Do you want to delete the Section(s)?</source>
         <target>crwdns237186:0crwdne237186:0</target>
         <note>key: section.modal.message</note>
+      </trans-unit>
+      <trans-unit id="f23116eb24bb41bef564f8e374666196eead5127" resname="side_panel.view_all">
+        <source>View all notifications</source>
+        <target>crwdns268162:0crwdne268162:0</target>
+        <note>key: side_panel.view_all</note>
       </trans-unit>
       <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
         <source>Swap Locations</source>
