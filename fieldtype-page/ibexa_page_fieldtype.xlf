@@ -26,6 +26,161 @@
         <target state="new">Select Editor launch mode</target>
         <note>key: editor_mode.select_editor_launch_mode</note>
       </trans-unit>
+      <trans-unit id="8ad8263b82ad12c523e7a447aecaebe802fcf78d" resname="ibexa.fieldtype_page.block.banner.attributes.contentId.name">
+        <source>Image</source>
+        <target state="new">Image</target>
+        <note>key: ibexa.fieldtype_page.block.banner.attributes.contentId.name</note>
+      </trans-unit>
+      <trans-unit id="be9abc48e8c68aeb5a4c67c6da54aed1c2154db5" resname="ibexa.fieldtype_page.block.banner.attributes.url.name">
+        <source>URL</source>
+        <target state="new">URL</target>
+        <note>key: ibexa.fieldtype_page.block.banner.attributes.url.name</note>
+      </trans-unit>
+      <trans-unit id="68f7aa1634d3850521e43067838322b59d0a0257" resname="ibexa.fieldtype_page.block.banner.name">
+        <source>Banner</source>
+        <target state="new">Banner</target>
+        <note>key: ibexa.fieldtype_page.block.banner.name</note>
+      </trans-unit>
+      <trans-unit id="44b4a616f512ddaa64a43464a1301ceff901bfc9" resname="ibexa.fieldtype_page.block.category.default">
+        <source>Default</source>
+        <target state="new">Default</target>
+        <note>key: ibexa.fieldtype_page.block.category.default</note>
+      </trans-unit>
+      <trans-unit id="133b858824168387f901d945c06996597191bdda" resname="ibexa.fieldtype_page.block.collection.attributes.locationlist.name">
+        <source>Location list</source>
+        <target state="new">Location list</target>
+        <note>key: ibexa.fieldtype_page.block.collection.attributes.locationlist.name</note>
+      </trans-unit>
+      <trans-unit id="4fde8f49b418ee97e6c5281039e5c7e058717edf" resname="ibexa.fieldtype_page.block.collection.name">
+        <source>Collection</source>
+        <target state="new">Collection</target>
+        <note>key: ibexa.fieldtype_page.block.collection.name</note>
+      </trans-unit>
+      <trans-unit id="a07323023744300176d30a7e3e635b4f3392d45d" resname="ibexa.fieldtype_page.block.contentlist.attributes.contentId.name">
+        <source>Parent</source>
+        <target state="new">Parent</target>
+        <note>key: ibexa.fieldtype_page.block.contentlist.attributes.contentId.name</note>
+      </trans-unit>
+      <trans-unit id="0e02c48232c8b87fd0587e411fd8221fe6388f9e" resname="ibexa.fieldtype_page.block.contentlist.attributes.contentType.name">
+        <source>Content types to be displayed</source>
+        <target state="new">Content types to be displayed</target>
+        <note>key: ibexa.fieldtype_page.block.contentlist.attributes.contentType.name</note>
+      </trans-unit>
+      <trans-unit id="c6b070b97ed7198e69cea7e6011f4946423ae044" resname="ibexa.fieldtype_page.block.contentlist.attributes.limit.name">
+        <source>Limit</source>
+        <target state="new">Limit</target>
+        <note>key: ibexa.fieldtype_page.block.contentlist.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="5357a64cb78bb14d30e33c4cb713761c4a34b5b0" resname="ibexa.fieldtype_page.block.contentlist.name">
+        <source>Content List</source>
+        <target state="new">Content List</target>
+        <note>key: ibexa.fieldtype_page.block.contentlist.name</note>
+      </trans-unit>
+      <trans-unit id="bd0c713852ceed2dae20ac6f565fa8299a5416fb" resname="ibexa.fieldtype_page.block.embed.attributes.contentId.name">
+        <source>Content</source>
+        <target state="new">Content</target>
+        <note>key: ibexa.fieldtype_page.block.embed.attributes.contentId.name</note>
+      </trans-unit>
+      <trans-unit id="aab2eb6f08815d2af6e84a9bad2ee5da93744bb6" resname="ibexa.fieldtype_page.block.embed.name">
+        <source>Embed</source>
+        <target state="new">Embed</target>
+        <note>key: ibexa.fieldtype_page.block.embed.name</note>
+      </trans-unit>
+      <trans-unit id="8938bca3e2f99a76f1bc2049748de23cfadf5578" resname="ibexa.fieldtype_page.block.gallery.attributes.contentId.name">
+        <source>Folder</source>
+        <target state="new">Folder</target>
+        <note>key: ibexa.fieldtype_page.block.gallery.attributes.contentId.name</note>
+      </trans-unit>
+      <trans-unit id="b09ca3cd1910a55fceaea53faae9d53fdcd4630d" resname="ibexa.fieldtype_page.block.gallery.name">
+        <source>Gallery</source>
+        <target state="new">Gallery</target>
+        <note>key: ibexa.fieldtype_page.block.gallery.name</note>
+      </trans-unit>
+      <trans-unit id="4c5813d6c9efe72ea357597c4988e4beb9db0bc0" resname="ibexa.fieldtype_page.block.richtext.attributes.content.name">
+        <source>Content</source>
+        <target state="new">Content</target>
+        <note>key: ibexa.fieldtype_page.block.richtext.attributes.content.name</note>
+      </trans-unit>
+      <trans-unit id="3c11ebc8d3fcba794d4a5c455d3d3ad806f32f88" resname="ibexa.fieldtype_page.block.richtext.name">
+        <source>Text</source>
+        <target state="new">Text</target>
+        <note>key: ibexa.fieldtype_page.block.richtext.name</note>
+      </trans-unit>
+      <trans-unit id="f6395b4c1984a206e2d9ea1cb2aa86e3bfc89fb6" resname="ibexa.fieldtype_page.block.rss.attributes.limit.name">
+        <source>Limit</source>
+        <target state="new">Limit</target>
+        <note>key: ibexa.fieldtype_page.block.rss.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="0e0341506106fe89157fe52f237638339fdea1f0" resname="ibexa.fieldtype_page.block.rss.attributes.offset.name">
+        <source>Offset</source>
+        <target state="new">Offset</target>
+        <note>key: ibexa.fieldtype_page.block.rss.attributes.offset.name</note>
+      </trans-unit>
+      <trans-unit id="7fb876b37502423fc853ec564bb3b79077e9c29a" resname="ibexa.fieldtype_page.block.rss.attributes.url.name">
+        <source>URL</source>
+        <target state="new">URL</target>
+        <note>key: ibexa.fieldtype_page.block.rss.attributes.url.name</note>
+      </trans-unit>
+      <trans-unit id="22aca1e468b9ac18da46e70246cd805e09c910b0" resname="ibexa.fieldtype_page.block.rss.name">
+        <source>RSS</source>
+        <target state="new">RSS</target>
+        <note>key: ibexa.fieldtype_page.block.rss.name</note>
+      </trans-unit>
+      <trans-unit id="b03bcefc3ae4378914bc5c8fe8ec3511a839e67b" resname="ibexa.fieldtype_page.block.schedule.attributes.events.name">
+        <source>Events</source>
+        <target state="new">Events</target>
+        <note>key: ibexa.fieldtype_page.block.schedule.attributes.events.name</note>
+      </trans-unit>
+      <trans-unit id="54095a9d4704f4ae0dcdd5ed6f5bf54890913240" resname="ibexa.fieldtype_page.block.schedule.attributes.initial_items.name">
+        <source>Initial Items</source>
+        <target state="new">Initial Items</target>
+        <note>key: ibexa.fieldtype_page.block.schedule.attributes.initial_items.name</note>
+      </trans-unit>
+      <trans-unit id="551a3215051f76bd94c135fd975e7590288fce9a" resname="ibexa.fieldtype_page.block.schedule.attributes.limit.name">
+        <source>Limit</source>
+        <target state="new">Limit</target>
+        <note>key: ibexa.fieldtype_page.block.schedule.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="d4a58b8a423a1cb4b215cc3d30b000e70be626c0" resname="ibexa.fieldtype_page.block.schedule.attributes.loaded_snapshot.name">
+        <source>Loaded Snapshot</source>
+        <target state="new">Loaded Snapshot</target>
+        <note>key: ibexa.fieldtype_page.block.schedule.attributes.loaded_snapshot.name</note>
+      </trans-unit>
+      <trans-unit id="b8cef10bea0cf7a90af3d3a73263ca2b2be91a8a" resname="ibexa.fieldtype_page.block.schedule.attributes.slots.name">
+        <source>Slots</source>
+        <target state="new">Slots</target>
+        <note>key: ibexa.fieldtype_page.block.schedule.attributes.slots.name</note>
+      </trans-unit>
+      <trans-unit id="796faef66f3027aa209009be1cb5d7374e59181d" resname="ibexa.fieldtype_page.block.schedule.attributes.snapshots.name">
+        <source>Snapshots</source>
+        <target state="new">Snapshots</target>
+        <note>key: ibexa.fieldtype_page.block.schedule.attributes.snapshots.name</note>
+      </trans-unit>
+      <trans-unit id="e6e5487c8514d264ee88b1825cc58639c49408bc" resname="ibexa.fieldtype_page.block.schedule.name">
+        <source>Content Scheduler</source>
+        <target state="new">Content Scheduler</target>
+        <note>key: ibexa.fieldtype_page.block.schedule.name</note>
+      </trans-unit>
+      <trans-unit id="a3c072c7771d2ea0e84a54b96348e031c6b6ed67" resname="ibexa.fieldtype_page.block.tag.attributes.content.name">
+        <source>Content</source>
+        <target state="new">Content</target>
+        <note>key: ibexa.fieldtype_page.block.tag.attributes.content.name</note>
+      </trans-unit>
+      <trans-unit id="8b5a281b18b0420c2e1f8a177a766cb1bb72f6e7" resname="ibexa.fieldtype_page.block.tag.name">
+        <source>Code</source>
+        <target state="new">Code</target>
+        <note>key: ibexa.fieldtype_page.block.tag.name</note>
+      </trans-unit>
+      <trans-unit id="c666563a71d409d7b8f01250a7ef78da8e083e81" resname="ibexa.fieldtype_page.block.video.attributes.contentId.name">
+        <source>Video</source>
+        <target state="new">Video</target>
+        <note>key: ibexa.fieldtype_page.block.video.attributes.contentId.name</note>
+      </trans-unit>
+      <trans-unit id="4d22c0c6a4a33607fcc1dd652fce310ad9a098f7" resname="ibexa.fieldtype_page.block.video.name">
+        <source>Video</source>
+        <target state="new">Video</target>
+        <note>key: ibexa.fieldtype_page.block.video.name</note>
+      </trans-unit>
       <trans-unit id="fdd142fc2e5c77d28fea2e33ff339237b28c77a7" resname="item.select_all">
         <source>Select all</source>
         <target state="new">Select all</target>

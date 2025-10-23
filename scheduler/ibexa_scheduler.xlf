@@ -21,11 +21,6 @@
         <target state="new">Content sent to review</target>
         <note>key: content.in_review</note>
       </trans-unit>
-      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
-        <source>Read more</source>
-        <target state="new">Read more</target>
-        <note>key: content.publish_later.read_more</note>
-      </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
         <source>Content published</source>
         <target state="new">Content published</target>
@@ -355,6 +350,21 @@
         <source>schedule_publish</source>
         <target state="new">schedule_publish</target>
         <note>key: schedule_publish</note>
+      </trans-unit>
+      <trans-unit id="b55aeaaea4d3616692dd993969cff80fecee302f" resname="scheduler.notification.hidden.label">
+        <source>Content hidden by Scheduler</source>
+        <target state="new">Content hidden by Scheduler</target>
+        <note>key: scheduler.notification.hidden.label</note>
+      </trans-unit>
+      <trans-unit id="582bbee876433103a5a13f7a2411e97c6742f0fd" resname="scheduler.notification.published.label">
+        <source>Content published by Scheduler</source>
+        <target state="new">Content published by Scheduler</target>
+        <note>key: scheduler.notification.published.label</note>
+      </trans-unit>
+      <trans-unit id="38b2330209cd7fd0cefb8bafab51dc333a3976c1" resname="scheduler.notification.unscheduled.label">
+        <source>Content unscheduled</source>
+        <target state="new">Content unscheduled</target>
+        <note>key: scheduler.notification.unscheduled.label</note>
       </trans-unit>
       <trans-unit id="e5a66fd1e539dbf81f810d2022a3d8ee67a7a17c" resname="tab.name.all_scheduled">
         <source>Scheduled</source>

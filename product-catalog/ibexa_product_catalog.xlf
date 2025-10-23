@@ -1233,7 +1233,7 @@
       </trans-unit>
       <trans-unit id="e300046260d3af717b1187bfd4fcb2ce3b2e4d44" resname="product.asset.disallowed_type.message">
         <source>The uploaded file types are not allowed</source>
-        <target state="new">The uploaded file types are not allowed.</target>
+        <target state="new">The uploaded file types are not allowed</target>
         <note>key: product.asset.disallowed_type.message</note>
       </trans-unit>
       <trans-unit id="d90613484c3b5901786fb6b30ec08b0fa1d01f98" resname="product.asset.group.success">
@@ -1243,7 +1243,7 @@
       </trans-unit>
       <trans-unit id="ba26a26316f75e1cb9120aa666004e06fed1dbba" resname="product.asset.not.all.disallowed_type.message">
         <source>One or more files have an unsupported file type</source>
-        <target state="new">One or more files have an unsupported file type.</target>
+        <target state="new">One or more files have an unsupported file type</target>
         <note>key: product.asset.not.all.disallowed_type.message</note>
       </trans-unit>
       <trans-unit id="ed4b78a9b00310cbd7774f9412f1ee4716f501a8" resname="product.availability.create.success">
@@ -2120,6 +2120,16 @@
         <source>Library</source>
         <target state="new">Library</target>
         <note>key: product_type.edit.library</note>
+      </trans-unit>
+      <trans-unit id="65fa4601c318f05a447060ff1c0b888ad779ad5b" resname="product_type.edit.library.empty">
+        <source>Your library is empty.</source>
+        <target state="new">Your library is empty.</target>
+        <note>key: product_type.edit.library.empty</note>
+      </trans-unit>
+      <trans-unit id="44f9c8d8e02719e1b5aa4125ed53d32707a70f92" resname="product_type.edit.library.empty.img">
+        <source>Empty library</source>
+        <target state="new">Empty library</target>
+        <note>key: product_type.edit.library.empty.img</note>
       </trans-unit>
       <trans-unit id="a6f013c8fc2e8122351b5489cce2ace50715f7a8" resname="product_type.edit.list_header.name">
         <source>Name</source>
