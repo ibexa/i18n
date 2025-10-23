@@ -21,11 +21,6 @@
         <target>crwdns244854:0crwdne244854:0</target>
         <note>key: content.in_review</note>
       </trans-unit>
-      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
-        <source>Read more</source>
-        <target>crwdns244856:0crwdne244856:0</target>
-        <note>key: content.publish_later.read_more</note>
-      </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
         <source>Content published</source>
         <target>crwdns244858:0crwdne244858:0</target>
@@ -355,6 +350,21 @@
         <source>schedule_publish</source>
         <target>crwdns244980:0crwdne244980:0</target>
         <note>key: schedule_publish</note>
+      </trans-unit>
+      <trans-unit id="b55aeaaea4d3616692dd993969cff80fecee302f" resname="scheduler.notification.hidden.label">
+        <source>Content hidden by Scheduler</source>
+        <target>crwdns268314:0crwdne268314:0</target>
+        <note>key: scheduler.notification.hidden.label</note>
+      </trans-unit>
+      <trans-unit id="582bbee876433103a5a13f7a2411e97c6742f0fd" resname="scheduler.notification.published.label">
+        <source>Content published by Scheduler</source>
+        <target>crwdns268316:0crwdne268316:0</target>
+        <note>key: scheduler.notification.published.label</note>
+      </trans-unit>
+      <trans-unit id="38b2330209cd7fd0cefb8bafab51dc333a3976c1" resname="scheduler.notification.unscheduled.label">
+        <source>Content unscheduled</source>
+        <target>crwdns268318:0crwdne268318:0</target>
+        <note>key: scheduler.notification.unscheduled.label</note>
       </trans-unit>
       <trans-unit id="e5a66fd1e539dbf81f810d2022a3d8ee67a7a17c" resname="tab.name.all_scheduled">
         <source>Scheduled</source>
