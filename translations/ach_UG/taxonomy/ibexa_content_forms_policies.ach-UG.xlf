@@ -11,6 +11,16 @@
         <target>crwdns245966:0crwdne245966:0</target>
         <note>key: policy.limitation.identifier.taxonomy</note>
       </trans-unit>
+      <trans-unit id="679732afd153d7c48e9c050d41c1d46e6e6821d5" resname="policy.limitation.identifier.taxonomy_subtree">
+        <source>Taxonomy subtree</source>
+        <target>crwdns268328:0crwdne268328:0</target>
+        <note>key: policy.limitation.identifier.taxonomy_subtree</note>
+      </trans-unit>
+      <trans-unit id="aa99763aed6c059be9d812b135e5fccb1170e741" resname="policy.limitation.identifier.taxonomysubtree">
+        <source>Taxonomy subtree</source>
+        <target>crwdns268330:0crwdne268330:0</target>
+        <note>key: policy.limitation.identifier.taxonomysubtree</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
