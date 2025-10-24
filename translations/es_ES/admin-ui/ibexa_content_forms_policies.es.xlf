@@ -53,22 +53,22 @@
       </trans-unit>
       <trans-unit id="e3773b71c8e7fda97f221ab25a6c25164d179d84" resname="policy.limitation.identifier.parentclass">
         <source>Content type of Parent</source>
-        <target state="translated">Tipo de contenido de los padres</target>
+        <target state="translated">Tipo de contenido de los elementos primarios</target>
         <note>key: policy.limitation.identifier.parentclass</note>
       </trans-unit>
       <trans-unit id="39bf0d9c1e0e8b64193bf09d83fbd89c2dac3421" resname="policy.limitation.identifier.parentdepth">
         <source>Parent Depth</source>
-        <target state="translated">Profundidad de los padres</target>
+        <target state="translated">Profundidad de los elementos primarios</target>
         <note>key: policy.limitation.identifier.parentdepth</note>
       </trans-unit>
       <trans-unit id="cb52ff8582459d1bc981e9f98cf1c79876f83a1e" resname="policy.limitation.identifier.parentgroup">
         <source>Content type group of Parent</source>
-        <target state="translated">Grupo de tipo de contenido de los padres</target>
+        <target state="translated">Grupo de tipo de contenido de los elementos primarios</target>
         <note>key: policy.limitation.identifier.parentgroup</note>
       </trans-unit>
       <trans-unit id="6208b97847450b255559e4a56c51ff06b76a08dd" resname="policy.limitation.identifier.parentowner">
         <source>Owner of Parent</source>
-        <target state="translated">Propietario de los padres</target>
+        <target state="translated">Propietario de los elementos primarios</target>
         <note>key: policy.limitation.identifier.parentowner</note>
       </trans-unit>
       <trans-unit id="9f2e53e094725bbc243ad777547724ab923a31d1" resname="policy.limitation.identifier.role">

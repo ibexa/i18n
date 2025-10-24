@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="7c6e325dd52179c8f9262c5321f93788b6fe7f8c" resname="content.review.title">
         <source>Title:</source>
-        <target state="translated">Position:</target>
+        <target state="translated">Titel:</target>
         <note>key: content.review.title</note>
       </trans-unit>
       <trans-unit id="b7578d210bb0a2f0f03a30ee0fc33a0e377cc227" resname="content.unlock.accept">

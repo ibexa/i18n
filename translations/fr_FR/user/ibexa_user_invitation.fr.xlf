@@ -10,7 +10,7 @@
         <source xml:space="preserve">Hello,
             Join us at: %invite_link%
         </source>
-        <target state="translated">Bonjour,
+       <target state="translated">Bonjour,
             Rejoignez-nous sur : %invite_link%
         </target>
         <note>key: ibexa.user.invitation.mail.message</note>

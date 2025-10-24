@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="6ffbb9b14f98e94b8dda5418ef3910942b42c44e" resname="search.search">
         <source>Search</source>
-        <target state="translated">Buscar...</target>
+        <target state="translated">Buscar</target>
         <note>key: search.search</note>
       </trans-unit>
       <trans-unit id="34cd11448c2016e5c0a098947eb3e2aef01a9ac5" resname="search.section">

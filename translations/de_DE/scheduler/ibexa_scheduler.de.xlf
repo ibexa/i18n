@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
         <source>Title:</source>
-        <target state="translated">Position:</target>
+        <target state="translated">Titel:</target>
         <note>key: content.scheduled.title</note>
       </trans-unit>
       <trans-unit id="a6747a32fb851855b9fa7689ab2bc2d27d10c60f" resname="content.scheduled_hide.action.cancel">

@@ -515,7 +515,7 @@
       </trans-unit>
       <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
         <source>Title:</source>
-        <target state="translated">Cargo:</target>
+        <target state="translated">Título:</target>
         <note>key: notification.title</note>
       </trans-unit>
       <trans-unit id="0480844e257807b48dbf75fa7a374ceb7649ec5c" resname="object_state.delete.bulk_delete.submit">

@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
         <source>Content or its ancestor is hidden</source>
-        <target state="translated">El antecesor o su antepasado está oculto</target>
+        <target state="translated">El contenido o su antepasado está oculto</target>
         <note>key: tab.locations.hidden_content_or_superior</note>
       </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
