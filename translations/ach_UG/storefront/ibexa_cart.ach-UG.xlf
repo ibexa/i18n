@@ -76,10 +76,10 @@
         <target>crwdns268022:0crwdne268022:0</target>
         <note>key: maincart.summary.coupon.input.placeholder</note>
       </trans-unit>
-      <trans-unit id="4120345061d9481446bcbc8f7579628da826ffe8" resname="maincart.summary.coupon.label">
-        <source>Promo code</source>
-        <target>crwdns267465:0crwdne267465:0</target>
-        <note>key: maincart.summary.coupon.label</note>
+      <trans-unit id="7d0e0ff9998cbf0be7eb6eb615e60093b7fcd88a" resname="maincart.summary.coupon_label_template">
+        <source>Code: %coupon_code%</source>
+        <target>crwdns268324:0%coupon_code%crwdne268324:0</target>
+        <note>key: maincart.summary.coupon_label_template</note>
       </trans-unit>
       <trans-unit id="bac084866bb91074db9eaee95e6d97d5668b2e80" resname="maincart.summary.discounts_info.toggler.show_less.label">
         <source>Show less</source>

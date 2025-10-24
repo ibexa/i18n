@@ -81,6 +81,16 @@
         <target>crwdns245138:0crwdne245138:0</target>
         <note>key: formatted_btn.label</note>
       </trans-unit>
+      <trans-unit id="590b85bd86144a6c872dcff6475c451319782fc7" resname="image_btn.edit.label">
+        <source>Edit</source>
+        <target>crwdns268234:0crwdne268234:0</target>
+        <note>key: image_btn.edit.label</note>
+      </trans-unit>
+      <trans-unit id="f0e038e4fa3206fe5b1c9b6366f88d335409cb1c" resname="image_btn.go_to.label">
+        <source>Go to image</source>
+        <target>crwdns268236:0crwdne268236:0</target>
+        <note>key: image_btn.go_to.label</note>
+      </trans-unit>
       <trans-unit id="13cd849924dc9b21defaf1d6905241a4eb74e71a" resname="image_btn.label">
         <source>Image</source>
         <target>crwdns245140:0crwdne245140:0</target>

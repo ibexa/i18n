@@ -36,6 +36,11 @@
         <target>crwdns249583:0crwdne249583:0</target>
         <note>key: ibexa_checkout.checkout.summary.shipping_method</note>
       </trans-unit>
+      <trans-unit id="259dbaf543e311152125730cd23aa61f06000478" resname="ibexa_checkout.reorder.product_cannot_be_reordered">
+        <source>At least one of the products cannot be reordered.</source>
+        <target>crwdns268166:0crwdne268166:0</target>
+        <note>key: ibexa_checkout.reorder.product_cannot_be_reordered</note>
+      </trans-unit>
       <trans-unit id="dbd49fc245d6ca0763f96354338a8f9e65067cee" resname="ibexa_checkout.ui.actions.go_back">
         <source>Go Back</source>
         <target>crwdns249585:0crwdne249585:0</target>

@@ -71,6 +71,131 @@
         <target>crwdns245274:0crwdne245274:0</target>
         <note>key: form.edit</note>
       </trans-unit>
+      <trans-unit id="15e78b8427d9056a0e86019fe31efe9e836c307e" resname="form.field.attribute.action">
+        <source>Action</source>
+        <target>crwdns268238:0crwdne268238:0</target>
+        <note>key: form.field.attribute.action</note>
+      </trans-unit>
+      <trans-unit id="25c804d2418374c5153ee4c59db3aa2accb36c19" resname="form.field.attribute.current_date_as_default_value">
+        <source>Current date as default value</source>
+        <target>crwdns268240:0crwdne268240:0</target>
+        <note>key: form.field.attribute.current_date_as_default_value</note>
+      </trans-unit>
+      <trans-unit id="f937c9160339f3252015bbf78b40bf4ac0732030" resname="form.field.attribute.date_format">
+        <source>Date format</source>
+        <target>crwdns268242:0crwdne268242:0</target>
+        <note>key: form.field.attribute.date_format</note>
+      </trans-unit>
+      <trans-unit id="e8ffa67ea615366df86b6616cc27a2a05b598ee4" resname="form.field.attribute.default_value">
+        <source>Default value</source>
+        <target>crwdns268244:0crwdne268244:0</target>
+        <note>key: form.field.attribute.default_value</note>
+      </trans-unit>
+      <trans-unit id="bddbf87845b1d5cff407465d48fc70cc0e9b4467" resname="form.field.attribute.help">
+        <source>Help</source>
+        <target>crwdns268246:0crwdne268246:0</target>
+        <note>key: form.field.attribute.help</note>
+      </trans-unit>
+      <trans-unit id="fbbe8a241e1be30d48327e0be93bd001ac3ea531" resname="form.field.attribute.help_text">
+        <source>Help text</source>
+        <target>crwdns268248:0crwdne268248:0</target>
+        <note>key: form.field.attribute.help_text</note>
+      </trans-unit>
+      <trans-unit id="9d2ecf5e151fb4e9150d9fb90965fd9fd41962ec" resname="form.field.attribute.location">
+        <source>Select file upload location</source>
+        <target>crwdns268250:0crwdne268250:0</target>
+        <note>key: form.field.attribute.location</note>
+      </trans-unit>
+      <trans-unit id="a0de51681a1d8819a3df2f4196a2753c8c38adc3" resname="form.field.attribute.notification_email">
+        <source>Notification email(s)</source>
+        <target>crwdns268252:0crwdne268252:0</target>
+        <note>key: form.field.attribute.notification_email</note>
+      </trans-unit>
+      <trans-unit id="1a29708620914a30c8983914f1eb3ffe8b79d159" resname="form.field.attribute.options">
+        <source>Options</source>
+        <target>crwdns268254:0crwdne268254:0</target>
+        <note>key: form.field.attribute.options</note>
+      </trans-unit>
+      <trans-unit id="b8d28152d4fe556987b5a45e35b1e74723afec2f" resname="form.field.attribute.placeholder">
+        <source>Placeholder</source>
+        <target>crwdns268256:0crwdne268256:0</target>
+        <note>key: form.field.attribute.placeholder</note>
+      </trans-unit>
+      <trans-unit id="5870f6f23ace74bf93283d3c211ea0465b0e3ef3" resname="form.field.button">
+        <source>Button</source>
+        <target>crwdns268258:0crwdne268258:0</target>
+        <note>key: form.field.button</note>
+      </trans-unit>
+      <trans-unit id="a392e690a014eb8009e34ab25b4923d0b8594876" resname="form.field.captcha">
+        <source>Captcha</source>
+        <target>crwdns268260:0crwdne268260:0</target>
+        <note>key: form.field.captcha</note>
+      </trans-unit>
+      <trans-unit id="1dcf9c33d902293f1949d3bcc45f1cc3f8ae6213" resname="form.field.category.basic_form_fields">
+        <source>Basic form fields</source>
+        <target>crwdns268262:0crwdne268262:0</target>
+        <note>key: form.field.category.basic_form_fields</note>
+      </trans-unit>
+      <trans-unit id="ee59204bc6592280bd1226256b2fbecd7291df47" resname="form.field.checkbox">
+        <source>Checkbox</source>
+        <target>crwdns268264:0crwdne268264:0</target>
+        <note>key: form.field.checkbox</note>
+      </trans-unit>
+      <trans-unit id="b8664d71b472c33e25c62ce2ddebc8f3aa524665" resname="form.field.checkboxes">
+        <source>Checkboxes</source>
+        <target>crwdns268266:0crwdne268266:0</target>
+        <note>key: form.field.checkboxes</note>
+      </trans-unit>
+      <trans-unit id="83740299988632b81b710b8ba428d1cd05e71164" resname="form.field.date">
+        <source>Date</source>
+        <target>crwdns268268:0crwdne268268:0</target>
+        <note>key: form.field.date</note>
+      </trans-unit>
+      <trans-unit id="0913f6cf14c0cb0ab449e3889b9f714d6066486e" resname="form.field.dropdown">
+        <source>Dropdown</source>
+        <target>crwdns268270:0crwdne268270:0</target>
+        <note>key: form.field.dropdown</note>
+      </trans-unit>
+      <trans-unit id="b584425a2b8b7ce7f2be6290e42300692d4c641b" resname="form.field.email">
+        <source>Email</source>
+        <target>crwdns268272:0crwdne268272:0</target>
+        <note>key: form.field.email</note>
+      </trans-unit>
+      <trans-unit id="eec1baec3b3810ccb75615f8818f11bf5728c001" resname="form.field.file">
+        <source>File</source>
+        <target>crwdns268274:0crwdne268274:0</target>
+        <note>key: form.field.file</note>
+      </trans-unit>
+      <trans-unit id="f95dc3ec66c188c0810e662531616a7fb92a0f9f" resname="form.field.hidden_field">
+        <source>Hidden field</source>
+        <target>crwdns268276:0crwdne268276:0</target>
+        <note>key: form.field.hidden_field</note>
+      </trans-unit>
+      <trans-unit id="eea3cb8e95938c590c760ed8d1d0d0317be986f9" resname="form.field.multiple_line_input">
+        <source>Multiple line input</source>
+        <target>crwdns268278:0crwdne268278:0</target>
+        <note>key: form.field.multiple_line_input</note>
+      </trans-unit>
+      <trans-unit id="bc493faf969289196917ecd1cd2d5a69fc04269a" resname="form.field.number">
+        <source>Number</source>
+        <target>crwdns268280:0crwdne268280:0</target>
+        <note>key: form.field.number</note>
+      </trans-unit>
+      <trans-unit id="e59e4b3b19c15b9a97340356227ba6a939ac7856" resname="form.field.radio">
+        <source>Radio</source>
+        <target>crwdns268282:0crwdne268282:0</target>
+        <note>key: form.field.radio</note>
+      </trans-unit>
+      <trans-unit id="fb627379534b6ec4a91354f809b243a4ef74e5a8" resname="form.field.single_line_input">
+        <source>Single line input</source>
+        <target>crwdns268284:0crwdne268284:0</target>
+        <note>key: form.field.single_line_input</note>
+      </trans-unit>
+      <trans-unit id="286c5ef0a50e9dd0e28efd0d474e56345be11112" resname="form.field.url">
+        <source>URL</source>
+        <target>crwdns268286:0crwdne268286:0</target>
+        <note>key: form.field.url</note>
+      </trans-unit>
       <trans-unit id="99c07fbdbe0c40a68138652eb91532d9737ed7b2" resname="form.no_preview">
         <source>Preview is not available.</source>
         <target>crwdns245276:0crwdne245276:0</target>

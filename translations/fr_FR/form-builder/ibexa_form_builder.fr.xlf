@@ -18,8 +18,13 @@
       </trans-unit>
       <trans-unit id="e3e94b5f80551cb49f285d818c8f59d7ad3d3903" resname="building.form">
         <source>Build form</source>
-        <target state="needs-translation">Build form</target>
+        <target state="translated">Construction du formulaire</target>
         <note>key: building.form</note>
+      </trans-unit>
+      <trans-unit id="ee1a6091d9aa01227acfb10059fa6621ad5bdd09" resname="content.file.unauthorized">
+        <source>To view this file, you need a proper level of permissions.</source>
+        <target state="translated">Pour voir ce fichier, vous avez besoin d'un niveau d'autorisations approprié.</target>
+        <note>key: content.file.unauthorized</note>
       </trans-unit>
       <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
         <source>Create your form.</source>
@@ -58,13 +63,138 @@
       </trans-unit>
       <trans-unit id="9120005386b03a0ecff11f99fc6da8fa465c5895" resname="form.close">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Annuler</target>
         <note>key: form.close</note>
       </trans-unit>
       <trans-unit id="a928b07ca6312a18de68c5813e52d48f10e375fd" resname="form.edit">
         <source>Edit</source>
         <target state="translated">Modifier</target>
         <note>key: form.edit</note>
+      </trans-unit>
+      <trans-unit id="15e78b8427d9056a0e86019fe31efe9e836c307e" resname="form.field.attribute.action">
+        <source>Action</source>
+        <target state="translated">Action</target>
+        <note>key: form.field.attribute.action</note>
+      </trans-unit>
+      <trans-unit id="25c804d2418374c5153ee4c59db3aa2accb36c19" resname="form.field.attribute.current_date_as_default_value">
+        <source>Current date as default value</source>
+        <target state="translated">Date actuelle comme valeur par défaut</target>
+        <note>key: form.field.attribute.current_date_as_default_value</note>
+      </trans-unit>
+      <trans-unit id="f937c9160339f3252015bbf78b40bf4ac0732030" resname="form.field.attribute.date_format">
+        <source>Date format</source>
+        <target state="translated">Format date</target>
+        <note>key: form.field.attribute.date_format</note>
+      </trans-unit>
+      <trans-unit id="e8ffa67ea615366df86b6616cc27a2a05b598ee4" resname="form.field.attribute.default_value">
+        <source>Default value</source>
+        <target state="translated">Valeur par défaut</target>
+        <note>key: form.field.attribute.default_value</note>
+      </trans-unit>
+      <trans-unit id="bddbf87845b1d5cff407465d48fc70cc0e9b4467" resname="form.field.attribute.help">
+        <source>Help</source>
+        <target state="translated">Aide</target>
+        <note>key: form.field.attribute.help</note>
+      </trans-unit>
+      <trans-unit id="fbbe8a241e1be30d48327e0be93bd001ac3ea531" resname="form.field.attribute.help_text">
+        <source>Help text</source>
+        <target state="translated">Texte d'aide</target>
+        <note>key: form.field.attribute.help_text</note>
+      </trans-unit>
+      <trans-unit id="9d2ecf5e151fb4e9150d9fb90965fd9fd41962ec" resname="form.field.attribute.location">
+        <source>Select file upload location</source>
+        <target state="translated">Sélectionnez l'emplacement du téléchargement de fichier</target>
+        <note>key: form.field.attribute.location</note>
+      </trans-unit>
+      <trans-unit id="a0de51681a1d8819a3df2f4196a2753c8c38adc3" resname="form.field.attribute.notification_email">
+        <source>Notification email(s)</source>
+        <target state="translated">E-mail(s) de notification</target>
+        <note>key: form.field.attribute.notification_email</note>
+      </trans-unit>
+      <trans-unit id="1a29708620914a30c8983914f1eb3ffe8b79d159" resname="form.field.attribute.options">
+        <source>Options</source>
+        <target state="translated">Options</target>
+        <note>key: form.field.attribute.options</note>
+      </trans-unit>
+      <trans-unit id="b8d28152d4fe556987b5a45e35b1e74723afec2f" resname="form.field.attribute.placeholder">
+        <source>Placeholder</source>
+        <target state="translated">Emplacement réservé</target>
+        <note>key: form.field.attribute.placeholder</note>
+      </trans-unit>
+      <trans-unit id="5870f6f23ace74bf93283d3c211ea0465b0e3ef3" resname="form.field.button">
+        <source>Button</source>
+        <target state="translated">Bouton</target>
+        <note>key: form.field.button</note>
+      </trans-unit>
+      <trans-unit id="a392e690a014eb8009e34ab25b4923d0b8594876" resname="form.field.captcha">
+        <source>Captcha</source>
+        <target state="translated">Captcha</target>
+        <note>key: form.field.captcha</note>
+      </trans-unit>
+      <trans-unit id="1dcf9c33d902293f1949d3bcc45f1cc3f8ae6213" resname="form.field.category.basic_form_fields">
+        <source>Basic form fields</source>
+        <target state="translated">Champs de formulaire de base</target>
+        <note>key: form.field.category.basic_form_fields</note>
+      </trans-unit>
+      <trans-unit id="ee59204bc6592280bd1226256b2fbecd7291df47" resname="form.field.checkbox">
+        <source>Checkbox</source>
+        <target state="translated">Case à cocher</target>
+        <note>key: form.field.checkbox</note>
+      </trans-unit>
+      <trans-unit id="b8664d71b472c33e25c62ce2ddebc8f3aa524665" resname="form.field.checkboxes">
+        <source>Checkboxes</source>
+        <target state="translated">Cases à cocher</target>
+        <note>key: form.field.checkboxes</note>
+      </trans-unit>
+      <trans-unit id="83740299988632b81b710b8ba428d1cd05e71164" resname="form.field.date">
+        <source>Date</source>
+        <target state="translated">Date</target>
+        <note>key: form.field.date</note>
+      </trans-unit>
+      <trans-unit id="0913f6cf14c0cb0ab449e3889b9f714d6066486e" resname="form.field.dropdown">
+        <source>Dropdown</source>
+        <target state="translated">Liste déroulante</target>
+        <note>key: form.field.dropdown</note>
+      </trans-unit>
+      <trans-unit id="b584425a2b8b7ce7f2be6290e42300692d4c641b" resname="form.field.email">
+        <source>Email</source>
+        <target state="translated">E-mail</target>
+        <note>key: form.field.email</note>
+      </trans-unit>
+      <trans-unit id="eec1baec3b3810ccb75615f8818f11bf5728c001" resname="form.field.file">
+        <source>File</source>
+        <target state="translated">Fichier</target>
+        <note>key: form.field.file</note>
+      </trans-unit>
+      <trans-unit id="f95dc3ec66c188c0810e662531616a7fb92a0f9f" resname="form.field.hidden_field">
+        <source>Hidden field</source>
+        <target state="translated">Champ masqué</target>
+        <note>key: form.field.hidden_field</note>
+      </trans-unit>
+      <trans-unit id="eea3cb8e95938c590c760ed8d1d0d0317be986f9" resname="form.field.multiple_line_input">
+        <source>Multiple line input</source>
+        <target state="translated">Saisie de plusieurs lignes</target>
+        <note>key: form.field.multiple_line_input</note>
+      </trans-unit>
+      <trans-unit id="bc493faf969289196917ecd1cd2d5a69fc04269a" resname="form.field.number">
+        <source>Number</source>
+        <target state="translated">Nombre</target>
+        <note>key: form.field.number</note>
+      </trans-unit>
+      <trans-unit id="e59e4b3b19c15b9a97340356227ba6a939ac7856" resname="form.field.radio">
+        <source>Radio</source>
+        <target state="translated">Radio</target>
+        <note>key: form.field.radio</note>
+      </trans-unit>
+      <trans-unit id="fb627379534b6ec4a91354f809b243a4ef74e5a8" resname="form.field.single_line_input">
+        <source>Single line input</source>
+        <target state="translated">Saisie d'une ligne</target>
+        <note>key: form.field.single_line_input</note>
+      </trans-unit>
+      <trans-unit id="286c5ef0a50e9dd0e28efd0d474e56345be11112" resname="form.field.url">
+        <source>URL</source>
+        <target state="translated">URL</target>
+        <note>key: form.field.url</note>
       </trans-unit>
       <trans-unit id="99c07fbdbe0c40a68138652eb91532d9737ed7b2" resname="form.no_preview">
         <source>Preview is not available.</source>
@@ -78,12 +208,12 @@
       </trans-unit>
       <trans-unit id="b17e663256279c22d4d81c0f442d03b726ddbcaa" resname="form.save">
         <source>Save</source>
-        <target state="needs-translation">Save</target>
+        <target state="translated">Sauvegarder</target>
         <note>key: form.save</note>
       </trans-unit>
       <trans-unit id="3a73d5516ef5d5b46149351c9a8b920b7187c373" resname="form.save_and_close">
         <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
+        <target state="translated">Sauvegarder et fermer</target>
         <note>key: form.save_and_close</note>
       </trans-unit>
       <trans-unit id="9d9a3840f5ab21538b5df82ff8dc176cc9d8a06e" resname="form_builder.attribute.action.message.label">

@@ -2121,6 +2121,16 @@
         <target>crwdns243522:0crwdne243522:0</target>
         <note>key: product_type.edit.library</note>
       </trans-unit>
+      <trans-unit id="65fa4601c318f05a447060ff1c0b888ad779ad5b" resname="product_type.edit.library.empty">
+        <source>Your library is empty.</source>
+        <target>crwdns268292:0crwdne268292:0</target>
+        <note>key: product_type.edit.library.empty</note>
+      </trans-unit>
+      <trans-unit id="44f9c8d8e02719e1b5aa4125ed53d32707a70f92" resname="product_type.edit.library.empty.img">
+        <source>Empty library</source>
+        <target>crwdns268294:0crwdne268294:0</target>
+        <note>key: product_type.edit.library.empty.img</note>
+      </trans-unit>
       <trans-unit id="a6f013c8fc2e8122351b5489cce2ace50715f7a8" resname="product_type.edit.list_header.name">
         <source>Name</source>
         <target>crwdns243524:0crwdne243524:0</target>

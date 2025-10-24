@@ -16,6 +16,11 @@
         <target>crwdns245190:0crwdne245190:0</target>
         <note>key: content.in_trash</note>
       </trans-unit>
+      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
+        <source>Delete</source>
+        <target>crwdns268288:0crwdne268288:0</target>
+        <note>key: ezauthor.action.delete</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
