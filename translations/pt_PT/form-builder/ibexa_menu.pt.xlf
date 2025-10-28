@@ -6,11 +6,7 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="d18532f1bb8aa358608acf628ad825d439f40f1d" resname="main__content__form_builder">
-        <source>Forms</source>
-        <target state="needs-translation">Forms</target>
-        <note>key: main__content__form_builder</note>
-      </trans-unit>
+      
     </body>
   </file>
 </xliff>
