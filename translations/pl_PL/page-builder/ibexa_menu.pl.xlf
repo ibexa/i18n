@@ -31,11 +31,6 @@
         <target state="final">Publikuj</target>
         <note>key: page_builder__infobar__edit__actions__publish</note>
       </trans-unit>
-      <trans-unit id="327a7fa97c120a7401e0ad51b8750db2b3efdc96" resname="page_builder__infobar__edit__actions__save_draft" approved="yes">
-        <source>Save draft</source>
-        <target state="final">Zapisz szkic</target>
-        <note>key: page_builder__infobar__edit__actions__save_draft</note>
-      </trans-unit>
       <trans-unit id="0ba863bd868948ade36a1fc746f300f9f4ec5c28" resname="page_builder__infobar__preview__tools__add_translation" approved="yes">
         <source>Add translation</source>
         <target state="final">Dodaj tłumaczenie</target>
