@@ -21,11 +21,6 @@
         <target state="final">Przesłano do recenzji</target>
         <note>key: content.in_review</note>
       </trans-unit>
-      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
-        <source>Read more</source>
-        <target state="translated">Czytaj więcej</target>
-        <note>key: content.publish_later.read_more</note>
-      </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published" approved="yes">
         <source>Content published</source>
         <target state="final">Opublikowano element</target>
