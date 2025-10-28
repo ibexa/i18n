@@ -46,16 +46,6 @@
         <target state="translated">Eliminar tipos de contenido</target>
         <note>key: content_types_delete_form.delete</note>
       </trans-unit>
-      <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
-        <source>%fieldName% cannot be empty</source>
-        <target state="translated">El campo %fieldName% no puede estar vacío</target>
-        <note>key: error.required.field</note>
-      </trans-unit>
-      <trans-unit id="6090b5d2c17e00053a576ede5c82afba67f0cc49" resname="error.required.field_not_blank">
-        <source>This value should not be blank</source>
-        <target state="translated">Este valor no puede estar vacío</target>
-        <note>key: error.required.field_not_blank</note>
-      </trans-unit>
       <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled">
         <source>Enabled</source>
         <target state="translated">Activado</target>
