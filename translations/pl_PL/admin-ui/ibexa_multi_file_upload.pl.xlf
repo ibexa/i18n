@@ -21,20 +21,10 @@
         <target state="translated">Nie można uzyskać typu zawartości dla identyfikatora</target>
         <note>key: cannot_get_content_type_identifier.message</note>
       </trans-unit>
-      <trans-unit id="235e57ee5665f61ea5873be5e2f6cd15b05a51c0" resname="cannot_upload.message" approved="yes">
-        <source>Cannot upload file</source>
-        <target state="final">Nie można przesłać pliku</target>
-        <note>key: cannot_upload.message</note>
-      </trans-unit>
       <trans-unit id="9914d81081499df395d9a54e9d5208be234d4367" resname="delete.label" approved="yes">
         <source>Delete</source>
         <target state="final">Usuń</target>
         <note>key: delete.label</note>
-      </trans-unit>
-      <trans-unit id="2b1c547a8eeb8b7c83a9580901c66193cbcb0eb9" resname="disallowed_content_type.message">
-        <source>You do not have permission to create this Content item</source>
-        <target state="translated">Nie posiadasz wystarczających uprawnień do edycji tej treści</target>
-        <note>key: disallowed_content_type.message</note>
       </trans-unit>
       <trans-unit id="f2a2dab7435a694af5f4e9d2393e3cfb9c9c79f0" resname="disallowed_size.message" approved="yes">
         <source>File size is not allowed</source>
@@ -61,10 +51,15 @@
         <target state="final">Edytuj</target>
         <note>key: edit.label</note>
       </trans-unit>
-      <trans-unit id="0cd9663c2a0626f9d1556efe30c151196af02e8e" resname="max_file_size.message" approved="yes">
-        <source>Max file size:</source>
-        <target state="final">Maksymalny rozmiar pliku:</target>
+      <trans-unit id="0cd9663c2a0626f9d1556efe30c151196af02e8e" resname="max_file_size.message">
+        <source>%contentTypeName% max file size: %maxFileSize%</source>
+        <target state="translated">%contentTypeName% maksymalny rozmiar pliku: %maxFileSize%</target>
         <note>key: max_file_size.message</note>
+      </trans-unit>
+      <trans-unit id="429208648b00f65a5e36fab1ea37a9fa446ddc78" resname="max_file_size.message.general">
+        <source>Max. file size</source>
+        <target state="translated">Max. rozmiar pliku</target>
+        <note>key: max_file_size.message.general</note>
       </trans-unit>
       <trans-unit id="412c9936722fbbcd34664fdbfe33880fad7ef998" resname="multi_file_upload_open_btn.label">
         <source>Upload</source>
@@ -85,11 +80,6 @@
         <source>Upload file</source>
         <target state="translated">Prześlij plik</target>
         <note>key: upload_btn.label</note>
-      </trans-unit>
-      <trans-unit id="6b2bc429ffc374b49b5de9e3563d3d5a7668e4b2" resname="upload_popup.close">
-        <source>Multi-file upload</source>
-        <target state="translated">Prześlij wiele plików</target>
-        <note>key: upload_popup.close</note>
       </trans-unit>
     </body>
   </file>
