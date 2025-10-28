@@ -6,11 +6,7 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="f13906f7e6bb4146b0c1f3b3df05926b0ed530b9" resname="ibexa.payment_method.type.offline.name">
-        <source>Offline</source>
-        <target state="needs-translation">Offline</target>
-        <note>key: ibexa.payment_method.type.offline.name</note>
-      </trans-unit>
+      
     </body>
   </file>
 </xliff>
