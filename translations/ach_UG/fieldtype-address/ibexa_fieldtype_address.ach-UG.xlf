@@ -21,6 +21,11 @@
         <target>crwdns246712:0crwdne246712:0</target>
         <note>key: ibexa.address.country</note>
       </trans-unit>
+      <trans-unit id="c466b52d0344218c7b447ba73d70da130977a0a9" resname="ibexa.address.country.placeholder">
+        <source>None</source>
+        <target>crwdns267255:0crwdne267255:0</target>
+        <note>key: ibexa.address.country.placeholder</note>
+      </trans-unit>
       <trans-unit id="841264ffb30bbec6ea9917af2df640567d45f8ae" resname="ibexa.address.country.validation.empty">
         <source>Country cannot be empty.</source>
         <target>crwdns248168:0crwdne248168:0</target>

@@ -32,13 +32,13 @@
         <note>key: settings.autosave.value.description</note>
       </trans-unit>
       <trans-unit id="8d3d9c3a593c29c5ad69cf09b44cc423b27b1b64" resname="settings.autosave.value.disabled">
-        <source>disabled</source>
-        <target>crwdns236668:0crwdne236668:0</target>
+        <source>Disabled</source>
+        <target>crwdns267157:0crwdne267157:0</target>
         <note>key: settings.autosave.value.disabled</note>
       </trans-unit>
       <trans-unit id="5f85d72d00abca8e47ea83a67c9577c3cdb454b8" resname="settings.autosave.value.enabled">
-        <source>enabled</source>
-        <target>crwdns236670:0crwdne236670:0</target>
+        <source>Enabled</source>
+        <target>crwdns267159:0crwdne267159:0</target>
         <note>key: settings.autosave.value.enabled</note>
       </trans-unit>
       <trans-unit id="6e582329e8e54377b58d547389fda8ac2dd2cf5c" resname="settings.autosave.value.title">
@@ -72,13 +72,13 @@
         <note>key: settings.in_context_translation.value.description</note>
       </trans-unit>
       <trans-unit id="3f33c08a95b774bfdcb67ade54bce7f62bd2ac54" resname="settings.in_context_translation.value.disabled">
-        <source>disabled</source>
-        <target>crwdns251816:0crwdne251816:0</target>
+        <source>Disabled</source>
+        <target>crwdns267161:0crwdne267161:0</target>
         <note>key: settings.in_context_translation.value.disabled</note>
       </trans-unit>
       <trans-unit id="08e33cb64156307a5a8197a0cdb4e254e6c4c5c5" resname="settings.in_context_translation.value.enabled">
-        <source>enabled</source>
-        <target>crwdns251818:0crwdne251818:0</target>
+        <source>Enabled</source>
+        <target>crwdns267163:0crwdne267163:0</target>
         <note>key: settings.in_context_translation.value.enabled</note>
       </trans-unit>
       <trans-unit id="655baeb177f1234a01684cf79c22ccdcaf5bee51" resname="settings.in_context_translation.value.title">

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="e38482da09e62c4f5fb151bb8e3faf5de1b3d4b3" resname="ezrichtext.custom_tags.qualifio.attributes.campaign.label">
+        <source>Campaign</source>
+        <target>crwdns266733:0crwdne266733:0</target>
+        <note>key: ezrichtext.custom_tags.qualifio.attributes.campaign.label</note>
+      </trans-unit>
+      <trans-unit id="7d6dfede74214429e4c17d30f2c5b43faa805f53" resname="ezrichtext.custom_tags.qualifio.attributes.height.label">
+        <source>Height</source>
+        <target>crwdns266735:0crwdne266735:0</target>
+        <note>key: ezrichtext.custom_tags.qualifio.attributes.height.label</note>
+      </trans-unit>
+      <trans-unit id="12858e7c078f6d04418e153cc63f0d43ccca5e91" resname="ezrichtext.custom_tags.qualifio.attributes.width.label">
+        <source>Width</source>
+        <target>crwdns266737:0crwdne266737:0</target>
+        <note>key: ezrichtext.custom_tags.qualifio.attributes.width.label</note>
+      </trans-unit>
+      <trans-unit id="557a2a03b54538a955dabec30f2fd316376883be" resname="ezrichtext.custom_tags.qualifio.description">
+        <source>Embed campaign</source>
+        <target>crwdns266739:0crwdne266739:0</target>
+        <note>key: ezrichtext.custom_tags.qualifio.description</note>
+      </trans-unit>
+      <trans-unit id="1c566cbd51c42c8ca54f2e4fdf1b76a4264362c6" resname="ezrichtext.custom_tags.qualifio.label">
+        <source>Campaign</source>
+        <target>crwdns266741:0crwdne266741:0</target>
+        <note>key: ezrichtext.custom_tags.qualifio.label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -56,6 +56,11 @@
         <target>crwdns252646:0crwdne252646:0</target>
         <note>key: block.quick_actions.title</note>
       </trans-unit>
+      <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
+        <source>Admin</source>
+        <target>crwdns267247:0crwdne267247:0</target>
+        <note>key: breadcrumb.admin</note>
+      </trans-unit>
       <trans-unit id="a869aead4b6dfebcdf01ec571e49a3f2960e6a2a" resname="dashboard.builder.functionality">
         <source>Access the dashboard's customization tool, that allows you to personalize it to create a more intuitive user experience.</source>
         <target>crwdns252648:0crwdne252648:0</target>
@@ -75,6 +80,11 @@
         <source>My dashboard</source>
         <target>crwdns252654:0crwdne252654:0</target>
         <note>key: dashboard.customize.default_name</note>
+      </trans-unit>
+      <trans-unit id="774df9f882b982d08743402349d64bbd57302914" resname="dashboard.dashboard_type">
+        <source>Dashboard type</source>
+        <target>crwdns267249:0crwdne267249:0</target>
+        <note>key: dashboard.dashboard_type</note>
       </trans-unit>
       <trans-unit id="a6d9031649a97010fe6464176332886d0c21bcdf" resname="dashboard.edit">
         <source>Edit %locationContentName%</source>
@@ -130,6 +140,11 @@
         <source>Dashboard Builder</source>
         <target>crwdns252676:0crwdne252676:0</target>
         <note>key: info_bar.dashboard.label</note>
+      </trans-unit>
+      <trans-unit id="63e54ad889426b11df176a8fc17a6d9bf928b9fb" resname="info_bar.dashboard.toolbox.title">
+        <source>Dashboard blocks</source>
+        <target>crwdns267251:0crwdne267251:0</target>
+        <note>key: info_bar.dashboard.toolbox.title</note>
       </trans-unit>
       <trans-unit id="f9178a816fa89ee2d59cf2e88df4f8d62adb8f45" resname="user.setting.active_dashboard.description">
         <source>Active dashboard</source>

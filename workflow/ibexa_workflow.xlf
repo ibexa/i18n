@@ -86,26 +86,6 @@
         <target state="new">Content type</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
-      <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
-        <source>Edit</source>
-        <target state="new">Edit</target>
-        <note>key: dashboard.table.draft.edit</note>
-      </trans-unit>
-      <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
-        <source>Show history</source>
-        <target state="new">Show history</target>
-        <note>key: dashboard.table.draft.transition.list</note>
-      </trans-unit>
-      <trans-unit id="149b6c8f2d0d25c74fbcb7f242e7a71e9fdd6ea8" resname="dashboard.table.draft.unlock">
-        <source>Unlock</source>
-        <target state="new">Unlock</target>
-        <note>key: dashboard.table.draft.unlock</note>
-      </trans-unit>
-      <trans-unit id="eb02a089823e8728654697a70ee8dddfbfb2903c" resname="dashboard.table.draft.unlock.ask">
-        <source>Request access</source>
-        <target state="new">Request access</target>
-        <note>key: dashboard.table.draft.unlock.ask</note>
-      </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified language</source>
         <target state="new">Modified language</target>

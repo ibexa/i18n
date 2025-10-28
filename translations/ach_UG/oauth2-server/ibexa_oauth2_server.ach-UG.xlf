@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="d202362ba7c28d1b6c0f5ee87eb8ef1961909061" resname="consent.btn.accept.label">
+        <source>Allow</source>
+        <target>crwdns266809:0crwdne266809:0</target>
+        <note>key: consent.btn.accept.label</note>
+      </trans-unit>
+      <trans-unit id="e75db6c4ac3d31d873e9af353f08e8935ac1b04e" resname="consent.btn.reject.label">
+        <source>Deny</source>
+        <target>crwdns266811:0crwdne266811:0</target>
+        <note>key: consent.btn.reject.label</note>
+      </trans-unit>
+      <trans-unit id="fca0f8b696958ea685b666c36e63071372b6b63d" resname="consent.message">
+        <source><![CDATA[<b>%client_name%</b> wants to access your Ibexa account]]></source>
+        <target><![CDATA[crwdns266813:0%client_name%crwdne266813:0]]></target>
+        <note>key: consent.message</note>
+      </trans-unit>
+      <trans-unit id="9115ef269defd8cfb18fcbfeecb2307b0ef8469a" resname="consent.title">
+        <source>Sign in with your application</source>
+        <target>crwdns266815:0crwdne266815:0</target>
+        <note>key: consent.title</note>
+      </trans-unit>
+      <trans-unit id="8bb6a17f80c40eb2d2abf32d64d201c1f1efb4ce" resname="status.authorization.error">
+        <source>Authorization error</source>
+        <target>crwdns266817:0crwdne266817:0</target>
+        <note>key: status.authorization.error</note>
+      </trans-unit>
+      <trans-unit id="641cea94cb0e1a6f59ead38ef3e5cfded2f6afb2" resname="status.authorization.no_approved_authorization">
+        <source>Sorry, there was an error authorizing you're account with Ibexa. You didn't approve authorization.</source>
+        <target>crwdns266819:0crwdne266819:0</target>
+        <note>key: status.authorization.no_approved_authorization</note>
+      </trans-unit>
+      <trans-unit id="e87052413d9d035a68f377e6ba1c17e03b7f0a19" resname="status.authorization.try_again_later">
+        <source>Sorry, there was an error authorizing you're account with Ibexa. Try again later.</source>
+        <target>crwdns266821:0crwdne266821:0</target>
+        <note>key: status.authorization.try_again_later</note>
+      </trans-unit>
+      <trans-unit id="15fde8fe71891cba76784f9962b62a4828ad6278" resname="status.go_back">
+        <source>Go back</source>
+        <target>crwdns266823:0crwdne266823:0</target>
+        <note>key: status.go_back</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

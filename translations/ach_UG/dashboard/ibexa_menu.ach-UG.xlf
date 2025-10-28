@@ -27,8 +27,8 @@
         <note>key: main__admin__dashboard</note>
       </trans-unit>
       <trans-unit id="f4b4f39ebadf7585b4c9f64cbb322622ed7a883f" resname="main__admin__dashboard_content_type">
-        <source>Dashboard content type</source>
-        <target>crwdns252690:0crwdne252690:0</target>
+        <source>Dashboard type</source>
+        <target>crwdns267253:0crwdne267253:0</target>
         <note>key: main__admin__dashboard_content_type</note>
       </trans-unit>
       <trans-unit id="3533a8aedbcc80e5ddb1fe2291f87ecd8c8ef4a1" resname="main__customizable_dashboard">

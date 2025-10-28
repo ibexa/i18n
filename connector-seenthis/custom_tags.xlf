@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="b0e9faad25399c2b7b11ffef3956c96062bf69f3" resname="ezrichtext.custom_tags.seenthis.label">
+        <source>Seenthis</source>
+        <target state="new">Seenthis</target>
+        <note>key: ezrichtext.custom_tags.seenthis.label</note>
+      </trans-unit>
+      <trans-unit id="6c9e9b0838cc4c18bf4e6d18d878933a2da18193" resname="ezrichtext.custom_tags.seenthis.attributes.video_id.label">
+        <source>Video ID</source>
+        <target state="new">Video ID</target>
+        <note>key: ezrichtext.seenthis.attributes.video_id.label</note>
+      </trans-unit>
+      <trans-unit id="cf5c5c4c3f971bbb08973e87cdc1925bab0831b1" resname="ezrichtext.custom_tags.seenthis.attributes.tracker_id.label">
+        <source>Tracker ID</source>
+        <target state="new">Tracker ID</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.tracker_id.label</note>
+      </trans-unit>
+      <trans-unit id="5cdac475796b26d58a9ce66aebb0695e07fe9862" resname="ezrichtext.custom_tags.seenthis.attributes.big_play_button.label">
+        <source>Big Play Button</source>
+        <target state="new">Big Play Button</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.big_play_button.label</note>
+      </trans-unit>
+      <trans-unit id="c3f59373b1767837bf2d25c7f294d927686efb8d" resname="ezrichtext.custom_tags.seenthis.attributes.autoplay.label">
+        <source>Autoplay</source>
+        <target state="new">Autoplay</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.autoplay.label</note>
+      </trans-unit>
+      <trans-unit id="4f5e112f11f815605c0201cefaf5c80132ce9144" resname="ezrichtext.custom_tags.seenthis.attributes.muted.label">
+        <source>Muted</source>
+        <target state="new">Muted</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.muted.label</note>
+      </trans-unit>
+      <trans-unit id="73fca356969368744b6c6e034be9c06296231736" resname="ezrichtext.custom_tags.seenthis.attributes.play_button.label">
+        <source>Play Button</source>
+        <target state="new">Play Button</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.play_button.label</note>
+      </trans-unit>
+      <trans-unit id="8a5bf21d0160e138b74c812f983c5d1d65de4dd2" resname="ezrichtext.custom_tags.seenthis.attributes.mute_button.label">
+        <source>Mute Button</source>
+        <target state="new">Mute Button</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.mute_button.label</note>
+      </trans-unit>
+      <trans-unit id="25de92f272bc928a0ebd463264d1b3cecd03f27c" resname="ezrichtext.custom_tags.seenthis.attributes.loop.label">
+        <source>Loop</source>
+        <target state="new">Loop</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.loop.label</note>
+      </trans-unit>
+      <trans-unit id="9acd875e772a5d2e109d8910c151c5eb041877c4" resname="ezrichtext.custom_tags.seenthis.attributes.loop_count.label">
+        <source>Loop Count</source>
+        <target state="new">Loop Count</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.loop_count.label</note>
+      </trans-unit>
+      <trans-unit id="596b47718b4f34ca43edae245f4d191fd3b6b40b" resname="ezrichtext.custom_tags.seenthis.attributes.include_audio.label">
+        <source>Include audio</source>
+        <target state="new">Include audio</target>
+        <note>key: ezrichtext.custom_tags.seenthis.attributes.include_audio.label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

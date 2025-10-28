@@ -27,8 +27,8 @@
         <note>key: main__admin__dashboard</note>
       </trans-unit>
       <trans-unit id="f4b4f39ebadf7585b4c9f64cbb322622ed7a883f" resname="main__admin__dashboard_content_type">
-        <source>Dashboard content type</source>
-        <target state="new">Dashboard content type</target>
+        <source>Dashboard type</source>
+        <target state="new">Dashboard type</target>
         <note>key: main__admin__dashboard_content_type</note>
       </trans-unit>
       <trans-unit id="3533a8aedbcc80e5ddb1fe2291f87ecd8c8ef4a1" resname="main__customizable_dashboard">

@@ -11,6 +11,16 @@
         <target state="new">View all activities</target>
         <note>key: activity_log.block.all_activity</note>
       </trans-unit>
+      <trans-unit id="dafa6d445294473603590f1b910c53f2f4220d13" resname="activity_log.block.empty.action_text">
+        <source>When you perform actions, your activity history will appear here.</source>
+        <target state="new">When you perform actions, your activity history will appear here.</target>
+        <note>key: activity_log.block.empty.action_text</note>
+      </trans-unit>
+      <trans-unit id="d09f4e05891ee7a9ad965172e33726636ef02b5d" resname="activity_log.block.empty.info_text">
+        <source>No recent activity</source>
+        <target state="new">No recent activity</target>
+        <note>key: activity_log.block.empty.info_text</note>
+      </trans-unit>
       <trans-unit id="407bd0095c4944f2e9b589a989fb4fbe05bbd512" resname="activity_log.block.in">
         <source>in</source>
         <target state="new">in</target>
@@ -31,15 +41,15 @@
         <target state="new">Today</target>
         <note>key: activity_log.block.today_label</note>
       </trans-unit>
+      <trans-unit id="6c255472bc267c64323ded73b0f6d2949f36d047" resname="activity_log.data_grid.actions.create_content_label">
+        <source>created draft</source>
+        <target state="new">created draft</target>
+        <note>key: activity_log.data_grid.actions.create_content_label</note>
+      </trans-unit>
       <trans-unit id="a63c4a43f832e9aa1beaf732b0d026a692840f92" resname="activity_log.data_grid.actions.create_draft_label">
         <source>created draft</source>
         <target state="new">created draft</target>
         <note>key: activity_log.data_grid.actions.create_draft_label</note>
-      </trans-unit>
-      <trans-unit id="6762358baf65fa5f825944d73b3c3053cf0db62e" resname="activity_log.data_grid.actions.create_label">
-        <source>created</source>
-        <target state="new">created</target>
-        <note>key: activity_log.data_grid.actions.create_label</note>
       </trans-unit>
       <trans-unit id="aeeb1de82af2a039caf3bb38cccc1de66b7e16ee" resname="activity_log.data_grid.actions.delete_label">
         <source>deleted</source>
@@ -227,13 +237,13 @@
         <note>key: ibexa.activity_log.search_form.action.update</note>
       </trans-unit>
       <trans-unit id="4d50e24875a17e12ad5661133baed9e14ba46d1a" resname="ibexa.activity_log.search_form.label.action">
-        <source>Action</source>
-        <target state="new">Action</target>
+        <source>Activity type</source>
+        <target state="new">Activity type</target>
         <note>key: ibexa.activity_log.search_form.label.action</note>
       </trans-unit>
       <trans-unit id="bc639ca22b43a5112d959027ccdc88a6ddf7525e" resname="ibexa.activity_log.search_form.label.object_class">
-        <source>Object class</source>
-        <target state="new">Object class</target>
+        <source>Activity area</source>
+        <target state="new">Activity area</target>
         <note>key: ibexa.activity_log.search_form.label.object_class</note>
       </trans-unit>
       <trans-unit id="375f1d54ddd1c2183c9bb57d2b47e3ab1a9eefab" resname="ibexa.activity_log.search_form.label.time">
@@ -242,8 +252,8 @@
         <note>key: ibexa.activity_log.search_form.label.time</note>
       </trans-unit>
       <trans-unit id="5e10fd916dba74fed29db5a05dbb04365a70de3d" resname="ibexa.activity_log.search_form.label.users">
-        <source>User</source>
-        <target state="new">User</target>
+        <source>Users</source>
+        <target state="new">Users</target>
         <note>key: ibexa.activity_log.search_form.label.users</note>
       </trans-unit>
       <trans-unit id="e4b09b0fb3cb81711db1d2cc2503d480d92f7610" resname="ibexa.activity_log.search_form.object_class.content">

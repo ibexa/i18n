@@ -51,6 +51,11 @@
         <target>crwdns242304:0crwdne242304:0</target>
         <note>key: targeted_content_map.no_configuration</note>
       </trans-unit>
+      <trans-unit id="f6dfd4604427f5b09f138435994b17c79b32083c" resname="visibility.action_btn.close">
+        <source>Save and close</source>
+        <target>crwdns267437:0crwdne267437:0</target>
+        <note>key: visibility.action_btn.close</note>
+      </trans-unit>
       <trans-unit id="4b70ae03eb9f3d1a03af779f706a9c4a22cc12b5" resname="visibility.action_btn.title">
         <source>Visibility</source>
         <target>crwdns242306:0crwdne242306:0</target>

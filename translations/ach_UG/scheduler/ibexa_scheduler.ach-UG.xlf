@@ -336,6 +336,16 @@
         <target>crwdns244976:0crwdne244976:0</target>
         <note>key: schedule_hide.date_and_time</note>
       </trans-unit>
+      <trans-unit id="25f8d3a0fbb1e7eb7592a18c8c0e2670806a0316" resname="schedule_hide.hide_later">
+        <source>Hide later</source>
+        <target>crwdns268018:0crwdne268018:0</target>
+        <note>key: schedule_hide.hide_later</note>
+      </trans-unit>
+      <trans-unit id="de6ba9de6bd206e5c0569afcc9175e9740667a09" resname="schedule_hide.hide_now">
+        <source>Hide now</source>
+        <target>crwdns268020:0crwdne268020:0</target>
+        <note>key: schedule_hide.hide_now</note>
+      </trans-unit>
       <trans-unit id="1c0613de0745baf0f3227f244656ef37218404cc" resname="schedule_hide.title">
         <source>Schedule hiding</source>
         <target>crwdns244978:0crwdne244978:0</target>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="bb444ea7916dc3bebfe7e30e542d34b70684ef25" resname="ck_editor.dropdown.filter.placeholder">
+        <source>Search...</source>
+        <target>crwdns266503:0crwdne266503:0</target>
+        <note>key: ck_editor.dropdown.filter.placeholder</note>
+      </trans-unit>
+      <trans-unit id="c768333a55f97165c6eea5a8bf20edadd069e8ac" resname="ck_editor.go_to_ai_actions.label">
+        <source>Go to AI actions</source>
+        <target>crwdns266505:0crwdne266505:0</target>
+        <note>key: ck_editor.go_to_ai_actions.label</note>
+      </trans-unit>
+      <trans-unit id="509dd0749583ae0f66ff866ec5d95d9d925d4b02" resname="ck_editor.richtext.generating_msg">
+        <source>AI is generating...</source>
+        <target>crwdns266507:0crwdne266507:0</target>
+        <note>key: ck_editor.richtext.generating_msg</note>
+      </trans-unit>
+      <trans-unit id="b0749130c8737e36498c3db56f3d2682894c4e71" resname="ck_editor.richtext.preview.action.cancel">
+        <source>Stop</source>
+        <target>crwdns266509:0crwdne266509:0</target>
+        <note>key: ck_editor.richtext.preview.action.cancel</note>
+      </trans-unit>
+      <trans-unit id="722bdda134e80c2fd6045a869787cd86cac12ad6" resname="ck_editor.richtext.preview.action.insert_below">
+        <source>Insert below</source>
+        <target>crwdns266511:0crwdne266511:0</target>
+        <note>key: ck_editor.richtext.preview.action.insert_below</note>
+      </trans-unit>
+      <trans-unit id="c8e8f5fe47d435eb5c9196a9ff04fd557dd21266" resname="ck_editor.richtext.preview.action.replace">
+        <source>Replace</source>
+        <target>crwdns266513:0crwdne266513:0</target>
+        <note>key: ck_editor.richtext.preview.action.replace</note>
+      </trans-unit>
+      <trans-unit id="4625207e1f5344af1981a57121deb5e88340beb3" resname="ck_editor.richtext.preview.action.try_again">
+        <source>Try again</source>
+        <target>crwdns266515:0crwdne266515:0</target>
+        <note>key: ck_editor.richtext.preview.action.try_again</note>
+      </trans-unit>
+      <trans-unit id="a9b9679e74c193a10a19f8d2524ace448bfd5ccd" resname="ck_editor.richtext.preview.header">
+        <source>AI Assistant: %name%</source>
+        <target>crwdns266517:0%name%crwdne266517:0</target>
+        <note>key: ck_editor.richtext.preview.header</note>
+      </trans-unit>
+      <trans-unit id="8cd690d2c1f51c3faf73bc48987e2ca94ce0aa7a" resname="ck_editor.richtext.toolbar_btn">
+        <source>Improve text</source>
+        <target>crwdns266519:0crwdne266519:0</target>
+        <note>key: ck_editor.richtext.toolbar_btn</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

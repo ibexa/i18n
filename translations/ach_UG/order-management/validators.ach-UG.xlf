@@ -21,10 +21,10 @@
         <target>crwdns250053:0{{ id }}crwdne250053:0</target>
         <note>key: ibexa.order_management.customer.not_existing</note>
       </trans-unit>
-      <trans-unit id="d9713d983a7a523a0275c885d2a8ea81174d5426" resname="ibexa.order_management.money_amount.greater_than_zero">
-        <source>Money amount must be greater than 0 "{{ currency }}"</source>
-        <target>crwdns250055:0{{ currency }}crwdne250055:0</target>
-        <note>key: ibexa.order_management.money_amount.greater_than_zero</note>
+      <trans-unit id="d2edefcf0c1c4ce0a3731f8134bfb767fb6a622b" resname="ibexa.order_management.money_amount.equal_to_or_greater_than_zero">
+        <source>Money amount must be equal to or greater than 0 "{{ currency }}"</source>
+        <target>crwdns267381:0{{ currency }}crwdne267381:0</target>
+        <note>key: ibexa.order_management.money_amount.equal_to_or_greater_than_zero</note>
       </trans-unit>
       <trans-unit id="5f8e1c00b4763c6f87d308f0c8a25ec68dbd5a6c" resname="ibexa.order_management.product.not_existing">
         <source>The requested product of code "{{ code }}" cannot be found.</source>

@@ -11,6 +11,16 @@
         <target state="new">Content items (%total%)</target>
         <note>key: tab.content.headline</note>
       </trans-unit>
+      <trans-unit id="be518f14bda4028883a543ad68ad445282d0eaa5" resname="tab.content.list.no_content.action">
+        <source>Start organizing content with tags and streamline your system for easier navigation.</source>
+        <target state="new">Start organizing content with tags and streamline your system for easier navigation.</target>
+        <note>key: tab.content.list.no_content.action</note>
+      </trans-unit>
+      <trans-unit id="f5a5fe272658f85a2ec29e577f5256e4405e62c3" resname="tab.content.list.no_content.info">
+        <source>Assign content to tags</source>
+        <target state="new">Assign content to tags</target>
+        <note>key: tab.content.list.no_content.info</note>
+      </trans-unit>
       <trans-unit id="b4fd0d77ae26bc0a5e5c4cdb6f36fb43e35c72ec" resname="tab.content.name">
         <source>Name</source>
         <target state="new">Name</target>

@@ -11,6 +11,11 @@
         <target state="new">You don't have permissions to view this block</target>
         <note>key: blocks._all_.no_permissions.body</note>
       </trans-unit>
+      <trans-unit id="7abfc0a8a8b47b40e48b4f78f58a587eb45766d1" resname="dashboard.top_clicked_items">
+        <source>Top 10 clicked items</source>
+        <target state="new">Top 10 clicked items</target>
+        <note>key: dashboard.top_clicked_items</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

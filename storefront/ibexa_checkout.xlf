@@ -21,6 +21,11 @@
         <target state="new">Continue shopping</target>
         <note>key: ibexa_storefront.checkout.layout.continue.shopping</note>
       </trans-unit>
+      <trans-unit id="af530eab271b612e7cfd1eb2cd019c21dbe5565c" resname="ibexa_storefront.checkout.summary.discount">
+        <source>Discount</source>
+        <target state="new">Discount</target>
+        <note>key: ibexa_storefront.checkout.summary.discount</note>
+      </trans-unit>
       <trans-unit id="a7e4efa258dbf99023c761e8749710166c215c24" resname="ibexa_storefront.checkout.summary.quick_summary.label">
         <source>Order</source>
         <target state="new">Order</target>

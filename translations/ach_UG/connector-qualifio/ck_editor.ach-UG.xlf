@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="1605067bba11ffe84a7cc06b504b8533f1c736e6" resname="dropdown.filter.placeholder">
+        <source>Search...</source>
+        <target>crwdns266727:0crwdne266727:0</target>
+        <note>key: dropdown.filter.placeholder</note>
+      </trans-unit>
+      <trans-unit id="abaaed3254a9f54c76fd52488827b15ef65b67b2" resname="measurement_input.alert.title">
+        <source>If size fields are blank, the system sets default template values. Adjust them for better results.</source>
+        <target>crwdns266729:0crwdne266729:0</target>
+        <note>key: measurement_input.alert.title</note>
+      </trans-unit>
+      <trans-unit id="819089ebf670b8771d9ad06a5cc882976d050bbd" resname="measurement_input.unit.label">
+        <source>Unit</source>
+        <target>crwdns266731:0crwdne266731:0</target>
+        <note>key: measurement_input.unit.label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

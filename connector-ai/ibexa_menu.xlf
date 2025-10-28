@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="b43ed12c555180c27b8b91b1223eba7b1036961a" resname="action_configuration_view__context_menu__delete">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: action_configuration_view__context_menu__delete</note>
+      </trans-unit>
+      <trans-unit id="a963f7fd47b13ae3cc2d01cda87e681021541d87" resname="action_configuration_view__context_menu__edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: action_configuration_view__context_menu__edit</note>
+      </trans-unit>
+      <trans-unit id="35908f078e5f374a018f5b7f4426ce9a97044d1f" resname="main__action_configuration_list">
+        <source>AI actions</source>
+        <target state="new">AI actions</target>
+        <note>key: main__action_configuration_list</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

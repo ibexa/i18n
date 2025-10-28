@@ -11,6 +11,11 @@
         <target>crwdns247008:0crwdne247008:0</target>
         <note>key: actions.add_to_bookmarks</note>
       </trans-unit>
+      <trans-unit id="5c2d711483b0e2c391eb8d2797bcce8e2240ad63" resname="actions.add_to_bookmarks.with_count">
+        <source>Add to bookmarks (%count%)</source>
+        <target>crwdns267195:0%count%crwdne267195:0</target>
+        <note>key: actions.add_to_bookmarks.with_count</note>
+      </trans-unit>
       <trans-unit id="63c03cf8e5d0caa5cea425323c6e1b28e09cb102" resname="actions.add_translation">
         <source>Add translation</source>
         <target>crwdns247010:0crwdne247010:0</target>
@@ -20,6 +25,16 @@
         <source>Create</source>
         <target>crwdns247012:0crwdne247012:0</target>
         <note>key: actions.create_content</note>
+      </trans-unit>
+      <trans-unit id="0cbbb9f431b9cd325afd82280b0a9cd085c206f9" resname="actions.delete.label.delete">
+        <source>Delete</source>
+        <target>crwdns267197:0crwdne267197:0</target>
+        <note>key: actions.delete.label.delete</note>
+      </trans-unit>
+      <trans-unit id="005bc5a771df74755bf21b7a4267394bc7b715e1" resname="actions.delete.label.trash">
+        <source>Send to trash</source>
+        <target>crwdns267199:0crwdne267199:0</target>
+        <note>key: actions.delete.label.trash</note>
       </trans-unit>
       <trans-unit id="5924115d912717281eac1da2b55fed6abf9187e8" resname="actions.edit_content">
         <source>Edit</source>
@@ -40,6 +55,11 @@
         <source>Remove from bookmarks</source>
         <target>crwdns247018:0crwdne247018:0</target>
         <note>key: actions.remove_from_bookmarks</note>
+      </trans-unit>
+      <trans-unit id="ea0fd51d6c9aa0d4cc959eaa763d9f3a303ba366" resname="actions.remove_from_bookmarks.with_count">
+        <source>Remove from bookmarks (%count%)</source>
+        <target>crwdns267201:0%count%crwdne267201:0</target>
+        <note>key: actions.remove_from_bookmarks.with_count</note>
       </trans-unit>
       <trans-unit id="47823da8ee4bb5955e4e0ed05baac71c716b675a" resname="actions.reveal_content">
         <source>Reveal</source>
@@ -146,15 +166,65 @@
         <target>crwdns241862:0crwdne241862:0</target>
         <note>key: content.tree_name</note>
       </trans-unit>
-      <trans-unit id="52f7a6a69bf6d18c4aee124702514f8b3a882d9c" resname="delete.send_to_trash.modal.body">
-        <source>Are you sure you want to send the selected Content item(s) to Trash?</source>
-        <target>crwdns241864:0crwdne241864:0</target>
-        <note>key: delete.send_to_trash.modal.body</note>
+      <trans-unit id="26902ae74a03f81c299e5a32051f2ab1eb69d63f" resname="content_type_suggestions">
+        <source>Suggestions</source>
+        <target>crwdns267203:0crwdne267203:0</target>
+        <note>key: content_type_suggestions</note>
       </trans-unit>
-      <trans-unit id="fda5d31392f746288f371fdb64897146e018a606" resname="load_content_types.error">
-        <source>Cannot load content types</source>
-        <target>crwdns253362:0crwdne253362:0</target>
-        <note>key: load_content_types.error</note>
+      <trans-unit id="e34400ade1c1b2ae70185c618890d57bcdd7cd4c" resname="modal.delete.confirm.message">
+        <source>I understand the consequences of this action.</source>
+        <target>crwdns267205:0crwdne267205:0</target>
+        <note>key: modal.delete.confirm.message</note>
+      </trans-unit>
+      <trans-unit id="716238417aca49d3f51f5ede6a209651fc1a8ff7" resname="modal.delete.header.content">
+        <source>Are you sure you want to delete this Content?</source>
+        <target>crwdns267207:0crwdne267207:0</target>
+        <note>key: modal.delete.header.content</note>
+      </trans-unit>
+      <trans-unit id="cbc218de6c47ee6ee7c44b47c80de997910155d6" resname="modal.delete.header.send_to_trash_draft_warning">
+        <source>Sending this content item to Trash will also delete all drafts of content items that haven’t been published yet, and belong to the trashed subtree.</source>
+        <target>crwdns267209:0crwdne267209:0</target>
+        <note>key: modal.delete.header.send_to_trash_draft_warning</note>
+      </trans-unit>
+      <trans-unit id="83b27a0c6a8a29a8ef2e4324395e0f4433c221f1" resname="modal.delete.header.send_to_trash_draft_warning_header">
+        <source>Drafts</source>
+        <target>crwdns267211:0crwdne267211:0</target>
+        <note>key: modal.delete.header.send_to_trash_draft_warning_header</note>
+      </trans-unit>
+      <trans-unit id="034e838cc1c3f307b9489d2729be7f7cccd74790" resname="modal.delete.header.trash_content">
+        <source>Are you sure you want to send this Content item to Trash?</source>
+        <target>crwdns267213:0crwdne267213:0</target>
+        <note>key: modal.delete.header.trash_content</note>
+      </trans-unit>
+      <trans-unit id="6b586c5278d83727435b4d9920999529c816fe11" resname="modal.delete.header.user">
+        <source>Are you sure you want to delete this User?</source>
+        <target>crwdns267215:0crwdne267215:0</target>
+        <note>key: modal.delete.header.user</note>
+      </trans-unit>
+      <trans-unit id="3649515c9a90306d77fbc9036a17c52e69036815" resname="modal.delete.reverse_relation.header">
+        <source>Conflict with reverse Relations</source>
+        <target>crwdns267217:0crwdne267217:0</target>
+        <note>key: modal.delete.reverse_relation.header</note>
+      </trans-unit>
+      <trans-unit id="740544fa084825528e315c784b956aeedff1f17e" resname="modal.delete.reverse_relation.message">
+        <source>'%name%' is in use by %reverseRelationsCount% Content item(s). You should remove all reverse Relations before deleting the Content item.</source>
+        <target>crwdns267219:0%name%crwdnd267219:0%reverseRelationsCount%crwdne267219:0</target>
+        <note>key: modal.delete.reverse_relation.message</note>
+      </trans-unit>
+      <trans-unit id="7959752d22fff324746c5d3d2074c32fb5416ee7" resname="modal.delete.subitems.header">
+        <source>Sub-items</source>
+        <target>crwdns267221:0crwdne267221:0</target>
+        <note>key: modal.delete.subitems.header</note>
+      </trans-unit>
+      <trans-unit id="7f6adca12935314d020382a30ba5b64251f2e5bd" resname="modal.delete.subitems.message">
+        <source>Deleting '%name%' and its %totalSubitemsCount% Content item(s) will also delete the sub-items of this Location.</source>
+        <target>crwdns267223:0%name%crwdnd267223:0%totalSubitemsCount%crwdne267223:0</target>
+        <note>key: modal.delete.subitems.message</note>
+      </trans-unit>
+      <trans-unit id="97eed8ae8abeda0a88005c5adee8bc96a241852e" resname="modal.delete.subitems.trash_message">
+        <source>Sending '%name%' and its %totalSubitemsCount% Content item(s) to Trash will also send the sub-items of this Location to Trash.</source>
+        <target>crwdns267225:0%name%crwdnd267225:0%totalSubitemsCount%crwdne267225:0</target>
+        <note>key: modal.delete.subitems.trash_message</note>
       </trans-unit>
     </body>
   </file>

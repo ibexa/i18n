@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="93acc01c3d9c13bef41a11bf64721ebb52676a68" resname="checkout.error.discount_code_unusable">
+        <source>Discount code cannot be used anymore. Please revisit your prices or use different code.</source>
+        <target>crwdns267512:0crwdne267512:0</target>
+        <note>key: checkout.error.discount_code_unusable</note>
+      </trans-unit>
+      <trans-unit id="2c3218d00875c8a2111fa31416a714f82f558d32" resname="discount.create.details.conditions.discount_code.no">
+        <source>No</source>
+        <target>crwdns267514:0crwdne267514:0</target>
+        <note>key: discount.create.details.conditions.discount_code.no</note>
+      </trans-unit>
+      <trans-unit id="f7341bd3ee79b80b41c9f28ca80fc07c271c56a0" resname="discount.create.details.conditions.discount_code.yes">
+        <source>Yes</source>
+        <target>crwdns267516:0crwdne267516:0</target>
+        <note>key: discount.create.details.conditions.discount_code.yes</note>
+      </trans-unit>
+      <trans-unit id="9f6124dd13e022d7a921260f173b5396869b98b1" resname="discount.details.conditions.discount_code.usage_limit.only_once">
+        <source>Only once</source>
+        <target>crwdns267518:0crwdne267518:0</target>
+        <note>key: discount.details.conditions.discount_code.usage_limit.only_once</note>
+      </trans-unit>
+      <trans-unit id="9dc7cf3faf8a297887b083f9faf2ab589d5d06e6" resname="discount.details.conditions.discount_code.usage_limit.times">
+        <source>times</source>
+        <target>crwdns267520:0crwdne267520:0</target>
+        <note>key: discount.details.conditions.discount_code.usage_limit.times</note>
+      </trans-unit>
+      <trans-unit id="a17189b9ed151344abaea8576241385644e8914e" resname="discount.details.conditions.discount_code.usage_limit.unlimited">
+        <source>Unlimited</source>
+        <target>crwdns267522:0crwdne267522:0</target>
+        <note>key: discount.details.conditions.discount_code.usage_limit.unlimited</note>
+      </trans-unit>
+      <trans-unit id="761ae1f286e0e62f7b1c7ae7b3fbf65465f725bf" resname="discount.form.conditions.uses.defined_number_of_times">
+        <source>Defined number of times</source>
+        <target>crwdns267524:0crwdne267524:0</target>
+        <note>key: discount.form.conditions.uses.defined_number_of_times</note>
+      </trans-unit>
+      <trans-unit id="6d92c191368d8acacd6181412009c50980db3395" resname="discount.form.conditions.uses.infinite">
+        <source>Infinite number of times</source>
+        <target>crwdns267526:0crwdne267526:0</target>
+        <note>key: discount.form.conditions.uses.infinite</note>
+      </trans-unit>
+      <trans-unit id="feff1661ef6566a9c76d9367a28b9f20e531b965" resname="discount.form.conditions.uses.infinity">
+        <source>Infinite number of times</source>
+        <target>crwdns267528:0crwdne267528:0</target>
+        <note>key: discount.form.conditions.uses.infinity</note>
+      </trans-unit>
+      <trans-unit id="4362b6cb20b09ea464e695f0edd53be6c3e867b2" resname="discount.form.conditions.uses.once">
+        <source>Only once</source>
+        <target>crwdns267530:0crwdne267530:0</target>
+        <note>key: discount.form.conditions.uses.once</note>
+      </trans-unit>
+      <trans-unit id="aaf61a92e45c8c78fe66a011ab643c26074de066" resname="discount.form.global_usage_count.label">
+        <source>All customers can use discount maximum</source>
+        <target>crwdns267532:0crwdne267532:0</target>
+        <note>key: discount.form.global_usage_count.label</note>
+      </trans-unit>
+      <trans-unit id="3e197d7968e9b489d437b629a70be50843f23c99" resname="discount.form.usage_count.label">
+        <source>Customer can use discount code</source>
+        <target>crwdns267534:0crwdne267534:0</target>
+        <note>key: discount.form.usage_count.label</note>
+      </trans-unit>
+      <trans-unit id="14f8a98674e7f5761647abcb7fa5216338c761af" resname="discount.form.wizard.discount_code_toggle">
+        <source>Customer must use discount code</source>
+        <target>crwdns267536:0crwdne267536:0</target>
+        <note>key: discount.form.wizard.discount_code_toggle</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="b67d8a40f95c77bdbc6e54dabf2dc417d5e2fa39" resname="Select accuracy">
+        <source>Select accuracy</source>
+        <target state="new">Select accuracy</target>
+        <note>key: Select accuracy</note>
+      </trans-unit>
+      <trans-unit id="ae606b92d94db64caa93471524454c9a2235e98e" resname="ibexa.product_catalog.attribute.form.accuracy.day_eg_select_label">
+        <source>Day (2020-01-01)</source>
+        <target state="new">Day (2020-01-01)</target>
+        <note>key: ibexa.product_catalog.attribute.form.accuracy.day_eg_select_label</note>
+      </trans-unit>
+      <trans-unit id="8df862d28947bc810c8ad22ee25ca2b5ca1349f4" resname="ibexa.product_catalog.attribute.form.accuracy.minute_eg_select_label">
+        <source>Minute (2020-01-01 14:30)</source>
+        <target state="new">Minute (2020-01-01 14:30)</target>
+        <note>key: ibexa.product_catalog.attribute.form.accuracy.minute_eg_select_label</note>
+      </trans-unit>
+      <trans-unit id="e87f89f8912e09df61a0d33c848a92573b549b22" resname="ibexa.product_catalog.attribute.form.accuracy.month_eg_select_label">
+        <source>Month (January 2020)</source>
+        <target state="new">Month (January 2020)</target>
+        <note>key: ibexa.product_catalog.attribute.form.accuracy.month_eg_select_label</note>
+      </trans-unit>
+      <trans-unit id="0789cc209f3351ae245ccde5859dc1cb078f1952" resname="ibexa.product_catalog.attribute.form.accuracy.second_eg_select_label">
+        <source>Second (2020-01-01 14:30:45)</source>
+        <target state="new">Second (2020-01-01 14:30:45)</target>
+        <note>key: ibexa.product_catalog.attribute.form.accuracy.second_eg_select_label</note>
+      </trans-unit>
+      <trans-unit id="010cb0dfa4bc6886c748794118b5762a3f1ff8ef" resname="ibexa.product_catalog.attribute.form.accuracy.trimester_eg_select_label">
+        <source>Quarter (Q1 2020)</source>
+        <target state="new">Quarter (Q1 2020)</target>
+        <note>key: ibexa.product_catalog.attribute.form.accuracy.trimester_eg_select_label</note>
+      </trans-unit>
+      <trans-unit id="6dee5490ccbd4817d200a62dc38bc26edfe5a095" resname="ibexa.product_catalog.attribute.form.accuracy.year_eg_select_label">
+        <source>Year (2020)</source>
+        <target state="new">Year (2020)</target>
+        <note>key: ibexa.product_catalog.attribute.form.accuracy.year_eg_select_label</note>
+      </trans-unit>
+      <trans-unit id="69d7e16a2e67b9b13f6d6c5c4ac8b0c9d06ff318" resname="ibexa.product_catalog.attribute.form.accuracy_help">
+        <source>Choose a predefined accuracy for the datetime.</source>
+        <target state="new">Choose a predefined accuracy for the datetime.</target>
+        <note>key: ibexa.product_catalog.attribute.form.accuracy_help</note>
+      </trans-unit>
+      <trans-unit id="84dee52c6234d53cfb2a94e84b12416fcd6d5cbb" resname="ibexa.product_catalog.attribute.form.accuracy_select_label">
+        <source>Date and time accuracy</source>
+        <target state="new">Date and time accuracy</target>
+        <note>key: ibexa.product_catalog.attribute.form.accuracy_select_label</note>
+      </trans-unit>
+      <trans-unit id="34212e835179e36abd8f732f5c3284d4f6c7c93c" resname="ibexa.product_catalog.attribute.form.month.april">
+        <source>April</source>
+        <target state="new">April</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.april</note>
+      </trans-unit>
+      <trans-unit id="38ce1481efaf1c856e8e765605cc584573b7fdcc" resname="ibexa.product_catalog.attribute.form.month.august">
+        <source>August</source>
+        <target state="new">August</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.august</note>
+      </trans-unit>
+      <trans-unit id="3f5389dd18c112e795527950a044cb2cfaee13fd" resname="ibexa.product_catalog.attribute.form.month.december">
+        <source>December</source>
+        <target state="new">December</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.december</note>
+      </trans-unit>
+      <trans-unit id="e75615aacc60c40a370ec567ca0f4debe6afcd83" resname="ibexa.product_catalog.attribute.form.month.february">
+        <source>February</source>
+        <target state="new">February</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.february</note>
+      </trans-unit>
+      <trans-unit id="721f86f81434a0d369c1aabe5a122f6a1ddadace" resname="ibexa.product_catalog.attribute.form.month.january">
+        <source>January</source>
+        <target state="new">January</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.january</note>
+      </trans-unit>
+      <trans-unit id="a59af19e15ea6740a48fcd3c99ae7fb303f7f452" resname="ibexa.product_catalog.attribute.form.month.july">
+        <source>July</source>
+        <target state="new">July</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.july</note>
+      </trans-unit>
+      <trans-unit id="2a992bc7fdcfc6a48fe2d5cb9cb49b66d9bb6dfb" resname="ibexa.product_catalog.attribute.form.month.june">
+        <source>June</source>
+        <target state="new">June</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.june</note>
+      </trans-unit>
+      <trans-unit id="baddb885ac0a52a884d9b0f396b9b1dd88da4fe1" resname="ibexa.product_catalog.attribute.form.month.march">
+        <source>March</source>
+        <target state="new">March</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.march</note>
+      </trans-unit>
+      <trans-unit id="312ee1941edc54b716f9044c775490c6cb9f9af2" resname="ibexa.product_catalog.attribute.form.month.may">
+        <source>May</source>
+        <target state="new">May</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.may</note>
+      </trans-unit>
+      <trans-unit id="d0b92da1f8960f9ed74b7d22b2acc3489a39bb2d" resname="ibexa.product_catalog.attribute.form.month.november">
+        <source>November</source>
+        <target state="new">November</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.november</note>
+      </trans-unit>
+      <trans-unit id="727a260a88331e71adb33befdecc9cb7e266af3b" resname="ibexa.product_catalog.attribute.form.month.october">
+        <source>October</source>
+        <target state="new">October</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.october</note>
+      </trans-unit>
+      <trans-unit id="05b10187c9dd2213d6010e6c4b67d9bffe951527" resname="ibexa.product_catalog.attribute.form.month.september">
+        <source>September</source>
+        <target state="new">September</target>
+        <note>key: ibexa.product_catalog.attribute.form.month.september</note>
+      </trans-unit>
+      <trans-unit id="90161a5b456703a3e6d63acbeea6c57978af3732" resname="ibexa.product_catalog.attribute.form.month_select_label">
+        <source>Month</source>
+        <target state="new">Month</target>
+        <note>key: ibexa.product_catalog.attribute.form.month_select_label</note>
+      </trans-unit>
+      <trans-unit id="15766e0214f42737ede3e6ab01a0c96c84456c72" resname="ibexa.product_catalog.attribute.form.trimester.q1">
+        <source>Q1</source>
+        <target state="new">Q1</target>
+        <note>key: ibexa.product_catalog.attribute.form.trimester.q1</note>
+      </trans-unit>
+      <trans-unit id="ad56ed78e22671c366b8b347282514f58943d695" resname="ibexa.product_catalog.attribute.form.trimester.q2">
+        <source>Q2</source>
+        <target state="new">Q2</target>
+        <note>key: ibexa.product_catalog.attribute.form.trimester.q2</note>
+      </trans-unit>
+      <trans-unit id="5f1f7c4e252befd559d1db70c44d917d28fb49fc" resname="ibexa.product_catalog.attribute.form.trimester.q3">
+        <source>Q3</source>
+        <target state="new">Q3</target>
+        <note>key: ibexa.product_catalog.attribute.form.trimester.q3</note>
+      </trans-unit>
+      <trans-unit id="bd07f5f0f515092536f2dab5cb1050eb4212ebd2" resname="ibexa.product_catalog.attribute.form.trimester.q4">
+        <source>Q4</source>
+        <target state="new">Q4</target>
+        <note>key: ibexa.product_catalog.attribute.form.trimester.q4</note>
+      </trans-unit>
+      <trans-unit id="f6fd50625f549b8338988a70273bc3b38b21dfa2" resname="ibexa.product_catalog.attribute.form.trimester_select_label">
+        <source>Quarter</source>
+        <target state="new">Quarter</target>
+        <note>key: ibexa.product_catalog.attribute.form.trimester_select_label</note>
+      </trans-unit>
+      <trans-unit id="e66912d668fc9aa81c337cf8d90e8f479c513e17" resname="ibexa.product_catalog.attribute.form.year_select_label">
+        <source>Year</source>
+        <target state="new">Year</target>
+        <note>key: ibexa.product_catalog.attribute.form.year_select_label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

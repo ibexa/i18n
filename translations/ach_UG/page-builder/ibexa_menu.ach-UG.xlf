@@ -36,6 +36,11 @@
         <target>crwdns242324:0crwdne242324:0</target>
         <note>key: page_builder__infobar__edit__actions__save_draft</note>
       </trans-unit>
+      <trans-unit id="0ebcfc43de6685b313777b7951474b2aa812252d" resname="page_builder__infobar__edit__actions__save_draft_and_close">
+        <source>Save and close</source>
+        <target>crwdns267383:0crwdne267383:0</target>
+        <note>key: page_builder__infobar__edit__actions__save_draft_and_close</note>
+      </trans-unit>
       <trans-unit id="0ba863bd868948ade36a1fc746f300f9f4ec5c28" resname="page_builder__infobar__preview__tools__add_translation">
         <source>Add translation</source>
         <target>crwdns242326:0crwdne242326:0</target>

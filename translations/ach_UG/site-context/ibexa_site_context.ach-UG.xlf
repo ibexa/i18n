@@ -22,13 +22,13 @@
         <note>key: full_preview.additional_actions.full_view</note>
       </trans-unit>
       <trans-unit id="2ff4fcff8545b6bbedbf982fc14cbee93790eb71" resname="ibexa.site_context.preview.no_available.helper">
-        <source>You can’t get the preview for this language because it is not added to this site.</source>
-        <target>crwdns252874:0crwdne252874:0</target>
+        <source>This content doesn't have translation in the selected language. To see the preview, create a translation.</source>
+        <target>crwdns267451:0crwdne267451:0</target>
         <note>key: ibexa.site_context.preview.no_available.helper</note>
       </trans-unit>
       <trans-unit id="3178c996a08cfe145df75ebef612944cfc8ed0aa" resname="ibexa.site_context.preview.no_available.main">
-        <source>Preview is not available</source>
-        <target>crwdns252876:0crwdne252876:0</target>
+        <source>Preview isn't available in selected language</source>
+        <target>crwdns267453:0crwdne267453:0</target>
         <note>key: ibexa.site_context.preview.no_available.main</note>
       </trans-unit>
       <trans-unit id="bc905a91df55d75c058edd1437b6588a5b1d1a4f" resname="ibexa.site_context.settings.location_preview.description">
@@ -65,6 +65,11 @@
         <source>Shows all content you have access to. Some preview options are limited.</source>
         <target>crwdns252890:0crwdne252890:0</target>
         <note>key: site_context.dropdown.placeholder.description</note>
+      </trans-unit>
+      <trans-unit id="47bc8fd2cc4bee1ade4a135fe4806b6b79827fca" resname="site_context.switcher.not_available.tooltip">
+        <source>Site context is active only when you are in the content structure.</source>
+        <target>crwdns267455:0crwdne267455:0</target>
+        <note>key: site_context.switcher.not_available.tooltip</note>
       </trans-unit>
       <trans-unit id="0ea999ae07d7f0b23cc3b6c734a8e9e7bdbdf1d5" resname="tab.preview.name">
         <source>View</source>

@@ -6,10 +6,15 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="f0f70ee5478946ad7e476e4aabd461bc16c13bae" resname="ezrichtext.classes.class.label">
-        <source>Custom Classes</source>
-        <target>Custom Classes</target>
-        <note>key: ezrichtext.classes.class.label</note>
+      <trans-unit id="3a69701f025421a15e275cf0265754309adc3c92" resname="content_edit__sidebar_right__end_collaboration">
+        <source>End collaboration</source>
+        <target state="new">End collaboration</target>
+        <note>key: content_edit__sidebar_right__end_collaboration</note>
+      </trans-unit>
+      <trans-unit id="8e82354aebcea0c9a7aa2eb4d45b2a97519d153e" resname="content_edit__sidebar_right__leave">
+        <source>Leave</source>
+        <target state="new">Leave</target>
+        <note>key: content_edit__sidebar_right__leave</note>
       </trans-unit>
     </body>
   </file>
