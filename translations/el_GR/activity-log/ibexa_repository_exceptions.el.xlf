@@ -6,11 +6,7 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="cadbd405bae45bc2b3d609a3081e0185706a7828" resname="security.activity_log.access_forbidden">
-        <source>Access forbidden</source>
-        <target state="needs-translation">Access forbidden</target>
-        <note>key: security.activity_log.access_forbidden</note>
-      </trans-unit>
+      
     </body>
   </file>
 </xliff>
