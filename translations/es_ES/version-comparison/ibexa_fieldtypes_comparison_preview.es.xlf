@@ -16,11 +16,6 @@
         <target state="translated">Nombre</target>
         <note>key: ezauthor.name</note>
       </trans-unit>
-      <trans-unit id="540d6bae1cf130f98f00799d4ef1c6f6b5752907" resname="ezboolean.no">
-        <source>No</source>
-        <target state="needs-translation">No</target>
-        <note>key: ezboolean.no</note>
-      </trans-unit>
       <trans-unit id="dfb5fd4a5dec38539847d92bb5e8417c5b82b96a" resname="ezboolean.yes">
         <source>Yes</source>
         <target state="translated">Sí</target>
@@ -81,11 +76,6 @@
         <target state="translated">Bucle</target>
         <note>key: ezmedia.loop</note>
       </trans-unit>
-      <trans-unit id="c351fa9d7e7c134199f7f49e0cd010dedafb4e13" resname="ezmedia.no">
-        <source>No</source>
-        <target state="needs-translation">No</target>
-        <note>key: ezmedia.no</note>
-      </trans-unit>
       <trans-unit id="099406392256d6e1816e54f4898f09b9ae005ffa" resname="ezmedia.size">
         <source>Size</source>
         <target state="translated">Tamaño</target>
@@ -106,11 +96,6 @@
         <target state="translated">Sí</target>
         <note>key: ezmedia.yes</note>
       </trans-unit>
-      <trans-unit id="df17c526bb1674b64ac8a4cd4eda1af9e0c5e7e5" resname="ezobjectrelation.content_type">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: ezobjectrelation.content_type</note>
-      </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
         <source>Name</source>
         <target state="translated">Nombre</target>
@@ -121,60 +106,20 @@
         <target state="translated">Relación única</target>
         <note>key: ezobjectrelation.single_relation</note>
       </trans-unit>
-      <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ezobjectrelation.version_created">
-        <source>Version created</source>
-        <target state="needs-translation">Version created</target>
-        <note>key: ezobjectrelation.version_created</note>
-      </trans-unit>
-      <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: ezobjectrelationlist.content_type</note>
-      </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
         <source>Name</source>
         <target state="translated">Nombre</target>
         <note>key: ezobjectrelationlist.name</note>
-      </trans-unit>
-      <trans-unit id="bc5660c5a80b1e77cb6bbe8fe9040ff5fb6b0bec" resname="ezobjectrelationlist.version_created">
-        <source>Version created</source>
-        <target state="needs-translation">Version created</target>
-        <note>key: ezobjectrelationlist.version_created</note>
-      </trans-unit>
-      <trans-unit id="96af58f2bb1ab9fbf0a4cf8857f5dc594c74b361" resname="ezurl.link">
-        <source>URL</source>
-        <target state="needs-translation">URL</target>
-        <note>key: ezurl.link</note>
       </trans-unit>
       <trans-unit id="f3fd970cc20a838371851ba9d0da8588c00a7b96" resname="ezurl.text">
         <source>Text</source>
         <target state="translated">Texto</target>
         <note>key: ezurl.text</note>
       </trans-unit>
-      <trans-unit id="4c6c52e859ac63f2403af879ec879b00dfdbef19" resname="field.columns">
-        <source>Columns</source>
-        <target state="needs-translation">Columns</target>
-        <note>key: field.columns</note>
-      </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
         <source>This field is empty</source>
         <target state="translated">Este campo está vacío</target>
         <note>key: fieldview.field.empty</note>
-      </trans-unit>
-      <trans-unit id="32b70d8863b03f43c344a34191874401ca2070d4" resname="fieldview.no_version.action_text">
-        <source>Select version</source>
-        <target state="needs-translation">Select version</target>
-        <note>key: fieldview.no_version.action_text</note>
-      </trans-unit>
-      <trans-unit id="b205b0d859832da3f3ba317c7ba61d69b207e248" resname="fieldview.no_version.img.alt_text">
-        <source>No version selected</source>
-        <target state="needs-translation">No version selected</target>
-        <note>key: fieldview.no_version.img.alt_text</note>
-      </trans-unit>
-      <trans-unit id="7f554b76d28afffc2491c80e9b8ecab8f52c5c78" resname="fieldview.no_version.info_text">
-        <source>No version selected</source>
-        <target state="needs-translation">No version selected</target>
-        <note>key: fieldview.no_version.info_text</note>
       </trans-unit>
     </body>
   </file>
