@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="7cf4c5c82eb9aa188d9b8514ef884df8eb46e807" resname="dashboard.charts.collected_events">
-        <source>Collected events</source>
-        <target state="needs-translation">Collected events</target>
-        <note>key: dashboard.charts.collected_events</note>
-      </trans-unit>
       <trans-unit id="b079a64eb2a0051a7dc0822897b34f12abea00e4" resname="dashboard.charts.conversion_rate">
         <source>Conversion rate</source>
         <target state="translated">Współczynnik konwersji</target>
@@ -20,11 +15,6 @@
         <source>%start_date% to %end_date%</source>
         <target state="translated">%start_date% do %end_date%</target>
         <note>key: dashboard.charts.date_time_range</note>
-      </trans-unit>
-      <trans-unit id="4005401b30938d46f88ea83a27a3c7cd37382bad" resname="dashboard.charts.recommendation_calls">
-        <source>Recommendation calls</source>
-        <target state="needs-translation">Recommendation calls</target>
-        <note>key: dashboard.charts.recommendation_calls</note>
       </trans-unit>
       <trans-unit id="398569322a5cf470a8d3baa0cbbf8d5a10ffb180" resname="dashboard.charts.revenue">
         <source>Revenue</source>
@@ -106,16 +96,6 @@
         <target state="translated">Segmenty</target>
         <note>key: model.details.segments</note>
       </trans-unit>
-      <trans-unit id="fcfa9bf497c6d6a9879668a344218de96d883ccb" resname="model.details.submodel_type">
-        <source>Submodel type</source>
-        <target state="needs-translation">Submodel type</target>
-        <note>key: model.details.submodel_type</note>
-      </trans-unit>
-      <trans-unit id="c1e495f258d614d6a0f42eb02d225a1a6b161779" resname="model.details.submodels">
-        <source>Submodels</source>
-        <target state="needs-translation">Submodels</target>
-        <note>key: model.details.submodels</note>
-      </trans-unit>
       <trans-unit id="f4ea8484fc72f81baae5ffbffa350e9bcf96bd68" resname="model.details.subtitle">
         <source>Model</source>
         <target state="translated">Model</target>
@@ -146,11 +126,6 @@
         <target state="translated">Szukaj...</target>
         <note>key: product_type.edit.search</note>
       </trans-unit>
-      <trans-unit id="3e6d2ee994c937e372dd66650cf0a4e98dd6ef10" resname="scenario.edit.boost_item.enable">
-        <source>Enable item boosting</source>
-        <target state="needs-translation">Enable item boosting</target>
-        <note>key: scenario.edit.boost_item.enable</note>
-      </trans-unit>
       <trans-unit id="7bf8cc529dfba3144d077a880d1afa6c2e9e86c7" resname="scenario.edit.boost_item.info">
         <source>User attribute has the same name</source>
         <target state="translated">Atrybut użytkownika ma tę samą nazwę</target>
@@ -166,20 +141,10 @@
         <target state="translated">pozycja</target>
         <note>key: scenario.edit.boost_item.positions</note>
       </trans-unit>
-      <trans-unit id="d6d9cb1457e10f9fd7f647869f142cf41c1f7eb2" resname="scenario.edit.exclude_minimal_item_price">
-        <source>Minimum price of the recommended product</source>
-        <target state="needs-translation">Minimum price of the recommended product</target>
-        <note>key: scenario.edit.exclude_minimal_item_price</note>
-      </trans-unit>
       <trans-unit id="306b38eeccd457e430728f21bf8b526d39ca6dc7" resname="scenario.edit.exclude_minimal_item_price.label">
         <source>Amount</source>
         <target state="translated">Kwota</target>
         <note>key: scenario.edit.exclude_minimal_item_price.label</note>
-      </trans-unit>
-      <trans-unit id="ed15523a6915ee689ea6ecf441c42e317662447e" resname="scenario.edit.exclude_repeated_recommendations.">
-        <source>Max. repeated shows of identical recommendations per session.</source>
-        <target state="needs-translation">Max. repeated shows of identical recommendations per session.</target>
-        <note>key: scenario.edit.exclude_repeated_recommendations.</note>
       </trans-unit>
       <trans-unit id="179113ce1d5ce4a4d252cbe1db23bbc8686ab52e" resname="scenario.edit.exclude_repeated_recommendations.label">
         <source>Amount</source>
@@ -210,11 +175,6 @@
         <source><![CDATA[I have read and agree to the <a class='ibexa-perso-welcome__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
         <target state="translated"><![CDATA[Przeczytałem i zgadzam się z <a class='ibexa-perso-welcome__show-modal-button' href='#'>Regulaminem.</a>]]></target>
         <note>key: welcome.form.tems_accept</note>
-      </trans-unit>
-      <trans-unit id="8ca1884015c59d5115a04c940d0eaa0cb6d938b6" resname="welcome.form.tems_accept_description">
-        <source>If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</source>
-        <target state="needs-translation">If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</target>
-        <note>key: welcome.form.tems_accept_description</note>
       </trans-unit>
     </body>
   </file>
