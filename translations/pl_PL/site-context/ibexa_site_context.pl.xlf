@@ -21,16 +21,6 @@
         <target state="translated">Pełny widok</target>
         <note>key: full_preview.additional_actions.full_view</note>
       </trans-unit>
-      <trans-unit id="2ff4fcff8545b6bbedbf982fc14cbee93790eb71" resname="ibexa.site_context.preview.no_available.helper">
-        <source>You can’t get the preview for this language because it is not added to this site.</source>
-        <target state="translated">Nie możesz uzyskać podglądu dla tego języka, ponieważ nie jest on dodany do tej witryny.</target>
-        <note>key: ibexa.site_context.preview.no_available.helper</note>
-      </trans-unit>
-      <trans-unit id="3178c996a08cfe145df75ebef612944cfc8ed0aa" resname="ibexa.site_context.preview.no_available.main">
-        <source>Preview is not available</source>
-        <target state="translated">Podgląd nie jest dostępny</target>
-        <note>key: ibexa.site_context.preview.no_available.main</note>
-      </trans-unit>
       <trans-unit id="bc905a91df55d75c058edd1437b6588a5b1d1a4f" resname="ibexa.site_context.settings.location_preview.description">
         <source>Location preview</source>
         <target state="translated">Podgląd lokalizacji</target>
