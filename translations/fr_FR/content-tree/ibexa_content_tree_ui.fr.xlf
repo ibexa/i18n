@@ -146,16 +146,6 @@
         <target state="translated">Arbre de contenu</target>
         <note>key: content.tree_name</note>
       </trans-unit>
-      <trans-unit id="52f7a6a69bf6d18c4aee124702514f8b3a882d9c" resname="delete.send_to_trash.modal.body">
-        <source>Are you sure you want to send the selected Content item(s) to Trash?</source>
-        <target state="translated">Êtes-vous sûr de vouloir envoyer les éléments de contenu sélectionnés à la corbeille ?</target>
-        <note>key: delete.send_to_trash.modal.body</note>
-      </trans-unit>
-      <trans-unit id="fda5d31392f746288f371fdb64897146e018a606" resname="load_content_types.error">
-        <source>Cannot load content types</source>
-        <target state="translated">Impossible de charger les types de contenu</target>
-        <note>key: load_content_types.error</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
