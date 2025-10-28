@@ -16,11 +16,6 @@
         <target state="translated">高さ:%height% px</target>
         <note>key: content.field_type.ezimage.dimensions.height</note>
       </trans-unit>
-      <trans-unit id="f7b5c9f8a50ded940700a03352cf0e485ea60c76" resname="content.field_type.ezimage.dimensions.label">
-        <source>Master dimension</source>
-        <target state="needs-translation">Master dimension</target>
-        <note>key: content.field_type.ezimage.dimensions.label</note>
-      </trans-unit>
       <trans-unit id="6c094e8d763a88aa509c3cbbede52fa7c3845d1e" resname="content.field_type.ezimage.dimensions.width">
         <source>W:%width% px</source>
         <target state="translated">幅:%width% px</target>
@@ -131,11 +126,6 @@
         <target state="translated">他のコンテンツアイテムとのリレーションを保存します。</target>
         <note>key: ezobjectrelationlist.helper</note>
       </trans-unit>
-      <trans-unit id="97e94752cba8892136d56b07057f0cac9344cb56" resname="ezobjectrelationlist.table.row.content_type">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: ezobjectrelationlist.table.row.content_type</note>
-      </trans-unit>
       <trans-unit id="13034b18b2f4c315e7fbfe4b4735259f6db82bb8" resname="ezobjectrelationlist.table.row.created">
         <source>Created</source>
         <target state="translated">作成日時</target>
@@ -146,11 +136,6 @@
         <target state="translated">名前</target>
         <note>key: ezobjectrelationlist.table.row.name</note>
       </trans-unit>
-      <trans-unit id="0254a0c716b5d598484130bb3431d278a7be11d8" resname="ezobjectrelationlist.table.row.order">
-        <source>Order</source>
-        <target state="needs-translation">Order</target>
-        <note>key: ezobjectrelationlist.table.row.order</note>
-      </trans-unit>
       <trans-unit id="1a3bc0622c5d839ed1a8ef9f32bd5dd9e5cfb479" resname="fieldtype.binary_base.drag_drop">
         <source>Drag and drop file</source>
         <target state="translated">ファイルをドラッグ＆ドロップ</target>
@@ -160,11 +145,6 @@
         <source>or</source>
         <target state="translated">または</target>
         <note>key: fieldtype.binary_base.drag_drop.or</note>
-      </trans-unit>
-      <trans-unit id="0f71380bdf7b1b566dfd532ec3611aa13b2f0c38" resname="fieldtype.binary_base.image_extensions">
-        <source>Allowed extensions: %extensions%</source>
-        <target state="needs-translation">Allowed extensions: %extensions%</target>
-        <note>key: fieldtype.binary_base.image_extensions</note>
       </trans-unit>
       <trans-unit id="858c986173f1ef87d7acda017535b86f01bca87d" resname="fieldtype.binary_base.max_file_size">
         <source>Max file size: %size%</source>
