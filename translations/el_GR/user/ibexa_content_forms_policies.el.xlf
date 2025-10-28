@@ -6,11 +6,7 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="097f571a3c731c66c83230e465f4b3c9af811add" resname="policy.limitation.identifier.userpermissions">
-        <source>Roles and/or User Groups</source>
-        <target state="needs-translation">Roles and/or User Groups</target>
-        <note>key: policy.limitation.identifier.userpermissions</note>
-      </trans-unit>
+      
     </body>
   </file>
 </xliff>
