@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="5cc4d552faa942983e3eb8ec85c053aeb1e42ae4" resname="bookmark.button.remove">
-        <source>Delete</source>
-        <target state="translated">Aus Lesezeichen entfernen</target>
-        <note>key: bookmark.button.remove</note>
-      </trans-unit>
       <trans-unit id="c2c1dc512033aabc10e0c6a46cf5e99355f5c750" resname="bookmark.headline">
         <source>Bookmarks</source>
         <target state="translated">Lesezeichen</target>
