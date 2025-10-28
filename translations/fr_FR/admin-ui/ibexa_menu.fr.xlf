@@ -196,6 +196,11 @@
         <target state="translated">Enregistrer et fermer</target>
         <note>key: content_type_group_edit__sidebar_right__save_and_close</note>
       </trans-unit>
+      <trans-unit id="a4bbf87eeab7a1d31fdf3f517b5240ba1d8dd573" resname="create_form__sidebar_right__create">
+        <source>Save and close</source>
+        <target state="translated">Enregistrer et fermer</target>
+        <note>key: create_form__sidebar_right__create</note>
+      </trans-unit>
       <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel">
         <source>Discard</source>
         <target state="translated">Annuler</target>
