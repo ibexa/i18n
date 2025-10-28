@@ -26,11 +26,6 @@
         <target state="translated">Supprimer</target>
         <note>key: ibexa.modal.delete</note>
       </trans-unit>
-      <trans-unit id="a28783a0787a2e7218b31f1f979e666a6c06f10b" resname="ibexa.modal.delete.shipping_method.confirm_message">
-        <source>Are you sure you want to delete this shipping method?</source>
-        <target state="needs-translation">Are you sure you want to delete this shipping method?</target>
-        <note>key: ibexa.modal.delete.shipping_method.confirm_message</note>
-      </trans-unit>
       <trans-unit id="432a3d0c2629a130e32d79b1dd6097bb1be03f27" resname="ibexa.shipment.breadcrumb.list">
         <source>Shipments</source>
         <target state="translated">Livraisons</target>
@@ -296,11 +291,6 @@
         <target state="translated">Valeur économique</target>
         <note>key: ibexa.shipping_method.flat_rate.cost.label</note>
       </trans-unit>
-      <trans-unit id="ff287f3f717bb356bd9f5f92e56e9712f6cd6917" resname="ibexa.shipping_method.flat_rate.help">
-        <source>You can choose from activated currencies</source>
-        <target state="translated">Vous pouvez choisir parmi les devises activées</target>
-        <note>key: ibexa.shipping_method.flat_rate.help</note>
-      </trans-unit>
       <trans-unit id="8b97f845b637993f30b805e581c27fabb3696c2b" resname="ibexa.shipping_method.free.cost.label">
         <source>Minimum order value</source>
         <target state="translated">Montant de commande minimum</target>
@@ -310,11 +300,6 @@
         <source>Limit Free shipping to orders over</source>
         <target state="translated">Limiter l'expédition gratuite aux commandes passées</target>
         <note>key: ibexa.shipping_method.free.cost.prefix</note>
-      </trans-unit>
-      <trans-unit id="b5c6da9e5dce74e7f5f471faeac5c0f87d1ee76c" resname="ibexa.shipping_method.free.help">
-        <source>You can choose from activated currencies</source>
-        <target state="translated">Vous pouvez choisir parmi les devises activées</target>
-        <note>key: ibexa.shipping_method.free.help</note>
       </trans-unit>
       <trans-unit id="50eea9b159190b3a7626e5672bb0f373f4ea825c" resname="ibexa.shipping_method.list.title">
         <source>Shipping methods</source>
@@ -335,16 +320,6 @@
         <source>New %shipping_method_type_name% shipping method</source>
         <target state="translated">Nouvelle méthode d'expédition %shipping_method_type_name%</target>
         <note>key: ibexa.shipping_method.new.title</note>
-      </trans-unit>
-      <trans-unit id="49318c046ebc7b4bb33f0444475d367e824ce076" resname="ibexa.shipping_method.pre_create.create">
-        <source>Create</source>
-        <target state="needs-translation">Create</target>
-        <note>key: ibexa.shipping_method.pre_create.create</note>
-      </trans-unit>
-      <trans-unit id="e32565703ad557ff2efedc42f865c7867b4063ba" resname="ibexa.shipping_method.pre_create.discard">
-        <source>Discard</source>
-        <target state="needs-translation">Discard</target>
-        <note>key: ibexa.shipping_method.pre_create.discard</note>
       </trans-unit>
       <trans-unit id="0b6c5e4e942f0072eb1af02dcd7a5aa001b86046" resname="ibexa.shipping_method.pre_create.title">
         <source>Create shipping method</source>
@@ -506,11 +481,6 @@
         <target state="translated">Détails du client</target>
         <note>key: shipment.tab.view-summary.customer_details.details.headline</note>
       </trans-unit>
-      <trans-unit id="7ff8dd9aa1c9135dd3a9929c8003f3a5eebbf545" resname="shipping_method.create.success">
-        <source>Shipping method '%name%' created.</source>
-        <target state="needs-translation">Shipping method '%name%' created.</target>
-        <note>key: shipping_method.create.success</note>
-      </trans-unit>
       <trans-unit id="1d9f6bb4ed1073adc683d1e06580f1f5fcf489b2" resname="shipping_method.delete.success">
         <source>{1}Shipping method '%deletedNames%' removed.|]1,Inf[ Shipping methods '%deletedNames%' removed.</source>
         <target state="translated">La méthode de livraison {1}'%deletedNames%' a été supprimée.|]1,Inf[ Les modes de livraison '%deletedNames%' ont été supprimés.</target>
@@ -525,11 +495,6 @@
         <source>Active</source>
         <target state="translated">Actif</target>
         <note>key: shipping_method.enabled</note>
-      </trans-unit>
-      <trans-unit id="a9c263bc30a1e0fe81583fc82abf849f338a5551" resname="shipping_method.update.success">
-        <source>Shipping method '%name%' updated.</source>
-        <target state="needs-translation">Shipping method '%name%' updated.</target>
-        <note>key: shipping_method.update.success</note>
       </trans-unit>
       <trans-unit id="b6ab04dd12fe5e0dc7ca5da80ff164759e763a89" resname="shipping_method.view.preview">
         <source>Preview</source>
