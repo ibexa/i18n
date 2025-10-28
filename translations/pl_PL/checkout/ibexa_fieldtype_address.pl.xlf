@@ -11,11 +11,6 @@
         <target state="translated">Płatność</target>
         <note>key: field_definition.ibexa_address.type.billing</note>
       </trans-unit>
-      <trans-unit id="befc44b835418b68d3b33f9ec43843006e273d3f" resname="field_definition.ibexa_address.type.shipping">
-        <source>Shipping</source>
-        <target state="needs-translation">Shipping</target>
-        <note>key: field_definition.ibexa_address.type.shipping</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
