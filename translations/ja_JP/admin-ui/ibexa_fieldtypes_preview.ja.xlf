@@ -16,16 +16,6 @@
         <target state="translated">はい</target>
         <note>key: ezboolean.yes</note>
       </trans-unit>
-      <trans-unit id="a871dec7f18c06b9061bc2aae9af1aafe1ad1600" resname="ezdatetime.useseconds.enabled">
-        <source>`The date format is based on your user preferences and does not include seconds even if the Field allows it`</source>
-        <target state="needs-translation">`The date format is based on your user preferences and does not include seconds even if the Field allows it`</target>
-        <note>key: ezdatetime.useseconds.enabled</note>
-      </trans-unit>
-      <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address">
-        <source>Address</source>
-        <target state="needs-translation">Address</target>
-        <note>key: ezgmaplocation.address</note>
-      </trans-unit>
       <trans-unit id="706821bf7c10bf965680842f9e0b0bad3ab737ed" resname="ezgmaplocation.latitude">
         <source>Latitude</source>
         <target state="translated">緯度</target>
@@ -56,11 +46,6 @@
         <target state="translated">画像ファイルのプロパティ</target>
         <note>key: ezimage.image_file_properties</note>
       </trans-unit>
-      <trans-unit id="504042c3fda41a357db1614358fd3c8dc94e301f" resname="ezimage.master_dimensions">
-        <source>Master dimensions</source>
-        <target state="needs-translation">Master dimensions</target>
-        <note>key: ezimage.master_dimensions</note>
-      </trans-unit>
       <trans-unit id="55cfda30a4255cffac54e4c644dc6033720c28f6" resname="ezimage.ratio">
         <source>Ratio</source>
         <target state="translated">比率</target>
@@ -90,16 +75,6 @@
         <source>Image file properties</source>
         <target state="translated">画像ファイルのプロパティ</target>
         <note>key: ezimageasset.image_file_properties</note>
-      </trans-unit>
-      <trans-unit id="dd0de6b207b703b96d015f309ffa8d53d32f64bf" resname="ezimageasset.master_dimensions">
-        <source>Master dimensions</source>
-        <target state="needs-translation">Master dimensions</target>
-        <note>key: ezimageasset.master_dimensions</note>
-      </trans-unit>
-      <trans-unit id="c63a925d645b5365654bfaa2e5ac129280388bc0" resname="ezimageasset.not_available">
-        <source>Image asset is not available (related content has been deleted or you have insufficient permissions)</source>
-        <target state="needs-translation">Image asset is not available (related content has been deleted or you have insufficient permissions)</target>
-        <note>key: ezimageasset.not_available</note>
       </trans-unit>
       <trans-unit id="9d8611731543740ff64e9e1a69f9c18812301879" resname="ezimageasset.ratio">
         <source>Ratio</source>
@@ -166,40 +141,15 @@
         <target state="translated">はい</target>
         <note>key: ezmedia.yes</note>
       </trans-unit>
-      <trans-unit id="df17c526bb1674b64ac8a4cd4eda1af9e0c5e7e5" resname="ezobjectrelation.content_type">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: ezobjectrelation.content_type</note>
-      </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
         <source>Name</source>
         <target state="translated">名前</target>
         <note>key: ezobjectrelation.name</note>
       </trans-unit>
-      <trans-unit id="bd321e94e97034129cf78323f54e93c782250971" resname="ezobjectrelation.single_relation">
-        <source>Single relation</source>
-        <target state="needs-translation">Single relation</target>
-        <note>key: ezobjectrelation.single_relation</note>
-      </trans-unit>
-      <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ezobjectrelation.version_created">
-        <source>Version created</source>
-        <target state="needs-translation">Version created</target>
-        <note>key: ezobjectrelation.version_created</note>
-      </trans-unit>
-      <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: ezobjectrelationlist.content_type</note>
-      </trans-unit>
       <trans-unit id="07ffe77032c4f0b4f8c64f7c40218274e805491f" resname="ezobjectrelationlist.created">
         <source>Created</source>
         <target state="translated">作成日時</target>
         <note>key: ezobjectrelationlist.created</note>
-      </trans-unit>
-      <trans-unit id="ac6f4439a9d7e655920f9789346d6c928182127e" resname="ezobjectrelationlist.multiple_relations">
-        <source>Multiple relations</source>
-        <target state="needs-translation">Multiple relations</target>
-        <note>key: ezobjectrelationlist.multiple_relations</note>
       </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
         <source>Name</source>
