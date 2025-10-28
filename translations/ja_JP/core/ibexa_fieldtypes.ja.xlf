@@ -41,25 +41,10 @@
         <target state="translated">メールアドレス</target>
         <note>key: ezemail.name</note>
       </trans-unit>
-      <trans-unit id="0a1f3297ccc08882f5a4610f9af8fc4148c74adc" resname="ezfloat.name">
-        <source>Float</source>
-        <target state="needs-translation">Float</target>
-        <note>key: ezfloat.name</note>
-      </trans-unit>
-      <trans-unit id="fcabb29fdb097d916c88328daad461c1ea765121" resname="ezgmaplocation.name">
-        <source>Map location</source>
-        <target state="needs-translation">Map location</target>
-        <note>key: ezgmaplocation.name</note>
-      </trans-unit>
       <trans-unit id="6300f890f00d9999466b4abc478857b0d29022b4" resname="ezimage.name">
         <source>Image</source>
         <target state="translated">画像</target>
         <note>key: ezimage.name</note>
-      </trans-unit>
-      <trans-unit id="3afdca17c734ecb3a077bcc4ba7f75a7544e845d" resname="ezimageasset.name">
-        <source>Image Asset</source>
-        <target state="needs-translation">Image Asset</target>
-        <note>key: ezimageasset.name</note>
       </trans-unit>
       <trans-unit id="3b0f44cd332c71e78209a1a4b235bc6a1e6d374b" resname="ezinteger.name">
         <source>Integer</source>
@@ -80,26 +65,6 @@
         <source>Media</source>
         <target state="translated">メディア</target>
         <note>key: ezmedia.name</note>
-      </trans-unit>
-      <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
-        <source>Content relation (single)</source>
-        <target state="needs-translation">Content relation (single)</target>
-        <note>key: ezobjectrelation.name</note>
-      </trans-unit>
-      <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
-        <source>Content relations (multiple)</source>
-        <target state="needs-translation">Content relations (multiple)</target>
-        <note>key: ezobjectrelationlist.name</note>
-      </trans-unit>
-      <trans-unit id="3229c3fc41a4af84f0fd1636f0678aac770359bc" resname="ezselection.name">
-        <source>Selection</source>
-        <target state="needs-translation">Selection</target>
-        <note>key: ezselection.name</note>
-      </trans-unit>
-      <trans-unit id="d958019d9702d5e89f247c24563da97ea0205f58" resname="ezstring.name">
-        <source>Text line</source>
-        <target state="needs-translation">Text line</target>
-        <note>key: ezstring.name</note>
       </trans-unit>
       <trans-unit id="e35280b88546fdd18c84ce9c401e17cbfca56e72" resname="eztext.name">
         <source>Text block</source>
