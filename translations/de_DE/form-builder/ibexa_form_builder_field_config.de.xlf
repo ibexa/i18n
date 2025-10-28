@@ -66,11 +66,6 @@
         <target state="translated">Mindestwert</target>
         <note>key: validation.min_value</note>
       </trans-unit>
-      <trans-unit id="059a5d6429f8ce5f9f766c16f60a3da4e186a724" resname="validation.regex">
-        <source>Regular expression pattern</source>
-        <target state="needs-translation">Regular expression pattern</target>
-        <note>key: validation.regex</note>
-      </trans-unit>
       <trans-unit id="3b06b5fa4ba9d5a6b4c5efb7f585ae8fb98289b3" resname="validation.required">
         <source>Required</source>
         <target state="translated">Erforderlich</target>
