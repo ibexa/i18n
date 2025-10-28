@@ -16,11 +16,6 @@
         <target state="translated">Zatwierdź</target>
         <note>key: airtime_popup.submit.btn</note>
       </trans-unit>
-      <trans-unit id="9717fa924c93123aa1f57b01a3e231670d690052" resname="airtime_popup.title">
-        <source>Content airtime settings</source>
-        <target state="needs-translation">Content airtime settings</target>
-        <note>key: airtime_popup.title</note>
-      </trans-unit>
       <trans-unit id="02e961b3df3878793a33a6ed347a20567ef1a12f" resname="block.cannot_update">
         <source>Cannot update blocks preview</source>
         <target state="translated">Nie można zaktualizować podglądu bloków</target>
@@ -186,11 +181,6 @@
         <target state="translated">Ta strona nie ma zaprojektowanego obszaru do dodawania treści</target>
         <note>key: notification.no_dropzone</note>
       </trans-unit>
-      <trans-unit id="0b2dafc4e64f7587b08008c137c6861abc8232d2" resname="settings.popup.add_block_info">
-        <source>When you add a block by dragging it from Page blocks menu into the drop zone, the block settings panel opens immediately where you can configure all block properties.</source>
-        <target state="needs-translation">When you add a block by dragging it from Page blocks menu into the drop zone, the block settings panel opens immediately where you can configure all block properties.</target>
-        <note>key: settings.popup.add_block_info</note>
-      </trans-unit>
       <trans-unit id="2aacee9e3b82f82bcfea2e7083d42c7d27b5d501" resname="settings.popup.change_settings">
         <source>Change settings</source>
         <target state="translated">Zmień ustawienia</target>
@@ -200,11 +190,6 @@
         <source>Continue</source>
         <target state="translated">Kontynuuj</target>
         <note>key: settings.popup.continue</note>
-      </trans-unit>
-      <trans-unit id="c137f8e9a3f57ea45f3a310439f6340af6e91150" resname="settings.popup.default_behaviour">
-        <source>This is a default behavior which applies to both Page and Dashboard builder. You can globally turn off automatic opening of the block settings panel in the user settings.</source>
-        <target state="needs-translation">This is a default behavior which applies to both Page and Dashboard builder. You can globally turn off automatic opening of the block settings panel in the user settings.</target>
-        <note>key: settings.popup.default_behaviour</note>
       </trans-unit>
       <trans-unit id="2b8b924ef8398e7ba16486e7646511119ec6f722" resname="settings.popup.title">
         <source>How builder works</source>
@@ -241,11 +226,6 @@
         <target state="translated">Odśwież</target>
         <note>key: structure.action.refresh</note>
       </trans-unit>
-      <trans-unit id="9a1f012b46edc1cfc75ef000163ea898fb35a16c" resname="structure.drop.zone">
-        <source>Drop zone %number%</source>
-        <target state="needs-translation">Drop zone %number%</target>
-        <note>key: structure.drop.zone</note>
-      </trans-unit>
       <trans-unit id="720578005f4f9df5991d84e11d283389de3f5801" resname="switch_layout.label" approved="yes">
         <source>Switch layout</source>
         <target state="final">Zmień układ</target>
@@ -255,31 +235,6 @@
         <source>Structure view</source>
         <target state="translated">Widok struktury</target>
         <note>key: toolbox.structure.view</note>
-      </trans-unit>
-      <trans-unit id="f101cb8261e36b0d5e513e37fe157c8d3c0ba047" resname="toolbox.title">
-        <source>Elements</source>
-        <target state="translated">Elementy</target>
-        <note>key: toolbox.title</note>
-      </trans-unit>
-      <trans-unit id="3e1605f26b2df05fc721d6a0b91e9e4011fdf9f1" resname="user.settings.automatically_open_block_settings.description">
-        <source>Automatically open block settings in builders</source>
-        <target state="needs-translation">Automatically open block settings in builders</target>
-        <note>key: user.settings.automatically_open_block_settings.description</note>
-      </trans-unit>
-      <trans-unit id="9fc13298e7bbddf434d17872f5b65a5af2ea7972" resname="user.settings.automatically_open_block_settings.name">
-        <source>Automatically open block settings in builders</source>
-        <target state="needs-translation">Automatically open block settings in builders</target>
-        <note>key: user.settings.automatically_open_block_settings.name</note>
-      </trans-unit>
-      <trans-unit id="4e32b8b746cdf9471b433d25ec36d5a4793dd8bf" resname="user.settings.automatically_open_block_settings.value.disabled">
-        <source>disabled</source>
-        <target state="translated">wyłączony</target>
-        <note>key: user.settings.automatically_open_block_settings.value.disabled</note>
-      </trans-unit>
-      <trans-unit id="4a286f075175595ce7527359c30b5f92226029db" resname="user.settings.automatically_open_block_settings.value.enabled">
-        <source>enabled</source>
-        <target state="translated">włączony</target>
-        <note>key: user.settings.automatically_open_block_settings.value.enabled</note>
       </trans-unit>
     </body>
   </file>
