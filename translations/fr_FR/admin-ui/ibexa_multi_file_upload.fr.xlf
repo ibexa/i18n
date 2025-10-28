@@ -31,11 +31,6 @@
         <target state="translated">Supprimer</target>
         <note>key: delete.label</note>
       </trans-unit>
-      <trans-unit id="2b1c547a8eeb8b7c83a9580901c66193cbcb0eb9" resname="disallowed_content_type.message">
-        <source>You do not have permission to create this Content item</source>
-        <target state="translated">Vous n'avez pas la permission de créer cet élément de Contenu</target>
-        <note>key: disallowed_content_type.message</note>
-      </trans-unit>
       <trans-unit id="f2a2dab7435a694af5f4e9d2393e3cfb9c9c79f0" resname="disallowed_size.message">
         <source>File size is not allowed</source>
         <target state="translated">Taille de fichier non autorisée</target>
@@ -81,11 +76,6 @@
         <target state="translated">Téléverser</target>
         <note>key: multi_file_upload_open_btn.label</note>
       </trans-unit>
-      <trans-unit id="b42fb45b9d30885c4a85318ddb844b10759ff118" resname="multi_file_upload_popup.subtitle">
-        <source>Under %name%</source>
-        <target state="needs-translation">Under %name%</target>
-        <note>key: multi_file_upload_popup.subtitle</note>
-      </trans-unit>
       <trans-unit id="c593b1388a800c1546c5bbbdb6eab08ef170f879" resname="multierror.label">
         <source>Failed to upload </source>
         <target state="translated">Échec du chargement </target>
@@ -105,31 +95,6 @@
         <source>Upload file</source>
         <target state="translated">Téléverser un fichier</target>
         <note>key: upload_btn.label</note>
-      </trans-unit>
-      <trans-unit id="19d5456f3b1299d65b92474d58e70ff787010ba1" resname="upload_popup.cancel_label">
-        <source>Cancel pending upload</source>
-        <target state="needs-translation">Cancel pending upload</target>
-        <note>key: upload_popup.cancel_label</note>
-      </trans-unit>
-      <trans-unit id="36999e5e928304452a57984fe9fb29daef497121" resname="upload_popup.close_label">
-        <source>Close</source>
-        <target state="needs-translation">Close</target>
-        <note>key: upload_popup.close_label</note>
-      </trans-unit>
-      <trans-unit id="69ca9f45ba70d7b75027057e8b1f23057801a70e" resname="upload_popup.confirm_label">
-        <source>Confirm and close</source>
-        <target state="needs-translation">Confirm and close</target>
-        <note>key: upload_popup.confirm_label</note>
-      </trans-unit>
-      <trans-unit id="8964e0ca9f836009ee40abf9e9b013b41b2dd2d4" resname="upload_popup.label">
-        <source>Upload</source>
-        <target state="needs-translation">Upload</target>
-        <note>key: upload_popup.label</note>
-      </trans-unit>
-      <trans-unit id="f0af4c073e35f18370b9eb10fe995a6f5de9ac9d" resname="upload_popup.title">
-        <source>Multi-file upload</source>
-        <target state="needs-translation">Multi-file upload</target>
-        <note>key: upload_popup.title</note>
       </trans-unit>
     </body>
   </file>
