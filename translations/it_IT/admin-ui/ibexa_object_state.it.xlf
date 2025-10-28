@@ -11,11 +11,6 @@
         <target state="translated">Lo stato dell'oggetto dell'elemento del contenuto è stato modificato in '% name%'.</target>
         <note>key: content_object_state.update.success</note>
       </trans-unit>
-      <trans-unit id="323149fcfc1a9c7aefd22c27c2307b9f2c33697a" resname="object_state.add">
-        <source>Creating a new Object state</source>
-        <target state="needs-translation">Creating a new Object state</target>
-        <note>key: object_state.add</note>
-      </trans-unit>
       <trans-unit id="9277526e17b01de899c93f0fdbb5ab6515e5399f" resname="object_state.breadcrumb.edit">
         <source>Editing Object state '%name%'</source>
         <target state="translated">Modifica stato oggetto '%name%'</target>
@@ -36,16 +31,6 @@
         <target state="translated">Imposta</target>
         <note>key: object_state.button.set</note>
       </trans-unit>
-      <trans-unit id="064308edb6cadea3cbc55a488811610e3ceaf2a8" resname="object_state.create.create">
-        <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
-        <note>key: object_state.create.create</note>
-      </trans-unit>
-      <trans-unit id="a8e6d8340df7bce87b08b1cb4567246715456798" resname="object_state.create.create_and_edit">
-        <source>Save</source>
-        <target state="needs-translation">Save</target>
-        <note>key: object_state.create.create_and_edit</note>
-      </trans-unit>
       <trans-unit id="ba36d98066b4d157d8c91e3d642a2b54442f4846" resname="object_state.create.identifier">
         <source>Identifier</source>
         <target state="translated">Identificatore</target>
@@ -61,25 +46,10 @@
         <target state="translated">Stato oggetto '%name%' creato.</target>
         <note>key: object_state.create.success</note>
       </trans-unit>
-      <trans-unit id="9a3d40057c7c4ba2c0f6258148b451c89b6a0533" resname="object_state.creating">
-        <source>Creating</source>
-        <target state="needs-translation">Creating</target>
-        <note>key: object_state.creating</note>
-      </trans-unit>
       <trans-unit id="cd20ab0806780f115ec08655d9e44e0c31d0fecd" resname="object_state.delete.success">
         <source>Object state '%name%' deleted.</source>
         <target state="translated">Stato oggetto '%name%' eliminato.</target>
         <note>key: object_state.delete.success</note>
-      </trans-unit>
-      <trans-unit id="7d7c033caf5634e2cc56d8b96ad9aa883e5dcb01" resname="object_state.editing">
-        <source>Editing</source>
-        <target state="needs-translation">Editing</target>
-        <note>key: object_state.editing</note>
-      </trans-unit>
-      <trans-unit id="99f5115d5dc13c37f78cfaa37168636912e1a9a6" resname="object_state.id">
-        <source>ID</source>
-        <target state="needs-translation">ID</target>
-        <note>key: object_state.id</note>
       </trans-unit>
       <trans-unit id="8470ab4a8afa94731e8cce5193cc8631cc3c7167" resname="object_state.identifier">
         <source>Identifier</source>
@@ -105,16 +75,6 @@
         <source>Name</source>
         <target state="translated">Etichetta per il campo</target>
         <note>key: object_state.update.name</note>
-      </trans-unit>
-      <trans-unit id="4f64932a8e6184e5ca765574a331828a77bd38e5" resname="object_state.update.save">
-        <source>Save</source>
-        <target state="needs-translation">Save</target>
-        <note>key: object_state.update.save</note>
-      </trans-unit>
-      <trans-unit id="8b0cdd1fff0afd68d0716c1d8dc122a13b5f2e58" resname="object_state.update.save_and_close">
-        <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
-        <note>key: object_state.update.save_and_close</note>
       </trans-unit>
       <trans-unit id="d21ddef10954199297aeb0a318e9f627dda69ec9" resname="object_state.update.success">
         <source>Object state '%name%' updated.</source>
@@ -156,16 +116,6 @@
         <target state="translated">Elimina gruppo stato oggetto</target>
         <note>key: object_state_group.bulk_delete.delete</note>
       </trans-unit>
-      <trans-unit id="3d528bcbfbe40fbefd8dc7590a33b77bf666c9ea" resname="object_state_group.create.create">
-        <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
-        <note>key: object_state_group.create.create</note>
-      </trans-unit>
-      <trans-unit id="23dda7cc1bdf58114869f0c13c69ec0e0fb32d67" resname="object_state_group.create.create_and_edit">
-        <source>Save</source>
-        <target state="needs-translation">Save</target>
-        <note>key: object_state_group.create.create_and_edit</note>
-      </trans-unit>
       <trans-unit id="f87d9f18a93e3ce9f164386ee0255d53d4c5227e" resname="object_state_group.create.identifier">
         <source>Identifier</source>
         <target state="translated">Identificatore</target>
@@ -181,11 +131,6 @@
         <target state="translated">Gruppo stato oggetto '%name%' creato.</target>
         <note>key: object_state_group.create.success</note>
       </trans-unit>
-      <trans-unit id="3298bfb20351af4b23517ab424ed0f1ab653d6ff" resname="object_state_group.creating">
-        <source>Creating</source>
-        <target state="needs-translation">Creating</target>
-        <note>key: object_state_group.creating</note>
-      </trans-unit>
       <trans-unit id="0f40fde6bdaed4741d571b9ffdcc04e3be8ec3c9" resname="object_state_group.delete.submit">
         <source>Delete</source>
         <target state="translated">Cancella</target>
@@ -195,16 +140,6 @@
         <source>Object state group '%name%' deleted.</source>
         <target state="translated">Gruppo stato oggetto '%name%' eliminato.</target>
         <note>key: object_state_group.delete.success</note>
-      </trans-unit>
-      <trans-unit id="414797fc8b71857280cd7d21da2927ecac2e74b0" resname="object_state_group.editing">
-        <source>Editing</source>
-        <target state="needs-translation">Editing</target>
-        <note>key: object_state_group.editing</note>
-      </trans-unit>
-      <trans-unit id="940f19a907923467a0fc0084f21dc689a18ab804" resname="object_state_group.id">
-        <source>ID</source>
-        <target state="needs-translation">ID</target>
-        <note>key: object_state_group.id</note>
       </trans-unit>
       <trans-unit id="31e5d74a2673e57390f478380181bc63977bc229" resname="object_state_group.identifier">
         <source>Identifier</source>
@@ -221,16 +156,6 @@
         <target state="translated">Nome gruppo stato oggetto</target>
         <note>key: object_state_group.name</note>
       </trans-unit>
-      <trans-unit id="c3af10bed843bcb54aa038942fa8d6c4bc20f736" resname="object_state_group.name.action.edit">
-        <source>Edit</source>
-        <target state="needs-translation">Edit</target>
-        <note>key: object_state_group.name.action.edit</note>
-      </trans-unit>
-      <trans-unit id="1cbfb4528f41be4d8de98fa4f81c26b41f8ffad9" resname="object_state_group.new">
-        <source>Create</source>
-        <target state="needs-translation">Create</target>
-        <note>key: object_state_group.new</note>
-      </trans-unit>
       <trans-unit id="2db8c3e77568f759b118b23aec8cfacaca3d96c0" resname="object_state_group.update.identifier">
         <source>Identifier</source>
         <target state="translated">Identificatore</target>
@@ -245,11 +170,6 @@
         <source>Save</source>
         <target state="translated">Salva</target>
         <note>key: object_state_group.update.save</note>
-      </trans-unit>
-      <trans-unit id="234776708dc81f062b0a28676112bacf7ecca25d" resname="object_state_group.update.save_and_close">
-        <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
-        <note>key: object_state_group.update.save_and_close</note>
       </trans-unit>
       <trans-unit id="36efba078c092e0aa3fb7c44fcd55b1ee292cc35" resname="object_state_group.update.success">
         <source>Object state group '%name%' updated.</source>
