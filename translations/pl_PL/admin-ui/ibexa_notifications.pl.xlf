@@ -16,16 +16,6 @@
         <target state="final">Powiadomienia</target>
         <note>key: menu.notification</note>
       </trans-unit>
-      <trans-unit id="fc349b70133a7a68cae9be363e112ee397044b6a" resname="notification.date" approved="yes">
-        <source>Date</source>
-        <target state="final">Data</target>
-        <note>key: notification.date</note>
-      </trans-unit>
-      <trans-unit id="6b83526d14384d4144093369e83601556437fbb0" resname="notification.description" approved="yes">
-        <source>Description</source>
-        <target state="final">Opis</target>
-        <note>key: notification.description</note>
-      </trans-unit>
       <trans-unit id="d7fd0c0dc2a4267ebb5bca828e42812fded59ebb" resname="notification.permanently_deleted">
         <source>Deleted</source>
         <target state="translated">Usunięto</target>
@@ -35,11 +25,6 @@
         <source>Sent to Trash</source>
         <target state="translated">Wyślij do kosza</target>
         <note>key: notification.trashed</note>
-      </trans-unit>
-      <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type" approved="yes">
-        <source>Type</source>
-        <target state="final">Typ</target>
-        <note>key: notification.type</note>
       </trans-unit>
       <trans-unit id="79036b8a9fecbed5d0c14a94c5639d611c6ab6d1" resname="notifications.modal.message.error">
         <source>Cannot update notifications</source>
