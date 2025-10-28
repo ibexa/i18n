@@ -16,11 +16,6 @@
         <target state="final">Insira a palavra chave</target>
         <note>key: Enter password</note>
       </trans-unit>
-      <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login">
-        <source>Login</source>
-        <target state="needs-translation">Login</target>
-        <note>key: Login</note>
-      </trans-unit>
       <trans-unit id="be81ab98cb9ccf753975f50fa70cd32581a821fc" resname="Password:" approved="yes">
         <source>Password:</source>
         <target state="final">Palavra-chave:</target>
