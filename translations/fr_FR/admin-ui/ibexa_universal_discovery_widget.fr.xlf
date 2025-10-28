@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="d31e50b1f33f2682ff35901dc7d7c4ea646ca922" resname="pagination.info.viewing_message">
         <source>Viewing %viewingCount% out of %totalCount% items</source>
-        <target state="translated">Affichage de %viewing% sur %total% éléments</target>
+        <target state="translated">Affichage de %viewingCount% sur %totalCount% éléments</target>
         <note>key: pagination.info.viewing_message</note>
       </trans-unit>
       <trans-unit id="fde645e6790429ce2f904099b7aa2712224be9aa" resname="popup.close.label">
@@ -301,20 +301,10 @@
         <target state="translated">Réduire le panneau latéral</target>
         <note>key: selected_locations.collapse.sidebar</note>
       </trans-unit>
-      <trans-unit id="d4462bb9386e96a0984586618fbfbcd0852fd4ea" resname="selected_locations.deselect_all">
-        <source>Deselect all</source>
-        <target state="translated">Tout déselectionner</target>
-        <note>key: selected_locations.deselect_all</note>
-      </trans-unit>
       <trans-unit id="19700661da70137e52d0009660c9a87f5bcb99bd" resname="selected_locations.expand.sidebar">
         <source>Expand sidebar</source>
         <target state="translated">Étendre la barre latérale</target>
         <note>key: selected_locations.expand.sidebar</note>
-      </trans-unit>
-      <trans-unit id="fe05e738022445778cb775ca099ba54291ae88e9" resname="selected_locations.selected_items">
-        <source>%count% selected item(s)</source>
-        <target state="translated">%count% élément(s) sélectionnés</target>
-        <note>key: selected_locations.selected_items</note>
       </trans-unit>
       <trans-unit id="6b02292efbef3c6800f618acb3c41f968d9ea305" resname="sorting.date.label">
         <source>Date</source>
