@@ -16,16 +16,6 @@
         <target state="translated">Inserisci la password</target>
         <note>key: Enter password</note>
       </trans-unit>
-      <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login">
-        <source>Login</source>
-        <target state="needs-translation">Login</target>
-        <note>key: Login</note>
-      </trans-unit>
-      <trans-unit id="be81ab98cb9ccf753975f50fa70cd32581a821fc" resname="Password:">
-        <source>Password:</source>
-        <target state="needs-translation">Password:</target>
-        <note>key: Password:</note>
-      </trans-unit>
       <trans-unit id="17dfb031e086e3415d71f3928e6ce08d6b1c1d4d" resname="Username:">
         <source>Username:</source>
         <target state="translated">Nome Utente:</target>
