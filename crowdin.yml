@@ -5,12 +5,9 @@ files:
       /translations/%locale_with_underscore%/**/%file_name%.%locale%.%file_extension%
     languages_mapping:
       locale:
-        de: de
         el: el
         en-US: en_US
-        es-ES: es
         fi: fi
-        fr: fr
         hi: hi
         hr: hr
         hu: hu
