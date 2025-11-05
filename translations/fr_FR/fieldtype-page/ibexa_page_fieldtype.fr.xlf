@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="5357a64cb78bb14d30e33c4cb713761c4a34b5b0" resname="ibexa.fieldtype_page.block.contentlist.name">
         <source>Content List</source>
-        <target state="translated">Liste de contenu</target>
+        <target state="translated">Liste de contenus</target>
         <note>key: ibexa.fieldtype_page.block.contentlist.name</note>
       </trans-unit>
       <trans-unit id="bd0c713852ceed2dae20ac6f565fa8299a5416fb" resname="ibexa.fieldtype_page.block.embed.attributes.contentId.name">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="aab2eb6f08815d2af6e84a9bad2ee5da93744bb6" resname="ibexa.fieldtype_page.block.embed.name">
         <source>Embed</source>
-        <target state="translated">Intégrer</target>
+        <target state="translated">Contenu intégré</target>
         <note>key: ibexa.fieldtype_page.block.embed.name</note>
       </trans-unit>
       <trans-unit id="8938bca3e2f99a76f1bc2049748de23cfadf5578" resname="ibexa.fieldtype_page.block.gallery.attributes.contentId.name">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="d4a58b8a423a1cb4b215cc3d30b000e70be626c0" resname="ibexa.fieldtype_page.block.schedule.attributes.loaded_snapshot.name">
         <source>Loaded Snapshot</source>
-        <target state="translated">Instantané chargé</target>
+        <target state="translated">Programmation chargée</target>
         <note>key: ibexa.fieldtype_page.block.schedule.attributes.loaded_snapshot.name</note>
       </trans-unit>
       <trans-unit id="b8cef10bea0cf7a90af3d3a73263ca2b2be91a8a" resname="ibexa.fieldtype_page.block.schedule.attributes.slots.name">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="796faef66f3027aa209009be1cb5d7374e59181d" resname="ibexa.fieldtype_page.block.schedule.attributes.snapshots.name">
         <source>Snapshots</source>
-        <target state="translated">Captures instantanées</target>
+        <target state="translated">Programmations</target>
         <note>key: ibexa.fieldtype_page.block.schedule.attributes.snapshots.name</note>
       </trans-unit>
       <trans-unit id="e6e5487c8514d264ee88b1825cc58639c49408bc" resname="ibexa.fieldtype_page.block.schedule.name">

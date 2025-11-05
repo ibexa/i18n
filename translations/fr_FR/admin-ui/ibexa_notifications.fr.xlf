@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="74ede3f30af51ec6475504430f4587081b9305b1" resname="notification.mark_as_unread">
         <source>Mark as unread</source>
-        <target state="translated">Marquer comme non-lu</target>
+        <target state="translated">Marquer comme non lue</target>
         <note>key: notification.mark_as_unread</note>
       </trans-unit>
       <trans-unit id="5b03625b8de51d296ad7f4bc980e631c964185d8" resname="notification.no_longer_available">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="06b16001fedfe63ae1adbb6b40aa493d6e0af418" resname="notification.read">
         <source>Read</source>
-        <target state="translated">Lu</target>
+        <target state="translated">Lue</target>
         <note>key: notification.read</note>
       </trans-unit>
       <trans-unit id="86a1d43ab969eda77e82518207e150e54eb6cfe5" resname="notification.status">
@@ -128,12 +128,12 @@
       </trans-unit>
       <trans-unit id="6cc1d9d457eb5b33316f23748e81f1fc3d848ac9" resname="notification.status.read">
         <source>Read</source>
-        <target state="translated">Lu</target>
+        <target state="translated">Lue</target>
         <note>key: notification.status.read</note>
       </trans-unit>
       <trans-unit id="32af6b054b04d592c0fe216b5ee64b175f6c485f" resname="notification.status.unread">
         <source>Unread</source>
-        <target state="translated">Non lus</target>
+        <target state="translated">Non lue</target>
         <note>key: notification.status.unread</note>
       </trans-unit>
       <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
@@ -153,12 +153,12 @@
 	  </trans-unit>
       <trans-unit id="d643e1117bad8f0bac7d8b158f54e2109ea1f482" resname="notification.trashed.info">
         <source>moved to Trash</source>
-        <target state="translated">déplacé vers la corbeille</target>
+        <target state="translated">déplacée vers la corbeille</target>
         <note>key: notification.trashed.info</note>
       </trans-unit>
       <trans-unit id="f5bf4310647081193250ff28773cf5f4880a0fe2" resname="notification.unread">
         <source>Unread</source>
-        <target state="translated">Non lus</target>
+        <target state="translated">Non lue</target>
         <note>key: notification.unread</note>
       </trans-unit>
       <trans-unit id="197c779af24202f663e5ade4f0b56702df3750a8" resname="notifications.list.action.remove.confirmation.text">
