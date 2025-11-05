@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="f937c9160339f3252015bbf78b40bf4ac0732030" resname="form.field.attribute.date_format">
         <source>Date format</source>
-        <target state="translated">Format date</target>
+        <target state="translated">Format de date</target>
         <note>key: form.field.attribute.date_format</note>
       </trans-unit>
       <trans-unit id="e8ffa67ea615366df86b6616cc27a2a05b598ee4" resname="form.field.attribute.default_value">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="b8d28152d4fe556987b5a45e35b1e74723afec2f" resname="form.field.attribute.placeholder">
         <source>Placeholder</source>
-        <target state="translated">Emplacement réservé</target>
+        <target state="translated">Substitut</target>
         <note>key: form.field.attribute.placeholder</note>
       </trans-unit>
       <trans-unit id="5870f6f23ace74bf93283d3c211ea0465b0e3ef3" resname="form.field.button">
@@ -168,12 +168,12 @@
       </trans-unit>
       <trans-unit id="f95dc3ec66c188c0810e662531616a7fb92a0f9f" resname="form.field.hidden_field">
         <source>Hidden field</source>
-        <target state="translated">Champ masqué</target>
+        <target state="translated">Champ caché</target>
         <note>key: form.field.hidden_field</note>
       </trans-unit>
       <trans-unit id="eea3cb8e95938c590c760ed8d1d0d0317be986f9" resname="form.field.multiple_line_input">
         <source>Multiple line input</source>
-        <target state="translated">Saisie de plusieurs lignes</target>
+        <target state="translated">Lignes multiples</target>
         <note>key: form.field.multiple_line_input</note>
       </trans-unit>
       <trans-unit id="bc493faf969289196917ecd1cd2d5a69fc04269a" resname="form.field.number">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="fb627379534b6ec4a91354f809b243a4ef74e5a8" resname="form.field.single_line_input">
         <source>Single line input</source>
-        <target state="translated">Saisie d'une ligne</target>
+        <target state="translated">Ligne simple</target>
         <note>key: form.field.single_line_input</note>
       </trans-unit>
       <trans-unit id="286c5ef0a50e9dd0e28efd0d474e56345be11112" resname="form.field.url">
