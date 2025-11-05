@@ -128,12 +128,12 @@
       </trans-unit>
       <trans-unit id="6cc1d9d457eb5b33316f23748e81f1fc3d848ac9" resname="notification.status.read">
         <source>Read</source>
-        <target state="translated">Lues</target>
+        <target state="translated">Lue</target>
         <note>key: notification.status.read</note>
       </trans-unit>
       <trans-unit id="32af6b054b04d592c0fe216b5ee64b175f6c485f" resname="notification.status.unread">
         <source>Unread</source>
-        <target state="translated">Non lues</target>
+        <target state="translated">Non lue</target>
         <note>key: notification.status.unread</note>
       </trans-unit>
       <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
