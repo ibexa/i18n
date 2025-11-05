@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="d7fd0c0dc2a4267ebb5bca828e42812fded59ebb" resname="notification.permanently_deleted">
         <source>Deleted</source>
-        <target state="translated">Supprimée</target>
+        <target state="translated">Supprimé</target>
         <note>key: notification.permanently_deleted</note>
       </trans-unit>
       <trans-unit id="06b16001fedfe63ae1adbb6b40aa493d6e0af418" resname="notification.read">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="dda5c8f76779648fe17e298aaae2ea426df3f85e" resname="notification.trashed">
         <source>Sent to Trash</source>
-        <target state="translated">Mise à la corbeille</target>
+        <target state="translated">Mis à la corbeille</target>
         <note>key: notification.trashed</note>
       </trans-unit>
       <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type">
