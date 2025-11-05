@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="aab2eb6f08815d2af6e84a9bad2ee5da93744bb6" resname="ibexa.fieldtype_page.block.embed.name">
         <source>Embed</source>
-        <target state="translated">Intégrer</target>
+        <target state="translated">Contenu intégré</target>
         <note>key: ibexa.fieldtype_page.block.embed.name</note>
       </trans-unit>
       <trans-unit id="8938bca3e2f99a76f1bc2049748de23cfadf5578" resname="ibexa.fieldtype_page.block.gallery.attributes.contentId.name">
