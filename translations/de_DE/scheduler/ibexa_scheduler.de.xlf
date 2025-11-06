@@ -331,6 +331,11 @@
         <target state="translated">Das Inhaltselement „%name%“ wurde zum Ausblenden eingeplant.</target>
         <note>key: schedule.content.schedule_hide.success</note>
       </trans-unit>
+      <trans-unit id="215438f7bc91888cd6a72b7784fec0bae28e9c57" resname="schedule_hide.confirm">
+        <source>Confirm</source>
+        <target>Bestätigen</target>
+        <note>key: schedule_hide.confirm</note>
+      </trans-unit>
       <trans-unit id="f9c384926313f5ec7d6685f8a56b3f5c826eb1d8" resname="schedule_hide.date_and_time">
         <source>Date and time</source>
         <target state="translated">Datum und Uhrzeit</target>
