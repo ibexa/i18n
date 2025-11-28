@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="1073d35362211a0deb9f201620419bf672354bff" resname="role.policy.order">
         <source>Order</source>
-        <target state="needs-translation">Order</target>
+        <target state="translated">Pedido</target>
         <note>key: role.policy.order</note>
       </trans-unit>
       <trans-unit id="793094634ff42fe0f937246d03f9f24e6c73a152" resname="role.policy.order.all_functions">
         <source>Order / All functions</source>
-        <target state="needs-translation">Order / All functions</target>
+        <target state="translated">Pedido/Todas las funciones</target>
         <note>key: role.policy.order.all_functions</note>
       </trans-unit>
       <trans-unit id="da507437617b2c9165155cfe64046827319d4ea0" resname="role.policy.order.cancel">
         <source>Order / Cancel</source>
-        <target state="needs-translation">Order / Cancel</target>
+        <target state="translated">Pedido/Cancelar</target>
         <note>key: role.policy.order.cancel</note>
       </trans-unit>
       <trans-unit id="c3e057f8a125b582c06353575f5d12f56a08049c" resname="role.policy.order.create">
         <source>Order / Create</source>
-        <target state="needs-translation">Order / Create</target>
+        <target state="translated">Pedido/Crear</target>
         <note>key: role.policy.order.create</note>
       </trans-unit>
       <trans-unit id="c00377efe828b4f0bdb068a536b008847898f5f2" resname="role.policy.order.update">
         <source>Order / Update</source>
-        <target state="needs-translation">Order / Update</target>
+        <target state="translated">Pedido/Actualizar</target>
         <note>key: role.policy.order.update</note>
       </trans-unit>
       <trans-unit id="63c4fe8f252e46e5d4a71657f6da148250f0fca3" resname="role.policy.order.view">
         <source>Order / View</source>
-        <target state="needs-translation">Order / View</target>
+        <target state="translated">Pedido/Visualizar</target>
         <note>key: role.policy.order.view</note>
       </trans-unit>
     </body>

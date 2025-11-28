@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="9997aecbb7c5fca9074d214be56a822fae25a0ed" resname="measurement_range.name">
         <source>Measurement (range)</source>
-        <target state="translated">Plage de mesures</target>
+        <target state="translated">Mesure (plage)</target>
         <note>key: measurement_range.name</note>
       </trans-unit>
       <trans-unit id="3a51c5334faa2f7a4a37bb8cec861ba9beedc97e" resname="measurement_single.name">
         <source>Measurement (single)</source>
-        <target state="translated">Mesure</target>
+        <target state="translated">Mesure (unique)</target>
         <note>key: measurement_single.name</note>
       </trans-unit>
       <trans-unit id="c81c5b47ca025e724b968f7f0d9b47334565d0fc" resname="product_catalog.attribute.ibexa_measurement.defaultRangeMinimumValue">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="a23253007d4d5c51f0109ff665e169654b651dbc" resname="product_catalog.attribute.ibexa_measurement.measurement_input_type">
         <source>Input Type</source>
-        <target state="translated">Type de champ</target>
+        <target state="translated">Type de saisie</target>
         <note>key: product_catalog.attribute.ibexa_measurement.measurement_input_type</note>
       </trans-unit>
       <trans-unit id="989de1fbc8169d11e917adff660d5ec3977f4562" resname="product_catalog.attribute.ibexa_measurement.measurement_input_type.value.range">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="1585542db1db16405cadc22d0e490daf058707b3" resname="product_catalog.attribute.ibexa_measurement.measurement_input_type.value.simple">
         <source>Simple Input</source>
-        <target state="translated">Champ simple</target>
+        <target state="translated">Saisie simple</target>
         <note>key: product_catalog.attribute.ibexa_measurement.measurement_input_type.value.simple</note>
       </trans-unit>
       <trans-unit id="2ff3452b951a880aacd153868935f40c7827b5cf" resname="product_catalog.attribute.ibexa_measurement.measurement_sign">
@@ -58,22 +58,22 @@
       </trans-unit>
       <trans-unit id="d9b8d5eb40a1f7c79be594010d298b2a4917f3f7" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.gt">
         <source><![CDATA[> greater than]]></source>
-        <target state="translated"><![CDATA[> (supérieur à)]]></target>
+        <target state="translated"><![CDATA[> supérieur à]]></target>
         <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.gt</note>
       </trans-unit>
       <trans-unit id="3146a31ae8f14a16e2bf410a8e3522c8f14af227" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.gte">
         <source>≥ greater than or equal to</source>
-        <target state="translated">≥ (supérieur ou égal)</target>
+        <target state="translated">≥ supérieur ou égal à</target>
         <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.gte</note>
       </trans-unit>
       <trans-unit id="114e08f4e1a3034fbd1f189563fd8968cae24602" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.lt">
         <source><![CDATA[< less than]]></source>
-        <target state="translated"><![CDATA[< (inférieur à)]]></target>
+        <target state="translated"><![CDATA[< inférieur à]]></target>
         <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.lt</note>
       </trans-unit>
       <trans-unit id="3172231e5a4a04d985cbd1eb95e784b128a5e8c6" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.lte">
         <source>≤ less than or equal to</source>
-        <target state="translated">≤ (inférieur ou égal)</target>
+        <target state="translated">≤ inférieur ou égal à</target>
         <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.lte</note>
       </trans-unit>
       <trans-unit id="0bb967a82b822a6c21fa66827fe902183c2c298a" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.none">

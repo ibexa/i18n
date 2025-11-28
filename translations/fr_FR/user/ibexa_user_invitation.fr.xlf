@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -10,8 +10,8 @@
         <source xml:space="preserve">Hello,
             Join us at: %invite_link%
         </source>
-        <target xml:space="preserve" state="translated">Bonjour,
-            Rejoignez-nous à : %invite_link%
+        <target state="translated">Bonjour,
+            Rejoignez-nous sur : %invite_link%
         </target>
         <note>key: ibexa.user.invitation.mail.message</note>
       </trans-unit>
@@ -22,17 +22,17 @@
       </trans-unit>
       <trans-unit id="c5663e8492fee255f3e2eb99457cf1f6d22d8967" resname="user_invitation.send.invitation_exist">
         <source>Invitation for '%email%' already exists.</source>
-        <target state="translated">Une invitation pour %email% existe déjà.</target>
+        <target state="translated">Une invitation pour « %email% » existe déjà.</target>
         <note>key: user_invitation.send.invitation_exist</note>
       </trans-unit>
       <trans-unit id="eb29ac5a3f9317eda81b2659331df1882a03be8f" resname="user_invitation.send.success">
         <source>Invitation sent to '%email%' updated.</source>
-        <target state="translated">Invitation envoyée à '%email%' mise à jour.</target>
+        <target state="translated">Invitation envoyée à « %email% » mise à jour.</target>
         <note>key: user_invitation.send.success</note>
       </trans-unit>
       <trans-unit id="7b61e31ce34b47f88e563ed2750171a834a4a589" resname="user_invitation.send.user_exist">
         <source>User with '%email%' already exists.</source>
-        <target state="translated">Un utilisateur avec '%email%' existe déjà.</target>
+        <target state="translated">Un utilisateur avec l’adresse « %email% » existe déjà.</target>
         <note>key: user_invitation.send.user_exist</note>
       </trans-unit>
     </body>

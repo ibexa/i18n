@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="129dd46eabe280c49a0e9d424d9cbf676621aec9" resname="ezboolean.name">
         <source>Checkbox</source>
-        <target state="translated">Casilla de verificación</target>
+        <target state="translated">Casilla</target>
         <note>key: ezboolean.name</note>
       </trans-unit>
       <trans-unit id="c4c3e3c536a09969467c7c9bb584459b47317fed" resname="ezcountry.name">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="0a1f3297ccc08882f5a4610f9af8fc4148c74adc" resname="ezfloat.name">
         <source>Float</source>
-        <target state="translated">Decimal</target>
+        <target state="translated">Flotante</target>
         <note>key: ezfloat.name</note>
       </trans-unit>
       <trans-unit id="fcabb29fdb097d916c88328daad461c1ea765121" resname="ezgmaplocation.name">
         <source>Map location</source>
-        <target state="translated">Mapa de ubicación</target>
+        <target state="translated">Ubicación en el mapa</target>
         <note>key: ezgmaplocation.name</note>
       </trans-unit>
       <trans-unit id="6300f890f00d9999466b4abc478857b0d29022b4" resname="ezimage.name">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="3b0f44cd332c71e78209a1a4b235bc6a1e6d374b" resname="ezinteger.name">
         <source>Integer</source>
-        <target state="translated">Entero</target>
+        <target state="translated">Número entero</target>
         <note>key: ezinteger.name</note>
       </trans-unit>
       <trans-unit id="b55e4568224820cbddc794f6c2bd002baec6a5d0" resname="ezisbn.name">
@@ -73,22 +73,22 @@
       </trans-unit>
       <trans-unit id="c564457bc5723491788fa3d0723e3716824b4a0d" resname="ezkeyword.name">
         <source>Keywords</source>
-        <target state="translated">Palabras Clave</target>
+        <target state="translated">Palabras clave</target>
         <note>key: ezkeyword.name</note>
       </trans-unit>
       <trans-unit id="fc0d2c8719e7c36f101ff6ddcbdfc804bf8f3da7" resname="ezmedia.name">
         <source>Media</source>
-        <target state="translated">Multimedia</target>
+        <target state="translated">Medios</target>
         <note>key: ezmedia.name</note>
       </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
         <source>Content relation (single)</source>
-        <target state="translated">Relación de contenido (simple)</target>
+        <target state="translated">Relación de contenido (única)</target>
         <note>key: ezobjectrelation.name</note>
       </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
         <source>Content relations (multiple)</source>
-        <target state="translated">Relación a contenidos (múltiple)</target>
+        <target state="translated">Relaciones de contenido (múltiples)</target>
         <note>key: ezobjectrelationlist.name</note>
       </trans-unit>
       <trans-unit id="3229c3fc41a4af84f0fd1636f0678aac770359bc" resname="ezselection.name">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="503c2801427b2d773d020ef953413d14c17968bd" resname="eztime.name">
         <source>Time</source>
-        <target state="translated">Hora</target>
+        <target state="translated">Tiempo</target>
         <note>key: eztime.name</note>
       </trans-unit>
       <trans-unit id="69c0e446226061b7f2ca2b22fd4eb09e6b4e9518" resname="ezurl.name">

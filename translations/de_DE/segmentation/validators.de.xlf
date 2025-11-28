@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="165bc69608e9381d80c19d35528f634dd226955a" resname="ibexa.segmentation.validator.segment_group_unique_identifier">
         <source>Segment Group identifier "{{ identifier }}" is not unique</source>
-        <target state="needs-translation">Segment Group identifier "{{ identifier }}" is not unique</target>
+        <target state="translated">Bezeichner der Segmentgruppe „{{ identifier }}“ ist nicht eindeutig</target>
         <note>key: ibexa.segmentation.validator.segment_group_unique_identifier</note>
       </trans-unit>
       <trans-unit id="7fc43a432ed845c07508ca856b12d0e5b36a6452" resname="ibexa.segmentation.validator.segment_unique_identifier">
         <source>Segment identifier "{{ identifier }}" is not unique</source>
-        <target state="needs-translation">Segment identifier "{{ identifier }}" is not unique</target>
+        <target state="translated">Bezeichner des Segments „{{ identifier }}“ ist nicht eindeutig</target>
         <note>key: ibexa.segmentation.validator.segment_unique_identifier</note>
       </trans-unit>
     </body>

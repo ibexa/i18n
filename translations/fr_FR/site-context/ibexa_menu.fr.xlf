@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5d74956777ef0b159fa712d86ebb0c0fe2177e30" resname="fullscreen_content__sidebar_right__create">
         <source>Create content</source>
-        <target state="translated">Créer un contenu</target>
+        <target state="translated">Créer du contenu</target>
         <note>key: fullscreen_content__sidebar_right__create</note>
       </trans-unit>
       <trans-unit id="d53f6dd5b19cf42f665f05286a08519e45ec37fb" resname="fullscreen_content__sidebar_right__edit">

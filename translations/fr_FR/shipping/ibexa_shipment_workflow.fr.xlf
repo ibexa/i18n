@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="8420e72c55be595373211477236b644e7dbd4a6b" resname="ibexa.shipment.workflow.place.cancelled.label">
         <source>Cancelled</source>
-        <target state="translated">Annulé</target>
+        <target state="translated">Annulée</target>
         <note>key: ibexa.shipment.workflow.place.cancelled.label</note>
       </trans-unit>
       <trans-unit id="2cefba089a4871b220a7e20de0902678f208ac4f" resname="ibexa.shipment.workflow.place.delivered.label">
         <source>Delivered</source>
-        <target state="translated">Livré</target>
+        <target state="translated">Livrée</target>
         <note>key: ibexa.shipment.workflow.place.delivered.label</note>
       </trans-unit>
       <trans-unit id="0287f8974bbb0eb004aba7effed3ee99f138f2c2" resname="ibexa.shipment.workflow.place.pending.label">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="2c7bcb6ac788c905a2f56194277f7cfbab7c56ff" resname="ibexa.shipment.workflow.place.ready_to_ship.label">
         <source>Ready to ship</source>
-        <target state="translated">Prête à expédier</target>
+        <target state="translated">Prête à être expédiée</target>
         <note>key: ibexa.shipment.workflow.place.ready_to_ship.label</note>
       </trans-unit>
       <trans-unit id="ac4f0ada37935eced231d73fb3c6c5e518f87c19" resname="ibexa.shipment.workflow.place.shipped.label">
         <source>Shipped</source>
-        <target state="translated">Expédié</target>
+        <target state="translated">Expédiée</target>
         <note>key: ibexa.shipment.workflow.place.shipped.label</note>
       </trans-unit>
     </body>

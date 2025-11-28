@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="1c432a52add696f3bb78c868ca3b643a73110d8e" resname="calendar.collapse.sidebar">
         <source>Collapse sidebar</source>
-        <target state="translated">Ocultar barra lateral</target>
+        <target state="translated">Contraer barra lateral</target>
         <note>key: calendar.collapse.sidebar</note>
       </trans-unit>
       <trans-unit id="7d5ef25bcc86308de6f09962dec8215a07dfa65c" resname="calendar.date_paginator.today">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="59e3fee84c10074047b8a01c191da2a07438a14e" resname="calendar.deselect_all">
         <source>Deselect all</source>
-        <target state="needs-translation">Deselect all</target>
+        <target state="translated">Deseleccionar todo</target>
         <note>key: calendar.deselect_all</note>
       </trans-unit>
       <trans-unit id="71ed1d8df1592110b83f6375575fe9503dcc85d8" resname="calendar.expand.sidebar">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="315dfd96f88868ab18b441034110d1be60cab2e3" resname="calendar.filters.label">
         <source>Filters</source>
-        <target state="needs-translation">Filters</target>
+        <target state="translated">Filtros</target>
         <note>key: calendar.filters.label</note>
       </trans-unit>
       <trans-unit id="d7e7d23a9c363db8c35427d038398f822f213f6a" resname="calendar.filters.modified_langauge">
@@ -53,17 +53,17 @@
       </trans-unit>
       <trans-unit id="b7dfa1703967ef01984afceb4e9a4736bfd4da4b" resname="calendar.list_view.action_message">
         <source>To continue, click 'Refresh list'. The selected list will update and the new item will be added to the list</source>
-        <target state="translated">Para continuar, haz clic en “Actualizar lista'. La lista seleccionada se actualizará y el ítem nuevo se añadirá a la lista</target>
+        <target state="translated">Para continuar, haz clic en “Actualizar lista”. La lista seleccionada se actualizará y el nuevo ítem se añadirá a la lista</target>
         <note>key: calendar.list_view.action_message</note>
       </trans-unit>
       <trans-unit id="64d3a43bd33767824e15aad2cf7c193be3dbf845" resname="calendar.list_view.no_events">
         <source>No events to show.</source>
-        <target state="translated">No hay eventos para mostrar.</target>
+        <target state="translated">No hay eventos que mostrar.</target>
         <note>key: calendar.list_view.no_events</note>
       </trans-unit>
       <trans-unit id="3e4a58626123d7c904749e662815948b713b8f42" resname="calendar.load_events.error.message">
         <source>Cannot load calendar data</source>
-        <target state="translated">No se puede cargar la información del calendario</target>
+        <target state="translated">No se pueden cargar los datos del calendario</target>
         <note>key: calendar.load_events.error.message</note>
       </trans-unit>
       <trans-unit id="899ff3697336ae3d29665eab91848c0681cc8a6b" resname="calendar.load_more_btn.label">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="af4ae109d8c31844dd30577e77d6e9ee215c1939" resname="calendar.remove">
         <source>Remove</source>
-        <target state="translated">Eliminar</target>
+        <target state="translated">Quitar</target>
         <note>key: calendar.remove</note>
       </trans-unit>
       <trans-unit id="c994822d9ead3cac901ee5669d434a378e23f1bf" resname="calendar.selection_confirmation_popup.cancel.btn">
@@ -88,32 +88,32 @@
       </trans-unit>
       <trans-unit id="e6314c23a986620cf4c604c71b6ebc2f754d6a2b" resname="calendar.selection_confirmation_popup.message">
         <source>This event has different actions from the items currently selected in the list.</source>
-        <target state="translated">Este evento tiene acciones diferentes a los ítems que se encuentran seleccionados en la lista.</target>
+        <target state="translated">Este evento tiene acciones diferentes de los ítems actualmente seleccionados en la lista.</target>
         <note>key: calendar.selection_confirmation_popup.message</note>
       </trans-unit>
       <trans-unit id="dedc7ac32bb555c7a8ed92826303ca781c4ce676" resname="calendar.selection_confirmation_popup.no_events">
         <source>Conflict when selecting items</source>
-        <target state="translated">Conflicto al seleccionar los ítems</target>
+        <target state="translated">Conflicto al seleccionar ítems</target>
         <note>key: calendar.selection_confirmation_popup.no_events</note>
       </trans-unit>
       <trans-unit id="92e5329083074b289431bee769ff041949acac0e" resname="calendar.selection_sidebar.selected_info">
         <source>selected</source>
-        <target state="translated">Seleccionado</target>
+        <target state="translated">seleccionado</target>
         <note>key: calendar.selection_sidebar.selected_info</note>
       </trans-unit>
       <trans-unit id="4fbdf7c460a141ceeacf83df5e20dcc84c019f95" resname="calendar.time_pm_symbol">
         <source>PM</source>
-        <target state="needs-translation">PM</target>
+        <target state="translated">PM</target>
         <note>key: calendar.time_pm_symbol</note>
       </trans-unit>
       <trans-unit id="07d8842da3d9fe4c5c1564d18415e12cbcc0e626" resname="calendar.tooltips.backward">
         <source>Backward</source>
-        <target state="translated">Anterior</target>
+        <target state="translated">Atrás</target>
         <note>key: calendar.tooltips.backward</note>
       </trans-unit>
       <trans-unit id="faeb6e1b3f9b7027db26a9f89d57d8f227d6c272" resname="calendar.tooltips.forward">
         <source>Forward</source>
-        <target state="translated">Siguiente</target>
+        <target state="translated">Adelante</target>
         <note>key: calendar.tooltips.forward</note>
       </trans-unit>
       <trans-unit id="d4cddd2ef20d8cd6eaa68a8b317d8123ef7ff7b0" resname="calendar.view_switcher.day">
@@ -133,17 +133,17 @@
       </trans-unit>
       <trans-unit id="485936d4461689d3c89217ba8d35c399152b8bc5" resname="view_toggler.calendar_view">
         <source>Calendar view</source>
-        <target state="needs-translation">Calendar view</target>
+        <target state="translated">Vista del calendario</target>
         <note>key: view_toggler.calendar_view</note>
       </trans-unit>
       <trans-unit id="7d6cc235b821be4307f2f1e991f02c59a2499250" resname="view_toggler.list_view">
         <source>List view</source>
-        <target state="needs-translation">List view</target>
+        <target state="translated">Vista de lista</target>
         <note>key: view_toggler.list_view</note>
       </trans-unit>
       <trans-unit id="553de375ac66858a59570a5f46a1767bbcf44ec4" resname="view_toggler.view">
         <source>View</source>
-        <target state="needs-translation">View</target>
+        <target state="translated">Vista</target>
         <note>key: view_toggler.view</note>
       </trans-unit>
     </body>

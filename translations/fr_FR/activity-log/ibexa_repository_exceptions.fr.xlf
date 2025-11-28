@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="cadbd405bae45bc2b3d609a3081e0185706a7828" resname="security.activity_log.access_forbidden">
         <source>Access forbidden</source>
-        <target state="needs-translation">Access forbidden</target>
+        <target state="translated">Accès interdit</target>
         <note>key: security.activity_log.access_forbidden</note>
       </trans-unit>
     </body>

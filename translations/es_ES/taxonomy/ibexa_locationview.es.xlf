@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="fdc7d270cec1081be5a6888bf565ff03eebc6ce9" resname="content.create.cancel_btn.label">
         <source>Discard</source>
-        <target state="needs-translation">Discard</target>
+        <target state="translated">Descartar</target>
         <note>key: content.create.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="61c309bd68782746767f9165eb574f111b50a727" resname="content.create.create_content">
         <source>Create content</source>
-        <target state="needs-translation">Create content</target>
+        <target state="translated">Crear contenido</target>
         <note>key: content.create.create_content</note>
       </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
         <source>Select a language:</source>
-        <target state="needs-translation">Select a language:</target>
+        <target state="translated">Selecciona un idioma:</target>
         <note>key: content.create.select_language</note>
       </trans-unit>
       <trans-unit id="5767dfeb60cb37c40e6df7dc69ebbede4a996b47" resname="content.create.tag.editing_details">
         <source>under: %content%</source>
-        <target state="needs-translation">under: %content%</target>
+        <target state="translated">debajo de: %content%</target>
         <note>key: content.create.tag.editing_details</note>
       </trans-unit>
     </body>

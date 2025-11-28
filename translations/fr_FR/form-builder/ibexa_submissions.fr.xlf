@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="2cbdbd8a31d4b7f5b991f1a3b35814051b24d77e" resname="submission.delete.success">
         <source>Removed submission from '%name%'.</source>
-        <target state="translated">Soumission supprimée de '%name%'.</target>
+        <target state="translated">Soumission supprimée de « %name% ».</target>
         <note>key: submission.delete.success</note>
       </trans-unit>
       <trans-unit id="6e2039400ce3ef8466238211710d65725846940b" resname="submissions.details.header">
         <source>View submission</source>
-        <target state="translated">Voir la soumission</target>
+        <target state="translated">Afficher la soumission</target>
         <note>key: submissions.details.header</note>
       </trans-unit>
       <trans-unit id="872e093ee76ab96665db76573be0e773b9c989af" resname="tab.submissions.action.delete">
@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="2f12976349f9817982b345a27697cf260579dcd4" resname="tab.submissions.modal.message">
         <source>Do you want to delete the submission(s)?</source>
-        <target state="translated">Voulez-vous supprimer cette/ces soumission(s) ?</target>
+        <target state="translated">Voulez-vous supprimer la ou les soumissions ?</target>
         <note>key: tab.submissions.modal.message</note>
       </trans-unit>
       <trans-unit id="9d6392988953776a755089a0d93dae4512cb2758" resname="tab.submissions.no_submissions">
         <source>This form has no submissions.</source>
-        <target state="translated">Ce formulaire n'a pas de soumission.</target>
+        <target state="translated">Ce formulaire ne contient aucune soumission.</target>
         <note>key: tab.submissions.no_submissions</note>
       </trans-unit>
       <trans-unit id="6039d73f32eecd317821da4068d559bedf487549" resname="tab.submissions.submissions">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
         <source>View submission</source>
-        <target state="translated">Voir la soumission</target>
+        <target state="translated">Afficher la soumission</target>
         <note>key: tab.versions.table.action.draft.edit</note>
       </trans-unit>
     </body>

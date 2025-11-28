@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="bc68ce8e6e2d293ef01129f0238e11152df66ca6" resname="ezmatrix.add">
         <source>Add</source>
-        <target state="translated">Neu</target>
+        <target state="translated">Hinzufügen</target>
         <note>key: ezmatrix.add</note>
       </trans-unit>
       <trans-unit id="f5aef330799a7345c75e72279e06eb9f5b7d0da9" resname="ezmatrix.remove">
         <source>Delete</source>
-        <target state="translated">Entfernen</target>
+        <target state="translated">Löschen</target>
         <note>key: ezmatrix.remove</note>
       </trans-unit>
       <trans-unit id="8422049ef51bbcd967ea5578aee3ed094edd252c" resname="field.column.add_new">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="fa41ae6cab6d74c6548f4052c02c0c5129a27f1d" resname="field.column.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: field.column.identifier</note>
       </trans-unit>
       <trans-unit id="34311ae1b06f664d26af7e6472d8e44eed4c7048" resname="field.column.name">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="07c51cf854c53ebcc11d9261c7ca5b0772d7f7a4" resname="field_definition.ezmatrix.minimum_rows">
         <source>Minimum number of rows</source>
-        <target state="translated">Minimale Anzahl von Zeilen</target>
+        <target state="translated">Mindestanzahl von Zeilen</target>
         <note>key: field_definition.ezmatrix.minimum_rows</note>
       </trans-unit>
       <trans-unit id="fc0bcd313cd08b3ce3b2380d4cc714c20047a5c0" resname="fieldtype.column.identifier">
         <source>Identifier</source>
-        <target state="translated">Kennung</target>
+        <target state="translated">Bezeichner</target>
         <note>key: fieldtype.column.identifier</note>
       </trans-unit>
       <trans-unit id="9fba35041bf8d815e178fa77540c6e1fec6e322f" resname="fieldtype.column.name">

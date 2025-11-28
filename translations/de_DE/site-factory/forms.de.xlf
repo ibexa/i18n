@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="2e2e751bf3201fb6c68307c683a3ac384b9ec0cf" resname="role.policy.site">
         <source>Site</source>
-        <target state="needs-translation">Site</target>
+        <target state="translated">Site</target>
         <note>key: role.policy.site</note>
       </trans-unit>
       <trans-unit id="8a7be79652e042c41e49671038f309291c780c78" resname="role.policy.site.all_functions">
         <source>Site / All functions</source>
-        <target state="needs-translation">Site / All functions</target>
+        <target state="translated">Site / Alle Funktionen</target>
         <note>key: role.policy.site.all_functions</note>
       </trans-unit>
       <trans-unit id="fa041654ee2bd9a54a870675fc96399dac830b73" resname="role.policy.site.change_status">
         <source>Site / Change status</source>
-        <target state="needs-translation">Site / Change status</target>
+        <target state="translated">Site / Status ändern</target>
         <note>key: role.policy.site.change_status</note>
       </trans-unit>
       <trans-unit id="7974d9702481b771e623dd447d3df7d8e7350e7b" resname="role.policy.site.create">
         <source>Site / Create</source>
-        <target state="needs-translation">Site / Create</target>
+        <target state="translated">Site / Erstellen</target>
         <note>key: role.policy.site.create</note>
       </trans-unit>
       <trans-unit id="45e0983429e1df736d0c26b5b9c62a8f522c5c00" resname="role.policy.site.delete">
         <source>Site / Delete</source>
-        <target state="needs-translation">Site / Delete</target>
+        <target state="translated">Site / Löschen</target>
         <note>key: role.policy.site.delete</note>
       </trans-unit>
       <trans-unit id="f473815a92d4ec35eeaa54464164aa98119594df" resname="role.policy.site.edit">
         <source>Site / Edit</source>
-        <target state="needs-translation">Site / Edit</target>
+        <target state="translated">Site / Bearbeiten</target>
         <note>key: role.policy.site.edit</note>
       </trans-unit>
       <trans-unit id="34b7e317be37673c466c03c644176ffb618295a8" resname="role.policy.site.view">
         <source>Site / View</source>
-        <target state="needs-translation">Site / View</target>
+        <target state="translated">Site / Anzeigen</target>
         <note>key: role.policy.site.view</note>
       </trans-unit>
       <trans-unit id="a8d7b699ad107714b45a187ad38744491b998bee" resname="sites_delete_form.delete">

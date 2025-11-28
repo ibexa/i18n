@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="73f2b3d489590c0e4c787e96a9f6a2a67e7ce8cc" resname="role.policy.checkout">
         <source>Checkout</source>
-        <target state="needs-translation">Checkout</target>
+        <target state="translated">Check-out</target>
         <note>key: role.policy.checkout</note>
       </trans-unit>
       <trans-unit id="e3a5a2e6ff17200ccc16ab10ef8cb29bff6da75b" resname="role.policy.checkout.all_functions">
         <source>Checkout / All functions</source>
-        <target state="needs-translation">Checkout / All functions</target>
+        <target state="translated">Check-out / Alle Funktionen</target>
         <note>key: role.policy.checkout.all_functions</note>
       </trans-unit>
       <trans-unit id="4b55db236cc1a01417c4229de988c306fdd0ec81" resname="role.policy.checkout.create">
         <source>Checkout / Create</source>
-        <target state="needs-translation">Checkout / Create</target>
+        <target state="translated">Check-out / Erstellen</target>
         <note>key: role.policy.checkout.create</note>
       </trans-unit>
       <trans-unit id="92ef3857ded1f6c9867ebb9978db1bb1e95a9d16" resname="role.policy.checkout.delete">
         <source>Checkout / Delete</source>
-        <target state="needs-translation">Checkout / Delete</target>
+        <target state="translated">Check-out / Löschen</target>
         <note>key: role.policy.checkout.delete</note>
       </trans-unit>
       <trans-unit id="07dc3d538f80d8172da4e6c745b1d9a2467bd35f" resname="role.policy.checkout.update">
         <source>Checkout / Update</source>
-        <target state="needs-translation">Checkout / Update</target>
+        <target state="translated">Check-out / Aktualisieren</target>
         <note>key: role.policy.checkout.update</note>
       </trans-unit>
       <trans-unit id="97aaaf06cf4c6e76248a6e530bf0df1a6108174c" resname="role.policy.checkout.view">
         <source>Checkout / View</source>
-        <target state="needs-translation">Checkout / View</target>
+        <target state="translated">Check-out / Anzeigen</target>
         <note>key: role.policy.checkout.view</note>
       </trans-unit>
     </body>

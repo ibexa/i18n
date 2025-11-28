@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="89b456c2ec176d6a0878d0992424a2a41d89b3ba" resname="content_edit__anchor_menu__content">
         <source>Content</source>
-        <target state="translated">Inhalte</target>
+        <target state="translated">Inhalt</target>
         <note>key: content_edit__anchor_menu__content</note>
       </trans-unit>
       <trans-unit id="84cd0d095ea2a1c6f98c298609a49adca5c3b663" resname="content_edit__anchor_menu__meta">
         <source>Meta</source>
-        <target state="translated">Metadaten</target>
+        <target state="translated">Meta</target>
         <note>key: content_edit__anchor_menu__meta</note>
       </trans-unit>
       <trans-unit id="af459eaf05dedc87eb0c462732e59da18bedb340" resname="content_edit__sidebar_right__cancel">
@@ -196,6 +196,26 @@
         <target state="translated">Speichern und schließen</target>
         <note>key: content_type_group_edit__sidebar_right__save_and_close</note>
       </trans-unit>
+      <trans-unit id="02575ef0a9b0b7830fdaedc7ef55f20ed9a58a77" resname="copy_form__sidebar_right__cancel">
+        <source>Discard</source>
+        <target state="translated">Verwerfen</target>
+        <note>key: copy_form__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="e09060b71f77de9de7ea7f7758637b6138843433" resname="copy_form__sidebar_right__copy">
+        <source>Copy</source>
+        <target state="translated">Kopieren</target>
+        <note>key: copy_form__sidebar_right__copy</note>
+      </trans-unit>
+      <trans-unit id="e6d711b654cc77e353dd44ec2ac0403cc6363379" resname="create_form__sidebar_right__cancel">
+        <source>Discard</source>
+        <target state="translated">Verwerfen</target>
+        <note>key: create_form__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="a4bbf87eeab7a1d31fdf3f517b5240ba1d8dd573" resname="create_form__sidebar_right__create">
+        <source>Save and close</source>
+        <target state="translated">Speichern und schließen</target>
+        <note>key: create_form__sidebar_right__create</note>
+      </trans-unit>
       <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel">
         <source>Discard</source>
         <target state="translated">Verwerfen</target>
@@ -228,7 +248,7 @@
       </trans-unit>
       <trans-unit id="d24d01151cf9ba69e38be735778da00850cea694" resname="main__admin">
         <source>Admin</source>
-        <target state="translated">Administrator</target>
+        <target state="translated">Admin</target>
         <note>key: main__admin</note>
       </trans-unit>
       <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
@@ -243,7 +263,7 @@
       </trans-unit>
       <trans-unit id="1d350945e7732f519fd5d2f6a69c926a193d6146" resname="main__admin__object_states">
         <source>Object States</source>
-        <target state="translated">Objektzustände</target>
+        <target state="translated">Objektstatus</target>
         <note>key: main__admin__object_states</note>
       </trans-unit>
       <trans-unit id="8a5845bd0e93b67b2ac54a06f2eae85f2cb3b13d" resname="main__admin__roles">
@@ -258,7 +278,7 @@
       </trans-unit>
       <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
         <source>URL management</source>
-        <target state="translated">URL-Verwaltung</target>
+        <target state="translated">URL-Management</target>
         <note>key: main__admin__url_management</note>
       </trans-unit>
       <trans-unit id="975e43875a74d509e3e0cedd926de1223d09cdf4" resname="main__admin__users">
@@ -278,7 +298,7 @@
       </trans-unit>
       <trans-unit id="1dd8b693879304af831a7adaf4ca59c7d8cb31b9" resname="main__content__content_structure">
         <source>Content structure</source>
-        <target state="translated">Inhaltstruktur</target>
+        <target state="translated">Inhaltsstruktur</target>
         <note>key: main__content__content_structure</note>
       </trans-unit>
       <trans-unit id="17346107dfddb344b04c455b071d001dadf80d6f" resname="main__content__group_settings">
@@ -473,13 +493,23 @@
       </trans-unit>
       <trans-unit id="54d372f047fb6efb83ac05eca195c8c891edc64a" resname="sidebar_right.create_user">
         <source>Create user</source>
-        <target state="translated">Benutzer anlegen</target>
+        <target state="translated">Benutzer erstellen</target>
         <note>key: sidebar_right.create_user</note>
       </trans-unit>
       <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash">
         <source>Empty Trash</source>
         <target state="translated">Papierkorb leeren</target>
         <note>key: trash__sidebar_right__empty_trash</note>
+      </trans-unit>
+      <trans-unit id="b450183446de8118e16cebbd17b065bf55767c35" resname="update_form__sidebar_right__cancel">
+        <source>Discard</source>
+        <target state="translated">Verwerfen</target>
+        <note>key: update_form__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="e64b83da92e68d70aa32dd8bf1dedaf154d39a7d" resname="update_form__sidebar_right__update">
+        <source>Save and close</source>
+        <target state="translated">Speichern und schließen</target>
+        <note>key: update_form__sidebar_right__update</note>
       </trans-unit>
       <trans-unit id="5ded8d45683caa8bb19649d5cc39bd76ebabfa63" resname="url_edit__sidebar_right__cancel">
         <source>Discard changes</source>

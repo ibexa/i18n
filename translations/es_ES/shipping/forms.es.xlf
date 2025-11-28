@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,62 +8,62 @@
     <body>
       <trans-unit id="eeb468918380afb9316de4f2e82a413d67a64f23" resname="role.policy.shipment">
         <source>Shipment</source>
-        <target state="needs-translation">Shipment</target>
+        <target state="translated">Envío</target>
         <note>key: role.policy.shipment</note>
       </trans-unit>
       <trans-unit id="071f3ed3c06d6d88ba99f27774869545ca75fcde" resname="role.policy.shipment.all_functions">
         <source>Shipment / All functions</source>
-        <target state="needs-translation">Shipment / All functions</target>
+        <target state="translated">Envío/Todas las funciones</target>
         <note>key: role.policy.shipment.all_functions</note>
       </trans-unit>
       <trans-unit id="2958da89cdcc460105aa1a71b9003709e076deef" resname="role.policy.shipment.create">
         <source>Shipment / Create</source>
-        <target state="needs-translation">Shipment / Create</target>
+        <target state="translated">Envío/Crear</target>
         <note>key: role.policy.shipment.create</note>
       </trans-unit>
       <trans-unit id="521e77f60c87540bdccafc063a3c622110f7d04e" resname="role.policy.shipment.delete">
         <source>Shipment / Delete</source>
-        <target state="needs-translation">Shipment / Delete</target>
+        <target state="translated">Envío/Eliminar</target>
         <note>key: role.policy.shipment.delete</note>
       </trans-unit>
       <trans-unit id="488dd2e7a28467826890c761e73941ccc9f15b60" resname="role.policy.shipment.edit">
         <source>Shipment / Edit</source>
-        <target state="needs-translation">Shipment / Edit</target>
+        <target state="translated">Envío/Editar</target>
         <note>key: role.policy.shipment.edit</note>
       </trans-unit>
       <trans-unit id="bd5f08ed8f0a52a34a425fc6b7544abf5e3815ba" resname="role.policy.shipment.view">
         <source>Shipment / View</source>
-        <target state="needs-translation">Shipment / View</target>
+        <target state="translated">Envío/Visualizar</target>
         <note>key: role.policy.shipment.view</note>
       </trans-unit>
       <trans-unit id="d302e2476f9866cae2676b1f5bd33d1c007b40db" resname="role.policy.shipping_method">
         <source>Shipping method</source>
-        <target state="needs-translation">Shipping method</target>
+        <target state="translated">Método de envío</target>
         <note>key: role.policy.shipping_method</note>
       </trans-unit>
       <trans-unit id="0701caac590eb90b6dffb90740a1da4a3e753336" resname="role.policy.shipping_method.all_functions">
         <source>Shipping method / All functions</source>
-        <target state="needs-translation">Shipping method / All functions</target>
+        <target state="translated">Método de envío/Todas las funciones</target>
         <note>key: role.policy.shipping_method.all_functions</note>
       </trans-unit>
       <trans-unit id="3b294d30c5a500293f1b46be2b7b013465187dab" resname="role.policy.shipping_method.create">
         <source>Shipping method / Create</source>
-        <target state="needs-translation">Shipping method / Create</target>
+        <target state="translated">Método de envío/Crear</target>
         <note>key: role.policy.shipping_method.create</note>
       </trans-unit>
       <trans-unit id="7a362098596943d628a67293174898ca9670b84d" resname="role.policy.shipping_method.delete">
         <source>Shipping method / Delete</source>
-        <target state="needs-translation">Shipping method / Delete</target>
+        <target state="translated">Método de envío/Eliminar</target>
         <note>key: role.policy.shipping_method.delete</note>
       </trans-unit>
       <trans-unit id="a2bde4b80445440523442e4826b7e73d1d144cdb" resname="role.policy.shipping_method.edit">
         <source>Shipping method / Edit</source>
-        <target state="needs-translation">Shipping method / Edit</target>
+        <target state="translated">Método de envío/Editar</target>
         <note>key: role.policy.shipping_method.edit</note>
       </trans-unit>
       <trans-unit id="74783a29253e83fe1b80101052f5da0315df26d4" resname="role.policy.shipping_method.view">
         <source>Shipping method / View</source>
-        <target state="needs-translation">Shipping method / View</target>
+        <target state="translated">Método de envío/Visualizar</target>
         <note>key: role.policy.shipping_method.view</note>
       </trans-unit>
     </body>

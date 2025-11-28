@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -28,22 +28,22 @@
       </trans-unit>
       <trans-unit id="859bfc3d21113eecb4a19d4a9305f2519eb4b331" resname="ezplatform.forgot_user_password.email">
         <source>Enter your email</source>
-        <target state="needs-translation">Enter your email</target>
+        <target state="translated">Introduce tu correo electrónico</target>
         <note>key: ezplatform.forgot_user_password.email</note>
       </trans-unit>
       <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
         <source>Enter your login:</source>
-        <target state="translated">Escribe tu correo electrónico:</target>
+        <target state="translated">Introduce tu nombre de usuario:</target>
         <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
       <trans-unit id="0f7bbe027d2c53c78c7b3ce938af6c0ef6c1c2e2" resname="ezplatform.forgot_user_password.reset">
         <source>Reset</source>
-        <target state="needs-translation">Reset</target>
+        <target state="translated">Restablecer</target>
         <note>key: ezplatform.forgot_user_password.reset</note>
       </trans-unit>
       <trans-unit id="44c91aa5708f9b819f7f84b00925dc19d6798341" resname="ezplatform.forgot_user_password.send">
         <source>Send</source>
-        <target state="needs-translation">Send</target>
+        <target state="translated">Enviar</target>
         <note>key: ezplatform.forgot_user_password.send</note>
       </trans-unit>
       <trans-unit id="877b8a2a4e3b2c7c137b7776a54cd7531421e5d3" resname="ezplatform.reset_user_password.confirm_new_password">
@@ -63,52 +63,52 @@
       </trans-unit>
       <trans-unit id="ab90b332cf5f8d29b421427cdfc2ec676d5bebdb" resname="ibexa.user.invitation.email">
         <source>Enter email</source>
-        <target state="needs-translation">Enter email</target>
+        <target state="translated">Introducir correo electrónico</target>
         <note>key: ibexa.user.invitation.email</note>
       </trans-unit>
       <trans-unit id="40edf918af3b2d9085e2ecaa98cfd004f13fc226" resname="ibexa.user.invitation.group">
         <source>Select Group</source>
-        <target state="needs-translation">Select Group</target>
+        <target state="translated">Seleccionar grupo</target>
         <note>key: ibexa.user.invitation.group</note>
       </trans-unit>
       <trans-unit id="6b827dc215e0b48c99cd9c687dcf7eb2516ea04c" resname="ibexa.user.invitation.location_id">
         <source>Type subtree root id</source>
-        <target state="needs-translation">Type subtree root id</target>
+        <target state="translated">Escribir id raíz del árbol secundario</target>
         <note>key: ibexa.user.invitation.location_id</note>
       </trans-unit>
       <trans-unit id="a58fe68d0cd618abf2315b3fa69de2f2f4d6ed56" resname="ibexa.user.invitation.pick_sections">
         <source>Pick Sections</source>
-        <target state="needs-translation">Pick Sections</target>
+        <target state="translated">Escoger secciones</target>
         <note>key: ibexa.user.invitation.pick_sections</note>
       </trans-unit>
       <trans-unit id="04b4c40f5a7eabe6c31aa32dacf78b4dfc4f7a62" resname="ibexa.user.invitation.role">
         <source>Select Role</source>
-        <target state="needs-translation">Select Role</target>
+        <target state="translated">Seleccionar rol</target>
         <note>key: ibexa.user.invitation.role</note>
       </trans-unit>
       <trans-unit id="72fa3da181a637ddf261bc9948160611535062ef" resname="ibexa.user.invitation.send_invitation">
         <source>Send invitation</source>
-        <target state="needs-translation">Send invitation</target>
+        <target state="translated">Enviar invitación</target>
         <note>key: ibexa.user.invitation.send_invitation</note>
       </trans-unit>
       <trans-unit id="ad201158aea7a3eae82b7364341dc0dd218d7436" resname="ibexa.user.invitation.site_access">
         <source>Select Site</source>
-        <target state="needs-translation">Select Site</target>
+        <target state="translated">Seleccionar sitio</target>
         <note>key: ibexa.user.invitation.site_access</note>
       </trans-unit>
       <trans-unit id="78b9d0d52e636ef2d0d1f919de16154404c2be0f" resname="role.policy.user">
         <source>User</source>
-        <target state="needs-translation">User</target>
+        <target state="translated">Usuario</target>
         <note>key: role.policy.user</note>
       </trans-unit>
       <trans-unit id="d44ce8c33cbc780cff9ca6f05ad2f70002550cd0" resname="role.policy.user.all_functions">
         <source>User / All functions</source>
-        <target state="needs-translation">User / All functions</target>
+        <target state="translated">Usuario/Todas las funciones</target>
         <note>key: role.policy.user.all_functions</note>
       </trans-unit>
       <trans-unit id="587199065d14880416b8061b73788e731a201c27" resname="role.policy.user.invite">
         <source>User / Invite</source>
-        <target state="needs-translation">User / Invite</target>
+        <target state="translated">Usuario/Invitar</target>
         <note>key: role.policy.user.invite</note>
       </trans-unit>
     </body>

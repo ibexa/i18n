@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
-        <target state="needs-translation">Admin</target>
+        <target state="translated">Administrador</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
       <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
         <source>From:</source>
-        <target state="needs-translation">From:</target>
+        <target state="translated">De:</target>
         <note>key: content.review.from</note>
       </trans-unit>
       <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
         <source>Read more</source>
-        <target state="needs-translation">Read more</target>
+        <target state="translated">Leer más</target>
         <note>key: content.review.read_more</note>
       </trans-unit>
     </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -13,17 +13,17 @@
       </trans-unit>
       <trans-unit id="4f885cc7e7d18dcfa00e7a41654d816c4ec79555" resname="date_period_choice.last_month">
         <source>Last month</source>
-        <target state="translated">Último mes</target>
+        <target state="translated">El mes pasado</target>
         <note>key: date_period_choice.last_month</note>
       </trans-unit>
       <trans-unit id="bd0f9bebdc65d9aec2293cfec265034ee4140c49" resname="date_period_choice.last_week">
         <source>Last week</source>
-        <target state="translated">Última semana</target>
+        <target state="translated">La semana pasada</target>
         <note>key: date_period_choice.last_week</note>
       </trans-unit>
       <trans-unit id="e81c756136a15ecb6125f894203ba819ac6a684f" resname="date_period_choice.last_year">
         <source>Last year</source>
-        <target state="translated">Último año</target>
+        <target state="translated">El año pasado</target>
         <note>key: date_period_choice.last_year</note>
       </trans-unit>
     </body>

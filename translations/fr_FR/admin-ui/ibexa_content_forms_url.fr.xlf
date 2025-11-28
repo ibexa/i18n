@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="46eac77ae02f91344e4239e517a2c2806f628b57" resname="url.save">
         <source>Save</source>
-        <target state="translated">Sauvegarder</target>
+        <target state="translated">Enregistrer</target>
         <note>key: url.save</note>
       </trans-unit>
       <trans-unit id="781fe2cec5471ca0afb64ee844770e054754d570" resname="url.save_and_close">
         <source>Save and close</source>
-        <target state="translated">Sauvegarder et fermer</target>
+        <target state="translated">Enregistrer et fermer</target>
         <note>key: url.save_and_close</note>
       </trans-unit>
       <trans-unit id="bce60197735a1f604ba70517b0f1b4b0d838d56a" resname="url.status.all">
         <source>All</source>
-        <target state="translated">Toutes</target>
+        <target state="translated">Tous</target>
         <note>key: url.status.all</note>
       </trans-unit>
       <trans-unit id="3e0d8fcb74e476fcae45da9c4c7b0b261118c7a3" resname="url.status.invalid">

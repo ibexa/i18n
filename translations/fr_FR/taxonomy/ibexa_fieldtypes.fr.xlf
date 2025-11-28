@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="e9cd68453303e92dbd7a3c81da9f41c556014dba" resname="ibexa_taxonomy_entry_assignment.name">
         <source>Taxonomy Entry Assignment</source>
-        <target state="translated">Affectation d'entrée de taxonomie</target>
+        <target state="translated">Attribution d’entrée de taxonomie</target>
         <note>key: ibexa_taxonomy_entry_assignment.name</note>
       </trans-unit>
     </body>

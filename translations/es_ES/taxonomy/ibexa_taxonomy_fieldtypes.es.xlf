@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="7bd79f56f041d05aa05dd6a1456fb1406c7a24b2" resname="taxonomy.select_parent">
         <source>Select parent</source>
-        <target state="needs-translation">Select parent</target>
+        <target state="translated">Seleccionar elemento principal</target>
         <note>key: taxonomy.select_parent</note>
       </trans-unit>
       <trans-unit id="46d079247c2c8d13944cd404f5e8ba7136f12b47" resname="taxonomy.tag.content.modal.confirm">
         <source>Select</source>
-        <target state="needs-translation">Select</target>
+        <target state="translated">Seleccionar</target>
         <note>key: taxonomy.tag.content.modal.confirm</note>
       </trans-unit>
       <trans-unit id="34023a9634f0e572d296b2de5a70c960c8c12e27" resname="taxonomy.tag.content.modal.subtitle">
         <source>in %languageName%</source>
-        <target state="needs-translation">in %languageName%</target>
+        <target state="translated">en %languageName%</target>
         <note>key: taxonomy.tag.content.modal.subtitle</note>
       </trans-unit>
       <trans-unit id="dddc97c66d483ea17123c23accf45f2dcb0ac930" resname="taxonomy.tag.content.modal.title">
         <source>Select %name%</source>
-        <target state="needs-translation">Select %name%</target>
+        <target state="translated">Seleccionar %name%</target>
         <note>key: taxonomy.tag.content.modal.title</note>
       </trans-unit>
     </body>

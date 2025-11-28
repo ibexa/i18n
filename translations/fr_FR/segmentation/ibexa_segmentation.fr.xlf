@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="1ab8eff8f8a478baa5c6d8667ad75648cac1ea7f" resname="form.editing">
         <source>Editing %name% segment group</source>
-        <target state="translated">Modification du groupe de segmentation %name%</target>
+        <target state="translated">Modification du groupe de segments %name%</target>
         <note>key: form.editing</note>
       </trans-unit>
       <trans-unit id="3f06b9778073a8347a6ecc5f8c6b0e21ec7cc7a4" resname="form.editing_segment">
         <source>Editing segment</source>
-        <target state="translated">Éditer segmentation</target>
+        <target state="translated">Modification du segment</target>
         <note>key: form.editing_segment</note>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
@@ -53,17 +53,17 @@
       </trans-unit>
       <trans-unit id="6d0b3761c7a30fcfe7ddcc1bba4eccf708638271" resname="segment.create.success">
         <source>Segment '%name%' added.</source>
-        <target state="translated">Segmentation '%name%' ajoutée.</target>
+        <target state="translated">Segment « %name% » ajouté.</target>
         <note>key: segment.create.success</note>
       </trans-unit>
       <trans-unit id="bb1ab9042f90f67a8d63cac13b6a7fd648fb0841" resname="segment.delete.success">
         <source>Segment '%segment%' removed.</source>
-        <target state="translated">Segmentation '%segment%' supprimée.</target>
+        <target state="translated">Segment « %segment% » supprimé.</target>
         <note>key: segment.delete.success</note>
       </trans-unit>
       <trans-unit id="c06f283e90ae30cc2ef96139e4d26f742f5c3562" resname="segment.update.success">
         <source>Segment '%name%' updated.</source>
-        <target state="translated">Segmentation '%name%' mise à jour.</target>
+        <target state="translated">Segment « %name% » mis à jour.</target>
         <note>key: segment.update.success</note>
       </trans-unit>
       <trans-unit id="84987c1330d341b95bac668156c0e2b1db2db644" resname="segment_group.action.delete">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="7e946592cc59b778faf63d3a840e42d87ff00a26" resname="segment_group.create.success">
         <source>Segment Group '%segment_group%' created.</source>
-        <target state="translated">Le groupe de segmentation '%segment_group%' a été créé.</target>
+        <target state="translated">Groupe de segments « %segment_group% » créé.</target>
         <note>key: segment_group.create.success</note>
       </trans-unit>
       <trans-unit id="2acd53f897aff262b550d178a9d43a44733cfd88" resname="segment_group.delete.success">
         <source>Segment Group '%segment_group%' removed.</source>
-        <target state="translated">Le groupe de segmentation '%segment_group%' a été supprimé.</target>
+        <target state="translated">Groupe de segments « %segment_group% » supprimé.</target>
         <note>key: segment_group.delete.success</note>
       </trans-unit>
       <trans-unit id="ec792bba69b58c2f454919e5e5558d0d1c9c5a32" resname="segment_group.identifier">
@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="60df443de6933bced3dabfca8975fd8c6b914606" resname="segment_group.list.segment_group_bulk_delete.modal.message">
         <source>Do you want to delete the Segment Group(s)?</source>
-        <target state="translated">Voulez-vous supprimer le(s) segment(s) de groupe(s) ?</target>
+        <target state="translated">Voulez-vous supprimer le ou les groupes de segments ?</target>
         <note>key: segment_group.list.segment_group_bulk_delete.modal.message</note>
       </trans-unit>
       <trans-unit id="9231de10dd9ebb9bc47e04a139a229ca95f689a3" resname="segment_group.modal.message">
         <source>Do you want to delete the Segment Group?</source>
-        <target state="translated">Voulez-vous vraiment supprimer le groupe de segmentation ?</target>
+        <target state="translated">Voulez-vous supprimer le groupe de segments ?</target>
         <note>key: segment_group.modal.message</note>
       </trans-unit>
       <trans-unit id="657a5e450d7944e3dc99c716ab4b6ac35184fa7d" resname="segment_group.name">
@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="206290d4a51d48f1a4c35414013c8ed23855c09f" resname="segment_group.segment.identifier">
         <source>Segment identifier</source>
-        <target state="translated">Identifiant de la segmentation</target>
+        <target state="translated">Identifiant du segment</target>
         <note>key: segment_group.segment.identifier</note>
       </trans-unit>
       <trans-unit id="3b72c6d7a295713bc8b36962a1cd6954f11d4021" resname="segment_group.segment.name">
         <source>Segment name</source>
-        <target state="translated">Nom de la segmentation</target>
+        <target state="translated">Nom du segment</target>
         <note>key: segment_group.segment.name</note>
       </trans-unit>
       <trans-unit id="796351668b467f2aa69799c7fb03a85a725c678c" resname="segment_group.segment.remove">
@@ -138,12 +138,12 @@
       </trans-unit>
       <trans-unit id="06b27025428818eb225cf1550f4eeafbc096af0d" resname="segment_group.segments.header">
         <source>Segments under this group</source>
-        <target state="translated">Segments sous ce groupe</target>
+        <target state="translated">Segments dans ce groupe</target>
         <note>key: segment_group.segments.header</note>
       </trans-unit>
       <trans-unit id="07dd1ff7e83c430af46ae267f0f14e3debc896c4" resname="segment_group.subtitle">
         <source>Segment Groups</source>
-        <target state="translated">Groupes de segment</target>
+        <target state="translated">Groupes de segments</target>
         <note>key: segment_group.subtitle</note>
       </trans-unit>
       <trans-unit id="17e5b9e57187719e0ce56fe5699317b2fb63b0e7" resname="segment_group.tab.header.details">
@@ -153,17 +153,17 @@
       </trans-unit>
       <trans-unit id="3cfdaca80b61c5c97dc042598d1b91753ba790b3" resname="segment_group.tab.header.segments">
         <source>Segments under this group</source>
-        <target state="translated">Segments sous ce groupe</target>
+        <target state="translated">Segments dans ce groupe</target>
         <note>key: segment_group.tab.header.segments</note>
       </trans-unit>
       <trans-unit id="ac3219c4ef255cc200f1c7cfdaf3191a0be5de39" resname="segment_group.update.success">
         <source>Segment Group '%segment_group%' updated.</source>
-        <target state="translated">Le groupe de segmentation '%segment_group%' a été mis à jour.</target>
+        <target state="translated">Groupe de segments « %segment_group% » mis à jour.</target>
         <note>key: segment_group.update.success</note>
       </trans-unit>
       <trans-unit id="0c13dd5fadc3aee3d6e71563202f46f75f8b9dcd" resname="segment_group.view.segment_bulk_delete.modal.message">
         <source>Do you want to delete the Segments?</source>
-        <target state="translated">Voulez-vous supprimer les segments ?</target>
+        <target state="translated">Voulez-vous supprimer les segments ?</target>
         <note>key: segment_group.view.segment_bulk_delete.modal.message</note>
       </trans-unit>
       <trans-unit id="321ebffb584bc412cd9ba377d9f0a78f7de48ccc" resname="segment_group.view.segments.action.delete">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="49ca1e24e1c1c2758509d7a8ce79e314d08b954d" resname="segment_groups.list.empty">
         <source>No Segment Groups.</source>
-        <target state="translated">Aucun groupe de segmentation.</target>
+        <target state="translated">Aucun groupe de segments.</target>
         <note>key: segment_groups.list.empty</note>
       </trans-unit>
       <trans-unit id="447e390e05e47c271171f1585d35eb0f3a063240" resname="segment_groups.list.identifier">
@@ -193,42 +193,42 @@
       </trans-unit>
       <trans-unit id="d6efa7124b1b5bcfbdd21c7ba5f95ef31b66e817" resname="segment_groups.list.segments_count">
         <source>Segments under this group</source>
-        <target state="translated">Segments sous ce groupe</target>
+        <target state="translated">Segments dans ce groupe</target>
         <note>key: segment_groups.list.segments_count</note>
       </trans-unit>
       <trans-unit id="9e55c95617a32088ec40c1b3e7af09e1e9891a21" resname="segment_groups.list.title">
         <source>Segment Groups</source>
-        <target state="translated">Groupes de segmentation</target>
+        <target state="translated">Groupes de segments</target>
         <note>key: segment_groups.list.title</note>
       </trans-unit>
       <trans-unit id="4b214c3455a6420302898a01be560c8fab90c295" resname="segment_groups.list.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Affichage de <strong>%viewing%</strong> éléments sur <strong>%total%</strong>]]></target>
+        <target state="translated"><![CDATA[Affichage de <strong>%viewing%</strong> élément(s) sur <strong>%total%</strong>]]></target>
         <note>key: segment_groups.list.viewing</note>
       </trans-unit>
       <trans-unit id="0265d77024894b8b89822d0275d9e5c60a2f5363" resname="segment_groups.segment_list.empty">
         <source>There are no Segments in this group.</source>
-        <target state="translated">Aucune Segmentation trouvée dans ce groupe.</target>
+        <target state="translated">Il n’y a aucun segment dans ce groupe.</target>
         <note>key: segment_groups.segment_list.empty</note>
       </trans-unit>
       <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
         <source>Select content</source>
-        <target state="translated">Sélectionner des contenus</target>
+        <target state="translated">Sélectionner le contenu</target>
         <note>key: select.content</note>
       </trans-unit>
       <trans-unit id="2f4ae38b817b0291bceb1e3f360098c6d48f4345" resname="tab.segments">
         <source>Segments</source>
-        <target state="translated">Segmentations</target>
+        <target state="translated">Segments</target>
         <note>key: tab.segments</note>
       </trans-unit>
       <trans-unit id="9fa5dd3cd6be97ddfbaa6ac4b9cfa997ffe4eed0" resname="tab.segments.name">
         <source>Segments</source>
-        <target state="translated">Segmentations</target>
+        <target state="translated">Segments</target>
         <note>key: tab.segments.name</note>
       </trans-unit>
       <trans-unit id="0b5f1e6b2375ec0fce792513699ca8d043eb175e" resname="tab.segments.no_segments">
         <source>User is not assigned to any segments.</source>
-        <target state="translated">L'utilisateur n'est assigné à aucune segmentation.</target>
+        <target state="translated">L’utilisateur n’est attribué à aucun segment.</target>
         <note>key: tab.segments.no_segments</note>
       </trans-unit>
       <trans-unit id="d0f8e46050e5ea97bb87ffa7d41d8b9b5c3148a4" resname="tab.segments.table.group">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="8c304e47a614ae318b1de7e89f2bd927beb85bf7" resname="tab.segments.table.no_segments">
         <source>User is not assigned to any segments or you don't have read permissions to view them.</source>
-        <target state="translated">L'utilisateur n'est assigné à aucune segmentation ou vous n'avez pas les droits de lecture pour les voir.</target>
+        <target state="translated">L’utilisateur n’est attribué à aucun segment ou vous ne disposez pas des autorisations de lecture nécessaires pour les voir.</target>
         <note>key: tab.segments.table.no_segments</note>
       </trans-unit>
     </body>
