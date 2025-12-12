@@ -16,6 +16,11 @@
         <target state="new">In Trash</target>
         <note>key: content.in_trash</note>
       </trans-unit>
+      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: ezauthor.action.delete</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
