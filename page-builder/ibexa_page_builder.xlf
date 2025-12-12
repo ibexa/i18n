@@ -261,11 +261,6 @@
         <target state="new">How builder works</target>
         <note>key: settings.popup.title</note>
       </trans-unit>
-      <trans-unit id="3757c8d49f2f414947ad6e44afc53498b4474d55" resname="sidebar.title">
-        <source>Elements</source>
-        <target state="new">Elements</target>
-        <note>key: sidebar.title</note>
-      </trans-unit>
       <trans-unit id="4b8c13f811dc9e5093557dff59b266355bb5197f" resname="structure.action.configuration">
         <source>Configuration</source>
         <target state="new">Configuration</target>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="fa4e9f7beff98133f62da3110c575da4401373c5" resname="Customer group with ID :id does not exist">
+        <source>Customer group with ID :id does not exist</source>
+        <target state="new">Customer group with ID :id does not exist</target>
+        <note>key: Customer group with ID :id does not exist</note>
+      </trans-unit>
+      <trans-unit id="1cf6b73f9ba512fbfb01b3e0d425a1a3fced01d2" resname="Missing ID for Customer Group">
+        <source>Missing ID for Customer Group</source>
+        <target state="new">Missing ID for Customer Group</target>
+        <note>key: Missing ID for Customer Group</note>
+      </trans-unit>
+      <trans-unit id="861d7d199b8b7918672a8e35a394fa5e2c42cf94" resname="Setting '%setting%' is unknown">
+        <source>Setting '%setting%' is unknown</source>
+        <target state="new">Setting '%setting%' is unknown</target>
+        <note>key: Setting '%setting%' is unknown</note>
+      </trans-unit>
+      <trans-unit id="619a3446ec0941d3e7e64a1b63c2938925e9b56a" resname="limitationValues[%key%] =&gt; '%value%' does not exist in the backend">
+        <source><![CDATA[limitationValues[%key%] => '%value%' does not exist in the backend]]></source>
+        <target state="new"><![CDATA[limitationValues[%key%] => '%value%' does not exist in the backend]]></target>
+        <note>key: limitationValues[%key%] =&gt; '%value%' does not exist in the backend</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

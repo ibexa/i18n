@@ -6,10 +6,45 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="8676ec63e1de73dd113ac71511a1b45b613e1d1a" resname="At least one Layout must remain active">
+        <source>At least one Layout must remain active</source>
+        <target state="new">At least one Layout must remain active</target>
+        <note>key: At least one Layout must remain active</note>
+      </trans-unit>
+      <trans-unit id="613bd3ca010e4784a26c010139ee07e65dcf3409" resname="Block type '%block_type%' was disabled for '%landing_page_fd_name%'.">
+        <source>Block type '%block_type%' was disabled for '%landing_page_fd_name%'.</source>
+        <target state="new">Block type '%block_type%' was disabled for '%landing_page_fd_name%'.</target>
+        <note>key: Block type '%block_type%' was disabled for '%landing_page_fd_name%'.</note>
+      </trans-unit>
       <trans-unit id="a4a4af14149baeec06c2e212202b0e9b863e964c" resname="Could not find Page for '%identifier%'">
         <source>Could not find Page for '%identifier%'</source>
         <target state="new">Could not find Page for '%identifier%'</target>
         <note>key: Could not find Page for '%identifier%'</note>
+      </trans-unit>
+      <trans-unit id="0fdd0bfb9d47b0e0b61491581f7e9e75ddff4545" resname="Disabled blocks with identifiers: '%blockIdList%' does not exist in Page builder configuration">
+        <source>Disabled blocks with identifiers: '%blockIdList%' does not exist in Page builder configuration</source>
+        <target state="new">Disabled blocks with identifiers: '%blockIdList%' does not exist in Page builder configuration</target>
+        <note>key: Disabled blocks with identifiers: '%blockIdList%' does not exist in Page builder configuration</note>
+      </trans-unit>
+      <trans-unit id="966c56a59539567a228360988f378cdab4f07489" resname="Disabled layouts with identifiers: '%layoutsIdList%' does not exist in Page builder configuration">
+        <source>Disabled layouts with identifiers: '%layoutsIdList%' does not exist in Page builder configuration</source>
+        <target state="new">Disabled layouts with identifiers: '%layoutsIdList%' does not exist in Page builder configuration</target>
+        <note>key: Disabled layouts with identifiers: '%layoutsIdList%' does not exist in Page builder configuration</note>
+      </trans-unit>
+      <trans-unit id="c3f030216ac954b149452be7a8f198a81fa6f470" resname="Layout '%layout_id%' was disabled for '%landing_page_fd_name%'.">
+        <source>Layout '%layout_id%' was disabled for '%landing_page_fd_name%'.</source>
+        <target state="new">Layout '%layout_id%' was disabled for '%landing_page_fd_name%'.</target>
+        <note>key: Layout '%layout_id%' was disabled for '%landing_page_fd_name%'.</note>
+      </trans-unit>
+      <trans-unit id="616842af3d3a9fbc168ed15902744469e03365dd" resname="Value '%value%' for attribute '%attributeName%' in block '%blockName%' is invalid: %reason%">
+        <source>Value '%value%' for attribute '%attributeName%' in block '%blockName%' is invalid: %reason%</source>
+        <target state="new">Value '%value%' for attribute '%attributeName%' in block '%blockName%' is invalid: %reason%</target>
+        <note>key: Value '%value%' for attribute '%attributeName%' in block '%blockName%' is invalid: %reason%</note>
+      </trans-unit>
+      <trans-unit id="378c0dbc313fd77ba8108406f7e93d6604aa70f0" resname="Value '%value%' in block '%blockName%' is invalid: %reason%">
+        <source>Value '%value%' in block '%blockName%' is invalid: %reason%</source>
+        <target state="new">Value '%value%' in block '%blockName%' is invalid: %reason%</target>
+        <note>key: Value '%value%' in block '%blockName%' is invalid: %reason%</note>
       </trans-unit>
     </body>
   </file>

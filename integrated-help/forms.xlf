@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+       <trans-unit id="ac8e51d2f01afb32ca82ecf2b63c2a451eff95b9" resname="ibexa.integrated_help.settings.help_center.help_disabled">
+        <source>This setting is currently disabled due to system configuration</source>
+        <target state="new">This setting is currently disabled due to system configuration</target>
+        <note>key: ibexa.integrated_help.settings.help_center.help_disabled</note>
+       </trans-unit>
+       <trans-unit id="7f44e119639923b6ad205b57aa67ee458d0ac61a" resname="ibexa.integrated_help.settings.help_center.name">
+         <source>Help center</source>
+         <target state="new">Help center</target>
+         <note>key: ibexa.integrated_help.settings.help_center.name</note>
+       </trans-unit>
+    </body>
+  </file>
+</xliff>

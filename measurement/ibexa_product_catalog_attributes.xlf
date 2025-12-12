@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="11abd66e76f0f57f8515504c77608f533a674999" resname="measurement.name">
-        <source>Measurement (deprecated)</source>
-        <target state="new">Measurement (deprecated)</target>
-        <note>key: measurement.name</note>
-      </trans-unit>
       <trans-unit id="9997aecbb7c5fca9074d214be56a822fae25a0ed" resname="measurement_range.name">
         <source>Measurement (range)</source>
         <target state="new">Measurement (range)</target>

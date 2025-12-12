@@ -16,6 +16,11 @@
         <target state="new">Refine given text.</target>
         <note>key: Refine given text</note>
       </trans-unit>
+      <trans-unit id="000d383c6678d0604bd07f8ef621bbcd40557f7e" resname="Suggest Taxonomy">
+        <source>Suggest taxonomy.</source>
+        <target state="new">Suggest taxonomy.</target>
+        <note>key: Suggest Taxonomy</note>
+      </trans-unit>
       <trans-unit id="821d13ad9e4e052d009e4e6bedbc19f066317186" resname="action_configuration.disabled">
         <source>Disabled</source>
         <target state="new">Disabled</target>
@@ -151,6 +156,26 @@
         <target state="new">Status</target>
         <note>key: ibexa.action_configuration.status.label</note>
       </trans-unit>
+      <trans-unit id="c543cad9dcc8492e025a83c2bdc543d31ad1f59c" resname="ibexa.action_configuration.suggest_taxonomy.source_fields">
+        <source>Source fields</source>
+        <target state="new">Source fields</target>
+        <note>key: ibexa.action_configuration.suggest_taxonomy.source_fields</note>
+      </trans-unit>
+      <trans-unit id="4151d28172e21c097b75e94e278ee9d974a23aa4" resname="ibexa.action_configuration.suggest_taxonomy.source_fields.help">
+        <source>Fields that will be used for generating relevant taxonomy suggestions.</source>
+        <target state="new">Fields that will be used for generating relevant taxonomy suggestions.</target>
+        <note>key: ibexa.action_configuration.suggest_taxonomy.source_fields.help</note>
+      </trans-unit>
+      <trans-unit id="0d459e2330c4a7ce35bca1cac7b98663592583a6" resname="ibexa.action_configuration.suggest_taxonomy.target_fields">
+        <source>Target fields</source>
+        <target state="new">Target fields</target>
+        <note>key: ibexa.action_configuration.suggest_taxonomy.target_fields</note>
+      </trans-unit>
+      <trans-unit id="9701da9db543ab03fdc951b2ffd371035e22e551" resname="ibexa.action_configuration.suggest_taxonomy.target_fields.help">
+        <source>Fields to which taxonomy entries will be assigned.</source>
+        <target state="new">Fields to which taxonomy entries will be assigned.</target>
+        <note>key: ibexa.action_configuration.suggest_taxonomy.target_fields.help</note>
+      </trans-unit>
       <trans-unit id="57e754aa11dbafd20d184a36c2f65848d18d6219" resname="ibexa.action_configuration.translations.label">
         <source>Translations</source>
         <target state="new">Translations</target>
@@ -190,6 +215,11 @@
         <source>Refine text</source>
         <target state="new">Refine text</target>
         <note>key: ibexa.ai.action.refine_text.name</note>
+      </trans-unit>
+      <trans-unit id="cab102bf3f13f0dc1a6bb56863f28477579f783d" resname="ibexa.ai.action.suggest_taxonomy.name">
+        <source>Suggest taxonomy</source>
+        <target state="new">Suggest taxonomy</target>
+        <note>key: ibexa.ai.action.suggest_taxonomy.name</note>
       </trans-unit>
       <trans-unit id="4f37eb34c3276bc943470416a696e159c388e446" resname="ibexa.connector_ai.action_configuration.anchor_navigation.global_properties">
         <source>Global properties</source>
@@ -351,25 +381,10 @@
         <target state="new">AI Assistant: %actionName%</target>
         <note>key: ibexa_connector_ai.ai_assistant.title</note>
       </trans-unit>
-      <trans-unit id="b0af2d09b2e6778b73c780b9b8de0744ece9b1b5" resname="ibexa_connector_ai.generating_msg">
-        <source>AI is generating...</source>
-        <target state="new">AI is generating...</target>
-        <note>key: ibexa_connector_ai.generating_msg</note>
-      </trans-unit>
       <trans-unit id="c15e45452b65e0e2502e806acc2a2ff522e76053" resname="ibexa_connector_ai.go_to_ai_actions.label">
         <source>Go to AI actions</source>
         <target state="new">Go to AI actions</target>
         <note>key: ibexa_connector_ai.go_to_ai_actions.label</note>
-      </trans-unit>
-      <trans-unit id="5ae47884a22e68029e0a9ddf3a10cb41fb503590" resname="ibexa_connector_ai.stop_generating.label">
-        <source>Stop generating</source>
-        <target state="new">Stop generating</target>
-        <note>key: ibexa_connector_ai.stop_generating.label</note>
-      </trans-unit>
-      <trans-unit id="f2c946447733803e03a6774ccb35fc8f70a7a3ae" resname="ibexa_connector_ai.use_ai.label">
-        <source>Use AI</source>
-        <target state="new">Use AI</target>
-        <note>key: ibexa_connector_ai.use_ai.label</note>
       </trans-unit>
       <trans-unit id="3777fedfcccdbd11c0f029428339908b60583b7f" resname="list.tooltip.copy">
         <source>Duplicate</source>

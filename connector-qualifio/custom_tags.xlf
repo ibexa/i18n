@@ -6,30 +6,30 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="e38482da09e62c4f5fb151bb8e3faf5de1b3d4b3" resname="ezrichtext.custom_tags.qualifio.attributes.campaign.label">
+      <trans-unit id="e38482da09e62c4f5fb151bb8e3faf5de1b3d4b3" resname="ibexa_richtext.custom_tags.qualifio.attributes.campaign.label">
         <source>Campaign</source>
         <target>Campaign</target>
-        <note>key: ezrichtext.custom_tags.qualifio.attributes.campaign.label</note>
+        <note>key: ibexa_richtext.custom_tags.qualifio.attributes.campaign.label</note>
       </trans-unit>
-      <trans-unit id="7d6dfede74214429e4c17d30f2c5b43faa805f53" resname="ezrichtext.custom_tags.qualifio.attributes.height.label">
+      <trans-unit id="7d6dfede74214429e4c17d30f2c5b43faa805f53" resname="ibexa_richtext.custom_tags.qualifio.attributes.height.label">
         <source>Height</source>
         <target>Height</target>
-        <note>key: ezrichtext.custom_tags.qualifio.attributes.height.label</note>
+        <note>key: ibexa_richtext.custom_tags.qualifio.attributes.height.label</note>
       </trans-unit>
-      <trans-unit id="12858e7c078f6d04418e153cc63f0d43ccca5e91" resname="ezrichtext.custom_tags.qualifio.attributes.width.label">
+      <trans-unit id="12858e7c078f6d04418e153cc63f0d43ccca5e91" resname="ibexa_richtext.custom_tags.qualifio.attributes.width.label">
         <source>Width</source>
         <target>Width</target>
-        <note>key: ezrichtext.custom_tags.qualifio.attributes.width.label</note>
+        <note>key: ibexa_richtext.custom_tags.qualifio.attributes.width.label</note>
       </trans-unit>
-      <trans-unit id="557a2a03b54538a955dabec30f2fd316376883be" resname="ezrichtext.custom_tags.qualifio.description">
+      <trans-unit id="557a2a03b54538a955dabec30f2fd316376883be" resname="ibexa_richtext.custom_tags.qualifio.description">
         <source>Embed campaign</source>
         <target>Embed campaign</target>
-        <note>key: ezrichtext.custom_tags.qualifio.description</note>
+        <note>key: ibexa_richtext.custom_tags.qualifio.description</note>
       </trans-unit>
-      <trans-unit id="1c566cbd51c42c8ca54f2e4fdf1b76a4264362c6" resname="ezrichtext.custom_tags.qualifio.label">
+      <trans-unit id="1c566cbd51c42c8ca54f2e4fdf1b76a4264362c6" resname="ibexa_richtext.custom_tags.qualifio.label">
         <source>Campaign</source>
         <target>Campaign</target>
-        <note>key: ezrichtext.custom_tags.qualifio.label</note>
+        <note>key: ibexa_richtext.custom_tags.qualifio.label</note>
       </trans-unit>
     </body>
   </file>

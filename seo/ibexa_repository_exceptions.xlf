@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="861d7d199b8b7918672a8e35a394fa5e2c42cf94" resname="Setting '%setting%' is unknown">
+        <source>Setting '%setting%' is unknown</source>
+        <target state="new">Setting '%setting%' is unknown</target>
+        <note>key: Setting '%setting%' is unknown</note>
+      </trans-unit>
       <trans-unit id="628b60a3b1a9cfba9f5e834b5b63d453cc0f785a" resname="Unable to render SEO tag for type '%typeName%' and field '%fieldName%'">
         <source>Unable to render SEO tag for type '%typeName%' and field '%fieldName%'</source>
         <target state="new">Unable to render SEO tag for type '%typeName%' and field '%fieldName%'</target>
