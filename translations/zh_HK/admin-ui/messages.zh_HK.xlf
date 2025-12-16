@@ -81,11 +81,6 @@
         <target state="translated">此電子郵件與多個帳戶連接。請輸入您的登錄名。</target>
         <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
-      <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
-        <source>Reset your password</source>
-        <target state="translated">重置密碼</target>
-        <note>key: ezplatform.forgot_user_password.reset_your_password</note>
-      </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
         <source>Change password</source>
         <target state="translated">更改密碼</target>
