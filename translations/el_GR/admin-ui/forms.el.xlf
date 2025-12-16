@@ -51,11 +51,6 @@
         <target state="translated">Όνομα</target>
         <note>key: ezplatform.language.update.name</note>
       </trans-unit>
-      <trans-unit id="87ed807e48a8c3fc19eba5338ddbaa91df68d19d" resname="ezplatform.language.update.save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: ezplatform.language.update.save</note>
-      </trans-unit>
       <trans-unit id="e1f039c692df803a42d90f2bcd4f763623241bb2" resname="location_copy.copy">
         <source>Copy</source>
         <target state="translated">Αντιγραφή</target>
@@ -95,11 +90,6 @@
         <source>Name</source>
         <target state="translated">Όνομα</target>
         <note>key: role_update.name</note>
-      </trans-unit>
-      <trans-unit id="4d1b71ebb6b86d78f0902fa5a6ef329c070efdad" resname="section_create_form.create">
-        <source>Create</source>
-        <target state="translated">Δημιουργία</target>
-        <note>key: section_create_form.create</note>
       </trans-unit>
       <trans-unit id="157171a054bf3089d55c971b318b95a26a1cbb92" resname="section_delete_form.delete">
         <source>Delete</source>
