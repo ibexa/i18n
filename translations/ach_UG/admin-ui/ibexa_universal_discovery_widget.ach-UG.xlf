@@ -131,21 +131,6 @@
         <target>crwdns236736:0crwdne236736:0</target>
         <note>key: dropdown.placeholder</note>
       </trans-unit>
-      <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ezimageasset.title">
-        <source>Select Image Asset</source>
-        <target>crwdns236738:0crwdne236738:0</target>
-        <note>key: ezimageasset.title</note>
-      </trans-unit>
-      <trans-unit id="a46e5fdf25ad5fc5725b6db78274102983e65ef2" resname="ezobjectrelationlist.title.multi">
-        <source>Select Content item(s)</source>
-        <target>crwdns236740:0crwdne236740:0</target>
-        <note>key: ezobjectrelationlist.title.multi</note>
-      </trans-unit>
-      <trans-unit id="af2bf80ec528976a55efeb36753db6ca6ca652e5" resname="ezobjectrelationlist.title.single">
-        <source>Select a Content item</source>
-        <target>crwdns236742:0crwdne236742:0</target>
-        <note>key: ezobjectrelationlist.title.single</note>
-      </trans-unit>
       <trans-unit id="b01a58cb9736974403f9f94ecce5180fb95a9627" resname="filters.apply">
         <source>Apply</source>
         <target>crwdns236744:0crwdne236744:0</target>
@@ -185,6 +170,21 @@
         <source>Filters</source>
         <target>crwdns236758:0crwdne236758:0</target>
         <note>key: filters.title</note>
+      </trans-unit>
+      <trans-unit id="70241b02d194cfdc379557b7d72c06d9e1af7eba" resname="ibexa_image_asset.title">
+        <source>Select Image Asset</source>
+        <target>crwdns268928:0crwdne268928:0</target>
+        <note>key: ibexa_image_asset.title</note>
+      </trans-unit>
+      <trans-unit id="7b2eaa0119065cdb6f6fa51245a3aa14bc8fbf55" resname="ibexa_object_relation_list.title.multi">
+        <source>Select Content item(s)</source>
+        <target>crwdns268930:0crwdne268930:0</target>
+        <note>key: ibexa_object_relation_list.title.multi</note>
+      </trans-unit>
+      <trans-unit id="6213e21a12c44abeb6ba2e601127cebc2f0a03df" resname="ibexa_object_relation_list.title.single">
+        <source>Select a Content item</source>
+        <target>crwdns268932:0crwdne268932:0</target>
+        <note>key: ibexa_object_relation_list.title.single</note>
       </trans-unit>
       <trans-unit id="94d848778c1cab60409c69dcff7e1cb8ea415ffc" resname="init_selected_locations.alert.title">
         <source>Items already added to the list are marked as selected and unable to deselect.</source>
