@@ -61,16 +61,6 @@
         <target state="translated">Αποθήκευση</target>
         <note>key: content_edit__sidebar_right__save_draft</note>
       </trans-unit>
-      <trans-unit id="3951c5df8bf1c00b0dd99dc06acc76d1908ec825" resname="content_type_group_edit__sidebar_right__save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: content_type_group_edit__sidebar_right__save</note>
-      </trans-unit>
-      <trans-unit id="31bae088f62a5a502882b1e2cee04e14fe6617ab" resname="language_edit__sidebar_right__save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: language_edit__sidebar_right__save</note>
-      </trans-unit>
       <trans-unit id="fd9a2e689e82242d49f0313d78aca7e30bf9f24f" resname="main__admin__languages">
         <source>Languages</source>
         <target state="translated">Γλώσσες</target>
@@ -105,31 +95,6 @@
         <source>Media</source>
         <target state="translated">Πολυμέσα</target>
         <note>key: main__content__media</note>
-      </trans-unit>
-      <trans-unit id="063a560058e7b40ddfc281c414fa7bb7056cb18d" resname="object_state_edit__sidebar_right__save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: object_state_edit__sidebar_right__save</note>
-      </trans-unit>
-      <trans-unit id="c0dc534365fb45019db9b586ca8a71db6edda39d" resname="object_state_group_edit__sidebar_right__save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: object_state_group_edit__sidebar_right__save</note>
-      </trans-unit>
-      <trans-unit id="feda90199751e252928f5cba2e56f0a0a85a2248" resname="role_edit__sidebar_right__save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: role_edit__sidebar_right__save</note>
-      </trans-unit>
-      <trans-unit id="e33deebc2c2c317aa44b31e5d8c4148fdfb1dc34" resname="section_edit__sidebar_right__save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: section_edit__sidebar_right__save</note>
-      </trans-unit>
-      <trans-unit id="9e8d8f6d06a5950f649d63b453d6dab7eba33f11" resname="url_edit__sidebar_right__save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: url_edit__sidebar_right__save</note>
       </trans-unit>
       <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content">
         <source>Logout</source>
