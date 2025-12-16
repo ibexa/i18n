@@ -626,20 +626,10 @@
         <target state="translated">Nowy %contentType%</target>
         <note>key: shipping_address.create.title</note>
       </trans-unit>
-      <trans-unit id="18c3bf60f2b520ec324d6475268fbe3b4c013bd2" resname="shipping_address.edit.cancel_btn.label">
-        <source>Cancel</source>
-        <target state="translated">Anuluj</target>
-        <note>key: shipping_address.edit.cancel_btn.label</note>
-      </trans-unit>
       <trans-unit id="aebf5753733025029bf25a3a724e3874de2f6720" resname="shipping_address.edit.editing">
         <source>Editing</source>
         <target state="translated">Edycja</target>
         <note>key: shipping_address.edit.editing</note>
-      </trans-unit>
-      <trans-unit id="bff5fa5e7037df4987da76edbe2eaa8eac81bd57" resname="shipping_address.edit.save_btn.label">
-        <source>Save</source>
-        <target state="translated">Zapisz</target>
-        <note>key: shipping_address.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="43d0d1893cc7bdfed70ab3544dd190c4bae5e50c" resname="table.billing_address.action.edit">
         <source>Edit</source>
