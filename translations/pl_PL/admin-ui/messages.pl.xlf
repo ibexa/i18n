@@ -116,26 +116,6 @@
         <target state="translated">wyrazów</target>
         <note>key: character_counter.words</note>
       </trans-unit>
-      <trans-unit id="21e7545fc420d95a59a713437d9dc28d85d82ceb" resname="content.details.content_id">
-        <source>Content ID: %contentId%</source>
-        <target state="translated">ID obiektu: %contentId%</target>
-        <note>key: content.details.content_id</note>
-      </trans-unit>
-      <trans-unit id="fbf8f503b8af11a779316ffa7e12085401212748" resname="content.details.created_by">
-        <source>Created by %name%</source>
-        <target state="translated">Utworzone przez %name%</target>
-        <note>key: content.details.created_by</note>
-      </trans-unit>
-      <trans-unit id="b703ce905c39239f607ffa395acf83d2dd6046f0" resname="content.details.location_id">
-        <source>Location ID: %locationId%</source>
-        <target state="translated">ID lokalizacji: %locationId%</target>
-        <note>key: content.details.location_id</note>
-      </trans-unit>
-      <trans-unit id="fc543140fe88431b31013a20fbceef4ecf9e7430" resname="content.details.parent_location_id">
-        <source>Parent Location ID: %locationId%</source>
-        <target state="translated">ID lokalizacji nadrzędnej: %locationId%</target>
-        <note>key: content.details.parent_location_id</note>
-      </trans-unit>
       <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
         <source>You don't have permissions to view this Content item (contentID: %contentId%).</source>
         <target state="translated">Nie masz uprawnień do przeglądania tego elementu zawartości (ID: %contentId%).</target>
@@ -296,51 +276,6 @@
         <target state="translated">Coś poszło nie tak</target>
         <note>key: error.page.default.title</note>
       </trans-unit>
-      <trans-unit id="2c7f89a37db43b829ff76f40565020c5bd4c2dae" resname="ezauthor.Email">
-        <source>Email</source>
-        <target state="translated">Email</target>
-        <note>key: ezauthor.Email</note>
-      </trans-unit>
-      <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
-        <source>Add</source>
-        <target state="translated">Dodaj autora</target>
-        <note>key: ezauthor.action.add</note>
-      </trans-unit>
-      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
-        <source>Delete</source>
-        <target state="translated">Usuń autora</target>
-        <note>key: ezauthor.action.delete</note>
-      </trans-unit>
-      <trans-unit id="06a34ac23ac86f7c4368380203e3dd4d91489fa0" resname="ezauthor.name">
-        <source>Name</source>
-        <target state="translated">Nazwa</target>
-        <note>key: ezauthor.name</note>
-      </trans-unit>
-      <trans-unit id="9a8153d976ff4a6805e00fa7945d153f01bc61a8" resname="ezobjectrelationlist.cta.limit.multi">
-        <source>Set up a Relation with one or several Items</source>
-        <target state="translated">Ustaw relację z jednym lub kilkoma elementami</target>
-        <note>key: ezobjectrelationlist.cta.limit.multi</note>
-      </trans-unit>
-      <trans-unit id="6589b9cece0e96f6430a994e1b4e9db1ee5f8139" resname="ezobjectrelationlist.cta.limit.single">
-        <source>Set up a relation with one Content item</source>
-        <target state="translated">Ustaw relację z jednym elementem</target>
-        <note>key: ezobjectrelationlist.cta.limit.single</note>
-      </trans-unit>
-      <trans-unit id="e3d3887285c9d2ee774741a92bbfe53708143bc6" resname="ezobjectrelationlist.cta.limit.sub_text">
-        <source>Relations max. %limit%</source>
-        <target state="translated">Relacje max. %limit%</target>
-        <note>key: ezobjectrelationlist.cta.limit.sub_text</note>
-      </trans-unit>
-      <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
-        <source>Select Item</source>
-        <target state="translated">Wybierz element</target>
-        <note>key: ezobjectrelationlist.cta.select</note>
-      </trans-unit>
-      <trans-unit id="85874e8811087f9c2169915345cdf71d5243182e" resname="ezobjectrelationlist.delete_selected_relations">
-        <source>Delete</source>
-        <target state="translated">Usuń relację</target>
-        <note>key: ezobjectrelationlist.delete_selected_relations</note>
-      </trans-unit>
       <trans-unit id="8c3f0606ebb870dd8113cca42da7510414c5a0a8" resname="ezplatform.forgot_password.reset_your_password.reason.migration">
         <source>Your password has expired, change it.</source>
         <target state="translated">Twoje hasło wygasło, zmień je.</target>
@@ -355,11 +290,6 @@
         <source>This email is connected with several accounts. Enter your login instead.</source>
         <target state="translated">Ten adres email jest połączony z kilkoma kontami. Podaj swoją nazwę użytkownika.</target>
         <note>key: ezplatform.forgot_user_password.login</note>
-      </trans-unit>
-      <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password" approved="yes">
-        <source>Reset your password</source>
-        <target state="final">Zresetuj swoje hasło</target>
-        <note>key: ezplatform.forgot_user_password.reset_your_password</note>
       </trans-unit>
       <trans-unit id="264649149b7563144f9e2c462b13477dc7441302" resname="ezplatform.registration_confirmation.header">
         <source>Your account has been created</source>
@@ -390,26 +320,6 @@
         <source>Show</source>
         <target state="translated">Pokaż</target>
         <note>key: fieldview.toggler.show</note>
-      </trans-unit>
-      <trans-unit id="b469507c15ca085ba9753f60ab835f68cda9c725" resname="footer.copyright">
-        <source><![CDATA[Copyright &copy; %year% Ibexa. All right reserved]]></source>
-        <target state="translated"><![CDATA[Copyright &copy; %year% Ibexa. Wszelkie prawa zastrzeżone]]></target>
-        <note>key: footer.copyright</note>
-      </trans-unit>
-      <trans-unit id="9108451fc15edd434efe02a84ea849c334073272" resname="footer.ibexa_documentation">
-        <source>Documentation</source>
-        <target state="translated">Dokumentacja</target>
-        <note>key: footer.ibexa_documentation</note>
-      </trans-unit>
-      <trans-unit id="98ec0f718367b011625843a7ebdd12e8185c53ce" resname="footer.ibexa_dxp">
-        <source>Ibexa DXP</source>
-        <target state="translated">Ibexa DXP</target>
-        <note>key: footer.ibexa_dxp</note>
-      </trans-unit>
-      <trans-unit id="d62f840248f2507f4299133fe259bc4c091f31a8" resname="footer.ibexa_support">
-        <source>Support</source>
-        <target state="translated">Pomoc techniczna</target>
-        <note>key: footer.ibexa_support</note>
       </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel" approved="yes">
         <source>Cancel</source>
