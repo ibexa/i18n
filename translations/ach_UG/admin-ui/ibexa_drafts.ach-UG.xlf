@@ -31,6 +31,11 @@
         <target>crwdns237968:0crwdne237968:0</target>
         <note>key: drafts.list.action.remove.confirmation.title</note>
       </trans-unit>
+      <trans-unit id="a467c57cd3c072a6e0d2152a45ee3784c9f42b9d" resname="drafts.list.content.empty_name_placeholder">
+        <source>[Untitled]</source>
+        <target>crwdns268774:0crwdne268774:0</target>
+        <note>key: drafts.list.content.empty_name_placeholder</note>
+      </trans-unit>
       <trans-unit id="b62c11ec52c71a7923851340a98932ed8ac8704b" resname="drafts.list.content_type">
         <source>Content type</source>
         <target>crwdns253072:0crwdne253072:0</target>
