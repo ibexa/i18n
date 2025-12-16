@@ -116,11 +116,6 @@
         <target>crwdns250345:0crwdne250345:0</target>
         <note>key: product.collection.product_type</note>
       </trans-unit>
-      <trans-unit id="0868db4da8b6d758388649bffaa28198591432c7" resname="product.collection.select_products">
-        <source>Select products</source>
-        <target>crwdns250347:0crwdne250347:0</target>
-        <note>key: product.collection.select_products</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
