@@ -71,11 +71,6 @@
         <target state="translated">Όνομα</target>
         <note>key: object_state_group.update.name</note>
       </trans-unit>
-      <trans-unit id="52e275d18ec11b3ee1f2f4c02500d6efbb1f8751" resname="object_state_group.update.save">
-        <source>Save</source>
-        <target state="translated">Αποθήκευση</target>
-        <note>key: object_state_group.update.save</note>
-      </trans-unit>
       <trans-unit id="81633efc089f97dcad3f815855683cb4edb553d4" resname="object_state_group.view.list.action.edit">
         <source>Edit</source>
         <target state="translated">Επεξεργασία</target>
