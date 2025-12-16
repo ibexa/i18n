@@ -326,6 +326,11 @@
         <target>crwdns244974:0%name%crwdne244974:0</target>
         <note>key: schedule.content.schedule_hide.success</note>
       </trans-unit>
+      <trans-unit id="215438f7bc91888cd6a72b7784fec0bae28e9c57" resname="schedule_hide.confirm">
+        <source>Confirm</source>
+        <target>crwdns269258:0crwdne269258:0</target>
+        <note>key: schedule_hide.confirm</note>
+      </trans-unit>
       <trans-unit id="f9c384926313f5ec7d6685f8a56b3f5c826eb1d8" resname="schedule_hide.date_and_time">
         <source>Date and time</source>
         <target>crwdns244976:0crwdne244976:0</target>
