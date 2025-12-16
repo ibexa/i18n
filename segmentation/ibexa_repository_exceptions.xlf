@@ -16,6 +16,11 @@
         <target state="new">Could not find Segment for '%identifier%'</target>
         <note>key: Could not find Segment for '%identifier%'</note>
       </trans-unit>
+      <trans-unit id="86c27c9054431e961a96ff0dc2166e2acf6ba37c" resname="Segment Group (ID: '%segmentGroupId%') does not exist">
+        <source>Segment Group (ID: '%segmentGroupId%') does not exist</source>
+        <target state="new">Segment Group (ID: '%segmentGroupId%') does not exist</target>
+        <note>key: Segment Group (ID: '%segmentGroupId%') does not exist</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

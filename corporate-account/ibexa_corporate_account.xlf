@@ -952,8 +952,8 @@
         <note>key: shipping_address.create.title</note>
       </trans-unit>
       <trans-unit id="18c3bf60f2b520ec324d6475268fbe3b4c013bd2" resname="shipping_address.edit.cancel_btn.label">
-        <source>Cancel</source>
-        <target state="new">Cancel</target>
+        <source>Discard</source>
+        <target state="new">Discard</target>
         <note>key: shipping_address.edit.cancel_btn.label</note>
       </trans-unit>
       <trans-unit id="aebf5753733025029bf25a3a724e3874de2f6720" resname="shipping_address.edit.editing">
@@ -962,8 +962,8 @@
         <note>key: shipping_address.edit.editing</note>
       </trans-unit>
       <trans-unit id="bff5fa5e7037df4987da76edbe2eaa8eac81bd57" resname="shipping_address.edit.save_btn.label">
-        <source>Save</source>
-        <target state="new">Save</target>
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
         <note>key: shipping_address.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="472f89dd53c117d88bc51cf97c1d385b37dbc84a" resname="shipping_address.edit.success">
