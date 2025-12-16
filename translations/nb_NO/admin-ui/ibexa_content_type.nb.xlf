@@ -151,26 +151,6 @@
         <target state="translated">Navn</target>
         <note>key: content_type_group.view.list.column.identifier</note>
       </trans-unit>
-      <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
-        <source>Select where to start browsing for a Relation</source>
-        <target state="translated">Velg et startsted for å finne relasjoner</target>
-        <note>key: field_definition.ezobjectrelation.selection_root_udw_title</note>
-      </trans-unit>
-      <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
-        <source>Select where to start browsing for Relations</source>
-        <target state="translated">Velg et startsted for å finne relasjon</target>
-        <note>key: field_definition.ezobjectrelationlist.selection_root_udw_title</note>
-      </trans-unit>
-      <trans-unit id="14a95e986cd6b94301e0f44fd5ef2d5e7cdf90a4" resname="field_definition.ezselection.add_option">
-        <source>Add an option</source>
-        <target state="translated">Legge til et alternativ</target>
-        <note>key: field_definition.ezselection.add_option</note>
-      </trans-unit>
-      <trans-unit id="c8017c71074191e0e6ebe4eb1a3a278eecbcc874" resname="field_definition.ezselection.remove_selected_options">
-        <source>Remove selected options</source>
-        <target state="translated">Fjern valgte alternativene</target>
-        <note>key: field_definition.ezselection.remove_selected_options</note>
-      </trans-unit>
       <trans-unit id="62ac918fce5389cd868b988e65b4ab96477a1344" resname="location_update_form.sort_field">
         <source>Sort field</source>
         <target state="translated">Sorteringsfelt</target>
