@@ -16,6 +16,11 @@
         <target>crwdns242292:0%identifier%crwdne242292:0</target>
         <note>key: Could not find Segment for '%identifier%'</note>
       </trans-unit>
+      <trans-unit id="86c27c9054431e961a96ff0dc2166e2acf6ba37c" resname="Segment Group (ID: '%segmentGroupId%') does not exist">
+        <source>Segment Group (ID: '%segmentGroupId%') does not exist</source>
+        <target>crwdns269260:0%segmentGroupId%crwdne269260:0</target>
+        <note>key: Segment Group (ID: '%segmentGroupId%') does not exist</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
