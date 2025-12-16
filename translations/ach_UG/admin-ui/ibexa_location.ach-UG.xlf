@@ -11,6 +11,11 @@
         <target>crwdns237604:0%name%crwdne237604:0</target>
         <note>key: location.assign_section.success</note>
       </trans-unit>
+      <trans-unit id="df6925dba48ec5f8cb20d42eaa50a907d817702a" resname="location.copy.failure">
+        <source>Location cannot be copied.</source>
+        <target>crwdns268884:0crwdne268884:0</target>
+        <note>key: location.copy.failure</note>
+      </trans-unit>
       <trans-unit id="7f616359fa64ad9a44aba2d7eeebfde7aac7f16f" resname="location.copy.success">
         <source>'%name%' copied to '%location%'</source>
         <target>crwdns237606:0%name%crwdnd237606:0%location%crwdne237606:0</target>
