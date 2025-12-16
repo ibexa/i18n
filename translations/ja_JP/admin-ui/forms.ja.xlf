@@ -66,11 +66,6 @@
         <target state="translated">名前</target>
         <note>key: ezplatform.language.update.name</note>
       </trans-unit>
-      <trans-unit id="87ed807e48a8c3fc19eba5338ddbaa91df68d19d" resname="ezplatform.language.update.save">
-        <source>Save</source>
-        <target state="translated">保存</target>
-        <note>key: ezplatform.language.update.save</note>
-      </trans-unit>
       <trans-unit id="a1e42d4c649f7fbb614729978fea692be51d1485" resname="languages_delete_form.delete">
         <source>Delete languages</source>
         <target state="translated">言語を削除</target>
@@ -141,16 +136,6 @@
         <target state="translated">ロールを削除</target>
         <note>key: roles_delete_form.delete</note>
       </trans-unit>
-      <trans-unit id="4d1b71ebb6b86d78f0902fa5a6ef329c070efdad" resname="section_create_form.create">
-        <source>Create</source>
-        <target state="translated">新規作成</target>
-        <note>key: section_create_form.create</note>
-      </trans-unit>
-      <trans-unit id="6dec25847a8a644fae3b714ea034886b987af430" resname="section_create_form.update_and_edit">
-        <source>Save and edit</source>
-        <target state="translated">保存して編集</target>
-        <note>key: section_create_form.update_and_edit</note>
-      </trans-unit>
       <trans-unit id="157171a054bf3089d55c971b318b95a26a1cbb92" resname="section_delete_form.delete">
         <source>Delete</source>
         <target state="translated">削除</target>
@@ -165,11 +150,6 @@
         <source>Name</source>
         <target state="translated">名前</target>
         <note>key: section_form.name</note>
-      </trans-unit>
-      <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update">
-        <source>Save</source>
-        <target state="translated">保存</target>
-        <note>key: section_update_form.update</note>
       </trans-unit>
       <trans-unit id="1076fdadc49ac9198c278970f355457c26075975" resname="sections_delete_form.delete">
         <source>Delete Sections</source>
