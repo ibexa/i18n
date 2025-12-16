@@ -166,11 +166,6 @@
         <target state="translated">Etichetta per il campo</target>
         <note>key: object_state_group.update.name</note>
       </trans-unit>
-      <trans-unit id="52e275d18ec11b3ee1f2f4c02500d6efbb1f8751" resname="object_state_group.update.save">
-        <source>Save</source>
-        <target state="translated">Salva</target>
-        <note>key: object_state_group.update.save</note>
-      </trans-unit>
       <trans-unit id="36efba078c092e0aa3fb7c44fcd55b1ee292cc35" resname="object_state_group.update.success">
         <source>Object state group '%name%' updated.</source>
         <target state="translated">Gruppo stato oggetto '%name%' aggiornato.</target>
