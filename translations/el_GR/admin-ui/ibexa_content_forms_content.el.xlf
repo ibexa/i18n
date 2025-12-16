@@ -6,21 +6,43 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="093c498e82bd382a4732e4bb8356c7d88b671f25" resname="content.field_type.ezmedia.player_settings">
-        <source>Player settings</source>
-        <target state="translated">Ρύθμισεις αναπαραγωγέα</target>
-        <note>key: content.field_type.ezmedia.player_settings</note>
-      </trans-unit>
-      <trans-unit id="13034b18b2f4c315e7fbfe4b4735259f6db82bb8" resname="ezobjectrelationlist.table.row.created">
-        <source>Created</source>
-        <target state="translated">Δημιουργήθηκε</target>
-        <note>key: ezobjectrelationlist.table.row.created</note>
-      </trans-unit>
-      <trans-unit id="2099e51f91926408c9e9514a5d05eaca332f371a" resname="ezobjectrelationlist.table.row.name">
-        <source>Name</source>
-        <target state="translated">Όνομα</target>
-        <note>key: ezobjectrelationlist.table.row.name</note>
-      </trans-unit>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
     </body>
   </file>
 </xliff>
