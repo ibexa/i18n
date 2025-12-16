@@ -46,16 +46,6 @@
         <target state="translated">トップに戻る</target>
         <note>key: back.to.top</note>
       </trans-unit>
-      <trans-unit id="21e7545fc420d95a59a713437d9dc28d85d82ceb" resname="content.details.content_id">
-        <source>Content ID: %contentId%</source>
-        <target state="translated">コンテンツ ID: %contentId%</target>
-        <note>key: content.details.content_id</note>
-      </trans-unit>
-      <trans-unit id="b703ce905c39239f607ffa395acf83d2dd6046f0" resname="content.details.location_id">
-        <source>Location ID: %locationId%</source>
-        <target state="translated">ロケーションID: %locationId%</target>
-        <note>key: content.details.location_id</note>
-      </trans-unit>
       <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
         <source>Cancel</source>
         <target state="translated">キャンセル</target>
@@ -111,26 +101,6 @@
         <target state="translated">検索...</target>
         <note>key: dropdown.search</note>
       </trans-unit>
-      <trans-unit id="2c7f89a37db43b829ff76f40565020c5bd4c2dae" resname="ezauthor.Email">
-        <source>Email</source>
-        <target state="translated">メールアドレス</target>
-        <note>key: ezauthor.Email</note>
-      </trans-unit>
-      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
-        <source>Delete</source>
-        <target state="translated">削除</target>
-        <note>key: ezauthor.action.delete</note>
-      </trans-unit>
-      <trans-unit id="85874e8811087f9c2169915345cdf71d5243182e" resname="ezobjectrelationlist.delete_selected_relations">
-        <source>Delete</source>
-        <target state="translated">削除</target>
-        <note>key: ezobjectrelationlist.delete_selected_relations</note>
-      </trans-unit>
-      <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
-        <source>Reset your password</source>
-        <target state="translated">パスワードをリセットする</target>
-        <note>key: ezplatform.forgot_user_password.reset_your_password</note>
-      </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
         <source>Change password</source>
         <target state="translated">パスワードを変更</target>
@@ -140,16 +110,6 @@
         <source>Hide</source>
         <target state="translated">隠す</target>
         <note>key: fieldview.toggler.hide</note>
-      </trans-unit>
-      <trans-unit id="98ec0f718367b011625843a7ebdd12e8185c53ce" resname="footer.ibexa_dxp">
-        <source>Ibexa DXP</source>
-        <target state="translated">Ibexa DXP</target>
-        <note>key: footer.ibexa_dxp</note>
-      </trans-unit>
-      <trans-unit id="d62f840248f2507f4299133fe259bc4c091f31a8" resname="footer.ibexa_support">
-        <source>Support</source>
-        <target state="translated">サポート</target>
-        <note>key: footer.ibexa_support</note>
       </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
