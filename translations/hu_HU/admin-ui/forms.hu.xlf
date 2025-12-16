@@ -56,11 +56,6 @@
         <target state="final">Név</target>
         <note>key: ezplatform.language.update.name</note>
       </trans-unit>
-      <trans-unit id="87ed807e48a8c3fc19eba5338ddbaa91df68d19d" resname="ezplatform.language.update.save" approved="yes">
-        <source>Save</source>
-        <target state="final">Mentés</target>
-        <note>key: ezplatform.language.update.save</note>
-      </trans-unit>
       <trans-unit id="a1e42d4c649f7fbb614729978fea692be51d1485" resname="languages_delete_form.delete" approved="yes">
         <source>Delete languages</source>
         <target state="final">Nyelvek törlése</target>
@@ -125,11 +120,6 @@
         <source>Assign content</source>
         <target state="final">Tartalom hozzárendelése</target>
         <note>key: section_content_assign_form.locations</note>
-      </trans-unit>
-      <trans-unit id="4d1b71ebb6b86d78f0902fa5a6ef329c070efdad" resname="section_create_form.create" approved="yes">
-        <source>Create</source>
-        <target state="final">Létrehozás</target>
-        <note>key: section_create_form.create</note>
       </trans-unit>
       <trans-unit id="157171a054bf3089d55c971b318b95a26a1cbb92" resname="section_delete_form.delete" approved="yes">
         <source>Delete</source>
