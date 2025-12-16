@@ -266,11 +266,6 @@
         <target state="new">Details</target>
         <note>key: order.detail.details.title</note>
       </trans-unit>
-      <trans-unit id="de3fce962d5e6199ab2e560250ca491541c1bd91" resname="order.detail.items.column.base_subtotal_price_net">
-        <source>Base subtotal price net</source>
-        <target state="new">Base subtotal price net</target>
-        <note>key: order.detail.items.column.base_subtotal_price_net</note>
-      </trans-unit>
       <trans-unit id="a81157949d762b3fc23528e7dbf5d26b799b1175" resname="order.detail.items.column.base_unit_price_net">
         <source>Base unit price net</source>
         <target state="new">Base unit price net</target>
@@ -281,10 +276,10 @@
         <target state="new">Code</target>
         <note>key: order.detail.items.column.code</note>
       </trans-unit>
-      <trans-unit id="b65f9241b3bafab306e287fa1b911fba69890c86" resname="order.detail.items.column.discount_name">
-        <source>Discount name</source>
-        <target state="new">Discount name</target>
-        <note>key: order.detail.items.column.discount_name</note>
+      <trans-unit id="d5aca05631598ae8057f64ab648b3e0cdb860add" resname="order.detail.items.column.discount_percentage">
+        <source>Discount (%)</source>
+        <target state="new">Discount (%)</target>
+        <note>key: order.detail.items.column.discount_percentage</note>
       </trans-unit>
       <trans-unit id="d2f18c39806fa2eae77eae96aad914938bc9c51c" resname="order.detail.items.column.discount_value">
         <source>Discount value</source>

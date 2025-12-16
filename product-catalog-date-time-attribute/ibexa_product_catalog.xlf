@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="457a91099b950def21ddee41b89756ca76e51944" resname="daterange.max.label">
+        <source>To</source>
+        <target state="new">To</target>
+        <note>key: daterange.max.label</note>
+      </trans-unit>
+      <trans-unit id="c1815cc37860346983334735e6f612423480b6ae" resname="daterange.min.label">
+        <source>From</source>
+        <target state="new">From</target>
+        <note>key: daterange.min.label</note>
+      </trans-unit>
+      <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
+        <source>%fieldName% Field is required</source>
+        <target state="new">%fieldName% Field is required</target>
+        <note>key: error.required.field</note>
+      </trans-unit>
+      <trans-unit id="c90bdb96a3a6a0d4e8c315375009e2bab427a875" resname="error.required.field.integer">
+        <source>Value must be integer</source>
+        <target state="new">Value must be integer</target>
+        <note>key: error.required.field.integer</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
