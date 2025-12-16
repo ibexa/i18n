@@ -51,11 +51,6 @@
         <target state="translated">切換佈局</target>
         <note>key: layout_selector.switch.title</note>
       </trans-unit>
-      <trans-unit id="3757c8d49f2f414947ad6e44afc53498b4474d55" resname="sidebar.title">
-        <source>Elements</source>
-        <target state="translated">元素</target>
-        <note>key: sidebar.title</note>
-      </trans-unit>
       <trans-unit id="720578005f4f9df5991d84e11d283389de3f5801" resname="switch_layout.label">
         <source>Switch layout</source>
         <target state="translated">切換佈局</target>
