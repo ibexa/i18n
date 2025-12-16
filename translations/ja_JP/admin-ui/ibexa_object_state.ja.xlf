@@ -61,16 +61,6 @@
         <target state="translated">名前</target>
         <note>key: object_state.update.name</note>
       </trans-unit>
-      <trans-unit id="4f64932a8e6184e5ca765574a331828a77bd38e5" resname="object_state.update.save">
-        <source>Save</source>
-        <target state="translated">保存</target>
-        <note>key: object_state.update.save</note>
-      </trans-unit>
-      <trans-unit id="8b0cdd1fff0afd68d0716c1d8dc122a13b5f2e58" resname="object_state.update.save_and_close">
-        <source>Save and close</source>
-        <target state="translated">保存して閉じる</target>
-        <note>key: object_state.update.save_and_close</note>
-      </trans-unit>
       <trans-unit id="8cf30d6244f713b936c76e01f5bf70b1f5d62332" resname="object_state.view.list.action.edit">
         <source>Edit</source>
         <target state="translated">編集</target>
@@ -150,16 +140,6 @@
         <source>Name</source>
         <target state="translated">名前</target>
         <note>key: object_state_group.update.name</note>
-      </trans-unit>
-      <trans-unit id="52e275d18ec11b3ee1f2f4c02500d6efbb1f8751" resname="object_state_group.update.save">
-        <source>Save</source>
-        <target state="translated">保存</target>
-        <note>key: object_state_group.update.save</note>
-      </trans-unit>
-      <trans-unit id="234776708dc81f062b0a28676112bacf7ecca25d" resname="object_state_group.update.save_and_close">
-        <source>Save and close</source>
-        <target state="translated">保存して閉じる</target>
-        <note>key: object_state_group.update.save_and_close</note>
       </trans-unit>
       <trans-unit id="9f653b0046e2ba91b0b23afdf440596d2d99bbc3" resname="object_state_group.view.edit.title">
         <source>Editing Object state group '%name%'</source>
