@@ -36,16 +36,6 @@
         <target state="translated">検索...</target>
         <note>key: dropdown.placeholder</note>
       </trans-unit>
-      <trans-unit id="a46e5fdf25ad5fc5725b6db78274102983e65ef2" resname="ezobjectrelationlist.title.multi">
-        <source>Select Content item(s)</source>
-        <target state="translated">コンテンツアイテムを選択</target>
-        <note>key: ezobjectrelationlist.title.multi</note>
-      </trans-unit>
-      <trans-unit id="af2bf80ec528976a55efeb36753db6ca6ca652e5" resname="ezobjectrelationlist.title.single">
-        <source>Select a Content item</source>
-        <target state="translated">コンテンツアイテムを選択</target>
-        <note>key: ezobjectrelationlist.title.single</note>
-      </trans-unit>
       <trans-unit id="b01a58cb9736974403f9f94ecce5180fb95a9627" resname="filters.apply">
         <source>Apply</source>
         <target state="translated">適用</target>
