@@ -11,6 +11,11 @@
         <target>crwdns252602:0crwdne252602:0</target>
         <note>key: anchor_menu.more</note>
       </trans-unit>
+      <trans-unit id="fc987cbd27f6b39135fba2e19aec6ab4fd8fe088" resname="anchor_menu.sections">
+        <source>Sections</source>
+        <target>crwdns269390:0crwdne269390:0</target>
+        <note>key: anchor_menu.sections</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
