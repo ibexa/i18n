@@ -51,10 +51,20 @@
         <target state="new">Creating session...</target>
         <note>key: share.collaboration_session.loader.header</note>
       </trans-unit>
+      <trans-unit id="9260543fb34b71cf9e9b8a613b1a991576535f37" resname="share.copy_invite_link.hide_label">
+        <source>Hide link</source>
+        <target state="new">Hide link</target>
+        <note>key: share.copy_invite_link.hide_label</note>
+      </trans-unit>
       <trans-unit id="bffab669d60889771d09bc5402a29fda93f72ef0" resname="share.copy_invite_link.label">
         <source>Copy invite link</source>
         <target state="new">Copy invite link</target>
         <note>key: share.copy_invite_link.label</note>
+      </trans-unit>
+      <trans-unit id="c72bf66f7c6d24d777af22b9f360c4476991c257" resname="share.copy_invite_link.show_label">
+        <source>Show link</source>
+        <target state="new">Show link</target>
+        <note>key: share.copy_invite_link.show_label</note>
       </trans-unit>
       <trans-unit id="aefab1e54ce6f51bf85d80fdd320f7c19d2716c2" resname="share.copy_link.copied_tooltip.title">
         <source>Copied!</source>
@@ -65,11 +75,6 @@
         <source>Failed to copy link to clipboard.</source>
         <target state="new">Failed to copy link to clipboard.</target>
         <note>key: share.copy_link.copy_clipboard_error</note>
-      </trans-unit>
-      <trans-unit id="eda7a9107a7ca56e304190e03c77cc16195137b8" resname="share.copy_link.copy_clipboard_error_browser">
-        <source>Cannot copy link due to browser limitations.</source>
-        <target state="new">Cannot copy link due to browser limitations.</target>
-        <note>key: share.copy_link.copy_clipboard_error_browser</note>
       </trans-unit>
       <trans-unit id="e5b53df051695fd6ba4793b43c309c4035f7df56" resname="share.copy_link.get_link_request.error">
         <source>Error.</source>
@@ -147,8 +152,8 @@
         <note>key: share.invite.list.internal.header</note>
       </trans-unit>
       <trans-unit id="d62474e28e72c81a6988c748bee9528922614a21" resname="share.invite.search.error.text">
-        <source>One or more participants don't have permissions to edit or an email address is invalid.</source>
-        <target state="new">One or more participants don't have permissions to edit or an email address is invalid.</target>
+        <source>Some participants can’t be added. Check the email address or their permissions.</source>
+        <target state="new">Some participants can’t be added. Check the email address or their permissions.</target>
         <note>key: share.invite.search.error.text</note>
       </trans-unit>
       <trans-unit id="543aa7210030eeb746a1dc46c361d408cf9bbed2" resname="share.invite.search.helper.text">
@@ -190,6 +195,11 @@
         <source>Link settings</source>
         <target state="new">Link settings</target>
         <note>key: share.modal.link_settings.title</note>
+      </trans-unit>
+      <trans-unit id="e8ed731462964bf92534f5f8b0463dc461b6a15d" resname="share.notification.invitation.content.email.empty_name_placeholder">
+        <source>[Untitled]</source>
+        <target state="new">[Untitled]</target>
+        <note>key: share.notification.invitation.content.email.empty_name_placeholder</note>
       </trans-unit>
       <trans-unit id="979cb4bc5611c1015fa0c98fb8a036c0d32829c8" resname="share.notification.invitation.content_edit.email.body.cta">
         <source>Join collaboration</source>
