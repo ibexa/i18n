@@ -31,11 +31,6 @@
         <target state="translated">Impostazioni</target>
         <note>key: field.settings</note>
       </trans-unit>
-      <trans-unit id="1ef0657bf94b6c1594d67f719920c7fb66d51ed6" resname="form.cannot.be.empty">
-        <source>Form field is required</source>
-        <target state="translated">Il campo del modulo è obbligatorio</target>
-        <note>key: form.cannot.be.empty</note>
-      </trans-unit>
       <trans-unit id="a928b07ca6312a18de68c5813e52d48f10e375fd" resname="form.edit">
         <source>Edit</source>
         <target state="translated">Modifica</target>
