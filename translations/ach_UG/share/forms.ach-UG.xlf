@@ -7,14 +7,39 @@
     </header>
     <body>
       <trans-unit id="8780aec37e31dcde3140a08b3a435e1bc99b7520" resname="role.policy.content.share">
-        <source>Share</source>
-        <target>crwdns267439:0crwdne267439:0</target>
+        <source>Content / Share</source>
+        <target>crwdns269264:0crwdne269264:0</target>
         <note>key: role.policy.content.share</note>
       </trans-unit>
       <trans-unit id="484d533b2e8f9090878a87002b1bfe3799fab272" resname="role.policy.product.share">
-        <source>Share</source>
-        <target>crwdns267441:0crwdne267441:0</target>
+        <source>Product / Share</source>
+        <target>crwdns269266:0crwdne269266:0</target>
         <note>key: role.policy.product.share</note>
+      </trans-unit>
+      <trans-unit id="4db84e4df637c1d31da50a3dda4b9dcf14c3f82e" resname="role.policy.share">
+        <source>Share</source>
+        <target>crwdns269268:0crwdne269268:0</target>
+        <note>key: role.policy.share</note>
+      </trans-unit>
+      <trans-unit id="16cb669ad866efd3639f749914f44f254fc59fd0" resname="role.policy.share.all_functions">
+        <source>All functions</source>
+        <target>crwdns269270:0crwdne269270:0</target>
+        <note>key: role.policy.share.all_functions</note>
+      </trans-unit>
+      <trans-unit id="9ca2275a561a531d60f648f91904c7af6efc70ea" resname="role.policy.share.owner">
+        <source>Owner</source>
+        <target>crwdns269272:0crwdne269272:0</target>
+        <note>key: role.policy.share.owner</note>
+      </trans-unit>
+      <trans-unit id="90d5e672e7b6aab9ef09f994f89729561aa74a2f" resname="role.policy.share.public_link">
+        <source>Public link</source>
+        <target>crwdns269274:0crwdne269274:0</target>
+        <note>key: role.policy.share.public_link</note>
+      </trans-unit>
+      <trans-unit id="30df1e8374fbbd1ca0030fcf08bf2f835c545f2b" resname="role.policy.share.scope">
+        <source>Scope</source>
+        <target>crwdns269276:0crwdne269276:0</target>
+        <note>key: role.policy.share.scope</note>
       </trans-unit>
     </body>
   </file>

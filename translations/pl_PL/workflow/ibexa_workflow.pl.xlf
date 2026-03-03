@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
-        <source>From:</source>
-        <target state="translated">Od:</target>
-        <note>key: content.review.from</note>
-      </trans-unit>
       <trans-unit id="ae6d8d014d80092d6c7254b3baaa05e9a4cea7ae" resname="content.review.ready">
         <source>Content is ready for review</source>
         <target state="translated">Treść jest gotowa do przeglądu</target>
@@ -25,11 +20,6 @@
         <source>Title:</source>
         <target state="translated">Tytuł:</target>
         <note>key: content.review.title</note>
-      </trans-unit>
-      <trans-unit id="b7578d210bb0a2f0f03a30ee0fc33a0e377cc227" resname="content.unlock.accept">
-        <source>Accept</source>
-        <target state="translated">Akceptuj</target>
-        <note>key: content.unlock.accept</note>
       </trans-unit>
       <trans-unit id="40824da1203ecd7402887434c46c4107d02f85d7" resname="content.unlock.request">
         <source>Unlock request</source>

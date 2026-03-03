@@ -6,16 +6,9 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="dc6b58d8cccd4a805c93c1ade6bb94056c7b11d1" resname="captcha.failed_to_load">
-        <source>Captcha could not be loaded. Try refreshing page.</source>
-        <target state="needs-translation">Captcha could not be loaded. Try refreshing page.</target>
-        <note>key: captcha.failed_to_load</note>
-      </trans-unit>
-      <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
-        <source>In Trash</source>
-        <target state="needs-translation">In Trash</target>
-        <note>key: content.in_trash</note>
-      </trans-unit>
+      
+      
+      
     </body>
   </file>
 </xliff>

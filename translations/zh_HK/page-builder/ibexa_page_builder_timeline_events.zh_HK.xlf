@@ -21,11 +21,6 @@
         <target state="translated">顯示block</target>
         <note>key: event.reveal_block.title</note>
       </trans-unit>
-      <trans-unit id="4795deb1e3cccc2572408602ff718b8f9efee4c1" resname="event.schedule_block.item_added.title">
-        <source>%contentTypeName% '%contentName%' added to block %blockName%</source>
-        <target state="needs-translation">%contentTypeName% '%contentName%' added to block %blockName%</target>
-        <note>key: event.schedule_block.item_added.title</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

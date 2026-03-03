@@ -6,11 +6,9 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="2a8670e5f91ad9a4cc0650d51c51afc8bd517494" resname="policy.limitation.identifier.taxonomy">
-        <source>Taxonomy</source>
-        <target state="needs-translation">Taxonomy</target>
-        <note>key: policy.limitation.identifier.taxonomy</note>
-      </trans-unit>
+      
+      
+      
     </body>
   </file>
 </xliff>

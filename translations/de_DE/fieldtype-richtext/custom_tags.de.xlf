@@ -16,14 +16,9 @@
         <target state="translated">Breite</target>
         <note>key: ezrichtext.custom_tags.ezfacebook.attributes.width.label</note>
       </trans-unit>
-      <trans-unit id="04a09b59ee06e7996670b684a9ca256d792992d2" resname="ezrichtext.custom_tags.ezfacebook.description">
-        <source>Add a Facebook post</source>
-        <target state="translated">Fügen Sie einen Facebook-Beitrag hinzu</target>
-        <note>key: ezrichtext.custom_tags.ezfacebook.description</note>
-      </trans-unit>
       <trans-unit id="48fc0ce4ff40934d1fff06a56055c9ad73f634f4" resname="ezrichtext.custom_tags.ezfacebook.label">
         <source>Facebook</source>
-        <target state="needs-translation">Facebook</target>
+        <target state="translated">Facebook</target>
         <note>key: ezrichtext.custom_tags.ezfacebook.label</note>
       </trans-unit>
       <trans-unit id="b7ef5c07f5cbc982f23e547bc1e1326752853018" resname="ezrichtext.custom_tags.eztwitter.attributes.cards.label">
@@ -35,16 +30,6 @@
         <source>Conversation</source>
         <target state="translated">Unterhaltung</target>
         <note>key: ezrichtext.custom_tags.eztwitter.attributes.conversation.label</note>
-      </trans-unit>
-      <trans-unit id="7fa382eb492f241c0377d64e8ad5c8ab8aa740fb" resname="ezrichtext.custom_tags.eztwitter.attributes.dnt.label">
-        <source>DNT</source>
-        <target state="needs-translation">DNT</target>
-        <note>key: ezrichtext.custom_tags.eztwitter.attributes.dnt.label</note>
-      </trans-unit>
-      <trans-unit id="df37139c5dd99f14d3e1390341bd49d11da3d5ba" resname="ezrichtext.custom_tags.eztwitter.attributes.lang.label">
-        <source>Lang</source>
-        <target state="needs-translation">Lang</target>
-        <note>key: ezrichtext.custom_tags.eztwitter.attributes.lang.label</note>
       </trans-unit>
       <trans-unit id="9dfc2154505a7ab82c6ab07c110e0f6170513fc9" resname="ezrichtext.custom_tags.eztwitter.attributes.link_color.label">
         <source>Link color</source>
@@ -66,16 +51,6 @@
         <target state="translated">Breite</target>
         <note>key: ezrichtext.custom_tags.eztwitter.attributes.width.label</note>
       </trans-unit>
-      <trans-unit id="c1fd25ffc048cf47e9bc6bcaae98dd86abb2a7dd" resname="ezrichtext.custom_tags.eztwitter.description">
-        <source>Add a tweet</source>
-        <target state="translated">Fügen Sie einen Tweet hinzu</target>
-        <note>key: ezrichtext.custom_tags.eztwitter.description</note>
-      </trans-unit>
-      <trans-unit id="3d7387b1935640d467dc4070c0a9fe4c35d81e52" resname="ezrichtext.custom_tags.eztwitter.label">
-        <source>Twitter</source>
-        <target state="needs-translation">Twitter</target>
-        <note>key: ezrichtext.custom_tags.eztwitter.label</note>
-      </trans-unit>
       <trans-unit id="605cb001f1553455c945e45234d73b47cf1417b1" resname="ezrichtext.custom_tags.ezyoutube.attributes.autoplay.label">
         <source>Autoplay</source>
         <target state="translated">Automatisches Abspielen</target>
@@ -85,11 +60,6 @@
         <source>Height</source>
         <target state="translated">Höhe</target>
         <note>key: ezrichtext.custom_tags.ezyoutube.attributes.height.label</note>
-      </trans-unit>
-      <trans-unit id="2282c002afb8b1db2089f35ee742131d298913c1" resname="ezrichtext.custom_tags.ezyoutube.attributes.title.label">
-        <source>Title</source>
-        <target state="translated">Titel</target>
-        <note>key: ezrichtext.custom_tags.ezyoutube.attributes.title.label</note>
       </trans-unit>
       <trans-unit id="65fc0855d568f69246fa41e8f447617d3ec051e3" resname="ezrichtext.custom_tags.ezyoutube.attributes.video_url.label">
         <source>Video URL</source>
@@ -101,14 +71,9 @@
         <target state="translated">Breite</target>
         <note>key: ezrichtext.custom_tags.ezyoutube.attributes.width.label</note>
       </trans-unit>
-      <trans-unit id="8f9f4c953fc856ffdd89f2584789096bc29cd806" resname="ezrichtext.custom_tags.ezyoutube.description">
-        <source>Add a YouTube video</source>
-        <target state="translated">YouTube-Video hinzufügen</target>
-        <note>key: ezrichtext.custom_tags.ezyoutube.description</note>
-      </trans-unit>
       <trans-unit id="522f743b7ab00a525b5d5501de4c59bdeca967a4" resname="ezrichtext.custom_tags.ezyoutube.label">
         <source>YouTube</source>
-        <target state="needs-translation">YouTube</target>
+        <target state="translated">YouTube</target>
         <note>key: ezrichtext.custom_tags.ezyoutube.label</note>
       </trans-unit>
     </body>

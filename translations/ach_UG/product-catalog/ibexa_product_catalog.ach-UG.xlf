@@ -941,10 +941,10 @@
         <target>crwdns251333:0crwdne251333:0</target>
         <note>key: error.required.field.integer</note>
       </trans-unit>
-      <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ezimageasset.title">
+      <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ibexa_image_asset.title">
         <source>Select Image Asset</source>
         <target>crwdns247364:0crwdne247364:0</target>
-        <note>key: ezimageasset.title</note>
+        <note>key: ibexa_image_asset.title</note>
       </trans-unit>
       <trans-unit id="fec8270453451fdd353b4a9c8f6e459908355a73" resname="field_definition.ibexa_product_specification.attributes_definitions">
         <source>Attributes</source>
@@ -1425,6 +1425,31 @@
         <source>Sorry, there are no products for this filter setup</source>
         <target>crwdns248483:0crwdne248483:0</target>
         <note>key: product.list.empty_table_info_text</note>
+      </trans-unit>
+      <trans-unit id="3d34d04e1c9a093e3e5363154317cb4c754e4612" resname="product.list.search.availability.label">
+        <source>Availability</source>
+        <target>crwdns269246:0crwdne269246:0</target>
+        <note>key: product.list.search.availability.label</note>
+      </trans-unit>
+      <trans-unit id="0c3bd946294c1d8e7c14a96e7be0c66902c2c458" resname="product.list.search.availability.value.available">
+        <source>Available</source>
+        <target>crwdns269248:0crwdne269248:0</target>
+        <note>key: product.list.search.availability.value.available</note>
+      </trans-unit>
+      <trans-unit id="878a1a99e009c18a2b6c4f538ae0b2af1a4be3ff" resname="product.list.search.availability.value.not_available">
+        <source>Not available</source>
+        <target>crwdns269250:0crwdne269250:0</target>
+        <note>key: product.list.search.availability.value.not_available</note>
+      </trans-unit>
+      <trans-unit id="bbca5e4c35b53819f45d961ec6001d65a908515f" resname="product.list.search.created_at.label">
+        <source>Created</source>
+        <target>crwdns269252:0crwdne269252:0</target>
+        <note>key: product.list.search.created_at.label</note>
+      </trans-unit>
+      <trans-unit id="e7290b3e5bbcdfbbe1329a5afcc2153e83ff37ae" resname="product.list.search.datetime.placeholder.any_time">
+        <source>Any time</source>
+        <target>crwdns269254:0crwdne269254:0</target>
+        <note>key: product.list.search.datetime.placeholder.any_time</note>
       </trans-unit>
       <trans-unit id="b0963e0277b634576e00e126d5722711a88b73a3" resname="product.list.search.placeholder">
         <source>Search by name, code...</source>
@@ -2570,6 +2595,11 @@
         <source>There are no variants yet</source>
         <target>crwdns252296:0crwdne252296:0</target>
         <note>key: tab.variants.empty.info</note>
+      </trans-unit>
+      <trans-unit id="f3963d936969ba1809846c3d4110d834a706152d" resname="tab.variants.empty.search.info">
+        <source>Sorry, there are no variants for your search</source>
+        <target>crwdns269256:0crwdne269256:0</target>
+        <note>key: tab.variants.empty.search.info</note>
       </trans-unit>
       <trans-unit id="0fcbd8d26cddec6c401bffee5d141a53cda0a925" resname="tab.variants.modal.attribute">
         <source>Attribute</source>

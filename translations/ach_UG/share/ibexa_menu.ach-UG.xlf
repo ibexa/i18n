@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="05ee1e6f2c66e9345ed5740dfea217b409e6a078" resname="content__sidebar_right__share">
+        <source>Share</source>
+        <target>crwdns269278:0crwdne269278:0</target>
+        <note>key: content__sidebar_right__share</note>
+      </trans-unit>
       <trans-unit id="3a69701f025421a15e275cf0265754309adc3c92" resname="content_edit__sidebar_right__end_collaboration">
         <source>End collaboration</source>
         <target>crwdns266981:0crwdne266981:0</target>

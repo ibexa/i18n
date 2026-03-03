@@ -36,11 +36,6 @@
         <target state="translated">utworzono szkic</target>
         <note>key: activity_log.data_grid.actions.create_draft_label</note>
       </trans-unit>
-      <trans-unit id="6762358baf65fa5f825944d73b3c3053cf0db62e" resname="activity_log.data_grid.actions.create_label">
-        <source>created</source>
-        <target state="translated">utworzono</target>
-        <note>key: activity_log.data_grid.actions.create_label</note>
-      </trans-unit>
       <trans-unit id="aeeb1de82af2a039caf3bb38cccc1de66b7e16ee" resname="activity_log.data_grid.actions.delete_label">
         <source>deleted</source>
         <target state="translated">usunięte</target>
@@ -226,25 +221,10 @@
         <target state="translated">Zaktualizuj</target>
         <note>key: ibexa.activity_log.search_form.action.update</note>
       </trans-unit>
-      <trans-unit id="4d50e24875a17e12ad5661133baed9e14ba46d1a" resname="ibexa.activity_log.search_form.label.action">
-        <source>Action</source>
-        <target state="translated">Akcja</target>
-        <note>key: ibexa.activity_log.search_form.label.action</note>
-      </trans-unit>
-      <trans-unit id="bc639ca22b43a5112d959027ccdc88a6ddf7525e" resname="ibexa.activity_log.search_form.label.object_class">
-        <source>Object class</source>
-        <target state="translated">Klasa obiektu</target>
-        <note>key: ibexa.activity_log.search_form.label.object_class</note>
-      </trans-unit>
       <trans-unit id="375f1d54ddd1c2183c9bb57d2b47e3ab1a9eefab" resname="ibexa.activity_log.search_form.label.time">
         <source>Time</source>
         <target state="translated">Czas</target>
         <note>key: ibexa.activity_log.search_form.label.time</note>
-      </trans-unit>
-      <trans-unit id="5e10fd916dba74fed29db5a05dbb04365a70de3d" resname="ibexa.activity_log.search_form.label.users">
-        <source>User</source>
-        <target state="translated">Użytkownik</target>
-        <note>key: ibexa.activity_log.search_form.label.users</note>
       </trans-unit>
       <trans-unit id="e4b09b0fb3cb81711db1d2cc2503d480d92f7610" resname="ibexa.activity_log.search_form.object_class.content">
         <source>Content</source>

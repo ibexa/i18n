@@ -11,11 +11,6 @@
         <target state="translated">Dodaj</target>
         <note>key: block.product_catalog.add</note>
       </trans-unit>
-      <trans-unit id="9c60bc9300aa40cff41ea2ad21b5c9c4dbe60115" resname="block.product_catalog.cannot_preview_in_visibility">
-        <source>You cannot preview Catalog block using Visibility tab</source>
-        <target state="needs-translation">You cannot preview Catalog block using Visibility tab</target>
-        <note>key: block.product_catalog.cannot_preview_in_visibility</note>
-      </trans-unit>
       <trans-unit id="2e938e41a94ae34e34d1a2a653f8f4b1f1ecf5c7" resname="block.product_catalog.delete">
         <source>Delete</source>
         <target state="translated">Usuń</target>
@@ -115,11 +110,6 @@
         <source>Product Type</source>
         <target state="translated">Typ produktu</target>
         <note>key: product.collection.product_type</note>
-      </trans-unit>
-      <trans-unit id="0868db4da8b6d758388649bffaa28198591432c7" resname="product.collection.select_products">
-        <source>Select products</source>
-        <target state="translated">Wybierz produkty</target>
-        <note>key: product.collection.select_products</note>
       </trans-unit>
     </body>
   </file>

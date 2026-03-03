@@ -46,20 +46,10 @@
         <target state="translated">Nom de la société</target>
         <note>key: ibexa_checkout.ui.billing_address.company</note>
       </trans-unit>
-      <trans-unit id="48860202acc8447a9f03ac10b2117f20a5470ad4" resname="ibexa_checkout.ui.billing_address.first_name">
-        <source>First name</source>
-        <target state="needs-translation">First name</target>
-        <note>key: ibexa_checkout.ui.billing_address.first_name</note>
-      </trans-unit>
       <trans-unit id="fb9880912ec85fdebcfe28e550b2378572e45048" resname="ibexa_checkout.ui.billing_address.label">
         <source>Billing address</source>
         <target state="translated">Adresse de facturation</target>
         <note>key: ibexa_checkout.ui.billing_address.label</note>
-      </trans-unit>
-      <trans-unit id="09421d4df4f5551e0e09c9fd40c026a62cccfb4c" resname="ibexa_checkout.ui.billing_address.last_name">
-        <source>Last name</source>
-        <target state="needs-translation">Last name</target>
-        <note>key: ibexa_checkout.ui.billing_address.last_name</note>
       </trans-unit>
       <trans-unit id="0e4bb074f2a99b418e5fe6d3fee7f298c8281656" resname="ibexa_checkout.ui.billing_address.phone">
         <source>Phone</source>
@@ -110,16 +100,6 @@
         <source>Code %code%</source>
         <target state="translated">Code %code%</target>
         <note>key: ibexa_checkout.ui.data_summary.items.code</note>
-      </trans-unit>
-      <trans-unit id="34928e740f8a95af8435dfbeb418518661f24d31" resname="ibexa_checkout.ui.data_summary.items.net">
-        <source>x %value% net</source>
-        <target state="needs-translation">x %value% net</target>
-        <note>key: ibexa_checkout.ui.data_summary.items.net</note>
-      </trans-unit>
-      <trans-unit id="7878cd0ccae390c9edc95de156e0921e6f13162d" resname="ibexa_checkout.ui.data_summary.items.subtotal_net">
-        <source>%value% net</source>
-        <target state="needs-translation">%value% net</target>
-        <note>key: ibexa_checkout.ui.data_summary.items.subtotal_net</note>
       </trans-unit>
       <trans-unit id="c616ef8f48dd5788641b051346d62f0084240f4c" resname="ibexa_checkout.ui.go_to.summary.label">
         <source>Go to summary</source>

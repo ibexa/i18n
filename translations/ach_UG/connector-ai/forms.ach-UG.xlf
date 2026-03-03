@@ -6,6 +6,46 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="0bbc49ec2e38e0aff20c2ca0645dd97a56794283" resname="ibexa.fields_selector.any_item">
+        <source>Any</source>
+        <target>crwdns268962:0crwdne268962:0</target>
+        <note>key: ibexa.fields_selector.any_item</note>
+      </trans-unit>
+      <trans-unit id="e0cf83832fa6733381f842701dc2f30a594e2cfb" resname="ibexa.fields_selector.content_type_group.products.label">
+        <source>Products</source>
+        <target>crwdns268964:0crwdne268964:0</target>
+        <note>key: ibexa.fields_selector.content_type_group.products.label</note>
+      </trans-unit>
+      <trans-unit id="d5dbaa991c4874c729e1f5462397c29c3746c35d" resname="ibexa.fields_selector.ct">
+        <source>Content types</source>
+        <target>crwdns268966:0crwdne268966:0</target>
+        <note>key: ibexa.fields_selector.ct</note>
+      </trans-unit>
+      <trans-unit id="6cdb6bfa1e44cc5eb66cf066c131adf54401fd2b" resname="ibexa.fields_selector.ct_group">
+        <source>Content type groups</source>
+        <target>crwdns268968:0crwdne268968:0</target>
+        <note>key: ibexa.fields_selector.ct_group</note>
+      </trans-unit>
+      <trans-unit id="d5e02be968d3156caf22d3b0a2f4ffc318bd988e" resname="ibexa.fields_selector.label">
+        <source>Fields</source>
+        <target>crwdns268970:0crwdne268970:0</target>
+        <note>key: ibexa.fields_selector.label</note>
+      </trans-unit>
+      <trans-unit id="4e8af089c1ffcff01a1cabd53de52e25a63f4c70" resname="ibexa.fields_selector.source_fields">
+        <source>Source fields</source>
+        <target>crwdns268972:0crwdne268972:0</target>
+        <note>key: ibexa.fields_selector.source_fields</note>
+      </trans-unit>
+      <trans-unit id="a9c0b19d0836d834ac7189b771902c1370c49999" resname="ibexa.fields_selector.target_fields">
+        <source>Target fields</source>
+        <target>crwdns268974:0crwdne268974:0</target>
+        <note>key: ibexa.fields_selector.target_fields</note>
+      </trans-unit>
+      <trans-unit id="f18d9e0877138188085b8d737bd00331d177e30c" resname="multistep_selector.step.dropdown.placeholder">
+        <source>Select</source>
+        <target>crwdns268976:0crwdne268976:0</target>
+        <note>key: multistep_selector.step.dropdown.placeholder</note>
+      </trans-unit>
       <trans-unit id="d7bceca8ed7da8a33274c4ffd4ebc774f3f234e4" resname="role.policy.action_configuration">
         <source>AI action</source>
         <target>crwdns266521:0crwdne266521:0</target>
@@ -40,6 +80,16 @@
         <source>AI action / View</source>
         <target>crwdns266533:0crwdne266533:0</target>
         <note>key: role.policy.action_configuration.view</note>
+      </trans-unit>
+      <trans-unit id="14157233e92bbc84acd938f7f0a0aa8223bcd725" resname="taxonomy.tag.content.ai_suggest">
+        <source>AI Suggest %name%</source>
+        <target>crwdns268978:0%name%crwdne268978:0</target>
+        <note>key: taxonomy.tag.content.ai_suggest</note>
+      </trans-unit>
+      <trans-unit id="04a9738fec419ed3e23e06ffe2224c9cfabfbf26" resname="taxonomy.tag.content.widget.or">
+        <source>or</source>
+        <target>crwdns268980:0crwdne268980:0</target>
+        <note>key: taxonomy.tag.content.widget.or</note>
       </trans-unit>
     </body>
   </file>

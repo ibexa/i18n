@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="pl" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="f2a2098de40668db420d19f5ded1206aa4a33d04" resname="Generate alt text for given image">
+        <source>Generate alt text for given image.</source>
+        <target state="translated">Generuj alt tekst dla danego obrazu.</target>
+        <note>key: Generate alt text for given image</note>
+      </trans-unit>
+      <trans-unit id="8c884849330559781fa56173a57a0bfbbf644fcd" resname="Refine given text">
+        <source>Refine given text.</source>
+        <target state="translated">Przeredaguj podany tekst.</target>
+        <note>key: Refine given text</note>
+      </trans-unit>
+      <trans-unit id="821d13ad9e4e052d009e4e6bedbc19f066317186" resname="action_configuration.disabled">
+        <source>Disabled</source>
+        <target state="translated">Nieaktywny</target>
+        <note>key: action_configuration.disabled</note>
+      </trans-unit>
+      <trans-unit id="1dcc605dcf233261a8f3b8ecefdca708463b02d6" resname="action_configuration.enabled">
+        <source>Enabled</source>
+        <target state="translated">Włączony</target>
+        <note>key: action_configuration.enabled</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

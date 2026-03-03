@@ -21,11 +21,6 @@
         <target state="translated">%price% netto</target>
         <note>key: maincart.net_price</note>
       </trans-unit>
-      <trans-unit id="cdeaef6396fd0c7c3b072e7326e3752de1ceb380" resname="policy.limitation.cartowner.self">
-        <source>Self</source>
-        <target state="needs-translation">Self</target>
-        <note>key: policy.limitation.cartowner.self</note>
-      </trans-unit>
       <trans-unit id="7f3ae93be6562e2257084010674446e01bb38b1e" resname="quick_order.add_entry">
         <source>Add item</source>
         <target state="translated">Dodaj pozycję</target>
@@ -55,16 +50,6 @@
         <source>Shipping cost</source>
         <target state="translated">Koszty dostawy</target>
         <note>key: summary.item.shipping_cost.label</note>
-      </trans-unit>
-      <trans-unit id="dd192106c7608690ea1a6de7c87c48760724a168" resname="summary.item.shipping_cost.value">
-        <source>Calculated at checkout</source>
-        <target state="needs-translation">Calculated at checkout</target>
-        <note>key: summary.item.shipping_cost.value</note>
-      </trans-unit>
-      <trans-unit id="1efe4d907513991cdbd4689f48487c221bc5eab9" resname="summary.item.subtotal.label">
-        <source>Subtotal</source>
-        <target state="needs-translation">Subtotal</target>
-        <note>key: summary.item.subtotal.label</note>
       </trans-unit>
       <trans-unit id="8c121556a8642239bb0de29a2e32fa04501c0419" resname="summary.item.total.label">
         <source>Total value</source>

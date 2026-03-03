@@ -6,11 +6,7 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="c4ab977c9e95b8d0aef9c92e238c8e91c226cbbd" resname="orders.list.filters.no_currency_selected.notification.message">
-        <source>Select currency to filter by total value.</source>
-        <target state="needs-translation">Select currency to filter by total value.</target>
-        <note>key: orders.list.filters.no_currency_selected.notification.message</note>
-      </trans-unit>
+      
     </body>
   </file>
 </xliff>

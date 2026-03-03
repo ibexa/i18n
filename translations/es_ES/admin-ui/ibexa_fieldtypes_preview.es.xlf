@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="540d6bae1cf130f98f00799d4ef1c6f6b5752907" resname="ezboolean.no">
-        <source>No</source>
-        <target state="needs-translation">No</target>
-        <note>key: ezboolean.no</note>
-      </trans-unit>
       <trans-unit id="dfb5fd4a5dec38539847d92bb5e8417c5b82b96a" resname="ezboolean.yes">
         <source>Yes</source>
         <target state="translated">Sí</target>
@@ -141,11 +136,6 @@
         <target state="translated">Bucle</target>
         <note>key: ezmedia.loop</note>
       </trans-unit>
-      <trans-unit id="c351fa9d7e7c134199f7f49e0cd010dedafb4e13" resname="ezmedia.no">
-        <source>No</source>
-        <target state="needs-translation">No</target>
-        <note>key: ezmedia.no</note>
-      </trans-unit>
       <trans-unit id="099406392256d6e1816e54f4898f09b9ae005ffa" resname="ezmedia.size">
         <source>Size</source>
         <target state="translated">Tamaño</target>
@@ -166,11 +156,6 @@
         <target state="translated">Sí</target>
         <note>key: ezmedia.yes</note>
       </trans-unit>
-      <trans-unit id="df17c526bb1674b64ac8a4cd4eda1af9e0c5e7e5" resname="ezobjectrelation.content_type">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: ezobjectrelation.content_type</note>
-      </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
         <source>Name</source>
         <target state="translated">Nombre</target>
@@ -180,16 +165,6 @@
         <source>Single relation</source>
         <target state="translated">Relación única</target>
         <note>key: ezobjectrelation.single_relation</note>
-      </trans-unit>
-      <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ezobjectrelation.version_created">
-        <source>Version created</source>
-        <target state="needs-translation">Version created</target>
-        <note>key: ezobjectrelation.version_created</note>
-      </trans-unit>
-      <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: ezobjectrelationlist.content_type</note>
       </trans-unit>
       <trans-unit id="07ffe77032c4f0b4f8c64f7c40218274e805491f" resname="ezobjectrelationlist.created">
         <source>Created</source>
@@ -215,11 +190,6 @@
         <source>Enabled</source>
         <target state="translated">Activado</target>
         <note>key: ezuser.enabled</note>
-      </trans-unit>
-      <trans-unit id="26b99946e7309fcdd54dd12a959fee7d666b82f9" resname="ezuser.no">
-        <source>No</source>
-        <target state="needs-translation">No</target>
-        <note>key: ezuser.no</note>
       </trans-unit>
       <trans-unit id="7db7e702a32f5265b8ea0db196b4a41ea5ea6988" resname="ezuser.password_already_expired">
         <source>Password has expired</source>

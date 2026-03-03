@@ -261,16 +261,6 @@
         <target state="translated">Création en cours</target>
         <note>key: comapany.create.action_name</note>
       </trans-unit>
-      <trans-unit id="8fa0d5464c0ab82e43f3a908bb4292b0b15445ff" resname="comapany.create.section.basic_information.title">
-        <source>Company information</source>
-        <target state="translated">Informations sur la société</target>
-        <note>key: comapany.create.section.basic_information.title</note>
-      </trans-unit>
-      <trans-unit id="10d9a9f866b45df65fc46ec0cfb52eda1e034a49" resname="comapany.create.section.billing_address.title">
-        <source>Billing address</source>
-        <target state="translated">Adresse de facturation</target>
-        <note>key: comapany.create.section.billing_address.title</note>
-      </trans-unit>
       <trans-unit id="e9a7b3c857c480488e33fef33331da4993e75d38" resname="comapany.create.section.company.title">
         <source>Company</source>
         <target state="translated">Entreprise</target>
@@ -796,16 +786,6 @@
         <target state="translated">Création en cours</target>
         <note>key: member.create.action_name</note>
       </trans-unit>
-      <trans-unit id="ce5f3e4d7ecd3c04d8362a58f5acd4d06ed35361" resname="member.create.cancel_btn.label">
-        <source>Discard</source>
-        <target state="needs-translation">Discard</target>
-        <note>key: member.create.cancel_btn.label</note>
-      </trans-unit>
-      <trans-unit id="d1cb29393add5b969ae26c473fa9768c19ae27b6" resname="member.create.save_btn.label">
-        <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
-        <note>key: member.create.save_btn.label</note>
-      </trans-unit>
       <trans-unit id="eb25272b63f7419bdaa48e007ee297dbc1a0aa1e" resname="member.create.success">
         <source>Member created.</source>
         <target state="translated">Membre créé.</target>
@@ -816,20 +796,10 @@
         <target state="translated">Nouveau %contentType%</target>
         <note>key: member.create.title</note>
       </trans-unit>
-      <trans-unit id="1eef10adc8917823b4941b454473cfa0890a447d" resname="member.edit.cancel_btn.label">
-        <source>Discard</source>
-        <target state="needs-translation">Discard</target>
-        <note>key: member.edit.cancel_btn.label</note>
-      </trans-unit>
       <trans-unit id="acc5c68952087e2ddc74a06b8f959eecb3f2747f" resname="member.edit.editing">
         <source>Editing</source>
         <target state="translated">En cours d'édition</target>
         <note>key: member.edit.editing</note>
-      </trans-unit>
-      <trans-unit id="669423155a274137cdaccd1ef90b4f3e9a5cb530" resname="member.edit.save_btn.label">
-        <source>Save and close</source>
-        <target state="needs-translation">Save and close</target>
-        <note>key: member.edit.save_btn.label</note>
       </trans-unit>
       <trans-unit id="d40309cb9c6f16d95a722e82775b5a607d79573e" resname="member.edit.success">
         <source>Member '%name%' updated.</source>

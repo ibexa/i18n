@@ -82,15 +82,24 @@
         <note>key: account.forgot_user_password.confrimation.success.message</note>
       </trans-unit>
       <trans-unit id="f186551da03090fd03a722bb286b5a64c245dc6e" resname="account.forgot_user_password.mail.message">
-        <source><![CDATA[Hi,
-        <br /><br />
-        We have received a request to reset the password for your Customer Portal account. Click “reset password” below to choose a new password:
-        <br /><br />
-        <a href="%reset_password%">Reset password</a>
-        <br /><br />
-        If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
-        <target><![CDATA[crwdns247774:0%reset_password%crwdne247774:0]]></target>
+        <source> We have received a request to reset the password for your Customer Portal account. Click “reset password” below to choose a new password:</source>
+        <target>crwdns269190:0crwdne269190:0</target>
         <note>key: account.forgot_user_password.mail.message</note>
+      </trans-unit>
+      <trans-unit id="466e2eacab9529deac69998f35a02549f953c26c" resname="account.forgot_user_password.mail.message_footer">
+        <source>If you did not request a password reset, please ignore this email, and your password will remain the same.</source>
+        <target>crwdns269192:0crwdne269192:0</target>
+        <note>key: account.forgot_user_password.mail.message_footer</note>
+      </trans-unit>
+      <trans-unit id="9e27df9f5e1c0e76caf1d5649054b9ffa8f818ec" resname="account.forgot_user_password.mail.message_title">
+        <source>Hi,</source>
+        <target>crwdns269194:0crwdne269194:0</target>
+        <note>key: account.forgot_user_password.mail.message_title</note>
+      </trans-unit>
+      <trans-unit id="1830bdcbfd073c07465ea62402c5c95b36af71ce" resname="account.forgot_user_password.mail.reset_password">
+        <source>Reset password</source>
+        <target>crwdns269196:0crwdne269196:0</target>
+        <note>key: account.forgot_user_password.mail.reset_password</note>
       </trans-unit>
       <trans-unit id="d021f3be1567b2c5903acabc37ebd159e49f5a39" resname="account.forgot_user_password.mail.reset_your_password">
         <source>Reset your password</source>
@@ -472,26 +481,6 @@
         <source>Register</source>
         <target>crwdns252014:0crwdne252014:0</target>
         <note>key: registration.form.submit.btn</note>
-      </trans-unit>
-      <trans-unit id="d6c5e54e54472f7090fd62e16c51774a43af3e78" resname="registration_already_exists.info.explanation">
-        <source>Your application has NOT been submitted because there is already an application for that e-mail address.</source>
-        <target>crwdns248381:0crwdne248381:0</target>
-        <note>key: registration_already_exists.info.explanation</note>
-      </trans-unit>
-      <trans-unit id="4b37cf55b7bda5b33a39fd1817dce2e1ada559ea" resname="registration_already_exists.info.title">
-        <source>Application already exists.</source>
-        <target>crwdns248383:0crwdne248383:0</target>
-        <note>key: registration_already_exists.info.title</note>
-      </trans-unit>
-      <trans-unit id="fa25dd4e34e214653fba103113d3a2349d734d4d" resname="registration_already_exists.info.todo">
-        <source>Please contact us directly if you think this is a mistake.</source>
-        <target>crwdns248385:0crwdne248385:0</target>
-        <note>key: registration_already_exists.info.todo</note>
-      </trans-unit>
-      <trans-unit id="fa81b7a926fe90fcad4e5affde9e55dda7378d66" resname="registration_confirmation.image">
-        <source>registration confirmation</source>
-        <target>crwdns248389:0crwdne248389:0</target>
-        <note>key: registration_confirmation.image</note>
       </trans-unit>
       <trans-unit id="49c6026a629b3dbe922fe8e824acc26763d9273f" resname="registration_confirmation.image.alt.success">
         <source>Registration successful</source>

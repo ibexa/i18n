@@ -21,11 +21,6 @@
         <target state="translated">Merket</target>
         <note>key: fielddefinition.default-value.checked</note>
       </trans-unit>
-      <trans-unit id="aa6b4bece2c401e90fc0828a11ad372eaf2f3695" resname="fielddefinition.default-value.current_author">
-        <source>Current User</source>
-        <target state="needs-translation">Current User</target>
-        <note>key: fielddefinition.default-value.current_author</note>
-      </trans-unit>
       <trans-unit id="3410f38fd1f44cb841ec374c13daca04dcc5910b" resname="fielddefinition.default-value.current_date">
         <source>Current date</source>
         <target state="translated">Gjeldende dato</target>
@@ -136,16 +131,6 @@
         <target state="translated">Ingen definert maksimal størrelse</target>
         <note>key: fielddefinition.maximum-file-size.undefined</note>
       </trans-unit>
-      <trans-unit id="3e08813722e7959e982f4d8624c98b83d077cd55" resname="fielddefinition.maximum-file-size.value">
-        <source>%max% MB</source>
-        <target state="needs-translation">%max% MB</target>
-        <note>key: fielddefinition.maximum-file-size.value</note>
-      </trans-unit>
-      <trans-unit id="b9bb83913e23ad5a59eb7485ca48386bd7fce66e" resname="fielddefinition.media-player-type.flash">
-        <source>Flash</source>
-        <target state="needs-translation">Flash</target>
-        <note>key: fielddefinition.media-player-type.flash</note>
-      </trans-unit>
       <trans-unit id="1c31870437c9baa0d08c67140d35fa54c6223922" resname="fielddefinition.media-player-type.html5_audio">
         <source>HTML5 Audio</source>
         <target state="translated">HTML5 lyd</target>
@@ -165,16 +150,6 @@
         <source>Quicktime</source>
         <target state="translated">QuickTime</target>
         <note>key: fielddefinition.media-player-type.quick_time</note>
-      </trans-unit>
-      <trans-unit id="edd8db0307e234e095d1788540bd026e48e173f8" resname="fielddefinition.media-player-type.real_player">
-        <source>Real Player</source>
-        <target state="needs-translation">Real Player</target>
-        <note>key: fielddefinition.media-player-type.real_player</note>
-      </trans-unit>
-      <trans-unit id="4ad14874021f1b806f9c93b41ef195b12fe5ab3f" resname="fielddefinition.media-player-type.silverlight">
-        <source>Silverlight</source>
-        <target state="needs-translation">Silverlight</target>
-        <note>key: fielddefinition.media-player-type.silverlight</note>
       </trans-unit>
       <trans-unit id="738ddf9e6b12ae22e5f8e62839f63221c24f1431" resname="fielddefinition.media-player-type.undefined">
         <source>No defined value</source>
@@ -215,16 +190,6 @@
         <source>Allow multiple choices:</source>
         <target state="translated">Tillat flere valg:</target>
         <note>key: fielddefinition.multiple.label</note>
-      </trans-unit>
-      <trans-unit id="0b8ef090df7e5c7780364c51f060db3f5b8f076a" resname="fielddefinition.multiple.no">
-        <source>No</source>
-        <target state="needs-translation">No</target>
-        <note>key: fielddefinition.multiple.no</note>
-      </trans-unit>
-      <trans-unit id="ec31a6088a9e8cb3266bf0b99e057ca0677fcd82" resname="fielddefinition.multiple.yes">
-        <source>Yes</source>
-        <target state="needs-translation">Yes</target>
-        <note>key: fielddefinition.multiple.yes</note>
       </trans-unit>
       <trans-unit id="4d59776118124c81734aacab8a71198ee555479c" resname="fielddefinition.options.label">
         <source>Defined options</source>
@@ -305,16 +270,6 @@
         <source>Use seconds:</source>
         <target state="translated">Bruk sekunder:</target>
         <note>key: fielddefinition.use-seconds.label</note>
-      </trans-unit>
-      <trans-unit id="8c785cf266419d05f444b0e88bbf34f07c0b6fde" resname="fielddefinition.use-seconds.no">
-        <source>No</source>
-        <target state="needs-translation">No</target>
-        <note>key: fielddefinition.use-seconds.no</note>
-      </trans-unit>
-      <trans-unit id="edc26cd0186a48016fc5bc286c4d64e238043658" resname="fielddefinition.use-seconds.yes">
-        <source>Yes</source>
-        <target state="needs-translation">Yes</target>
-        <note>key: fielddefinition.use-seconds.yes</note>
       </trans-unit>
     </body>
   </file>

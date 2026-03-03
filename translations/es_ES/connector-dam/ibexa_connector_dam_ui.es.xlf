@@ -11,11 +11,6 @@
         <target state="translated">Algo ha salido mal.</target>
         <note>key: dam.error.message</note>
       </trans-unit>
-      <trans-unit id="d292169990f89742e58d1ade4e91c698f764699e" resname="dam.modal.title">
-        <source>Select Image Asset</source>
-        <target state="needs-translation">Select Image Asset</target>
-        <note>key: dam.modal.title</note>
-      </trans-unit>
       <trans-unit id="ef06a84c0f7befded548575fa9659bac170ad8bd" resname="fieldtype.ezimageasset.dam_select.label">
         <source>Select from DAM</source>
         <target state="translated">Selecciona de DAM</target>

@@ -46,25 +46,10 @@
         <target state="translated">Percorso</target>
         <note>key: section.assigned_content.path</note>
       </trans-unit>
-      <trans-unit id="741d668d8a98bbaa2195e996de4402f24ef7d60e" resname="section.assigned_content.type">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: section.assigned_content.type</note>
-      </trans-unit>
-      <trans-unit id="f45cc741a3a68971876e3c23cddeff2fc45fcbc3" resname="section.breadcrumb.list">
-        <source>Sections</source>
-        <target state="needs-translation">Sections</target>
-        <note>key: section.breadcrumb.list</note>
-      </trans-unit>
       <trans-unit id="0a6c7f3919b09caa9eee957a4949d3c9b6dce16e" resname="section.create.success">
         <source>Section '%name%' created.</source>
         <target state="translated">Sezione '%name%' creata.</target>
         <note>key: section.create.success</note>
-      </trans-unit>
-      <trans-unit id="9acf0e8d215ddc5f79a8b660be280af8eb3e22e7" resname="section.creating">
-        <source>Creating</source>
-        <target state="needs-translation">Creating</target>
-        <note>key: section.creating</note>
       </trans-unit>
       <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success">
         <source>Section '%name%' removed.</source>
@@ -76,25 +61,10 @@
         <target state="translated">Modifica</target>
         <note>key: section.edit</note>
       </trans-unit>
-      <trans-unit id="4415ad4901be9df6454161d40f078fc1a2fc923b" resname="section.editing">
-        <source>Editing</source>
-        <target state="needs-translation">Editing</target>
-        <note>key: section.editing</note>
-      </trans-unit>
-      <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
-        <source>ID</source>
-        <target state="needs-translation">ID</target>
-        <note>key: section.id</note>
-      </trans-unit>
       <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier">
         <source>Identifier</source>
         <target state="translated">Identificatore</target>
         <note>key: section.identifier</note>
-      </trans-unit>
-      <trans-unit id="d91e051a7d7b54b42011fb6fc61bbb3997340d2a" resname="section.list.cannot_delete_notice">
-        <source>You cannot delete the disabled sections, because they have assigned content.</source>
-        <target state="needs-translation">You cannot delete the disabled sections, because they have assigned content.</target>
-        <note>key: section.list.cannot_delete_notice</note>
       </trans-unit>
       <trans-unit id="d0db9c352babe46e30354a78d9b3eccd226d7602" resname="section.list.title">
         <source>Sections</source>
@@ -130,11 +100,6 @@
         <source>Section: %identifier%</source>
         <target state="translated">Sezione: %identifier%</target>
         <note>key: section.view.title.identifier</note>
-      </trans-unit>
-      <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
-        <source>Technical details</source>
-        <target state="needs-translation">Technical details</target>
-        <note>key: tab.details.technical_details</note>
       </trans-unit>
     </body>
   </file>

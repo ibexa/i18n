@@ -16,30 +16,10 @@
         <target state="translated">Verstecke abbrechen</target>
         <note>key: future_hide.action.unschedule.label</note>
       </trans-unit>
-      <trans-unit id="bb4399374d3885ded0ee2e2b2d1c34fa4e4cae97" resname="future_hide.attribute.content_type.label">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: future_hide.attribute.content_type.label</note>
-      </trans-unit>
       <trans-unit id="d3d224f58fa31ffea8b89208f01cad4f8839d389" resname="future_hide.label">
         <source>Content hide</source>
         <target state="translated">Inhalt ausblenden</target>
         <note>key: future_hide.label</note>
-      </trans-unit>
-      <trans-unit id="f01b2ae0dce2e28724b27d1ca71b44d764d2636e" resname="future_publication.action.reschedule.label">
-        <source>Reschedule</source>
-        <target state="needs-translation">Reschedule</target>
-        <note>key: future_publication.action.reschedule.label</note>
-      </trans-unit>
-      <trans-unit id="53a0be7e89d421b9dfa28ca9fa0fcf29c5a70675" resname="future_publication.action.unschedule.label">
-        <source>Cancel publication</source>
-        <target state="needs-translation">Cancel publication</target>
-        <note>key: future_publication.action.unschedule.label</note>
-      </trans-unit>
-      <trans-unit id="420ef90e1dcbceca8d26b11b03d816c39678d7b1" resname="future_publication.attribute.content_type.label">
-        <source>Content type</source>
-        <target state="needs-translation">Content type</target>
-        <note>key: future_publication.attribute.content_type.label</note>
       </trans-unit>
       <trans-unit id="f959f501d6fe50e8cb2bba1d789cc29c3b3a31f2" resname="future_publication.attribute.modified_language.label">
         <source>Modified language</source>
@@ -81,11 +61,6 @@
         <target state="translated">Ausgewählter Inhalt (% eventsCount%)</target>
         <note>key: modal.discard.table.language.label</note>
       </trans-unit>
-      <trans-unit id="009172790a92714b1fad31ff1ea9f9691f3b9953" resname="modal.discard.table.name.label">
-        <source>Name</source>
-        <target state="needs-translation">Name</target>
-        <note>key: modal.discard.table.name.label</note>
-      </trans-unit>
       <trans-unit id="0b3369427b3d6137981f8152556a902c4afaa9c8" resname="modal.future_hide.discard.button.cancel.label">
         <source>Cancel</source>
         <target state="translated">Abbrechen</target>
@@ -105,11 +80,6 @@
         <source>Event</source>
         <target state="translated">Veranstaltung</target>
         <note>key: modal.future_hide.discard.table.event.label</note>
-      </trans-unit>
-      <trans-unit id="3a1339a4b677ce67c6565d1bac4a3c742999f636" resname="modal.future_hide.discard.table.name.label">
-        <source>Name</source>
-        <target state="needs-translation">Name</target>
-        <note>key: modal.future_hide.discard.table.name.label</note>
       </trans-unit>
       <trans-unit id="1e4306c3cc98473b86d8b03016465abcf0be2bc1" resname="modal.future_hide.reschedule.button.cancel.label">
         <source>Cancel</source>

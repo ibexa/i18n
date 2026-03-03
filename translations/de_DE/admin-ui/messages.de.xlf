@@ -101,11 +101,6 @@
         <target state="translated"><![CDATA[Willkommen bei<br/> Ibexa DXP]]></target>
         <note>key: base.welcome</note>
       </trans-unit>
-      <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
-        <source>You have no notifications.</source>
-        <target state="translated">Sie haben keine Benachrichtigungen.</target>
-        <note>key: bookmark.list.empty</note>
-      </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
         <target state="translated">Administrator</target>
@@ -361,23 +356,6 @@
         <target state="translated">Diese E-Mail ist mit mehreren Konten verbunden. Bitte geben Sie Ihren Login ein.</target>
         <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
-      <trans-unit id="db6dd97ed4776bb0e9843554c48e3962327e8f50" resname="ezplatform.forgot_user_password.message">
-        <source><![CDATA[Hi,
-        <br /><br />
-        We have received a request to reset the password for your eZ Platform account. Click “reset password” below to choose a new password:
-        <br /><br />
-        <a href="%reset_password%">Reset password</a>
-        <br /><br />
-        If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
-        <target state="translated"><![CDATA[Hallo,
-        <br /> <br />
-        Wir haben eine Anfrage erhalten, das Passwort für Ihr Konto vor Ort zurückzusetzen. Klicken Sie unten auf "Passwort zurücksetzen", um ein neues Passwort auszuwählen:
-        <br /> <br />
-        <a href="%reset_password%"> Passwort zurücksetzen <a/>
-        <br /> <br />
-        Wenn Sie kein Zurücksetzen des Passworts angefordert haben, ignorieren Sie diese E-Mail. Ihr Passwort bleibt unverändert.]]></target>
-        <note>key: ezplatform.forgot_user_password.message</note>
-      </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
         <target state="translated">Setze dein Passwort zurück</target>
@@ -402,11 +380,6 @@
         <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
         <target state="translated"><![CDATA[Dieser Link ist nicht mehr gültig. Sie können <a href="%forgot_user_password%"> einen neuen Link erstellen </a>, um Ihr Passwort zurückzusetzen.]]></target>
         <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
-      </trans-unit>
-      <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
-        <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to eZ Platform.]]></source>
-        <target state="translated"><![CDATA[Herzlichen Glückwunsch, Ihr Passwort wurde geändert. Sie können sich jetzt <a href="%login%"> bei eZ Platform anmelden </a>.]]></target>
-        <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="bd5ae6bdfe2b60c317c3b47f27c5bf5a264b71ba" resname="fieldview.toggler.hide">
         <source>Hide</source>
@@ -506,16 +479,6 @@
         <target state="translated">Passwort</target>
         <note>key: my_account_settings.password.title</note>
       </trans-unit>
-      <trans-unit id="5b03625b8de51d296ad7f4bc980e631c964185d8" resname="notification.no_longer_available">
-        <source>The Content item is no longer available</source>
-        <target state="translated">Das Inhaltselement ist nicht mehr verfügbar</target>
-        <note>key: notification.no_longer_available</note>
-      </trans-unit>
-      <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
-        <source>Title:</source>
-        <target state="translated">Titel:</target>
-        <note>key: notification.title</note>
-      </trans-unit>
       <trans-unit id="0480844e257807b48dbf75fa7a374ceb7649ec5c" resname="object_state.delete.bulk_delete.submit">
         <source>Delete</source>
         <target state="translated">Entfernen</target>
@@ -600,16 +563,6 @@
         <source>Swap the Content item at this Location with another</source>
         <target state="translated">Vertausche das Inhaltselement an diesem Ort mit einem anderen</target>
         <note>key: tab.locations.swap_with_another</note>
-      </trans-unit>
-      <trans-unit id="d2e707023baa6830915c5d12b915974d627522e4" resname="tab.versions.table.action.archived.edit">
-        <source>Restore archived version</source>
-        <target state="translated">Archivierte Version wiederherstellen</target>
-        <note>key: tab.versions.table.action.archived.edit</note>
-      </trans-unit>
-      <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
-        <source>Edit</source>
-        <target state="translated">Bearbeiten</target>
-        <note>key: tab.versions.table.action.draft.edit</note>
       </trans-unit>
       <trans-unit id="a602612589c6e902caaf8acf1fd51fcd215955f1" resname="tab.versions.table.author.not_found">
         <source>Can't fetch contributor</source>

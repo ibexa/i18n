@@ -51,11 +51,6 @@
         <target state="translated">Elementy zawartości</target>
         <note>key: block.schedule.select_content.wrapper.label</note>
       </trans-unit>
-      <trans-unit id="ce63f0ad9dc60242493136bc6a34a24eb7e69de5" resname="change.airtime">
-        <source>Change airtime</source>
-        <target state="needs-translation">Change airtime</target>
-        <note>key: change.airtime</note>
-      </trans-unit>
       <trans-unit id="9485989ff514b5106b7738850fd73c23e8c1e3f7" resname="delete">
         <source>Delete</source>
         <target state="translated">Usuń</target>
