@@ -941,11 +941,6 @@
         <target>crwdns251333:0crwdne251333:0</target>
         <note>key: error.required.field.integer</note>
       </trans-unit>
-      <trans-unit id="bc4850e9ccff0c6effc58a089fe148c16689d8ee" resname="ibexa_image_asset.title">
-        <source>Select Image Asset</source>
-        <target>crwdns247364:0crwdne247364:0</target>
-        <note>key: ibexa_image_asset.title</note>
-      </trans-unit>
       <trans-unit id="fec8270453451fdd353b4a9c8f6e459908355a73" resname="field_definition.ibexa_product_specification.attributes_definitions">
         <source>Attributes</source>
         <target>crwdns243316:0crwdne243316:0</target>
@@ -1025,6 +1020,11 @@
         <source>Number of fractional places</source>
         <target>crwdns251337:0crwdne251337:0</target>
         <note>key: form.currency.subunits</note>
+      </trans-unit>
+      <trans-unit id="70241b02d194cfdc379557b7d72c06d9e1af7eba" resname="ibexa_image_asset.title">
+        <source>Select Image Asset</source>
+        <target>crwdns269428:0crwdne269428:0</target>
+        <note>key: ibexa_image_asset.title</note>
       </trans-unit>
       <trans-unit id="fe39d4b263a82fed2b4589d6b48d97a58807936b" resname="ibexa_product_catalog.attribute.float.option.max_value">
         <source>Maximum Value</source>
