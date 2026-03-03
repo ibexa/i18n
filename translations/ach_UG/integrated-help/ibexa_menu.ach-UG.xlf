@@ -62,8 +62,8 @@
         <note>key: help__product_roadmap</note>
       </trans-unit>
       <trans-unit id="04480423ab5de93185e08463ee36c196661d303e" resname="help__product_roadmap_description">
-        <source>Set upcoming features that could help shape your strategy for the future.</source>
-        <target>crwdns268436:0crwdne268436:0</target>
+        <source>See upcoming features that could help shape your strategy for the future.</source>
+        <target>crwdns269396:0crwdne269396:0</target>
         <note>key: help__product_roadmap_description</note>
       </trans-unit>
       <trans-unit id="611f45e606ac0129e7aed4d98e115ba47cbbe5e3" resname="help__release_notes">
@@ -92,8 +92,8 @@
         <note>key: help__submit_idea</note>
       </trans-unit>
       <trans-unit id="e1cfcebd731fabe66d29ff73b8ef305cf255b499" resname="help__support_idea_description">
-        <source>Review insights and suggestions from users to improve product usability.</source>
-        <target>crwdns268448:0crwdne268448:0</target>
+        <source>Submit insights and suggestions to improve the product.</source>
+        <target>crwdns269398:0crwdne269398:0</target>
         <note>key: help__support_idea_description</note>
       </trans-unit>
       <trans-unit id="50cfacd3a0329d86519baa9bfa78faf66ef45b41" resname="help__support_portal">
