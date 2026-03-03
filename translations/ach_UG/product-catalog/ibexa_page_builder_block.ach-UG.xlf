@@ -116,6 +116,71 @@
         <target>crwdns250345:0crwdne250345:0</target>
         <note>key: product.collection.product_type</note>
       </trans-unit>
+      <trans-unit id="446d90e26c0bf6ae5e700539a3ba402f415ad5c5" resname="product_embed.add">
+        <source>Add</source>
+        <target>crwdns269402:0crwdne269402:0</target>
+        <note>key: product_embed.add</note>
+      </trans-unit>
+      <trans-unit id="93685a0d02bb9abc5e18c888adaa4f6b78956e28" resname="product_embed.add_only_base_products">
+        <source>You can add or select only base product.</source>
+        <target>crwdns269404:0crwdne269404:0</target>
+        <note>key: product_embed.add_only_base_products</note>
+      </trans-unit>
+      <trans-unit id="9b5dbeac8837ceba32c2fff35ca546e51f3f6c42" resname="product_embed.code">
+        <source>Code</source>
+        <target>crwdns269406:0crwdne269406:0</target>
+        <note>key: product_embed.code</note>
+      </trans-unit>
+      <trans-unit id="9e164f54d31a9b0f3e174773e63f11406e452ba4" resname="product_embed.empty_table">
+        <source>Table is empty</source>
+        <target>crwdns269408:0crwdne269408:0</target>
+        <note>key: product_embed.empty_table</note>
+      </trans-unit>
+      <trans-unit id="cbf2668dda1ebf4ef06018f165e342cc492c87db" resname="product_embed.error.already_added">
+        <source>Product already added</source>
+        <target>crwdns269410:0crwdne269410:0</target>
+        <note>key: product_embed.error.already_added</note>
+      </trans-unit>
+      <trans-unit id="730e7fca92896d616c8651d396a7763d2391b900" resname="product_embed.error.cannot_add_variant">
+        <source>You cannot add product variant</source>
+        <target>crwdns269412:0crwdne269412:0</target>
+        <note>key: product_embed.error.cannot_add_variant</note>
+      </trans-unit>
+      <trans-unit id="c5445d654e1e39344dc8220c0c23d0ad7b37a76d" resname="product_embed.error.not_found">
+        <source>Product not found</source>
+        <target>crwdns269414:0crwdne269414:0</target>
+        <note>key: product_embed.error.not_found</note>
+      </trans-unit>
+      <trans-unit id="3d67846626b5a06ab141333ef4bdc2106381eb42" resname="product_embed.no_product">
+        <source>No product selected</source>
+        <target>crwdns269416:0crwdne269416:0</target>
+        <note>key: product_embed.no_product</note>
+      </trans-unit>
+      <trans-unit id="c97887f0ef1ffb52f73590d64dd711fd8ff97631" resname="product_embed.or">
+        <source>or</source>
+        <target>crwdns269418:0crwdne269418:0</target>
+        <note>key: product_embed.or</note>
+      </trans-unit>
+      <trans-unit id="d5ce90566205a032c4e78e7e471599b6a526576d" resname="product_embed.placeholder">
+        <source>Enter product code</source>
+        <target>crwdns269420:0crwdne269420:0</target>
+        <note>key: product_embed.placeholder</note>
+      </trans-unit>
+      <trans-unit id="501fdf9281b711b92aa26b875c3a87d616127e89" resname="product_embed.product_list">
+        <source>Product (%count%)</source>
+        <target>crwdns269422:0%count%crwdne269422:0</target>
+        <note>key: product_embed.product_list</note>
+      </trans-unit>
+      <trans-unit id="8986c30fc9c158b97d2ca990e7da82f59167da90" resname="product_embed.product_name">
+        <source>Product name</source>
+        <target>crwdns269424:0crwdne269424:0</target>
+        <note>key: product_embed.product_name</note>
+      </trans-unit>
+      <trans-unit id="630d969bb973ea52cf85a27da58cac954a459fd7" resname="product_embed.product_type">
+        <source>Product Type</source>
+        <target>crwdns269426:0crwdne269426:0</target>
+        <note>key: product_embed.product_type</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
