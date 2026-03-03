@@ -21,11 +21,6 @@
         <target state="translated">設定</target>
         <note>key: field.settings</note>
       </trans-unit>
-      <trans-unit id="1ef0657bf94b6c1594d67f719920c7fb66d51ed6" resname="form.cannot.be.empty">
-        <source>Form field is required</source>
-        <target state="translated">表單欄位必填。</target>
-        <note>key: form.cannot.be.empty</note>
-      </trans-unit>
       <trans-unit id="99c07fbdbe0c40a68138652eb91532d9737ed7b2" resname="form.no_preview">
         <source>Preview is not available.</source>
         <target state="translated">預覽不可用。</target>
