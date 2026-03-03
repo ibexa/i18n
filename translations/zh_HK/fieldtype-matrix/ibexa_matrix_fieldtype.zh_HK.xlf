@@ -21,10 +21,10 @@
         <target state="translated">欄</target>
         <note>key: field.columns</note>
       </trans-unit>
-      <trans-unit id="07c51cf854c53ebcc11d9261c7ca5b0772d7f7a4" resname="field_definition.ezmatrix.minimum_rows">
+      <trans-unit id="07c51cf854c53ebcc11d9261c7ca5b0772d7f7a4" resname="field_definition.ibexa_matrix.minimum_rows">
         <source>Minimum number of rows</source>
         <target state="translated">最小行數</target>
-        <note>key: field_definition.ezmatrix.minimum_rows</note>
+        <note>key: field_definition.ibexa_matrix.minimum_rows</note>
       </trans-unit>
       <trans-unit id="fc0bcd313cd08b3ce3b2380d4cc714c20047a5c0" resname="fieldtype.column.identifier">
         <source>Identifier</source>
