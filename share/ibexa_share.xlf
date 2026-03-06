@@ -152,8 +152,8 @@
         <note>key: share.invite.list.internal.header</note>
       </trans-unit>
       <trans-unit id="d62474e28e72c81a6988c748bee9528922614a21" resname="share.invite.search.error.text">
-        <source>One or more participants don't have permissions to edit or an email address is invalid.</source>
-        <target state="new">One or more participants don't have permissions to edit or an email address is invalid.</target>
+        <source>Some participants can’t be added. Check the email address or their permissions.</source>
+        <target state="new">Some participants can’t be added. Check the email address or their permissions.</target>
         <note>key: share.invite.search.error.text</note>
       </trans-unit>
       <trans-unit id="543aa7210030eeb746a1dc46c361d408cf9bbed2" resname="share.invite.search.helper.text">
@@ -195,6 +195,11 @@
         <source>Link settings</source>
         <target state="new">Link settings</target>
         <note>key: share.modal.link_settings.title</note>
+      </trans-unit>
+      <trans-unit id="e8ed731462964bf92534f5f8b0463dc461b6a15d" resname="share.notification.invitation.content.email.empty_name_placeholder">
+        <source>[Untitled]</source>
+        <target state="new">[Untitled]</target>
+        <note>key: share.notification.invitation.content.email.empty_name_placeholder</note>
       </trans-unit>
       <trans-unit id="979cb4bc5611c1015fa0c98fb8a036c0d32829c8" resname="share.notification.invitation.content_edit.email.body.cta">
         <source>Join collaboration</source>
