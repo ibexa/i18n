@@ -76,6 +76,11 @@
         <target state="translated">L’emplacement sélectionné n’a pas d’enfants.</target>
         <note>key: ezplatform.trash.location_has_no_children</note>
       </trans-unit>
+      <trans-unit id="2fc6a26856564c3a819811e45c80db85091b62cf" resname="ibexa.date_range.invalid_range">
+        <source>The From date must be earlier than the To date.</source>
+        <target state="translated">La date de début doit être antérieure à la date de fin.</target>
+        <note>key: ibexa.date_range.invalid_range</note>
+      </trans-unit>
       <trans-unit id="ea852842b560d609441b8470b79735f2dc91698f" resname="ibexa.language.language_code.format">
         <source>The Language code {{ value }} contains illegal characters. Language code should start with a letter, digit or underscore and only contain letters, digits, numbers, underscores, hyphens and colons.</source>
         <target state="translated">Le code de langue {{ value }} contient des caractères non autorisés. Le code de langue doit commencer par une lettre, un chiffre ou un tiret bas « _ » et ne contenir que des lettres, des chiffres, des numéros, des tirets bas « _ », des tirets et des deux-points.</target>

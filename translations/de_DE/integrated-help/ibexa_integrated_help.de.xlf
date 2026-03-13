@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="37eef4e96a9bb86111dfb54a7fab23d7c37ff230" resname="ibexa.integrated_help.action_btn.label">
+        <source>Help center</source>
+        <target state="translated">Hilfe-Center</target>
+        <note>key: ibexa.integrated_help.action_btn.label</note>
+      </trans-unit>
+      <trans-unit id="a2b69de92a8907e0756c68323b8eef71986058ab" resname="ibexa.integrated_help.change_settings">
+        <source>Go to help center settings</source>
+        <target state="translated">Zu den Hilfe-Center-Einstellungen</target>
+        <note>key: ibexa.integrated_help.change_settings</note>
+      </trans-unit>
+      <trans-unit id="87c49cb9109d8449bd655827ff7d4845b4f139de" resname="ibexa.integrated_help.close">
+        <source>Close</source>
+        <target state="translated">Schließen</target>
+        <note>key: ibexa.integrated_help.close</note>
+      </trans-unit>
+      <trans-unit id="3519721574aaf39c82bce7dc625d3a9b542cf5fe" resname="ibexa.integrated_help.header">
+        <source>Welcome to Ibexa DXP help center</source>
+        <target state="translated">Willkommen im Hilfe-Center von Ibexa DXP</target>
+        <note>key: ibexa.integrated_help.header</note>
+      </trans-unit>
+      <trans-unit id="e46f8fa1b60b2b7267fa4389a1bfcb3f47e6232a" resname="ibexa.integrated_help.settings.help_center.description">
+        <source>Help center</source>
+        <target state="translated">Hilfe-Center</target>
+        <note>key: ibexa.integrated_help.settings.help_center.description</note>
+      </trans-unit>
+      <trans-unit id="ac8e51d2f01afb32ca82ecf2b63c2a451eff95b9" resname="ibexa.integrated_help.settings.help_center.help_disabled">
+        <source>This setting is currently disabled due to system configuration</source>
+        <target state="translated">Diese Einstellung ist aufgrund der Systemkonfiguration derzeit deaktiviert</target>
+        <note>key: ibexa.integrated_help.settings.help_center.help_disabled</note>
+      </trans-unit>
+      <trans-unit id="7f44e119639923b6ad205b57aa67ee458d0ac61a" resname="ibexa.integrated_help.settings.help_center.name">
+        <source>Help center</source>
+        <target state="translated">Hilfe-Center</target>
+        <note>key: ibexa.integrated_help.settings.help_center.name</note>
+      </trans-unit>
+      <trans-unit id="fb654df3ce7de1dc491c9ba762927712e033e338" resname="ibexa.integrated_help.settings.help_center.value.disabled">
+        <source>Disabled</source>
+        <target state="translated">Deaktiviert</target>
+        <note>key: ibexa.integrated_help.settings.help_center.value.disabled</note>
+      </trans-unit>
+      <trans-unit id="741278107bb1d503adc9ad1c4cbd104cd3d259f9" resname="ibexa.integrated_help.settings.help_center.value.enabled">
+        <source>Enabled</source>
+        <target state="translated">Aktiviert</target>
+        <note>key: ibexa.integrated_help.settings.help_center.value.enabled</note>
+      </trans-unit>
+      <trans-unit id="12ba079cd2262abe8c0853444b777f3b3d56bde9" resname="ibexa.integrated_help.version">
+        <source>Ibexa DXP</source>
+        <target state="translated">Ibexa DXP</target>
+        <note>key: ibexa.integrated_help.version</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

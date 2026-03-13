@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="dbf0b883e33a6e7c433ffa9a536fd214cda39b5c" resname="Could not find %classType% class '%className%'">
         <source>Could not find %classType% class '%className%'</source>
-        <target state="translated">Impossible de trouver la classe « %className% » de type %classType%</target>
+        <target state="translated">Impossible de trouver la classe « %classType% » de type %className%</target>
         <note>key: Could not find %classType% class '%className%'</note>
       </trans-unit>
       <trans-unit id="ff3e1dacaa764a0e94a86b173f9c93509fcaadeb" resname="Could not find '%what%' with identifier '%identifier%'">

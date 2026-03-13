@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="ae5b9e24716aa8ffe6ec02999209b6e74f89aa44" resname="ibexa.payment.money_amount.equal_to_or_greater_than_zero">
         <source>Money amount must be equal to or greater than 0 {{ currency }}</source>
-        <target state="translated">Der Geldbetrag muss gleich oder größer als 0 {{ currency }} sein</target>
+        <target state="translated">Der Geldbetrag muss gleich oder größer als 0 {{ currency }}</target>
         <note>key: ibexa.payment.money_amount.equal_to_or_greater_than_zero</note>
       </trans-unit>
       <trans-unit id="3d05dcfb03798e071d57af1f9eb64407667bb14a" resname="ibexa.payment.payment_method.at_least_one_translation">

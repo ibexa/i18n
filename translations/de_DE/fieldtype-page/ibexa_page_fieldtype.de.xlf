@@ -42,7 +42,7 @@
         <note>key: ibexa.fieldtype_page.block.banner.name</note>
       </trans-unit>
       <trans-unit id="44b4a616f512ddaa64a43464a1301ceff901bfc9" resname="ibexa.fieldtype_page.block.category.default">
-        <source>Default</source>
+        <source>default</source>
         <target state="translated">Standard</target>
         <note>key: ibexa.fieldtype_page.block.category.default</note>
       </trans-unit>
