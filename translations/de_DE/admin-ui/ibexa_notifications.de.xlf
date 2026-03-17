@@ -56,16 +56,6 @@
         <target state="translated">Benachrichtigungen anzeigen</target>
         <note>key: menu.notification</note>
       </trans-unit>
-      <trans-unit id="fc349b70133a7a68cae9be363e112ee397044b6a" resname="notification.date">
-        <source>Date</source>
-        <target state="translated">Datum</target>
-        <note>key: notification.date</note>
-      </trans-unit>
-      <trans-unit id="6b83526d14384d4144093369e83601556437fbb0" resname="notification.description">
-        <source>Description</source>
-        <target state="translated">Beschreibung</target>
-        <note>key: notification.description</note>
-	  </trans-unit>
       <trans-unit id="f091fff161417ece8282179d04b7098bae61b5ab" resname="notification.Title">
         <source>Title</source>
         <target state="translated">Titel</target>
@@ -145,11 +135,6 @@
         <source>Sent to Trash</source>
         <target state="translated">In Papierkorb verschoben</target>
         <note>key: notification.trashed</note>
-      </trans-unit>
-      <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type">
-        <source>Type</source>
-        <target state="translated">Typ</target>
-        <note>key: notification.type</note>
       </trans-unit>
       <trans-unit id="d643e1117bad8f0bac7d8b158f54e2109ea1f482" resname="notification.trashed.info">
         <source>moved to Trash</source>

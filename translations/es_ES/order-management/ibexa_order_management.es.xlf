@@ -578,7 +578,7 @@
       </trans-unit>
       <trans-unit id="164c5d9b47b06269229f52e21083875dbcae4df6" resname="policy.limitation.orderowner.self">
         <source>Self</source>
-        <target state="translated">Ser</target>
+        <target state="translated">Este Usuario</target>
         <note>key: policy.limitation.orderowner.self</note>
       </trans-unit>
       <trans-unit id="0515dfe194e0b90b7f7e6f2d2aea9c1bd7d5c273" resname="search_form.currency.information.message">

@@ -42,8 +42,8 @@
         <note>key: ibexa.fieldtype_page.block.banner.name</note>
       </trans-unit>
       <trans-unit id="44b4a616f512ddaa64a43464a1301ceff901bfc9" resname="ibexa.fieldtype_page.block.category.default">
-        <source>Default</source>
-        <target state="translated">Défaut</target>
+        <source>default</source>
+        <target state="translated">par défaut</target>
         <note>key: ibexa.fieldtype_page.block.category.default</note>
       </trans-unit>
       <trans-unit id="133b858824168387f901d945c06996597191bdda" resname="ibexa.fieldtype_page.block.collection.attributes.locationlist.name">

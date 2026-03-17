@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="052696d7bef6d8f4db1a3989bbcfe6c2a226ef2d" resname="Version is assigned to another user (%name%) since %modified%.">
         <source>Version is assigned to another user (%name%) since %modified%.</source>
-        <target state="translated">Die Version ist seit %modified% einem anderen Benutzer (%name%) zugewiesen.</target>
+        <target state="translated">Die Version ist seit %name% einem anderen Benutzer (%modified%) zugewiesen.</target>
         <note>key: Version is assigned to another user (%name%) since %modified%.</note>
       </trans-unit>
     </body>

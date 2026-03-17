@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="234ba5df9aaec2de51a299dfe9413ae5a25e39d0" resname="ibexa.segmentation.fieldtype_page.block.targeting.name">
+        <source>Targeting</source>
+        <target state="translated">Zielgruppenausrichtung</target>
+        <note>key: ibexa.segmentation.fieldtype_page.block.targeting.name</note>
+      </trans-unit>
+      <trans-unit id="1b59fa6a0dd1da848e3bece89df5b1061ecb2cb6" resname="ibexa.segmentation.fieldtype_page.targeting.attribute.content_map.name">
+        <source>Setup segment and content matching priority rules</source>
+        <target state="translated">Segment- und Inhaltsabgleich-Prioritätsregeln einrichten</target>
+        <note>key: ibexa.segmentation.fieldtype_page.targeting.attribute.content_map.name</note>
+      </trans-unit>
+      <trans-unit id="6ead757e95119b2327fabc610945a6c1e60483ae" resname="ibexa.segmentation.fieldtype_page.targeting.attribute.default_content_id.name">
+        <source>Select default content</source>
+        <target state="translated">Standardinhalt auswählen</target>
+        <note>key: ibexa.segmentation.fieldtype_page.targeting.attribute.default_content_id.name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

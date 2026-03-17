@@ -393,7 +393,7 @@
       </trans-unit>
       <trans-unit id="983ef20da8e6501abdf6d0e7f19d776c66eaffb3" resname="policy.limitation.paymentowner.self">
         <source>Self</source>
-        <target state="translated">Ser</target>
+        <target state="translated">Este Usuario</target>
         <note>key: policy.limitation.paymentowner.self</note>
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
