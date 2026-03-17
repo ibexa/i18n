@@ -433,7 +433,7 @@
       </trans-unit>
       <trans-unit id="455d880856d81c36703e91d83d3755ce00ed4c76" resname="policy.limitation.shipmentowner.self">
         <source>Self</source>
-        <target state="translated">Ser</target>
+        <target state="translated">Este Usuario</target>
         <note>key: policy.limitation.shipmentowner.self</note>
       </trans-unit>
       <trans-unit id="2cd9af7f7dc729ea116360503f71dfb0c2440a14" resname="shipment.search.created_at.label">

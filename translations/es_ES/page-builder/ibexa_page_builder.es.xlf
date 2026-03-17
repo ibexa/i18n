@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="7bef33e2ca412f0a0522e9eb2e7d8fb3b9bc63dd" resname="block.name.duplicate">
         <source>%block_name% [duplicate]</source>
-        <target state="translated">%block_name% [duplicado]</target>
+        <target state="translated">%block_name% [duplicate]</target>
         <note>key: block.name.duplicate</note>
       </trans-unit>
       <trans-unit id="b264e5fe26bc4d10d5ca3becf3ab73542f738925" resname="block.no_availability">
