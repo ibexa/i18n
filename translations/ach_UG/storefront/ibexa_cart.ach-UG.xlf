@@ -11,6 +11,11 @@
         <target>crwdns250729:0crwdne250729:0</target>
         <note>key: add_to_cart.quantity.label</note>
       </trans-unit>
+      <trans-unit id="a7b08c6bc0a8c69b6f59059899ffd55fd5f676f1" resname="add_to_shopping_list.max_number_of_entries.message">
+        <source>You’ve reached the maximum number of products in this list. Remove one of your existing products to add new.</source>
+        <target>crwdns269642:0crwdne269642:0</target>
+        <note>key: add_to_shopping_list.max_number_of_entries.message</note>
+      </trans-unit>
       <trans-unit id="173e34e53ec57db1dd81b698a0bd1f9ff5411d00" resname="cart_view.empty.continue_shopping_link.label">
         <source>Continue shopping</source>
         <target>crwdns250731:0crwdne250731:0</target>
@@ -50,6 +55,16 @@
         <source>Subtotal</source>
         <target>crwdns250745:0crwdne250745:0</target>
         <note>key: ibexa_storefront.maincart.item.subtotal_price_net.label</note>
+      </trans-unit>
+      <trans-unit id="fd5c3913dec3938b5df77dca6a53d4ed64d1d064" resname="ibexa_storefront.maincart.item.wishlist.title">
+        <source>Move to My Wishlist</source>
+        <target>crwdns269644:0crwdne269644:0</target>
+        <note>key: ibexa_storefront.maincart.item.wishlist.title</note>
+      </trans-unit>
+      <trans-unit id="5a13f20342ab66b30401713186b897e6d6a481d8" resname="ibexa_storefront.maincart.move_all_to_wishlist_btn.label">
+        <source>Move all to wishlist</source>
+        <target>crwdns269646:0crwdne269646:0</target>
+        <note>key: ibexa_storefront.maincart.move_all_to_wishlist_btn.label</note>
       </trans-unit>
       <trans-unit id="6d01c584013f2b05ce3279dc0cbea892b197cae6" resname="maincart.summary.apply_coupon_btn.label">
         <source>Apply</source>
@@ -105,11 +120,6 @@
         <source>Cart</source>
         <target>crwdns250751:0crwdne250751:0</target>
         <note>key: minicart.icon.alt</note>
-      </trans-unit>
-      <trans-unit id="feb50f7008e30668b4eee22019c666cf862041d2" resname="minicart.label">
-        <source>cart</source>
-        <target>crwdns250753:0crwdne250753:0</target>
-        <note>key: minicart.label</note>
       </trans-unit>
       <trans-unit id="9bf551c71e76f1adaef5e8870e587850ae545fc6" resname="summary.item.discount.label">
         <source>Discount</source>
