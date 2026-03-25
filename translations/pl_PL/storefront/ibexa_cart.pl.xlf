@@ -66,11 +66,6 @@
         <target state="translated">Koszyk</target>
         <note>key: minicart.icon.alt</note>
       </trans-unit>
-      <trans-unit id="feb50f7008e30668b4eee22019c666cf862041d2" resname="minicart.label">
-        <source>cart</source>
-        <target state="translated">koszyk</target>
-        <note>key: minicart.label</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
