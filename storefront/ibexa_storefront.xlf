@@ -126,6 +126,11 @@
         <target state="new">Settings</target>
         <note>key: ibexa_storefront.menu.user.settings</note>
       </trans-unit>
+      <trans-unit id="0349c3da642fcb1af52e38a34f24cb267aa722e7" resname="ibexa_storefront.menu.user.shopping_list">
+        <source>Shopping lists</source>
+        <target state="new">Shopping lists</target>
+        <note>key: ibexa_storefront.menu.user.shopping_list</note>
+      </trans-unit>
       <trans-unit id="7bab86b637147c245e9e4b3e7e3b0fdf59f86564" resname="ibexa_storefront.pagination.total">
         <source>%total% products found</source>
         <target state="new">%total% products found</target>
@@ -505,6 +510,266 @@
         <source>All products entered in Quick order have been added successfully.</source>
         <target state="new">All products entered in Quick order have been added successfully.</target>
         <note>key: quick_order.success</note>
+      </trans-unit>
+      <trans-unit id="d1030e280d8fe145e69fdc5754d6546a00367ead" resname="shopping_list.action.create.btn.label">
+        <source>Create</source>
+        <target state="new">Create</target>
+        <note>key: shopping_list.action.create.btn.label</note>
+      </trans-unit>
+      <trans-unit id="4e756db28b9e80bb267115951ef5bf9fb4677ee5" resname="shopping_list.add_to_cart.some_products_unavailable">
+        <source>Some products from the shopping list could not be added to the cart.</source>
+        <target state="new">Some products from the shopping list could not be added to the cart.</target>
+        <note>key: shopping_list.add_to_cart.some_products_unavailable</note>
+      </trans-unit>
+      <trans-unit id="a0679b0e489e032a6084105e537d31ae916eb52a" resname="shopping_list.create.action.cancel.btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: shopping_list.create.action.cancel.btn.label</note>
+      </trans-unit>
+      <trans-unit id="65b37256beb2867fa467a5ec440028e96718da8e" resname="shopping_list.create.action.create.btn.label">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: shopping_list.create.action.create.btn.label</note>
+      </trans-unit>
+      <trans-unit id="6cedcf4550be9d7181532b9c703b0b6099c31741" resname="shopping_list.create.title">
+        <source>Create new shopping list</source>
+        <target state="new">Create new shopping list</target>
+        <note>key: shopping_list.create.title</note>
+      </trans-unit>
+      <trans-unit id="aea621279daff259e1f4a8d7753c3491d5fd3e21" resname="shopping_list.default.badge">
+        <source>(default)</source>
+        <target state="new">(default)</target>
+        <note>key: shopping_list.default.badge</note>
+      </trans-unit>
+      <trans-unit id="c4d3a74407b327869b6894d49f9d53bee468c98e" resname="shopping_list.default.title">
+        <source>My Wishlist</source>
+        <target state="new">My Wishlist</target>
+        <note>key: shopping_list.default.title</note>
+      </trans-unit>
+      <trans-unit id="73d83ddb67240d51c2f7e8d6c212516bc7f668f5" resname="shopping_list.edit.title">
+        <source>Edit shopping list</source>
+        <target state="new">Edit shopping list</target>
+        <note>key: shopping_list.edit.title</note>
+      </trans-unit>
+      <trans-unit id="4ed3524c17bafdc30a39376bf55e2858c0a57e13" resname="shopping_list.list.column.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: shopping_list.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="78509923be6ef5c2db25075fefc8f6031214e0cc" resname="shopping_list.list.column.products">
+        <source>Products</source>
+        <target state="new">Products</target>
+        <note>key: shopping_list.list.column.products</note>
+      </trans-unit>
+      <trans-unit id="9993c2b90b84f73185fbcb7e2bba0d9b3812f473" resname="shopping_list.list.column.updated">
+        <source>Updated</source>
+        <target state="new">Updated</target>
+        <note>key: shopping_list.list.column.updated</note>
+      </trans-unit>
+      <trans-unit id="9a8ff9dd4117f118506fb9ffc01f86ba94936555" resname="shopping_list.list.delete.btn">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: shopping_list.list.delete.btn</note>
+      </trans-unit>
+      <trans-unit id="6070055c9f3376503f63c95bb960f55f623fdde2" resname="shopping_list.list.edit.btn">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: shopping_list.list.edit.btn</note>
+      </trans-unit>
+      <trans-unit id="561cbcb7f2aefa2bf04964355b44f4e918f526ab" resname="shopping_list.list.no_items.action_text">
+        <source>When you create your lists, they will appear here.</source>
+        <target state="new">When you create your lists, they will appear here.</target>
+        <note>key: shopping_list.list.no_items.action_text</note>
+      </trans-unit>
+      <trans-unit id="80ba803ac4f77d8dce87c27dbf2eea2ae083357c" resname="shopping_list.list.no_items.info_text">
+        <source>No shopping list yet</source>
+        <target state="new">No shopping list yet</target>
+        <note>key: shopping_list.list.no_items.info_text</note>
+      </trans-unit>
+      <trans-unit id="3e3f301764c272a766dc522b22672cdc16a3a816" resname="shopping_list.list.no_search_results.action_text">
+        <source>Try again with new search criteria.</source>
+        <target state="new">Try again with new search criteria.</target>
+        <note>key: shopping_list.list.no_search_results.action_text</note>
+      </trans-unit>
+      <trans-unit id="d0c149cac5149e4c612f4cbaedb5af1348feca0d" resname="shopping_list.list.no_search_results.info_text">
+        <source>Sorry, there are no shopping lists for your search</source>
+        <target state="new">Sorry, there are no shopping lists for your search</target>
+        <note>key: shopping_list.list.no_search_results.info_text</note>
+      </trans-unit>
+      <trans-unit id="5e37c28b72173afceacfd2fbf2f9df5b44e4a946" resname="shopping_list.list.sorting.option.created_at_asc">
+        <source>Created (oldest, newest)</source>
+        <target state="new">Created (oldest, newest)</target>
+        <note>key: shopping_list.list.sorting.option.created_at_asc</note>
+      </trans-unit>
+      <trans-unit id="4dfd7f2792fe9cbf5985bab77796f21d8dbdc9b8" resname="shopping_list.list.sorting.option.created_at_desc">
+        <source>Created (newest, oldest)</source>
+        <target state="new">Created (newest, oldest)</target>
+        <note>key: shopping_list.list.sorting.option.created_at_desc</note>
+      </trans-unit>
+      <trans-unit id="f9e1b19a93a4a357a76af380b02c0783fc62b93a" resname="shopping_list.list.sorting.option.name_az">
+        <source>Name (A-Z)</source>
+        <target state="new">Name (A-Z)</target>
+        <note>key: shopping_list.list.sorting.option.name_az</note>
+      </trans-unit>
+      <trans-unit id="67053ef207bd7622239a69e1b0b633a76ded11d1" resname="shopping_list.list.sorting.option.name_za">
+        <source>Name (Z-A)</source>
+        <target state="new">Name (Z-A)</target>
+        <note>key: shopping_list.list.sorting.option.name_za</note>
+      </trans-unit>
+      <trans-unit id="8f1222a7b93b39dcb8663ccb507d1712f3aa8b37" resname="shopping_list.list.sorting.option.updated_at_asc">
+        <source>Updated (oldest, newest)</source>
+        <target state="new">Updated (oldest, newest)</target>
+        <note>key: shopping_list.list.sorting.option.updated_at_asc</note>
+      </trans-unit>
+      <trans-unit id="e259f4a5902195cded4f40f536a69783dad59a01" resname="shopping_list.list.sorting.option.updated_at_desc">
+        <source>Updated (newest, oldest)</source>
+        <target state="new">Updated (newest, oldest)</target>
+        <note>key: shopping_list.list.sorting.option.updated_at_desc</note>
+      </trans-unit>
+      <trans-unit id="1fceded171a5cc1f4e8c8f98b72af67e33c509c2" resname="shopping_list.list.table.action.btn.label">
+        <source>Create shopping list</source>
+        <target state="new">Create shopping list</target>
+        <note>key: shopping_list.list.table.action.btn.label</note>
+      </trans-unit>
+      <trans-unit id="6dcb09c21d983f3556b0d561cfccf03329ba5d8b" resname="shopping_list.list.title">
+        <source>Shopping lists</source>
+        <target state="new">Shopping lists</target>
+        <note>key: shopping_list.list.title</note>
+      </trans-unit>
+      <trans-unit id="1c3651c445715d259e396e9e9d3987c510db41b9" resname="shopping_list.list.unnamed_list">
+        <source>Unnamed List</source>
+        <target state="new">Unnamed List</target>
+        <note>key: shopping_list.list.unnamed_list</note>
+      </trans-unit>
+      <trans-unit id="c61133e5986f812c603cfc79c2fd7ecbd3eaa810" resname="shopping_list.remove_shopping_list_confirmation_modal.confirm.btn">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: shopping_list.remove_shopping_list_confirmation_modal.confirm.btn</note>
+      </trans-unit>
+      <trans-unit id="4cff6da3bd596c844678ec06f92a534d1224701a" resname="shopping_list.remove_shopping_list_confirmation_modal.question">
+        <source>Do you want to delete the shopping list?</source>
+        <target state="new">Do you want to delete the shopping list?</target>
+        <note>key: shopping_list.remove_shopping_list_confirmation_modal.question</note>
+      </trans-unit>
+      <trans-unit id="88d8dc9e2e0e602d05268788c9ff7da72111936d" resname="shopping_list.remove_shopping_list_confirmation_modal.title">
+        <source>Deleting shopping list</source>
+        <target state="new">Deleting shopping list</target>
+        <note>key: shopping_list.remove_shopping_list_confirmation_modal.title</note>
+      </trans-unit>
+      <trans-unit id="c3c635e4df408bbd071355e8e6032032b6e8e45d" resname="shopping_list.shopping_list_limit_reached.message">
+        <source>Shopping lists limit reached.</source>
+        <target state="new">Shopping lists limit reached.</target>
+        <note>key: shopping_list.shopping_list_limit_reached.message</note>
+      </trans-unit>
+      <trans-unit id="0872c771e9cad88ae7fde976b4f34b38de051b0c" resname="shopping_list.update.action.cancel.btn.label">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: shopping_list.update.action.cancel.btn.label</note>
+      </trans-unit>
+      <trans-unit id="012babf8d0fd7592f59a382a79b321ca811fe36c" resname="shopping_list.update.action.update.btn.label">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: shopping_list.update.action.update.btn.label</note>
+      </trans-unit>
+      <trans-unit id="38e7c5a3ea8f9784f7b08350b2f5f67978897899" resname="shopping_list.update.wishlist.no_edit_notice">
+        <source>This is a default shopping list, you cannot change its name or delete it.</source>
+        <target state="new">This is a default shopping list, you cannot change its name or delete it.</target>
+        <note>key: shopping_list.update.wishlist.no_edit_notice</note>
+      </trans-unit>
+      <trans-unit id="c849f461614011d9045fc66a4697880c7b552cc4" resname="shopping_list.view.actions.add_all_to_cart.btn">
+        <source>Add all to cart</source>
+        <target state="new">Add all to cart</target>
+        <note>key: shopping_list.view.actions.add_all_to_cart.btn</note>
+      </trans-unit>
+      <trans-unit id="bd0af811be768a066abb2a3c080a5339e671bca9" resname="shopping_list.view.actions.add_selected_to_cart.btn">
+        <source>Add to cart</source>
+        <target state="new">Add to cart</target>
+        <note>key: shopping_list.view.actions.add_selected_to_cart.btn</note>
+      </trans-unit>
+      <trans-unit id="23970741d9a55109e29cecbf8052d6c6eabdd6c1" resname="shopping_list.view.actions.delete.btn">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: shopping_list.view.actions.delete.btn</note>
+      </trans-unit>
+      <trans-unit id="0a306e7153f5b123ee582fc13f53233d76bb15bd" resname="shopping_list.view.actions.edit.btn">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: shopping_list.view.actions.edit.btn</note>
+      </trans-unit>
+      <trans-unit id="5c0b7d2ce850910fae63a26496fd8be5db965cda" resname="shopping_list.view.add_to_shopping_list_modal.title">
+        <source>Add to shopping list</source>
+        <target state="new">Add to shopping list</target>
+        <note>key: shopping_list.view.add_to_shopping_list_modal.title</note>
+      </trans-unit>
+      <trans-unit id="f522f8a3ff87b374097059fc9c769cf4b48d09e0" resname="shopping_list.view.info.updated.label">
+        <source>Updated</source>
+        <target state="new">Updated</target>
+        <note>key: shopping_list.view.info.updated.label</note>
+      </trans-unit>
+      <trans-unit id="f83dd95f3afa2a4ac2e530ce88e1c7413b7a229f" resname="shopping_list.view.products.add_to_cart.btn">
+        <source>Add to cart</source>
+        <target state="new">Add to cart</target>
+        <note>key: shopping_list.view.products.add_to_cart.btn</note>
+      </trans-unit>
+      <trans-unit id="2e9fb7b7502ef6aa892b772c0fa9c0009e10894b" resname="shopping_list.view.products.add_to_shopping_list.btn">
+        <source>Add to shopping list</source>
+        <target state="new">Add to shopping list</target>
+        <note>key: shopping_list.view.products.add_to_shopping_list.btn</note>
+      </trans-unit>
+      <trans-unit id="441c71941aa92b8f70578edc630bcc57db36db49" resname="shopping_list.view.products.column.added">
+        <source>Added</source>
+        <target state="new">Added</target>
+        <note>key: shopping_list.view.products.column.added</note>
+      </trans-unit>
+      <trans-unit id="2bf788ea25e0f88cf3f2ce0d2980d37e17368c51" resname="shopping_list.view.products.column.name">
+        <source>Product name</source>
+        <target state="new">Product name</target>
+        <note>key: shopping_list.view.products.column.name</note>
+      </trans-unit>
+      <trans-unit id="d2e71d638f130f8f957e24c9942a593838232d34" resname="shopping_list.view.products.column.products">
+        <source>Code</source>
+        <target state="new">Code</target>
+        <note>key: shopping_list.view.products.column.products</note>
+      </trans-unit>
+      <trans-unit id="351614d5b228a0b33b7f7c5474ddb3d16b88fded" resname="shopping_list.view.products.column.unit_price">
+        <source>Unit price</source>
+        <target state="new">Unit price</target>
+        <note>key: shopping_list.view.products.column.unit_price</note>
+      </trans-unit>
+      <trans-unit id="f97d873385f9552a207fc1c000e0af3e6e7d854d" resname="shopping_list.view.products.delete.btn">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: shopping_list.view.products.delete.btn</note>
+      </trans-unit>
+      <trans-unit id="226175f9545ecc2d89f82f157a85bbb5b17bc418" resname="shopping_list.view.products.delete_selected.btn">
+        <source>Delete selected</source>
+        <target state="new">Delete selected</target>
+        <note>key: shopping_list.view.products.delete_selected.btn</note>
+      </trans-unit>
+      <trans-unit id="bf48559809e81214f6d5210ca79b8a59d256a8a2" resname="shopping_list.view.products.no_items.action_text">
+        <source>When you add products to your shopping list, they will appear here.</source>
+        <target state="new">When you add products to your shopping list, they will appear here.</target>
+        <note>key: shopping_list.view.products.no_items.action_text</note>
+      </trans-unit>
+      <trans-unit id="3d3fbc58fba8d756fc5e8f5615ff64fa2e581ff7" resname="shopping_list.view.products.no_items.info_text">
+        <source>No products yet</source>
+        <target state="new">No products yet</target>
+        <note>key: shopping_list.view.products.no_items.info_text</note>
+      </trans-unit>
+      <trans-unit id="dc2163cb217b8ae27a403d6940863f26178c72cb" resname="shopping_list.view.products.title">
+        <source>Products</source>
+        <target state="new">Products</target>
+        <note>key: shopping_list.view.products.title</note>
+      </trans-unit>
+      <trans-unit id="984884356408561998c3a4e37b3ea3910f20f56c" resname="shopping_list.view.remove_shopping_list_confirmation_modal.cancel.btn">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: shopping_list.view.remove_shopping_list_confirmation_modal.cancel.btn</note>
+      </trans-unit>
+      <trans-unit id="3475e55cd223b75e90eb2cb9251ca756991cbdc2" resname="shopping_list.view.unnamed_list">
+        <source>Unnamed List</source>
+        <target state="new">Unnamed List</target>
+        <note>key: shopping_list.view.unnamed_list</note>
       </trans-unit>
       <trans-unit id="0a43a5c7cc8a874fa6f7699914940389f79cef65" resname="user.setting.currency.description">
         <source>Default currency</source>
