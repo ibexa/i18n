@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="6d1cbf209c172c90bddd06d244cc43baf14f9f1c" resname="ibexa_customer_group.name">
         <source>Customer group</source>
-        <target state="needs-translation">Customer group</target>
+        <target state="translated">Kundengruppe</target>
         <note>key: ibexa_customer_group.name</note>
       </trans-unit>
       <trans-unit id="b520b15bb18322625ce78733d43f964aa969219f" resname="ibexa_product_specification.name">
         <source>Product specification</source>
-        <target state="needs-translation">Product specification</target>
+        <target state="translated">Produktspezifikation</target>
         <note>key: ibexa_product_specification.name</note>
       </trans-unit>
     </body>

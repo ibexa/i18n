@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="7bfef54619593ae2fe5dc3f47da88df13a888f32" resname="common.content_unavailable">
         <source>Selected content is deleted or unavailable.</source>
-        <target state="translated">Ausgewählter Inhalt wird gelöscht oder ist nicht verfügbar.</target>
+        <target state="translated">Ausgewählter Inhalt wurde gelöscht oder ist nicht verfügbar.</target>
         <note>key: common.content_unavailable</note>
       </trans-unit>
       <trans-unit id="106df4dc953df10cee4ddc93d7f0665d42d0cbe4" resname="general.render_error">
         <source>Block %name% could not be rendered due to an internal error.</source>
-        <target state="translated">Block %name% konnte aufgrund eines internen Fehlers nicht gerendert werden.</target>
+        <target state="translated">Der Block %name% konnte aufgrund eines internen Fehlers nicht angezeigt werden.</target>
         <note>key: general.render_error</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="e2b8dff16cf1b8ad7848630c4d7c42cc31ac5e21" resname="Enter login or email">
         <source>Enter login or email</source>
-        <target state="translated">Geben Sie Ihr Login oder Ihre E-Mail ein</target>
+        <target state="translated">Anmeldenamen oder E-Mail eingeben</target>
         <note>key: Enter login or email</note>
       </trans-unit>
       <trans-unit id="570591c060a999e9ab1592763c74d881b7654ee1" resname="Enter password">
         <source>Enter password</source>
-        <target state="translated">Geben Sie Ihr Passwort an</target>
+        <target state="translated">Passwort eingeben</target>
         <note>key: Enter password</note>
       </trans-unit>
       <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login">
         <source>Login</source>
-        <target state="translated">Anmelden</target>
+        <target state="translated">Anmeldung</target>
         <note>key: Login</note>
       </trans-unit>
       <trans-unit id="be81ab98cb9ccf753975f50fa70cd32581a821fc" resname="Password:">

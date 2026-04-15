@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="46aef6fc467bbe065bc8a91cab998a0bffd48ec1" resname="Set date">
         <source>Set date</source>
-        <target state="translated">Datum einstellen</target>
+        <target state="translated">Datum festlegen</target>
         <note>key: Set date</note>
       </trans-unit>
     </body>

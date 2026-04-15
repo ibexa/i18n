@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="74ccbb06e1226201f9642eefa451b67360a4145b" resname="role.policy.content.unlock">
         <source>Content / Unlock</source>
-        <target state="needs-translation">Content / Unlock</target>
+        <target state="translated">Inhalt / Entsperren</target>
         <note>key: role.policy.content.unlock</note>
       </trans-unit>
       <trans-unit id="30c5e1c11a520e499ad68130a2c7b844c2243888" resname="role.policy.workflow">
         <source>Workflow</source>
-        <target state="needs-translation">Workflow</target>
+        <target state="translated">Workflow</target>
         <note>key: role.policy.workflow</note>
       </trans-unit>
       <trans-unit id="2b2742373d60445d02b866c30e21db99f0755ae6" resname="role.policy.workflow.all_functions">
         <source>Workflow / All functions</source>
-        <target state="needs-translation">Workflow / All functions</target>
+        <target state="translated">Workflow / Alle Funktionen</target>
         <note>key: role.policy.workflow.all_functions</note>
       </trans-unit>
       <trans-unit id="4ec99016d9af53130aaf043f9b6bce7ced2a1739" resname="role.policy.workflow.change_stage">
         <source>Workflow / Change Stage</source>
-        <target state="needs-translation">Workflow / Change Stage</target>
+        <target state="translated">Workflow / Stufe ändern</target>
         <note>key: role.policy.workflow.change_stage</note>
       </trans-unit>
     </body>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="f4d14ac90177b836b766891120680fbee82e2a51" resname="dashboard.table.authors.collaborators">
+        <source>Collaborators</source>
+        <target state="translated">Mitwirkende</target>
+        <note>key: dashboard.table.authors.collaborators</note>
+      </trans-unit>
+      <trans-unit id="e9dfcdbfcd628c3640b7b2a99db6ae970b6946f6" resname="dashboard.table.authors.creator">
+        <source>Creator</source>
+        <target state="translated">Ersteller</target>
+        <note>key: dashboard.table.authors.creator</note>
+      </trans-unit>
+      <trans-unit id="0c575e6b56ba26c883104843cdd0223e049a7d60" resname="share.action.label">
+        <source>Share</source>
+        <target state="translated">Teilen</target>
+        <note>key: share.action.label</note>
+      </trans-unit>
+      <trans-unit id="cdb96b59869803b97523e2bce7014a2226a54fdf" resname="share.blocked_drafts.warning">
+        <source>Some drafts on the list might be disabled for editing due to active real-time collaboration session. Only session participants can edit them.</source>
+        <target state="translated">Einige Entwürfe in der Liste sind möglicherweise aufgrund einer Sitzung zur Echtzeitzusammenarbeit für die Bearbeitung deaktiviert. Nur Sitzungsteilnehmer können sie bearbeiten.</target>
+        <note>key: share.blocked_drafts.warning</note>
+      </trans-unit>
+      <trans-unit id="ee265ffa7dd9b16ca6c86bc0281b6cf6443fcb92" resname="share.blocked_fields.warning">
+        <source>Some fields in the form might be disabled for real-time collaboration. Only owner of this content can edit it.</source>
+        <target state="translated">Einige Felder im Formular sind möglicherweise für die Echtzeitzusammenarbeit gesperrt. Nur der Eigentümer dieses Inhalts kann ihn bearbeiten.</target>
+        <note>key: share.blocked_fields.warning</note>
+      </trans-unit>
+      <trans-unit id="4b819fa2924ccfb636e758a3676d399236fe43e5" resname="share.collaboration_session.created">
+        <source>Collaboration session created.</source>
+        <target state="translated">Sitzung zur Zusammenarbeit wurde erstellt.</target>
+        <note>key: share.collaboration_session.created</note>
+      </trans-unit>
+      <trans-unit id="2dde740fb8a0b24d5c23aad027a2f1ede1f3ab92" resname="share.collaboration_session.created_additional_actions">
+        <source>Collaboration session created, refresh the page to continue.</source>
+        <target state="translated">Sitzung zur Zusammenarbeit wurde erstellt, aktualisieren Sie die Seite, um fortzufahren.</target>
+        <note>key: share.collaboration_session.created_additional_actions</note>
+      </trans-unit>
+      <trans-unit id="0d9a487a42d2cf5fca7d210d1fc94e6bc82c5472" resname="share.collaboration_session.loader.description">
+        <source>Don't close this window until the session is created.</source>
+        <target state="translated">Schließen Sie dieses Fenster erst, wenn die Sitzung erstellt wurde.</target>
+        <note>key: share.collaboration_session.loader.description</note>
+      </trans-unit>
+      <trans-unit id="8324319062a0a8fa8b5c05469e6726e96f37bfe3" resname="share.collaboration_session.loader.header">
+        <source>Creating session...</source>
+        <target state="translated">Sitzung wird erstellt ...</target>
+        <note>key: share.collaboration_session.loader.header</note>
+      </trans-unit>
+      <trans-unit id="9260543fb34b71cf9e9b8a613b1a991576535f37" resname="share.copy_invite_link.hide_label">
+        <source>Hide link</source>
+        <target state="translated">Link ausblenden</target>
+        <note>key: share.copy_invite_link.hide_label</note>
+      </trans-unit>
+      <trans-unit id="bffab669d60889771d09bc5402a29fda93f72ef0" resname="share.copy_invite_link.label">
+        <source>Copy invite link</source>
+        <target state="translated">Einladungslink kopieren</target>
+        <note>key: share.copy_invite_link.label</note>
+      </trans-unit>
+      <trans-unit id="c72bf66f7c6d24d777af22b9f360c4476991c257" resname="share.copy_invite_link.show_label">
+        <source>Show link</source>
+        <target state="translated">Link anzeigen</target>
+        <note>key: share.copy_invite_link.show_label</note>
+      </trans-unit>
+      <trans-unit id="aefab1e54ce6f51bf85d80fdd320f7c19d2716c2" resname="share.copy_link.copied_tooltip.title">
+        <source>Copied!</source>
+        <target state="translated">Kopiert!</target>
+        <note>key: share.copy_link.copied_tooltip.title</note>
+      </trans-unit>
+      <trans-unit id="80cac419c95fdb84b4b4336c7bc14d82da4f1773" resname="share.copy_link.copy_clipboard_error">
+        <source>Failed to copy link to clipboard.</source>
+        <target state="translated">Kopieren des Links in die Zwischenablage fehlgeschlagen.</target>
+        <note>key: share.copy_link.copy_clipboard_error</note>
+      </trans-unit>
+      <trans-unit id="e5b53df051695fd6ba4793b43c309c4035f7df56" resname="share.copy_link.get_link_request.error">
+        <source>Error.</source>
+        <target state="translated">Fehler.</target>
+        <note>key: share.copy_link.get_link_request.error</note>
+      </trans-unit>
+      <trans-unit id="16c418a071aa9708942e8346113be43e2413b0cd" resname="share.copy_link.label">
+        <source>Copy link</source>
+        <target state="translated">Link kopieren</target>
+        <note>key: share.copy_link.label</note>
+      </trans-unit>
+      <trans-unit id="fe53c83645833d8b63cd19bb42944eaee853be10" resname="share.disabled_icon_tooltip">
+        <source>When the list contains email addresses, only the preview is available.</source>
+        <target state="translated">Wenn die Liste E-Mail-Adressen enthält, ist nur die Vorschau verfügbar.</target>
+        <note>key: share.disabled_icon_tooltip</note>
+      </trans-unit>
+      <trans-unit id="98b44301358e56c6b7e7d29c698ec2b5137281f6" resname="share.end_collaboration.modal.footer.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="translated">Abbrechen</target>
+        <note>key: share.end_collaboration.modal.footer.cancel_btn.label</note>
+      </trans-unit>
+      <trans-unit id="f4ae4e2bf44cbe8266bca469b3fd25c2d139f622" resname="share.end_collaboration.modal.footer.confirm_btn.label">
+        <source>Confirm</source>
+        <target state="translated">Bestätigen</target>
+        <note>key: share.end_collaboration.modal.footer.confirm_btn.label</note>
+      </trans-unit>
+      <trans-unit id="2099f1fc49ec28eaeb548acbb67872018b90c55a" resname="share.end_collaboration.modal.saving.notice">
+        <source>All changes will be saved.</source>
+        <target state="translated">Alle Änderungen werden gespeichert.</target>
+        <note>key: share.end_collaboration.modal.saving.notice</note>
+      </trans-unit>
+      <trans-unit id="84b995d08ab40319bd0ad7b61efd7028b49acab6" resname="share.end_collaboration.modal.title">
+        <source>End collaboration</source>
+        <target state="translated">Zusammenarbeit beenden</target>
+        <note>key: share.end_collaboration.modal.title</note>
+      </trans-unit>
+      <trans-unit id="fdef3382cb1bc0b9a095fb5700186926deb54fe5" resname="share.end_collaboration.modal.warning.notice">
+        <source>This will end collaboration session for all users.</source>
+        <target state="translated">Dies beendet die Sitzung zur Zusammenarbeit für alle Benutzer.</target>
+        <note>key: share.end_collaboration.modal.warning.notice</note>
+      </trans-unit>
+      <trans-unit id="8d037d91f17cc52b6597d58a396b634acb5c3de5" resname="share.invite.action.edit">
+        <source>Edit</source>
+        <target state="translated">Bearbeiten</target>
+        <note>key: share.invite.action.edit</note>
+      </trans-unit>
+      <trans-unit id="a3f9551399c4a9dab8002dae4a6868d9e75571cd" resname="share.invite.action.remove">
+        <source>Remove access</source>
+        <target state="translated">Zugriff sperren</target>
+        <note>key: share.invite.action.remove</note>
+      </trans-unit>
+      <trans-unit id="39904e44ee1e2625a92da96e2c12822bfbd32140" resname="share.invite.action.view">
+        <source>Preview</source>
+        <target state="translated">Vorschau</target>
+        <note>key: share.invite.action.view</note>
+      </trans-unit>
+      <trans-unit id="fb177282310654f7ae60129221819db4c1f4c771" resname="share.invite.button.label">
+        <source>Invite</source>
+        <target state="translated">Einladen</target>
+        <note>key: share.invite.button.label</note>
+      </trans-unit>
+      <trans-unit id="bdab38d32541562237b7a01238f240991916067a" resname="share.invite.list.external.header">
+        <source>External users</source>
+        <target state="translated">Externe Benutzer</target>
+        <note>key: share.invite.list.external.header</note>
+      </trans-unit>
+      <trans-unit id="6ea1f5887e3e5b4e1befc65ff03157fa8ecbe7ef" resname="share.invite.list.header">
+        <source>People with access</source>
+        <target state="translated">Personen mit Zugriff</target>
+        <note>key: share.invite.list.header</note>
+      </trans-unit>
+      <trans-unit id="fe9a10476adf49b237c9de22a6cc17d2a9cab9f5" resname="share.invite.list.internal.header">
+        <source>Ibexa users</source>
+        <target state="translated">Ibexa-Nutzer</target>
+        <note>key: share.invite.list.internal.header</note>
+      </trans-unit>
+      <trans-unit id="d62474e28e72c81a6988c748bee9528922614a21" resname="share.invite.search.error.text">
+        <source>Some participants can’t be added. Check the email address or their permissions.</source>
+        <target state="translated">Ein oder mehrere Teilnehmer haben keine Bearbeitungsberechtigungen oder eine E-Mail-Adresse ist ungültig.</target>
+        <note>key: share.invite.search.error.text</note>
+      </trans-unit>
+      <trans-unit id="543aa7210030eeb746a1dc46c361d408cf9bbed2" resname="share.invite.search.helper.text">
+        <source>Select users existing in our system with set permissions, or invite people from outside of your organisation.</source>
+        <target state="translated">Wählen Sie Benutzer aus, die bereits in unserem System mit festgelegten Berechtigungen vorhanden sind, oder laden Sie Personen von außerhalb Ihrer Organisation ein.</target>
+        <note>key: share.invite.search.helper.text</note>
+      </trans-unit>
+      <trans-unit id="0916dd27be4a12f204ccbd556028f4a67e50b96f" resname="share.invite.search.placeholder">
+        <source>Invite people by name or email</source>
+        <target state="translated">Personen durch Eingeben von Namen oder E-Mail-Adressen einladen</target>
+        <note>key: share.invite.search.placeholder</note>
+      </trans-unit>
+      <trans-unit id="2ee5c239cc945d1b054708e9acc437059d2c77a6" resname="share.invite.search.title">
+        <source>People</source>
+        <target state="translated">Personen</target>
+        <note>key: share.invite.search.title</note>
+      </trans-unit>
+      <trans-unit id="67623e91da7ab7335645c8ef77149e4e0be40b64" resname="share.invite.user_list.owner_marker">
+        <source>(owner)</source>
+        <target state="translated">(Eigentümer)</target>
+        <note>key: share.invite.user_list.owner_marker</note>
+      </trans-unit>
+      <trans-unit id="5dd467983c30c820639974f901132bc5217d613d" resname="share.invite.user_list.self_marker">
+        <source>(you)</source>
+        <target state="translated">(Sie)</target>
+        <note>key: share.invite.user_list.self_marker</note>
+      </trans-unit>
+      <trans-unit id="7810557aeed8ffe537bdd299acf3dc9be8eba925" resname="share.link_settings.label">
+        <source>Link settings</source>
+        <target state="translated">Link-Einstellungen</target>
+        <note>key: share.link_settings.label</note>
+      </trans-unit>
+      <trans-unit id="998bb704948af51e4fc41cfae5e3707f948ce24a" resname="share.modal.invite.title">
+        <source>Invite to collaborate</source>
+        <target state="translated">Zur Zusammenarbeit einladen</target>
+        <note>key: share.modal.invite.title</note>
+      </trans-unit>
+      <trans-unit id="dad2d289153c9f6f03c10fccd3ff74bd9e3fd448" resname="share.modal.link_settings.title">
+        <source>Link settings</source>
+        <target state="translated">Link-Einstellungen</target>
+        <note>key: share.modal.link_settings.title</note>
+      </trans-unit>
+      <trans-unit id="e8ed731462964bf92534f5f8b0463dc461b6a15d" resname="share.notification.invitation.content.email.empty_name_placeholder">
+        <source>[Untitled]</source>
+        <target state="translated">[Ohne Titel]</target>
+        <note>key: share.notification.invitation.content.email.empty_name_placeholder</note>
+      </trans-unit>
+      <trans-unit id="979cb4bc5611c1015fa0c98fb8a036c0d32829c8" resname="share.notification.invitation.content_edit.email.body.cta">
+        <source>Join collaboration</source>
+        <target state="translated">An der Zusammenarbeit teilnehmen</target>
+        <note>key: share.notification.invitation.content_edit.email.body.cta</note>
+      </trans-unit>
+      <trans-unit id="b8744259467a8cfc339b3a7229678e906344d3f5" resname="share.notification.invitation.content_edit.email.body.greetings">
+        <source>Hi %name%,</source>
+        <target state="translated">Hallo %name%,</target>
+        <note>key: share.notification.invitation.content_edit.email.body.greetings</note>
+      </trans-unit>
+      <trans-unit id="9093a59ec2f1085cd601e4a98cdf56c179408de1" resname="share.notification.invitation.content_edit.email.body.location">
+        <source>Location: %name%</source>
+        <target state="translated">Standort: %name%</target>
+        <note>key: share.notification.invitation.content_edit.email.body.location</note>
+      </trans-unit>
+      <trans-unit id="3c805a396b63b110ba7e2c02b6390ae812c8e58a" resname="share.notification.invitation.content_edit.email.body.subject">
+        <source>You are invited to collaborate on</source>
+        <target state="translated">Sie sind eingeladen für die Zusammenarbeit an</target>
+        <note>key: share.notification.invitation.content_edit.email.body.subject</note>
+      </trans-unit>
+      <trans-unit id="7f2de2fdc3c47af109f7a70c22ae0bf9b16c2083" resname="share.notification.invitation.content_edit.email.subject">
+        <source>%sender% is inviting you to collaborate on %name%</source>
+        <target state="translated">%sender% lädt Sie ein zur Zusammenarbeit an %name%</target>
+        <note>key: share.notification.invitation.content_edit.email.subject</note>
+      </trans-unit>
+      <trans-unit id="63b5701e8cc37848906c20693b8b605034b67aff" resname="share.notification.invitation.content_edit.system_notification.message">
+        <source>%sender% is inviting you to collaborate on %name% in %location%</source>
+        <target state="translated">%sender% lädt Sie ein zur Zusammenarbeit an %name% in %location%</target>
+        <note>key: share.notification.invitation.content_edit.system_notification.message</note>
+      </trans-unit>
+      <trans-unit id="5377e735d11eb46686b539eff7c1464c0a1a8d21" resname="share.notification.invitation.content_edit.system_notification.message.without_location">
+        <source>%sender% is inviting you to collaborate on %name%</source>
+        <target state="translated">%sender% lädt Sie ein zur Zusammenarbeit an %name%</target>
+        <note>key: share.notification.invitation.content_edit.system_notification.message.without_location</note>
+      </trans-unit>
+      <trans-unit id="22764e12cf2ccab27f4bf29c0b02d6f82a809a16" resname="share.notification.invitation.content_edit.system_notification.subject">
+        <source>Invitation to collaborative editing</source>
+        <target state="translated">Einladung zur gemeinsamen Bearbeitung</target>
+        <note>key: share.notification.invitation.content_edit.system_notification.subject</note>
+      </trans-unit>
+      <trans-unit id="293763d1fbe784e8558f656c4d65956ae345dc65" resname="share.notification.invitation.content_view.email.body.cta">
+        <source>Preview</source>
+        <target state="translated">Vorschau</target>
+        <note>key: share.notification.invitation.content_view.email.body.cta</note>
+      </trans-unit>
+      <trans-unit id="ac236f2fa4d1712915ae15337cc52c708757e05a" resname="share.notification.invitation.content_view.email.body.greetings">
+        <source>Hi %name%,</source>
+        <target state="translated">Hallo %name%,</target>
+        <note>key: share.notification.invitation.content_view.email.body.greetings</note>
+      </trans-unit>
+      <trans-unit id="bcde5cd9f3eef60e61c72b943b618b375e081560" resname="share.notification.invitation.content_view.email.body.location">
+        <source>Location: %name%</source>
+        <target state="translated">Standort: %name%</target>
+        <note>key: share.notification.invitation.content_view.email.body.location</note>
+      </trans-unit>
+      <trans-unit id="6eb78c20158efa2096e17e72096f569f4bd0bed3" resname="share.notification.invitation.content_view.email.body.subject">
+        <source>You are invited to collaborate on</source>
+        <target state="translated">Sie sind eingeladen für die Zusammenarbeit an</target>
+        <note>key: share.notification.invitation.content_view.email.body.subject</note>
+      </trans-unit>
+      <trans-unit id="d2ea73b6bfdac926121b91bbeac8bda34202cf85" resname="share.notification.invitation.content_view.email.subject">
+        <source>%sender% is sharing with you %name%</source>
+        <target state="translated">%sender% teilt %name% mit Ihnen</target>
+        <note>key: share.notification.invitation.content_view.email.subject</note>
+      </trans-unit>
+      <trans-unit id="6f58ed9a0f6da3e27c33e6313926b8be503da3aa" resname="share.notification.invitation.content_view.system_notification.message">
+        <source>%sender% is sharing preview of %name% with you in %location%</source>
+        <target state="translated">%sender% teilt eine Vorschau von %name% in %location% mit Ihnen</target>
+        <note>key: share.notification.invitation.content_view.system_notification.message</note>
+      </trans-unit>
+      <trans-unit id="bf13179c098220c960b259526f7afb7fc0ccbcfb" resname="share.notification.invitation.content_view.system_notification.message.without_location">
+        <source>%sender% is sharing preview of %name% with you</source>
+        <target state="translated">%sender% teilt eine Vorschau von %name% mit Ihnen</target>
+        <note>key: share.notification.invitation.content_view.system_notification.message.without_location</note>
+      </trans-unit>
+      <trans-unit id="8d880e71bcedfad5c1f5623c9cbd4b121baeec45" resname="share.notification.invitation.content_view.system_notification.subject">
+        <source>Invitation to content preview</source>
+        <target state="translated">Einladung zur Inhaltsvorschau</target>
+        <note>key: share.notification.invitation.content_view.system_notification.subject</note>
+      </trans-unit>
+      <trans-unit id="787293df189897e2fb141e9ac3be60769936f53a" resname="share.notification.join.content_published">
+        <source>Content is published. Collaboration session has ended.</source>
+        <target state="translated">Inhalt ist veröffentlicht. Die Sitzung zur Zusammenarbeit ist beendet.</target>
+        <note>key: share.notification.join.content_published</note>
+      </trans-unit>
+      <trans-unit id="d994c772083d3a670644deb4c19fac641fa7fd8c" resname="share.notification.join.content_trashed">
+        <source>Content has been moved to trash or deleted. Collaboration session has ended.</source>
+        <target state="translated">Inhalt wurde in den Papierkorb verschoben oder gelöscht. Die Sitzung zur Zusammenarbeit ist beendet.</target>
+        <note>key: share.notification.join.content_trashed</note>
+      </trans-unit>
+      <trans-unit id="36055473a204ff41f3be94e82ab523b65c6da73d" resname="share.notification.leave.content_published">
+        <source>Content is published. Collaboration session has ended.</source>
+        <target state="translated">Inhalt ist veröffentlicht. Die Sitzung zur Zusammenarbeit ist beendet.</target>
+        <note>key: share.notification.leave.content_published</note>
+      </trans-unit>
+      <trans-unit id="90779cbb1fb76597d76c1010d43faec50e297f1d" resname="share.notification.leave.out_of_collaboration_session">
+        <source>You are out of the collaboration session.</source>
+        <target state="translated">Sie sind aus der Sitzung zur Zusammenarbeit ausgeloggt.</target>
+        <note>key: share.notification.leave.out_of_collaboration_session</note>
+      </trans-unit>
+      <trans-unit id="03013030482dac3337f519f9b87c76a56658a732" resname="share.notification.leave.scope_changed">
+        <source>You are out of the collaboration session. Your access to session has been changed.</source>
+        <target state="translated">Sie sind aus der Sitzung zur Zusammenarbeit ausgeloggt. Ihr Sitzungszugriff wurde geändert.</target>
+        <note>key: share.notification.leave.scope_changed</note>
+      </trans-unit>
+      <trans-unit id="3ee1b10b8b704c661fea827d7fc0a77d7fa75906" resname="share.suggestions.already_added">
+        <source>Already added</source>
+        <target state="translated">Bereits hinzugefügt</target>
+        <note>key: share.suggestions.already_added</note>
+      </trans-unit>
+      <trans-unit id="e0586d718bdff4a9b0535a0e18735ba719d2e827" resname="share.suggestions.has_access">
+        <source>Users with permissions</source>
+        <target state="translated">Benutzer mit Berechtigungen</target>
+        <note>key: share.suggestions.has_access</note>
+      </trans-unit>
+      <trans-unit id="93eec2e2809a9f55098b876d0362aecc75e4c40a" resname="share.suggestions.no_access">
+        <source>Users without permissions (can’t be invited)</source>
+        <target state="translated">Benutzer ohne Berechtigungen (können nicht eingeladen werden)</target>
+        <note>key: share.suggestions.no_access</note>
+      </trans-unit>
+      <trans-unit id="d1473b16a14059fbaa5592cc96bc8e584cd1d1f7" resname="share.suggestions.no_results">
+        <source>There are no matching users. You can add users e-mail address for preview only.</source>
+        <target state="translated">Es gibt keine passenden Benutzer. Sie können die E-Mail-Adressen von Benutzern nur zur Vorschau hinzufügen.</target>
+        <note>key: share.suggestions.no_results</note>
+      </trans-unit>
+      <trans-unit id="3764a1002242b9b52047d269f1ef574a86beb304" resname="share.tab.author.show_more">
+        <source>Show more</source>
+        <target state="translated">Mehr anzeigen</target>
+        <note>key: share.tab.author.show_more</note>
+      </trans-unit>
+      <trans-unit id="b8575a50cf2d1a44abccfb902ee6533d34b6ff57" resname="share.tab.collaborators.show_less">
+        <source>Show less</source>
+        <target state="translated">Weniger anzeigen</target>
+        <note>key: share.tab.collaborators.show_less</note>
+      </trans-unit>
+      <trans-unit id="908c60c3a91471af02221e2f5a02899e0e136594" resname="share.tab.collaborators.show_more">
+        <source>Show more</source>
+        <target state="translated">Mehr anzeigen</target>
+        <note>key: share.tab.collaborators.show_more</note>
+      </trans-unit>
+      <trans-unit id="e3b24fcfd15236adfdeb1f944c0380b95cb29fc6" resname="tab.author.collaborators">
+        <source>Collaborators</source>
+        <target state="translated">Mitwirkende</target>
+        <note>key: tab.author.collaborators</note>
+      </trans-unit>
+      <trans-unit id="016c96a8dcc82b45c09cd3894974575592fbf7ae" resname="toggle_widget.header">
+        <source>Anyone with the shared link can preview the item.</source>
+        <target state="translated">Jeder, der über den freigegebenen Link verfügt, kann das Element in der Vorschau ansehen.</target>
+        <note>key: toggle_widget.header</note>
+      </trans-unit>
+      <trans-unit id="5254d6524746a8c9cd0be82fc006baa2fa037198" resname="toggle_widget.label.off">
+        <source>Off</source>
+        <target state="translated">Aus</target>
+        <note>key: toggle_widget.label.off</note>
+      </trans-unit>
+      <trans-unit id="922e4e5291baf0a3d11841da92466703d6786cb5" resname="toggle_widget.label.on">
+        <source>On</source>
+        <target state="translated">Ein</target>
+        <note>key: toggle_widget.label.on</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

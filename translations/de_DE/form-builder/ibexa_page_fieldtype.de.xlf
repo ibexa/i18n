@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="afdafdff9050e1bb37ec5ce0b7a99902e231b044" resname="ibexa.form_builder.fieldtype_page.block.form.name">
+        <source>Form</source>
+        <target state="translated">Formular</target>
+        <note>key: ibexa.form_builder.fieldtype_page.block.form.name</note>
+      </trans-unit>
+      <trans-unit id="50bedde896a0aee25590f96d0b4d2d7f9de804fc" resname="ibexa.form_builder.fieldtype_page.form.attribute.content_id.name">
+        <source>Form</source>
+        <target state="translated">Formular</target>
+        <note>key: ibexa.form_builder.fieldtype_page.form.attribute.content_id.name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

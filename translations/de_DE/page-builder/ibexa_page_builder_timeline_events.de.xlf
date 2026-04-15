@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="4ed8d3970d39af4bdd24bd15a6bb406fda63bd09" resname="event.reveal_block.title">
         <source>Reveal block</source>
-        <target state="translated">Block aufdecken</target>
+        <target state="translated">Block einblenden</target>
         <note>key: event.reveal_block.title</note>
       </trans-unit>
       <trans-unit id="4795deb1e3cccc2572408602ff718b8f9efee4c1" resname="event.schedule_block.item_added.title">
         <source>%contentTypeName% '%contentName%' added to block %blockName%</source>
-        <target state="translated">%contentTypeName% '%contentName%' wurde zu Block %blockName% hinzugefügt</target>
+        <target state="translated">%contentTypeName% „%contentName%“ zu Block %blockName% hinzugefügt</target>
         <note>key: event.schedule_block.item_added.title</note>
       </trans-unit>
     </body>

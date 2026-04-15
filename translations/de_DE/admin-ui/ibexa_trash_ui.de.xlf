@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="1d957f13cf25440ae43b3d605daa94876080a45a" resname="trash.user_list.error">
         <source>Cannot fetch user list</source>
-        <target state="translated">Kann Benutzerliste nicht abrufen</target>
+        <target state="translated">Benutzerliste kann nicht abgerufen werden</target>
         <note>key: trash.user_list.error</note>
       </trans-unit>
     </body>

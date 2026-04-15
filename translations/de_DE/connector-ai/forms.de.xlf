@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="0bbc49ec2e38e0aff20c2ca0645dd97a56794283" resname="ibexa.fields_selector.any_item">
+        <source>Any</source>
+        <target state="translated">Alle</target>
+        <note>key: ibexa.fields_selector.any_item</note>
+      </trans-unit>
+      <trans-unit id="e0cf83832fa6733381f842701dc2f30a594e2cfb" resname="ibexa.fields_selector.content_type_group.products.label">
+        <source>Products</source>
+        <target state="translated">Produkte</target>
+        <note>key: ibexa.fields_selector.content_type_group.products.label</note>
+      </trans-unit>
+      <trans-unit id="d5dbaa991c4874c729e1f5462397c29c3746c35d" resname="ibexa.fields_selector.ct">
+        <source>Content types</source>
+        <target state="translated">Inhaltstypen</target>
+        <note>key: ibexa.fields_selector.ct</note>
+      </trans-unit>
+      <trans-unit id="6cdb6bfa1e44cc5eb66cf066c131adf54401fd2b" resname="ibexa.fields_selector.ct_group">
+        <source>Content type groups</source>
+        <target state="translated">Inhaltstyp-Gruppen</target>
+        <note>key: ibexa.fields_selector.ct_group</note>
+      </trans-unit>
+      <trans-unit id="d5e02be968d3156caf22d3b0a2f4ffc318bd988e" resname="ibexa.fields_selector.label">
+        <source>Fields</source>
+        <target state="translated">Felder</target>
+        <note>key: ibexa.fields_selector.label</note>
+      </trans-unit>
+      <trans-unit id="4e8af089c1ffcff01a1cabd53de52e25a63f4c70" resname="ibexa.fields_selector.source_fields">
+        <source>Source fields</source>
+        <target state="translated">Quellfelder</target>
+        <note>key: ibexa.fields_selector.source_fields</note>
+      </trans-unit>
+      <trans-unit id="a9c0b19d0836d834ac7189b771902c1370c49999" resname="ibexa.fields_selector.target_fields">
+        <source>Target fields</source>
+        <target state="translated">Zielfelder</target>
+        <note>key: ibexa.fields_selector.target_fields</note>
+      </trans-unit>
+      <trans-unit id="f18d9e0877138188085b8d737bd00331d177e30c" resname="multistep_selector.step.dropdown.placeholder">
+        <source>Select</source>
+        <target state="translated">Auswählen</target>
+        <note>key: multistep_selector.step.dropdown.placeholder</note>
+      </trans-unit>
+      <trans-unit id="d7bceca8ed7da8a33274c4ffd4ebc774f3f234e4" resname="role.policy.action_configuration">
+        <source>AI action</source>
+        <target state="translated">KI-Aktion</target>
+        <note>key: role.policy.action_configuration</note>
+      </trans-unit>
+      <trans-unit id="835a424a2f41ca94042c1de6911a49487127de80" resname="role.policy.action_configuration.all_functions">
+        <source>AI action / All Functions</source>
+        <target state="translated">KI-Aktion / Alle Funktionen</target>
+        <note>key: role.policy.action_configuration.all_functions</note>
+      </trans-unit>
+      <trans-unit id="24194cf8b734fcd643fad511db3fdcf6520c14c0" resname="role.policy.action_configuration.create">
+        <source>AI action / Create</source>
+        <target state="translated">KI-Aktion / Erstellen</target>
+        <note>key: role.policy.action_configuration.create</note>
+      </trans-unit>
+      <trans-unit id="d8d5410f63d92e29c60128eef8027025273cc542" resname="role.policy.action_configuration.delete">
+        <source>AI action / Delete</source>
+        <target state="translated">KI-Aktion / Löschen</target>
+        <note>key: role.policy.action_configuration.delete</note>
+      </trans-unit>
+      <trans-unit id="a926d313ac979a435fe5fb0ad93bfd6f42e90514" resname="role.policy.action_configuration.edit">
+        <source>AI action / Edit</source>
+        <target state="translated">KI-Aktion / Bearbeiten</target>
+        <note>key: role.policy.action_configuration.edit</note>
+      </trans-unit>
+      <trans-unit id="ca422a554f67b82db865f254e174d360bcda6082" resname="role.policy.action_configuration.execute">
+        <source>AI action / Execute</source>
+        <target state="translated">KI-Aktion / Ausführen</target>
+        <note>key: role.policy.action_configuration.execute</note>
+      </trans-unit>
+      <trans-unit id="53a98102951736c16607177ebf2feebb8754b102" resname="role.policy.action_configuration.view">
+        <source>AI action / View</source>
+        <target state="translated">KI-Aktion / Ansicht</target>
+        <note>key: role.policy.action_configuration.view</note>
+      </trans-unit>
+      <trans-unit id="14157233e92bbc84acd938f7f0a0aa8223bcd725" resname="taxonomy.tag.content.ai_suggest">
+        <source>AI Suggest %name%</source>
+        <target state="translated">KI-Empfehlung für %name%</target>
+        <note>key: taxonomy.tag.content.ai_suggest</note>
+      </trans-unit>
+      <trans-unit id="04a9738fec419ed3e23e06ffe2224c9cfabfbf26" resname="taxonomy.tag.content.widget.or">
+        <source>or</source>
+        <target state="translated">oder</target>
+        <note>key: taxonomy.tag.content.widget.or</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

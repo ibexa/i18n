@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0ba4dd0a3e03edbb23ad81c27bb921449e811cdc" resname="policy.limitation.identifier.changeowner">
         <source>Change Owner</source>
-        <target state="translated">Eigentümer ändern</target>
+        <target state="translated">Eigentümer wechseln</target>
         <note>key: policy.limitation.identifier.changeowner</note>
       </trans-unit>
       <trans-unit id="3742f2cc514848bd4a5eb03430e412d44f5d9ec2" resname="policy.limitation.identifier.class">
@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="76adf2a27f1ae0ab14b623729cd3f281a6e2c285" resname="policy.limitation.identifier.group">
         <source>Content type Group</source>
-        <target state="translated">Inhaltstyp Gruppe</target>
+        <target state="translated">Inhaltstyp-Gruppe</target>
         <note>key: policy.limitation.identifier.group</note>
       </trans-unit>
       <trans-unit id="cee78b25ec2de77cf09109e6a2ac175a515a8350" resname="policy.limitation.identifier.language">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="b40e3e09e55ef852a5d9e1592e9c895715b1313c" resname="policy.limitation.identifier.memberof">
         <source>MemberOf</source>
-        <target state="translated">Mitglied von</target>
+        <target state="translated">MemberOf</target>
         <note>key: policy.limitation.identifier.memberof</note>
       </trans-unit>
       <trans-unit id="ab9163a435d32610a7a1af8df07ab38eebc4c7c6" resname="policy.limitation.identifier.newsection">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="a9958f1d76f4685bf5fc32eee7514046db942160" resname="policy.limitation.identifier.newstate">
         <source>New State</source>
-        <target state="translated">Neuer Objektzustand</target>
+        <target state="translated">Neuer Status</target>
         <note>key: policy.limitation.identifier.newstate</note>
       </trans-unit>
       <trans-unit id="be2b0449251f53db814dc4fbbb27e534419add2b" resname="policy.limitation.identifier.node">
@@ -53,22 +53,22 @@
       </trans-unit>
       <trans-unit id="e3773b71c8e7fda97f221ab25a6c25164d179d84" resname="policy.limitation.identifier.parentclass">
         <source>Content type of Parent</source>
-        <target state="translated">Inhaltstyp des Elternelements</target>
+        <target state="translated">Inhaltstyp des übergeordneten Elements</target>
         <note>key: policy.limitation.identifier.parentclass</note>
       </trans-unit>
       <trans-unit id="39bf0d9c1e0e8b64193bf09d83fbd89c2dac3421" resname="policy.limitation.identifier.parentdepth">
         <source>Parent Depth</source>
-        <target state="translated">Übergeordnete Tiefe</target>
+        <target state="translated">Tiefe des übergeordneten Elements</target>
         <note>key: policy.limitation.identifier.parentdepth</note>
       </trans-unit>
       <trans-unit id="cb52ff8582459d1bc981e9f98cf1c79876f83a1e" resname="policy.limitation.identifier.parentgroup">
         <source>Content type group of Parent</source>
-        <target state="translated">Inhaltstyp Gruppe des Elternelements</target>
+        <target state="translated">Inhaltstyp-Gruppe des übergeordneten Elements</target>
         <note>key: policy.limitation.identifier.parentgroup</note>
       </trans-unit>
       <trans-unit id="6208b97847450b255559e4a56c51ff06b76a08dd" resname="policy.limitation.identifier.parentowner">
         <source>Owner of Parent</source>
-        <target state="translated">Eigentümer des Elternelements</target>
+        <target state="translated">Eigentümer des übergeordneten Elements</target>
         <note>key: policy.limitation.identifier.parentowner</note>
       </trans-unit>
       <trans-unit id="9f2e53e094725bbc243ad777547724ab923a31d1" resname="policy.limitation.identifier.role">
@@ -83,12 +83,12 @@
       </trans-unit>
       <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
         <source>SiteAccess</source>
-        <target state="translated">Seitenzugang</target>
+        <target state="translated">SiteAccess</target>
         <note>key: policy.limitation.identifier.siteaccess</note>
       </trans-unit>
       <trans-unit id="30cc18895dfb23b14d3f9b8249e90baf678c8180" resname="policy.limitation.identifier.state">
         <source>State</source>
-        <target state="translated">Objektzustand</target>
+        <target state="translated">Status</target>
         <note>key: policy.limitation.identifier.state</note>
       </trans-unit>
       <trans-unit id="53975d67feacf6fed717a52ad538ba77dc533dc2" resname="policy.limitation.identifier.status">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="097f571a3c731c66c83230e465f4b3c9af811add" resname="policy.limitation.identifier.userpermissions">
         <source>User Permissions</source>
-        <target state="translated">Benutzerrechte</target>
+        <target state="translated">Benutzerberechtigungen</target>
         <note>key: policy.limitation.identifier.userpermissions</note>
       </trans-unit>
     </body>
