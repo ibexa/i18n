@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="624f884f90db2c4d55a998cd9dfe24a6bcac74a6" resname="account.forgot_user_password.confrimation.success.message">
         <source><![CDATA[<p>If you don’t receive the email, double check that you entered the correct email address and check your spam folder.</p>]]></source>
-        <target state="translated">&lt;![CDATA[&lt;p&gt;Falls Sie die E-Mail nicht erhalten, vergewissern Sie sich, dass Sie die richtige E-Mail-Adresse eingegeben haben, und überprüfen Sie Ihren Spam-Ordner.&lt;/p&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[<p>Falls Sie die E-Mail nicht erhalten, vergewissern Sie sich, dass Sie die richtige E-Mail-Adresse eingegeben haben, und überprüfen Sie Ihren Spam-Ordner.</p>]]></target>
         <note>key: account.forgot_user_password.confrimation.success.message</note>
       </trans-unit>
       <trans-unit id="f186551da03090fd03a722bb286b5a64c245dc6e" resname="account.forgot_user_password.mail.message">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="846d1a3fe12f6ec79c426207e63bcc0a8577d2ed" resname="account.register_confirmation.message">
         <source><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></source>
-        <target state="translated">&lt;![CDATA[Vielen Dank, dass Sie ein Konto erstellt haben. Sie können sich jetzt &lt;a href=&quot;%login%&quot;&gt;anmelden&lt;/a&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[Vielen Dank, dass Sie ein Konto erstellt haben. Sie können sich jetzt <a href=&quot;%login%&quot;>anmelden</a>]]></target>
         <note>key: account.register_confirmation.message</note>
       </trans-unit>
       <trans-unit id="f842146b2a7b0b3c9f70a2ab6ea104f6d46c611c" resname="account.reset_user_password.change_password">
@@ -178,12 +178,12 @@
       </trans-unit>
       <trans-unit id="52c69bbd7888b3591a7ef48359095bf846192ac8" resname="account.reset_user_password.link_is_not_valid">
         <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
-        <target state="translated">&lt;![CDATA[Dieser Link ist nicht mehr gültig. Sie können &lt;a href=&quot;%forgot_user_password%&quot;&gt;einen neuen Link generieren&lt;/a&gt;, um Ihr Passwort zurückzusetzen.]]&gt;</target>
+        <target state="translated"><![CDATA[Dieser Link ist nicht mehr gültig. Sie können <a href=&quot;%forgot_user_password%&quot;>einen neuen Link generieren</a>, um Ihr Passwort zurückzusetzen.]]></target>
         <note>key: account.reset_user_password.link_is_not_valid</note>
       </trans-unit>
       <trans-unit id="23609714f1576bcd2500875557dee0be12589ad0" resname="account.reset_user_password.success">
         <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to Customer Portal.]]></source>
-        <target state="translated">&lt;![CDATA[Ihr Passwort wurde geändert. Sie können sich im Kundenportal &lt;a href=&quot;%login%&quot;&gt;anmelden&lt;/a&gt;.]]&gt;</target>
+        <target state="translated"><![CDATA[Ihr Passwort wurde geändert. Sie können sich im Kundenportal <a href=&quot;%login%&quot;>anmelden</a>.]]></target>
         <note>key: account.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="99365a37afbae39d10db919c155dcfd4f6280a29" resname="address_book.breadcrumb">
@@ -419,8 +419,8 @@
       <trans-unit id="c6934cd2cfa0e59cac3c0fa40ebc5e5f901ffa8b" resname="registration.banner.info.title">
         <source><![CDATA[Are you interested in doing business with us?<br> Send your application to be considered as a business partner.
                 ]]></source>
-        <target state="translated">&lt;![CDATA[Haben Sie Interesse an einer geschäftlichen Zusammenarbeit mit uns?&lt;br&gt; Senden Sie uns Ihre Bewerbung, damit wir Sie als möglichen Geschäftspartner in Betracht ziehen können.
-                ]]&gt;</target>
+        <target state="translated"><![CDATA[Haben Sie Interesse an einer geschäftlichen Zusammenarbeit mit uns?<br> Senden Sie uns Ihre Bewerbung, damit wir Sie als möglichen Geschäftspartner in Betracht ziehen können.
+                ]]></target>
         <note>key: registration.banner.info.title</note>
       </trans-unit>
       <trans-unit id="8ce57873ece133dde07722a7a26bbfbd27d0d7c0" resname="registration.banner.step_1.action">

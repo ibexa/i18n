@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="c80bd395ca68e35275e966f7255ccc6ebf315251" resname="ibexa_checkout.ui.go_to_shipping_and_payment_method.label">
         <source><![CDATA[Go to shipping & payment method]]></source>
-        <target state="translated">&lt;![CDATA[Weiter zur Lieferung und Zahlungsmethode]]&gt;</target>
+        <target state="translated"><![CDATA[Weiter zur Lieferung und Zahlungsmethode]]></target>
         <note>key: ibexa_checkout.ui.go_to_shipping_and_payment_method.label</note>
       </trans-unit>
       <trans-unit id="9e574ddf7c45801786a8f9d68309f7f13e768def" resname="ibexa_checkout.ui.invalid_cart.part_one">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="93acafc2fe40d458a6487852f4d0c96503ee1ca2" resname="ibexa_checkout.ui.select_address.submit">
         <source><![CDATA[Go to shipping & payment method]]></source>
-        <target state="translated">&lt;![CDATA[Weiter zur Lieferung und Zahlungsmethode]]&gt;</target>
+        <target state="translated"><![CDATA[Weiter zur Lieferung und Zahlungsmethode]]></target>
         <note>key: ibexa_checkout.ui.select_address.submit</note>
       </trans-unit>
       <trans-unit id="c763ea06a140f0337c7bbd3e9aecf858733ba477" resname="ibexa_checkout.ui.select_payment.submit">

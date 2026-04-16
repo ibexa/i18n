@@ -228,12 +228,12 @@
       </trans-unit>
       <trans-unit id="2ef5c3ce5ff6c7af3ba8555d9c8d3dc201a47174" resname="ibexa_user.password_expires_in">
         <source><![CDATA[Current password <b>expires in %count% days</b>]]></source>
-        <target state="translated">&lt;![CDATA[Das aktuelle Passwort &lt;b&gt;läuft in %count% Tagen ab&lt;/b&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[Das aktuelle Passwort <b>läuft in %count% Tagen ab</b>]]></target>
         <note>key: ibexa_user.password_expires_in</note>
       </trans-unit>
       <trans-unit id="e9cb64d0969c2c0a9a9e28530eab5155a5eb48ee" resname="ibexa_user.password_expires_today">
         <source><![CDATA[Current password <b>expires today</b>]]></source>
-        <target state="translated">&lt;![CDATA[Das aktuelle Passwort &lt;b&gt;läuft heute ab&lt;/b&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[Das aktuelle Passwort <b>läuft heute ab</b>]]></target>
         <note>key: ibexa_user.password_expires_today</note>
       </trans-unit>
       <trans-unit id="f38cb8aae1d6e25fcc0f4dabe9fe40964c432e95" resname="ibexa_user.username">

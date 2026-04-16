@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="cc0a11e4bd240e70176f949aa3a1031f1243cd76" resname="ibexa_personalization.scenario.trash.modal.message">
         <source><![CDATA[Are you sure you want to delete scenario <b>%scenarion_name%</b>?]]></source>
-        <target state="translated">&lt;![CDATA[Möchten Sie das Szenario &lt;b&gt;%scenarion_name%&lt;/b&gt; wirklich löschen?]]&gt;</target>
+        <target state="translated"><![CDATA[Möchten Sie das Szenario <b>%scenarion_name%</b> wirklich löschen?]]></target>
         <note>key: ibexa_personalization.scenario.trash.modal.message</note>
       </trans-unit>
       <trans-unit id="ca28b20d3fb0258a224cff53a0c367de985ba706" resname="ibexa_personalization.scenario.trash.modal.message.new_scenario">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
         <source><![CDATA[I have read and agree to the <a class='ibexa-perso-welcome__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
-        <target state="translated">&lt;![CDATA[Ich habe die &lt;a class='ibexa-perso-welcome__show-modal-button' href='#'&gt;Allgemeinen Bedingungen&lt;/a&gt; gelesen und stimme ihnen zu.]]&gt;</target>
+        <target state="translated"><![CDATA[Ich habe die <a class='ibexa-perso-welcome__show-modal-button' href='#'>Allgemeinen Bedingungen</a> gelesen und stimme ihnen zu.]]></target>
         <note>key: welcome.form.tems_accept</note>
       </trans-unit>
       <trans-unit id="8ca1884015c59d5115a04c940d0eaa0cb6d938b6" resname="welcome.form.tems_accept_description">

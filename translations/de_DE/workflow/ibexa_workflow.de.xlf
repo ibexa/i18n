@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="c77999d76931ead1fedf62e15d68ce0a5ad8be17" resname="location_view.tab.versions.pagination.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated">&lt;![CDATA[&lt;strong&gt;%viewing%&lt;/strong&gt; von &lt;strong&gt;%total%&lt;/strong&gt; Elementen werden angezeigt]]&gt;</target>
+        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Elementen werden angezeigt]]></target>
         <note>key: location_view.tab.versions.pagination.viewing</note>
       </trans-unit>
       <trans-unit id="f19d765219df9973b16f4c4fec04284643ae4413" resname="matcher.content_status">

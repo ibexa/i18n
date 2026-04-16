@@ -100,14 +100,14 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="translated">&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Fokus-Modus&lt;/strong&gt; – Eine übersichtliche und intuitive Benutzeroberfläche mit vereinfachter Inhalts-
-                        Struktur, konzipiert für neue und nicht fortgeschrittene Benutzer. Zu den Funktionen gehören:&lt;/p&gt;
-                        &lt;ul&gt;
-                            &lt;li&gt;Registerkarte „Ansicht“ zeigt eine Site-Vorschau im Kontext an&lt;/li&gt;
-                            &lt;li&gt;Ausgeblendete Registerkarte „Technische Details“&lt;/li&gt;
-                            &lt;li&gt;Ausgeblendete Registerkarten „Standorte“ und “Versionen” in Inhaltselementen&lt;/li&gt;
-                        &lt;/ul&gt;
-                    &lt;/p&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[<p><strong>Fokus-Modus</strong> – Eine übersichtliche und intuitive Benutzeroberfläche mit vereinfachter Inhalts-
+                        Struktur, konzipiert für neue und nicht fortgeschrittene Benutzer. Zu den Funktionen gehören:</p>
+                        <ul>
+                            <li>Registerkarte „Ansicht“ zeigt eine Site-Vorschau im Kontext an</li>
+                            <li>Ausgeblendete Registerkarte „Technische Details“</li>
+                            <li>Ausgeblendete Registerkarten „Standorte“ und “Versionen” in Inhaltselementen</li>
+                        </ul>
+                    </p>]]></target>
         <note>key: user.setting.focus_mode.help</note>
       </trans-unit>
       <trans-unit id="3f9f3faa4259dc9c627396c82133e9f615e388a8" resname="user.setting.focus_mode.label">

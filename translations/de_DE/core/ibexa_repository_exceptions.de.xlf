@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="bb8de8e210fd9fae30fd529a1128c07ae8512c22" resname="$limitationValue-&gt;limitationValues for '%identifier%' Limitation can not be empty">
         <source><![CDATA[$limitationValue->limitationValues for '%identifier%' Limitation can not be empty]]></source>
-        <target state="translated">&lt;![CDATA[$limitationValue-&gt;limitationValues für die Einschränkung „%identifier%“ dürfen nicht leer sein]]&gt;</target>
+        <target state="translated"><![CDATA[$limitationValue->limitationValues für die Einschränkung „%identifier%“ dürfen nicht leer sein]]></target>
         <note>key: $limitationValue-&gt;limitationValues for '%identifier%' Limitation can not be empty</note>
       </trans-unit>
       <trans-unit id="bdaae3444afba4eebebe2e0f684a0e56e81afafd" resname="'%actualValue%' is incorrect value">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="887c8dbb94effba65b41b2328e66467e597cdc5d" resname="Email required">
         <source>Email required</source>
-        <target state="translated">E-Mail erforderlich</target>
+        <target state="translated">E-Mail-Adresse erforderlich</target>
         <note>key: Email required</note>
       </trans-unit>
       <trans-unit id="0d40734d4581a1c3c3d21e4cea906a2afbe21264" resname="Enabled must be boolean value">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="ef1bb7a9545247d483f9d73e7eba659bf01c214a" resname="The given e-mail '%email%' is invalid">
         <source>The given e-mail '%email%' is invalid</source>
-        <target state="translated">Die angegebene E-Mail „%email%“ ist ungültig</target>
+        <target state="translated">Die angegebene E-Mail-Adresse „%email%“ ist ungültig</target>
         <note>key: The given e-mail '%email%' is invalid</note>
       </trans-unit>
       <trans-unit id="3985ff268119a8583776a5be47a7d2fe786443dd" resname="The mime type of the file is invalid (%mimeType%). Allowed mime types are %mimeTypes%.">
@@ -473,32 +473,32 @@
       </trans-unit>
       <trans-unit id="9a8096c63a5bb1163bb47cd39ab1721cb10329aa" resname="limitationValues[%key%] =&gt; '%value%' does not equal Location's path string: '%path_string%'">
         <source><![CDATA[limitationValues[%key%] => '%value%' does not equal Location's path string: '%path_string%']]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[%key%] =&gt; „%value%“ entspricht nicht dem Pfad-String des Standorts: „%path_string%“]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[%key%] => „%value%“ entspricht nicht dem Pfad-String des Standorts: „%path_string%“]]></target>
         <note>key: limitationValues[%key%] =&gt; '%value%' does not equal Location's path string: '%path_string%'</note>
       </trans-unit>
       <trans-unit id="619a3446ec0941d3e7e64a1b63c2938925e9b56a" resname="limitationValues[%key%] =&gt; '%value%' does not exist in the backend">
         <source><![CDATA[limitationValues[%key%] => '%value%' does not exist in the backend]]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[%key%] =&gt; „%value%“ existiert nicht im Backend]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[%key%] => „%value%“ existiert nicht im Backend]]></target>
         <note>key: limitationValues[%key%] =&gt; '%value%' does not exist in the backend</note>
       </trans-unit>
       <trans-unit id="1d60b8441327f4f07094c741cea646a38ec94d67" resname="limitationValues[%key%] =&gt; '%value%' must be 1 (owner)">
         <source><![CDATA[limitationValues[%key%] => '%value%' must be 1 (owner)]]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[%key%] =&gt; „%value%“ muss 1 (Eigentümer) sein]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[%key%] => „%value%“ muss 1 (Eigentümer) sein]]></target>
         <note>key: limitationValues[%key%] =&gt; '%value%' must be 1 (owner)</note>
       </trans-unit>
       <trans-unit id="6deaad828c2b2506ccef5940fbc0a31ee540ce77" resname="limitationValues[%key%] =&gt; '%value%' must be an integer">
         <source><![CDATA[limitationValues[%key%] => '%value%' must be an integer]]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[%key%] =&gt; „%value%“ muss eine ganze Zahl sein]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[%key%] => „%value%“ muss eine ganze Zahl sein]]></target>
         <note>key: limitationValues[%key%] =&gt; '%value%' must be an integer</note>
       </trans-unit>
       <trans-unit id="c0a48e6a6766b8cd35fb48e23879de59d7cca50a" resname="limitationValues[%key%] =&gt; '%value%' must be either 1 (owner) or 2 (session)">
         <source><![CDATA[limitationValues[%key%] => '%value%' must be either 1 (owner) or 2 (session)]]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[%key%] =&gt; „%value%“ muss entweder 1 (Eigentümer) oder 2 (Sitzung) sein]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[%key%] => „%value%“ muss entweder 1 (Eigentümer) oder 2 (Sitzung) sein]]></target>
         <note>key: limitationValues[%key%] =&gt; '%value%' must be either 1 (owner) or 2 (session)</note>
       </trans-unit>
       <trans-unit id="a41b00a888d13bc3843d9320a061a9b613a17796" resname="limitationValues[] =&gt; '%languageCodes%' translation(s) do not exist">
         <source><![CDATA[limitationValues[] => '%languageCodes%' translation(s) do not exist]]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[] =&gt; „%languageCodes%“ Übersetzungen existieren nicht]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[] => „%languageCodes%“ Übersetzungen existieren nicht]]></target>
         <note>key: limitationValues[] =&gt; '%languageCodes%' translation(s) do not exist</note>
       </trans-unit>
     </body>

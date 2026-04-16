@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="98fe5cd54903d29fb1c4901b288f0ed26a024bb6" resname="field_definition.ibexa_measurement.measurement_sign.value.gt">
         <source><![CDATA[> greater than]]></source>
-        <target state="translated">&lt;![CDATA[&gt; größer als]]&gt;</target>
+        <target state="translated"><![CDATA[> größer als]]></target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.gt</note>
       </trans-unit>
       <trans-unit id="d756b9e2c92ff95381e7ebd0c10385394b4330a0" resname="field_definition.ibexa_measurement.measurement_sign.value.gte">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="b1871008b3cad47a3776440e76f83b62a5e328a3" resname="field_definition.ibexa_measurement.measurement_sign.value.lt">
         <source><![CDATA[< less than]]></source>
-        <target state="translated">&lt;![CDATA[&lt; kleiner als]]&gt;</target>
+        <target state="translated"><![CDATA[< kleiner als]]></target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.lt</note>
       </trans-unit>
       <trans-unit id="7d6bab04f37a015b3cd49b796fd91ebd6d018db9" resname="field_definition.ibexa_measurement.measurement_sign.value.lte">
