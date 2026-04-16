@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="4b214c3455a6420302898a01be560c8fab90c295" resname="segment_groups.list.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated">&lt;![CDATA[Affichage de &lt;strong&gt;%viewing%&lt;/strong&gt; élément(s) sur &lt;strong&gt;%total%&lt;/strong&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[Affichage de <strong>%viewing%</strong> élément(s) sur <strong>%total%</strong>]]></target>
         <note>key: segment_groups.list.viewing</note>
       </trans-unit>
       <trans-unit id="0265d77024894b8b89822d0275d9e5c60a2f5363" resname="segment_groups.segment_list.empty">

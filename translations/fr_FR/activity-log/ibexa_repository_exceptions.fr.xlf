@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="1d60b8441327f4f07094c741cea646a38ec94d67" resname="limitationValues[%key%] =&gt; '%value%' must be 1 (owner)">
         <source><![CDATA[limitationValues[%key%] => '%value%' must be 1 (owner)]]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[%key%] =&gt; « %value% » doit être 1 (propriétaire)]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[%key%] => « %value% » doit être 1 (propriétaire)]]></target>
         <note>key: limitationValues[%key%] =&gt; '%value%' must be 1 (owner)</note>
       </trans-unit>
       <trans-unit id="cadbd405bae45bc2b3d609a3081e0185706a7828" resname="security.activity_log.access_forbidden">

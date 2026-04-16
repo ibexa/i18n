@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
         <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
-        <target state="translated">&lt;![CDATA[&lt;u&gt;&lt;a href='%locationHref%'&gt;%locationName%&lt;/a&gt;&lt;/u&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></target>
         <note>key: bulk_action.success.link_to_location</note>
       </trans-unit>
       <trans-unit id="8a46270277ebd803dd6f901724dcd6da23eb93dc" resname="bulk_bookmark.error.message.multi">

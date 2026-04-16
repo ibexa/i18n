@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="f4b2ea85ba7e69db74de236bac8cadb25e8bd484" resname="ezimageasset.unsplash.author_attribute">
         <source><![CDATA[Photo by <a href="%url%">%author_name%</a> on <a href="https://unsplash.com/?utm_source=%utm_source%&utm_medium=referral">Unsplash</a> ]]></source>
-        <target state="translated">&lt;![CDATA[Photo par &lt;a href=&quot;%url%&quot;&gt;%author_name%&lt;/a&gt; sur &lt;a href=&quot;https://unsplash.com/?utm_source=%utm_source%&amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt; ]]&gt;</target>
+        <target state="translated"><![CDATA[Photo par <a href=&quot;%url%&quot;>%author_name%</a> sur <a href=&quot;https://unsplash.com/?utm_source=%utm_source%&amp;utm_medium=referral&quot;>Unsplash</a> ]]></target>
         <note>key: ezimageasset.unsplash.author_attribute</note>
       </trans-unit>
       <trans-unit id="a08ddd06450018f82f66ecf913174c4f66b9d38c" resname="ezimageasset.unsplash.height">

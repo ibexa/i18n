@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="6557aef352926d55115753843d73ebca64917772" resname="limitationValues[%array%][%key%] =&gt; '%value%' must be a string">
         <source><![CDATA[limitationValues[%array%][%key%] => '%value%' must be a string]]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[%array%][%key%] =&gt; « %value% » doit être une chaîne de caractères]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[%array%][%key%] => « %value% » doit être une chaîne de caractères]]></target>
         <note>key: limitationValues[%array%][%key%] =&gt; '%value%' must be a string</note>
       </trans-unit>
     </body>

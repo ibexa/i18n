@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="ca61c6a680354ca0ca27b53f63d9d30ba35eee2a" resname="bulk_action.error.more_info">
         <source><![CDATA[<u><a class='ibexa-notification-btn ibexa-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
-        <target state="translated">&lt;![CDATA[&lt;u&gt;&lt;a class='ibexa-notification-btn ibexa-notification-btn--show-modal'&gt;Cliquez ici pour plus d’informations.&lt;/a&gt;&lt;/u&gt;&lt;br&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[<u><a class='ibexa-notification-btn ibexa-notification-btn--show-modal'>Cliquez ici pour plus d’informations.</a></u><br>]]></target>
         <note>key: bulk_action.error.more_info</note>
       </trans-unit>
       <trans-unit id="aa8f660d8cae16394e7cd4421e6b604e031ad04b" resname="bulk_action.popup.cancel">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
         <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
-        <target state="translated">&lt;![CDATA[&lt;u&gt;&lt;a href='%locationHref%'&gt;%locationName%&lt;/a&gt;&lt;/u&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></target>
         <note>key: bulk_action.success.link_to_location</note>
       </trans-unit>
       <trans-unit id="ba6155333e2bbe9f762d1e1462a9c3075ce38a75" resname="bulk_add_location.error.message">

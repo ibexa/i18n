@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="e675883f8fbcd6f810ff30127f4b533ade3e1404" resname="ibexa_storefront.checkout.confirmation_main.payment_fail.subtext">
         <source><![CDATA[Your order #<b>%order_identifier%</b> has been placed but there was problem with your payment.]]></source>
-        <target state="translated">&lt;![CDATA[Votre commande n° &lt;b&gt;%order_identifier%&lt;/b&gt; a été enregistrée, mais un problème est survenu avec votre paiement.]]&gt;</target>
+        <target state="translated"><![CDATA[Votre commande n° <b>%order_identifier%</b> a été enregistrée, mais un problème est survenu avec votre paiement.]]></target>
         <note>key: ibexa_storefront.checkout.confirmation_main.payment_fail.subtext</note>
       </trans-unit>
       <trans-unit id="5853e50d2a588d6640c2594fc644e8d7e0bf1a69" resname="ibexa_storefront.checkout.confirmation_main.subtext">
         <source><![CDATA[Your order #<b>%order_identifier%</b> has been placed and is being processed.]]></source>
-        <target state="translated">&lt;![CDATA[Votre commande n° &lt;b&gt;%order_identifier%&lt;/b&gt; a été enregistrée et est en cours de traitement.]]&gt;</target>
+        <target state="translated"><![CDATA[Votre commande n° <b>%order_identifier%</b> a été enregistrée et est en cours de traitement.]]></target>
         <note>key: ibexa_storefront.checkout.confirmation_main.subtext</note>
       </trans-unit>
       <trans-unit id="12fa1d62e13328f8d4b990080d6f4d69af4cc817" resname="ibexa_storefront.checkout.layout.continue.shopping">

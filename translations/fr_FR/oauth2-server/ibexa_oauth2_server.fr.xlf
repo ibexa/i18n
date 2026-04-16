@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="fca0f8b696958ea685b666c36e63071372b6b63d" resname="consent.message">
         <source><![CDATA[<b>%client_name%</b> wants to access your Ibexa account]]></source>
-        <target state="translated">&lt;![CDATA[&lt;b&gt;%client_name%&lt;/b&gt; souhaite accéder à votre compte Ibexa]]&gt;</target>
+        <target state="translated"><![CDATA[<b>%client_name%</b> souhaite accéder à votre compte Ibexa]]></target>
         <note>key: consent.message</note>
       </trans-unit>
       <trans-unit id="9115ef269defd8cfb18fcbfeecb2307b0ef8469a" resname="consent.title">

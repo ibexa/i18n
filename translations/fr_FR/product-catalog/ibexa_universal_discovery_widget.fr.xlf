@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="a24323da6cca7efa2df9a454bf1da3a3cd4e1279" resname="products_discovery_widget.product_table.empty_table.action_text">
         <source><![CDATA[Go to <a target='_blank' rel='noopener noreferrer' href='%product_catalog_href%'>product catalog</a> and add products.]]></source>
-        <target state="translated">&lt;![CDATA[Accédez au &lt;a target='_blank' rel='noopener noreferrer' href='%product_catalog_href%'&gt;catalogue de produits&lt;/a&gt; et ajoutez des produits.]]&gt;</target>
+        <target state="translated"><![CDATA[Accédez au <a target='_blank' rel='noopener noreferrer' href='%product_catalog_href%'>catalogue de produits</a> et ajoutez des produits.]]></target>
         <note>key: products_discovery_widget.product_table.empty_table.action_text</note>
       </trans-unit>
       <trans-unit id="e925d3ed174bcbaa6b2bdd94eba98ba6f9da2305" resname="products_discovery_widget.product_table.empty_table.info_text">

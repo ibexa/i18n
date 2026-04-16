@@ -878,7 +878,7 @@
       </trans-unit>
       <trans-unit id="aa9fccbaa7ccb3e191defe0d4858489696f22280" resname="modal.discard_discount_form.confirm_message">
         <source><![CDATA[You’re going to discard discount.<br><br>All changes you’ve made will be deleted permanently.]]></source>
-        <target state="translated">&lt;![CDATA[Vous allez supprimer la promotion.&lt;br&gt;&lt;br&gt;Toutes les modifications que vous avez apportées seront supprimées définitivement.]]&gt;</target>
+        <target state="translated"><![CDATA[Vous allez supprimer la promotion.<br><br>Toutes les modifications que vous avez apportées seront supprimées définitivement.]]></target>
         <note>key: modal.discard_discount_form.confirm_message</note>
       </trans-unit>
       <trans-unit id="c37817e5bf6bc259d2441c7e729813c082c4961d" resname="modal.discard_discount_form.title">

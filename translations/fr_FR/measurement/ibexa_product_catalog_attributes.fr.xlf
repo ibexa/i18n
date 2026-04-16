@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="d9b8d5eb40a1f7c79be594010d298b2a4917f3f7" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.gt">
         <source><![CDATA[> greater than]]></source>
-        <target state="translated">&lt;![CDATA[&gt; supérieur à]]&gt;</target>
+        <target state="translated"><![CDATA[> supérieur à]]></target>
         <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.gt</note>
       </trans-unit>
       <trans-unit id="3146a31ae8f14a16e2bf410a8e3522c8f14af227" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.gte">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="114e08f4e1a3034fbd1f189563fd8968cae24602" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.lt">
         <source><![CDATA[< less than]]></source>
-        <target state="translated">&lt;![CDATA[&lt; inférieur à]]&gt;</target>
+        <target state="translated"><![CDATA[< inférieur à]]></target>
         <note>key: product_catalog.attribute.ibexa_measurement.measurement_sign.value.lt</note>
       </trans-unit>
       <trans-unit id="3172231e5a4a04d985cbd1eb95e784b128a5e8c6" resname="product_catalog.attribute.ibexa_measurement.measurement_sign.value.lte">

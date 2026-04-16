@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="74b6e1a66c69c9b4321a0ed9d340acf3878da684" resname="limitationValues[] =&gt; '%fieldsGroups%' fields group(s) do not exist">
         <source><![CDATA[limitationValues[] => '%fieldsGroups%' fields group(s) do not exist]]></source>
-        <target state="translated">&lt;![CDATA[limitationValues[] =&gt; Le(s) groupe(s) de champs « %fieldsGroups% » n’existe(nt) pas]]&gt;</target>
+        <target state="translated"><![CDATA[limitationValues[] => Le(s) groupe(s) de champs « %fieldsGroups% » n’existe(nt) pas]]></target>
         <note>key: limitationValues[] =&gt; '%fieldsGroups%' fields group(s) do not exist</note>
       </trans-unit>
     </body>

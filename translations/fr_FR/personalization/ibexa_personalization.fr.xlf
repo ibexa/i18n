@@ -2623,7 +2623,7 @@
       </trans-unit>
       <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
         <source><![CDATA[Got a question? We'd love to hear from you. Send us message to <a href="mailto:support@ibexa.co" target="_blank">support@ibexa.co</a> and we'll get in touch with you soon.]]></source>
-        <target state="translated">&lt;![CDATA[Des questions ? N’hésitez pas à nous contacter. Envoyez-nous un message à l’adresse &lt;a href=&quot;mailto:support@ibexa.co&quot; target=&quot;_blank&quot;&gt;support@ibexa.co&lt;/a&gt; et nous vous répondrons rapidement.]]&gt;</target>
+        <target state="translated"><![CDATA[Des questions ? N’hésitez pas à nous contacter. Envoyez-nous un message à l’adresse <a href=&quot;mailto:support@ibexa.co&quot; target=&quot;_blank&quot;>support@ibexa.co</a> et nous vous répondrons rapidement.]]></target>
         <note>key: welcome.activation_status.question</note>
       </trans-unit>
       <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">
@@ -2738,7 +2738,7 @@
       </trans-unit>
       <trans-unit id="2b8f74b3c839315414dc831a80c31d132a76b8eb" resname="welcome.title.target_and_personalize">
         <source><![CDATA[Target & personalize with user choices]]></source>
-        <target state="translated">&lt;![CDATA[Cibler et personnaliser en fonction des choix des utilisateurs]]&gt;</target>
+        <target state="translated"><![CDATA[Cibler et personnaliser en fonction des choix des utilisateurs]]></target>
         <note>key: welcome.title.target_and_personalize</note>
       </trans-unit>
     </body>

@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="a89aa4f2fe7be667c66c1deeb229e80f71181bef" resname="modal.issue.bad_file.alert.message">
         <source><![CDATA[This file has no valid entries or may be empty.<br>Check your file and try again.]]></source>
-        <target state="translated">&lt;![CDATA[Ce fichier ne contient aucune entrée valide ou peut être vide.&lt;br&gt;Vérifiez votre fichier et réessayez.]]&gt;</target>
+        <target state="translated"><![CDATA[Ce fichier ne contient aucune entrée valide ou peut être vide.<br>Vérifiez votre fichier et réessayez.]]></target>
         <note>key: modal.issue.bad_file.alert.message</note>
       </trans-unit>
       <trans-unit id="5f0b55fcb399ab7a8e3441d7d618e1c59c81a01c" resname="modal.issue.email.empty.message">

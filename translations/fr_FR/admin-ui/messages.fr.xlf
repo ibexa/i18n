@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="34e898c4a61c4925b523416b0c7ecd9574d8e48b" resname="base.visit_support">
         <source><![CDATA[See the %ibexa_documentation_link%<br/>or %ibexa_contact_link%]]></source>
-        <target state="translated">&lt;![CDATA[Voir %ibexa_documentation_link%&lt;br/&gt;ou %ibexa_contact_link%]]&gt;</target>
+        <target state="translated"><![CDATA[Voir %ibexa_documentation_link%<br/>ou %ibexa_contact_link%]]></target>
         <note>key: base.visit_support</note>
       </trans-unit>
       <trans-unit id="59c7ae16de21fe5b4f16ac740a708e72fff4654a" resname="base.welcome">
         <source><![CDATA[Welcome to<br/> Ibexa DXP]]></source>
-        <target state="translated">&lt;![CDATA[Bienvenue dans&lt;br/&gt; Ibexa DXP]]&gt;</target>
+        <target state="translated"><![CDATA[Bienvenue dans<br/> Ibexa DXP]]></target>
         <note>key: base.welcome</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="3b2d2efac582e8c8d6eccb40d4499ecf9ee21f95" resname="dashboard.charts.no_data">
         <source><![CDATA[No data collected<br/> for the selected period]]></source>
-        <target state="translated">&lt;![CDATA[Aucune donnée recueillie&lt;br/&gt; pour la période sélectionnée]]&gt;</target>
+        <target state="translated"><![CDATA[Aucune donnée recueillie<br/> pour la période sélectionnée]]></target>
         <note>key: dashboard.charts.no_data</note>
       </trans-unit>
       <trans-unit id="ac9c8e4ba677f57a59ea64aa615cb0b153bae149" resname="dashboard.charts.no_results">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
         <source><![CDATA[Contact your administrator to request access.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
-        <target state="translated">&lt;![CDATA[Contactez votre administrateur pour demander l’accès.&lt;br/&gt;Revenir au &lt;a href=&quot;%dashboard%&quot;&gt;tableau de bord&lt;/a&gt; ou &lt;a href=&quot;%search%&quot;&gt;rechercher&lt;/a&gt; un autre élément.]]&gt;</target>
+        <target state="translated"><![CDATA[Contactez votre administrateur pour demander l’accès.<br/>Revenir au <a href=&quot;%dashboard%&quot;>tableau de bord</a> ou <a href=&quot;%search%&quot;>rechercher</a> un autre élément.]]></target>
         <note>key: error.page.403.actions</note>
       </trans-unit>
       <trans-unit id="d0b5337e551b64f59973449bbdcf7914c2102a6c" resname="error.page.403.sub_title">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
         <source><![CDATA[Check the URL is spelled correctly and try again.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
-        <target state="translated">&lt;![CDATA[Vérifiez que l’orthographe de l’URL est correcte et réessayez.&lt;br/&gt;Revenir au &lt;a href=&quot;%dashboard%&quot;&gt;tableau de bord&lt;/a&gt; ou &lt;a href=&quot;%search%&quot;&gt;rechercher&lt;/a&gt; un autre élément.]]&gt;</target>
+        <target state="translated"><![CDATA[Vérifiez que l’orthographe de l’URL est correcte et réessayez.<br/>Revenir au <a href=&quot;%dashboard%&quot;>tableau de bord</a> ou <a href=&quot;%search%&quot;>rechercher</a> un autre élément.]]></target>
         <note>key: error.page.404.actions</note>
       </trans-unit>
       <trans-unit id="ffa7f20226d38a989f6c931264bd4cf485b435e6" resname="error.page.404.sub_title">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
         <source><![CDATA[Contact you Administrator to report the problem.<br/>Go back to the <a href="%dashboard%">dashboard</a> or reload the application.]]></source>
-        <target state="translated">&lt;![CDATA[Contactez votre administrateur pour signaler le problème.&lt;br/&gt;Revenez au &lt;a href=&quot;%dashboard%&quot;&gt;tableau de bord&lt;/a&gt; ou chargez à nouveau l’application.]]&gt;</target>
+        <target state="translated"><![CDATA[Contactez votre administrateur pour signaler le problème.<br/>Revenez au <a href=&quot;%dashboard%&quot;>tableau de bord</a> ou chargez à nouveau l’application.]]></target>
         <note>key: error.page.default.actions</note>
       </trans-unit>
       <trans-unit id="37404d823f9c9b5ee00f26e4783e5e98d2955750" resname="error.page.default.sub_title">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="63659642d9d91abcadbb45d00a12db2277ce53b5" resname="ezplatform.registration_confirmation.message">
         <source><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></source>
-        <target state="translated">&lt;![CDATA[Merci d’avoir créé un compte. Vous pouvez maintenant vous &lt;a href=&quot;%login%&quot;&gt;connecter&lt;/a&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[Merci d’avoir créé un compte. Vous pouvez maintenant vous <a href=&quot;%login%&quot;>connecter</a>]]></target>
         <note>key: ezplatform.registration_confirmation.message</note>
       </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
@@ -308,12 +308,12 @@
       </trans-unit>
       <trans-unit id="8359e9b6409139537d0eaeeacaedbc4d0912a105" resname="ezplatform.reset_user_password.link_is_not_valid">
         <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
-        <target state="translated">&lt;![CDATA[Ce lien n’est plus valide. Vous pouvez &lt;a href=&quot;%forgot_user_password%&quot;&gt;générer un nouveau lien&lt;/a&gt; pour réinitialiser votre mot de passe.]]&gt;</target>
+        <target state="translated"><![CDATA[Ce lien n’est plus valide. Vous pouvez <a href=&quot;%forgot_user_password%&quot;>générer un nouveau lien</a> pour réinitialiser votre mot de passe.]]></target>
         <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
       </trans-unit>
       <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
         <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to Ibexa DXP.]]></source>
-        <target state="translated">&lt;![CDATA[Votre mot de passe a été modifié. Vous pouvez &lt;a href=&quot;%login%&quot;&gt;vous connecter&lt;/a&gt; à Ibexa DXP.]]&gt;</target>
+        <target state="translated"><![CDATA[Votre mot de passe a été modifié. Vous pouvez <a href=&quot;%login%&quot;>vous connecter</a> à Ibexa DXP.]]></target>
         <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="bd5ae6bdfe2b60c317c3b47f27c5bf5a264b71ba" resname="fieldview.toggler.hide">
@@ -338,7 +338,7 @@
       </trans-unit>
       <trans-unit id="621bf74d73c79b7c57b8a0ce6f46e3069e237ba6" resname="ibexa.forgot_user_password.success">
         <source><![CDATA[<p>If you don’t receive the email, double check that you entered the correct email address and check your spam folder.</p>]]></source>
-        <target state="translated">&lt;![CDATA[&lt;p&gt;Si vous ne recevez pas l’e-mail, vérifiez que vous avez bien saisi la bonne adresse e-mail ainsi que votre dossier spam.&lt;/p&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[<p>Si vous ne recevez pas l’e-mail, vérifiez que vous avez bien saisi la bonne adresse e-mail ainsi que votre dossier spam.</p>]]></target>
         <note>key: ibexa.forgot_user_password.success</note>
       </trans-unit>
       <trans-unit id="7c3724a02caf347d184892eab61db61ec54c1439" resname="ibexa.forgot_user_password.success.alert">

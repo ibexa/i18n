@@ -100,14 +100,14 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="translated">&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Mode concentration&lt;/strong&gt; – Une interface propre et intuitive avec une structure de contenu simplifiée,
-                        conçue pour les nouveaux utilisateurs et les utilisateurs non avancés. Les caractéristiques comprennent :&lt;/p&gt;
-                        &lt;ul&gt;
-                            &lt;li&gt;Onglet Afficher affichant un aperçu du site dans le contexte&lt;/li&gt;
-                            &lt;li&gt;Onglet Détails techniques masqués&lt;/li&gt;
-                            &lt;li&gt;Onglets Emplacements et Versions masqués dans les éléments de contenu&lt;/li&gt;
-                        &lt;/ul&gt;
-                    &lt;/p&gt;]]&gt;</target>
+        <target state="translated"><![CDATA[<p><strong>Mode concentration</strong> – Une interface propre et intuitive avec une structure de contenu simplifiée,
+                        conçue pour les nouveaux utilisateurs et les utilisateurs non avancés. Les caractéristiques comprennent :</p>
+                        <ul>
+                            <li>Onglet Afficher affichant un aperçu du site dans le contexte</li>
+                            <li>Onglet Détails techniques masqués</li>
+                            <li>Onglets Emplacements et Versions masqués dans les éléments de contenu</li>
+                        </ul>
+                    </p>]]></target>
         <note>key: user.setting.focus_mode.help</note>
       </trans-unit>
       <trans-unit id="3f9f3faa4259dc9c627396c82133e9f615e388a8" resname="user.setting.focus_mode.label">
