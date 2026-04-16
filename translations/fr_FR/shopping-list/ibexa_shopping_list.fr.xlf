@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="816c52fd2bdd94a63cd0944823a6c0aa9384c103" resname="No">
+        <source>No</source>
+        <target state="translated">Non</target>
+        <note>key: No</note>
+      </trans-unit>
+      <trans-unit id="5397e0583f14f6c88de06b1ef28f460a1fb5b0ae" resname="Yes">
+        <source>Yes</source>
+        <target state="translated">Oui</target>
+        <note>key: Yes</note>
+      </trans-unit>
+      <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
+        <source>Viewing %viewing% out of %total% items</source>
+        <target state="translated">Affichage de %viewing% élément(s) sur %total%</target>
+        <note>key: pagination.viewing</note>
+      </trans-unit>
+      <trans-unit id="c0715b6eeb1b531aa6859bb5a56de224e86479bf" resname="policy.limitation.shoppinglistowner.self">
+        <source>Self</source>
+        <target state="translated">Soi-même</target>
+        <note>key: policy.limitation.shoppinglistowner.self</note>
+      </trans-unit>
+      <trans-unit id="de4a8ad17cb911bc1b79ea7fe915b16f7ead0ab0" resname="shopping_list.add_entry.success">
+        <source>Product added to shopping list.</source>
+        <target state="translated">Produit ajouté à la liste d’achats.</target>
+        <note>key: shopping_list.add_entry.success</note>
+      </trans-unit>
+      <trans-unit id="c50e8b2444cfaf2cccf601235f7216c93edfc8ec" resname="shopping_list.bulk_delete.success">
+        <source>Deleted %count% shopping list(s).</source>
+        <target state="translated">%count% liste(s) d’achats supprimée(s).</target>
+        <note>key: shopping_list.bulk_delete.success</note>
+      </trans-unit>
+      <trans-unit id="2f77ed1f1bf01a4acf2f74470ebf6a9fb8a32b64" resname="shopping_list.bulk_delete.warning">
+        <source>Could not delete %count% shopping list(s).</source>
+        <target state="translated">Impossible de supprimer %count% liste(s) d’achats.</target>
+        <note>key: shopping_list.bulk_delete.warning</note>
+      </trans-unit>
+      <trans-unit id="9d6ee18122da2909905b996167bf59da6cc2ce7d" resname="shopping_list.clear.success">
+        <source>Shopping list cleared.</source>
+        <target state="translated">Liste d’achats effacée.</target>
+        <note>key: shopping_list.clear.success</note>
+      </trans-unit>
+      <trans-unit id="6cedcf4550be9d7181532b9c703b0b6099c31741" resname="shopping_list.create.title">
+        <source>Create Shopping List</source>
+        <target state="translated">Créer une liste d’achats</target>
+        <note>key: shopping_list.create.title</note>
+      </trans-unit>
+      <trans-unit id="5c860b3b747ee15c829dc88a34e8434f8b7becce" resname="shopping_list.default_list.name">
+        <source>My Wishlist</source>
+        <target state="translated">Ma liste de souhaits</target>
+        <note>key: shopping_list.default_list.name</note>
+      </trans-unit>
+      <trans-unit id="4e2aa27eed83f9949acafc7f86635d236e66a987" resname="shopping_list.delete.error">
+        <source>Cannot delete shopping list.</source>
+        <target state="translated">Impossible de supprimer la liste d’achats.</target>
+        <note>key: shopping_list.delete.error</note>
+      </trans-unit>
+      <trans-unit id="6dfe11d440c867204c64087f89cfa84491843e77" resname="shopping_list.delete.success">
+        <source>Shopping list deleted.</source>
+        <target state="translated">Liste d’achats supprimée.</target>
+        <note>key: shopping_list.delete.success</note>
+      </trans-unit>
+      <trans-unit id="70e344d7b1ace2968957a7f9afaf6ca667c71cad" resname="shopping_list.filter.created_at">
+        <source>Created</source>
+        <target state="translated">Créée</target>
+        <note>key: shopping_list.filter.created_at</note>
+      </trans-unit>
+      <trans-unit id="a68a3c0215c4ea829747e2d4c59c5d2de349ec4e" resname="shopping_list.filter.date_range.from">
+        <source>From</source>
+        <target state="translated">De</target>
+        <note>key: shopping_list.filter.date_range.from</note>
+      </trans-unit>
+      <trans-unit id="77cd3ecf311969e07e5206ecf72493d6d5e6afce" resname="shopping_list.filter.date_range.to">
+        <source>To</source>
+        <target state="translated">À</target>
+        <note>key: shopping_list.filter.date_range.to</note>
+      </trans-unit>
+      <trans-unit id="c3c1cd07f5936d447a1283d54431a90fd08b7b47" resname="shopping_list.filter.is_default">
+        <source>Default</source>
+        <target state="translated">Par défaut</target>
+        <note>key: shopping_list.filter.is_default</note>
+      </trans-unit>
+      <trans-unit id="882aeaa9e0f17c71c5d53976354a349af39569bc" resname="shopping_list.filter.is_default.all">
+        <source>All</source>
+        <target state="translated">Tous</target>
+        <note>key: shopping_list.filter.is_default.all</note>
+      </trans-unit>
+      <trans-unit id="c9ee143b5b81132719802ab2b8526f025e4fd30c" resname="shopping_list.filter.is_default.false">
+        <source>Non-default only</source>
+        <target state="translated">Non par défaut uniquement</target>
+        <note>key: shopping_list.filter.is_default.false</note>
+      </trans-unit>
+      <trans-unit id="e558e42a6e41401cd4d9ca8d04f1136cfbc9e00c" resname="shopping_list.filter.is_default.true">
+        <source>Default only</source>
+        <target state="translated">Par défaut uniquement</target>
+        <note>key: shopping_list.filter.is_default.true</note>
+      </trans-unit>
+      <trans-unit id="e53905287a7a69fa0a5047a8ea50489a5a307429" resname="shopping_list.filter.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: shopping_list.filter.name</note>
+      </trans-unit>
+      <trans-unit id="ad2dfa58412f58caf789d44b0ce744c4dba2d8b1" resname="shopping_list.filter.name.placeholder">
+        <source>Search by name...</source>
+        <target state="translated">Rechercher par nom…</target>
+        <note>key: shopping_list.filter.name.placeholder</note>
+      </trans-unit>
+      <trans-unit id="16987bbb0435d2d7bc311d649428736a3d3e47ab" resname="shopping_list.filter.reset">
+        <source>Reset</source>
+        <target state="translated">Réinitialiser</target>
+        <note>key: shopping_list.filter.reset</note>
+      </trans-unit>
+      <trans-unit id="e52e408b764e57cf9d601fa921e931df36332340" resname="shopping_list.filter.sort_direction">
+        <source>Sort direction</source>
+        <target state="translated">Ordre de tri</target>
+        <note>key: shopping_list.filter.sort_direction</note>
+      </trans-unit>
+      <trans-unit id="8e208d0b8f72dd7f1db0b9da2b31258fbeafb657" resname="shopping_list.filter.sort_direction.asc">
+        <source>Ascending</source>
+        <target state="translated">Croissant</target>
+        <note>key: shopping_list.filter.sort_direction.asc</note>
+      </trans-unit>
+      <trans-unit id="0ae8db48627f57b4f4630401798741f244a0ad19" resname="shopping_list.filter.sort_direction.desc">
+        <source>Descending</source>
+        <target state="translated">Décroissant</target>
+        <note>key: shopping_list.filter.sort_direction.desc</note>
+      </trans-unit>
+      <trans-unit id="cc149d9593cd75d7917cfb5f3d68ad49e2e4f7bf" resname="shopping_list.filter.sort_field">
+        <source>Sort by</source>
+        <target state="translated">Trier par</target>
+        <note>key: shopping_list.filter.sort_field</note>
+      </trans-unit>
+      <trans-unit id="d470846623569c6e4aa07ae130f0c8f45333ada4" resname="shopping_list.filter.sort_field.created_at">
+        <source>Created date</source>
+        <target state="translated">Date créée</target>
+        <note>key: shopping_list.filter.sort_field.created_at</note>
+      </trans-unit>
+      <trans-unit id="63cb0012aef554529c05f1957518269206b92c5a" resname="shopping_list.filter.sort_field.is_default">
+        <source>Default status</source>
+        <target state="translated">Statut par défaut</target>
+        <note>key: shopping_list.filter.sort_field.is_default</note>
+      </trans-unit>
+      <trans-unit id="c43f43fea94407a2f10db0006a07c31081f56d1a" resname="shopping_list.filter.sort_field.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: shopping_list.filter.sort_field.name</note>
+      </trans-unit>
+      <trans-unit id="35e533ff93fd39a65f12f60bff65dc91a873715c" resname="shopping_list.filter.sort_field.placeholder">
+        <source>- Select -</source>
+        <target state="translated">- Sélectionner -</target>
+        <note>key: shopping_list.filter.sort_field.placeholder</note>
+      </trans-unit>
+      <trans-unit id="700769dfb57d844427ab7a157f497788b1abba15" resname="shopping_list.filter.sort_field.updated_at">
+        <source>Updated date</source>
+        <target state="translated">Date de mise à jour</target>
+        <note>key: shopping_list.filter.sort_field.updated_at</note>
+      </trans-unit>
+      <trans-unit id="3f365328b3a47525533c9eacb59b4d2ed206851a" resname="shopping_list.filter.submit">
+        <source>Filter</source>
+        <target state="translated">Filtrer</target>
+        <note>key: shopping_list.filter.submit</note>
+      </trans-unit>
+      <trans-unit id="9c0bbc5fcdcefc1ceb014d8dc1c1f965ee940224" resname="shopping_list.filter.title">
+        <source>Filter Shopping Lists</source>
+        <target state="translated">Filtrer les listes d’achats</target>
+        <note>key: shopping_list.filter.title</note>
+      </trans-unit>
+      <trans-unit id="1aed4d0805dba00c4e987349f2a06b651ecc5b39" resname="shopping_list.filter.updated_at">
+        <source>Updated</source>
+        <target state="translated">Mise à jour</target>
+        <note>key: shopping_list.filter.updated_at</note>
+      </trans-unit>
+      <trans-unit id="496b42863a5115d2d5587a9877314aa82b593648" resname="shopping_list.form.bulk_delete">
+        <source>Delete selected</source>
+        <target state="translated">Supprimer la sélection</target>
+        <note>key: shopping_list.form.bulk_delete</note>
+      </trans-unit>
+      <trans-unit id="e40116536687e5194f788cb792a6eb115727c576" resname="shopping_list.form.clear">
+        <source>Clear</source>
+        <target state="translated">Effacer</target>
+        <note>key: shopping_list.form.clear</note>
+      </trans-unit>
+      <trans-unit id="53dd686c92af4341750e7ed75893ac1f017e82f4" resname="shopping_list.form.create">
+        <source>Create</source>
+        <target state="translated">Créer</target>
+        <note>key: shopping_list.form.create</note>
+      </trans-unit>
+      <trans-unit id="d8545ca749ac4e22121fb8d8b39e99e74bf46d39" resname="shopping_list.form.delete">
+        <source>Delete</source>
+        <target state="translated">Supprimer</target>
+        <note>key: shopping_list.form.delete</note>
+      </trans-unit>
+      <trans-unit id="d00bfc2efacec89e2cfe6a3448e5d2b1472993b6" resname="shopping_list.form.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: shopping_list.form.name</note>
+      </trans-unit>
+      <trans-unit id="823bb0001327cb694b7e0f71f517d1e2c867d9cb" resname="shopping_list.form.remove_entries">
+        <source>Remove selected</source>
+        <target state="translated">Supprimer la sélection</target>
+        <note>key: shopping_list.form.remove_entries</note>
+      </trans-unit>
+      <trans-unit id="cd6c3ae65cddcd2199630a5d8d4ecc46d1fe6c14" resname="shopping_list.form.update">
+        <source>Update</source>
+        <target state="translated">Mettre à jour</target>
+        <note>key: shopping_list.form.update</note>
+      </trans-unit>
+      <trans-unit id="c214309305e63b131a3d46129fbcc105587eee1c" resname="shopping_list.list.add_products">
+        <source>Add Products</source>
+        <target state="translated">Ajouter des produits</target>
+        <note>key: shopping_list.list.add_products</note>
+      </trans-unit>
+      <trans-unit id="2149fa9ab42abe629960f6f609c1c5526646ac6b" resname="shopping_list.list.create_new">
+        <source>Create New Shopping List</source>
+        <target state="translated">Créer une nouvelle liste d’achats</target>
+        <note>key: shopping_list.list.create_new</note>
+      </trans-unit>
+      <trans-unit id="0fe1f25b2535bb09c88c5ca312da1d2823bc7f39" resname="shopping_list.list.created_at">
+        <source>Created</source>
+        <target state="translated">Créée</target>
+        <note>key: shopping_list.list.created_at</note>
+      </trans-unit>
+      <trans-unit id="097b1a41d1413f8d2c791786ae6f6ee7a0d48488" resname="shopping_list.list.default_badge">
+        <source>Default</source>
+        <target state="translated">Par défaut</target>
+        <note>key: shopping_list.list.default_badge</note>
+      </trans-unit>
+      <trans-unit id="ff0fd373507bc71c4e5755f701c02db07f3ecc48" resname="shopping_list.list.no_lists">
+        <source>You have no shopping lists yet.</source>
+        <target state="translated">Vous n’avez pas encore de liste d’achats.</target>
+        <note>key: shopping_list.list.no_lists</note>
+      </trans-unit>
+      <trans-unit id="6dcb09c21d983f3556b0d561cfccf03329ba5d8b" resname="shopping_list.list.title">
+        <source>Shopping Lists</source>
+        <target state="translated">Listes d’achats</target>
+        <note>key: shopping_list.list.title</note>
+      </trans-unit>
+      <trans-unit id="88c4bde14fa6b458ebfa2b77e439ced40a1a31be" resname="shopping_list.list.view_all">
+        <source>View all shopping lists</source>
+        <target state="translated">Voir toutes les listes d’achats</target>
+        <note>key: shopping_list.list.view_all</note>
+      </trans-unit>
+      <trans-unit id="eb844b3fdaee6e57fc0304258db7149d0f605d50" resname="shopping_list.list.viewing">
+        <source>Viewing %viewing% out of %total% shopping lists</source>
+        <target state="translated">Affichage de %viewing% sur %total% listes d’achats</target>
+        <note>key: shopping_list.list.viewing</note>
+      </trans-unit>
+      <trans-unit id="28afe3187fa7bcca43b5590b7948a097878b0b32" resname="shopping_list.product_list.actions">
+        <source>Actions</source>
+        <target state="translated">Actions</target>
+        <note>key: shopping_list.product_list.actions</note>
+      </trans-unit>
+      <trans-unit id="7b75f4e8b9022e68ccb26fd0bc7a9e377b9e5e23" resname="shopping_list.product_list.add_to_list">
+        <source>Add</source>
+        <target state="translated">Ajouter</target>
+        <note>key: shopping_list.product_list.add_to_list</note>
+      </trans-unit>
+      <trans-unit id="5d090a7b622016b7a027924329f4af797a0e688c" resname="shopping_list.product_list.no_products">
+        <source>No products available.</source>
+        <target state="translated">Aucun produit disponible.</target>
+        <note>key: shopping_list.product_list.no_products</note>
+      </trans-unit>
+      <trans-unit id="d09bc1142617b6ee2f31027bf258227a60581e7a" resname="shopping_list.product_list.product_code">
+        <source>Product Code</source>
+        <target state="translated">Code produit</target>
+        <note>key: shopping_list.product_list.product_code</note>
+      </trans-unit>
+      <trans-unit id="f9de85a20f067183229ccaa0caf4fe0f3baef44c" resname="shopping_list.product_list.product_name">
+        <source>Product Name</source>
+        <target state="translated">Nom du produit</target>
+        <note>key: shopping_list.product_list.product_name</note>
+      </trans-unit>
+      <trans-unit id="8b5df0b78ad6ab7f6341bfa2bd1d06928121f4ef" resname="shopping_list.product_list.select_list">
+        <source>Shopping List</source>
+        <target state="translated">Liste d’achats</target>
+        <note>key: shopping_list.product_list.select_list</note>
+      </trans-unit>
+      <trans-unit id="9c749591c09a589f372eb933769c056bf85e7326" resname="shopping_list.product_list.title">
+        <source>Add Products to Shopping List</source>
+        <target state="translated">Ajouter des produits à la liste d’achats</target>
+        <note>key: shopping_list.product_list.title</note>
+      </trans-unit>
+      <trans-unit id="0e625179ebe90b0b512e794a8e4f7b3b23acb7d6" resname="shopping_list.remove_entries.error">
+        <source>Could not remove selected products.</source>
+        <target state="translated">Impossible de supprimer les produits sélectionnés.</target>
+        <note>key: shopping_list.remove_entries.error</note>
+      </trans-unit>
+      <trans-unit id="69a50f5387430e42fcc5d0850329f7674c8b6a81" resname="shopping_list.remove_entries.no_selection">
+        <source>No products selected.</source>
+        <target state="translated">Aucun produit sélectionné.</target>
+        <note>key: shopping_list.remove_entries.no_selection</note>
+      </trans-unit>
+      <trans-unit id="b205555856a708a424a6cb94e6da5cecfe0f2149" resname="shopping_list.remove_entries.success">
+        <source>Removed %count% product(s) from the shopping list.</source>
+        <target state="translated">%count% produit(s) supprimé(s) de la liste d’achats.</target>
+        <note>key: shopping_list.remove_entries.success</note>
+      </trans-unit>
+      <trans-unit id="07095f0512d4cc5fa601e4378ad639da14243d67" resname="shopping_list.select_list.placeholder">
+        <source>Select shopping list...</source>
+        <target state="translated">Sélectionner une liste d’achats…</target>
+        <note>key: shopping_list.select_list.placeholder</note>
+      </trans-unit>
+      <trans-unit id="62f3331c1fddbb17b7f8e4336b30c8a0a942c579" resname="shopping_list.update.title">
+        <source>Update Shopping List</source>
+        <target state="translated">Mettre à jour la liste d’achats</target>
+        <note>key: shopping_list.update.title</note>
+      </trans-unit>
+      <trans-unit id="2b7e93832e49a541f06e0b688c3b1aa3249c2211" resname="shopping_list.view.back_to_list">
+        <source>← Back to shopping lists</source>
+        <target state="translated">← Retour aux listes d’achats</target>
+        <note>key: shopping_list.view.back_to_list</note>
+      </trans-unit>
+      <trans-unit id="74c712b6c0eb2a295c34b4dd7806b5b1a8c4eb34" resname="shopping_list.view.edit">
+        <source>Edit</source>
+        <target state="translated">Modifier</target>
+        <note>key: shopping_list.view.edit</note>
+      </trans-unit>
+      <trans-unit id="bdfba38ffe6444302d40cc87101288af7eea0c0c" resname="shopping_list.view.entries">
+        <source>Entries</source>
+        <target state="translated">Entrées</target>
+        <note>key: shopping_list.view.entries</note>
+      </trans-unit>
+      <trans-unit id="7035d55c658f628df7e4e57e619dd59bef8e67ba" resname="shopping_list.view.identifier">
+        <source>List ID</source>
+        <target state="translated">ID de la liste</target>
+        <note>key: shopping_list.view.identifier</note>
+      </trans-unit>
+      <trans-unit id="5ec582d533e1372f6366d57b754a9ec5a6287cb7" resname="shopping_list.view.is_default">
+        <source>Default List</source>
+        <target state="translated">Liste par défaut</target>
+        <note>key: shopping_list.view.is_default</note>
+      </trans-unit>
+      <trans-unit id="a1e61363e5f37b40973cdf919a6bcdea7aad5448" resname="shopping_list.view.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: shopping_list.view.name</note>
+      </trans-unit>
+      <trans-unit id="6366c8c7532aad23c644c52a3896cd9ed4cbc9e4" resname="shopping_list.view.no_entries">
+        <source>This shopping list is empty.</source>
+        <target state="translated">Cette liste d’achats est vide.</target>
+        <note>key: shopping_list.view.no_entries</note>
+      </trans-unit>
+      <trans-unit id="9d99bdff7c52ad498eef7dd40dde1b354641f580" resname="shopping_list.view.product_code">
+        <source>Product Code</source>
+        <target state="translated">Code produit</target>
+        <note>key: shopping_list.view.product_code</note>
+      </trans-unit>
+      <trans-unit id="3d55eb71a63fabcbd3b9ca9e60f24ef140274756" resname="shopping_list.view.product_name">
+        <source>Product Name</source>
+        <target state="translated">Nom du produit</target>
+        <note>key: shopping_list.view.product_name</note>
+      </trans-unit>
+      <trans-unit id="b0385528fce3fc6cefcc0c885486e760ee55aa08" resname="shopping_list.view.remove">
+        <source>Remove</source>
+        <target state="translated">Supprimer</target>
+        <note>key: shopping_list.view.remove</note>
+      </trans-unit>
+      <trans-unit id="66bd305b57340d6ef3f3f0410db5fa78c075c34f" resname="shopping_list.view.title">
+        <source>Shopping List</source>
+        <target state="translated">Liste d’achats</target>
+        <note>key: shopping_list.view.title</note>
+      </trans-unit>
+      <trans-unit id="11fbc86d1bdea97399b64a2d9bdbf677d0f10710" resname="shopping_lists_list.create_new_shopping_list.error.max_characters">
+        <source>The maximum number of characters is 190.</source>
+        <target state="translated">Le nombre maximal de caractères est 190.</target>
+        <note>key: shopping_lists_list.create_new_shopping_list.error.max_characters</note>
+      </trans-unit>
+      <trans-unit id="dbccc7d16f52afb61f81159888e5fc626c5f24de" resname="shopping_lists_list.create_new_shopping_list_btn.label">
+        <source>Create a new shopping list</source>
+        <target state="translated">Créer une nouvelle liste d’achats</target>
+        <note>key: shopping_lists_list.create_new_shopping_list_btn.label</note>
+      </trans-unit>
+      <trans-unit id="7a678102d9e6c8042b281e030f315b1ef84c9f37" resname="shopping_lists_list.wishlist.name">
+        <source>My Wishlist</source>
+        <target state="translated">Ma liste de souhaits</target>
+        <note>key: shopping_lists_list.wishlist.name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="121690be070e7aa8d2774831519c0cb26e6d3e36" resname="ibexa.connector_anthropic.action_configuration.max_tokens_validator">
+        <source>Max tokens must be greater than 0 and equal or lower than 4096.</source>
+        <target state="translated">Le nombre maximal de tokens doit être supérieur à 0 et égal ou inférieur à 4096.</target>
+        <note>key: ibexa.connector_anthropic.action_configuration.max_tokens_validator</note>
+      </trans-unit>
+      <trans-unit id="d623cd4668a0d613de174b7408f7d3b3c9757e2b" resname="ibexa.connector_anthropic.action_configuration.temperature_validator">
+        <source>Temperature must be a number between 0 and 2.</source>
+        <target state="translated">La température doit être un nombre compris entre 0 et 2.</target>
+        <note>key: ibexa.connector_anthropic.action_configuration.temperature_validator</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

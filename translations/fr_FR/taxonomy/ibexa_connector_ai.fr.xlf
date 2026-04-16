@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="e81ac7e8450452a2aa3787b8ca5cf6f3e093d798" resname="ibexa.action_configuration.text_to_taxonomy.embedding_max_tokens">
+        <source>Maximum tokens sent for embeddings</source>
+        <target state="translated">Nombre maximum de tokens envoyés pour les embeddings</target>
+        <note>key: ibexa.action_configuration.text_to_taxonomy.embedding_max_tokens</note>
+      </trans-unit>
+      <trans-unit id="babd600db886d14e161f8bccabc6e8fabe5840bf" resname="ibexa.action_configuration.text_to_taxonomy.suggested_taxonomies_limit">
+        <source>Limit of taxonomy suggestions</source>
+        <target state="translated">Limite des suggestions de taxonomie</target>
+        <note>key: ibexa.action_configuration.text_to_taxonomy.suggested_taxonomies_limit</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

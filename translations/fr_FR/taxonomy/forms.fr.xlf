@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -18,17 +18,17 @@
       </trans-unit>
       <trans-unit id="6c2f7edbbe16af3e02ebfb408e93437c3f8866c9" resname="role.policy.taxonomy.assign">
         <source>Taxonomy / Assign</source>
-        <target state="translated">Taxonomie / Assigner</target>
+        <target state="translated">Taxonomie / Attribuer</target>
         <note>key: role.policy.taxonomy.assign</note>
       </trans-unit>
       <trans-unit id="5b13c93c0cef722a74869da8c9812912d428d013" resname="role.policy.taxonomy.manage">
         <source>Taxonomy / Manage</source>
-        <target state="translated">Taxonomie / Gestion</target>
+        <target state="translated">Taxonomie / Gérer</target>
         <note>key: role.policy.taxonomy.manage</note>
       </trans-unit>
       <trans-unit id="c18671d83b75ebd3906cd49041ec70414a0ba455" resname="role.policy.taxonomy.read">
         <source>Taxonomy / Read</source>
-        <target state="translated">Taxonomie / Lecture</target>
+        <target state="translated">Taxonomie / Lire</target>
         <note>key: role.policy.taxonomy.read</note>
       </trans-unit>
     </body>

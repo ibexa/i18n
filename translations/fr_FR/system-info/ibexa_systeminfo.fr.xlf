@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -48,17 +48,17 @@
       </trans-unit>
       <trans-unit id="ed1f723e05fbc74c1c90cfc6f64c2bcda6f4bb9d" resname="ibexa.eol">
         <source>End of life</source>
-        <target state="translated">Fin de vie</target>
+        <target state="translated">Fin du cycle de vie</target>
         <note>key: ibexa.eol</note>
       </trans-unit>
       <trans-unit id="4a9e6f9b28c3203784cb5f01ebe73e67661cc823" resname="ibexa.eom">
         <source>End of maintenance</source>
-        <target state="translated">Fin de maintenance</target>
+        <target state="translated">Fin de la maintenance</target>
         <note>key: ibexa.eom</note>
       </trans-unit>
       <trans-unit id="804e14084add4426182add3b4a0a710506ef742b" resname="ibexa.is_trial">
         <source>Is trial</source>
-        <target state="translated">Est un essai</target>
+        <target state="translated">Est une version d’essai</target>
         <note>key: ibexa.is_trial</note>
       </trans-unit>
       <trans-unit id="44a7ad63689c19af8aa173293e0da9e2055e4df9" resname="ibexa.is_trial.no">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="972bcf808b8ce2b0a08a21db7f0f15f520f4b87b" resname="ibexa.read_more">
         <source>For more information about Service Life for Ibexa DXP with a business license, see</source>
-        <target state="translated">Pour plus d’informations sur Service Life pour Ibexa DXP avec une licence d’entreprise, voir</target>
+        <target state="translated">Pour en savoir plus sur la durée de vie pour Ibexa DXP avec une licence commerciale, consultez</target>
         <note>key: ibexa.read_more</note>
       </trans-unit>
       <trans-unit id="341340ab8c700ad6fe83322ec29cb3977262f5df" resname="ibexa.stability">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="5a3d301a871855ae4b3809c19b76fcccdb65b8ce" resname="invalid.system_unable_to_fetch">
         <source>System was unable to fetch corresponding data</source>
-        <target state="translated">Le système n'a pas pu récupérer les données correspondantes</target>
+        <target state="translated">Le système n’a pas pu récupérer les données correspondantes</target>
         <note>key: invalid.system_unable_to_fetch</note>
       </trans-unit>
       <trans-unit id="81c5d49be9505089d8d248ea96f6d077fd0ab9bd" resname="memory">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="d8ae088aee969371bf4ed994e9106b5d3e799c35" resname="packages">
         <source>Packages</source>
-        <target state="translated">Paquets</target>
+        <target state="translated">Pack</target>
         <note>key: packages</note>
       </trans-unit>
       <trans-unit id="5bfa5c4492601632e405273e2f7ea28977f108c3" resname="packages.empty">
         <source>No packages installed.</source>
-        <target state="translated">Aucun paquet installé.</target>
+        <target state="translated">Aucun pack installé.</target>
         <note>key: packages.empty</note>
       </trans-unit>
       <trans-unit id="93a035162ab0bf4e032b99d2909e0ac1274a3d0b" resname="packages.name">
@@ -143,12 +143,12 @@
       </trans-unit>
       <trans-unit id="ee982f9a979085f2f15b3ddc699bfada99429bb4" resname="php.info">
         <source>PHP Info</source>
-        <target state="translated">PHP info</target>
+        <target state="translated">Informations PHP</target>
         <note>key: php.info</note>
       </trans-unit>
       <trans-unit id="7d98ad90ac8076d2bda25ff05688ced394d0ca1b" resname="repository">
         <source>Repository</source>
-        <target state="translated">Dépôt</target>
+        <target state="translated">Répertoire</target>
         <note>key: repository</note>
       </trans-unit>
       <trans-unit id="ca27c822aa4f52351a6a89150fc5ac970d052fca" resname="repository.content_types_count">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="10f3b8bca9e42617f9413433d39bffb1f1406c27" resname="repository.header.label.number">
         <source>Number</source>
-        <target state="translated">Nombre</target>
+        <target state="translated">Numéro</target>
         <note>key: repository.header.label.number</note>
       </trans-unit>
       <trans-unit id="b08856f94643075c9a7a13c29010d09165a28015" resname="repository.host">
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="dabc0d144fa7579439f60490d5f44d96c4abfdec" resname="repository.username">
         <source>Username</source>
-        <target state="translated">Nom d'utilisateur</target>
+        <target state="translated">Nom d’utilisateur</target>
         <note>key: repository.username</note>
       </trans-unit>
       <trans-unit id="2f9d49c355e4660fbb8cc89c39d048b53edc7e3c" resname="repository.users_count">
@@ -213,12 +213,12 @@
       </trans-unit>
       <trans-unit id="9bc1a12ff71e39bc34441abb3dddb60f26a1d9c4" resname="services.http_cache_proxy">
         <source>HTTP cache proxy</source>
-        <target state="translated">Proxy cache HTTP</target>
+        <target state="translated">Proxy de mise en cache HTTP</target>
         <note>key: services.http_cache_proxy</note>
       </trans-unit>
       <trans-unit id="f005b719a442f81e3bcf0dfdca767e26c134f1d8" resname="services.persistence_cache_adapter">
         <source>Persistence cache adapter</source>
-        <target state="translated">Adaptateur de cache de persistance</target>
+        <target state="translated">Adaptateur de persistance de mise en cache</target>
         <note>key: services.persistence_cache_adapter</note>
       </trans-unit>
       <trans-unit id="e2a6a37636c55d88afbbc0e16414b31ec456b0ae" resname="services.search_engine">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="98c89e1daa8c0a7c472af26752752299ff44ee23" resname="symfony_kernel">
         <source>Symfony Kernel</source>
-        <target state="translated">Kernel Symfony</target>
+        <target state="translated">Symfony Kernel</target>
         <note>key: symfony_kernel</note>
       </trans-unit>
       <trans-unit id="dbc3d622a5e78844eeb75f3e9477b90357984ad7" resname="symfony_kernel.bundles.empty">
@@ -238,12 +238,12 @@
       </trans-unit>
       <trans-unit id="8bce9f0cf5c9c698c1907808aa20cfa0b1ec9ecb" resname="symfony_kernel.cacheDir">
         <source>Cache directory</source>
-        <target state="translated">Dossier de cache</target>
+        <target state="translated">Répertoire de mémoire cache</target>
         <note>key: symfony_kernel.cacheDir</note>
       </trans-unit>
       <trans-unit id="74d0f849585c3bfe67e3477d0773fd8f097bd54d" resname="symfony_kernel.charset">
         <source>Character set</source>
-        <target state="translated">Jeu de caractères</target>
+        <target state="translated">Ensemble de caractères</target>
         <note>key: symfony_kernel.charset</note>
       </trans-unit>
       <trans-unit id="8da408eada2e85ad98868421df6185d1c8e4bdb2" resname="symfony_kernel.debugMode">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="b04c158895f34062a8748223da67059fe45b3a60" resname="symfony_kernel.logDir">
         <source>Log directory</source>
-        <target state="translated">Dossier des logs</target>
+        <target state="translated">Répertoire du journal</target>
         <note>key: symfony_kernel.logDir</note>
       </trans-unit>
       <trans-unit id="ea20258358e7a0d4e8bc037d4e352ac2ad06b7fa" resname="symfony_kernel.name">
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="9370a0e83c7f7c06d9a328661a3031d99035d582" resname="symfony_kernel.projectDir">
         <source>Project directory</source>
-        <target state="translated">Répertoire du projet</target>
+        <target state="translated">Répertoire de projet</target>
         <note>key: symfony_kernel.projectDir</note>
       </trans-unit>
       <trans-unit id="74fd4792096e74360c7508e16bbe7c1e121d393e" resname="symfony_kernel.version">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="21ef9f0a078dbc4e4c45be12f1cfaf8a3864dfa7" resname="systeminfo">
         <source>System information</source>
-        <target state="translated">Information système</target>
+        <target state="translated">Informations système</target>
         <note>key: systeminfo</note>
       </trans-unit>
       <trans-unit id="a2a92e9d0e41ea4a14c99ab0f702d5df3ea017c3" resname="tab.name.composer">
@@ -318,7 +318,7 @@
       </trans-unit>
       <trans-unit id="1d99640a1a35d6f805a048ba701c6b98aed7654b" resname="tab.name.repository">
         <source>Repository</source>
-        <target state="translated">Dépôt</target>
+        <target state="translated">Répertoire</target>
         <note>key: tab.name.repository</note>
       </trans-unit>
       <trans-unit id="89ee4f613b63015aec82ada871cd895463340db0" resname="tab.name.services">
@@ -328,7 +328,7 @@
       </trans-unit>
       <trans-unit id="b7989598c01fcae061f7917e563a9c0d66790a84" resname="tab.name.symfony_kernel">
         <source>Symfony Kernel</source>
-        <target state="translated">Kernel Symfony</target>
+        <target state="translated">Symfony Kernel</target>
         <note>key: tab.name.symfony_kernel</note>
       </trans-unit>
     </body>

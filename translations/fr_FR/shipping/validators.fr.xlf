@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,67 +8,67 @@
     <body>
       <trans-unit id="0ffd3f7f20682d95acf359787fc40b568bbb52d9" resname="Currency value cannot be null">
         <source>Currency value cannot be null</source>
-        <target state="translated">La valeur de la devise ne peut pas être nulle</target>
+        <target state="translated">La valeur en devise ne peut pas être nulle</target>
         <note>key: Currency value cannot be null</note>
       </trans-unit>
       <trans-unit id="c17619fb0a3724f1e1db64c8c05eacfaf20bada6" resname="Money amount must be greater than 0">
         <source>Money amount must be greater than 0</source>
-        <target state="translated">Le montant saisi doit être supérieur à {{amount}}</target>
+        <target state="translated">Le montant doit être supérieur à 0</target>
         <note>key: Money amount must be greater than 0</note>
       </trans-unit>
       <trans-unit id="b283020b6b217420c17c74ae70faca68dc75e59c" resname="Money amount must be greater than or equal 0">
         <source>Money amount must be greater than or equal 0</source>
-        <target state="translated">Le montant net doit être supérieur ou égal à 0</target>
+        <target state="translated">Le montant doit être supérieur ou égal à 0</target>
         <note>key: Money amount must be greater than or equal 0</note>
       </trans-unit>
       <trans-unit id="b5b93dc7705263e184f50137941e8f84f48689cf" resname="ibexa.shipment.identifier.unique">
         <source>Shipment identifier must be unique</source>
-        <target state="translated">L'identifiant de paiement doit être unique</target>
+        <target state="translated">L’identifiant d’expédition doit être unique</target>
         <note>key: ibexa.shipment.identifier.unique</note>
       </trans-unit>
       <trans-unit id="8db677ecadce7d0942f7733e38384d5c9a016f7f" resname="ibexa.shipment.money_amount.greater_than_or_equal_zero">
         <source>Money amount must be greater than or equal 0 {{ currency }}</source>
-        <target state="translated">Le montant doit être supérieur à 0 "{{ currency }}"</target>
+        <target state="translated">Le montant doit être supérieur ou égal à 0 {{ currency }}</target>
         <note>key: ibexa.shipment.money_amount.greater_than_or_equal_zero</note>
       </trans-unit>
       <trans-unit id="27b8e82c93baf33fe88450b657cf7b0fbb028104" resname="ibexa.shipment.shipping_method.enabled">
         <source>Shipping method {{ name }} is disabled</source>
-        <target state="needs-translation">Shipping method {{ name }} is disabled</target>
+        <target state="translated">La méthode d’expédition {{ name }} est désactivée</target>
         <note>key: ibexa.shipment.shipping_method.enabled</note>
       </trans-unit>
       <trans-unit id="670435ebc3b0d9bf583c31039b915d5d9d443814" resname="ibexa.shipment.status.not_allowed_transition">
         <source>Transition "{{ transition }}" from "{{ status }}" status is not allowed</source>
-        <target state="translated">La transition "{{ transition }}" depuis le statut "{{ status }}" n'est pas autorisée</target>
+        <target state="translated">La transition « {{ transition }} » depuis le statut « {{ status }} » n’est pas autorisée</target>
         <note>key: ibexa.shipment.status.not_allowed_transition</note>
       </trans-unit>
       <trans-unit id="90e9e056195eccf3077880dcfbd5707d1d207ad2" resname="ibexa.shipping_method.enabled">
         <source>Shipping method is enabled</source>
-        <target state="translated">Le mode de livraison est activé</target>
+        <target state="translated">La méthode d’expédition est activée</target>
         <note>key: ibexa.shipping_method.enabled</note>
       </trans-unit>
       <trans-unit id="89d473a6ef3d55f18c061ca38592eaced78d620f" resname="ibexa.shipping_method.identifier.pattern">
         <source>Shipping method identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="needs-translation">Shipping method identifier may only contain letters from "a" to "z", numbers and underscores.</target>
+        <target state="translated">L’identifiant de la méthode d’expédition ne peut contenir que des lettres de « a » à « z », des chiffres et des tirets bas « _ ».</target>
         <note>key: ibexa.shipping_method.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="00dc13c148209f6351723c72dcfc33a1fad41671" resname="ibexa.shipping_method.identifier.unique">
         <source>Shipping method identifier must be unique</source>
-        <target state="needs-translation">Shipping method identifier must be unique</target>
+        <target state="translated">L’identifiant de la méthode d’expédition doit être unique</target>
         <note>key: ibexa.shipping_method.identifier.unique</note>
       </trans-unit>
       <trans-unit id="a8839be51879b5f0db4e9bc2f1b94ec493735fb4" resname="ibexa.shipping_method.options.valid">
         <source>Invalid shipping method options</source>
-        <target state="translated">Options de mode de livraison non valide</target>
+        <target state="translated">Options de méthode d’expédition non valides</target>
         <note>key: ibexa.shipping_method.options.valid</note>
       </trans-unit>
       <trans-unit id="dfbaa068ace3d903dacc0bc0d6462ca99f86726c" resname="ibexa.shipping_method.used">
         <source>Shipping method is used</source>
-        <target state="translated">Le mode de livraison est activé</target>
+        <target state="translated">La méthode d’expédition est utilisée</target>
         <note>key: ibexa.shipping_method.used</note>
       </trans-unit>
       <trans-unit id="92f5c7d268b6f3f641f722e8de316a986a22022e" resname="ibexa.shipping_method.voter">
         <source>Shipping method is not valid for given cart</source>
-        <target state="translated">Le mode de livraison n'est pas valide pour un panier donné</target>
+        <target state="translated">La méthode d’expédition n’est pas valide pour ce panier</target>
         <note>key: ibexa.shipping_method.voter</note>
       </trans-unit>
     </body>
