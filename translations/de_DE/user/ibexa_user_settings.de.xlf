@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="18f788ade37f54e5d52f0e3ddacb39a5558190b5" resname="settings.subitems_limit.value.description">
         <source>Number of items displayed in the sub-items</source>
-        <target state="translated">Anzahl von angezeigten Elementen in &quot;Unterelemente&quot;</target>
+        <target state="translated">Anzahl von angezeigten Elementen in "Unterelemente"</target>
         <note>key: settings.subitems_limit.value.description</note>
       </trans-unit>
       <trans-unit id="67329191003095f24d2ca7d2182ecb00d5a85e36" resname="settings.subitems_limit.value.title">

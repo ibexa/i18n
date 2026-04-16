@@ -2623,7 +2623,7 @@
       </trans-unit>
       <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
         <source><![CDATA[Got a question? We'd love to hear from you. Send us message to <a href="mailto:support@ibexa.co" target="_blank">support@ibexa.co</a> and we'll get in touch with you soon.]]></source>
-        <target state="translated"><![CDATA[Haben Sie Fragen? Wir freuen uns, von Ihnen zu hören. Senden Sie uns eine Nachricht an <a href=&quot;mailto:support@ibexa.co&quot; target=&quot;_blank&quot;>support@ibexa.co</a> und wir werden uns umgehend bei Ihnen melden.]]></target>
+        <target state="translated"><![CDATA[Haben Sie Fragen? Wir freuen uns, von Ihnen zu hören. Senden Sie uns eine Nachricht an <a href="mailto:support@ibexa.co" target="_blank">support@ibexa.co</a> und wir werden uns umgehend bei Ihnen melden.]]></target>
         <note>key: welcome.activation_status.question</note>
       </trans-unit>
       <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">

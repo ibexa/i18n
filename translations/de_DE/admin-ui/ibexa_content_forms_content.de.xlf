@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="349f28b1b2e3f9c6ac1a0d2cb881f1647419e955" resname="fieldtype.imageasset.drag_drop">
         <source><![CDATA[Drag and drop image here or <br /><button class="ibexa-data-source__btn-add">Browse</button> to choose a file]]></source>
-        <target state="translated"><![CDATA[Bild per Drag-and-Drop hierher ziehen und ablegen oder <br /><button class=&quot;ibexa-data-source__btn-add&quot;>Durchsuchen</button>, um eine Datei auszuwählen]]></target>
+        <target state="translated"><![CDATA[Bild per Drag-and-Drop hierher ziehen und ablegen oder <br /><button class="ibexa-data-source__btn-add">Durchsuchen</button>, um eine Datei auszuwählen]]></target>
         <note>key: fieldtype.imageasset.drag_drop</note>
       </trans-unit>
       <trans-unit id="a7bbab352bfc8405b393228b6f32482789acf906" resname="ibexa_binaryfile.action.download">

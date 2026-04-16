@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="846d1a3fe12f6ec79c426207e63bcc0a8577d2ed" resname="account.register_confirmation.message">
         <source><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></source>
-        <target state="translated"><![CDATA[Vielen Dank, dass Sie ein Konto erstellt haben. Sie können sich jetzt <a href=&quot;%login%&quot;>anmelden</a>]]></target>
+        <target state="translated"><![CDATA[Vielen Dank, dass Sie ein Konto erstellt haben. Sie können sich jetzt <a href="%login%">anmelden</a>]]></target>
         <note>key: account.register_confirmation.message</note>
       </trans-unit>
       <trans-unit id="f842146b2a7b0b3c9f70a2ab6ea104f6d46c611c" resname="account.reset_user_password.change_password">
@@ -178,12 +178,12 @@
       </trans-unit>
       <trans-unit id="52c69bbd7888b3591a7ef48359095bf846192ac8" resname="account.reset_user_password.link_is_not_valid">
         <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
-        <target state="translated"><![CDATA[Dieser Link ist nicht mehr gültig. Sie können <a href=&quot;%forgot_user_password%&quot;>einen neuen Link generieren</a>, um Ihr Passwort zurückzusetzen.]]></target>
+        <target state="translated"><![CDATA[Dieser Link ist nicht mehr gültig. Sie können <a href="%forgot_user_password%">einen neuen Link generieren</a>, um Ihr Passwort zurückzusetzen.]]></target>
         <note>key: account.reset_user_password.link_is_not_valid</note>
       </trans-unit>
       <trans-unit id="23609714f1576bcd2500875557dee0be12589ad0" resname="account.reset_user_password.success">
         <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to Customer Portal.]]></source>
-        <target state="translated"><![CDATA[Ihr Passwort wurde geändert. Sie können sich im Kundenportal <a href=&quot;%login%&quot;>anmelden</a>.]]></target>
+        <target state="translated"><![CDATA[Ihr Passwort wurde geändert. Sie können sich im Kundenportal <a href="%login%">anmelden</a>.]]></target>
         <note>key: account.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="99365a37afbae39d10db919c155dcfd4f6280a29" resname="address_book.breadcrumb">

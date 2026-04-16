@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="63659642d9d91abcadbb45d00a12db2277ce53b5" resname="ezplatform.registration_confirmation.message">
         <source><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></source>
-        <target state="translated"><![CDATA[Vielen Dank, dass Sie ein Konto erstellt haben. Sie können sich jetzt <a href=&quot;%login%&quot;>anmelden</a>]]></target>
+        <target state="translated"><![CDATA[Vielen Dank, dass Sie ein Konto erstellt haben. Sie können sich jetzt <a href="%login%">anmelden</a>]]></target>
         <note>key: ezplatform.registration_confirmation.message</note>
       </trans-unit>
     </body>

@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
         <source><![CDATA[Contact your administrator to request access.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
-        <target state="translated"><![CDATA[Wenden Sie sich an Ihren Administrator, um den Zugang zu beantragen.<br/>Gehen Sie zurück zum <a href=&quot;%dashboard%&quot;>Dashboard</a> oder <a href=&quot;%search%&quot;>suchen</a> Sie nach einem anderen Element.]]></target>
+        <target state="translated"><![CDATA[Wenden Sie sich an Ihren Administrator, um den Zugang zu beantragen.<br/>Gehen Sie zurück zum <a href="%dashboard%">Dashboard</a> oder <a href="%search%">suchen</a> Sie nach einem anderen Element.]]></target>
         <note>key: error.page.403.actions</note>
       </trans-unit>
       <trans-unit id="d0b5337e551b64f59973449bbdcf7914c2102a6c" resname="error.page.403.sub_title">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
         <source><![CDATA[Check the URL is spelled correctly and try again.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
-        <target state="translated"><![CDATA[Überprüfen Sie die korrekte Schreibweise der URL und versuchen Sie es erneut.<br/>Gehen Sie zurück zum <a href=&quot;%dashboard%&quot;>Dashboard</a> oder <a href=&quot;%search%&quot;>suchen</a> Sie nach einem anderen Element.]]></target>
+        <target state="translated"><![CDATA[Überprüfen Sie die korrekte Schreibweise der URL und versuchen Sie es erneut.<br/>Gehen Sie zurück zum <a href="%dashboard%">Dashboard</a> oder <a href="%search%">suchen</a> Sie nach einem anderen Element.]]></target>
         <note>key: error.page.404.actions</note>
       </trans-unit>
       <trans-unit id="ffa7f20226d38a989f6c931264bd4cf485b435e6" resname="error.page.404.sub_title">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
         <source><![CDATA[Contact you Administrator to report the problem.<br/>Go back to the <a href="%dashboard%">dashboard</a> or reload the application.]]></source>
-        <target state="translated"><![CDATA[Wenden Sie sich an Ihren Administrator, um das Problem zu melden.<br/>Gehen Sie zurück zum <a href=&quot;%dashboard%&quot;>Dashboard</a> oder laden Sie die Anwendung neu.]]></target>
+        <target state="translated"><![CDATA[Wenden Sie sich an Ihren Administrator, um das Problem zu melden.<br/>Gehen Sie zurück zum <a href="%dashboard%">Dashboard</a> oder laden Sie die Anwendung neu.]]></target>
         <note>key: error.page.default.actions</note>
       </trans-unit>
       <trans-unit id="37404d823f9c9b5ee00f26e4783e5e98d2955750" resname="error.page.default.sub_title">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="63659642d9d91abcadbb45d00a12db2277ce53b5" resname="ezplatform.registration_confirmation.message">
         <source><![CDATA[Thank you for creating an account. You can now <a href="%login%">log in</a>]]></source>
-        <target state="translated"><![CDATA[Vielen Dank, dass Sie ein Konto erstellt haben. Sie können sich jetzt <a href=&quot;%login%&quot;>anmelden</a>]]></target>
+        <target state="translated"><![CDATA[Vielen Dank, dass Sie ein Konto erstellt haben. Sie können sich jetzt <a href="%login%">anmelden</a>]]></target>
         <note>key: ezplatform.registration_confirmation.message</note>
       </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
@@ -308,12 +308,12 @@
       </trans-unit>
       <trans-unit id="8359e9b6409139537d0eaeeacaedbc4d0912a105" resname="ezplatform.reset_user_password.link_is_not_valid">
         <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
-        <target state="translated"><![CDATA[Dieser Link ist nicht mehr gültig. Sie können <a href=&quot;%forgot_user_password%&quot;>einen neuen Link generieren</a>, um Ihr Passwort zurückzusetzen.]]></target>
+        <target state="translated"><![CDATA[Dieser Link ist nicht mehr gültig. Sie können <a href="%forgot_user_password%">einen neuen Link generieren</a>, um Ihr Passwort zurückzusetzen.]]></target>
         <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
       </trans-unit>
       <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
         <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to Ibexa DXP.]]></source>
-        <target state="translated"><![CDATA[Ihr Passwort wurde geändert. Sie können sich bei Ibexa DXP <a href=&quot;%login%&quot;>anmelden</a>.]]></target>
+        <target state="translated"><![CDATA[Ihr Passwort wurde geändert. Sie können sich bei Ibexa DXP <a href="%login%">anmelden</a>.]]></target>
         <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="bd5ae6bdfe2b60c317c3b47f27c5bf5a264b71ba" resname="fieldview.toggler.hide">

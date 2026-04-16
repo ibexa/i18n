@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="4a4508bc1cbfda6508f89b3e87a0be65e9fcbc16" resname="ibexa_storefront.product_card.price.title">
         <source><![CDATA[your price <span class="ibexa-store-price__price">%price%</span>]]></source>
-        <target state="translated"><![CDATA[Ihr Preis <span class=&quot;ibexa-store-price__price&quot;>%price%</span>]]></target>
+        <target state="translated"><![CDATA[Ihr Preis <span class="ibexa-store-price__price">%price%</span>]]></target>
         <note>key: ibexa_storefront.product_card.price.title</note>
       </trans-unit>
       <trans-unit id="3a4cbdea0d4c422ebc8089c06e6bbbc720887480" resname="ibexa_storefront.product_card.view_details_btn.label">
