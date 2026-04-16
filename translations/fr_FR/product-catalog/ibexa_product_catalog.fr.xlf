@@ -1608,7 +1608,7 @@
       </trans-unit>
       <trans-unit id="ce27b492ed52f5397041fb2f1154fa2a867aad93" resname="product.view.assets.actions.drag_drop.main_message">
         <source><![CDATA[Drag and drop image here or <br /><button type="button" class="ibexa-pc-product-assets-source__btn-add">Browse</button> to choose a file]]></source>
-        <target state="translated"><![CDATA[Glisser-déposer l’image ici ou <br /><button type=&quot;button&quot; class=&quot;ibexa-pc-product-assets-source__btn-add&quot;>Parcourir</button> pour choisir un fichier]]></target>
+        <target state="translated"><![CDATA[Glisser-déposer l’image ici ou <br /><button type="button" class="ibexa-pc-product-assets-source__btn-add">Parcourir</button> pour choisir un fichier]]></target>
         <note>key: product.view.assets.actions.drag_drop.main_message</note>
       </trans-unit>
       <trans-unit id="f2776b5c704f57e910345d13cae8c136b927095d" resname="product.view.assets.actions.drag_drop.max_filesize">
