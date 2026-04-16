@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
-  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="b67d8a40f95c77bdbc6e54dabf2dc417d5e2fa39" resname="Select accuracy">
-        <source>Select accuracy</source>
-        <target state="translated">Seleccionar precisión</target>
-        <note>key: Select accuracy</note>
+      <trans-unit id="da39a3ee5e6b4b0d3255bfef95601890afd80709" resname="">
+        <source />
+        <target state="new" />
+        <note>key: </note>
       </trans-unit>
       <trans-unit id="ae606b92d94db64caa93471524454c9a2235e98e" resname="ibexa.product_catalog.attribute.form.accuracy.day_eg_select_label">
         <source>Day (2020-01-01)</source>

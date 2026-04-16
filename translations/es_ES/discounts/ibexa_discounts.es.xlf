@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
-  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -16,15 +16,45 @@
         <target state="translated">Catálogo</target>
         <note>key: applies_to.type.catalog.label</note>
       </trans-unit>
+      <trans-unit id="b197ba0a0c0fb30686b004ff8b525a1aa6c62760" resname="create.wizard.create.cart.header">
+        <source>New cart discount</source>
+        <target state="translated">Nuevo descuento de carro</target>
+        <note>key: create.wizard.create.cart.header</note>
+      </trans-unit>
+      <trans-unit id="6b0b954695f5fb54221c810d41b4eaac1614925a" resname="create.wizard.create.catalog.header">
+        <source>New catalog discount</source>
+        <target state="translated">Nuevo descuento de catálogo</target>
+        <note>key: create.wizard.create.catalog.header</note>
+      </trans-unit>
+      <trans-unit id="5470adbbcebe3f811cf181cd3a46d8b6b51f5701" resname="create.wizard.create.default.header">
+        <source>New discount</source>
+        <target state="translated">Nuevo descuento</target>
+        <note>key: create.wizard.create.default.header</note>
+      </trans-unit>
       <trans-unit id="fef3674ca5d8ce950b156558b32cb6bb9467646d" resname="create.wizard.create.discount_will_start_as_soon_as_you_save_it.warning.text">
         <source>Your discount will start as soon as you click “Save and close” button. Make sure you scheduled the discount properly.</source>
         <target state="translated">Tu descuento empezará a tener validez en cuanto hagas clic en el botón «Guardar y cerrar». Asegúrate de programar el descuento correctamente.</target>
         <note>key: create.wizard.create.discount_will_start_as_soon_as_you_save_it.warning.text</note>
       </trans-unit>
-      <trans-unit id="92c634f579abfe35d1a489149a7e7c4e8b18b860" resname="create.wizard.create.header">
-        <source>New %discount_type% discount</source>
-        <target state="translated">Nuevo descuento del tipo %discount_type%</target>
-        <note>key: create.wizard.create.header</note>
+      <trans-unit id="ec1fc361bbcee70b1c0e571d95f193c6ace30614" resname="create.wizard.discount_rule_type.fixed_amount.label">
+        <source>fixed amount</source>
+        <target state="translated">importe fijo</target>
+        <note>key: create.wizard.discount_rule_type.fixed_amount.label</note>
+      </trans-unit>
+      <trans-unit id="e2463a8fb29c85037d9656deeff53b1451239f11" resname="create.wizard.discount_rule_type.percentage.label">
+        <source>percentage</source>
+        <target state="translated">porcentaje</target>
+        <note>key: create.wizard.discount_rule_type.percentage.label</note>
+      </trans-unit>
+      <trans-unit id="43c1eaeb26cf57715ea448edb951716538777e6d" resname="create.wizard.discount_type.cart.label">
+        <source>cart</source>
+        <target state="translated">carro</target>
+        <note>key: create.wizard.discount_type.cart.label</note>
+      </trans-unit>
+      <trans-unit id="c3f2a6ea5fff141091edb4b1d2c08347bd643877" resname="create.wizard.discount_type.catalog.label">
+        <source>catalog</source>
+        <target state="translated">catálogo</target>
+        <note>key: create.wizard.discount_type.catalog.label</note>
       </trans-unit>
       <trans-unit id="5c3a67e175a2524018f809aec1321b6c0ae612fd" resname="create.wizard.form.category_selector.tag.content.modal.confirm">
         <source>Select</source>
@@ -466,16 +496,6 @@
         <target state="translated">%product_code% (solo variantes: %product_variant_codes%)</target>
         <note>key: discount.summary.conditions.products.selected_products.variants</note>
       </trans-unit>
-      <trans-unit id="8506eb49ef8d6f8d465019346f97f197415f8649" resname="discount.translate.edit.header">
-        <source>Translating %discount_name% discount into %language_code%</source>
-        <target state="translated">Traduciendo el descuento %discount_name% a %language_code%</target>
-        <note>key: discount.translate.edit.header</note>
-      </trans-unit>
-      <trans-unit id="9031aabf8e2561a86bc39fb8992a143aaa285c24" resname="discount.translate.edit.title">
-        <source>Translate %discount_name% discount into %language_code%</source>
-        <target state="translated">Traducir el descuento %discount_name% a %language_code%</target>
-        <note>key: discount.translate.edit.title</note>
-      </trans-unit>
       <trans-unit id="ff30f476a0a8187f4e36aba01edcee28c6f12bf1" resname="discount.view.tab.authors.details.creator">
         <source>Creator</source>
         <target state="translated">Creador</target>
@@ -663,7 +683,7 @@
       </trans-unit>
       <trans-unit id="a0c1c16fec4dbe5c19b0ad96446a275806784693" resname="discount.view.tab.translations.list.column.code">
         <source xml:space="preserve">Language code	</source>
-        <target state="translated">Código de idioma	</target>
+        <target state="translated">Código de idioma</target>
         <note>key: discount.view.tab.translations.list.column.code</note>
       </trans-unit>
       <trans-unit id="23ad39c9001d2d2ba207b8d4e5cd116e2d9acb1f" resname="discount.view.tab.translations.list.column.name">
@@ -691,10 +711,20 @@
         <target state="translated">Productos (%count%)</target>
         <note>key: discounts.view.tab.products.list.headline</note>
       </trans-unit>
-      <trans-unit id="4a8e9bfd1ae820def599aaed4fa54b764b7d237d" resname="edit.wizard.edit.header">
+      <trans-unit id="07b2d58aa78c230fb1e718ec763996b41d684bd9" resname="edit.wizard.edit.cart.header">
         <source>Editing %discount_name% discount</source>
         <target state="translated">Editando el descuento %discount_name%</target>
-        <note>key: edit.wizard.edit.header</note>
+        <note>key: edit.wizard.edit.cart.header</note>
+      </trans-unit>
+      <trans-unit id="64784abde7e6acd2b319aa0384396f5cf7fdf954" resname="edit.wizard.edit.catalog.header">
+        <source>Editing %discount_name% discount</source>
+        <target state="translated">Editando el descuento %discount_name%</target>
+        <note>key: edit.wizard.edit.catalog.header</note>
+      </trans-unit>
+      <trans-unit id="f212aed15eeb33ba8d0db446b40d0ff2b60bbf9c" resname="edit.wizard.edit.default.header">
+        <source>Editing %discount_name% discount</source>
+        <target state="translated">Editando el descuento %discount_name%</target>
+        <note>key: edit.wizard.edit.default.header</note>
       </trans-unit>
       <trans-unit id="a564d443e3e7c59e26af32c31371c0a051435992" resname="edit.wizard.layout.title">
         <source>Edit %discount_name% discount</source>
@@ -801,16 +831,6 @@
         <target state="translated">Crear descuento</target>
         <note>key: ibexa.discounts.action.create.header</note>
       </trans-unit>
-      <trans-unit id="6161a3f307fdf8bb996f11d6b4bd7f5f93d4c956" resname="ibexa.discounts.edit_translation.discard_button.label">
-        <source>Discard</source>
-        <target state="translated">Descartar</target>
-        <note>key: ibexa.discounts.edit_translation.discard_button.label</note>
-      </trans-unit>
-      <trans-unit id="30a03f1e9643b4d534b0244161933c2106cfb246" resname="ibexa.discounts.edit_translation.save_button.label">
-        <source>Save and close</source>
-        <target state="translated">Guardar y cerrar</target>
-        <note>key: ibexa.discounts.edit_translation.save_button.label</note>
-      </trans-unit>
       <trans-unit id="7cb78cb759e3c8772a895f0e9a29841d2f78a02a" resname="modal.bulk_delete.discount.confirm_message">
         <source>Delete the selected discounts permanently?</source>
         <target state="translated">¿Eliminar los descuentos seleccionados de forma permanente?</target>
@@ -883,7 +903,7 @@
       </trans-unit>
       <trans-unit id="f2d2334074d731f6702aeb44aabe3c41ff992eef" resname="policy.limitation.discountowner.self">
         <source>Self</source>
-        <target state="translated">Ser</target>
+        <target state="translated">Este Usuario</target>
         <note>key: policy.limitation.discountowner.self</note>
       </trans-unit>
       <trans-unit id="d1b8c4b5f1920ea90e6b4e1376a3e8167f2ef21a" resname="tab.name.authors">
