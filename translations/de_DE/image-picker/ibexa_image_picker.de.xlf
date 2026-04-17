@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="not.available" target-language="de">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="b01a58cb9736974403f9f94ecce5180fb95a9627" resname="filters.apply">
         <source>Apply</source>
-        <target state="translated">Übernehmen</target>
+        <target state="translated">Anwenden</target>
         <note>key: filters.apply</note>
       </trans-unit>
       <trans-unit id="561bc96ad77fbf519000d0fa5e170d01b10c3de9" resname="filters.clear">
         <source>Clear</source>
-        <target state="translated">Filter entfernen</target>
+        <target state="translated">Löschen</target>
         <note>key: filters.clear</note>
       </trans-unit>
       <trans-unit id="09ac7f0777838ccac0648aceca785c8d896d3adf" resname="filters.created.from.label">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="59be3b57079e31795de81c41aad4f0bfe2014d48" resname="filters.orientation_and_dimensions.orientation.label">
         <source>Orientation</source>
-        <target state="translated">Orientierung</target>
+        <target state="translated">Ausrichtung</target>
         <note>key: filters.orientation_and_dimensions.orientation.label</note>
       </trans-unit>
       <trans-unit id="f9735bebd69025f7f76d82933d88982ab9a7a21d" resname="filters.orientation_and_dimensions.portrait.label">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="c2669a484aa17f96d972fd40cdbefe9e5d2cde67" resname="filters.orientation_and_dimensions.title">
         <source>Orientation and dimensions</source>
-        <target state="translated">Orientierung und Dimension</target>
+        <target state="translated">Ausrichtung und Abmessungen</target>
         <note>key: filters.orientation_and_dimensions.title</note>
       </trans-unit>
       <trans-unit id="4476ee05100dc070f487f11e9f91e417b8ba042f" resname="filters.orientation_and_dimensions.width.label">
@@ -108,27 +108,27 @@
       </trans-unit>
       <trans-unit id="9ec513700f55fd8f323738c7c76baa2b0847b6c3" resname="filters.tags.label">
         <source>Tags</source>
-        <target state="translated">Schlagworte</target>
+        <target state="translated">Tags</target>
         <note>key: filters.tags.label</note>
       </trans-unit>
       <trans-unit id="dfe3a7158e01da02bc0dfe357002def406425b8b" resname="filters.tags.no_tags.info">
         <source>If no tags available, you can’t use this filter.</source>
-        <target state="translated">Wenn keine Schlagworte verfügbar sind, kann dieser Filter nicht benutzt werden.</target>
+        <target state="translated">Wenn keine Tags vorhanden sind, können Sie diesen Filter nicht verwenden.</target>
         <note>key: filters.tags.no_tags.info</note>
       </trans-unit>
       <trans-unit id="6984b0d24e5754cfd7659ddd28fb19d1ee102c95" resname="filters.tags.placeholder">
         <source>Choose tags</source>
-        <target state="translated">Schlagworte auswählen</target>
+        <target state="translated">Tags auswählen</target>
         <note>key: filters.tags.placeholder</note>
       </trans-unit>
       <trans-unit id="148a19ce992ac6dfb29a81f9d4b1cca9c08782dd" resname="filters.tags.title">
         <source>Tags</source>
-        <target state="translated">Schlagworte</target>
+        <target state="translated">Tags</target>
         <note>key: filters.tags.title</note>
       </trans-unit>
       <trans-unit id="36ded7336444b1ecc68187be225a041e17eeb4b2" resname="filters.thumbnail">
         <source>Image library</source>
-        <target state="translated">Bildbibliothek</target>
+        <target state="translated">Bildarchiv</target>
         <note>key: filters.thumbnail</note>
       </trans-unit>
       <trans-unit id="d4243297721bb92848a26161f2effe427171e26f" resname="filters.title">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="23145c2e9118fbef1d39394281e099c9393746ef" resname="items_view.no_items.info_text">
         <source>No images yet</source>
-        <target state="translated">Bisher keine Bilder</target>
+        <target state="translated">Noch keine Bilder vorhanden</target>
         <note>key: items_view.no_items.info_text</note>
       </trans-unit>
       <trans-unit id="ef24aeea17c44a1a184ffae241036ded6170f8c8" resname="list_view.header.created">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="2851b2d273f0c99cf6e56dea6dbe7127f4b9d719" resname="list_view.header.dimensions">
         <source>Dimensions</source>
-        <target state="translated">Dimensionen</target>
+        <target state="translated">Abmessungen</target>
         <note>key: list_view.header.dimensions</note>
       </trans-unit>
       <trans-unit id="2dc1a006a2b794ef73db37ac588e7747f2e7c81d" resname="list_view.header.file_format">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="0ccf757794cf80d03dec7594b2d01f1b6067736b" resname="root_location.fake_name">
         <source>Location</source>
-        <target state="translated">Ort</target>
+        <target state="translated">Standort</target>
         <note>key: root_location.fake_name</note>
       </trans-unit>
       <trans-unit id="5fc82ecbc048b1d8a97bc7561dee6e75e697a6cb" resname="snackbar.actions.delete.label">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="1340bba4cd3bdde315d894117e694d5a9f27aeaf" resname="snackbar.actions.download.error_msg">
         <source>Can't download content. Try again later</source>
-        <target state="translated">Inhalt kann nicht heruntergeladen werden. Versuchen Sie es später erneut</target>
+        <target state="translated">Inhalt kann nicht heruntergeladen werden. Versuchen Sie es später noch einmal</target>
         <note>key: snackbar.actions.download.error_msg</note>
       </trans-unit>
       <trans-unit id="95f2efddc83cab21b518f85291b39efb26f328a6" resname="snackbar.actions.download.label">
@@ -278,7 +278,7 @@
       </trans-unit>
       <trans-unit id="2a49288d694aa6f10e0a618d6ecef4defac3a83c" resname="snackbar.actions.edit.error_msg">
         <source>Can't edit content. Try again later</source>
-        <target state="translated">Inhalt kann nicht bearbeitet werden. Versuchen Sie es später erneut</target>
+        <target state="translated">Inhalt kann nicht bearbeitet werden. Versuchen Sie es später noch einmal</target>
         <note>key: snackbar.actions.edit.error_msg</note>
       </trans-unit>
       <trans-unit id="e9542cc525f93179a47d447b200df2e2991b2abe" resname="snackbar.actions.edit.label">
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="279bfbc81b83bff551268a0188c424d50de4a0f8" resname="snackbar.selected.multi_select_hint">
         <source>Some options aren’t available for multi-select</source>
-        <target state="translated">Einige Optionen sind für Mehrfachauswahl nicht verfügbar</target>
+        <target state="translated">Einige Optionen sind nicht für Mehrfachauswahl verfügbar</target>
         <note>key: snackbar.selected.multi_select_hint</note>
       </trans-unit>
       <trans-unit id="1bfde9e3ad8b3f5e1d21625b3208bafcd9cee82f" resname="top_bar.bookmarks_tab.title">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="a4b16c26cb1349d85fd849abedb5d4e4b921b4ce" resname="tree.empty">
         <source>Your tree is empty.</source>
-        <target state="translated">Ihr Inhaltsbaum ist leer.</target>
+        <target state="translated">Ihr Baum ist leer.</target>
         <note>key: tree.empty</note>
       </trans-unit>
       <trans-unit id="fa3343511877e1da963d8d45983250f0245eca04" resname="tree_browser.create_btn.title">
@@ -353,7 +353,7 @@
       </trans-unit>
       <trans-unit id="f4f2d0db0a15be834cf5ce04161a4ecf5192533e" resname="tree_browser.module_name">
         <source>Image picker folders browser</source>
-        <target state="translated">Ordner für Bildauswahl durchsuchen</target>
+        <target state="translated">Ordner-Browser für Bildauswahl</target>
         <note>key: tree_browser.module_name</note>
       </trans-unit>
       <trans-unit id="358c5d28e8b7ad188b38ef07468c578baf772d2e" resname="tree_browser.title">

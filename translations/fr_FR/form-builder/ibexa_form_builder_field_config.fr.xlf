@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="f57e38069445fdec820e61935325ba944c1c8fe4" resname="discard">
         <source>Discard</source>
-        <target state="translated">Annuler</target>
+        <target state="translated">Abandonner</target>
         <note>key: discard</note>
       </trans-unit>
       <trans-unit id="3fa4054f214f0f8063d8fb4453be65d460e3e30c" resname="submit">
         <source>Submit</source>
-        <target state="translated">Valider</target>
+        <target state="translated">Envoyer</target>
         <note>key: submit</note>
       </trans-unit>
       <trans-unit id="dcb7d5c604f93fdc65aa4b1ff853e8ed27237f45" resname="tab.label.basic">
         <source>Basic</source>
-        <target state="translated">Paramètres de base</target>
+        <target state="translated">Basique</target>
         <note>key: tab.label.basic</note>
       </trans-unit>
       <trans-unit id="8bbcc0286c89c85d59df306c295b2b287e291f3f" resname="tab.label.validation">
@@ -35,6 +35,21 @@
         <source>Allowed file extensions</source>
         <target state="translated">Extensions de fichier autorisées</target>
         <note>key: validation.extensions</note>
+      </trans-unit>
+      <trans-unit id="eaba89c07e532457fd12b37c320c9d7368a272d1" resname="validation.is_not_blank_message_action">
+        <source>The message to display cannot be empty.</source>
+        <target state="translated">Le message à afficher ne peut pas être vide.</target>
+        <note>key: validation.is_not_blank_message_action</note>
+      </trans-unit>
+      <trans-unit id="dace53eab26a470218051d194aa8becf37558419" resname="validation.is_not_empty_redirect_action">
+        <source>The content item cannot be empty.</source>
+        <target state="translated">L’élément de contenu ne peut pas être vide.</target>
+        <note>key: validation.is_not_empty_redirect_action</note>
+      </trans-unit>
+      <trans-unit id="9ffc2ec3d66625d1d75f930a1be88165c4f449e1" resname="validation.is_not_empty_url_redirect_action">
+        <source>The redirection URL cannot be empty.</source>
+        <target state="translated">L’URL de redirection ne peut pas être vide.</target>
+        <note>key: validation.is_not_empty_url_redirect_action</note>
       </trans-unit>
       <trans-unit id="9b033fb98a8e288c0dfe93e430257b03e72d6d34" resname="validation.max_choices">
         <source>Maximum number of choices</source>
@@ -68,17 +83,17 @@
       </trans-unit>
       <trans-unit id="059a5d6429f8ce5f9f766c16f60a3da4e186a724" resname="validation.regex">
         <source>Regular expression pattern</source>
-        <target state="translated">Expression régulière</target>
+        <target state="translated">Modèle d’expression régulière</target>
         <note>key: validation.regex</note>
       </trans-unit>
       <trans-unit id="3b06b5fa4ba9d5a6b4c5efb7f585ae8fb98289b3" resname="validation.required">
         <source>Required</source>
-        <target state="translated">Obligatoire</target>
+        <target state="translated">Requis</target>
         <note>key: validation.required</note>
       </trans-unit>
       <trans-unit id="eb6eb4abe8b098eeb00ee553334a75fab1641bb5" resname="validation.upload_size">
         <source>Maximum allowed file size (MB)</source>
-        <target state="translated">Taille maximale de fichier (MB)</target>
+        <target state="translated">Taille de fichier maximale (Mo)</target>
         <note>key: validation.upload_size</note>
       </trans-unit>
     </body>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="147fd163949ff088f31b6cfca13eeb6cfa474101" resname="form.validate.error.public.access">
         <source>Please add a correct public access</source>
-        <target state="translated">Veuillez ajouter un accès public</target>
+        <target state="translated">Veuillez ajouter un accès public correct</target>
         <note>key: form.validate.error.public.access</note>
       </trans-unit>
       <trans-unit id="7e0434aa2c4a65dd83160b9c9bf0fe9d7493eae2" resname="select_location.label">
         <source>Choose Location</source>
-        <target state="translated">Choisir l'emplacement</target>
+        <target state="translated">Choisir un emplacement</target>
         <note>key: select_location.label</note>
       </trans-unit>
     </body>

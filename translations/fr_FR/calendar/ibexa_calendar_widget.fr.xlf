@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -13,17 +13,17 @@
       </trans-unit>
       <trans-unit id="7d5ef25bcc86308de6f09962dec8215a07dfa65c" resname="calendar.date_paginator.today">
         <source>Today</source>
-        <target state="translated">Aujourd'hui</target>
+        <target state="translated">Aujourd’hui</target>
         <note>key: calendar.date_paginator.today</note>
       </trans-unit>
       <trans-unit id="59e3fee84c10074047b8a01c191da2a07438a14e" resname="calendar.deselect_all">
         <source>Deselect all</source>
-        <target state="translated">Tout déselectionner</target>
+        <target state="translated">Tout désélectionner</target>
         <note>key: calendar.deselect_all</note>
       </trans-unit>
       <trans-unit id="71ed1d8df1592110b83f6375575fe9503dcc85d8" resname="calendar.expand.sidebar">
         <source>Expand sidebar</source>
-        <target state="translated">Étendre la barre latérale</target>
+        <target state="translated">Développer la barre latérale</target>
         <note>key: calendar.expand.sidebar</note>
       </trans-unit>
       <trans-unit id="e93e7556391e67ee7308e321a271d224c6bdf58b" resname="calendar.filters.all_langauges">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="110bbf5f9c0aaf33a13cc2d1a974dd1e27a84d62" resname="calendar.headline">
         <source>Scheduled content</source>
-        <target state="translated">Contenu planifié</target>
+        <target state="translated">Contenu programmé</target>
         <note>key: calendar.headline</note>
       </trans-unit>
       <trans-unit id="b7dfa1703967ef01984afceb4e9a4736bfd4da4b" resname="calendar.list_view.action_message">
         <source>To continue, click 'Refresh list'. The selected list will update and the new item will be added to the list</source>
-        <target state="translated">Pour continuer, cliquez sur 'Rafraîchir la liste'. La liste sélectionnée sera mise à jour et le nouvel élément sera ajouté à la liste</target>
+        <target state="translated">Pour continuer, cliquez sur « Actualiser la liste ». La liste sélectionnée sera mise à jour et le nouvel élément sera ajouté à la liste</target>
         <note>key: calendar.list_view.action_message</note>
       </trans-unit>
       <trans-unit id="64d3a43bd33767824e15aad2cf7c193be3dbf845" resname="calendar.list_view.no_events">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="899ff3697336ae3d29665eab91848c0681cc8a6b" resname="calendar.load_more_btn.label">
         <source>Load More</source>
-        <target state="translated">Afficher Plus</target>
+        <target state="translated">Charger plus</target>
         <note>key: calendar.load_more_btn.label</note>
       </trans-unit>
       <trans-unit id="af4ae109d8c31844dd30577e77d6e9ee215c1939" resname="calendar.remove">
@@ -88,27 +88,27 @@
       </trans-unit>
       <trans-unit id="e6314c23a986620cf4c604c71b6ebc2f754d6a2b" resname="calendar.selection_confirmation_popup.message">
         <source>This event has different actions from the items currently selected in the list.</source>
-        <target state="translated">Cet événement a des actions différentes des éléments actuellement sélectionnés dans la liste.</target>
+        <target state="translated">Les actions de cet événement ne correspondent pas aux éléments actuellement sélectionnés dans la liste.</target>
         <note>key: calendar.selection_confirmation_popup.message</note>
       </trans-unit>
       <trans-unit id="dedc7ac32bb555c7a8ed92826303ca781c4ce676" resname="calendar.selection_confirmation_popup.no_events">
         <source>Conflict when selecting items</source>
-        <target state="translated">Conflit lors de la sélection d'éléments</target>
+        <target state="translated">Conflit lors de la sélection des éléments</target>
         <note>key: calendar.selection_confirmation_popup.no_events</note>
       </trans-unit>
       <trans-unit id="92e5329083074b289431bee769ff041949acac0e" resname="calendar.selection_sidebar.selected_info">
         <source>selected</source>
-        <target state="translated">sélectionné</target>
+        <target state="translated">sélectionnés</target>
         <note>key: calendar.selection_sidebar.selected_info</note>
       </trans-unit>
       <trans-unit id="4fbdf7c460a141ceeacf83df5e20dcc84c019f95" resname="calendar.time_pm_symbol">
         <source>PM</source>
-        <target state="translated">Après-midi</target>
+        <target state="translated">PM</target>
         <note>key: calendar.time_pm_symbol</note>
       </trans-unit>
       <trans-unit id="07d8842da3d9fe4c5c1564d18415e12cbcc0e626" resname="calendar.tooltips.backward">
         <source>Backward</source>
-        <target state="translated">En arrière</target>
+        <target state="translated">Reculer</target>
         <note>key: calendar.tooltips.backward</note>
       </trans-unit>
       <trans-unit id="faeb6e1b3f9b7027db26a9f89d57d8f227d6c272" resname="calendar.tooltips.forward">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="553de375ac66858a59570a5f46a1767bbcf44ec4" resname="view_toggler.view">
         <source>View</source>
-        <target state="translated">Affichage</target>
+        <target state="translated">Vue</target>
         <note>key: view_toggler.view</note>
       </trans-unit>
     </body>

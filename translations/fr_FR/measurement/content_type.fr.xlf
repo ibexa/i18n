@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="0f48418fc0f28490e24e8f95083e6b2df3786966" resname="field_definition.ibexa_measurement.measurement_input_type">
         <source>Input Type</source>
-        <target state="translated">Type de champ</target>
+        <target state="translated">Type de saisie</target>
         <note>key: field_definition.ibexa_measurement.measurement_input_type</note>
       </trans-unit>
       <trans-unit id="fda0aaa81dc79a71fca3284291433ee3d366a973" resname="field_definition.ibexa_measurement.measurement_input_type.value.range">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="192af71075c37719fdd26a30c1e536b1a9b60aad" resname="field_definition.ibexa_measurement.measurement_input_type.value.simple">
         <source>Simple Input</source>
-        <target state="translated">Champ simple</target>
+        <target state="translated">Saisie simple</target>
         <note>key: field_definition.ibexa_measurement.measurement_input_type.value.simple</note>
       </trans-unit>
       <trans-unit id="3357035ab76b1dc59b9640878df01920509f7800" resname="field_definition.ibexa_measurement.measurement_sign">
@@ -48,22 +48,22 @@
       </trans-unit>
       <trans-unit id="98fe5cd54903d29fb1c4901b288f0ed26a024bb6" resname="field_definition.ibexa_measurement.measurement_sign.value.gt">
         <source><![CDATA[> greater than]]></source>
-        <target state="translated"><![CDATA[> (supérieur à)]]></target>
+        <target state="translated"><![CDATA[> supérieur à]]></target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.gt</note>
       </trans-unit>
       <trans-unit id="d756b9e2c92ff95381e7ebd0c10385394b4330a0" resname="field_definition.ibexa_measurement.measurement_sign.value.gte">
         <source>≥ greater than or equal to</source>
-        <target state="translated">≥ (supérieur ou égal)</target>
+        <target state="translated">≥ supérieur ou égal à</target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.gte</note>
       </trans-unit>
       <trans-unit id="b1871008b3cad47a3776440e76f83b62a5e328a3" resname="field_definition.ibexa_measurement.measurement_sign.value.lt">
         <source><![CDATA[< less than]]></source>
-        <target state="translated"><![CDATA[< (inférieur à)]]></target>
+        <target state="translated"><![CDATA[< inférieur à]]></target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.lt</note>
       </trans-unit>
       <trans-unit id="7d6bab04f37a015b3cd49b796fd91ebd6d018db9" resname="field_definition.ibexa_measurement.measurement_sign.value.lte">
         <source>≤ less than or equal to</source>
-        <target state="translated">≤ (inférieur ou égal)</target>
+        <target state="translated">≤ inférieur ou égal à</target>
         <note>key: field_definition.ibexa_measurement.measurement_sign.value.lte</note>
       </trans-unit>
       <trans-unit id="c665f2a1e5cf2ba3dbc062911f38dcd9ccce7a2f" resname="field_definition.ibexa_measurement.measurement_sign.value.none">

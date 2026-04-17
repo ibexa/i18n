@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="34a44ca5a04b672701b17d1833449abde0baaca2" resname="Email '%email%' is used by another user. You must enter a unique email.">
         <source>Email '%email%' is used by another user. You must enter a unique email.</source>
-        <target state="translated">Die E-Mail '%email%' wird von einem anderen Benutzer verwendet. Sie müssen eine eindeutige E-Mail eingeben.</target>
+        <target state="translated">Die E-Mail-Adresse „%email%“ wird von einem anderen Benutzer verwendet. Sie müssen eine eindeutige E-Mail-Adresse eingeben.</target>
         <note>key: Email '%email%' is used by another user. You must enter a unique email.</note>
       </trans-unit>
       <trans-unit id="1480c7daa5480187c7ead1e35005a77592d283da" resname="Invalid login format.">
         <source>Invalid login format.</source>
-        <target state="translated">Ungültige Format für den Benutzernamen.</target>
+        <target state="translated">Ungültiges Anmeldeformat.</target>
         <note>key: Invalid login format.</note>
       </trans-unit>
       <trans-unit id="ebc14cb83d0a7c93f869de82c4fbfce05c9b208a" resname="User login '%login%' already in use. Enter a unique login.">
         <source>User login '%login%' already in use. Enter a unique login.</source>
-        <target state="translated">Benutzername '%login%' wird bereits verwendet. Geben Sie einen eindeutigen Benutzernamen ein.</target>
+        <target state="translated">Der Benutzername „%login%“ wird bereits verwendet. Geben Sie einen eindeutigen Benutzernamen ein.</target>
         <note>key: User login '%login%' already in use. Enter a unique login.</note>
       </trans-unit>
       <trans-unit id="f37f4d7e6f9d0b9af0015333361c595e4419b507" resname="content.field_type.passwords_must_match">
         <source>Passwords do not match.</source>
-        <target state="translated">Passwörter stimmen nicht überein.</target>
+        <target state="translated">Die Passwörter stimmen nicht überein.</target>
         <note>key: content.field_type.passwords_must_match</note>
       </trans-unit>
     </body>

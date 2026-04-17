@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -42,7 +42,7 @@
         <note>key: ibexa.fieldtype_page.block.banner.name</note>
       </trans-unit>
       <trans-unit id="44b4a616f512ddaa64a43464a1301ceff901bfc9" resname="ibexa.fieldtype_page.block.category.default">
-        <source>Default</source>
+        <source>default</source>
         <target state="translated">Standard</target>
         <note>key: ibexa.fieldtype_page.block.category.default</note>
       </trans-unit>
@@ -188,27 +188,27 @@
       </trans-unit>
       <trans-unit id="a076902011701514e528979b37c43de1874ed0be" resname="item.unselect_all">
         <source>Unselect all</source>
-        <target state="translated">Alle abwählen</target>
+        <target state="translated">Auswahl für alle aufheben</target>
         <note>key: item.unselect_all</note>
       </trans-unit>
       <trans-unit id="c4e31f9ecf2ec3e3387e0f0e39e0bf6da6119d72" resname="landing_page_ft.block_id_fetch.failed">
         <source>Unable to fetch block with ID "%blockId%"</source>
-        <target state="translated">Block mit ID "%blockId% " kann nicht abgerufen werden</target>
+        <target state="translated">Block mit ID „%blockId%“ kann nicht abgerufen werden</target>
         <note>key: landing_page_ft.block_id_fetch.failed</note>
       </trans-unit>
       <trans-unit id="2e3afabe437a888c663498e7bb86dba37c35fdcd" resname="landingpage.no_preview">
         <source>To get preview, choose site context and go to "View" tab or click the "Preview" button.</source>
-        <target state="translated">Um eine Vorschau zu erhalten, wählen Sie den Seitenkontext und gehen Sie zum "Ansicht"-Tab oder klicken Sie auf "Vorschau".</target>
+        <target state="translated">Um eine Vorschau zu erhalten, wählen Sie den Site Kontext und gehen Sie auf die Registerkarte „Ansicht“ oder klicken Sie auf die Schaltfläche „Vorschau“.</target>
         <note>key: landingpage.no_preview</note>
       </trans-unit>
       <trans-unit id="3260a01f8efbce6ccf489c4e3052e65accc2091d" resname="landingpage.unavailable_preview">
         <source>Preview isn't available.</source>
-        <target state="translated">Die Vorschau ist nicht verfügbar.</target>
+        <target state="translated">Vorschau ist nicht verfügbar.</target>
         <note>key: landingpage.unavailable_preview</note>
       </trans-unit>
       <trans-unit id="4e6b467aeed03b748276c99091952733f2ab538c" resname="layouts.select_layouts">
         <source>Select layouts</source>
-        <target state="translated">Layout auswählen</target>
+        <target state="translated">Layouts auswählen</target>
         <note>key: layouts.select_layouts</note>
       </trans-unit>
     </body>

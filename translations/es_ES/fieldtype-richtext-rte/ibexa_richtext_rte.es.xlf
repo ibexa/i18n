@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="8acf375d67248252443fd92439faeb42988c3927" resname="field_type_rich_text_rte.notification.tos_in_grace_period">
+        <source>Real-Time Collaboration service is only available after accepting Terms and Conditions. You're within the grace period. There are %days_left% days remaining before the new Terms license must be accepted.</source>
+        <target state="translated">El servicio de colaboración en tiempo real solo estará disponible tras aceptar los términos y condiciones. Te encuentras dentro del periodo de gracia. Quedan %days_left% días para que se acepte la nueva licencia de Términos.</target>
+        <note>key: field_type_rich_text_rte.notification.tos_in_grace_period</note>
+      </trans-unit>
+      <trans-unit id="70001b862f46d796973cec76afb1dbf43edc80bc" resname="field_type_rich_text_rte.notification.tos_not_accepted">
+        <source>Grace period expired and Real-Time Collaboration service has been deactivated. To enable the service, new Terms and Conditions must be accepted.</source>
+        <target state="translated">El periodo de gracia ha caducado y el servicio de colaboración en tiempo real se ha desactivado. Para habilitar el servicio, deben aceptarse los nuevos términos y condiciones.</target>
+        <note>key: field_type_rich_text_rte.notification.tos_not_accepted</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

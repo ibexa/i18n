@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="7097c09e36067bb7d7c3b53aa21fca21a89e030c" resname="add.field.group">
         <source>Add</source>
-        <target state="needs-translation">Add</target>
+        <target state="translated">Hinzufügen</target>
         <note>key: add.field.group</note>
       </trans-unit>
       <trans-unit id="256dfe3478991ae080ce94b03e7a05d0eeba10f3" resname="delete.field.group">
         <source>Delete</source>
-        <target state="needs-translation">Delete</target>
+        <target state="translated">Löschen</target>
         <note>key: delete.field.group</note>
       </trans-unit>
     </body>

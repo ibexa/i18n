@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="156d23476b96e60b4846e482b9fed9de01d7b102" resname="shopping_list.at_least_one_true">
+        <source>At least one value must be selected.</source>
+        <target state="translated">Mindestens ein Wert muss ausgewählt werden.</target>
+        <note>key: shopping_list.at_least_one_true</note>
+      </trans-unit>
+      <trans-unit id="58e9a8995fef3edb3827ae6bf9b75fb0cb1c5009" resname="shopping_list.default_list.cannot_have_stored_name">
+        <source>Default shopping list cannot have a custom name</source>
+        <target state="translated">Die Standard-Einkaufsliste kann keinen eigenen Namen haben</target>
+        <note>key: shopping_list.default_list.cannot_have_stored_name</note>
+      </trans-unit>
+      <trans-unit id="8d03e06401d1b071fc8ceaa428eb6ea42db27571" resname="shopping_list.entry.product_code.already_in_list">
+        <source>Product "{{ code }}" is already in the shopping list.</source>
+        <target state="translated">Das Produkt „{{ code }}“ ist bereits in der Einkaufsliste.</target>
+        <note>key: shopping_list.entry.product_code.already_in_list</note>
+      </trans-unit>
+      <trans-unit id="5e1c1149fe62b91a08e137170c48df25f4181f91" resname="shopping_list.entry.product_code.duplicate_in_batch">
+        <source>Product code "{{ code }}" appears multiple times in the request.</source>
+        <target state="translated">Der Produktcode „{{ code }}“ kommt mehrfach in der Anfrage vor.</target>
+        <note>key: shopping_list.entry.product_code.duplicate_in_batch</note>
+      </trans-unit>
+      <trans-unit id="4cd7bb1ca9db5b6ff82815acf1bf308a3d6ab1f1" resname="shopping_list.entry.product_code.max_length">
+        <source>Product code cannot be longer than {{ limit }} characters.</source>
+        <target state="translated">Der Produktcode darf nicht länger als {{ limit }} Zeichen sein.</target>
+        <note>key: shopping_list.entry.product_code.max_length</note>
+      </trans-unit>
+      <trans-unit id="e1a1d045f984ef3ee2ea6e80e2bc06c55182cad8" resname="shopping_list.entry.product_code.not_blank">
+        <source>Product code is required.</source>
+        <target state="translated">Produktcode ist erforderlich.</target>
+        <note>key: shopping_list.entry.product_code.not_blank</note>
+      </trans-unit>
+      <trans-unit id="764cdd171a4b229360bb9f05848bbcee46fc4221" resname="shopping_list.entry.product_code.not_found">
+        <source>Product code is invalid.</source>
+        <target state="translated">Produktcode ist ungültig.</target>
+        <note>key: shopping_list.entry.product_code.not_found</note>
+      </trans-unit>
+      <trans-unit id="179515453545edc7bcee21ce549912cf5d4a83fe" resname="shopping_list.name.max_length">
+        <source>Shopping list name cannot be longer than {{ limit }} characters.</source>
+        <target state="translated">Der Name der Einkaufsliste darf nicht länger als {{ limit }} Zeichen sein.</target>
+        <note>key: shopping_list.name.max_length</note>
+      </trans-unit>
+      <trans-unit id="2a7415a23dbe7a774c79cf3799f3083b93e23ac7" resname="shopping_list.name.not_blank">
+        <source>Shopping list name is required.</source>
+        <target state="translated">Name der Einkaufsliste ist erforderlich.</target>
+        <note>key: shopping_list.name.not_blank</note>
+      </trans-unit>
+      <trans-unit id="97a32f4244157a2ced774376ef132935222dbfd7" resname="shopping_list.non_default_list.must_have_name">
+        <source>Non-default shopping list must have a name</source>
+        <target state="translated">Nicht-Standard-Einkaufslisten müssen einen Namen haben</target>
+        <note>key: shopping_list.non_default_list.must_have_name</note>
+      </trans-unit>
+      <trans-unit id="523769414bf9800549861d92789a83e23804a374" resname="shopping_list.owner.cannot_be_anonymous">
+        <source>Shopping lists cannot be created by anonymous users</source>
+        <target state="translated">Einkaufslisten können nicht von anonymen Benutzern erstellt werden</target>
+        <note>key: shopping_list.owner.cannot_be_anonymous</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="eb6b86434a36f71198b3d783c75748b43b1e1785" resname="policy.limitation.identifier.applicationstate">
         <source>Application State</source>
-        <target state="needs-translation">Application State</target>
+        <target state="translated">Status der Bewerbung</target>
         <note>key: policy.limitation.identifier.applicationstate</note>
       </trans-unit>
     </body>

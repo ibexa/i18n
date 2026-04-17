@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="15c3ffad9d90e7d492d275a9ea05ecdcdedaace5" resname="role.policy.personalization">
         <source>Personalization</source>
-        <target state="needs-translation">Personalization</target>
+        <target state="translated">Personalisierung</target>
         <note>key: role.policy.personalization</note>
       </trans-unit>
       <trans-unit id="8adcce777544fc53bd13ae39edf718d764867cc2" resname="role.policy.personalization.all_functions">
         <source>Personalization / All functions</source>
-        <target state="needs-translation">Personalization / All functions</target>
+        <target state="translated">Personalisierung / Alle Funktionen</target>
         <note>key: role.policy.personalization.all_functions</note>
       </trans-unit>
       <trans-unit id="47b6be1f552d856d8dbea0a9956632d310887e11" resname="role.policy.personalization.edit">
         <source>Personalization / Edit</source>
-        <target state="needs-translation">Personalization / Edit</target>
+        <target state="translated">Personalisierung / Bearbeiten</target>
         <note>key: role.policy.personalization.edit</note>
       </trans-unit>
       <trans-unit id="bef74c3cccc66abd5825c05aa8f58b020270197f" resname="role.policy.personalization.view">
         <source>Personalization / View</source>
-        <target state="needs-translation">Personalization / View</target>
+        <target state="translated">Personalisierung / Anzeigen</target>
         <note>key: role.policy.personalization.view</note>
       </trans-unit>
     </body>

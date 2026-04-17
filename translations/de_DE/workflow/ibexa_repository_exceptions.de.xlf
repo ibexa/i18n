@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="7a7405685df5867f47f62e28c5daca8c3bfed806" resname="Stage '%stageName%' in Workflow '%workflowName%' does not exist">
+        <source>Stage '%stageName%' in Workflow '%workflowName%' does not exist</source>
+        <target state="translated">Phase „%stageName%“ im Workflow „%workflowName%“ existiert nicht</target>
+        <note>key: Stage '%stageName%' in Workflow '%workflowName%' does not exist</note>
+      </trans-unit>
+      <trans-unit id="02e16f0497e97ae4919108d986b36abe6dd1c0b2" resname="Transition '%transitionName%' in Workflow '%workflowName%' does not exist">
+        <source>Transition '%transitionName%' in Workflow '%workflowName%' does not exist</source>
+        <target state="translated">Übergang „%transitionName%“ im Workflow „%workflowName%“ existiert nicht</target>
+        <note>key: Transition '%transitionName%' in Workflow '%workflowName%' does not exist</note>
+      </trans-unit>
       <trans-unit id="052696d7bef6d8f4db1a3989bbcfe6c2a226ef2d" resname="Version is assigned to another user (%name%) since %modified%.">
         <source>Version is assigned to another user (%name%) since %modified%.</source>
-        <target state="needs-translation">Version is assigned to another user (%name%) since %modified%.</target>
+        <target state="translated">Die Version ist seit %name% einem anderen Benutzer (%modified%) zugewiesen.</target>
         <note>key: Version is assigned to another user (%name%) since %modified%.</note>
+      </trans-unit>
+      <trans-unit id="677ac1799ba679f6f645ed641e4460d34d6e86a5" resname="Workflow '%workflowName%' does not exist">
+        <source>Workflow '%workflowName%' does not exist</source>
+        <target state="translated">Workflow „%workflowName%“ existiert nicht</target>
+        <note>key: Workflow '%workflowName%' does not exist</note>
       </trans-unit>
     </body>
   </file>

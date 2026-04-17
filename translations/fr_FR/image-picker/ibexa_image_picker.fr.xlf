@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="not.available" target-language="fr">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="138ce0b75542326362a35095ffb9e240dc159a6e" resname="actions.create_content" approved="yes">
+      <trans-unit id="138ce0b75542326362a35095ffb9e240dc159a6e" resname="actions.create_content">
         <source>Create</source>
-        <target state="final">Créer</target>
+        <target state="translated">Créer</target>
         <note>key: actions.create_content</note>
       </trans-unit>
       <trans-unit id="4b5c0572b0e3fe492853d73e4edcdaf84daa6570" resname="actions.rename_content">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="be435384d872f33ab91c61df5b0e95dcaefedfa3" resname="filters.created.title">
         <source>Created</source>
-        <target state="translated">Créé</target>
+        <target state="translated">Créée</target>
         <note>key: filters.created.title</note>
       </trans-unit>
       <trans-unit id="b3c5eb00e03ed439e84f3d627684c45b02baa645" resname="filters.created.to.label">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="2daa2bee77a723d6e8d4a0ed7a95f8d2b9bc281e" resname="filters.file_size.label">
         <source>File size</source>
-        <target state="translated">Taille du fichier</target>
+        <target state="translated">Taille de fichier</target>
         <note>key: filters.file_size.label</note>
       </trans-unit>
       <trans-unit id="e39f3837e618903bf10af197b73e218ca7754246" resname="filters.format_and_size.title">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="bcdeb44b35c9b4d0f9b364b1b659c3dd6de493fe" resname="filters.orientation_and_dimensions.squarish.label">
         <source>Squarish</source>
-        <target state="translated">Carré</target>
+        <target state="translated">Carrée</target>
         <note>key: filters.orientation_and_dimensions.squarish.label</note>
       </trans-unit>
       <trans-unit id="c2669a484aa17f96d972fd40cdbefe9e5d2cde67" resname="filters.orientation_and_dimensions.title">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="4476ee05100dc070f487f11e9f91e417b8ba042f" resname="filters.orientation_and_dimensions.width.label">
         <source>Width</source>
-        <target state="translated">Largeur </target>
+        <target state="translated">Largeur</target>
         <note>key: filters.orientation_and_dimensions.width.label</note>
       </trans-unit>
       <trans-unit id="9ec513700f55fd8f323738c7c76baa2b0847b6c3" resname="filters.tags.label">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="dfe3a7158e01da02bc0dfe357002def406425b8b" resname="filters.tags.no_tags.info">
         <source>If no tags available, you can’t use this filter.</source>
-        <target state="translated">Si aucun tag disponible, vous ne pouvez pas utiliser ce filtre.</target>
+        <target state="translated">Vous ne pouvez pas utiliser ce filtre si aucun tag n’est disponible.</target>
         <note>key: filters.tags.no_tags.info</note>
       </trans-unit>
       <trans-unit id="6984b0d24e5754cfd7659ddd28fb19d1ee102c95" resname="filters.tags.placeholder">
         <source>Choose tags</source>
-        <target state="translated">Choisir un tag</target>
+        <target state="translated">Choisir des tags</target>
         <note>key: filters.tags.placeholder</note>
       </trans-unit>
       <trans-unit id="148a19ce992ac6dfb29a81f9d4b1cca9c08782dd" resname="filters.tags.title">
@@ -128,12 +128,12 @@
       </trans-unit>
       <trans-unit id="36ded7336444b1ecc68187be225a041e17eeb4b2" resname="filters.thumbnail">
         <source>Image library</source>
-        <target state="translated">Bibliothèque d'images</target>
+        <target state="translated">Bibliothèque d’images</target>
         <note>key: filters.thumbnail</note>
       </trans-unit>
-      <trans-unit id="d4243297721bb92848a26161f2effe427171e26f" resname="filters.title" approved="yes">
+      <trans-unit id="d4243297721bb92848a26161f2effe427171e26f" resname="filters.title">
         <source>Filters</source>
-        <target state="final">Filtres</target>
+        <target state="translated">Filtres</target>
         <note>key: filters.title</note>
       </trans-unit>
       <trans-unit id="c75b636a5f9877b8f9e4ab63f0b4ae202f2cf555" resname="filters.translations.title">
@@ -148,27 +148,27 @@
       </trans-unit>
       <trans-unit id="4b986e04c80b6e809895353ccfd4a1da8cb813e8" resname="image_picker_bookmarks.module.label">
         <source>Bookmarks</source>
-        <target state="translated">Favoris</target>
+        <target state="translated">Signets</target>
         <note>key: image_picker_bookmarks.module.label</note>
       </trans-unit>
       <trans-unit id="8550aacbecc32b8a8e9c2c300385feebb7ca0f16" resname="image_picker_bookmarks.module.no_items.action_text">
         <source>All bookmarked assets will appear here.</source>
-        <target state="translated">Tous les éléments favoris apparaîtront ici.</target>
+        <target state="translated">Tous les actifs enregistrés dans les signets apparaîtront ici.</target>
         <note>key: image_picker_bookmarks.module.no_items.action_text</note>
       </trans-unit>
       <trans-unit id="ea90570c74c548a827f091a0d36ca96d67e6ede1" resname="image_picker_bookmarks.module.no_items.info_text">
         <source>No bookmarks yet</source>
-        <target state="translated">Aucun favori pour le moment</target>
+        <target state="translated">Aucun signet pour le moment</target>
         <note>key: image_picker_bookmarks.module.no_items.info_text</note>
       </trans-unit>
       <trans-unit id="8539831cc2e86f6f8509c0e58293d4486144af97" resname="items_view.no_items.action_text">
         <source>Drag and drop files here to upload or click the Upload button.</source>
-        <target state="translated">Glissez et déposez des fichiers ici pour télécharger ou cliquez sur le bouton de téléchargement.</target>
+        <target state="translated">Glissez-déposez des fichiers ici pour les télécharger ou cliquez sur le bouton Télécharger.</target>
         <note>key: items_view.no_items.action_text</note>
       </trans-unit>
       <trans-unit id="23145c2e9118fbef1d39394281e099c9393746ef" resname="items_view.no_items.info_text">
         <source>No images yet</source>
-        <target state="translated">Aucune image pour l'instant</target>
+        <target state="translated">Aucune image pour l’instant</target>
         <note>key: items_view.no_items.info_text</note>
       </trans-unit>
       <trans-unit id="ef24aeea17c44a1a184ffae241036ded6170f8c8" resname="list_view.header.created">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="dcd4dc5b019b01d0c8d3fd4d6af70c83d46dc323" resname="list_view.header.thumbnail">
         <source>Thumbnail</source>
-        <target state="translated">Vignette</target>
+        <target state="translated">Miniature</target>
         <note>key: list_view.header.thumbnail</note>
       </trans-unit>
       <trans-unit id="ad0d3e1ff872d7fcbbc7bfe77b68b4cee774e137" resname="list_view.header.updated">
@@ -218,12 +218,12 @@
       </trans-unit>
       <trans-unit id="7109c10980f87068707bf90ffa8c2f1d98cadd62" resname="quick_actions.validation_msgs.fetch_content_type_error">
         <source>An error occurred while fetching Content Type. Try again later</source>
-        <target state="translated">Une erreur est survenue lors de la récupération du type de contenu. Réessayez plus tard</target>
+        <target state="translated">Une erreur s’est produite lors de la récupération du type de contenu. Réessayez plus tard</target>
         <note>key: quick_actions.validation_msgs.fetch_content_type_error</note>
       </trans-unit>
       <trans-unit id="a10f7c6bdde990828717726672ea12a4dc564de8" resname="quick_actions.validation_msgs.move_destination_error">
         <source>Can’t move %names%. Drop into a different location.</source>
-        <target state="translated">Impossible de déplacer %names%. Déposez dans un autre endroit.</target>
+        <target state="translated">Impossible de déplacer %names%. Déposez-le à un autre emplacement.</target>
         <note>key: quick_actions.validation_msgs.move_destination_error</note>
       </trans-unit>
       <trans-unit id="b098f07a95055ff070284f3fd646021f0242c703" resname="quick_actions.validation_msgs.move_error">
@@ -246,14 +246,14 @@
         <target state="translated">Supprimer</target>
         <note>key: snackbar.actions.delete.label</note>
       </trans-unit>
-      <trans-unit id="9fbf13a9e1771dfa24b2d8b323b00f2e8c9e9358" resname="snackbar.actions.delete.popup.cancel_label" approved="yes">
+      <trans-unit id="9fbf13a9e1771dfa24b2d8b323b00f2e8c9e9358" resname="snackbar.actions.delete.popup.cancel_label">
         <source>Cancel</source>
-        <target state="final">Annuler</target>
+        <target state="translated">Annuler</target>
         <note>key: snackbar.actions.delete.popup.cancel_label</note>
       </trans-unit>
-      <trans-unit id="2a42e138fd7d3f95bb1e6a84d949f6bdbeacf16d" resname="snackbar.actions.delete.popup.confirmation_label" approved="yes">
+      <trans-unit id="2a42e138fd7d3f95bb1e6a84d949f6bdbeacf16d" resname="snackbar.actions.delete.popup.confirmation_label">
         <source>Confirm</source>
-        <target state="final">Confirmer</target>
+        <target state="translated">Confirmer</target>
         <note>key: snackbar.actions.delete.popup.confirmation_label</note>
       </trans-unit>
       <trans-unit id="1340bba4cd3bdde315d894117e694d5a9f27aeaf" resname="snackbar.actions.download.error_msg">
@@ -288,47 +288,47 @@
       </trans-unit>
       <trans-unit id="5880e787869209bcafc9e8a387904da625766d81" resname="snackbar.actions.error_msgs.delete_error">
         <source>Can’t delete. Try again later.</source>
-        <target state="translated">Impossible de supprimer. Réessayez plus tard.</target>
+        <target state="translated">Suppression impossible. Réessayez plus tard.</target>
         <note>key: snackbar.actions.error_msgs.delete_error</note>
       </trans-unit>
       <trans-unit id="3acade3aa700dc8a8ad4ca7329c0be1dee36dcd6" resname="snackbar.actions.error_msgs.duplicate_error">
         <source>Can’t duplicate. Try again later.</source>
-        <target state="translated">Impossible de dupliquer. Réessayez plus tard.</target>
+        <target state="translated">Duplication impossible. Réessayez plus tard.</target>
         <note>key: snackbar.actions.error_msgs.duplicate_error</note>
       </trans-unit>
       <trans-unit id="d287db70521023f78beaedc96ff7106339168a9c" resname="snackbar.actions.insert.label">
         <source>Insert</source>
-        <target state="translated">Ajouter</target>
+        <target state="translated">Insérer</target>
         <note>key: snackbar.actions.insert.label</note>
       </trans-unit>
       <trans-unit id="66b6dbd325ff6fefcdc057851f5ced71bdb6b415" resname="snackbar.actions.move_to_trash.popup.confirmation_msg">
         <source>Are you sure you want do send this Content item to Trash?</source>
-        <target state="translated">Êtes-vous sûr de vouloir déplacer cet élément de contenu vers la corbeille ?</target>
+        <target state="translated">Voulez-vous vraiment mettre cet élément de contenu dans la corbeille ?</target>
         <note>key: snackbar.actions.move_to_trash.popup.confirmation_msg</note>
       </trans-unit>
       <trans-unit id="077f87495a663237db7dfb2a5d88669dbcd47c89" resname="snackbar.actions.popup.cancel_label">
         <source>Discard</source>
-        <target state="translated">Annuler</target>
+        <target state="translated">Abandonner</target>
         <note>key: snackbar.actions.popup.cancel_label</note>
       </trans-unit>
       <trans-unit id="6625bfe1a246cdaa925ef3f13eb7bcf6bce972d6" resname="snackbar.actions.popup.confirm_label">
         <source>Save and close</source>
-        <target state="translated">Sauvegarder et fermer</target>
+        <target state="translated">Enregistrer et fermer</target>
         <note>key: snackbar.actions.popup.confirm_label</note>
       </trans-unit>
       <trans-unit id="1f0ad2d58cedd79dcb2dd91a4ab6618e9a3dc8cd" resname="snackbar.actions.select_all.label">
         <source>Select all</source>
-        <target state="translated">Sélectionner tout</target>
+        <target state="translated">Tout sélectionner</target>
         <note>key: snackbar.actions.select_all.label</note>
       </trans-unit>
       <trans-unit id="6f0a4bae5a5f005db453500551cd562d0c1fa8c6" resname="snackbar.actions.unselect_all.label">
         <source>Unselect all</source>
-        <target state="translated">Désélectionner tout</target>
+        <target state="translated">Tout désélectionner</target>
         <note>key: snackbar.actions.unselect_all.label</note>
       </trans-unit>
       <trans-unit id="d7ebb1e7bf0cedcd11fec7ea0de8c779918e7688" resname="snackbar.selected.label">
         <source>Selected</source>
-        <target state="translated">Sélectionné</target>
+        <target state="translated">Sélectionnée</target>
         <note>key: snackbar.selected.label</note>
       </trans-unit>
       <trans-unit id="279bfbc81b83bff551268a0188c424d50de4a0f8" resname="snackbar.selected.multi_select_hint">
@@ -338,7 +338,7 @@
       </trans-unit>
       <trans-unit id="1bfde9e3ad8b3f5e1d21625b3208bafcd9cee82f" resname="top_bar.bookmarks_tab.title">
         <source>Bookmarks</source>
-        <target state="translated">Favoris</target>
+        <target state="translated">Signets</target>
         <note>key: top_bar.bookmarks_tab.title</note>
       </trans-unit>
       <trans-unit id="a4b16c26cb1349d85fd849abedb5d4e4b921b4ce" resname="tree.empty">
@@ -348,12 +348,12 @@
       </trans-unit>
       <trans-unit id="fa3343511877e1da963d8d45983250f0245eca04" resname="tree_browser.create_btn.title">
         <source>Create %contentTypeName% inside %rootLocationName%</source>
-        <target state="translated">Créer un %contentTypeName% dans %rootLocationName%</target>
+        <target state="translated">Créer %contentTypeName% dans %rootLocationName%</target>
         <note>key: tree_browser.create_btn.title</note>
       </trans-unit>
       <trans-unit id="f4f2d0db0a15be834cf5ce04161a4ecf5192533e" resname="tree_browser.module_name">
         <source>Image picker folders browser</source>
-        <target state="translated">Navigateur de dossiers de sélecteur d'images</target>
+        <target state="translated">Navigateur de dossiers du sélecteur d’images</target>
         <note>key: tree_browser.module_name</note>
       </trans-unit>
       <trans-unit id="358c5d28e8b7ad188b38ef07468c578baf772d2e" resname="tree_browser.title">
@@ -368,12 +368,12 @@
       </trans-unit>
       <trans-unit id="193d58a61e04c3cef23665e876aa2534828430d0" resname="view_switcher.list_view">
         <source>List view</source>
-        <target state="translated">Affichage liste</target>
+        <target state="translated">Vue liste</target>
         <note>key: view_switcher.list_view</note>
       </trans-unit>
       <trans-unit id="75247b44eb33fe5c35d9b5d8770bd76a15be7747" resname="view_switcher.view">
         <source>View</source>
-        <target state="translated">Affichage</target>
+        <target state="translated">Vue</target>
         <note>key: view_switcher.view</note>
       </trans-unit>
     </body>

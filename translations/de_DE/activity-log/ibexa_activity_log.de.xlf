@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="fdff40b80c0f846760cc5b63a680521b3b944184" resname="activity_log.list.data_grid.search">
         <source>Search...</source>
-        <target state="translated">Suche ...</target>
+        <target state="translated">Suche ...</target>
         <note>key: activity_log.list.data_grid.search</note>
       </trans-unit>
       <trans-unit id="6f3c3cb487badbd44cf203ae8ea74c7d97d25657" resname="activity_log.toggle_gouped_logs_btn.label">
@@ -283,12 +283,12 @@
       </trans-unit>
       <trans-unit id="3cb56140bb2e0ee1fad2c401c66fd7ef1ccb8855" resname="ibexa.activity_log.search_form.time.any">
         <source>Any time (max. 30 days)</source>
-        <target state="translated">Zu jeder Zeit (max. 30 Tage)</target>
+        <target state="translated">Jederzeit (max. 30 Tage)</target>
         <note>key: ibexa.activity_log.search_form.time.any</note>
       </trans-unit>
       <trans-unit id="1f077a17f1fa868b078d726844a267157af151cf" resname="ibexa.activity_log.search_form.time.last_24_hours">
         <source>Last 24h</source>
-        <target state="translated">Letzte 24h</target>
+        <target state="translated">Letzte 24 Std.</target>
         <note>key: ibexa.activity_log.search_form.time.last_24_hours</note>
       </trans-unit>
       <trans-unit id="c4e3d063361a3f92744b5b0878fb0ef1f257bb3a" resname="ibexa.activity_log.search_form.time.last_week">

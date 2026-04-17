@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="30ebdcd0b49a220b9e85513aefe6a32223f654a9" resname="role.policy.cart">
         <source>Cart</source>
-        <target state="translated">Warenkorb</target>
+        <target state="translated">Einkaufswagen</target>
         <note>key: role.policy.cart</note>
       </trans-unit>
       <trans-unit id="b1f1f7be06ef147d8341c73826b3d1d4287a5768" resname="role.policy.cart.all_functions">
         <source>Cart / All functions</source>
-        <target state="translated">Url / Alle Funktionen</target>
+        <target state="translated">Einkaufswagen / Alle Funktionen</target>
         <note>key: role.policy.cart.all_functions</note>
       </trans-unit>
       <trans-unit id="7657c6424e32d5b678147afb09c6376eba9bbdb2" resname="role.policy.cart.create">
         <source>Cart / Create</source>
-        <target state="translated">Warenkorb / Erstellen</target>
+        <target state="translated">Einkaufswagen / Erstellen</target>
         <note>key: role.policy.cart.create</note>
       </trans-unit>
       <trans-unit id="f0cc423af9445423bdea96a3d3ac9d26c6f21ca3" resname="role.policy.cart.delete">
         <source>Cart / Delete</source>
-        <target state="translated">Warenkorb / Löschen</target>
+        <target state="translated">Einkaufswagen / Löschen</target>
         <note>key: role.policy.cart.delete</note>
       </trans-unit>
       <trans-unit id="f8035d30e965222a22e1189cb5b0f1ef0682f70b" resname="role.policy.cart.edit">
         <source>Cart / Edit</source>
-        <target state="translated">Warenkorb / Bearbeiten</target>
+        <target state="translated">Einkaufswagen / Bearbeiten</target>
         <note>key: role.policy.cart.edit</note>
       </trans-unit>
       <trans-unit id="48177c92c5985050a4bac9a54de504e7e448b487" resname="role.policy.cart.view">
         <source>Cart / View</source>
-        <target state="translated">Url / Ansicht</target>
+        <target state="translated">Einkaufswagen / Anzeigen</target>
         <note>key: role.policy.cart.view</note>
       </trans-unit>
     </body>

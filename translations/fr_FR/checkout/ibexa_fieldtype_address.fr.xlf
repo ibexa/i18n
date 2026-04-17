@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="7aa133159f6d2dcda0b032ebe24c04ac38e6b93c" resname="field_definition.ibexa_address.type.billing">
         <source>Billing</source>
-        <target state="needs-translation">Billing</target>
+        <target state="translated">Facturation</target>
         <note>key: field_definition.ibexa_address.type.billing</note>
       </trans-unit>
       <trans-unit id="befc44b835418b68d3b33f9ec43843006e273d3f" resname="field_definition.ibexa_address.type.shipping">
         <source>Shipping</source>
-        <target state="needs-translation">Shipping</target>
+        <target state="translated">Expédition</target>
         <note>key: field_definition.ibexa_address.type.shipping</note>
       </trans-unit>
     </body>

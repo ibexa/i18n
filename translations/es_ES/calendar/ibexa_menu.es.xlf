@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="e7d1ba8bafa1211bdc61b33930ac95ff5a39db0b" resname="main__content__calendar">
         <source>Calendar</source>
-        <target state="needs-translation">Calendar</target>
+        <target state="translated">Calendario</target>
         <note>key: main__content__calendar</note>
       </trans-unit>
     </body>

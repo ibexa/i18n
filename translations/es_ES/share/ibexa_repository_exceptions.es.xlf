@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="9cd8f529f18553d88fe780afd6241c3975515bdb" resname="limitationValues contains invalid value '%value%'. Allowed value is '%allowed_value%'">
+        <source>limitationValues contains invalid value '%value%'. Allowed value is '%allowed_value%'</source>
+        <target state="translated">limitationValues contiene un valor no válido '%value%'. El valor permitido es '%allowed_value%'</target>
+        <note>key: limitationValues contains invalid value '%value%'. Allowed value is '%allowed_value%'</note>
+      </trans-unit>
+      <trans-unit id="3bd2296eb5519b219ff962d5d30212b02655be0d" resname="limitationValues['value'] has invalid value '%value%'. Allowed values are: '%allowed_values%'">
+        <source>limitationValues['value'] has invalid value '%value%'. Allowed values are: '%allowed_values%'</source>
+        <target state="translated">limitationValues['value'] tiene un valor no válido '%value%'. Los valores permitidos son: '%allowed_values%'</target>
+        <note>key: limitationValues['value'] has invalid value '%value%'. Allowed values are: '%allowed_values%'</note>
+      </trans-unit>
+      <trans-unit id="9fb7388668c164eb4d9719b330f7bb7669c04020" resname="limitationValues['value'] is missing.">
+        <source>limitationValues['value'] is missing.</source>
+        <target state="translated">Falta limitationValues['value'].</target>
+        <note>key: limitationValues['value'] is missing.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="171ad35c73c746821f56d7e160c0f98461dc339a" resname="url_management.breadcrumb.list">
         <source>URL management</source>
-        <target state="translated">URL-Verwaltung</target>
+        <target state="translated">URL-Management</target>
         <note>key: url_management.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="6ab1e93c76514fa2c2c2cbeefb382925870f7062" resname="url_management.view.list.title">
         <source>URL management</source>
-        <target state="translated">URL-Verwaltung</target>
+        <target state="translated">URL-Management</target>
         <note>key: url_management.view.list.title</note>
       </trans-unit>
     </body>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="8780aec37e31dcde3140a08b3a435e1bc99b7520" resname="role.policy.content.share">
+        <source>Content / Share</source>
+        <target state="translated">Contenido/Compartir</target>
+        <note>key: role.policy.content.share</note>
+      </trans-unit>
+      <trans-unit id="484d533b2e8f9090878a87002b1bfe3799fab272" resname="role.policy.product.share">
+        <source>Product / Share</source>
+        <target state="translated">Producto/Compartir</target>
+        <note>key: role.policy.product.share</note>
+      </trans-unit>
+      <trans-unit id="4db84e4df637c1d31da50a3dda4b9dcf14c3f82e" resname="role.policy.share">
+        <source>Share</source>
+        <target state="translated">Compartir</target>
+        <note>key: role.policy.share</note>
+      </trans-unit>
+      <trans-unit id="16cb669ad866efd3639f749914f44f254fc59fd0" resname="role.policy.share.all_functions">
+        <source>All functions</source>
+        <target state="translated">Todas las funciones</target>
+        <note>key: role.policy.share.all_functions</note>
+      </trans-unit>
+      <trans-unit id="9ca2275a561a531d60f648f91904c7af6efc70ea" resname="role.policy.share.owner">
+        <source>Owner</source>
+        <target state="translated">Propietario</target>
+        <note>key: role.policy.share.owner</note>
+      </trans-unit>
+      <trans-unit id="90d5e672e7b6aab9ef09f994f89729561aa74a2f" resname="role.policy.share.public_link">
+        <source>Public link</source>
+        <target state="translated">Enlace público</target>
+        <note>key: role.policy.share.public_link</note>
+      </trans-unit>
+      <trans-unit id="30df1e8374fbbd1ca0030fcf08bf2f835c545f2b" resname="role.policy.share.scope">
+        <source>Scope</source>
+        <target state="translated">Permisos</target>
+        <note>key: role.policy.share.scope</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

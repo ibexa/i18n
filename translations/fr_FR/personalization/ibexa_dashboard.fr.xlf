@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,8 +8,13 @@
     <body>
       <trans-unit id="b66f736c979029c79cfdd36ce27f4e0974109369" resname="blocks._all_.no_permissions.body">
         <source>You don't have permissions to view this block</source>
-        <target state="translated">Vous n'avez pas les permissions pour voir ce bloc</target>
+        <target state="translated">Vous n’êtes pas autorisé à voir ce bloc</target>
         <note>key: blocks._all_.no_permissions.body</note>
+      </trans-unit>
+      <trans-unit id="7abfc0a8a8b47b40e48b4f78f58a587eb45766d1" resname="dashboard.top_clicked_items">
+        <source>Top 10 clicked items</source>
+        <target state="translated">Les 10 éléments ayant généré le plus de clics</target>
+        <note>key: dashboard.top_clicked_items</note>
       </trans-unit>
     </body>
   </file>

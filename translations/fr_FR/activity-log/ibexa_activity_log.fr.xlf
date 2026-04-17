@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
   <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0c9ed2188f411559d7fe335adb29758d59e7d515" resname="activity_log.block.all_activity">
         <source>View all activities</source>
-        <target state="translated">Voir toute l'activité</target>
+        <target state="translated">Afficher toutes les activités</target>
         <note>key: activity_log.block.all_activity</note>
       </trans-unit>
       <trans-unit id="dafa6d445294473603590f1b910c53f2f4220d13" resname="activity_log.block.empty.action_text">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="ae2ef7407bac8708164c3ca64efd5c85f58784ee" resname="activity_log.block.show_more">
         <source>Show more</source>
-        <target state="translated">Voir plus</target>
+        <target state="translated">Afficher plus</target>
         <note>key: activity_log.block.show_more</note>
       </trans-unit>
       <trans-unit id="84b81445c7c75563e8676f8636ca868dc6ae7caa" resname="activity_log.block.title">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="0d80c8ddb974a86173619883aa07d43845627d9a" resname="activity_log.block.today_label">
         <source>Today</source>
-        <target state="translated">Aujourd'hui</target>
+        <target state="translated">Aujourd’hui</target>
         <note>key: activity_log.block.today_label</note>
       </trans-unit>
       <trans-unit id="6c255472bc267c64323ded73b0f6d2949f36d047" resname="activity_log.data_grid.actions.create_content_label">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="a63c4a43f832e9aa1beaf732b0d026a692840f92" resname="activity_log.data_grid.actions.create_draft_label">
         <source>created draft</source>
-        <target state="translated">Brouillon créé</target>
+        <target state="translated">brouillon créé</target>
         <note>key: activity_log.data_grid.actions.create_draft_label</note>
       </trans-unit>
       <trans-unit id="aeeb1de82af2a039caf3bb38cccc1de66b7e16ee" resname="activity_log.data_grid.actions.delete_label">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="372b1dfa847c6d8748736c7aafdd37d8695acbba" resname="activity_log.data_grid.actions.delete_translation_label">
         <source>deleted translation</source>
-        <target state="translated">Traductions supprimées</target>
+        <target state="translated">traduction supprimée</target>
         <note>key: activity_log.data_grid.actions.delete_translation_label</note>
       </trans-unit>
       <trans-unit id="0fdd2e594ebc19a34fb3049f67bd0f39ebd037b4" resname="activity_log.data_grid.actions.hide_label">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="8f4180d6c2e764eb3aa23e267b03f7ab41caa39c" resname="activity_log.data_grid.actions.move_label">
         <source>moved</source>
-        <target state="translated">déplacé</target>
+        <target state="translated">déplacée</target>
         <note>key: activity_log.data_grid.actions.move_label</note>
       </trans-unit>
       <trans-unit id="35b5080619ad43d5fe9bcdd10f174da662b0a147" resname="activity_log.data_grid.actions.publish_label">
@@ -78,27 +78,27 @@
       </trans-unit>
       <trans-unit id="98d7b4bd917096f694b07161f742f7e6fbbc8ee0" resname="activity_log.data_grid.actions.restore_label">
         <source>restored</source>
-        <target state="translated">restauré</target>
+        <target state="translated">rétablie</target>
         <note>key: activity_log.data_grid.actions.restore_label</note>
       </trans-unit>
       <trans-unit id="061d0e1ad97a8fa3d517ae09c13947cdf3ed8155" resname="activity_log.data_grid.actions.reveal_label">
         <source>revealed</source>
-        <target state="translated">Révélé</target>
+        <target state="translated">rendue visible</target>
         <note>key: activity_log.data_grid.actions.reveal_label</note>
       </trans-unit>
       <trans-unit id="6ecae8c7f09cac02dc31c72ceb6e1acfb05a75d9" resname="activity_log.data_grid.actions.swap_label">
         <source>swapped</source>
-        <target state="translated">échangé</target>
+        <target state="translated">permutée</target>
         <note>key: activity_log.data_grid.actions.swap_label</note>
       </trans-unit>
       <trans-unit id="1857c05f3d5b64f33e210ad9ee18e5fc84bed7ea" resname="activity_log.data_grid.actions.trash_label">
         <source>trashed</source>
-        <target state="translated">mis à la corbeille</target>
+        <target state="translated">mise à la corbeille</target>
         <note>key: activity_log.data_grid.actions.trash_label</note>
       </trans-unit>
       <trans-unit id="6cac4189565d0d861bc44ad8f70cb814098fa898" resname="activity_log.data_grid.actions.update_label">
         <source>updated</source>
-        <target state="translated">mis à jour</target>
+        <target state="translated">mise à jour</target>
         <note>key: activity_log.data_grid.actions.update_label</note>
       </trans-unit>
       <trans-unit id="524ef31cbfead0d1d92ad8d67b308c6d4ab01075" resname="activity_log.data_grid.in_label">
@@ -108,37 +108,37 @@
       </trans-unit>
       <trans-unit id="3954fce7d905f6afd6aae0861721e282e782e33b" resname="activity_log.data_grid.today_label">
         <source>Today</source>
-        <target state="translated">Aujourd'hui</target>
+        <target state="translated">Aujourd’hui</target>
         <note>key: activity_log.data_grid.today_label</note>
       </trans-unit>
       <trans-unit id="3a2ba7e4a53619b23e7a0fbd476d3fc365f3462f" resname="activity_log.events_list.no_events">
         <source>There are no events yet.</source>
-        <target state="translated">Il n'y a pas encore d'événements.</target>
+        <target state="translated">Il n’existe aucun événement pour le moment.</target>
         <note>key: activity_log.events_list.no_events</note>
       </trans-unit>
       <trans-unit id="bc7ace07eaa8633e0dd3d07013475b289528fe5e" resname="activity_log.events_list.search.no_results.hint.check_spelling">
         <source>Check the spelling of keywords.</source>
-        <target state="translated">Vérifiez l'orthographe des mots-clés.</target>
+        <target state="translated">Vérifiez l’orthographe des mots-clés.</target>
         <note>key: activity_log.events_list.search.no_results.hint.check_spelling</note>
       </trans-unit>
       <trans-unit id="a4be8177bb45cb491cdc771e1e41e63e5a52670a" resname="activity_log.events_list.search.no_results.hint.different_kewords">
         <source>Try different keywords.</source>
-        <target state="translated">Essayez des mots clés différents.</target>
+        <target state="translated">Essayez d’autres mots-clés.</target>
         <note>key: activity_log.events_list.search.no_results.hint.different_kewords</note>
       </trans-unit>
       <trans-unit id="33a64e2f439bfd75fc6c93a602648834b2d3b9f4" resname="activity_log.events_list.search.no_results.hint.fewer_keywords">
         <source>Try fewer keywords. Reducing keywords results in more matches.</source>
-        <target state="translated">Essayez avec moins de mots clés. Réduire le nombre de mots clés peut générer plus de résultats.</target>
+        <target state="translated">Essayez d’utiliser moins de mots-clés. Limitez le nombre de mots-clés pour obtenir plus de résultats.</target>
         <note>key: activity_log.events_list.search.no_results.hint.fewer_keywords</note>
       </trans-unit>
       <trans-unit id="50c9432e9a1f3bf2d23cb64203f97edd489c08ba" resname="activity_log.events_list.search.no_results.hint.more_general">
         <source>Try more general keywords.</source>
-        <target state="translated">Essayez des mots-clés plus généraux.</target>
+        <target state="translated">Essayez d’utiliser des mots-clés plus génériques.</target>
         <note>key: activity_log.events_list.search.no_results.hint.more_general</note>
       </trans-unit>
       <trans-unit id="705a460e10ddd40d454963fac5103e4009af37eb" resname="activity_log.events_list.search.no_results.title">
         <source>No results found for "%query%"</source>
-        <target state="translated">Aucun résultat trouvé pour "%query%"</target>
+        <target state="translated">Aucun résultat trouvé pour « %query% »</target>
         <note>key: activity_log.events_list.search.no_results.title</note>
       </trans-unit>
       <trans-unit id="82385ff04eacf8417212c5d82efd0e5867861538" resname="activity_log.filters.apply">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="c2fa4347959b6170728bec8b95fef0247ba7a297" resname="activity_log.limitation.activity_log.limitation.self">
         <source>Only own logs</source>
-        <target state="translated">Seulement les propres logs</target>
+        <target state="translated">Mes propres journaux uniquement</target>
         <note>key: activity_log.limitation.activity_log.limitation.self</note>
       </trans-unit>
       <trans-unit id="fdff40b80c0f846760cc5b63a680521b3b944184" resname="activity_log.list.data_grid.search">
@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="6f3c3cb487badbd44cf203ae8ea74c7d97d25657" resname="activity_log.toggle_gouped_logs_btn.label">
         <source>Show more</source>
-        <target state="translated">Voir plus</target>
+        <target state="translated">Afficher plus</target>
         <note>key: activity_log.toggle_gouped_logs_btn.label</note>
       </trans-unit>
       <trans-unit id="4c79e275f1f129502c8dd02c97034e14032724fe" resname="ibexa.activity_log.search_form.action.copy">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="368685b87a5816440634bb7936f6e5c1c5ae51c6" resname="ibexa.activity_log.search_form.object_class.product_variant">
         <source>Product variant</source>
-        <target state="translated">Variante du produit</target>
+        <target state="translated">Variante de produit</target>
         <note>key: ibexa.activity_log.search_form.object_class.product_variant</note>
       </trans-unit>
       <trans-unit id="36d5168656037435ffe40f91873914fb1615d7c5" resname="ibexa.activity_log.search_form.object_class.site">

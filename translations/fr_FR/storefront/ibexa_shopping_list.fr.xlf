@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="67ed2de239ca1c0397eb4c7f4a5050c496ac21e9" resname="add_to_shopping_list.add_to_list_btn.label">
+        <source>Add to list</source>
+        <target state="translated">Ajouter à la liste</target>
+        <note>key: add_to_shopping_list.add_to_list_btn.label</note>
+      </trans-unit>
+      <trans-unit id="a7b08c6bc0a8c69b6f59059899ffd55fd5f676f1" resname="add_to_shopping_list.max_number_of_entries.message">
+        <source>You’ve reached the maximum number of products in this list. Remove one of your existing products to add new.</source>
+        <target state="translated">Vous avez atteint le nombre maximal de produits dans cette liste. Supprimez un produit existant pour en ajouter un nouveau.</target>
+        <note>key: add_to_shopping_list.max_number_of_entries.message</note>
+      </trans-unit>
+      <trans-unit id="bf5abf588bad854fc78dff96efb255fef503faea" resname="shopping_list.add_to_cart.no_entries_selected">
+        <source>Please select at least one item to add to cart</source>
+        <target state="translated">Veuillez sélectionner au moins un article à ajouter au panier</target>
+        <note>key: shopping_list.add_to_cart.no_entries_selected</note>
+      </trans-unit>
+      <trans-unit id="06cafda04a66d82a27e7b576b231ec8b78ebde57" resname="shopping_lists_list.default.badge">
+        <source>(default)</source>
+        <target state="translated">(par défaut)</target>
+        <note>key: shopping_lists_list.default.badge</note>
+      </trans-unit>
+      <trans-unit id="7b2bcd7c4571371cf3991b916550772f0590b6c9" resname="shopping_lists_list.no_create_new_list_permissions.message">
+        <source>No permissions to create a new list.</source>
+        <target state="translated">Aucune autorisation pour créer une nouvelle liste.</target>
+        <note>key: shopping_lists_list.no_create_new_list_permissions.message</note>
+      </trans-unit>
+      <trans-unit id="e9bed73c4151db50f1bfd19649f94afedefec9d9" resname="shopping_lists_list.shopping_list_limit_reached.message">
+        <source>Shopping lists limit reached.</source>
+        <target state="translated">Limite de listes d’achats atteinte.</target>
+        <note>key: shopping_lists_list.shopping_list_limit_reached.message</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

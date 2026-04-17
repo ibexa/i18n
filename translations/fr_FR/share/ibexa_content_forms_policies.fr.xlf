@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="ad3110bc376be8ae5f9952d501f357d95f78ee45" resname="ibexa.share.limitation.public_link.options.off">
+        <source>Off</source>
+        <target state="translated">Désactivé</target>
+        <note>key: ibexa.share.limitation.public_link.options.off</note>
+      </trans-unit>
+      <trans-unit id="c6eebe709b6fc222d5767df594f4e78a86a28454" resname="ibexa.share.limitation.public_link.options.on">
+        <source>On</source>
+        <target state="translated">Activé</target>
+        <note>key: ibexa.share.limitation.public_link.options.on</note>
+      </trans-unit>
+      <trans-unit id="c3925bb7e91ecf9d07bf10dc0b28721de084d821" resname="ibexa.share.limitation.scope.edit">
+        <source>Edit</source>
+        <target state="translated">Modifier</target>
+        <note>key: ibexa.share.limitation.scope.edit</note>
+      </trans-unit>
+      <trans-unit id="e96a427356ffc6c29432831c1ca75dcf4c99aa45" resname="ibexa.share.limitation.scope.view">
+        <source>View</source>
+        <target state="translated">Vue</target>
+        <note>key: ibexa.share.limitation.scope.view</note>
+      </trans-unit>
+      <trans-unit id="63c6128cb6af2b7c27397291416187fbd19fc06b" resname="policy.limitation.identifier.share_owner">
+        <source>Owner</source>
+        <target state="translated">Propriétaire</target>
+        <note>key: policy.limitation.identifier.share_owner</note>
+      </trans-unit>
+      <trans-unit id="2d17fb6580c549ef97388a35f6eaa407c5f17f3e" resname="policy.limitation.identifier.share_public_link">
+        <source>Public link</source>
+        <target state="translated">Lien public</target>
+        <note>key: policy.limitation.identifier.share_public_link</note>
+      </trans-unit>
+      <trans-unit id="5bfc28b06455983b0266effbd35f2816e29fa351" resname="policy.limitation.identifier.share_scope">
+        <source>Scope</source>
+        <target state="translated">Portée</target>
+        <note>key: policy.limitation.identifier.share_scope</note>
+      </trans-unit>
+      <trans-unit id="b5d7a763995ee800475385ab7b53dd2a59c1b481" resname="policy.limitation.share_owner.self">
+        <source>Self</source>
+        <target state="translated">Soi-même</target>
+        <note>key: policy.limitation.share_owner.self</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
