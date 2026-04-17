@@ -683,7 +683,7 @@
       </trans-unit>
       <trans-unit id="a0c1c16fec4dbe5c19b0ad96446a275806784693" resname="discount.view.tab.translations.list.column.code">
         <source xml:space="preserve">Language code	</source>
-        <target xml:space="preserve" state="new">Language code	</target>
+        <target xml:space="preserve" state="translated">Código de idioma	</target>
         <note>key: discount.view.tab.translations.list.column.code</note>
       </trans-unit>
       <trans-unit id="23ad39c9001d2d2ba207b8d4e5cd116e2d9acb1f" resname="discount.view.tab.translations.list.column.name">
