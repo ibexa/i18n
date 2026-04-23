@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="172b2823575801ba6431fa7007011540e5d9c7cb" resname="ibexa.connector_raptor.block.raptor_content_based_on_product_category.attributes.category_id.name">
+        <source>Product category</source>
+        <target state="new">Product category</target>
+        <note>key: ibexa.connector_raptor.block.raptor_content_based_on_product_category.attributes.category_id.name</note>
+      </trans-unit>
+      <trans-unit id="288f4d72b8c2c251c8fc9ef4ce7dd17bb9598170" resname="ibexa.connector_raptor.block.raptor_content_based_on_product_category.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_content_based_on_product_category.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="e06ebba7100d58922f766d01a9d1dfdad115f643" resname="ibexa.connector_raptor.block.raptor_content_based_on_product_category.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_content_based_on_product_category.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="6e2792f2cf45ecd75276accab3ed6d3b35b3e8ff" resname="ibexa.connector_raptor.block.raptor_content_based_on_product_category.name">
+        <source>Content that has been seen along with the item category</source>
+        <target state="new">Content that has been seen along with the item category</target>
+        <note>key: ibexa.connector_raptor.block.raptor_content_based_on_product_category.name</note>
+      </trans-unit>
+      <trans-unit id="a2a6c7498f81e8dc767b2e2a4c141e4e5a06e44a" resname="ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="cee0367c4180d7c9e8dc6f8e0f9839b8fd3f9ef4" resname="ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="fa8ad8995fe4e5d7d0e11cc1354cddf664205727" resname="ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.product_code.name">
+        <source>Product code</source>
+        <target state="new">Product code</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.product_code.name</note>
+      </trans-unit>
+      <trans-unit id="a759e41fb95f865acd28f956ff40405944296802" resname="ibexa.connector_raptor.block.raptor_other_customers_also_purchased.name">
+        <source>Other customers have also purchased</source>
+        <target state="new">Other customers have also purchased</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_purchased.name</note>
+      </trans-unit>
+      <trans-unit id="88dce529198a25d051648bfc1181880c53926580" resname="ibexa.connector_raptor.block.raptor_other_customers_also_seen.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_seen.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="75a0457c824b479a022c94aa06d24b263a17afb1" resname="ibexa.connector_raptor.block.raptor_other_customers_also_seen.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_seen.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="15ad4db08b92d43127db009787e9f5bd17a96134" resname="ibexa.connector_raptor.block.raptor_other_customers_also_seen.attributes.product_code.name">
+        <source>Product code</source>
+        <target state="new">Product code</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_seen.attributes.product_code.name</note>
+      </trans-unit>
+      <trans-unit id="75895d8789a9cab21314173088ad66a1d860b149" resname="ibexa.connector_raptor.block.raptor_other_customers_also_seen.attributes.show_in_stock.name">
+        <source>Show only available items</source>
+        <target state="new">Show only available items</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_seen.attributes.show_in_stock.name</note>
+      </trans-unit>
+      <trans-unit id="2d9325c1b10be553c63d22cdccb2184439cde7ce" resname="ibexa.connector_raptor.block.raptor_other_customers_also_seen.name">
+        <source>Other customers have also seen</source>
+        <target state="new">Other customers have also seen</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_seen.name</note>
+      </trans-unit>
+      <trans-unit id="a07e8e9b1543ec9155450549fecc36ff481a2d53" resname="ibexa.connector_raptor.block.raptor_popular_content.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_content.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="8e454c3c86e832a1b58348761eef14d61eda0723" resname="ibexa.connector_raptor.block.raptor_popular_content.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_content.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="43bd8749c782c354566e9df1b318a5af21d64600" resname="ibexa.connector_raptor.block.raptor_popular_content.name">
+        <source>Most popular content</source>
+        <target state="new">Most popular content</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_content.name</note>
+      </trans-unit>
+      <trans-unit id="e5b18e734b6152544d43799cb55fb34ff29656d1" resname="ibexa.connector_raptor.block.raptor_popular_items.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="5a4612865b098b4581b4c430180c981116c3943a" resname="ibexa.connector_raptor.block.raptor_popular_items.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="730f8aaf6e655371742f87151986ee82e7cc5825" resname="ibexa.connector_raptor.block.raptor_popular_items.attributes.show_in_stock.name">
+        <source>Show only available items</source>
+        <target state="new">Show only available items</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items.attributes.show_in_stock.name</note>
+      </trans-unit>
+      <trans-unit id="df52d3abc3a6ca49025224915e12b85a2c8cd0c0" resname="ibexa.connector_raptor.block.raptor_popular_items.name">
+        <source>Most popular products</source>
+        <target state="new">Most popular products</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items.name</note>
+      </trans-unit>
+      <trans-unit id="f7746931959325e72e3a363558ee135e2193abb9" resname="ibexa.connector_raptor.block.raptor_popular_items_in_category.attributes.category_id.name">
+        <source>Product category</source>
+        <target state="new">Product category</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items_in_category.attributes.category_id.name</note>
+      </trans-unit>
+      <trans-unit id="c81d254770f135a869ca2179e0fcb0c4131a78bd" resname="ibexa.connector_raptor.block.raptor_popular_items_in_category.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items_in_category.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="8535ea5cc4748af12a4f481ddc1495e7b0f685f8" resname="ibexa.connector_raptor.block.raptor_popular_items_in_category.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items_in_category.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="541a91c21f24d0697afc08628cc67443be65fc0a" resname="ibexa.connector_raptor.block.raptor_popular_items_in_category.attributes.show_in_stock.name">
+        <source>Show only available items</source>
+        <target state="new">Show only available items</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items_in_category.attributes.show_in_stock.name</note>
+      </trans-unit>
+      <trans-unit id="6e4b93ce14a9c555b1a23b5b11d98c1805f44fb3" resname="ibexa.connector_raptor.block.raptor_popular_items_in_category.name">
+        <source>Most popular products in category</source>
+        <target state="new">Most popular products in category</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items_in_category.name</note>
+      </trans-unit>
+      <trans-unit id="5a9842ca934d13d05fd563d8e5fabb3b5d16c220" resname="ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.help">
+        <source>Choose content to show similar items for. Leave empty to use current page content.</source>
+        <target state="new">Choose content to show similar items for. Leave empty to use current page content.</target>
+        <note>key: ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.help</note>
+      </trans-unit>
+      <trans-unit id="37430521c349b410ae48ba4febb2c797c7390f2e" resname="ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.name">
+        <source>Select content for recommendations</source>
+        <target state="new">Select content for recommendations</target>
+        <note>key: ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.name</note>
+      </trans-unit>
+      <trans-unit id="f1e57ea9014d643e9cf65a791017d22232a124a5" resname="ibexa.connector_raptor.block.raptor_similar_content.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_similar_content.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="e5f5c8ad3e27e43e082f35eaae25ac49dbd87062" resname="ibexa.connector_raptor.block.raptor_similar_content.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_similar_content.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="cd0ed2c6fc13e757f81d40c66ec2b2213c5c8511" resname="ibexa.connector_raptor.block.raptor_similar_content.name">
+        <source>Other customers have also seen this content</source>
+        <target state="new">Other customers have also seen this content</target>
+        <note>key: ibexa.connector_raptor.block.raptor_similar_content.name</note>
+      </trans-unit>
+      <trans-unit id="1b459d2d0f5a56287e83f597eec1f280c27805f5" resname="ibexa.connector_raptor.block.raptor_user_content_recommendations.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_content_recommendations.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="bbbe1c15de0372ebbc0f2f29826266519ac2a357" resname="ibexa.connector_raptor.block.raptor_user_content_recommendations.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_content_recommendations.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="a894d35b9a1acc7646a2dc70eff1c45a78ece344" resname="ibexa.connector_raptor.block.raptor_user_content_recommendations.name">
+        <source>Personalized content recommendations</source>
+        <target state="new">Personalized content recommendations</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_content_recommendations.name</note>
+      </trans-unit>
+      <trans-unit id="beab02e126a03e3f7f666964d6311d14f733c211" resname="ibexa.connector_raptor.block.raptor_user_item_history.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_history.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="5e1e3d480ea69b9e94d512819fd0605e5c27a78b" resname="ibexa.connector_raptor.block.raptor_user_item_history.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_history.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="85ba6613ac4486c9d82dbd02d46d43a13a4e7b03" resname="ibexa.connector_raptor.block.raptor_user_item_history.attributes.show_in_stock.name">
+        <source>Show only available items</source>
+        <target state="new">Show only available items</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_history.attributes.show_in_stock.name</note>
+      </trans-unit>
+      <trans-unit id="7eb1e0a99eddeff9fe56a9d6d283d1d5a4602167" resname="ibexa.connector_raptor.block.raptor_user_item_history.name">
+        <source>User's item history</source>
+        <target state="new">User's item history</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_history.name</note>
+      </trans-unit>
+      <trans-unit id="4984129cb29bb45f927a0e8aab585b341fc32b2d" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="29428920baf54e64eb9550e1efb196b297fe98e3" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="c4b6557d206326f609cf012eda6ee7217435ed3a" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.product_code.name">
+        <source>Product (optional)</source>
+        <target state="new">Product (optional)</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.product_code.name</note>
+      </trans-unit>
+      <trans-unit id="930f156f6f142768662df8a97c77a915659f0bcc" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.show_in_stock.name">
+        <source>Show only available items</source>
+        <target state="new">Show only available items</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.show_in_stock.name</note>
+      </trans-unit>
+      <trans-unit id="d0b6a1260fceab98932a323e521154c8d7575999" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.name">
+        <source>The Personal Shopping Assistant</source>
+        <target state="new">The Personal Shopping Assistant</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.name</note>
+      </trans-unit>
+      <trans-unit id="8d8ef4cec49ef4bc00fd76e95cdcac4d13bd7e93" resname="ibexa.connector_raptor.block_category.commerce">
+        <source>Recommendations: Commerce</source>
+        <target state="new">Recommendations: Commerce</target>
+        <note>key: ibexa.connector_raptor.block_category.commerce</note>
+      </trans-unit>
+      <trans-unit id="8ced1d127add76da1230aad447c7e03568c2ac28" resname="ibexa.connector_raptor.block_category.content">
+        <source>Recommendations: Content</source>
+        <target state="new">Recommendations: Content</target>
+        <note>key: ibexa.connector_raptor.block_category.content</note>
+      </trans-unit>
+      <trans-unit id="5ace084f09d0c86f2fe605f15acbd1da99aea71f" resname="ibexa.connector_raptor.block_category.product">
+        <source>Recommendations: Product</source>
+        <target state="new">Recommendations: Product</target>
+        <note>key: ibexa.connector_raptor.block_category.product</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
