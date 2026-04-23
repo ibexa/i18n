@@ -666,6 +666,11 @@
         <target>crwdns247340:0crwdne247340:0</target>
         <note>key: catalog_translation_remove_form.remove</note>
       </trans-unit>
+      <trans-unit id="37aa27a358b5e78042c9fa766bfa1f839f5251f5" resname="category.products.assign">
+        <source>Assign</source>
+        <target>crwdns270074:0crwdne270074:0</target>
+        <note>key: category.products.assign</note>
+      </trans-unit>
       <trans-unit id="008b2188acf791818b9836a5335adb611ad1f44b" resname="category_filter.tree.name">
         <source>Category filter</source>
         <target>crwdns251313:0crwdne251313:0</target>
@@ -1291,10 +1296,10 @@
         <target>crwdns248475:0crwdne248475:0</target>
         <note>key: product.category.assign</note>
       </trans-unit>
-      <trans-unit id="6ba91f1e615fcc2573795142a41a3b6eed6e7019" resname="product.category.assign.udw_title">
-        <source>Select Products</source>
-        <target>crwdns248477:0crwdne248477:0</target>
-        <note>key: product.category.assign.udw_title</note>
+      <trans-unit id="6131958017c6a248bc841cd4ffea5a6f5e01aef9" resname="product.category.assign.success">
+        <source>Products assigned to category '%entryName%'.</source>
+        <target>crwdns270076:0%entryName%crwdne270076:0</target>
+        <note>key: product.category.assign.success</note>
       </trans-unit>
       <trans-unit id="33c7f951238b995d9d6643942da182b993adae12" resname="product.completeness.assets.label">
         <source>Assets</source>
@@ -2445,6 +2450,16 @@
         <source>N/A</source>
         <target>crwdns243562:0crwdne243562:0</target>
         <note>key: regions.vat.value.not_applicable</note>
+      </trans-unit>
+      <trans-unit id="31f505cfc3e574968c8a120f30bedd29026cbb1c" resname="richtext.embed.product.access_denied">
+        <source>Product %productCode%: You do not have permission to view this Product</source>
+        <target>crwdns270078:0%productCode%crwdne270078:0</target>
+        <note>key: richtext.embed.product.access_denied</note>
+      </trans-unit>
+      <trans-unit id="c4ee462e731aad42a275d9ef99258cabc8977a3b" resname="richtext.embed.product.not_found">
+        <source>Product %productCode%: Product not found</source>
+        <target>crwdns270080:0%productCode%crwdne270080:0</target>
+        <note>key: richtext.embed.product.not_found</note>
       </trans-unit>
       <trans-unit id="99879f4a4cae0475601d238a3f7c1c6bb33fec34" resname="search_form.search">
         <source>Search...</source>
