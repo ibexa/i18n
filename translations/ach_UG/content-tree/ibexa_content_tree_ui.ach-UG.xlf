@@ -66,11 +66,6 @@
         <target>crwdns247020:0crwdne247020:0</target>
         <note>key: actions.reveal_content</note>
       </trans-unit>
-      <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
-        <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
-        <target><![CDATA[crwdns241838:0%locationHref%crwdnd241838:0%locationName%crwdne241838:0]]></target>
-        <note>key: bulk_action.success.link_to_location</note>
-      </trans-unit>
       <trans-unit id="8a46270277ebd803dd6f901724dcd6da23eb93dc" resname="bulk_bookmark.error.message.multi">
         <source>%notBookmarkedCount% of the %totalCount% selected item(s) could not be bookmarked.</source>
         <target>crwdns247022:0%notBookmarkedCount%crwdnd247022:0%totalCount%crwdne247022:0</target>
@@ -85,16 +80,6 @@
         <source>Content item(s) bookmarked.</source>
         <target>crwdns247026:0crwdne247026:0</target>
         <note>key: bulk_bookmark.success.message</note>
-      </trans-unit>
-      <trans-unit id="8c9027784ddccd5319b5a361e99434ae592d775d" resname="bulk_copy.error.message">
-        <source>%notCopiedCount% of the %totalCount% selected item(s) could not be copied because you do not have proper user permissions. Contact your Administrator.</source>
-        <target>crwdns241840:0%notCopiedCount%crwdnd241840:0%totalCount%crwdne241840:0</target>
-        <note>key: bulk_copy.error.message</note>
-      </trans-unit>
-      <trans-unit id="ed2c9a96d164d69ddaaaf81a5d3485fc853b429c" resname="bulk_copy.success.message">
-        <source>Content item(s) copied to {{ locationLink }}</source>
-        <target>crwdns241842:0{{ locationLink }}crwdne241842:0</target>
-        <note>key: bulk_copy.success.message</note>
       </trans-unit>
       <trans-unit id="99402f0925918d4d739c4c61a90182a733824fa5" resname="bulk_delete.error.message.nonusers">
         <source>%notDeletedCount% of the %totalCount% selected item(s) could not be sent to Trash because you do not have proper user permissions. Contact your Administrator.</source>
@@ -125,16 +110,6 @@
         <source>Content item(s) sent to Trash. User(s) deleted.</source>
         <target>crwdns241852:0crwdne241852:0</target>
         <note>key: bulk_delete.success.message.users_with_nonusers</note>
-      </trans-unit>
-      <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
-        <source>%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. Contact your Administrator.</source>
-        <target>crwdns241854:0%notMovedCount%crwdnd241854:0%totalCount%crwdne241854:0</target>
-        <note>key: bulk_move.error.message</note>
-      </trans-unit>
-      <trans-unit id="ac326404ff958f8e3fa903df5750024602b812de" resname="bulk_move.success.message">
-        <source>Content item(s) sent to {{ locationLink }}</source>
-        <target>crwdns241856:0{{ locationLink }}crwdne241856:0</target>
-        <note>key: bulk_move.success.message</note>
       </trans-unit>
       <trans-unit id="856eedf1cbc5db3b541b944d72f52fb1b5efa9e7" resname="bulk_unbookmark.error.message.multi">
         <source>%notBookmarkedCount% of the %totalCount% selected item(s) could not be removed from bookmarks.</source>
