@@ -51,6 +51,441 @@
         <target>crwdns268410:0crwdne268410:0</target>
         <note>key: ibexa.integrated_help.settings.help_center.value.enabled</note>
       </trans-unit>
+      <trans-unit id="6de4aced55da4755f03181bd43a610562d1a890f" resname="ibexa.integrated_help.settings.help_disabled">
+        <source>This setting is currently disabled due to system configuration</source>
+        <target>crwdns269882:0crwdne269882:0</target>
+        <note>key: ibexa.integrated_help.settings.help_disabled</note>
+      </trans-unit>
+      <trans-unit id="47d0e17ab8fe0c07093d70a0367f9339a69141d0" resname="ibexa.integrated_help.settings.product_tour.description">
+        <source>Product tour</source>
+        <target>crwdns269884:0crwdne269884:0</target>
+        <note>key: ibexa.integrated_help.settings.product_tour.description</note>
+      </trans-unit>
+      <trans-unit id="39640f711b4c4d04f4672d6f51cb85a1a61b7e6b" resname="ibexa.integrated_help.settings.product_tour.name">
+        <source>Product tour:</source>
+        <target>crwdns269886:0crwdne269886:0</target>
+        <note>key: ibexa.integrated_help.settings.product_tour.name</note>
+      </trans-unit>
+      <trans-unit id="2c62d392b946a77c5c2b9f11410def6d25cdd8ec" resname="ibexa.integrated_help.settings.product_tour.value.disabled">
+        <source>Disabled</source>
+        <target>crwdns269888:0crwdne269888:0</target>
+        <note>key: ibexa.integrated_help.settings.product_tour.value.disabled</note>
+      </trans-unit>
+      <trans-unit id="342e8deb770c72283c727d022be00d9fa27a40c8" resname="ibexa.integrated_help.settings.product_tour.value.enabled">
+        <source>Enabled</source>
+        <target>crwdns269890:0crwdne269890:0</target>
+        <note>key: ibexa.integrated_help.settings.product_tour.value.enabled</note>
+      </trans-unit>
+      <trans-unit id="3ba229b6dbd735a6aa784c4b4476671414785f87" resname="ibexa.integrated_help.settings.product_tour_scenarios.description">
+        <source>Manage product tour scenarios</source>
+        <target>crwdns269892:0crwdne269892:0</target>
+        <note>key: ibexa.integrated_help.settings.product_tour_scenarios.description</note>
+      </trans-unit>
+      <trans-unit id="71bd72f913aa2405dcaf9c3eb51b527b63f768e3" resname="ibexa.integrated_help.settings.product_tour_scenarios.name">
+        <source>Product tour list:</source>
+        <target>crwdns269894:0crwdne269894:0</target>
+        <note>key: ibexa.integrated_help.settings.product_tour_scenarios.name</note>
+      </trans-unit>
+      <trans-unit id="c82154b846e113a3eb392ff1c23001c7bc33e6c4" resname="ibexa.integrated_help.settings.product_tour_scenarios.value.completed">
+        <source>Completed</source>
+        <target>crwdns269896:0crwdne269896:0</target>
+        <note>key: ibexa.integrated_help.settings.product_tour_scenarios.value.completed</note>
+      </trans-unit>
+      <trans-unit id="4d6c93d1a504de527dc5aa247b3bb4142dedef01" resname="ibexa.integrated_help.settings.product_tour_scenarios.value.not_started">
+        <source>Not completed</source>
+        <target>crwdns269898:0crwdne269898:0</target>
+        <note>key: ibexa.integrated_help.settings.product_tour_scenarios.value.not_started</note>
+      </trans-unit>
+      <trans-unit id="cf01d4852896ac6588a7ace080ec295eb629c040" resname="ibexa.integrated_help.tour.back_office_ui.admin_panel_step.link">
+        <source>Administrator role</source>
+        <target>crwdns269900:0crwdne269900:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.admin_panel_step.link</note>
+      </trans-unit>
+      <trans-unit id="e4a33bd7c3c5a9df48b6e481ff84298529c1bb66" resname="ibexa.integrated_help.tour.back_office_ui.admin_panel_step.text1">
+        <source><![CDATA[This is where application administrators can create and manage users and permissions, languages, workflows, URL redirections, sections, AI actions, and so on...<br/><br/>]]></source>
+        <target><![CDATA[crwdns269902:0crwdne269902:0]]></target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.admin_panel_step.text1</note>
+      </trans-unit>
+      <trans-unit id="f0866e4fbd6667cb0d4c087dcaef665d3fe79631" resname="ibexa.integrated_help.tour.back_office_ui.admin_panel_step.title">
+        <source>Admin panel</source>
+        <target>crwdns269904:0crwdne269904:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.admin_panel_step.title</note>
+      </trans-unit>
+      <trans-unit id="5b820ee610e3ea3e916ab4783871778b62b11b7f" resname="ibexa.integrated_help.tour.back_office_ui.main_menu_step.text1">
+        <source><![CDATA[Allows you to move between important areas of Ibexa DXP's back office.<br/><br/>]]></source>
+        <target><![CDATA[crwdns269906:0crwdne269906:0]]></target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.main_menu_step.text1</note>
+      </trans-unit>
+      <trans-unit id="12baa5e648c2eef0a4ff4a9b2589a6f8244188a2" resname="ibexa.integrated_help.tour.back_office_ui.main_menu_step.text2">
+        <source>Click through the main menu to unfold sub-menus with options that belong to each of the areas.</source>
+        <target>crwdns269908:0crwdne269908:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.main_menu_step.text2</note>
+      </trans-unit>
+      <trans-unit id="5fa14818b07838270cc8f1e484eb2553628dd89d" resname="ibexa.integrated_help.tour.back_office_ui.main_menu_step.title">
+        <source>Main menu</source>
+        <target>crwdns269910:0crwdne269910:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.main_menu_step.title</note>
+      </trans-unit>
+      <trans-unit id="fa606e113a4b94f2cf381ee33379766112934e5b" resname="ibexa.integrated_help.tour.back_office_ui.title">
+        <source>Back office UI</source>
+        <target>crwdns269912:0crwdne269912:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.title</note>
+      </trans-unit>
+      <trans-unit id="7d36003b6d1ca477b774c96c9ce3b8496e5b4ffb" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.link">
+        <source>Top bar</source>
+        <target>crwdns269914:0crwdne269914:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.top_bar_step.link</note>
+      </trans-unit>
+      <trans-unit id="9f417615db14a303de667b7a47325dedc911ae8b" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.list1">
+        <source>User settings: View and edit the user profile, which can contain various information, such as an avatar, your name and email address, position, roles, and so on</source>
+        <target>crwdns269916:0crwdne269916:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.top_bar_step.list1</note>
+      </trans-unit>
+      <trans-unit id="9df05b6a06e2aeb92a513e5d2ddae73b48164326" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.list2">
+        <source>Search field: Locate specific content by scanning through both its name and contents.</source>
+        <target>crwdns269918:0crwdne269918:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.top_bar_step.list2</note>
+      </trans-unit>
+      <trans-unit id="e76540c0e46c4130859b4297d530ffb606640e24" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.text1">
+        <source>It provides you with quick access to essential tools and features within Ibexa DXP's interface, for example:</source>
+        <target>crwdns269920:0crwdne269920:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.top_bar_step.text1</note>
+      </trans-unit>
+      <trans-unit id="af2615a2537ed5d3f58019949708e23c214a8790" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.title">
+        <source>Top bar</source>
+        <target>crwdns269922:0crwdne269922:0</target>
+        <note>key: ibexa.integrated_help.tour.back_office_ui.top_bar_step.title</note>
+      </trans-unit>
+      <trans-unit id="d19dd952604ab3574597661889abec070a0b64a2" resname="ibexa.integrated_help.tour.content_tree.article_content_step.link">
+        <source>Create and edit content items</source>
+        <target>crwdns269924:0crwdne269924:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.article_content_step.link</note>
+      </trans-unit>
+      <trans-unit id="1a8fd0e58aca842b62751b731f98a98331534df3" resname="ibexa.integrated_help.tour.content_tree.article_content_step.text1">
+        <source><![CDATA[Content items consist of fields. In case of an article, these fields can store unformatted text, rich text content, images, or tags.<br/><br/>]]></source>
+        <target><![CDATA[crwdns269926:0crwdne269926:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.article_content_step.text1</note>
+      </trans-unit>
+      <trans-unit id="78067fbac543b27e14edc93a0957d1645aaf5ee1" resname="ibexa.integrated_help.tour.content_tree.article_content_step.text2">
+        <source><![CDATA[If your application supports AI Actions, you will see the AI Assistant icon <div class="ibexa-ai-assistant-icon-container"><svg class="ibexa-icon ibexa-icon--tiny-small"><use xlink:href="/bundles/ibexaicons/img/all-icons.svg#explore"></use></svg></div><br/><br/>]]></source>
+        <target><![CDATA[crwdns269928:0crwdne269928:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.article_content_step.text2</note>
+      </trans-unit>
+      <trans-unit id="aa977f60d98b025da48f50ea8e0cb4a147a4b936" resname="ibexa.integrated_help.tour.content_tree.article_content_step.text3">
+        <source><![CDATA[<i>Fields with an asterisk (*) are mandatory.</i><br/><br/>]]></source>
+        <target><![CDATA[crwdns269930:0crwdne269930:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.article_content_step.text3</note>
+      </trans-unit>
+      <trans-unit id="38ae3ef52ca4e8e9de4f127d4dce960e6b7db816" resname="ibexa.integrated_help.tour.content_tree.article_content_step.title">
+        <source>Add content to article</source>
+        <target>crwdns269932:0crwdne269932:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.article_content_step.title</note>
+      </trans-unit>
+      <trans-unit id="137523fffac45825eb51f6152cf875e110630863" resname="ibexa.integrated_help.tour.content_tree.content_structure_step.link">
+        <source>Create content item</source>
+        <target>crwdns269934:0crwdne269934:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.content_structure_step.link</note>
+      </trans-unit>
+      <trans-unit id="a5eba43d864630b7ce6a902643fbe0909b9e1929" resname="ibexa.integrated_help.tour.content_tree.content_structure_step.text1">
+        <source><![CDATA[Click <b>Content structure</b> to display the content tree.<br/><br/>]]></source>
+        <target><![CDATA[crwdns269936:0crwdne269936:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.content_structure_step.text1</note>
+      </trans-unit>
+      <trans-unit id="13adfad9752c20358932d469f9fb54623f5941bc" resname="ibexa.integrated_help.tour.content_tree.content_structure_step.title">
+        <source>Create article in content tree</source>
+        <target>crwdns269938:0crwdne269938:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.content_structure_step.title</note>
+      </trans-unit>
+      <trans-unit id="18ba6586e338ddf76d2339eac16f784c13062950" resname="ibexa.integrated_help.tour.content_tree.content_type_step.link">
+        <source>Content types</source>
+        <target>crwdns269940:0crwdne269940:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.content_type_step.link</note>
+      </trans-unit>
+      <trans-unit id="5844409b7343e3fdc669513f2c3f418c0ebd1b01" resname="ibexa.integrated_help.tour.content_tree.content_type_step.text1">
+        <source><![CDATA[Choose a language and the type of content for the content item that you are creating. Here, choose an <b>Article.</b><br/><br/>]]></source>
+        <target><![CDATA[crwdns269942:0crwdne269942:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.content_type_step.text1</note>
+      </trans-unit>
+      <trans-unit id="11f7d694c01afc81036e26070c4e44fcd8825251" resname="ibexa.integrated_help.tour.content_tree.content_type_step.title">
+        <source>Choose type of content</source>
+        <target>crwdns269944:0crwdne269944:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.content_type_step.title</note>
+      </trans-unit>
+      <trans-unit id="9a2e04052f43ada2ddece2ce2fae080b1c22673c" resname="ibexa.integrated_help.tour.content_tree.create_button_step.text1">
+        <source><![CDATA[Click <b>Create content</b> to create a child of the current content item.]]></source>
+        <target><![CDATA[crwdns269946:0crwdne269946:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.create_button_step.text1</note>
+      </trans-unit>
+      <trans-unit id="05ab77645884b9437a0c982afb8c79e43786e89e" resname="ibexa.integrated_help.tour.content_tree.create_button_step.title">
+        <source>Select parent content item</source>
+        <target>crwdns269948:0crwdne269948:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.create_button_step.title</note>
+      </trans-unit>
+      <trans-unit id="ac6d21e24a8e7ea873f79eb53f76a3195a1b8a2c" resname="ibexa.integrated_help.tour.content_tree.create_content_btn_step.text1">
+        <source><![CDATA[Click <b>Create</b> to confirm your choices and proceed to the editing screen.]]></source>
+        <target><![CDATA[crwdns269950:0crwdne269950:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.create_content_btn_step.text1</note>
+      </trans-unit>
+      <trans-unit id="1813cb4c5c7111af8df93f6e949d1420bf8c41d6" resname="ibexa.integrated_help.tour.content_tree.create_content_btn_step.title">
+        <source>Choose type of content</source>
+        <target>crwdns269952:0crwdne269952:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.create_content_btn_step.title</note>
+      </trans-unit>
+      <trans-unit id="73b03441fe905b6c6f5fa35c1d22c09ca9429312" resname="ibexa.integrated_help.tour.content_tree.introduction_step.text1">
+        <source>In this quick tutorial, you'll find out how to create your very first article!</source>
+        <target>crwdns269954:0crwdne269954:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.introduction_step.text1</note>
+      </trans-unit>
+      <trans-unit id="6ebafa5f88adc98ab7922e4a9f244c7a5a085abf" resname="ibexa.integrated_help.tour.content_tree.introduction_step.title">
+        <source>Create article</source>
+        <target>crwdns269956:0crwdne269956:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.introduction_step.title</note>
+      </trans-unit>
+      <trans-unit id="1f40c6b9948d7cae6bc410d66ba51cdfb5420b34" resname="ibexa.integrated_help.tour.content_tree.main_menu_step.link">
+        <source>Create content item</source>
+        <target>crwdns269958:0crwdne269958:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.main_menu_step.link</note>
+      </trans-unit>
+      <trans-unit id="982753bae1c74f4880488221f9ea32d9755ac420" resname="ibexa.integrated_help.tour.content_tree.main_menu_step.text1">
+        <source><![CDATA[To start creating an article, in the Main menu, select <b>Content</b> to reveal the menu options.<br/><br/>]]></source>
+        <target><![CDATA[crwdns269960:0crwdne269960:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.main_menu_step.text1</note>
+      </trans-unit>
+      <trans-unit id="cfacaeca871d0ae13ce642aa4429808e9c206aa4" resname="ibexa.integrated_help.tour.content_tree.main_menu_step.title">
+        <source>Create article in content tree</source>
+        <target>crwdns269962:0crwdne269962:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.main_menu_step.title</note>
+      </trans-unit>
+      <trans-unit id="598c5f265765345e4fb4cb2a56c58a82b9439102" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.link1">
+        <source>Publish content</source>
+        <target>crwdns269964:0crwdne269964:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.publish_content_step.link1</note>
+      </trans-unit>
+      <trans-unit id="1bf33250ce6e8fdc602d75632469bd9b564fd7cb" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.link2">
+        <source>Editorial workflow</source>
+        <target>crwdns269966:0crwdne269966:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.publish_content_step.link2</note>
+      </trans-unit>
+      <trans-unit id="782359f74bea4f43b1585af73564dba809312db1" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.text1">
+        <source><![CDATA[Click Publish to make the article immediately available to the visitors. Once the article passes automatic validation it is placed in a selected location in the content tree and becomes visible to the audience.<br/><br/>]]></source>
+        <target><![CDATA[crwdns269968:0crwdne269968:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.publish_content_step.text1</note>
+      </trans-unit>
+      <trans-unit id="21bd4dd9a366c94ffa1d67545ea9142099e1d62c" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.text2">
+        <source><![CDATA[Other options let you preview the article, send it through a review cycle or delay its publishing.<br/><br/>]]></source>
+        <target><![CDATA[crwdns269970:0crwdne269970:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.publish_content_step.text2</note>
+      </trans-unit>
+      <trans-unit id="dc88864ae982f78f9388150fec7dd3ca77445386" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.title">
+        <source>Publish article</source>
+        <target>crwdns269972:0crwdne269972:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.publish_content_step.title</note>
+      </trans-unit>
+      <trans-unit id="6018d4483f2b4784f9988bec6a3458f446ee1bcf" resname="ibexa.integrated_help.tour.content_tree.select_location_step.link">
+        <source>Content tree</source>
+        <target>crwdns269974:0crwdne269974:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.select_location_step.link</note>
+      </trans-unit>
+      <trans-unit id="80245a3a960e6c78240a9a292833c1a8b2543f74" resname="ibexa.integrated_help.tour.content_tree.select_location_step.text1">
+        <source><![CDATA[In the content tree, select a parent for the newly created article. Examine the details screen and the menu on top of it.<br/><br/>]]></source>
+        <target><![CDATA[crwdns269976:0crwdne269976:0]]></target>
+        <note>key: ibexa.integrated_help.tour.content_tree.select_location_step.text1</note>
+      </trans-unit>
+      <trans-unit id="8d8a78051592e09cf0e6c2566cd802584d43b310" resname="ibexa.integrated_help.tour.content_tree.select_location_step.title">
+        <source>Select parent content item</source>
+        <target>crwdns269978:0crwdne269978:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.select_location_step.title</note>
+      </trans-unit>
+      <trans-unit id="c700324089fed9cd14163d0b29fe1a243ebd3e04" resname="ibexa.integrated_help.tour.content_tree.title">
+        <source>Content tree</source>
+        <target>crwdns269980:0crwdne269980:0</target>
+        <note>key: ibexa.integrated_help.tour.content_tree.title</note>
+      </trans-unit>
+      <trans-unit id="5f7607028c8f42f43ddf7bd949df3f738abf355b" resname="ibexa.integrated_help.tour.create_article.article_content_step.link">
+        <source>Create and edit content items</source>
+        <target>crwdns269982:0crwdne269982:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.article_content_step.link</note>
+      </trans-unit>
+      <trans-unit id="f43aaa6b685601ef61c1d831d1f202d2cf1b4b2b" resname="ibexa.integrated_help.tour.create_article.article_content_step.text1">
+        <source><![CDATA[Content items consist of fields. In case of an article, these fields can store unformatted text, rich text content, images, or tags.<br/><br/>]]></source>
+        <target><![CDATA[crwdns269984:0crwdne269984:0]]></target>
+        <note>key: ibexa.integrated_help.tour.create_article.article_content_step.text1</note>
+      </trans-unit>
+      <trans-unit id="79fe1cdd35cb0bb433b8cee83e20f215a3aa40f7" resname="ibexa.integrated_help.tour.create_article.article_content_step.text2">
+        <source><![CDATA[If your application supports AI Actions, you will see the AI Assistant icon <div class="ibexa-ai-assistant-icon-container"><svg class="ibexa-icon ibexa-icon--tiny-small"><use xlink:href="/bundles/ibexaicons/img/all-icons.svg#explore"></use></svg></div><br/><br/>]]></source>
+        <target><![CDATA[crwdns269986:0crwdne269986:0]]></target>
+        <note>key: ibexa.integrated_help.tour.create_article.article_content_step.text2</note>
+      </trans-unit>
+      <trans-unit id="cada6d891cc45bf815524727fa0c7582a61e0da1" resname="ibexa.integrated_help.tour.create_article.article_content_step.text3">
+        <source><![CDATA[<i>Fields with an asterisk (*) are mandatory.</i><br/><br/>]]></source>
+        <target><![CDATA[crwdns269988:0crwdne269988:0]]></target>
+        <note>key: ibexa.integrated_help.tour.create_article.article_content_step.text3</note>
+      </trans-unit>
+      <trans-unit id="d7129e8f5e31204611ffa67650bf040cb41c506c" resname="ibexa.integrated_help.tour.create_article.article_content_step.title">
+        <source>Add content to article</source>
+        <target>crwdns269990:0crwdne269990:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.article_content_step.title</note>
+      </trans-unit>
+      <trans-unit id="e4badec3eedad1dc212e2af19b7efe018d96c6f6" resname="ibexa.integrated_help.tour.create_article.content_type_step.link">
+        <source>Content types</source>
+        <target>crwdns269992:0crwdne269992:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.content_type_step.link</note>
+      </trans-unit>
+      <trans-unit id="971f157d2bea098a2e34f2d39831bd5051d3e703" resname="ibexa.integrated_help.tour.create_article.content_type_step.text1">
+        <source><![CDATA[Choose a language and the type of content for the content item that you are creating. Here, choose an <b>Article.</b><br/><br/>]]></source>
+        <target><![CDATA[crwdns269994:0crwdne269994:0]]></target>
+        <note>key: ibexa.integrated_help.tour.create_article.content_type_step.text1</note>
+      </trans-unit>
+      <trans-unit id="87b25e1dbbd41593061c6f1497938f005c940927" resname="ibexa.integrated_help.tour.create_article.content_type_step.title">
+        <source>Choose type of content</source>
+        <target>crwdns269996:0crwdne269996:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.content_type_step.title</note>
+      </trans-unit>
+      <trans-unit id="43cc5e624b1de9cb5669b244928c3446603a9739" resname="ibexa.integrated_help.tour.create_article.create_article_step.text1">
+        <source>Click Create content on the Dashboard to quickly publish an article without review or preview.</source>
+        <target>crwdns269998:0crwdne269998:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.create_article_step.text1</note>
+      </trans-unit>
+      <trans-unit id="43a7fa91b2fdfa8e2a7b3aa1249e848376a5773e" resname="ibexa.integrated_help.tour.create_article.create_article_step.title">
+        <source>Create article</source>
+        <target>crwdns270000:0crwdne270000:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.create_article_step.title</note>
+      </trans-unit>
+      <trans-unit id="fe9977d7a16a854fed37d675dbc5b235cb33a9ce" resname="ibexa.integrated_help.tour.create_article.create_btn_step.text1">
+        <source><![CDATA[Click <b>Create</b> to confirm your choices and proceed to the editing screen.]]></source>
+        <target><![CDATA[crwdns270002:0crwdne270002:0]]></target>
+        <note>key: ibexa.integrated_help.tour.create_article.create_btn_step.text1</note>
+      </trans-unit>
+      <trans-unit id="3048cf0515cc5b838609dfcfbe1c0e32f53e9bef" resname="ibexa.integrated_help.tour.create_article.create_btn_step.title">
+        <source>Create article</source>
+        <target>crwdns270004:0crwdne270004:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.create_btn_step.title</note>
+      </trans-unit>
+      <trans-unit id="01c112b87d6c67f5fa6b800fbe80621aff4d499b" resname="ibexa.integrated_help.tour.create_article.create_button_step.text1">
+        <source><![CDATA[Click <b>Create</b> button to proceed to content creation form.]]></source>
+        <target><![CDATA[crwdns270006:0crwdne270006:0]]></target>
+        <note>key: ibexa.integrated_help.tour.create_article.create_button_step.text1</note>
+      </trans-unit>
+      <trans-unit id="b1950a425fad2ce1f79211965b9b2a452e8081ca" resname="ibexa.integrated_help.tour.create_article.create_button_step.title">
+        <source>Create content</source>
+        <target>crwdns270008:0crwdne270008:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.create_button_step.title</note>
+      </trans-unit>
+      <trans-unit id="f683ccb7399582cd6e8e290233cf15dfb1258819" resname="ibexa.integrated_help.tour.create_article.select_location_step.text1">
+        <source>Drill down the content structure and select a parent location for the article.</source>
+        <target>crwdns270010:0crwdne270010:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.select_location_step.text1</note>
+      </trans-unit>
+      <trans-unit id="ef4ec56c21b074bd66563c4c7ae3dc87721d3e98" resname="ibexa.integrated_help.tour.create_article.select_location_step.text2">
+        <source><![CDATA[Then click <b>Create</b> to configure the content item.]]></source>
+        <target><![CDATA[crwdns270012:0crwdne270012:0]]></target>
+        <note>key: ibexa.integrated_help.tour.create_article.select_location_step.text2</note>
+      </trans-unit>
+      <trans-unit id="04ef7d5a1be17a9ce420c6693d85723aa3b55278" resname="ibexa.integrated_help.tour.create_article.select_location_step.title">
+        <source>Select article location</source>
+        <target>crwdns270014:0crwdne270014:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.select_location_step.title</note>
+      </trans-unit>
+      <trans-unit id="0b6fd1c59a01acc9d8980114519081599cc641d0" resname="ibexa.integrated_help.tour.create_article.title">
+        <source>Create article</source>
+        <target>crwdns270016:0crwdne270016:0</target>
+        <note>key: ibexa.integrated_help.tour.create_article.title</note>
+      </trans-unit>
+      <trans-unit id="bf6a24f082e8776c9042a76329e3686e0b659a5e" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.link">
+        <source>Work with dashboard</source>
+        <target>crwdns270018:0crwdne270018:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.link</note>
+      </trans-unit>
+      <trans-unit id="30a8b18865041d28a0b7863ad30fac7002ae6059" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.list1">
+        <source>Choose from layouts to improve task or deadline visibility</source>
+        <target>crwdns270020:0crwdne270020:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.list1</note>
+      </trans-unit>
+      <trans-unit id="1a9a8748aed03d38c2896911b944bfb2d8fbc06d" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.list2">
+        <source>Select widgets highlight vital data and help in decision making</source>
+        <target>crwdns270022:0crwdne270022:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.list2</note>
+      </trans-unit>
+      <trans-unit id="192108cc923f0e60262b2e65197bb99ea66455ed" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.text1">
+        <source>Depending on your permissions, you may be able to customize the dashboard to fit your needs. This way you can quickly visit the areas that are used more often and exclude those less important:</source>
+        <target>crwdns270024:0crwdne270024:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.text1</note>
+      </trans-unit>
+      <trans-unit id="bcb9d07672c22a9be3a2604379bc1ea50205b9ee" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.title">
+        <source>Dashboard customization</source>
+        <target>crwdns270026:0crwdne270026:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.title</note>
+      </trans-unit>
+      <trans-unit id="81b558737ceb2ac2232679d15898f9b995a57c01" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_step.link">
+        <source>Dashboard</source>
+        <target>crwdns270028:0crwdne270028:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_step.link</note>
+      </trans-unit>
+      <trans-unit id="56e90eec6be264464b70cb53ec8fabf7ac0963ab" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_step.text1">
+        <source><![CDATA[The Dashboard gives you a summary of the work needed with content, to help you make better decisions and work more efficiently. To return to the Dashboard from any other page, click the logo in the top bar, or the home icon in the main menu.<br/><br/>]]></source>
+        <target><![CDATA[crwdns270030:0crwdne270030:0]]></target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_step.text1</note>
+      </trans-unit>
+      <trans-unit id="6284e9b150c79dee323d47f5fe563aa47b0085c8" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_step.title">
+        <source>Dashboard</source>
+        <target>crwdns270032:0crwdne270032:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_step.title</note>
+      </trans-unit>
+      <trans-unit id="7ec5a10f59663607fff59c17df91add5bf70e051" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.link">
+        <source>Dashboard</source>
+        <target>crwdns270034:0crwdne270034:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.quick_action_step.link</note>
+      </trans-unit>
+      <trans-unit id="a5cc48dcfa0722715c58687b8dd597e078843ab2" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.list1">
+        <source>Review queue: A list of content waiting for a review.</source>
+        <target>crwdns270036:0crwdne270036:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.quick_action_step.list1</note>
+      </trans-unit>
+      <trans-unit id="4855b1005fb07687608a9da3acf3d0dcb6d31dae" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.list2">
+        <source>My content: Your drafts, media, content waiting to be published, and so on.</source>
+        <target>crwdns270038:0crwdne270038:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.quick_action_step.list2</note>
+      </trans-unit>
+      <trans-unit id="9a7909ffc1f59b7e481e936929cf259f7832839b" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.text1">
+        <source><![CDATA[Visible in some editions of Ibexa DXP, it displays the most common actions and shortcuts.<br/><br/>]]></source>
+        <target><![CDATA[crwdns270040:0crwdne270040:0]]></target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.quick_action_step.text1</note>
+      </trans-unit>
+      <trans-unit id="7e6f073cd79c3fcf0cb7b2ada6a89a4f26c26ce8" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.text2">
+        <source>Other important areas of the Dashboard are:</source>
+        <target>crwdns270042:0crwdne270042:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.quick_action_step.text2</note>
+      </trans-unit>
+      <trans-unit id="ad6755e0d9f2228e6a261d479cfd86c48804230f" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.title">
+        <source>Quick actions block</source>
+        <target>crwdns270044:0crwdne270044:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.quick_action_step.title</note>
+      </trans-unit>
+      <trans-unit id="ef084219430a1f088b9e7ce14034e02eda555492" resname="ibexa.integrated_help.tour.dashboard_details.title">
+        <source>Dashboard details</source>
+        <target>crwdns270046:0crwdne270046:0</target>
+        <note>key: ibexa.integrated_help.tour.dashboard_details.title</note>
+      </trans-unit>
+      <trans-unit id="34628f6ab24f4539e1759d0d2a9d402d66d99030" resname="ibexa.integrated_help.tour.welcome_tour.title">
+        <source>Welcome tour</source>
+        <target>crwdns270048:0crwdne270048:0</target>
+        <note>key: ibexa.integrated_help.tour.welcome_tour.title</note>
+      </trans-unit>
+      <trans-unit id="0df671356ff3d57d1d22e4d337d75e3980793b8b" resname="ibexa.integrated_help.tour.welcome_tour.welcome_step.text1">
+        <source><![CDATA[Follow the product tour to get an overall understanding of the user interface.<br/><br/>]]></source>
+        <target><![CDATA[crwdns270050:0crwdne270050:0]]></target>
+        <note>key: ibexa.integrated_help.tour.welcome_tour.welcome_step.text1</note>
+      </trans-unit>
+      <trans-unit id="6edf775b36a876aedeccd16ba29278d44f7e9742" resname="ibexa.integrated_help.tour.welcome_tour.welcome_step.text2">
+        <source>For a more detailed presentation, take the Editor Training at learn.ibexa.co</source>
+        <target>crwdns270052:0crwdne270052:0</target>
+        <note>key: ibexa.integrated_help.tour.welcome_tour.welcome_step.text2</note>
+      </trans-unit>
+      <trans-unit id="f55dff8d7e5885f16a5b53cf06f8b5eeb1728b52" resname="ibexa.integrated_help.tour.welcome_tour.welcome_step.title">
+        <source>Welcome to Ibexa DXP</source>
+        <target>crwdns270054:0crwdne270054:0</target>
+        <note>key: ibexa.integrated_help.tour.welcome_tour.welcome_step.title</note>
+      </trans-unit>
       <trans-unit id="12ba079cd2262abe8c0853444b777f3b3d56bde9" resname="ibexa.integrated_help.version">
         <source>Ibexa DXP</source>
         <target>crwdns268412:0crwdne268412:0</target>
