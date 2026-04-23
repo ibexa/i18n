@@ -6,16 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
-        <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
-        <target state="translated"><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></target>
-        <note>key: bulk_action.success.link_to_location</note>
-      </trans-unit>
-      <trans-unit id="ed2c9a96d164d69ddaaaf81a5d3485fc853b429c" resname="bulk_copy.success.message">
-        <source>Content item(s) copied to {{ locationLink }}</source>
-        <target state="translated">コンテンツアイテムを {{ locationLink }} にコピーしました</target>
-        <note>key: bulk_copy.success.message</note>
-      </trans-unit>
       <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
         <source>Content item(s) sent to Trash.</source>
         <target state="translated">コンテンツアイテムをごみ箱に移動しました。</target>
