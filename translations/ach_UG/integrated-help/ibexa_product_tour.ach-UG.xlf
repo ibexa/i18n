@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="1179e5a6cec9bae5b28f2689cffe8b8086757256" resname="product_tour.button.done">
+        <source>Done</source>
+        <target>crwdns269862:0crwdne269862:0</target>
+        <note>key: product_tour.button.done</note>
+      </trans-unit>
+      <trans-unit id="b157fe5e0be7b1792ae770e8272ddeae237f711d" resname="product_tour.button.exit">
+        <source>Exit tour</source>
+        <target>crwdns269864:0crwdne269864:0</target>
+        <note>key: product_tour.button.exit</note>
+      </trans-unit>
+      <trans-unit id="950af40e034e86115b230f1a8b3a7b7720b26509" resname="product_tour.button.next">
+        <source>Next</source>
+        <target>crwdns269866:0crwdne269866:0</target>
+        <note>key: product_tour.button.next</note>
+      </trans-unit>
+      <trans-unit id="3850cd546b6df860f0bcdb179c1dcab03c71e45f" resname="product_tour.button.skip">
+        <source>Skip</source>
+        <target>crwdns269868:0crwdne269868:0</target>
+        <note>key: product_tour.button.skip</note>
+      </trans-unit>
+      <trans-unit id="440e636a5f6a6404aa2e25f3b46f6edac7a6fcdb" resname="product_tour.message.error.get_tour_template">
+        <source>Cannot load product tour</source>
+        <target>crwdns269870:0crwdne269870:0</target>
+        <note>key: product_tour.message.error.get_tour_template</note>
+      </trans-unit>
+      <trans-unit id="301a3f184d57431cb31acdebddef992d5db59e1e" resname="product_tour.message.error.mark_as_completed">
+        <source>Cannot mark tour as completed</source>
+        <target>crwdns269872:0crwdne269872:0</target>
+        <note>key: product_tour.message.error.mark_as_completed</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
