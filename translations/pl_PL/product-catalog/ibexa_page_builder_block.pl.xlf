@@ -96,20 +96,10 @@
         <target state="translated">Wprowadź kod produktu</target>
         <note>key: product.collection.placeholder</note>
       </trans-unit>
-      <trans-unit id="eb078e7b55778a1bc6bc61956dff2bf1e29af780" resname="product.collection.product_list">
-        <source>Product list (%count%)</source>
-        <target state="translated">Lista produktów (%count%)</target>
-        <note>key: product.collection.product_list</note>
-      </trans-unit>
       <trans-unit id="eba8a94d81c7b8cd339a6e615d5dc8215e7836b2" resname="product.collection.product_name">
         <source>Product name</source>
         <target state="translated">Nazwa produktu</target>
         <note>key: product.collection.product_name</note>
-      </trans-unit>
-      <trans-unit id="48b30b9fac72a2582a7d28ae72266818679be5b1" resname="product.collection.product_type">
-        <source>Product Type</source>
-        <target state="translated">Typ produktu</target>
-        <note>key: product.collection.product_type</note>
       </trans-unit>
     </body>
   </file>
