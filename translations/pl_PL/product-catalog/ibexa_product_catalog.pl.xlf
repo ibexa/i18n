@@ -881,11 +881,6 @@
         <target state="translated">Produkty</target>
         <note>key: product.breadcrumb.list</note>
       </trans-unit>
-      <trans-unit id="6ba91f1e615fcc2573795142a41a3b6eed6e7019" resname="product.category.assign.udw_title">
-        <source>Select Products</source>
-        <target state="translated">Wybierz produkty</target>
-        <note>key: product.category.assign.udw_title</note>
-      </trans-unit>
       <trans-unit id="44f6ac1e0f2f92a6a3f412d72e3c29176134cb2a" resname="product.completeness.availability.label">
         <source>Availability</source>
         <target state="translated">Dostępność</target>
