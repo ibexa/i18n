@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="bee7486dbcf2e457a9839f08ea987281d0189baf" resname="ibexa.connector_raptor.block_validators.not_blank.message">
+        <source>You must provide value</source>
+        <target>crwdns269858:0crwdne269858:0</target>
+        <note>key: ibexa.connector_raptor.block_validators.not_blank.message</note>
+      </trans-unit>
+      <trans-unit id="1810a7989a229034cf4f2645580cc1cabad8a7ec" resname="ibexa.connector_raptor.block_validators.product_list_not_empty.message">
+        <source>Product list cannot be empty.</source>
+        <target>crwdns269860:0crwdne269860:0</target>
+        <note>key: ibexa.connector_raptor.block_validators.product_list_not_empty.message</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
