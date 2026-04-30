@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="ar-XA" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="2a8670e5f91ad9a4cc0650d51c51afc8bd517494" resname="policy.limitation.identifier.taxonomy">
+        <source>Taxonomy</source>
+        <target state="translated">تصنيف</target>
+        <note>key: policy.limitation.identifier.taxonomy</note>
+      </trans-unit>
+      <trans-unit id="679732afd153d7c48e9c050d41c1d46e6e6821d5" resname="policy.limitation.identifier.taxonomy_subtree">
+        <source>Taxonomy subtree</source>
+        <target state="translated">فرع التصنيف</target>
+        <note>key: policy.limitation.identifier.taxonomy_subtree</note>
+      </trans-unit>
+      <trans-unit id="aa99763aed6c059be9d812b135e5fccb1170e741" resname="policy.limitation.identifier.taxonomysubtree">
+        <source>Taxonomy subtree</source>
+        <target state="translated">فرع التصنيف</target>
+        <note>key: policy.limitation.identifier.taxonomysubtree</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
