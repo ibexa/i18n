@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="ar-XA" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="93aa2c88c69c5e86dac2a0755d055cbc4972a7cc" resname="content.field_type.ibexa_image.delete">
+        <source>Delete</source>
+        <target state="translated">حذف/إزالة/إلغاء</target>
+        <note>key: content.field_type.ibexa_image.delete</note>
+      </trans-unit>
+      <trans-unit id="44c555d3c50f3a47f13eef3e98452875566b2142" resname="content.field_type.ibexa_image.dimensions.height">
+        <source>H:%height% px</source>
+        <target state="translated">الارتفاع:‏%height% بكسل</target>
+        <note>key: content.field_type.ibexa_image.dimensions.height</note>
+      </trans-unit>
+      <trans-unit id="1aeff66532e86d98ed0f34f8f1dbaafaae160e1a" resname="content.field_type.ibexa_image.dimensions.label">
+        <source>Master dimension</source>
+        <target state="translated">البُعد الرئيسي</target>
+        <note>key: content.field_type.ibexa_image.dimensions.label</note>
+      </trans-unit>
+      <trans-unit id="8d900b0c7d75377c1f92485a2a2659c0ba0028d8" resname="content.field_type.ibexa_image.dimensions.width">
+        <source>W:%width% px</source>
+        <target state="translated">العرض:‏%width% بكسل</target>
+        <note>key: content.field_type.ibexa_image.dimensions.width</note>
+      </trans-unit>
+      <trans-unit id="c70243f8e9527c4be0e44451f2b5b0f8b49c5724" resname="content.field_type.ibexa_image.file_name.label">
+        <source>File name</source>
+        <target state="translated">اسم الملف</target>
+        <note>key: content.field_type.ibexa_image.file_name.label</note>
+      </trans-unit>
+      <trans-unit id="be880351689c2e06cdf476cba75f1519ef5950a8" resname="content.field_type.ibexa_image.file_size.label">
+        <source>Size</source>
+        <target state="translated">الحجم</target>
+        <note>key: content.field_type.ibexa_image.file_size.label</note>
+      </trans-unit>
+      <trans-unit id="43df3ae0ef24ebeca8f3cb176c9cc574bee46b41" resname="content.field_type.ibexa_image.img_alt">
+        <source>Image stored in Field '%label%'</source>
+        <target state="translated">صورة مخزنة في الحقل '%label%'</target>
+        <note>key: content.field_type.ibexa_image.img_alt</note>
+      </trans-unit>
+      <trans-unit id="fec4f14be1782c4631b7f4c493ebf9942d64dd00" resname="content.field_type.ibexa_image.preview">
+        <source>Preview</source>
+        <target state="translated">معاينة</target>
+        <note>key: content.field_type.ibexa_image.preview</note>
+      </trans-unit>
+      <trans-unit id="602b229e595178ea22ddb2f33daa67a518ce84e6" resname="content.field_type.ibexa_image_asset.file_name.label">
+        <source>File name</source>
+        <target state="translated">اسم الملف</target>
+        <note>key: content.field_type.ibexa_image_asset.file_name.label</note>
+      </trans-unit>
+      <trans-unit id="37220edca0fa602d2db5a9400af3ca66b401a53c" resname="content.field_type.ibexa_image_asset.img_alt">
+        <source>Image stored in Field '%label%'</source>
+        <target state="translated">صورة مخزنة في الحقل '%label%'</target>
+        <note>key: content.field_type.ibexa_image_asset.img_alt</note>
+      </trans-unit>
+      <trans-unit id="b9d8dc8940494c9c6706f8e250783e4ade76dd52" resname="content.field_type.ibexa_media.delete">
+        <source>Delete</source>
+        <target state="translated">حذف/إزالة/إلغاء</target>
+        <note>key: content.field_type.ibexa_media.delete</note>
+      </trans-unit>
+      <trans-unit id="0a0d3482866f0d7a7568b1bf0bcb860856a29380" resname="content.field_type.ibexa_media.download">
+        <source>Download</source>
+        <target state="translated">تنزيل</target>
+        <note>key: content.field_type.ibexa_media.download</note>
+      </trans-unit>
+      <trans-unit id="bbd94bb608ae6e6a9f0187dbd91f6b0c51a6148e" resname="content.field_type.ibexa_media.file_name.label">
+        <source>File name</source>
+        <target state="translated">اسم الملف</target>
+        <note>key: content.field_type.ibexa_media.file_name.label</note>
+      </trans-unit>
+      <trans-unit id="4ef624c34b3cfccb170abd4cc1cbc6a2c9972560" resname="content.field_type.ibexa_media.file_size.label">
+        <source>Size</source>
+        <target state="translated">الحجم</target>
+        <note>key: content.field_type.ibexa_media.file_size.label</note>
+      </trans-unit>
+      <trans-unit id="6f2c87edfd38867f6cce6b17dc07921bd9e580e1" resname="content.field_type.ibexa_media.player_settings">
+        <source>Player settings</source>
+        <target state="translated">إعدادات المشغل</target>
+        <note>key: content.field_type.ibexa_media.player_settings</note>
+      </trans-unit>
+      <trans-unit id="1a3bc0622c5d839ed1a8ef9f32bd5dd9e5cfb479" resname="fieldtype.binary_base.drag_drop">
+        <source>Drag and drop file</source>
+        <target state="translated">اسحب الملف وأفلته</target>
+        <note>key: fieldtype.binary_base.drag_drop</note>
+      </trans-unit>
+      <trans-unit id="02ce19b8a1c8ed94bade2e4fcff441b8226b90c0" resname="fieldtype.binary_base.drag_drop.or">
+        <source>or</source>
+        <target state="translated">أو</target>
+        <note>key: fieldtype.binary_base.drag_drop.or</note>
+      </trans-unit>
+      <trans-unit id="0f71380bdf7b1b566dfd532ec3611aa13b2f0c38" resname="fieldtype.binary_base.image_extensions">
+        <source>Allowed extensions: %extensions%</source>
+        <target state="translated">الامتدادات المسموحة: %extensions%</target>
+        <note>key: fieldtype.binary_base.image_extensions</note>
+      </trans-unit>
+      <trans-unit id="858c986173f1ef87d7acda017535b86f01bca87d" resname="fieldtype.binary_base.max_file_size">
+        <source>Max file size: %size%</source>
+        <target state="translated">أقصى حجم للملف: %size%</target>
+        <note>key: fieldtype.binary_base.max_file_size</note>
+      </trans-unit>
+      <trans-unit id="763e9b64f4f0024e90753727ccc212a3596bfccd" resname="fieldtype.binary_base.upload_file">
+        <source>Upload file</source>
+        <target state="translated">رفع ملف</target>
+        <note>key: fieldtype.binary_base.upload_file</note>
+      </trans-unit>
+      <trans-unit id="7e8366433c01ad53e5a0ebbe6b70c0171e5fdf31" resname="fieldtype.ibexa_image_asset.delete">
+        <source>Delete</source>
+        <target state="translated">حذف/إزالة/إلغاء</target>
+        <note>key: fieldtype.ibexa_image_asset.delete</note>
+      </trans-unit>
+      <trans-unit id="27b5b54dcc471ffdc05edc97ee9b4e62f142d461" resname="fieldtype.ibexa_image_asset.select.label">
+        <source>Select from library</source>
+        <target state="translated">اختر من المكتبة</target>
+        <note>key: fieldtype.ibexa_image_asset.select.label</note>
+      </trans-unit>
+      <trans-unit id="349f28b1b2e3f9c6ac1a0d2cb881f1647419e955" resname="fieldtype.imageasset.drag_drop">
+        <source><![CDATA[Drag and drop image here or <br /><button class="ibexa-data-source__btn-add">Browse</button> to choose a file]]></source>
+        <target state="translated"><![CDATA[اسحب الصورة وأفلتها هنا أو <br /><button class="ibexa-data-source__btn-add">تصفح</button> لاختيار ملف]]></target>
+        <note>key: fieldtype.imageasset.drag_drop</note>
+      </trans-unit>
+      <trans-unit id="a7bbab352bfc8405b393228b6f32482789acf906" resname="ibexa_binaryfile.action.download">
+        <source>Download</source>
+        <target state="translated">تنزيل</target>
+        <note>key: ibexa_binaryfile.action.download</note>
+      </trans-unit>
+      <trans-unit id="7e58818d1fe6925fdcdab515bfcde25da184b090" resname="ibexa_binaryfile.action.remove">
+        <source>Delete</source>
+        <target state="translated">حذف/إزالة/إلغاء</target>
+        <note>key: ibexa_binaryfile.action.remove</note>
+      </trans-unit>
+      <trans-unit id="a6e20acccbb81411889c37e530c29d6cd419673b" resname="ibexa_binaryfile.file_name.label">
+        <source>File name</source>
+        <target state="translated">اسم الملف</target>
+        <note>key: ibexa_binaryfile.file_name.label</note>
+      </trans-unit>
+      <trans-unit id="8c4e13065c3d6c3260355d447e80dc6d3b450cc6" resname="ibexa_binaryfile.file_size.label">
+        <source>Size</source>
+        <target state="translated">الحجم</target>
+        <note>key: ibexa_binaryfile.file_size.label</note>
+      </trans-unit>
+      <trans-unit id="9cebac2f8a4665a0fde3379e9989dae5d310a8c3" resname="ibexa_gmap_location.input.placeholder">
+        <source>Search address</source>
+        <target state="translated">ابحث عن عنوان</target>
+        <note>key: ibexa_gmap_location.input.placeholder</note>
+      </trans-unit>
+      <trans-unit id="e1ab2ad13d3cdd63f62ba2421fd60605a5f00b6f" resname="ibexa_gmap_location.text.info">
+        <source>or enter geographical coordinates</source>
+        <target state="translated">أو أدخل الإحداثيات الجغرافية</target>
+        <note>key: ibexa_gmap_location.text.info</note>
+      </trans-unit>
+      <trans-unit id="0ec669df3f20b4f3bc4dc9d170ea5c6ca77d5e4d" resname="ibexa_object_relation.helper">
+        <source>Stores a Relation to a Content item.</source>
+        <target state="translated">يخزن علاقة مع عنصر المحتوى.</target>
+        <note>key: ibexa_object_relation.helper</note>
+      </trans-unit>
+      <trans-unit id="3c14f3a86f3e09277eef236d4d4cf2e7eaa77675" resname="ibexa_object_relation_list.cta.select">
+        <source>Select Item</source>
+        <target state="translated">اختر عنصراً</target>
+        <note>key: ibexa_object_relation_list.cta.select</note>
+      </trans-unit>
+      <trans-unit id="2f9291ba83cfdb0c55ef1c69b705a9409feb46c8" resname="ibexa_object_relation_list.delete_selected_relations">
+        <source>Delete</source>
+        <target state="translated">حذف/إزالة/إلغاء</target>
+        <note>key: ibexa_object_relation_list.delete_selected_relations</note>
+      </trans-unit>
+      <trans-unit id="005f9492fb3524549da0ba05e3960f8028ed134a" resname="ibexa_object_relation_list.helper">
+        <source>Stores Relations to other Content items.</source>
+        <target state="translated">يخزن علاقات مع عناصر محتوى أخرى.</target>
+        <note>key: ibexa_object_relation_list.helper</note>
+      </trans-unit>
+      <trans-unit id="6e1eddff226e10d3ead6099858250b6ac882b761" resname="ibexa_object_relation_list.table.row.content_type">
+        <source>Content type</source>
+        <target state="translated">نوع المحتوى</target>
+        <note>key: ibexa_object_relation_list.table.row.content_type</note>
+      </trans-unit>
+      <trans-unit id="fabf54ed57f3a0732d5f601628abe55f853bea62" resname="ibexa_object_relation_list.table.row.created">
+        <source>Created</source>
+        <target state="translated">تاريخ الإنشاء</target>
+        <note>key: ibexa_object_relation_list.table.row.created</note>
+      </trans-unit>
+      <trans-unit id="4885a5d2f668faf2bedef783578b94dcfee565b9" resname="ibexa_object_relation_list.table.row.name">
+        <source>Name</source>
+        <target state="translated">الاسم</target>
+        <note>key: ibexa_object_relation_list.table.row.name</note>
+      </trans-unit>
+      <trans-unit id="300032f35a301e0ff969a8b5c2c12714b9fb2958" resname="ibexa_object_relation_list.table.row.order">
+        <source>Order</source>
+        <target state="translated">الترتيب</target>
+        <note>key: ibexa_object_relation_list.table.row.order</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
