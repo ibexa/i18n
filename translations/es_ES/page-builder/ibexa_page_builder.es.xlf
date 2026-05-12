@@ -26,6 +26,11 @@
         <target state="translated">No se puede actualizar la previsualización de los bloques</target>
         <note>key: block.cannot_update</note>
       </trans-unit>
+      <trans-unit id="685e17da8aa7f54c0c1f0e70b7e3b8596122c49f" resname="block.cannot_update.open_profiler">
+        <source>Open profiler</source>
+        <target state="translated">Abrir el perfilador</target>
+        <note>key: block.cannot_update.open_profiler</note>
+      </trans-unit>
       <trans-unit id="e3a84a88a015eacebbeff73fba50a2c41ad69946" resname="block.copy">
         <source>Copy</source>
         <target state="translated">Copiar</target>

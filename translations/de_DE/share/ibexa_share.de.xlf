@@ -196,6 +196,11 @@
         <target state="translated">Link-Einstellungen</target>
         <note>key: share.modal.link_settings.title</note>
       </trans-unit>
+      <trans-unit id="e8ed731462964bf92534f5f8b0463dc461b6a15d" resname="share.notification.invitation.content.email.empty_name_placeholder">
+        <source>[Untitled]</source>
+        <target state="translated">[Ohne Titel]</target>
+        <note>key: share.notification.invitation.content.email.empty_name_placeholder</note>
+      </trans-unit>
       <trans-unit id="979cb4bc5611c1015fa0c98fb8a036c0d32829c8" resname="share.notification.invitation.content_edit.email.body.cta">
         <source>Join collaboration</source>
         <target state="translated">An der Zusammenarbeit teilnehmen</target>
