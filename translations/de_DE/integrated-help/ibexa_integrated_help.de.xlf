@@ -383,7 +383,7 @@
       </trans-unit>
       <trans-unit id="04ef7d5a1be17a9ce420c6693d85723aa3b55278" resname="ibexa.integrated_help.tour.create_article.select_location_step.title">
         <source>Select article location</source>
-        <target state="translated">Artikelspeicherort wählen</target>
+        <target state="translated">Artikelstandort wählen</target>
         <note>key: ibexa.integrated_help.tour.create_article.select_location_step.title</note>
       </trans-unit>
       <trans-unit id="0b6fd1c59a01acc9d8980114519081599cc641d0" resname="ibexa.integrated_help.tour.create_article.title">

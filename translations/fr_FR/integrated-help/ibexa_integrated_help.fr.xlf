@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="39640f711b4c4d04f4672d6f51cb85a1a61b7e6b" resname="ibexa.integrated_help.settings.product_tour.name">
         <source>Product tour:</source>
-        <target state="translated">Visite guidéea0:</target>
+        <target state="translated">Visite guidée:</target>
         <note>key: ibexa.integrated_help.settings.product_tour.name</note>
       </trans-unit>
       <trans-unit id="2c62d392b946a77c5c2b9f11410def6d25cdd8ec" resname="ibexa.integrated_help.settings.product_tour.value.disabled">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="71bd72f913aa2405dcaf9c3eb51b527b63f768e3" resname="ibexa.integrated_help.settings.product_tour_scenarios.name">
         <source>Product tour list:</source>
-        <target state="translated">Liste des visites guidéesa0:</target>
+        <target state="translated">Liste des visites guidées:</target>
         <note>key: ibexa.integrated_help.settings.product_tour_scenarios.name</note>
       </trans-unit>
       <trans-unit id="c82154b846e113a3eb392ff1c23001c7bc33e6c4" resname="ibexa.integrated_help.settings.product_tour_scenarios.value.completed">
@@ -138,17 +138,17 @@
       </trans-unit>
       <trans-unit id="9f417615db14a303de667b7a47325dedc911ae8b" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.list1">
         <source>User settings: View and edit the user profile, which can contain various information, such as an avatar, your name and email address, position, roles, and so on</source>
-        <target state="translated">Paramètres utilisateura0: Afficher et modifier le profil utilisateur, qui peut contenir diverses informations, comme un avatar, votre nom et adresse e-mail, poste, rôles, etc.</target>
+        <target state="translated">Paramètres utilisateur: Afficher et modifier le profil utilisateur, qui peut contenir diverses informations, comme un avatar, votre nom et adresse e-mail, poste, rôles, etc.</target>
         <note>key: ibexa.integrated_help.tour.back_office_ui.top_bar_step.list1</note>
       </trans-unit>
       <trans-unit id="9df05b6a06e2aeb92a513e5d2ddae73b48164326" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.list2">
         <source>Search field: Locate specific content by scanning through both its name and contents.</source>
-        <target state="translated">Champ de recherchea0: Trouver un contenu précis en parcourant son nom et son contenu.</target>
+        <target state="translated">Champ de recherche: Trouver un contenu précis en parcourant son nom et son contenu.</target>
         <note>key: ibexa.integrated_help.tour.back_office_ui.top_bar_step.list2</note>
       </trans-unit>
       <trans-unit id="e76540c0e46c4130859b4297d530ffb606640e24" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.text1">
         <source>It provides you with quick access to essential tools and features within Ibexa DXP's interface, for example:</source>
-        <target state="translated">Vous accédez rapidement aux outils et fonctionnalités essentiels de l'interface Ibexa DXP, par exemplea0:</target>
+        <target state="translated">Vous accédez rapidement aux outils et fonctionnalités essentiels de l'interface Ibexa DXP, par exemple:</target>
         <note>key: ibexa.integrated_help.tour.back_office_ui.top_bar_step.text1</note>
       </trans-unit>
       <trans-unit id="af2615a2537ed5d3f58019949708e23c214a8790" resname="ibexa.integrated_help.tour.back_office_ui.top_bar_step.title">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="73b03441fe905b6c6f5fa35c1d22c09ca9429312" resname="ibexa.integrated_help.tour.content_tree.introduction_step.text1">
         <source>In this quick tutorial, you'll find out how to create your very first article!</source>
-        <target state="translated">Dans ce tutoriel rapide, vous apprendrez à créer votre tout premier articlea0!</target>
+        <target state="translated">Dans ce tutoriel rapide, vous apprendrez à créer votre tout premier article!</target>
         <note>key: ibexa.integrated_help.tour.content_tree.introduction_step.text1</note>
       </trans-unit>
       <trans-unit id="6ebafa5f88adc98ab7922e4a9f244c7a5a085abf" resname="ibexa.integrated_help.tour.content_tree.introduction_step.title">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="21bd4dd9a366c94ffa1d67545ea9142099e1d62c" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.text2">
         <source><![CDATA[Other options let you preview the article, send it through a review cycle or delay its publishing.<br/><br/>]]></source>
-        <target state="translated"><![CDATA[D'autres options permettent d'apercevoir l'article, de l'envoyer en relecture ou de différer sa publication.<br/><br/>]]></target>
+        <target state="translated"><![CDATA[D'autres options permettent de prévisualiser l'article, de l'envoyer en relecture ou de différer sa publication.<br/><br/>]]></target>
         <note>key: ibexa.integrated_help.tour.content_tree.publish_content_step.text2</note>
       </trans-unit>
       <trans-unit id="dc88864ae982f78f9388150fec7dd3ca77445386" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.title">
