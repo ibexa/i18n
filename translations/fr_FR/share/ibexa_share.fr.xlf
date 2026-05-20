@@ -152,7 +152,7 @@
         <note>key: share.invite.list.internal.header</note>
       </trans-unit>
       <trans-unit id="d62474e28e72c81a6988c748bee9528922614a21" resname="share.invite.search.error.text">
-        <source>One or more participants don't have permissions to edit or an email address is invalid.</source>
+        <source>Some participants can’t be added. Check the email address or their permissions.</source>
         <target state="translated">Un ou plusieurs participants ne disposent pas des autorisations de modification requises ou une adresse e-mail est invalide.</target>
         <note>key: share.invite.search.error.text</note>
       </trans-unit>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
-  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -25,16 +25,6 @@
         <source>Segment identifier "{{ identifier }}" is not unique</source>
         <target state="translated">El identificador de segmentos "{{ identifier }}" no es único</target>
         <note>key: ibexa.segmentation.validator.segment_unique_identifier</note>
-      </trans-unit>
-      <trans-unit id="2faa0848cac7e8c2a4c13d2baf25fd9b7abab16b" resname="ibexa.segmentation.validator.segment_group_struct_unique_identifier">
-        <source>Segment Group identifier "%identifier%" is not unique</source>
-        <target state="translated">El identificador del grupo de segmentos "%identifier%" no es único</target>
-        <note>key: ibexa.segmentation.validator.segment_group_struct_unique_identifier</note>
-      </trans-unit>
-      <trans-unit id="20b8c791f71575a252a419f0ae748c15c9bbb850" resname="ibexa.segmentation.validator.segment_struct_unique_identifier">
-        <source>Segment identifier "%identifier%" is not unique</source>
-        <target state="translated">El identificador de segmentos "%identifier%" no es único</target>
-        <note>key: ibexa.segmentation.validator.segment_struct_unique_identifier</note>
       </trans-unit>
       <trans-unit id="a4c85a99746a6e09be8619f11639517ae97f0bb0" resname="ibexa.segmentation.validator.user_to_segment_assignment_exists">
         <source>User ID=%userId% is already assigned to %segment% segment.</source>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
-  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -152,7 +152,7 @@
         <note>key: share.invite.list.internal.header</note>
       </trans-unit>
       <trans-unit id="d62474e28e72c81a6988c748bee9528922614a21" resname="share.invite.search.error.text">
-        <source>One or more participants don't have permissions to edit or an email address is invalid.</source>
+        <source>Some participants can’t be added. Check the email address or their permissions.</source>
         <target state="translated">Uno o más participantes no tienen permisos para editar o cuentan con una dirección de correo electrónico que no es válida.</target>
         <note>key: share.invite.search.error.text</note>
       </trans-unit>

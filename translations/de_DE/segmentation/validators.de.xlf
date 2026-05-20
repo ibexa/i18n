@@ -26,16 +26,6 @@
         <target state="translated">Bezeichner des Segments „{{ identifier }}“ ist nicht eindeutig</target>
         <note>key: ibexa.segmentation.validator.segment_unique_identifier</note>
       </trans-unit>
-      <trans-unit id="2faa0848cac7e8c2a4c13d2baf25fd9b7abab16b" resname="ibexa.segmentation.validator.segment_group_struct_unique_identifier">
-        <source>Segment Group identifier "%identifier%" is not unique</source>
-        <target state="translated">Bezeichner der Segmentgruppe „%identifier%“ ist nicht eindeutig</target>
-        <note>key: ibexa.segmentation.validator.segment_group_struct_unique_identifier</note>
-      </trans-unit>
-      <trans-unit id="20b8c791f71575a252a419f0ae748c15c9bbb850" resname="ibexa.segmentation.validator.segment_struct_unique_identifier">
-        <source>Segment identifier "%identifier%" is not unique</source>
-        <target state="translated">Bezeichner des Segments „%identifier%“ ist nicht eindeutig</target>
-        <note>key: ibexa.segmentation.validator.segment_struct_unique_identifier</note>
-      </trans-unit>
       <trans-unit id="a4c85a99746a6e09be8619f11639517ae97f0bb0" resname="ibexa.segmentation.validator.user_to_segment_assignment_exists">
         <source>User ID=%userId% is already assigned to %segment% segment.</source>
         <target state="translated">Benutzer-ID=%userId% ist bereits dem Segment %segment% zugewiesen.</target>
