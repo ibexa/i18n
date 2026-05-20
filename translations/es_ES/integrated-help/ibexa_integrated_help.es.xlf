@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="78067fbac543b27e14edc93a0957d1645aaf5ee1" resname="ibexa.integrated_help.tour.content_tree.article_content_step.text2">
         <source><![CDATA[If your application supports AI Actions, you will see the AI Assistant icon <div class="ibexa-ai-assistant-icon-container"><svg class="ibexa-icon ibexa-icon--tiny-small"><use xlink:href="/bundles/ibexaicons/img/all-icons.svg#explore"></use></svg></div><br/><br/>]]></source>
-        <target state="translated"><![CDATA[Si tu postulación admite Acciones de IA, verás el icono del Asistente de IA <div class="ibexa-ai-assistant-icon-container"><svg class="ibexa-icon ibexa-icon--tiny-small"><use xlink:href="/bundles/ibexaicons/img/all-icons.svg#explore"></use></svg></div><br/><br/>]]></target>
+        <target state="translated"><![CDATA[Si tu aplicación admite Acciones de IA, verás el icono del Asistente de IA <div class="ibexa-ai-assistant-icon-container"><svg class="ibexa-icon ibexa-icon--tiny-small"><use xlink:href="/bundles/ibexaicons/img/all-icons.svg#explore"></use></svg></div><br/><br/>]]></target>
         <note>key: ibexa.integrated_help.tour.content_tree.article_content_step.text2</note>
       </trans-unit>
       <trans-unit id="aa977f60d98b025da48f50ea8e0cb4a147a4b936" resname="ibexa.integrated_help.tour.content_tree.article_content_step.text3">
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="1bf33250ce6e8fdc602d75632469bd9b564fd7cb" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.link2">
         <source>Editorial workflow</source>
-        <target state="translated">Flujo editorial</target>
+        <target state="translated">Flujo de trabajo editorial</target>
         <note>key: ibexa.integrated_help.tour.content_tree.publish_content_step.link2</note>
       </trans-unit>
       <trans-unit id="782359f74bea4f43b1585af73564dba809312db1" resname="ibexa.integrated_help.tour.content_tree.publish_content_step.text1">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="80245a3a960e6c78240a9a292833c1a8b2543f74" resname="ibexa.integrated_help.tour.content_tree.select_location_step.text1">
         <source><![CDATA[In the content tree, select a parent for the newly created article. Examine the details screen and the menu on top of it.<br/><br/>]]></source>
-        <target state="translated"><![CDATA[En el árbol de contenido, selecciona un principal para el artículo recién creado. Examina la pantalla de detalles y el menú superior.<br/><br/>]]></target>
+        <target state="translated"><![CDATA[En el árbol de contenido, selecciona un elemento principal para el artículo recién creado. Examina la pantalla de detalles y el menú superior.<br/><br/>]]></target>
         <note>key: ibexa.integrated_help.tour.content_tree.select_location_step.text1</note>
       </trans-unit>
       <trans-unit id="8d8a78051592e09cf0e6c2566cd802584d43b310" resname="ibexa.integrated_help.tour.content_tree.select_location_step.title">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="79fe1cdd35cb0bb433b8cee83e20f215a3aa40f7" resname="ibexa.integrated_help.tour.create_article.article_content_step.text2">
         <source><![CDATA[If your application supports AI Actions, you will see the AI Assistant icon <div class="ibexa-ai-assistant-icon-container"><svg class="ibexa-icon ibexa-icon--tiny-small"><use xlink:href="/bundles/ibexaicons/img/all-icons.svg#explore"></use></svg></div><br/><br/>]]></source>
-        <target state="translated"><![CDATA[Si tu postulación admite Acciones de IA, verás el icono del Asistente de IA <div class="ibexa-ai-assistant-icon-container"><svg class="ibexa-icon ibexa-icon--tiny-small"><use xlink:href="/bundles/ibexaicons/img/all-icons.svg#explore"></use></svg></div><br/><br/>]]></target>
+        <target state="translated"><![CDATA[Si tu aplicación admite Acciones de IA, verás el icono del Asistente de IA <div class="ibexa-ai-assistant-icon-container"><svg class="ibexa-icon ibexa-icon--tiny-small"><use xlink:href="/bundles/ibexaicons/img/all-icons.svg#explore"></use></svg></div><br/><br/>]]></target>
         <note>key: ibexa.integrated_help.tour.create_article.article_content_step.text2</note>
       </trans-unit>
       <trans-unit id="cada6d891cc45bf815524727fa0c7582a61e0da1" resname="ibexa.integrated_help.tour.create_article.article_content_step.text3">
