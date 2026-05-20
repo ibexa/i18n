@@ -102,9 +102,14 @@
         <note>key: product.collection.placeholder</note>
       </trans-unit>
       <trans-unit id="eb078e7b55778a1bc6bc61956dff2bf1e29af780" resname="product.collection.product_list">
-        <source>Product list (%count%)</source>
+        <source>Selected products (%count%)</source>
         <target state="translated">Lista de producto (%count%)</target>
         <note>key: product.collection.product_list</note>
+      </trans-unit>
+      <trans-unit id="d0bf626bacb8561899f412eaf168ef276b8b1d74" resname="product.collection.product_list.none">
+        <source>Selected products</source>
+        <target state="translated">Productos seleccionados</target>
+        <note>key: product.collection.product_list.none</note>
       </trans-unit>
       <trans-unit id="eba8a94d81c7b8cd339a6e615d5dc8215e7836b2" resname="product.collection.product_name">
         <source>Product name</source>
@@ -112,7 +117,7 @@
         <note>key: product.collection.product_name</note>
       </trans-unit>
       <trans-unit id="48b30b9fac72a2582a7d28ae72266818679be5b1" resname="product.collection.product_type">
-        <source>Product Type</source>
+        <source>Product type</source>
         <target state="translated">Tipo de producto</target>
         <note>key: product.collection.product_type</note>
       </trans-unit>
@@ -122,7 +127,7 @@
         <note>key: product_embed.add</note>
       </trans-unit>
       <trans-unit id="93685a0d02bb9abc5e18c888adaa4f6b78956e28" resname="product_embed.add_only_base_products">
-        <source>You can add or select only base product.</source>
+        <source>You can add or select only base products.</source>
         <target state="translated">Solo puedes añadir o seleccionar el producto base.</target>
         <note>key: product_embed.add_only_base_products</note>
       </trans-unit>
@@ -152,7 +157,7 @@
         <note>key: product_embed.error.not_found</note>
       </trans-unit>
       <trans-unit id="3d67846626b5a06ab141333ef4bdc2106381eb42" resname="product_embed.no_product">
-        <source>No product selected</source>
+        <source>You haven't selected any products yet.</source>
         <target state="translated">Ningún producto seleccionado</target>
         <note>key: product_embed.no_product</note>
       </trans-unit>
@@ -167,9 +172,14 @@
         <note>key: product_embed.placeholder</note>
       </trans-unit>
       <trans-unit id="501fdf9281b711b92aa26b875c3a87d616127e89" resname="product_embed.product_list">
-        <source>Product (%count%)</source>
+        <source>Selected products (%count%)</source>
         <target state="translated">Producto (%count%)</target>
         <note>key: product_embed.product_list</note>
+      </trans-unit>
+      <trans-unit id="4c8040fe4603a071a7cf446bafa676c9926a05c0" resname="product_embed.product_list.none">
+        <source>Selected products</source>
+        <target state="translated">Productos seleccionados</target>
+        <note>key: product_embed.product_list.none</note>
       </trans-unit>
       <trans-unit id="8986c30fc9c158b97d2ca990e7da82f59167da90" resname="product_embed.product_name">
         <source>Product name</source>
@@ -177,9 +187,14 @@
         <note>key: product_embed.product_name</note>
       </trans-unit>
       <trans-unit id="630d969bb973ea52cf85a27da58cac954a459fd7" resname="product_embed.product_type">
-        <source>Product Type</source>
+        <source>Product type</source>
         <target state="translated">Tipo de producto</target>
         <note>key: product_embed.product_type</note>
+      </trans-unit>
+      <trans-unit id="8df0d1a789ecf2e46c4d6e880c9222b0fd97083d" resname="product_embed.select_product_btn.label">
+        <source>Select product</source>
+        <target state="translated">Seleccionar producto</target>
+        <note>key: product_embed.select_product_btn.label</note>
       </trans-unit>
     </body>
   </file>
