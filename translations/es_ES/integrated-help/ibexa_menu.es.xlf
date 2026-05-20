@@ -62,7 +62,7 @@
         <note>key: help__product_roadmap</note>
       </trans-unit>
       <trans-unit id="04480423ab5de93185e08463ee36c196661d303e" resname="help__product_roadmap_description">
-        <source>Set upcoming features that could help shape your strategy for the future.</source>
+        <source>See upcoming features that could help shape your strategy for the future.</source>
         <target state="translated">Establece las nuevas características que podrían contribuir a dar forma a tu estrategia de cara al futuro.</target>
         <note>key: help__product_roadmap_description</note>
       </trans-unit>
@@ -92,7 +92,7 @@
         <note>key: help__submit_idea</note>
       </trans-unit>
       <trans-unit id="e1cfcebd731fabe66d29ff73b8ef305cf255b499" resname="help__support_idea_description">
-        <source>Review insights and suggestions from users to improve product usability.</source>
+        <source>Submit insights and suggestions to improve the product.</source>
         <target state="translated">Revisa los comentarios y sugerencias de los usuarios para mejorar el uso del producto.</target>
         <note>key: help__support_idea_description</note>
       </trans-unit>
