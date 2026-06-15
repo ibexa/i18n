@@ -86,6 +86,11 @@
         <target state="translated">Der Sprachcode {{ value }} enthält unzulässige Zeichen. Der Sprachcode sollte mit einem Buchstaben, einer Ziffer oder einem Unterstrich beginnen und nur Buchstaben, Ziffern, Unterstriche, Bindestriche und Doppelpunkte enthalten.</target>
         <note>key: ibexa.language.language_code.format</note>
       </trans-unit>
+      <trans-unit id="3243217a06465230d521ed024d8d7cbab3f8701d" resname="ibexa.matrix.column.identifier.format">
+        <source>An identifier must start with an alphanumeric or underscore character and can contain hyphens and colons.</source>
+        <target state="translated">Eine Kennung muss mit einem alphanumerischen Zeichen oder Unterstrich beginnen und darf Bindestriche sowie Doppelpunkte enthalten.</target>
+        <note>key: ibexa.matrix.column.identifier.format</note>
+      </trans-unit>
       <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">
         <source>Provided address does not exist</source>
         <target state="translated">Die angegebene Adresse ist nicht vorhanden</target>
