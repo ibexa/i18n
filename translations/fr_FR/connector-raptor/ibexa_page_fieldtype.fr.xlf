@@ -26,6 +26,31 @@
         <target state="translated">Contenu consulté avec la catégorie de l’article</target>
         <note>key: ibexa.connector_raptor.block.raptor_content_based_on_product_category.name</note>
       </trans-unit>
+      <trans-unit id="0d8a4b76ce4701cc70b2b9db13a3e7bbe26824ef" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.content_id.help">
+        <source>Choose content to show associated products for. Leave empty to use current page content.</source>
+        <target state="translated">Choisissez le contenu du quel afficher les produits associés. Laissez vide pour utiliser le contenu de la page actuelle.</target>
+        <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.content_id.help</note>
+      </trans-unit>
+      <trans-unit id="205f65f63ad226804392aa7a2f9b3684fbe4239f" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.content_id.name">
+        <source>Select content for recommendations</source>
+        <target state="translated">Sélectionner le contenu pour les recommandations</target>
+        <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.content_id.name</note>
+      </trans-unit>
+      <trans-unit id="0b203dd8aa0ce1ca02190443072844b249594ef8" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="translated">Limite de recommandations</target>
+        <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="f7283b9ac896de252ed531c7a86242011475925f" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="translated">Nom affiché sur la page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="38978ca6c4b05c688b1d2afa16563c3938edc471" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.name">
+        <source>Items associated with the given Content</source>
+        <target state="translated">Articles associés au contenu sélectionné</target>
+        <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.name</note>
+      </trans-unit>
       <trans-unit id="a2a6c7498f81e8dc767b2e2a4c141e4e5a06e44a" resname="ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.limit.name">
         <source>Recommendations limit</source>
         <target state="translated">Limite de recommandations</target>
@@ -156,6 +181,21 @@
         <target state="translated">D’autres clients ont aussi consulté ce contenu</target>
         <note>key: ibexa.connector_raptor.block.raptor_similar_content.name</note>
       </trans-unit>
+      <trans-unit id="8f2a1a327fb0c6df7abba985b483bbc70805f197" resname="ibexa.connector_raptor.block.raptor_user_content_history.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="translated">Limite de recommandations</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_content_history.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="6a483f4281f05d4b3b20ae0dd780726ac4c0363a" resname="ibexa.connector_raptor.block.raptor_user_content_history.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="translated">Nom affiché sur la page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_content_history.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="f0dea2c1b9df33b7e8de500f64efed7d5abea8fb" resname="ibexa.connector_raptor.block.raptor_user_content_history.name">
+        <source>User's content history sorted by recent content or top content</source>
+        <target state="translated">Historique des contenus de l’utilisateur trié par contenus récents ou les plus consultés</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_content_history.name</note>
+      </trans-unit>
       <trans-unit id="1b459d2d0f5a56287e83f597eec1f280c27805f5" resname="ibexa.connector_raptor.block.raptor_user_content_recommendations.attributes.limit.name">
         <source>Recommendations limit</source>
         <target state="translated">Limite de recommandations</target>
@@ -170,6 +210,26 @@
         <source>Personalized content recommendations</source>
         <target state="translated">Recommandations de contenu personnalisées</target>
         <note>key: ibexa.connector_raptor.block.raptor_user_content_recommendations.name</note>
+      </trans-unit>
+      <trans-unit id="95f8df4781bad07393c54a8478c1928e79fa4ea1" resname="ibexa.connector_raptor.block.raptor_user_cross_selling.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="translated">Limite de recommandations</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_cross_selling.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="ff86b4e167c18c0680f88bdbf3aa9fc2bd5c68b9" resname="ibexa.connector_raptor.block.raptor_user_cross_selling.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="translated">Nom affiché sur la page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_cross_selling.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="0f9ebc23025f312a55c2e9e2e2e601fc3f7647d7" resname="ibexa.connector_raptor.block.raptor_user_cross_selling.attributes.show_in_stock.name">
+        <source>Show only available items</source>
+        <target state="translated">Afficher uniquement les articles disponibles</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_cross_selling.attributes.show_in_stock.name</note>
+      </trans-unit>
+      <trans-unit id="161abe5a54fb73a38d4219acbcadebc32f9ae7bd" resname="ibexa.connector_raptor.block.raptor_user_cross_selling.name">
+        <source>The personal shopping assistant (additional sales)</source>
+        <target state="translated">L’Assistant shopping personnel (ventes additionnelles)</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_cross_selling.name</note>
       </trans-unit>
       <trans-unit id="beab02e126a03e3f7f666964d6311d14f733c211" resname="ibexa.connector_raptor.block.raptor_user_item_history.attributes.limit.name">
         <source>Recommendations limit</source>
@@ -212,9 +272,29 @@
         <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.show_in_stock.name</note>
       </trans-unit>
       <trans-unit id="d0b6a1260fceab98932a323e521154c8d7575999" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.name">
-        <source>The Personal Shopping Assistant</source>
-        <target state="translated">L’Assistant Shopping Personnel</target>
+        <source>The personal shopping assistant</source>
+        <target state="translated">L’Assistant shopping personnel</target>
         <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.name</note>
+      </trans-unit>
+      <trans-unit id="7a56b6d7135c99c473f7e96b43b65680f4e546f4" resname="ibexa.connector_raptor.block.raptor_user_look_alike.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="translated">Limite de recommandations</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_look_alike.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="0ba537bc87ffdb45798e7c8748c375971f4d63b2" resname="ibexa.connector_raptor.block.raptor_user_look_alike.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="translated">Nom affiché sur la page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_look_alike.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="772d61934c8718e43cc9ecb82bdc17337509659a" resname="ibexa.connector_raptor.block.raptor_user_look_alike.attributes.show_in_stock.name">
+        <source>Enable showing only available items</source>
+        <target state="translated">Afficher uniquement les articles disponibles</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_look_alike.attributes.show_in_stock.name</note>
+      </trans-unit>
+      <trans-unit id="63606e8b4c7ffb83c20d3b902c7b93b29ce811ea" resname="ibexa.connector_raptor.block.raptor_user_look_alike.name">
+        <source>The personal shopping assistant (conversion)</source>
+        <target state="translated">L’Assistant shopping personnel (conversion)</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_look_alike.name</note>
       </trans-unit>
       <trans-unit id="8d8ef4cec49ef4bc00fd76e95cdcac4d13bd7e93" resname="ibexa.connector_raptor.block_category.commerce">
         <source>Recommendations: Commerce</source>

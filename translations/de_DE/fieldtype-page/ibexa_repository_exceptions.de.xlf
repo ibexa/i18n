@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="0fdd0bfb9d47b0e0b61491581f7e9e75ddff4545" resname="Disabled blocks with identifiers: '%blockIdList%' does not exist in Page builder configuration">
         <source>Disabled blocks with identifiers: '%blockIdList%' does not exist in Page builder configuration</source>
-        <target state="translated">Deaktivierte Blöcke mit den Kennungen: „%blockIdList%“ existieren nicht in der Seiten-Editor-Konfiguration</target>
+        <target state="translated">Deaktivierte Blöcke mit den Bezeichnern: „%blockIdList%“ existieren nicht in der Seiten-Editor-Konfiguration</target>
         <note>key: Disabled blocks with identifiers: '%blockIdList%' does not exist in Page builder configuration</note>
       </trans-unit>
       <trans-unit id="966c56a59539567a228360988f378cdab4f07489" resname="Disabled layouts with identifiers: '%layoutsIdList%' does not exist in Page builder configuration">
         <source>Disabled layouts with identifiers: '%layoutsIdList%' does not exist in Page builder configuration</source>
-        <target state="translated">Deaktivierte Layouts mit den Kennungen: „%layoutsIdList%“ existieren nicht in der Seiten-Editor-Konfiguration</target>
+        <target state="translated">Deaktivierte Layouts mit den Bezeichnern: „%layoutsIdList%“ existieren nicht in der Seiten-Editor-Konfiguration</target>
         <note>key: Disabled layouts with identifiers: '%layoutsIdList%' does not exist in Page builder configuration</note>
       </trans-unit>
       <trans-unit id="c3f030216ac954b149452be7a8f198a81fa6f470" resname="Layout '%layout_id%' was disabled for '%landing_page_fd_name%'.">
