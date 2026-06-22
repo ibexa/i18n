@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="9e1ffd3b1b0cb7ca0472aadaf71c3d5466eaf907" resname="Content with identifier %contentId% is not a valid relation target">
         <source>Content with identifier %contentId% is not a valid relation target</source>
-        <target state="translated">Inhalt mit der Kennung %contentId% ist kein gültiges Beziehungsziel</target>
+        <target state="translated">Inhalt mit dem Bezeichner %contentId% ist kein gültiges Beziehungsziel</target>
         <note>key: Content with identifier %contentId% is not a valid relation target</note>
       </trans-unit>
       <trans-unit id="dbf0b883e33a6e7c433ffa9a536fd214cda39b5c" resname="Could not find %classType% class '%className%'">
