@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="38978ca6c4b05c688b1d2afa16563c3938edc471" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.name">
         <source>Items associated with the given Content</source>
-        <target state="translated">Elementos asociados con el contenido indicado</target>
+        <target state="translated">Elementos asociados con el contenido proporcionado</target>
         <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.name</note>
       </trans-unit>
       <trans-unit id="a2a6c7498f81e8dc767b2e2a4c141e4e5a06e44a" resname="ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.limit.name">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="161abe5a54fb73a38d4219acbcadebc32f9ae7bd" resname="ibexa.connector_raptor.block.raptor_user_cross_selling.name">
         <source>The personal shopping assistant (additional sales)</source>
-        <target state="translated">El Asistente Personal de Compras (ventas adicionales)</target>
+        <target state="translated">El asistente personal de compras (ventas adicionales)</target>
         <note>key: ibexa.connector_raptor.block.raptor_user_cross_selling.name</note>
       </trans-unit>
       <trans-unit id="beab02e126a03e3f7f666964d6311d14f733c211" resname="ibexa.connector_raptor.block.raptor_user_item_history.attributes.limit.name">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="d0b6a1260fceab98932a323e521154c8d7575999" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.name">
         <source>The personal shopping assistant</source>
-        <target state="translated">El Asistente Personal de Compras</target>
+        <target state="translated">El asistente personal de compras</target>
         <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.name</note>
       </trans-unit>
       <trans-unit id="7a56b6d7135c99c473f7e96b43b65680f4e546f4" resname="ibexa.connector_raptor.block.raptor_user_look_alike.attributes.limit.name">
@@ -293,7 +293,7 @@
       </trans-unit>
       <trans-unit id="63606e8b4c7ffb83c20d3b902c7b93b29ce811ea" resname="ibexa.connector_raptor.block.raptor_user_look_alike.name">
         <source>The personal shopping assistant (conversion)</source>
-        <target state="translated">El Asistente Personal de Compras (conversión)</target>
+        <target state="translated">El asistente personal de compras (conversión)</target>
         <note>key: ibexa.connector_raptor.block.raptor_user_look_alike.name</note>
       </trans-unit>
       <trans-unit id="8d8ef4cec49ef4bc00fd76e95cdcac4d13bd7e93" resname="ibexa.connector_raptor.block_category.commerce">

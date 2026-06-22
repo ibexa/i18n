@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="3243217a06465230d521ed024d8d7cbab3f8701d" resname="ibexa.matrix.column.identifier.format">
         <source>An identifier must start with an alphanumeric or underscore character and can contain hyphens and colons.</source>
-        <target state="translated">Eine Kennung muss mit einem alphanumerischen Zeichen oder Unterstrich beginnen und darf Bindestriche sowie Doppelpunkte enthalten.</target>
+        <target state="translated">Ein Bezeichner muss mit einem alphanumerischen Zeichen oder Unterstrich beginnen und darf Bindestriche sowie Doppelpunkte enthalten.</target>
         <note>key: ibexa.matrix.column.identifier.format</note>
       </trans-unit>
       <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">

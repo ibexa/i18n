@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="28c9515009db451ab8e1affb40edaeb51a24042b" resname="link_btn.site_access.label">
         <source>Site access</source>
-        <target state="translated">Site-Zugriff</target>
+        <target state="translated">SiteAccess</target>
         <note>key: link_btn.site_access.label</note>
       </trans-unit>
       <trans-unit id="082d2d34dd20fe267d5693d3f6a2c8be105c490c" resname="move_down_btn.title">

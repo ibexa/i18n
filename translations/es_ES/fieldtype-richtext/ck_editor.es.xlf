@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="39cd8d778cc5462b7ab99f304fcf7f906e988b2f" resname="custom_attributes.revert.label">
         <source>Revert to saved</source>
-        <target state="translated">Revertir a guardado</target>
+        <target state="translated">Volver a la versión guardada</target>
         <note>key: custom_attributes.revert.label</note>
       </trans-unit>
       <trans-unit id="dc8843e639e3ecba7dca9905a701d12eafc44c54" resname="custom_attributes.save.label">

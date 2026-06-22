@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="05b6713cf62a629f6a5b34300e23bec5b5471e36" resname="ibexa_media.auto_play">
         <source>Autoplay</source>
-        <target state="translated">Automatisch</target>
+        <target state="translated">Autoplay</target>
         <note>key: ibexa_media.auto_play</note>
       </trans-unit>
       <trans-unit id="c6ce08ac635a4327fe69d01661e0ae71ad80eee6" resname="ibexa_media.browser_does_not_support_html5_video">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="be717c48f3e80b262438d8d324c5a55d2ed92a3c" resname="ibexa_media.loop">
         <source>Loop</source>
-        <target state="translated">Wiederholen</target>
+        <target state="translated">Loop</target>
         <note>key: ibexa_media.loop</note>
       </trans-unit>
       <trans-unit id="6001bce322a629c92cd5d8903137ce6d03df795e" resname="ibexa_media.no">
