@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
-  <file source-language="en" target-language="es" datatype="plaintext" original="not.available">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -85,6 +85,11 @@
         <source>The Language code {{ value }} contains illegal characters. Language code should start with a letter, digit or underscore and only contain letters, digits, numbers, underscores, hyphens and colons.</source>
         <target state="translated">El código de idioma {{ value }} contiene caracteres no válidos. El código de idioma debe comenzar con una letra, dígito o guion bajo, y solo debe contener letras, dígitos, números, guiones bajos, guiones y dos puntos.</target>
         <note>key: ibexa.language.language_code.format</note>
+      </trans-unit>
+      <trans-unit id="3243217a06465230d521ed024d8d7cbab3f8701d" resname="ibexa.matrix.column.identifier.format">
+        <source>An identifier must start with an alphanumeric or underscore character and can contain hyphens and colons.</source>
+        <target state="translated">Un identificador debe comenzar con un carácter alfanumérico o guion bajo y puede contener guiones y dos puntos.</target>
+        <note>key: ibexa.matrix.column.identifier.format</note>
       </trans-unit>
       <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">
         <source>Provided address does not exist</source>
