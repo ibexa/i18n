@@ -12,8 +12,8 @@
         <note>key: main__personalization</note>
       </trans-unit>
       <trans-unit id="b627800b4a0644f193458ef5b848d6643cd0f28a" resname="main__personalization__dashboard">
-        <source>Data and analytics</source>
-        <target state="new">Data and analytics</target>
+        <source>Dashboard</source>
+        <target state="new">Dashboard</target>
         <note>key: main__personalization__dashboard</note>
       </trans-unit>
       <trans-unit id="01fa73ca53d3a0532182ef65def2ca8756924332" resname="main__personalization__group_settings">
