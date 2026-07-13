@@ -87,8 +87,8 @@
         <note>key: product.collection.error.not_found</note>
       </trans-unit>
       <trans-unit id="1debb37be6f3300270ec8ceba80cd84def84855e" resname="product.collection.no_products">
-        <source>There are currently no added products in the list</source>
-        <target state="new">There are currently no added products in the list</target>
+        <source>You haven't selected any products yet</source>
+        <target state="new">You haven't selected any products yet</target>
         <note>key: product.collection.no_products</note>
       </trans-unit>
       <trans-unit id="76116573f30b82c8f6271feb6b8a75b3eea224a2" resname="product.collection.or">
@@ -115,6 +115,11 @@
         <source>Product name</source>
         <target state="new">Product name</target>
         <note>key: product.collection.product_name</note>
+      </trans-unit>
+      <trans-unit id="08cc229238d2b39e4caa696a55eea351648145b0" resname="product.collection.product_single">
+        <source>Selected product</source>
+        <target state="new">Selected product</target>
+        <note>key: product.collection.product_single</note>
       </trans-unit>
       <trans-unit id="48b30b9fac72a2582a7d28ae72266818679be5b1" resname="product.collection.product_type">
         <source>Product type</source>
@@ -157,8 +162,8 @@
         <note>key: product_embed.error.not_found</note>
       </trans-unit>
       <trans-unit id="3d67846626b5a06ab141333ef4bdc2106381eb42" resname="product_embed.no_product">
-        <source>You haven't selected any products yet.</source>
-        <target state="new">You haven't selected any products yet.</target>
+        <source>You haven't selected any product yet.</source>
+        <target state="new">You haven't selected any product yet.</target>
         <note>key: product_embed.no_product</note>
       </trans-unit>
       <trans-unit id="c97887f0ef1ffb52f73590d64dd711fd8ff97631" resname="product_embed.or">
@@ -171,15 +176,10 @@
         <target state="new">Enter product code</target>
         <note>key: product_embed.placeholder</note>
       </trans-unit>
-      <trans-unit id="501fdf9281b711b92aa26b875c3a87d616127e89" resname="product_embed.product_list">
-        <source>Selected products (%count%)</source>
-        <target state="new">Selected products (%count%)</target>
-        <note>key: product_embed.product_list</note>
-      </trans-unit>
-      <trans-unit id="4c8040fe4603a071a7cf446bafa676c9926a05c0" resname="product_embed.product_list.none">
-        <source>Selected products</source>
-        <target state="new">Selected products</target>
-        <note>key: product_embed.product_list.none</note>
+      <trans-unit id="773350ef438ec382563a23e312af5804bd0461fc" resname="product_embed.product_list.single">
+        <source>Selected product</source>
+        <target state="new">Selected product</target>
+        <note>key: product_embed.product_list.single</note>
       </trans-unit>
       <trans-unit id="8986c30fc9c158b97d2ca990e7da82f59167da90" resname="product_embed.product_name">
         <source>Product name</source>

@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="590a24a252bdf968959cb0a87468fb83529fe7fa" resname="ezimageasset.unsplash.alternative_text">
         <source>External alternative text</source>
-        <target>External alternative text</target>
+        <target state="new">External alternative text</target>
         <note>key: ezimageasset.unsplash.alternative_text</note>
       </trans-unit>
       <trans-unit id="f4b2ea85ba7e69db74de236bac8cadb25e8bd484" resname="ezimageasset.unsplash.author_attribute">
         <source><![CDATA[Photo by <a href="%url%">%author_name%</a> on <a href="https://unsplash.com/?utm_source=%utm_source%&utm_medium=referral">Unsplash</a> ]]></source>
-        <target><![CDATA[Photo by <a href="%url%">%author_name%</a> on <a href="https://unsplash.com/?utm_source=%utm_source%&utm_medium=referral">Unsplash</a> ]]></target>
+        <target state="new"><![CDATA[Photo by <a href="%url%">%author_name%</a> on <a href="https://unsplash.com/?utm_source=%utm_source%&utm_medium=referral">Unsplash</a> ]]></target>
         <note>key: ezimageasset.unsplash.author_attribute</note>
       </trans-unit>
       <trans-unit id="a08ddd06450018f82f66ecf913174c4f66b9d38c" resname="ezimageasset.unsplash.height">
         <source>Height</source>
-        <target>Height</target>
+        <target state="new">Height</target>
         <note>key: ezimageasset.unsplash.height</note>
       </trans-unit>
       <trans-unit id="c6d6aa9af2a1983ef9a8d911cf9f630c7e2a443d" resname="ezimageasset.unsplash.width">
         <source>Width</source>
-        <target>Width</target>
+        <target state="new">Width</target>
         <note>key: ezimageasset.unsplash.width</note>
       </trans-unit>
     </body>

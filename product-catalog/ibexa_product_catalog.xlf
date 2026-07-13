@@ -1182,8 +1182,8 @@
         <note>key: modal.transition.catalog.change_button.label</note>
       </trans-unit>
       <trans-unit id="75751e6fb57250f631fc029a42202f080fc08d77" resname="modal.transition.catalog.confirm_message">
-        <source>Are you sure you want to make the transition?</source>
-        <target state="new">Are you sure you want to make the transition?</target>
+        <source>Are you sure you want to make a transition?</source>
+        <target state="new">Are you sure you want to make a transition?</target>
         <note>key: modal.transition.catalog.confirm_message</note>
       </trans-unit>
       <trans-unit id="f15aba1220b27d17e3e4b4f03a0cf40762893d14" resname="number_range.max.label">
@@ -2582,8 +2582,8 @@
         <note>key: tab.variants.action.delete</note>
       </trans-unit>
       <trans-unit id="d3d9526a9c170a39a320bc4578b128d3270f5a39" resname="tab.variants.available">
-        <source>Available</source>
-        <target state="new">Available</target>
+        <source>Availability</source>
+        <target state="new">Availability</target>
         <note>key: tab.variants.available</note>
       </trans-unit>
       <trans-unit id="dfe8678eb36be518875b312c3e778b80b3623e62" resname="tab.variants.base_price">
@@ -2660,11 +2660,6 @@
         <source>Name</source>
         <target state="new">Name</target>
         <note>key: tab.variants.name</note>
-      </trans-unit>
-      <trans-unit id="9cd1bdf2505f7bfb0a04ab5772a5ed9b2a5bbd89" resname="tab.variants.not_available">
-        <source>Not Available</source>
-        <target state="new">Not Available</target>
-        <note>key: tab.variants.not_available</note>
       </trans-unit>
       <trans-unit id="b2ad822ade77f2d39e8b1ef1c4505910d71fe4d8" resname="tab.variants.stock">
         <source>Stock</source>

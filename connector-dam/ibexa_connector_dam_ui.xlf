@@ -16,7 +16,7 @@
         <target state="new">Select Image Asset</target>
         <note>key: dam.modal.title</note>
       </trans-unit>
-      <trans-unit id="ef06a84c0f7befded548575fa9659bac170ad8bd" resname="fieldtype.ibexa_image_asset.dam_select.label">
+      <trans-unit id="905ee31b6bbae860f15b8aff42c1de4fc9c016fc" resname="fieldtype.ibexa_image_asset.dam_select.label">
         <source>Select from DAM</source>
         <target state="new">Select from DAM</target>
         <note>key: fieldtype.ibexa_image_asset.dam_select.label</note>

@@ -6,6 +6,21 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="aaf3adfc36f941b07fdaef5ef154f6fd27155bfd" resname="ibexa.connector_raptor.block.feed_id_settings.help">
+        <source>Get MerchandisingCampaignId in Raptor using the settings above</source>
+        <target state="new">Get MerchandisingCampaignId in Raptor using the settings above</target>
+        <note>key: ibexa.connector_raptor.block.feed_id_settings.help</note>
+      </trans-unit>
+      <trans-unit id="dc28d30c53afea13dc8863794a03e8a5c50d4575" resname="ibexa.connector_raptor.block.feed_id_settings.label">
+        <source>Go to FeedId settings in Raptor</source>
+        <target state="new">Go to FeedId settings in Raptor</target>
+        <note>key: ibexa.connector_raptor.block.feed_id_settings.label</note>
+      </trans-unit>
+      <trans-unit id="22cec11a0f26918e088f166165b9aec80365e911" resname="ibexa.connector_raptor.block.feed_id_settings.placeholder">
+        <source>Paste FeedID here</source>
+        <target state="new">Paste FeedID here</target>
+        <note>key: ibexa.connector_raptor.block.feed_id_settings.placeholder</note>
+      </trans-unit>
       <trans-unit id="a1d943f291bb564a569863bfa62ded21891f12b3" resname="ibexa.connector_raptor.block.go_to_raptor_settings.label">
         <source>Go to advanced settings in Raptor</source>
         <target state="new">Go to advanced settings in Raptor</target>

@@ -62,8 +62,8 @@
         <note>key: ibexa.integrated_help.settings.product_tour.description</note>
       </trans-unit>
       <trans-unit id="39640f711b4c4d04f4672d6f51cb85a1a61b7e6b" resname="ibexa.integrated_help.settings.product_tour.name">
-        <source>Product tour:</source>
-        <target state="new">Product tour:</target>
+        <source>Product tour</source>
+        <target state="new">Product tour</target>
         <note>key: ibexa.integrated_help.settings.product_tour.name</note>
       </trans-unit>
       <trans-unit id="2c62d392b946a77c5c2b9f11410def6d25cdd8ec" resname="ibexa.integrated_help.settings.product_tour.value.disabled">
@@ -92,7 +92,7 @@
         <note>key: ibexa.integrated_help.settings.product_tour_scenarios.value.completed</note>
       </trans-unit>
       <trans-unit id="4d6c93d1a504de527dc5aa247b3bb4142dedef01" resname="ibexa.integrated_help.settings.product_tour_scenarios.value.not_started">
-        <source>Not completed</source>
+        <source>Not started</source>
         <target state="new">Not started</target>
         <note>key: ibexa.integrated_help.settings.product_tour_scenarios.value.not_started</note>
       </trans-unit>
