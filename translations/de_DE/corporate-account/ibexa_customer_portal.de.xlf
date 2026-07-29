@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="9b57f809cf03a20045266650dc08f54a59368c5a" resname="account.forgot_user_password.confrimation.reset_your_password">
         <source>Reset your password</source>
-        <target state="translated">Setzen Sie Ihre Passwort zurück</target>
+        <target state="translated">Setzen Sie Ihr Passwort zurück</target>
         <note>key: account.forgot_user_password.confrimation.reset_your_password</note>
       </trans-unit>
       <trans-unit id="7f3165d28b44a7e018dd007804056fab2b1cac34" resname="account.forgot_user_password.confrimation.success.alert">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="d021f3be1567b2c5903acabc37ebd159e49f5a39" resname="account.forgot_user_password.mail.reset_your_password">
         <source>Reset your password</source>
-        <target state="translated">Setzen Sie Ihre Passwort zurück</target>
+        <target state="translated">Setzen Sie Ihr Passwort zurück</target>
         <note>key: account.forgot_user_password.mail.reset_your_password</note>
       </trans-unit>
       <trans-unit id="bb9d963889fbcebb7dc70a375b3ac8a66898a7f3" resname="account.forgot_user_password.reason.migration">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="75dadec2552b1541f6ce96b3776bb8afa1bdc5a5" resname="account.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
-        <target state="translated">Setzen Sie Ihre Passwort zurück</target>
+        <target state="translated">Setzen Sie Ihr Passwort zurück</target>
         <note>key: account.forgot_user_password.reset_your_password</note>
       </trans-unit>
       <trans-unit id="f8527540e797042b323cf2b85a47de5bdf990016" resname="account.forgot_user_password.with_login.contact_administrator">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="6f0a4c250de854fc0b90a60f1b4545aeec376def" resname="account.forgot_user_password.with_login.reset_your_password">
         <source>Reset your password</source>
-        <target state="translated">Setzen Sie Ihre Passwort zurück</target>
+        <target state="translated">Setzen Sie Ihr Passwort zurück</target>
         <note>key: account.forgot_user_password.with_login.reset_your_password</note>
       </trans-unit>
       <trans-unit id="fd832f255d5843d3db954c94203eb52c5b44ccbd" resname="account.login.headline">
