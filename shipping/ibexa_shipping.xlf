@@ -27,8 +27,8 @@
         <note>key: ibexa.modal.delete</note>
       </trans-unit>
       <trans-unit id="a28783a0787a2e7218b31f1f979e666a6c06f10b" resname="ibexa.modal.delete.shipping_method.confirm_message">
-        <source>Are you sure you want to delete this shipping method?</source>
-        <target state="new">Are you sure you want to delete this shipping method?</target>
+        <source>Are you sure you want to delete this Shipping method?</source>
+        <target state="new">Are you sure you want to delete this Shipping method?</target>
         <note>key: ibexa.modal.delete.shipping_method.confirm_message</note>
       </trans-unit>
       <trans-unit id="432a3d0c2629a130e32d79b1dd6097bb1be03f27" resname="ibexa.shipment.breadcrumb.list">

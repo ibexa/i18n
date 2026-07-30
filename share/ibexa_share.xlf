@@ -122,8 +122,8 @@
         <note>key: share.invite.action.edit</note>
       </trans-unit>
       <trans-unit id="a3f9551399c4a9dab8002dae4a6868d9e75571cd" resname="share.invite.action.remove">
-        <source>Remove access</source>
-        <target state="new">Remove access</target>
+        <source>Remove</source>
+        <target state="new">Remove</target>
         <note>key: share.invite.action.remove</note>
       </trans-unit>
       <trans-unit id="39904e44ee1e2625a92da96e2c12822bfbd32140" resname="share.invite.action.view">

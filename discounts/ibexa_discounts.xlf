@@ -672,8 +672,8 @@
         <note>key: discount.view.tab.products.products.list.no_product_assigned.action_text</note>
       </trans-unit>
       <trans-unit id="fa0213dddda013a5c659763c4b39489dcc7fe199" resname="discount.view.tab.products.products.list.no_product_assigned.info">
-        <source>No product is assigned to the discount.</source>
-        <target state="new">No product is assigned to the discount.</target>
+        <source>No products in the discount</source>
+        <target state="new">No products in the discount</target>
         <note>key: discount.view.tab.products.products.list.no_product_assigned.info</note>
       </trans-unit>
       <trans-unit id="edbd6955285f2226904f9d88d43c692a882e7784" resname="discount.view.tab.products.stock.unlimited">

@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="92984210bb74f5c966f64c7518549bd9e2fa9f68" resname="ezplatform_site_factory">
-        <source>Site Management</source>
-        <target state="new">Site Management</target>
+        <source>Site management</source>
+        <target state="new">Site management</target>
         <note>key: ezplatform_site_factory</note>
       </trans-unit>
       <trans-unit id="41bd44353355b16a7264a783b7060a544d0f0245" resname="ezplatform_site_factory_skeletons">

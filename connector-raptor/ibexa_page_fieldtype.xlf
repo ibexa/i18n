@@ -22,8 +22,8 @@
         <note>key: ibexa.connector_raptor.block.raptor_content_based_on_product_category.attributes.name.name</note>
       </trans-unit>
       <trans-unit id="6e2792f2cf45ecd75276accab3ed6d3b35b3e8ff" resname="ibexa.connector_raptor.block.raptor_content_based_on_product_category.name">
-        <source>Content that has been seen along with the item category</source>
-        <target state="new">Content that has been seen along with the item category</target>
+        <source>Content that has been seen along with the product category</source>
+        <target state="new">Content that has been seen along with the product category</target>
         <note>key: ibexa.connector_raptor.block.raptor_content_based_on_product_category.name</note>
       </trans-unit>
       <trans-unit id="0d8a4b76ce4701cc70b2b9db13a3e7bbe26824ef" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.content_id.help">
@@ -47,9 +47,49 @@
         <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.name.name</note>
       </trans-unit>
       <trans-unit id="38978ca6c4b05c688b1d2afa16563c3938edc471" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.name">
-        <source>Items associated with the given Content</source>
-        <target state="new">Items associated with the given Content</target>
+        <source>Products associated with given Content</source>
+        <target state="new">Products associated with given Content</target>
         <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.name</note>
+      </trans-unit>
+      <trans-unit id="70782aa8292cc365d191e7a3c18ab502d962d49a" resname="ibexa.connector_raptor.block.raptor_merchandising_content.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_content.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="30a221fc0702f6e706ff5321714bed50d0d20c22" resname="ibexa.connector_raptor.block.raptor_merchandising_content.attributes.merchandising_campaign_id.name">
+        <source>FeedID</source>
+        <target state="new">FeedID</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_content.attributes.merchandising_campaign_id.name</note>
+      </trans-unit>
+      <trans-unit id="e6a27b1fc3745d3cebd3016d407c1efdff25b8d7" resname="ibexa.connector_raptor.block.raptor_merchandising_content.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_content.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="820d84f4ddd2f028247bae09aa092c5e0ac80f53" resname="ibexa.connector_raptor.block.raptor_merchandising_content.name">
+        <source>Merchandising content sorted by personal preferences and popularity</source>
+        <target state="new">Merchandising content sorted by personal preferences and popularity</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_content.name</note>
+      </trans-unit>
+      <trans-unit id="e360b036a20ba9bf4ccd7bd9db38d12f09ce58b0" resname="ibexa.connector_raptor.block.raptor_merchandising_items.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="new">Recommendations limit</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_items.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="68ef03ac94d3ec0244531b9e4aa23922125bfb4a" resname="ibexa.connector_raptor.block.raptor_merchandising_items.attributes.merchandising_campaign_id.name">
+        <source>FeedID</source>
+        <target state="new">FeedID</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_items.attributes.merchandising_campaign_id.name</note>
+      </trans-unit>
+      <trans-unit id="82ff5320e00480f294337089a84c5391986009ca" resname="ibexa.connector_raptor.block.raptor_merchandising_items.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="new">Name displayed on page</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_items.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="f61fdd20636b440102b9323416ebff35e0c95793" resname="ibexa.connector_raptor.block.raptor_merchandising_items.name">
+        <source>Items of Customized Feeds sorted by personal preferences and popularity or trendiness</source>
+        <target state="new">Items of Customized Feeds sorted by personal preferences and popularity or trendiness</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_items.name</note>
       </trans-unit>
       <trans-unit id="a2a6c7498f81e8dc767b2e2a4c141e4e5a06e44a" resname="ibexa.connector_raptor.block.raptor_other_customers_also_purchased.attributes.limit.name">
         <source>Recommendations limit</source>
@@ -157,8 +197,8 @@
         <note>key: ibexa.connector_raptor.block.raptor_popular_items_in_category.name</note>
       </trans-unit>
       <trans-unit id="5a9842ca934d13d05fd563d8e5fabb3b5d16c220" resname="ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.help">
-        <source>Choose content to show similar items for. Leave empty to use current page content.</source>
-        <target state="new">Choose content to show similar items for. Leave empty to use current page content.</target>
+        <source>Choose content to show similar products for. Leave empty to use current page content.</source>
+        <target state="new">Choose content to show similar products for. Leave empty to use current page content.</target>
         <note>key: ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.help</note>
       </trans-unit>
       <trans-unit id="37430521c349b410ae48ba4febb2c797c7390f2e" resname="ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.name">
@@ -247,8 +287,8 @@
         <note>key: ibexa.connector_raptor.block.raptor_user_item_history.attributes.show_in_stock.name</note>
       </trans-unit>
       <trans-unit id="7eb1e0a99eddeff9fe56a9d6d283d1d5a4602167" resname="ibexa.connector_raptor.block.raptor_user_item_history.name">
-        <source>User's item history</source>
-        <target state="new">User's item history</target>
+        <source>User's product history</source>
+        <target state="new">User's product history</target>
         <note>key: ibexa.connector_raptor.block.raptor_user_item_history.name</note>
       </trans-unit>
       <trans-unit id="4984129cb29bb45f927a0e8aab585b341fc32b2d" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.limit.name">
@@ -287,8 +327,8 @@
         <note>key: ibexa.connector_raptor.block.raptor_user_look_alike.attributes.name.name</note>
       </trans-unit>
       <trans-unit id="772d61934c8718e43cc9ecb82bdc17337509659a" resname="ibexa.connector_raptor.block.raptor_user_look_alike.attributes.show_in_stock.name">
-        <source>Enable showing only available items</source>
-        <target state="new">Enable showing only available items</target>
+        <source>Show only available items</source>
+        <target state="new">Show only available items</target>
         <note>key: ibexa.connector_raptor.block.raptor_user_look_alike.attributes.show_in_stock.name</note>
       </trans-unit>
       <trans-unit id="63606e8b4c7ffb83c20d3b902c7b93b29ce811ea" resname="ibexa.connector_raptor.block.raptor_user_look_alike.name">
