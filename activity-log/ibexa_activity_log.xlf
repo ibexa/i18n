@@ -272,8 +272,8 @@
         <note>key: ibexa.activity_log.search_form.object_class.product</note>
       </trans-unit>
       <trans-unit id="368685b87a5816440634bb7936f6e5c1c5ae51c6" resname="ibexa.activity_log.search_form.object_class.product_variant">
-        <source>Product variant</source>
-        <target state="new">Product variant</target>
+        <source>Product Variant</source>
+        <target state="new">Product Variant</target>
         <note>key: ibexa.activity_log.search_form.object_class.product_variant</note>
       </trans-unit>
       <trans-unit id="36d5168656037435ffe40f91873914fb1615d7c5" resname="ibexa.activity_log.search_form.object_class.site">

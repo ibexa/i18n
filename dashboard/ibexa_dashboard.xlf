@@ -102,8 +102,8 @@
         <note>key: dashboard.error.unable_to_load</note>
       </trans-unit>
       <trans-unit id="1130a63ac7bbd452111d6db5b5143506c2d7e120" resname="dashboard.ibexa_news.unable_to_fetch">
-        <source>Unable to fetch Ibexa News</source>
-        <target state="new">Unable to fetch Ibexa News</target>
+        <source>Unable to fetch Ibexa news</source>
+        <target state="new">Unable to fetch Ibexa news</target>
         <note>key: dashboard.ibexa_news.unable_to_fetch</note>
       </trans-unit>
       <trans-unit id="de53c8583b78a3554c64831bc9315e5b74d1cf1a" resname="dashboard.sent_to_trash.info">
