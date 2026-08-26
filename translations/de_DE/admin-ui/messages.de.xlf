@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="7a3631c8f70b8b52f902530ad052c71609eb7177" resname="authentication.reset_your_password">
         <source>Reset your password</source>
-        <target state="translated">Setzen Sie Ihre Passwort zurück</target>
+        <target state="translated">Setzen Sie Ihr Passwort zurück</target>
         <note>key: authentication.reset_your_password</note>
       </trans-unit>
       <trans-unit id="f7771b5d011f529e37d3b4c94319f52e709256c3" resname="authentication.reset_your_password.back">
@@ -423,7 +423,7 @@
       </trans-unit>
       <trans-unit id="1c83b9fb831b59adffc151e074e3940afb422d59" resname="ibexa.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
-        <target state="translated">Setzen Sie Ihre Passwort zurück</target>
+        <target state="translated">Setzen Sie Ihr Passwort zurück</target>
         <note>key: ibexa.forgot_user_password.reset_your_password</note>
       </trans-unit>
       <trans-unit id="621bf74d73c79b7c57b8a0ce6f46e3069e237ba6" resname="ibexa.forgot_user_password.success">
