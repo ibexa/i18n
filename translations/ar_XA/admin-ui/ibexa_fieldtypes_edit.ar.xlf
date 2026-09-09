@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="ar-XA" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="032115e13a70f0a5ed81a88736d0d25e4f857224" resname="ibexa_image.dimensions.height">
+        <source>H:%height% px</source>
+        <target state="translated">الارتفاع:‏%height% بكسل</target>
+        <note>key: ibexa_image.dimensions.height</note>
+      </trans-unit>
+      <trans-unit id="8e5d060904c09387204074ed03129dd9a7e838d2" resname="ibexa_image.dimensions.width">
+        <source>W:%width% px</source>
+        <target state="translated">العرض:‏%width% بكسل</target>
+        <note>key: ibexa_image.dimensions.width</note>
+      </trans-unit>
+      <trans-unit id="e2dd18e3aaf052a175ef24dce8a040f858c6bff4" resname="ibexa_image_asset.create.message.error">
+        <source>Error while creating Image Asset: %error%</source>
+        <target state="translated">حدث خطأ أثناء إنشاء أصل الصورة: %error%</target>
+        <note>key: ibexa_image_asset.create.message.error</note>
+      </trans-unit>
+      <trans-unit id="87a6f9f8236a0056422596a9feeb5f78e36cef32" resname="ibexa_image_asset.create.message.success">
+        <source>The image has been published and can now be reused</source>
+        <target state="translated">تم نشر الصورة ويمكنك الآن إعادة استخدامها</target>
+        <note>key: ibexa_image_asset.create.message.success</note>
+      </trans-unit>
+      <trans-unit id="3e375dfcaac24e9a60778d97849294286acdb08e" resname="ibexa_image_asset.empty_data.message.error">
+        <source>The chosen asset has no image data available.</source>
+        <target state="translated">الأصل الذي اخترته لا يحتوي على بيانات صورة متاحة.</target>
+        <note>key: ibexa_image_asset.empty_data.message.error</note>
+      </trans-unit>
+      <trans-unit id="8abe7c12c95d3e11bafd55e0e9f185b4a3d1ddd6" resname="ibexa_maplocation.create.message.error">
+        <source>Area above needs correction</source>
+        <target state="translated">يجب تصحيح المنطقة أعلاه</target>
+        <note>key: ibexa_maplocation.create.message.error</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
