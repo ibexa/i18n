@@ -40,7 +40,6 @@ packages[search]=ezplatform-search
 packages[site-factory]=ezplatform-site-factory
 packages[segmentation]=ezplatform-segmentation
 packages[tree-builder]=ibexa-tree-builder
-packages[personalization]=ibexa-personalization
 packages[calendar]=ezplatform-calendar
 packages[product-catalog]=ibexa-product-catalog
 packages[commerce-checkout]=ezcommerce-shop-checkout

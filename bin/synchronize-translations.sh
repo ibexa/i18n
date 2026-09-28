@@ -56,7 +56,6 @@ packages[segmentation]=vendor/ibexa/segmentation/src/bundle/Resources/translatio
 packages[tree-builder]=vendor/ibexa/tree-builder/src/bundle/Resources/translations
 packages[discounts-codes]=vendor/ibexa/discounts-codes/src/bundle/Resources/translations
 packages[rest]=vendor/ibexa/rest/src/bundle/Resources/translations
-packages[personalization]=vendor/ibexa/personalization/src/bundle/Resources/translations
 packages[cart]=vendor/ibexa/cart/src/bundle/Resources/translations
 packages[calendar]=vendor/ibexa/calendar/src/bundle/Resources/translations
 packages[product-catalog]=vendor/ibexa/product-catalog/src/bundle/Resources/translations
