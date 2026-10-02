@@ -126,10 +126,10 @@
         <target state="translated">Flux des tâches</target>
         <note>key: location_view.tab.versions.column.workflow</note>
       </trans-unit>
-      <trans-unit id="c77999d76931ead1fedf62e15d68ce0a5ad8be17" resname="location_view.tab.versions.pagination.viewing">
-        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Affichage de <strong>%viewing%</strong> élément(s) sur <strong>%total%</strong>]]></target>
-        <note>key: location_view.tab.versions.pagination.viewing</note>
+      <trans-unit id="d1eb4892d6a24d64a8c9eaef559c44ab6f1d1817" resname="location_view.tab.versions.headline.drafts_to_review">
+        <source>Drafts to review</source>
+        <target state="translated">Brouillons à relire</target>
+        <note>key: location_view.tab.versions.headline.drafts_to_review</note>
       </trans-unit>
       <trans-unit id="f19d765219df9973b16f4c4fec04284643ae4413" resname="matcher.content_status">
         <source>Content status</source>
@@ -160,11 +160,6 @@
         <source>Drafts to review</source>
         <target state="translated">Brouillons à relire</target>
         <note>key: tab.name.my_drafts_under_review</note>
-      </trans-unit>
-      <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
-        <source>Drafts to review</source>
-        <target state="translated">Brouillons à relire</target>
-        <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
       <trans-unit id="ada0fcebefac344a2447069bba0039e73865b67d" resname="transition.list.entry.author">
         <source>by %name%</source>

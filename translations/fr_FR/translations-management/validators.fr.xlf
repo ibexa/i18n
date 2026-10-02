@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="95fec4f0112817ca735dbf6582e14377d9c33751" resname="auto_translate.language_pair.different_source_and_target">
+        <source>Source and target language must be different.</source>
+        <target state="translated">La langue source et la langue cible doivent être différentes.</target>
+        <note>key: auto_translate.language_pair.different_source_and_target</note>
+      </trans-unit>
+      <trans-unit id="2eeba5375a11a4c8abd0672dd8e23f46479b997c" resname="auto_translate.language_pair.pair_already_exists">
+        <source><![CDATA[A pair for %source_name% (%source_code%) -> %target_name% (%target_code%) already exists (%provider%). To change the provider, edit the existing pair.]]></source>
+        <target state="translated"><![CDATA[Une paire pour %source_name% (%source_code%) -> %target_name% (%target_code%) existe déjà (%provider%). Pour changer de fournisseur, modifiez la paire existante.]]></target>
+        <note>key: auto_translate.language_pair.pair_already_exists</note>
+      </trans-unit>
+      <trans-unit id="5444fd3616057b5b67e82ea2fd5c266564fb830d" resname="auto_translate.language_pairs.unsupported_language">
+        <source>Provider %provider% doesn't support: %languages%.</source>
+        <target state="translated">Le fournisseur %provider% ne prend pas en charge : %languages%.</target>
+        <note>key: auto_translate.language_pairs.unsupported_language</note>
+      </trans-unit>
+      <trans-unit id="4f56a2b17b1b8ae84ab1cf82174f781ab944926f" resname="auto_translate.translation_services.default_provider.disabled">
+        <source>Selected provider is disabled.</source>
+        <target state="translated">Le fournisseur sélectionné est désactivé.</target>
+        <note>key: auto_translate.translation_services.default_provider.disabled</note>
+      </trans-unit>
+      <trans-unit id="4654a58fbce284f667c93f536aa30487558f369b" resname="auto_translate.translation_services.default_provider.not_configured">
+        <source>Selected provider is not configured.</source>
+        <target state="translated">Le fournisseur sélectionné n’est pas configuré.</target>
+        <note>key: auto_translate.translation_services.default_provider.not_configured</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
