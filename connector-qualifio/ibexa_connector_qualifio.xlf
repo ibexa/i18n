@@ -26,6 +26,11 @@
         <target state="new">Check the configuration of Ibexa Engage</target>
         <note>key: ibexa.connector.qualifio.form.channel_list.error.description.check_configuration</note>
       </trans-unit>
+      <trans-unit id="8d36036de3f7404566e0037d27435add07b282fc" resname="ibexa.connector.qualifio.page_builder.html_size_design.empty_value_note">
+        <source>If size fields are blank, the system sets default template values. Adjust them for better results.</source>
+        <target state="new">If size fields are blank, the system sets default template values. Adjust them for better results.</target>
+        <note>key: ibexa.connector.qualifio.page_builder.html_size_design.empty_value_note</note>
+      </trans-unit>
       <trans-unit id="92d8833afdc63069e9e5ca2b4f468db70e1ca8ec" resname="ibexa.qualifio.exception.communication_error">
         <source>Qualifio communication error occured</source>
         <target state="new">Qualifio communication error occured</target>
@@ -35,11 +40,6 @@
         <source>Qualifio connector is not configured</source>
         <target state="new">Qualifio connector is not configured</target>
         <note>key: ibexa.qualifio.exception.not_configured</note>
-      </trans-unit>
-      <trans-unit id="8d36036de3f7404566e0037d27435add07b282fc" resname="ibexa.connector.qualifio.page_builder.html_size_design.empty_value_note">
-        <source>If size fields are blank, the system sets default template values. Adjust them for better results.</source>
-        <target state="new">If size fields are blank, the system sets default template values. Adjust them for better results.</target>
-        <note>key: ibexa.connector.qualifio.page_builder.html_size_design.empty_value_note</note>
       </trans-unit>
     </body>
   </file>

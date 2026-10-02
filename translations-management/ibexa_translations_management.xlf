@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="e29bf3bb716a0f455bdae22ed809d479c91fa5ef" resname="Translate given text">
+        <source>Translate given text</source>
+        <target state="new">Translate given text</target>
+        <note>key: Translate given text</note>
+      </trans-unit>
+      <trans-unit id="7d850b036970f0b8f0b86178eb6494105cebffb8" resname="auto_translate.draft_creation.failed">
+        <source>Creating automatically translated draft for content %content_id% failed: %reason%</source>
+        <target state="new">Creating automatically translated draft for content %content_id% failed: %reason%</target>
+        <note>key: auto_translate.draft_creation.failed</note>
+      </trans-unit>
+      <trans-unit id="fff2adbc643fd41183f644ecc6c63262b71592f7" resname="exception.already_exists">
+        <source>This resource already exists.</source>
+        <target state="new">This resource already exists.</target>
+        <note>key: exception.already_exists</note>
+      </trans-unit>
+      <trans-unit id="938c6b545254f5bbe00e0b76ddb68371d67cdd8b" resname="exception.invalid_request">
+        <source>The request could not be processed. Try again or contact your administrator.</source>
+        <target state="new">The request could not be processed. Try again or contact your administrator.</target>
+        <note>key: exception.invalid_request</note>
+      </trans-unit>
+      <trans-unit id="aecfc49fc97a0cd9d42b4e579d1b49e5feaa85d1" resname="exception.not_found">
+        <source>The requested resource could not be found.</source>
+        <target state="new">The requested resource could not be found.</target>
+        <note>key: exception.not_found</note>
+      </trans-unit>
+      <trans-unit id="e19eb6e30e198e1b30cf801abdaf516ebaeff494" resname="auto_translate.form.disabled_automatic_translation_info">
+        <source>To enable automatic translation, contact your administrator</source>
+        <target state="new">To enable automatic translation, contact your administrator</target>
+        <note>key: auto_translate.form.disabled_automatic_translation_info</note>
+      </trans-unit>
+      <trans-unit id="ad1bdafbb31eee71c9d4117154be296894193a13" resname="auto_translate.form.use_automatic_translation">
+        <source>Use automatic translation</source>
+        <target state="new">Use automatic translation</target>
+        <note>key: auto_translate.form.use_automatic_translation</note>
+      </trans-unit>
+      <trans-unit id="36b6c8354aa587f1a96c46cca761c9663bbe2c86" resname="auto_translate.form.use_automatic_translation_with_provider">
+        <source>Use automatic translation with %provider%</source>
+        <target state="new">Use automatic translation with %provider%</target>
+        <note>key: auto_translate.form.use_automatic_translation_with_provider</note>
+      </trans-unit>
+      <trans-unit id="421a3c48ee88511ec3c231671cf8d4e7f0cbc72a" resname="auto_translate.language_pairs.add_language_pair">
+        <source>Add language pair</source>
+        <target state="new">Add language pair</target>
+        <note>key: auto_translate.language_pairs.add_language_pair</note>
+      </trans-unit>
+      <trans-unit id="bd8c85cb29434b97ccde5a42c5c57dd6a24dbce7" resname="auto_translate.language_pairs.delete">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>key: auto_translate.language_pairs.delete</note>
+      </trans-unit>
+      <trans-unit id="24d95c2665641960fa3dd640436f1cac76e7bc9f" resname="auto_translate.language_pairs.edit">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: auto_translate.language_pairs.edit</note>
+      </trans-unit>
+      <trans-unit id="7982a741d2e685ed2f4dad7dc9d8a3eed6c747e8" resname="auto_translate.language_pairs.empty">
+        <source>No language pairs yet</source>
+        <target state="new">No language pairs yet</target>
+        <note>key: auto_translate.language_pairs.empty</note>
+      </trans-unit>
+      <trans-unit id="58f27767ee692e893bbaa642560815be386b761b" resname="auto_translate.language_pairs.empty_action">
+        <source>When you create language pairs, they will appear here.</source>
+        <target state="new">When you create language pairs, they will appear here.</target>
+        <note>key: auto_translate.language_pairs.empty_action</note>
+      </trans-unit>
+      <trans-unit id="f268bf38e4919c75b9e70ece5b8b41a933bf9766" resname="auto_translate.language_pairs.modal.cancel">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note>key: auto_translate.language_pairs.modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="1c12a0126314c9853fc8417d43a734ce4049c87e" resname="auto_translate.language_pairs.modal.confirm">
+        <source>Confirm</source>
+        <target state="new">Confirm</target>
+        <note>key: auto_translate.language_pairs.modal.confirm</note>
+      </trans-unit>
+      <trans-unit id="d79d9a002dd81db8e2b8ed3fe03a4a19ad60a9ef" resname="auto_translate.language_pairs.modal.message">
+        <source>Delete the language pairs?</source>
+        <target state="new">Delete the language pairs?</target>
+        <note>key: auto_translate.language_pairs.modal.message</note>
+      </trans-unit>
+      <trans-unit id="b1b397b720a4c23a22bb472e6eaaae34bfc31266" resname="auto_translate.language_pairs.no_providers_empty">
+        <source>No translation providers configured yet</source>
+        <target state="new">No translation providers configured yet</target>
+        <note>key: auto_translate.language_pairs.no_providers_empty</note>
+      </trans-unit>
+      <trans-unit id="34dc2677720cf1f4ec7652589a778a7f399940ec" resname="auto_translate.language_pairs.no_providers_empty_action">
+        <source>To add language pairs, you need to configure at least one translation provider.</source>
+        <target state="new">To add language pairs, you need to configure at least one translation provider.</target>
+        <note>key: auto_translate.language_pairs.no_providers_empty_action</note>
+      </trans-unit>
+      <trans-unit id="8f2380584dfa9009d83694326cbef4eec2257f38" resname="auto_translate.language_pairs.provider">
+        <source>Provider</source>
+        <target state="new">Provider</target>
+        <note>key: auto_translate.language_pairs.provider</note>
+      </trans-unit>
+      <trans-unit id="899c2ffbb21689ee3e35b66c4991c5dd22e6a147" resname="auto_translate.language_pairs.remove_selected_confirm">
+        <source>Remove selected language pairs?</source>
+        <target state="new">Remove selected language pairs?</target>
+        <note>key: auto_translate.language_pairs.remove_selected_confirm</note>
+      </trans-unit>
+      <trans-unit id="c7048d6ee1b23d9e412725150aa37a1a138a9953" resname="auto_translate.language_pairs.source">
+        <source>Source language</source>
+        <target state="new">Source language</target>
+        <note>key: auto_translate.language_pairs.source</note>
+      </trans-unit>
+      <trans-unit id="77bdb00cf7286f42315744a8299c8a8a365ea6f8" resname="auto_translate.language_pairs.source_language">
+        <source>Source language</source>
+        <target state="new">Source language</target>
+        <note>key: auto_translate.language_pairs.source_language</note>
+      </trans-unit>
+      <trans-unit id="b53bf8f29195e4e13ac6babd1f13f59f456aad52" resname="auto_translate.language_pairs.target">
+        <source>Target language</source>
+        <target state="new">Target language</target>
+        <note>key: auto_translate.language_pairs.target</note>
+      </trans-unit>
+      <trans-unit id="04599dc2f6a8300a6826105c56ce1d407501adfd" resname="auto_translate.language_pairs.target_languages">
+        <source>Target languages</source>
+        <target state="new">Target languages</target>
+        <note>key: auto_translate.language_pairs.target_languages</note>
+      </trans-unit>
+      <trans-unit id="8d394b009a2e9e4ae931e04c8e97bb8678e0368a" resname="auto_translate.language_pairs.title">
+        <source>Language pairs</source>
+        <target state="new">Language pairs</target>
+        <note>key: auto_translate.language_pairs.title</note>
+      </trans-unit>
+      <trans-unit id="ea52c89ffbb137e76230cc7074191eb3b50bbb22" resname="auto_translate.language_pairs.title.adding_language_pair">
+        <source>Adding language pair</source>
+        <target state="new">Adding language pair</target>
+        <note>key: auto_translate.language_pairs.title.adding_language_pair</note>
+      </trans-unit>
+      <trans-unit id="902abf7eeed8473b01f1403d7b4e74faf3becc1f" resname="auto_translate.language_pairs.title.editing">
+        <source>Editing</source>
+        <target state="new">Editing</target>
+        <note>key: auto_translate.language_pairs.title.editing</note>
+      </trans-unit>
+      <trans-unit id="1e558a7b67da24814b374a69ac8f437943b8e966" resname="auto_translate.language_pairs.title.editing_language_pair">
+        <source>Editing language pair</source>
+        <target state="new">Editing language pair</target>
+        <note>key: auto_translate.language_pairs.title.editing_language_pair</note>
+      </trans-unit>
+      <trans-unit id="7a34c287e7a6445ec9e4ab5d68ceab595227332a" resname="auto_translate.language_pairs.title.language_pairs">
+        <source>Language pairs</source>
+        <target state="new">Language pairs</target>
+        <note>key: auto_translate.language_pairs.title.language_pairs</note>
+      </trans-unit>
+      <trans-unit id="1848a5cf0d6d9907c69cd956e9b86a656c719be8" resname="auto_translate.language_pairs.title.new_language_pair">
+        <source>New language pair</source>
+        <target state="new">New language pair</target>
+        <note>key: auto_translate.language_pairs.title.new_language_pair</note>
+      </trans-unit>
+      <trans-unit id="25cda5307f734e13b881b51e879330b5e09a0d3a" resname="auto_translate.language_pairs.translation_provider">
+        <source>Translation service</source>
+        <target state="new">Translation service</target>
+        <note>key: auto_translate.language_pairs.translation_provider</note>
+      </trans-unit>
+      <trans-unit id="f9ae4967273de0e8513e22a0583ae90c6da13250" resname="auto_translate.translation_services.column.default">
+        <source>Default</source>
+        <target state="new">Default</target>
+        <note>key: auto_translate.translation_services.column.default</note>
+      </trans-unit>
+      <trans-unit id="7b26a07cc76e9e9be45e6ec358d4cec7a550d9ba" resname="auto_translate.translation_services.column.enabled">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note>key: auto_translate.translation_services.column.enabled</note>
+      </trans-unit>
+      <trans-unit id="89712cb61c0fd721954ca0b1403ad2ba335c98f2" resname="auto_translate.translation_services.column.identifier">
+        <source>Identifier</source>
+        <target state="new">Identifier</target>
+        <note>key: auto_translate.translation_services.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="2304baedd280ad997787bd383cd6bfed6e8c7293" resname="auto_translate.translation_services.column.name">
+        <source>Name</source>
+        <target state="new">Name</target>
+        <note>key: auto_translate.translation_services.column.name</note>
+      </trans-unit>
+      <trans-unit id="79425afcc1a4047c5ff92900b356f02c47ad5ed3" resname="auto_translate.translation_services.column.provider">
+        <source>Provider</source>
+        <target state="new">Provider</target>
+        <note>key: auto_translate.translation_services.column.provider</note>
+      </trans-unit>
+      <trans-unit id="10445ceeaba5a974a9b8b4018e9298b57b326d9f" resname="auto_translate.translation_services.empty">
+        <source>No translation services configured yet.</source>
+        <target state="new">No translation services configured yet.</target>
+        <note>key: auto_translate.translation_services.empty</note>
+      </trans-unit>
+      <trans-unit id="2d01d7150bfb06c49aef9d856ee7747227bd326d" resname="auto_translate.translation_services.title">
+        <source>Translation services</source>
+        <target state="new">Translation services</target>
+        <note>key: auto_translate.translation_services.title</note>
+      </trans-unit>
+      <trans-unit id="59cd5bf4f312c0fc6ffce14c68d91163eae34a7e" resname="auto_translation.review_status.for_review">
+        <source>For review</source>
+        <target state="new">For review</target>
+        <note>key: auto_translation.review_status.for_review</note>
+      </trans-unit>
+      <trans-unit id="1c756f919ae6ae3b1b454746ff92d6a375ab6831" resname="auto_translation.review_status.translated">
+        <source>Translated</source>
+        <target state="new">Translated</target>
+        <note>key: auto_translation.review_status.translated</note>
+      </trans-unit>
+      <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
+        <source>Editing</source>
+        <target state="new">Editing</target>
+        <note>key: editing</note>
+      </trans-unit>
+      <trans-unit id="582b09a837963ba464ba24493c8cc7c360b99708" resname="editing_details_subtitle">
+        <source>under %location%</source>
+        <target state="new">under %location%</target>
+        <note>key: editing_details_subtitle</note>
+      </trans-unit>
+      <trans-unit id="2ce46153585470df6fddead9973879770f4ceebd" resname="ibexa.ai.action.translate_text.name">
+        <source>Translate text</source>
+        <target state="new">Translate text</target>
+        <note>key: ibexa.ai.action.translate_text.name</note>
+      </trans-unit>
+      <trans-unit id="add89a3d6c5206602e9a0dfd8e41af024946a79b" resname="product_side_by_side.auto_translate.failed">
+        <source>Creating automatic translation for product %product_code% failed: %reason%</source>
+        <target state="new">Creating automatic translation for product %product_code% failed: %reason%</target>
+        <note>key: product_side_by_side.auto_translate.failed</note>
+      </trans-unit>
+      <trans-unit id="dea50b57f258c85ca6b9b059b4c7a64b9c9e397e" resname="side_by_side.collapse_source_language">
+        <source>Collapse source language</source>
+        <target state="new">Collapse source language</target>
+        <note>key: side_by_side.collapse_source_language</note>
+      </trans-unit>
+      <trans-unit id="d305e40c0174b5e3b29ba29253169213c1535b71" resname="side_by_side.copy_all">
+        <source>Copy all from source</source>
+        <target state="new">Copy all from source</target>
+        <note>key: side_by_side.copy_all</note>
+      </trans-unit>
+      <trans-unit id="8122800c764ea6c34c442350b3ea0b9bcc459698" resname="side_by_side.create_request.failed">
+        <source>Cannot create the translation: %reason%</source>
+        <target state="new">Cannot create the translation: %reason%</target>
+        <note>key: side_by_side.create_request.failed</note>
+      </trans-unit>
+      <trans-unit id="1edbbc2d3e69b725374ab1f1ff272e1967ef2235" resname="side_by_side.create_request.failed.content_not_found">
+        <source>Cannot create the translation: the content item could not be found.</source>
+        <target state="new">Cannot create the translation: the content item could not be found.</target>
+        <note>key: side_by_side.create_request.failed.content_not_found</note>
+      </trans-unit>
+      <trans-unit id="377d3477e140634ff3d66dd627fa05d41e5cd9d4" resname="side_by_side.create_request.failed.source_language">
+        <source>Cannot create the translation: select a valid source language.</source>
+        <target state="new">Cannot create the translation: select a valid source language.</target>
+        <note>key: side_by_side.create_request.failed.source_language</note>
+      </trans-unit>
+      <trans-unit id="f7d95b229e93a68196742c414faaf6c4b60f8109" resname="side_by_side.create_request.failed.target_language">
+        <source>Cannot create the translation: select a valid target language.</source>
+        <target state="new">Cannot create the translation: select a valid target language.</target>
+        <note>key: side_by_side.create_request.failed.target_language</note>
+      </trans-unit>
+      <trans-unit id="bed580bc2db69ba080bac82722afbde9cb778266" resname="side_by_side.create_request.failed.translation_not_found">
+        <source>Cannot create the translation: the translation data could not be loaded.</source>
+        <target state="new">Cannot create the translation: the translation data could not be loaded.</target>
+        <note>key: side_by_side.create_request.failed.translation_not_found</note>
+      </trans-unit>
+      <trans-unit id="ee4406b633fe512d9e540b7f839ef08840656b31" resname="side_by_side.draft_creation.failed">
+        <source>Creating side-by-side draft for content %content_id% failed: %reason%</source>
+        <target state="new">Creating side-by-side draft for content %content_id% failed: %reason%</target>
+        <note>key: side_by_side.draft_creation.failed</note>
+      </trans-unit>
+      <trans-unit id="2eb6c867471d21853fd8027067fd1fce6fa50485" resname="side_by_side.draft_creation.reason.content_too_large">
+        <source>The content is too large to be translated automatically.</source>
+        <target state="new">The content is too large to be translated automatically.</target>
+        <note>key: side_by_side.draft_creation.reason.content_too_large</note>
+      </trans-unit>
+      <trans-unit id="e66aa3cbcf866dab34a466b6d4aea3acc26a2cf1" resname="side_by_side.draft_creation.reason.empty_translation">
+        <source>The translation service returned an empty translation. Try again.</source>
+        <target state="new">The translation service returned an empty translation. Try again.</target>
+        <note>key: side_by_side.draft_creation.reason.empty_translation</note>
+      </trans-unit>
+      <trans-unit id="00d843e18ff0bd0b719b0a00886f917e12e421d0" resname="side_by_side.draft_creation.reason.invalid_translation_result">
+        <source>The translation service returned an unexpected result. Try again.</source>
+        <target state="new">The translation service returned an unexpected result. Try again.</target>
+        <note>key: side_by_side.draft_creation.reason.invalid_translation_result</note>
+      </trans-unit>
+      <trans-unit id="ec0c20eb14942725608f0b5dd1cd268a53a15090" resname="side_by_side.draft_creation.reason.language_not_supported">
+        <source>The selected language combination is not supported by the translation service.</source>
+        <target state="new">The selected language combination is not supported by the translation service.</target>
+        <note>key: side_by_side.draft_creation.reason.language_not_supported</note>
+      </trans-unit>
+      <trans-unit id="21598d902f05f51ff15cf95c4dc251cea944f52f" resname="side_by_side.draft_creation.reason.nothing_to_translate">
+        <source>There is no text to translate in the selected source language.</source>
+        <target state="new">There is no text to translate in the selected source language.</target>
+        <note>key: side_by_side.draft_creation.reason.nothing_to_translate</note>
+      </trans-unit>
+      <trans-unit id="7d39c4062f9bd6c27d9d2834a10784e0f13f4044" resname="side_by_side.draft_creation.reason.review_already_exists">
+        <source>An automatic translation for this language combination already exists and is awaiting review.</source>
+        <target state="new">An automatic translation for this language combination already exists and is awaiting review.</target>
+        <note>key: side_by_side.draft_creation.reason.review_already_exists</note>
+      </trans-unit>
+      <trans-unit id="0d3741e2d90491332c3733d96d2e7ec19131df25" resname="side_by_side.draft_creation.reason.service_unavailable">
+        <source>The translation service is currently unavailable. Try again later or contact your administrator.</source>
+        <target state="new">The translation service is currently unavailable. Try again later or contact your administrator.</target>
+        <note>key: side_by_side.draft_creation.reason.service_unavailable</note>
+      </trans-unit>
+      <trans-unit id="e29108fe5ae858724b8c314fa6eebf00b7025329" resname="side_by_side.draft_creation.reason.source_translation_missing">
+        <source>The content has no translation in the selected source language.</source>
+        <target state="new">The content has no translation in the selected source language.</target>
+        <note>key: side_by_side.draft_creation.reason.source_translation_missing</note>
+      </trans-unit>
+      <trans-unit id="fdb76f9d02cd5cdb56ed1afcc008ce1851b950c6" resname="side_by_side.draft_creation.reason.unexpected">
+        <source>An unexpected error occurred while creating the automatic translation. Try again or contact your administrator.</source>
+        <target state="new">An unexpected error occurred while creating the automatic translation. Try again or contact your administrator.</target>
+        <note>key: side_by_side.draft_creation.reason.unexpected</note>
+      </trans-unit>
+      <trans-unit id="d4198688b78c95eafaa0a784cbc539789ac4eba3" resname="side_by_side.expand_source_language">
+        <source>Expand source language</source>
+        <target state="new">Expand source language</target>
+        <note>key: side_by_side.expand_source_language</note>
+      </trans-unit>
+      <trans-unit id="dee876d31d6797382c32c367b686d909077946c1" resname="side_by_side.modal.submit">
+        <source>Open side-by-side</source>
+        <target state="new">Open side-by-side</target>
+        <note>key: side_by_side.modal.submit</note>
+      </trans-unit>
+      <trans-unit id="e0828263ae8e7d59bc1bc922735f6191abc0584b" resname="side_by_side.modal.warning.draft_exists">
+        <source>There is already one draft for selected target language. You can either edit any of your existing draft(s) in the Versions tab or add a new one.</source>
+        <target state="new">There is already one draft for selected target language. You can either edit any of your existing draft(s) in the Versions tab or add a new one.</target>
+        <note>key: side_by_side.modal.warning.draft_exists</note>
+      </trans-unit>
+      <trans-unit id="3734fc013b22e84da7002a9983735014d626ae5e" resname="side_by_side.review_status_actions.accept">
+        <source>Accept</source>
+        <target state="new">Accept</target>
+        <note>key: side_by_side.review_status_actions.accept</note>
+      </trans-unit>
+      <trans-unit id="1aec7ae700a862659d2eb0bef147cf46438c3a94" resname="side_by_side.review_status_actions.error">
+        <source>Review status could not be updated.</source>
+        <target state="new">Review status could not be updated.</target>
+        <note>key: side_by_side.review_status_actions.error</note>
+      </trans-unit>
+      <trans-unit id="7b2b1092a2f49c65780b9aacc7f0ea47ad905a3f" resname="side_by_side.review_status_actions.reject">
+        <source>Reject</source>
+        <target state="new">Reject</target>
+        <note>key: side_by_side.review_status_actions.reject</note>
+      </trans-unit>
+      <trans-unit id="76f0d3ab2f40866c2badd7089c3561b578274217" resname="side_by_side.review_status_actions.snackbar.label">
+        <source>Review:</source>
+        <target state="new">Review:</target>
+        <note>key: side_by_side.review_status_actions.snackbar.label</note>
+      </trans-unit>
+      <trans-unit id="62529c29c7f365f0de8c3f4af5b8fa008df1b843" resname="side_by_side.source_language">
+        <source>Source language</source>
+        <target state="new">Source language</target>
+        <note>key: side_by_side.source_language</note>
+      </trans-unit>
+      <trans-unit id="5ea66792d6f90eba50c998159310123b1cc26746" resname="side_by_side.sync_scrolling">
+        <source>Sync scrolling between both panels.</source>
+        <target state="new">Sync scrolling between both panels.</target>
+        <note>key: side_by_side.sync_scrolling</note>
+      </trans-unit>
+      <trans-unit id="12983073579e40ab0c0b50db6f39ec72d330ff74" resname="side_by_side.target_language">
+        <source>Target language</source>
+        <target state="new">Target language</target>
+        <note>key: side_by_side.target_language</note>
+      </trans-unit>
+      <trans-unit id="86090bc03e2253b32ff54eedc799657a7d6f52f2" resname="side_by_side.title">
+        <source>Side-by-side translation page title</source>
+        <target state="new">Side-by-side translation page title</target>
+        <note>key: side_by_side.title</note>
+      </trans-unit>
+      <trans-unit id="92f49fe454e3abe698370ee64dae8c95dc5ce547" resname="user.settings.always_use_automatic_translation.description">
+        <source>Automatic translation for new items</source>
+        <target state="new">Automatic translation for new items</target>
+        <note>key: user.settings.always_use_automatic_translation.description</note>
+      </trans-unit>
+      <trans-unit id="468afc35bb6a57307199f080fa48eccf4dbc543b" resname="user.settings.always_use_automatic_translation.help.no_providers">
+        <source>No configured translation providers found.</source>
+        <target state="new">No configured translation providers found.</target>
+        <note>key: user.settings.always_use_automatic_translation.help.no_providers</note>
+      </trans-unit>
+      <trans-unit id="75ba2b135e03bfbd19ca205ae11b950b9229802e" resname="user.settings.always_use_automatic_translation.name">
+        <source>Always use automatic translation</source>
+        <target state="new">Always use automatic translation</target>
+        <note>key: user.settings.always_use_automatic_translation.name</note>
+      </trans-unit>
+      <trans-unit id="f877549562ef34383b360842bc24c5d6191b0ea7" resname="user.settings.always_use_automatic_translation.value.disabled">
+        <source>Disabled</source>
+        <target state="new">Disabled</target>
+        <note>key: user.settings.always_use_automatic_translation.value.disabled</note>
+      </trans-unit>
+      <trans-unit id="bf0f9be6894487edcb527c1b5651cae5b62020f4" resname="user.settings.always_use_automatic_translation.value.enabled">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note>key: user.settings.always_use_automatic_translation.value.enabled</note>
+      </trans-unit>
+      <trans-unit id="c176ba8491a336a213de40aec020a5f67de44192" resname="user.settings.side_by_side_column_order.description">
+        <source>Side-by-side layout</source>
+        <target state="new">Side-by-side layout</target>
+        <note>key: user.settings.side_by_side_column_order.description</note>
+      </trans-unit>
+      <trans-unit id="29987a4174a9aefe3a7ca56ae67708198c038a7e" resname="user.settings.side_by_side_column_order.help">
+        <source>When target is on the right, you cannot hide source</source>
+        <target state="new">When target is on the right, you cannot hide source</target>
+        <note>key: user.settings.side_by_side_column_order.help</note>
+      </trans-unit>
+      <trans-unit id="2b5968ce74f58d797e71bdcdb36323d2d4e9471f" resname="user.settings.side_by_side_column_order.name">
+        <source>Side-by-side translation columns</source>
+        <target state="new">Side-by-side translation columns</target>
+        <note>key: user.settings.side_by_side_column_order.name</note>
+      </trans-unit>
+      <trans-unit id="d8f5534e0146d02440ce6a3b76ac7342970585f5" resname="user.settings.side_by_side_column_order.option.default_suffix">
+        <source>(default)</source>
+        <target state="new">(default)</target>
+        <note>key: user.settings.side_by_side_column_order.option.default_suffix</note>
+      </trans-unit>
+      <trans-unit id="70fdb9ea9c6c26f7e5159adc3a113972b48e02d8" resname="user.settings.side_by_side_column_order.option.source_left">
+        <source>Target language on the left</source>
+        <target state="new">Target language on the left</target>
+        <note>key: user.settings.side_by_side_column_order.option.source_left</note>
+      </trans-unit>
+      <trans-unit id="87e2792f462dc92cd7af8605fd1c7af9440e286a" resname="user.settings.side_by_side_column_order.option.source_right">
+        <source>Target language on the right</source>
+        <target state="new">Target language on the right</target>
+        <note>key: user.settings.side_by_side_column_order.option.source_right</note>
+      </trans-unit>
+      <trans-unit id="2b256f90d0d9936755ce221fb613b6f8991c5f9c" resname="versions_tab.column.translation_status">
+        <source>Translation status</source>
+        <target state="new">Translation status</target>
+        <note>key: versions_tab.column.translation_status</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

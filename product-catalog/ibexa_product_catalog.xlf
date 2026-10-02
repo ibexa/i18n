@@ -886,6 +886,11 @@
         <target state="new">Add your first customer group</target>
         <note>key: customer_group.no_customer_groups.info_text</note>
       </trans-unit>
+      <trans-unit id="55070f18abb2aa992e70f55e1f208827e6f6409d" resname="customer_group.no_customer_groups.list.notice">
+        <source>You cannot delete the disabled customer groups, because they have assigned companies.</source>
+        <target state="new">You cannot delete the disabled customer groups, because they have assigned companies.</target>
+        <note>key: customer_group.no_customer_groups.list.notice</note>
+      </trans-unit>
       <trans-unit id="1c11b46762aa543bd404c8b44f05a8bf5f94d34e" resname="customer_group.no_search_results.action_text">
         <source>Try again with new search criteria</source>
         <target state="new">Try again with new search criteria</target>
