@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="afee1c14dce2b30b230a0de49867c19712c3685f" resname="language.code">
+        <source>Code</source>
+        <target state="translated">Code</target>
+        <note>key: language.code</note>
+      </trans-unit>
+      <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete">
+        <source>Delete</source>
+        <target state="translated">Supprimer</target>
+        <note>key: language.delete</note>
+      </trans-unit>
+      <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled">
+        <source>Disabled</source>
+        <target state="translated">Désactivé</target>
+        <note>key: language.disabled</note>
+      </trans-unit>
+      <trans-unit id="67f5b766ec64104c9936dc826adf45bdf55f38f9" resname="language.edit">
+        <source>Edit</source>
+        <target state="translated">Modifier</target>
+        <note>key: language.edit</note>
+      </trans-unit>
+      <trans-unit id="065fdff561c25266ec49bbdaf8c5d0bdd6e9dd7f" resname="language.enabled">
+        <source>Enabled</source>
+        <target state="translated">Activé</target>
+        <note>key: language.enabled</note>
+      </trans-unit>
+      <trans-unit id="acf6ff41e3b9acb2cbbcd4a8e908cf52c08b86af" resname="language.id">
+        <source>ID</source>
+        <target state="translated">ID</target>
+        <note>key: language.id</note>
+      </trans-unit>
+      <trans-unit id="ec0418b84a04e7ba4b75a65cbd8a395144e8d8e8" resname="language.list">
+        <source>Languages</source>
+        <target state="translated">Langues</target>
+        <note>key: language.list</note>
+      </trans-unit>
+      <trans-unit id="2a52961302ce7dfa4a21c5e0bcc239f5a9a36cfe" resname="language.modal.message">
+        <source>Delete the languages?</source>
+        <target state="translated">Supprimer les langues ?</target>
+        <note>key: language.modal.message</note>
+      </trans-unit>
+      <trans-unit id="c0ccfb7e7bc6d434ca93e998637fe775ba4a2de0" resname="language.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: language.name</note>
+      </trans-unit>
+      <trans-unit id="8e4642a0c879921e8bf31752abc577c4bf8d098b" resname="language.new">
+        <source>Add language</source>
+        <target state="translated">Ajouter une langue</target>
+        <note>key: language.new</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
