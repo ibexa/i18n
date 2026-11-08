@@ -6,10 +6,45 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="7d077ca4d355da1c90744ba93af88ed2d3a02f46" resname="AI model &quot;%model%&quot; is not supported by the &quot;%handler%&quot; action handler.">
+        <source>AI model "%model%" is not supported by the "%handler%" action handler.</source>
+        <target state="new">AI model "%model%" is not supported by the "%handler%" action handler.</target>
+        <note>key: AI model "%model%" is not supported by the "%handler%" action handler.</note>
+      </trans-unit>
+      <trans-unit id="b06020a10709a284d4a6b291092a5d5a3ca5aac2" resname="An AI model must be selected.">
+        <source>An AI model must be selected.</source>
+        <target state="new">An AI model must be selected.</target>
+        <note>key: An AI model must be selected.</note>
+      </trans-unit>
       <trans-unit id="0bb1340cd9d65290bcae3cf4786297dd106293c2" resname="Max length must be between 50 and 300 characters.">
         <source>Max length must be between 50 and 300 characters.</source>
         <target state="new">Max length must be between 50 and 300 characters.</target>
         <note>key: Max length must be between 50 and 300 characters.</note>
+      </trans-unit>
+      <trans-unit id="4c8062c8c0f86705fca0b92698b3601d58f7c097" resname="No AI models are available for the &quot;%handler%&quot; action handler.">
+        <source>No AI models are available for the "%handler%" action handler.</source>
+        <target state="new">No AI models are available for the "%handler%" action handler.</target>
+        <note>key: No AI models are available for the "%handler%" action handler.</note>
+      </trans-unit>
+      <trans-unit id="e6eaa7100a2348a25e402774accf4fd08fa58cbb" resname="Option &quot;%option%&quot; is not supported by the &quot;%model%&quot; AI model.">
+        <source>Option "%option%" is not supported by the "%model%" AI model.</source>
+        <target state="new">Option "%option%" is not supported by the "%model%" AI model.</target>
+        <note>key: Option "%option%" is not supported by the "%model%" AI model.</note>
+      </trans-unit>
+      <trans-unit id="261ae9641197fea7a0da02e567a1c6e95914d545" resname="Option &quot;%option%&quot; is required by the &quot;%model%&quot; AI model.">
+        <source>Option "%option%" is required by the "%model%" AI model.</source>
+        <target state="new">Option "%option%" is required by the "%model%" AI model.</target>
+        <note>key: Option "%option%" is required by the "%model%" AI model.</note>
+      </trans-unit>
+      <trans-unit id="02d770cf83a8c4b4adc02d7bd088e109ea5c658d" resname="Option &quot;%option%&quot; must be a value of type &quot;%type%&quot;.">
+        <source>Option "%option%" must be a value of type "%type%".</source>
+        <target state="new">Option "%option%" must be a value of type "%type%".</target>
+        <note>key: Option "%option%" must be a value of type "%type%".</note>
+      </trans-unit>
+      <trans-unit id="c22291649e431068ee84ef668224a731686139b6" resname="The saved value of option &quot;%option%&quot; is invalid and was discarded.">
+        <source>The saved value of option "%option%" is invalid and was discarded.</source>
+        <target state="new">The saved value of option "%option%" is invalid and was discarded.</target>
+        <note>key: The saved value of option "%option%" is invalid and was discarded.</note>
       </trans-unit>
       <trans-unit id="f0258b23662b4810db703c5dfe62229c9b5abb6a" resname="ibexa.connector_ai.action_configuration.handler_options.valid">
         <source>Invalid AI action handler options</source>

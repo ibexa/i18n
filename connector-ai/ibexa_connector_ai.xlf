@@ -331,6 +331,86 @@
         <target state="new">Yes</target>
         <note>key: ibexa.connector_ai.enabled.yes</note>
       </trans-unit>
+      <trans-unit id="5fbf49602fd7b332ad32b2060c30eb25b064b8ab" resname="ibexa.connector_ai.option.choice.unavailable">
+        <source>%choice% (no longer available)</source>
+        <target state="new">%choice% (no longer available)</target>
+        <note>key: ibexa.connector_ai.option.choice.unavailable</note>
+      </trans-unit>
+      <trans-unit id="e7f08791d6c4757a594054edfbdb1517ebdd70db" resname="ibexa.connector_ai.option.max_tokens.help">
+        <source>Maximum number of tokens the model may generate in the response.</source>
+        <target state="new">Maximum number of tokens the model may generate in the response.</target>
+        <note>key: ibexa.connector_ai.option.max_tokens.help</note>
+      </trans-unit>
+      <trans-unit id="18023bf52a0120acdab540c0c787cfa9bb4dd7e1" resname="ibexa.connector_ai.option.max_tokens.label">
+        <source>Max tokens</source>
+        <target state="new">Max tokens</target>
+        <note>key: ibexa.connector_ai.option.max_tokens.label</note>
+      </trans-unit>
+      <trans-unit id="d4f50384accba4d85bf369e3e67822cdb8ed322f" resname="ibexa.connector_ai.option.model.label">
+        <source>Model</source>
+        <target state="new">Model</target>
+        <note>key: ibexa.connector_ai.option.model.label</note>
+      </trans-unit>
+      <trans-unit id="1b8c9e9c83a641b18ce0a3a88dcf6a7e86c68860" resname="ibexa.connector_ai.option.model.unavailable">
+        <source>%model% (no longer available)</source>
+        <target state="new">%model% (no longer available)</target>
+        <note>key: ibexa.connector_ai.option.model.unavailable</note>
+      </trans-unit>
+      <trans-unit id="25ae40621002e010b131e4f85a185cfc600400ad" resname="ibexa.connector_ai.option.prompt.help">
+        <source>System prompt sent to the model together with the input.</source>
+        <target state="new">System prompt sent to the model together with the input.</target>
+        <note>key: ibexa.connector_ai.option.prompt.help</note>
+      </trans-unit>
+      <trans-unit id="0b41462f943c8bcf320b8c664408d4dd616cd686" resname="ibexa.connector_ai.option.prompt.label">
+        <source>Prompt</source>
+        <target state="new">Prompt</target>
+        <note>key: ibexa.connector_ai.option.prompt.label</note>
+      </trans-unit>
+      <trans-unit id="1e5cb2a273ce89f87d455230110388bc5621b69c" resname="ibexa.connector_ai.option.reasoning_effort.choice.high">
+        <source>High</source>
+        <target state="new">High</target>
+        <note>key: ibexa.connector_ai.option.reasoning_effort.choice.high</note>
+      </trans-unit>
+      <trans-unit id="1ae58bcf310d8864b3b2d707ea2239b891a7529f" resname="ibexa.connector_ai.option.reasoning_effort.choice.low">
+        <source>Low</source>
+        <target state="new">Low</target>
+        <note>key: ibexa.connector_ai.option.reasoning_effort.choice.low</note>
+      </trans-unit>
+      <trans-unit id="b75e7b71af51b168aafea2791a268857580a78a3" resname="ibexa.connector_ai.option.reasoning_effort.choice.medium">
+        <source>Medium</source>
+        <target state="new">Medium</target>
+        <note>key: ibexa.connector_ai.option.reasoning_effort.choice.medium</note>
+      </trans-unit>
+      <trans-unit id="febf3c032e29e254d81554c9de8a1fabd2f7da79" resname="ibexa.connector_ai.option.reasoning_effort.choice.minimal">
+        <source>Minimal</source>
+        <target state="new">Minimal</target>
+        <note>key: ibexa.connector_ai.option.reasoning_effort.choice.minimal</note>
+      </trans-unit>
+      <trans-unit id="6792c813d4956e946c123a216af3cacebc986d17" resname="ibexa.connector_ai.option.reasoning_effort.choice.none">
+        <source>None</source>
+        <target state="new">None</target>
+        <note>key: ibexa.connector_ai.option.reasoning_effort.choice.none</note>
+      </trans-unit>
+      <trans-unit id="2b163cadc5238e4587f2220ade77df996aa9b0bd" resname="ibexa.connector_ai.option.reasoning_effort.help">
+        <source>How much reasoning the model spends before answering. Short text tasks rarely need more than the lowest level.</source>
+        <target state="new">How much reasoning the model spends before answering. Short text tasks rarely need more than the lowest level.</target>
+        <note>key: ibexa.connector_ai.option.reasoning_effort.help</note>
+      </trans-unit>
+      <trans-unit id="ef00d3be6ee94e7bf4d62de0a1f1ff077a57694b" resname="ibexa.connector_ai.option.reasoning_effort.label">
+        <source>Reasoning effort</source>
+        <target state="new">Reasoning effort</target>
+        <note>key: ibexa.connector_ai.option.reasoning_effort.label</note>
+      </trans-unit>
+      <trans-unit id="6b20ddceb15d6705b8c8735a5381f3c8d04baff3" resname="ibexa.connector_ai.option.temperature.help">
+        <source>Sampling temperature. Higher values make the output more random, lower values more focused and deterministic.</source>
+        <target state="new">Sampling temperature. Higher values make the output more random, lower values more focused and deterministic.</target>
+        <note>key: ibexa.connector_ai.option.temperature.help</note>
+      </trans-unit>
+      <trans-unit id="5ceae8287bbdcb4c182039c975f91cba4aed49ff" resname="ibexa.connector_ai.option.temperature.label">
+        <source>Temperature</source>
+        <target state="new">Temperature</target>
+        <note>key: ibexa.connector_ai.option.temperature.label</note>
+      </trans-unit>
       <trans-unit id="489cdb92cd6ad442fe28175c06d083e274ed7603" resname="ibexa.connector_ai.pre_create.title">
         <source>Create AI action</source>
         <target state="new">Create AI action</target>

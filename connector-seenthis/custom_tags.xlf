@@ -6,65 +6,65 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="71b958afdbbd4fe9254fdb27c4b5bac634c68380" resname="ezrichtext.custom_tags.seenthis.attributes.autoplay.label">
+      <trans-unit id="1a367d0ebc69664f139c5c1110ac403fd864289e" resname="ibexa_richtext.custom_tags.seenthis.attributes.autoplay.label">
         <source>Autoplay</source>
         <target>Autoplay</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.autoplay.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.autoplay.label</note>
       </trans-unit>
-      <trans-unit id="ff07fc56a2ddddee906165dfc8af5e1541e87a14" resname="ezrichtext.custom_tags.seenthis.attributes.big_play_button.label">
+      <trans-unit id="09f5c6938ccd1288d6471474b22346b564f3d392" resname="ibexa_richtext.custom_tags.seenthis.attributes.big_play_button.label">
         <source>Big Play Button</source>
         <target>Big Play Button</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.big_play_button.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.big_play_button.label</note>
       </trans-unit>
-      <trans-unit id="b740463ffbc8d8ee27f5f2696aa06045a816a2e1" resname="ezrichtext.custom_tags.seenthis.attributes.include_audio.label">
+      <trans-unit id="b9b2f3e1fd59b251ca148ca2a33d3faeb2f103e1" resname="ibexa_richtext.custom_tags.seenthis.attributes.include_audio.label">
         <source>Include audio</source>
         <target>Include audio</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.include_audio.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.include_audio.label</note>
       </trans-unit>
-      <trans-unit id="e3b72bd5e089d19bdd8341b078eabcb55e8952c3" resname="ezrichtext.custom_tags.seenthis.attributes.loop.label">
+      <trans-unit id="497995252014a1071c533ff314223f830518822f" resname="ibexa_richtext.custom_tags.seenthis.attributes.loop.label">
         <source>Loop</source>
         <target>Loop</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.loop.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.loop.label</note>
       </trans-unit>
-      <trans-unit id="5cb146f0d26aa0fc81598033f6fed90b4b806d62" resname="ezrichtext.custom_tags.seenthis.attributes.loop_count.label">
+      <trans-unit id="7afa7eaa21e209c00151e9426a84d689f72ed2e3" resname="ibexa_richtext.custom_tags.seenthis.attributes.loop_count.label">
         <source>Loop Count</source>
         <target>Loop Count</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.loop_count.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.loop_count.label</note>
       </trans-unit>
-      <trans-unit id="bfa1eb04945260dfc844bb682f25d76e4baed609" resname="ezrichtext.custom_tags.seenthis.attributes.mute_button.label">
+      <trans-unit id="7fb43687f582b13a06f3348961e0d51b56eb8f61" resname="ibexa_richtext.custom_tags.seenthis.attributes.mute_button.label">
         <source>Mute Button</source>
         <target>Mute Button</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.mute_button.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.mute_button.label</note>
       </trans-unit>
-      <trans-unit id="3a91e4accd0c0e8121f8f9aff9dbd5227a181d58" resname="ezrichtext.custom_tags.seenthis.attributes.muted.label">
+      <trans-unit id="0defbb82dc21272b8730ec979bc437931de318b0" resname="ibexa_richtext.custom_tags.seenthis.attributes.muted.label">
         <source>Muted</source>
         <target>Muted</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.muted.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.muted.label</note>
       </trans-unit>
-      <trans-unit id="7af682054815922b90706f79c4d0e25a6c63fed0" resname="ezrichtext.custom_tags.seenthis.attributes.play_button.label">
+      <trans-unit id="1059aba03d36f14f80d54042d2daee1cb2dee145" resname="ibexa_richtext.custom_tags.seenthis.attributes.play_button.label">
         <source>Play Button</source>
         <target>Play Button</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.play_button.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.play_button.label</note>
       </trans-unit>
-      <trans-unit id="789fc36ec350f5c9304a251fd45706f8d7b7bff1" resname="ezrichtext.custom_tags.seenthis.attributes.tracker_id.label">
+      <trans-unit id="d0754368fc77ecf3499664dadd277b356dfe3438" resname="ibexa_richtext.custom_tags.seenthis.attributes.tracker_id.label">
         <source>Tracker ID</source>
         <target>Tracker ID</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.tracker_id.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.tracker_id.label</note>
       </trans-unit>
-      <trans-unit id="f687094ced75df27668dcb97496d862bd4ab37bc" resname="ezrichtext.custom_tags.seenthis.attributes.video_id.label">
+      <trans-unit id="46419adba2f139050b13a9ac31b0733470a97c57" resname="ibexa_richtext.custom_tags.seenthis.attributes.video_id.label">
         <source>Video ID</source>
         <target>Video ID</target>
-        <note>key: ezrichtext.custom_tags.seenthis.attributes.video_id.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.attributes.video_id.label</note>
       </trans-unit>
-      <trans-unit id="977fefbb10d8332fc080f97a47e7085c6928ee8a" resname="ezrichtext.custom_tags.seenthis.description">
+      <trans-unit id="eda1cb80f6ec163279c1d36751a20425ab9837bf" resname="ibexa_richtext.custom_tags.seenthis.description">
         <source>Embed SeenThis video</source>
         <target>Embed SeenThis video</target>
-        <note>key: ezrichtext.custom_tags.seenthis.description</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.description</note>
       </trans-unit>
-      <trans-unit id="f1f6b3253e673a4d42c1e5499cab3066e38db9db" resname="ezrichtext.custom_tags.seenthis.label">
+      <trans-unit id="81e9c714a6415d721bb61402970e51259b84ae0f" resname="ibexa_richtext.custom_tags.seenthis.label">
         <source>SeenThis</source>
         <target>SeenThis</target>
-        <note>key: ezrichtext.custom_tags.seenthis.label</note>
+        <note>key: ibexa_richtext.custom_tags.seenthis.label</note>
       </trans-unit>
     </body>
   </file>
