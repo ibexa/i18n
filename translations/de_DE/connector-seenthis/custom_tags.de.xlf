@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="e3b72bd5e089d19bdd8341b078eabcb55e8952c3" resname="ezrichtext.custom_tags.seenthis.attributes.loop.label">
         <source>Loop</source>
-        <target state="translated">Wiederholen</target>
+        <target state="translated">Loop</target>
         <note>key: ezrichtext.custom_tags.seenthis.attributes.loop.label</note>
       </trans-unit>
       <trans-unit id="5cb146f0d26aa0fc81598033f6fed90b4b806d62" resname="ezrichtext.custom_tags.seenthis.attributes.loop_count.label">
         <source>Loop Count</source>
-        <target state="translated">Schleifenanzahl</target>
+        <target state="translated">Loop Anzahl</target>
         <note>key: ezrichtext.custom_tags.seenthis.attributes.loop_count.label</note>
       </trans-unit>
       <trans-unit id="bfa1eb04945260dfc844bb682f25d76e4baed609" resname="ezrichtext.custom_tags.seenthis.attributes.mute_button.label">

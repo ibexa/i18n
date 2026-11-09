@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="a2746dd6ec58ff00bb68db9a77ac0b2abe9e7e72" resname="settings.group.locale.name">
         <source>Locale</source>
-        <target state="translated">Sprache</target>
+        <target state="translated">Gebietsschema</target>
         <note>key: settings.group.locale.name</note>
       </trans-unit>
       <trans-unit id="3a4946ea2a7aaa360112cf1e657617e7ce7c7d9b" resname="settings.language.value.description">

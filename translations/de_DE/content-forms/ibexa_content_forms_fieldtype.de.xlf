@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="81c44e76de8bedacd95e425daa21f23ec0ba27ae" resname="content.field_type.ibexa_media.loop">
         <source>Loop</source>
-        <target state="translated">Wiederholen</target>
+        <target state="translated">Loop</target>
         <note>key: content.field_type.ibexa_media.loop</note>
       </trans-unit>
       <trans-unit id="f0a041fafa03bdd47c630c9817422fc8282d294b" resname="content.field_type.ibexa_media.width">

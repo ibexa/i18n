@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="b6ccefc2da6906dc21cee5f341d0c3006ed447b1" resname="ibexa.corporate_account.application.email_already_exists">
         <source>Email "{{ email }}" is already used by another user. Unable to process the application.</source>
-        <target state="translated">Die E-Mail-Adresse „{{ email }}“ wird bereits von einer anderen Person verwendet. Die Bewerbung kann nicht bearbeitet werden.</target>
+        <target state="translated">Die E-Mail-Adresse „{{ email }}“ wird bereits von einer anderen Benutzer verwendet. Die Bewerbung kann nicht bearbeitet werden.</target>
         <note>key: ibexa.corporate_account.application.email_already_exists</note>
       </trans-unit>
       <trans-unit id="f4fdb2c4707c1886bfc5272d40d990add6f78254" resname="ibexa.corporate_account.application.invalid_application_id">
