@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="8241cf9659175c8a3a64b2d627239870bea90472" resname="Auto translation review status already exists for content &quot;%contentId%&quot;, version &quot;%versionNo%&quot;, source language &quot;%sourceLanguageCode%&quot; and target language &quot;%targetLanguageCode%&quot;.">
+        <source>Auto translation review status already exists for content "%contentId%", version "%versionNo%", source language "%sourceLanguageCode%" and target language "%targetLanguageCode%".</source>
+        <target state="translated">El estado de revisión de traducción automática ya existe para el contenido "%contentId%", versión "%versionNo%", idioma de origen "%sourceLanguageCode%" e idioma de destino "%targetLanguageCode%".</target>
+        <note>key: Auto translation review status already exists for content "%contentId%", version "%versionNo%", source language "%sourceLanguageCode%" and target language "%targetLanguageCode%".</note>
+      </trans-unit>
+      <trans-unit id="2e8d5b2195daefcae2f099abf543faec747bec76" resname="Cannot change auto translation review status from &quot;%currentStatus%&quot; to &quot;%newStatus%&quot;.">
+        <source>Cannot change auto translation review status from "%currentStatus%" to "%newStatus%".</source>
+        <target state="translated">No se puede cambiar el estado de revisión de traducción automática de "%currentStatus%" a "%newStatus%".</target>
+        <note>key: Cannot change auto translation review status from "%currentStatus%" to "%newStatus%".</note>
+      </trans-unit>
+      <trans-unit id="214a132ebeb5a8ff9b090265cab4ebe0438d965c" resname="Content ID must be greater than 0.">
+        <source>Content ID must be greater than 0.</source>
+        <target state="translated">El ID de contenido debe ser mayor que 0.</target>
+        <note>key: Content ID must be greater than 0.</note>
+      </trans-unit>
+      <trans-unit id="0c600e056a85cfed6d1db293133b7c08598e29b2" resname="Operation &quot;%operation%&quot; is already applied for status &quot;%status%&quot;.">
+        <source>Operation "%operation%" is already applied for status "%status%".</source>
+        <target state="translated">La operación "%operation%" ya está aplicada para el estado "%status%".</target>
+        <note>key: Operation "%operation%" is already applied for status "%status%".</note>
+      </trans-unit>
+      <trans-unit id="15e4d89257e96d5f7073cb9f8a90c3511181f250" resname="Operation &quot;%operation%&quot; is not allowed for auto translation review status update.">
+        <source>Operation "%operation%" is not allowed for auto translation review status update.</source>
+        <target state="translated">No se permite la operación "%operation%" para actualizar el estado de revisión de traducción automática.</target>
+        <note>key: Operation "%operation%" is not allowed for auto translation review status update.</note>
+      </trans-unit>
+      <trans-unit id="5cc9cd0646b475a27cd83f34876080115fa0a83b" resname="Provider identifier cannot be empty.">
+        <source>Provider identifier cannot be empty.</source>
+        <target state="translated">El identificador del proveedor no puede estar vacío.</target>
+        <note>key: Provider identifier cannot be empty.</note>
+      </trans-unit>
+      <trans-unit id="cd1cfc9b9e8eb464c1ce6c296d159ea4637e31f1" resname="Source language code cannot be empty.">
+        <source>Source language code cannot be empty.</source>
+        <target state="translated">El código del idioma de origen no puede estar vacío.</target>
+        <note>key: Source language code cannot be empty.</note>
+      </trans-unit>
+      <trans-unit id="e231bd102d804db782e3e1670b23978f08ef1260" resname="Target language code cannot be empty.">
+        <source>Target language code cannot be empty.</source>
+        <target state="translated">El código del idioma de destino no puede estar vacío.</target>
+        <note>key: Target language code cannot be empty.</note>
+      </trans-unit>
+      <trans-unit id="03ce2605d90be034c7a4425516dbd3775ccb3ca9" resname="Unsupported auto translation review status context &quot;%context%&quot;.">
+        <source>Unsupported auto translation review status context "%context%".</source>
+        <target state="translated">Contexto de estado de revisión de traducción automática no compatible: "%context%".</target>
+        <note>key: Unsupported auto translation review status context "%context%".</note>
+      </trans-unit>
+      <trans-unit id="dd1799ee50b86b25c6b97df465d421b863b1cac9" resname="Version number is required for content auto translation review status context.">
+        <source>Version number is required for content auto translation review status context.</source>
+        <target state="translated">Se requiere el número de versión para el contexto de estado de revisión de traducción automática de contenido.</target>
+        <note>key: Version number is required for content auto translation review status context.</note>
+      </trans-unit>
+      <trans-unit id="64652f7768994e3b1854b39a2039413f5da34cfa" resname="Version number must be greater than 0.">
+        <source>Version number must be greater than 0.</source>
+        <target state="translated">El número de versión debe ser mayor que 0.</target>
+        <note>key: Version number must be greater than 0.</note>
+      </trans-unit>
+      <trans-unit id="afc3fbbb717a1abb8438240684e588b1380a7235" resname="Language pair &quot;%sourceLanguageCode%&quot; -&gt; &quot;%targetLanguageCode%&quot; already exists for provider &quot;%providerIdentifier%&quot;.">
+        <source>Language pair "%sourceLanguageCode%" -&gt; "%targetLanguageCode%" already exists for provider "%providerIdentifier%".</source>
+        <target state="translated">El par de idiomas "%sourceLanguageCode%" -> "%targetLanguageCode%" ya existe para el proveedor "%providerIdentifier%".</target>
+        <note>key: Language pair "%sourceLanguageCode%" -&gt; "%targetLanguageCode%" already exists for provider "%providerIdentifier%".</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

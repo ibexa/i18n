@@ -378,7 +378,7 @@
       </trans-unit>
       <trans-unit id="c10b0c448f6442d0a67d6787f458e09c823d79f7" resname="The user login '%login%' is used by another user. You must enter a unique login.">
         <source>The user login '%login%' is used by another user. You must enter a unique login.</source>
-        <target state="translated">Der Benutzer-Login „%login%“ wird bereits von einer anderen Person verwendet. Bitte geben Sie einen eindeutigen Login ein.</target>
+        <target state="translated">Der Benutzer-Login „%login%“ wird bereits von einer anderen Benutzer verwendet. Bitte geben Sie einen eindeutigen Login ein.</target>
         <note>key: The user login '%login%' is used by another user. You must enter a unique login.</note>
       </trans-unit>
       <trans-unit id="4d599538a5fe5385937cbee8c10499a135233c7a" resname="The value can not be higher than %size%.">

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="78ae668b6ab953b9a08e0d7f9b7edfc6593999a9" resname="draft_list__action__side_by_side_edit">
+        <source>Edit side-by-side</source>
+        <target state="translated">Modifier côte à côte</target>
+        <note>key: draft_list__action__side_by_side_edit</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

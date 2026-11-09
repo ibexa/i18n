@@ -7,7 +7,7 @@
     </header>
     <body>
       <trans-unit id="92984210bb74f5c966f64c7518549bd9e2fa9f68" resname="ezplatform_site_factory">
-        <source>Site Management</source>
+        <source>Site management</source>
         <target state="translated">Gestion du site</target>
         <note>key: ezplatform_site_factory</note>
       </trans-unit>
