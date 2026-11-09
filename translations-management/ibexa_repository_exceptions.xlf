@@ -21,6 +21,11 @@
         <target state="new">Content ID must be greater than 0.</target>
         <note>key: Content ID must be greater than 0.</note>
       </trans-unit>
+      <trans-unit id="afc3fbbb717a1abb8438240684e588b1380a7235" resname="Language pair &quot;%sourceLanguageCode%&quot; -&gt; &quot;%targetLanguageCode%&quot; already exists for provider &quot;%providerIdentifier%&quot;.">
+        <source><![CDATA[Language pair "%sourceLanguageCode%" -> "%targetLanguageCode%" already exists for provider "%providerIdentifier%".]]></source>
+        <target state="new"><![CDATA[Language pair "%sourceLanguageCode%" -> "%targetLanguageCode%" already exists for provider "%providerIdentifier%".]]></target>
+        <note>key: Language pair "%sourceLanguageCode%" -&gt; "%targetLanguageCode%" already exists for provider "%providerIdentifier%".</note>
+      </trans-unit>
       <trans-unit id="0c600e056a85cfed6d1db293133b7c08598e29b2" resname="Operation &quot;%operation%&quot; is already applied for status &quot;%status%&quot;.">
         <source>Operation "%operation%" is already applied for status "%status%".</source>
         <target state="new">Operation "%operation%" is already applied for status "%status%".</target>
@@ -60,11 +65,6 @@
         <source>Version number must be greater than 0.</source>
         <target state="new">Version number must be greater than 0.</target>
         <note>key: Version number must be greater than 0.</note>
-      </trans-unit>
-      <trans-unit id="afc3fbbb717a1abb8438240684e588b1380a7235" resname="Language pair &quot;%sourceLanguageCode%&quot; -&gt; &quot;%targetLanguageCode%&quot; already exists for provider &quot;%providerIdentifier%&quot;.">
-        <source>Language pair "%sourceLanguageCode%" -&gt; "%targetLanguageCode%" already exists for provider "%providerIdentifier%".</source>
-        <target state="new">Language pair "%sourceLanguageCode%" -&gt; "%targetLanguageCode%" already exists for provider "%providerIdentifier%".</target>
-        <note>key: Language pair "%sourceLanguageCode%" -&gt; "%targetLanguageCode%" already exists for provider "%providerIdentifier%".</note>
       </trans-unit>
     </body>
   </file>

@@ -7,29 +7,14 @@
     </header>
     <body>
       <trans-unit id="e29bf3bb716a0f455bdae22ed809d479c91fa5ef" resname="Translate given text">
-        <source>Translate given text</source>
-        <target state="new">Translate given text</target>
+        <source>Translate given text.</source>
+        <target state="new">Translate given text.</target>
         <note>key: Translate given text</note>
       </trans-unit>
       <trans-unit id="7d850b036970f0b8f0b86178eb6494105cebffb8" resname="auto_translate.draft_creation.failed">
         <source>Creating automatically translated draft for content %content_id% failed: %reason%</source>
         <target state="new">Creating automatically translated draft for content %content_id% failed: %reason%</target>
         <note>key: auto_translate.draft_creation.failed</note>
-      </trans-unit>
-      <trans-unit id="fff2adbc643fd41183f644ecc6c63262b71592f7" resname="exception.already_exists">
-        <source>This resource already exists.</source>
-        <target state="new">This resource already exists.</target>
-        <note>key: exception.already_exists</note>
-      </trans-unit>
-      <trans-unit id="938c6b545254f5bbe00e0b76ddb68371d67cdd8b" resname="exception.invalid_request">
-        <source>The request could not be processed. Try again or contact your administrator.</source>
-        <target state="new">The request could not be processed. Try again or contact your administrator.</target>
-        <note>key: exception.invalid_request</note>
-      </trans-unit>
-      <trans-unit id="aecfc49fc97a0cd9d42b4e579d1b49e5feaa85d1" resname="exception.not_found">
-        <source>The requested resource could not be found.</source>
-        <target state="new">The requested resource could not be found.</target>
-        <note>key: exception.not_found</note>
       </trans-unit>
       <trans-unit id="e19eb6e30e198e1b30cf801abdaf516ebaeff494" resname="auto_translate.form.disabled_automatic_translation_info">
         <source>To enable automatic translation, contact your administrator</source>
@@ -115,6 +100,26 @@
         <source>Source language</source>
         <target state="new">Source language</target>
         <note>key: auto_translate.language_pairs.source_language</note>
+      </trans-unit>
+      <trans-unit id="646e2fe9430ba01fef0c80d9fd6d342e6730ce09" resname="auto_translate.language_pairs.status">
+        <source>Status</source>
+        <target state="new">Status</target>
+        <note>key: auto_translate.language_pairs.status</note>
+      </trans-unit>
+      <trans-unit id="1e4e17c31988ac7a1993aeccd5804a75c4ae35fc" resname="auto_translate.language_pairs.status.disabled">
+        <source>Disabled</source>
+        <target state="new">Disabled</target>
+        <note>key: auto_translate.language_pairs.status.disabled</note>
+      </trans-unit>
+      <trans-unit id="2365f640c257f11b51fce15ee22b40ca92069a09" resname="auto_translate.language_pairs.status.enabled">
+        <source>Enabled</source>
+        <target state="new">Enabled</target>
+        <note>key: auto_translate.language_pairs.status.enabled</note>
+      </trans-unit>
+      <trans-unit id="2bd036581e52be10ad2fb98ef3df8ecf7fc7d74f" resname="auto_translate.language_pairs.status.not_configured">
+        <source>Not configured</source>
+        <target state="new">Not configured</target>
+        <note>key: auto_translate.language_pairs.status.not_configured</note>
       </trans-unit>
       <trans-unit id="b53bf8f29195e4e13ac6babd1f13f59f456aad52" resname="auto_translate.language_pairs.target">
         <source>Target language</source>
@@ -215,6 +220,21 @@
         <source>under %location%</source>
         <target state="new">under %location%</target>
         <note>key: editing_details_subtitle</note>
+      </trans-unit>
+      <trans-unit id="fff2adbc643fd41183f644ecc6c63262b71592f7" resname="exception.already_exists">
+        <source>This resource already exists.</source>
+        <target state="new">This resource already exists.</target>
+        <note>key: exception.already_exists</note>
+      </trans-unit>
+      <trans-unit id="938c6b545254f5bbe00e0b76ddb68371d67cdd8b" resname="exception.invalid_request">
+        <source>The request could not be processed. Try again or contact your administrator.</source>
+        <target state="new">The request could not be processed. Try again or contact your administrator.</target>
+        <note>key: exception.invalid_request</note>
+      </trans-unit>
+      <trans-unit id="aecfc49fc97a0cd9d42b4e579d1b49e5feaa85d1" resname="exception.not_found">
+        <source>The requested resource could not be found.</source>
+        <target state="new">The requested resource could not be found.</target>
+        <note>key: exception.not_found</note>
       </trans-unit>
       <trans-unit id="2ce46153585470df6fddead9973879770f4ceebd" resname="ibexa.ai.action.translate_text.name">
         <source>Translate text</source>

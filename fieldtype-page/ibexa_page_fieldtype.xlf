@@ -36,6 +36,11 @@
         <target state="new">URL</target>
         <note>key: ibexa.fieldtype_page.block.banner.attributes.url.name</note>
       </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.banner.description">
+        <source>Displays a full-width promotional banner with an image, heading and link.</source>
+        <target state="new">Displays a full-width promotional banner with an image, heading and link.</target>
+        <note>key: ibexa.fieldtype_page.block.banner.description</note>
+      </trans-unit>
       <trans-unit id="68f7aa1634d3850521e43067838322b59d0a0257" resname="ibexa.fieldtype_page.block.banner.name">
         <source>Banner</source>
         <target state="new">Banner</target>
@@ -50,6 +55,11 @@
         <source>Location list</source>
         <target state="new">Location list</target>
         <note>key: ibexa.fieldtype_page.block.collection.attributes.locationlist.name</note>
+      </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.collection.description">
+        <source>Shows a hand-picked, ordered collection of content items.</source>
+        <target state="new">Shows a hand-picked, ordered collection of content items.</target>
+        <note>key: ibexa.fieldtype_page.block.collection.description</note>
       </trans-unit>
       <trans-unit id="4fde8f49b418ee97e6c5281039e5c7e058717edf" resname="ibexa.fieldtype_page.block.collection.name">
         <source>Collection</source>
@@ -71,6 +81,11 @@
         <target state="new">Limit</target>
         <note>key: ibexa.fieldtype_page.block.contentlist.attributes.limit.name</note>
       </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.contentlist.description">
+        <source>Lists child content items of a chosen parent, with a configurable limit and offset.</source>
+        <target state="new">Lists child content items of a chosen parent, with a configurable limit and offset.</target>
+        <note>key: ibexa.fieldtype_page.block.contentlist.description</note>
+      </trans-unit>
       <trans-unit id="5357a64cb78bb14d30e33c4cb713761c4a34b5b0" resname="ibexa.fieldtype_page.block.contentlist.name">
         <source>Content List</source>
         <target state="new">Content List</target>
@@ -80,6 +95,11 @@
         <source>Content</source>
         <target state="new">Content</target>
         <note>key: ibexa.fieldtype_page.block.embed.attributes.contentId.name</note>
+      </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.embed.description">
+        <source>Embeds a single content item rendered in a chosen view.</source>
+        <target state="new">Embeds a single content item rendered in a chosen view.</target>
+        <note>key: ibexa.fieldtype_page.block.embed.description</note>
       </trans-unit>
       <trans-unit id="aab2eb6f08815d2af6e84a9bad2ee5da93744bb6" resname="ibexa.fieldtype_page.block.embed.name">
         <source>Embed</source>
@@ -91,6 +111,11 @@
         <target state="new">Folder</target>
         <note>key: ibexa.fieldtype_page.block.gallery.attributes.contentId.name</note>
       </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.gallery.description">
+        <source>Gallery block that displays a selection of content items and products.</source>
+        <target state="new">Gallery block that displays a selection of content items and products.</target>
+        <note>key: ibexa.fieldtype_page.block.gallery.description</note>
+      </trans-unit>
       <trans-unit id="b09ca3cd1910a55fceaea53faae9d53fdcd4630d" resname="ibexa.fieldtype_page.block.gallery.name">
         <source>Gallery</source>
         <target state="new">Gallery</target>
@@ -100,6 +125,11 @@
         <source>Content</source>
         <target state="new">Content</target>
         <note>key: ibexa.fieldtype_page.block.richtext.attributes.content.name</note>
+      </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.richtext.description">
+        <source>Holds formatted rich text authored in the editor.</source>
+        <target state="new">Holds formatted rich text authored in the editor.</target>
+        <note>key: ibexa.fieldtype_page.block.richtext.description</note>
       </trans-unit>
       <trans-unit id="3c11ebc8d3fcba794d4a5c455d3d3ad806f32f88" resname="ibexa.fieldtype_page.block.richtext.name">
         <source>Text</source>
@@ -120,6 +150,11 @@
         <source>URL</source>
         <target state="new">URL</target>
         <note>key: ibexa.fieldtype_page.block.rss.attributes.url.name</note>
+      </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.rss.description">
+        <source>Renders entries from an external RSS or Atom feed.</source>
+        <target state="new">Renders entries from an external RSS or Atom feed.</target>
+        <note>key: ibexa.fieldtype_page.block.rss.description</note>
       </trans-unit>
       <trans-unit id="22aca1e468b9ac18da46e70246cd805e09c910b0" resname="ibexa.fieldtype_page.block.rss.name">
         <source>RSS</source>
@@ -156,6 +191,11 @@
         <target state="new">Snapshots</target>
         <note>key: ibexa.fieldtype_page.block.schedule.attributes.snapshots.name</note>
       </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.schedule.description">
+        <source>Publishes a queue of content items on a timeline, revealing each at its scheduled moment.</source>
+        <target state="new">Publishes a queue of content items on a timeline, revealing each at its scheduled moment.</target>
+        <note>key: ibexa.fieldtype_page.block.schedule.description</note>
+      </trans-unit>
       <trans-unit id="e6e5487c8514d264ee88b1825cc58639c49408bc" resname="ibexa.fieldtype_page.block.schedule.name">
         <source>Content Scheduler</source>
         <target state="new">Content Scheduler</target>
@@ -166,6 +206,11 @@
         <target state="new">Content</target>
         <note>key: ibexa.fieldtype_page.block.tag.attributes.content.name</note>
       </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.tag.description">
+        <source>Embeds a raw HTML or script snippet directly into the page.</source>
+        <target state="new">Embeds a raw HTML or script snippet directly into the page.</target>
+        <note>key: ibexa.fieldtype_page.block.tag.description</note>
+      </trans-unit>
       <trans-unit id="8b5a281b18b0420c2e1f8a177a766cb1bb72f6e7" resname="ibexa.fieldtype_page.block.tag.name">
         <source>Code</source>
         <target state="new">Code</target>
@@ -175,6 +220,11 @@
         <source>Video</source>
         <target state="new">Video</target>
         <note>key: ibexa.fieldtype_page.block.video.attributes.contentId.name</note>
+      </trans-unit>
+      <trans-unit resname="ibexa.fieldtype_page.block.video.description">
+        <source>Plays a video from a referenced content item.</source>
+        <target state="new">Plays a video from a referenced content item.</target>
+        <note>key: ibexa.fieldtype_page.block.video.description</note>
       </trans-unit>
       <trans-unit id="4d22c0c6a4a33607fcc1dd652fce310ad9a098f7" resname="ibexa.fieldtype_page.block.video.name">
         <source>Video</source>

@@ -136,9 +136,14 @@
         <target state="new">Select content</target>
         <note>key: config_form.widgets.schedule.udw.title</note>
       </trans-unit>
+      <trans-unit id="c10203f39abb1a16061affd65843605c3df7b880" resname="config_panel.fields_notice">
+        <source>Changes will be applied when the draft is saved.</source>
+        <target state="new">Changes will be applied when the draft is saved.</target>
+        <note>key: config_panel.fields_notice</note>
+      </trans-unit>
       <trans-unit id="a9aa3e78a3043fde0dfe4b2a53704481c8258251" resname="config_panel.save_and_close">
-        <source>Save and close</source>
-        <target state="new">Save and close</target>
+        <source>Submit</source>
+        <target state="new">Submit</target>
         <note>key: config_panel.save_and_close</note>
       </trans-unit>
       <trans-unit id="5a88a93c8b1cd819dc183fcd3b252b24acbe487b" resname="config_popup.close.label">

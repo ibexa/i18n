@@ -16,6 +16,16 @@
         <target state="new"><![CDATA[A pair for %source_name% (%source_code%) -> %target_name% (%target_code%) already exists (%provider%). To change the provider, edit the existing pair.]]></target>
         <note>key: auto_translate.language_pair.pair_already_exists</note>
       </trans-unit>
+      <trans-unit id="bc722f39d557f3d1942931d139ae6e7d2b28fb23" resname="auto_translate.language_pair.pair_already_exists_for_disabled_provider">
+        <source><![CDATA[A pair for %source_name% (%source_code%) -> %target_name% (%target_code%) already exists for a disabled provider (%provider%). Remove it from the language pairs list, or enable the provider to edit it.]]></source>
+        <target state="new"><![CDATA[A pair for %source_name% (%source_code%) -> %target_name% (%target_code%) already exists for a disabled provider (%provider%). Remove it from the language pairs list, or enable the provider to edit it.]]></target>
+        <note>key: auto_translate.language_pair.pair_already_exists_for_disabled_provider</note>
+      </trans-unit>
+      <trans-unit id="29df2e890e5b7ca900c7d2ce1e7eb8a995eeb3d6" resname="auto_translate.language_pair.pair_already_exists_for_not_configured_provider">
+        <source><![CDATA[A pair for %source_name% (%source_code%) -> %target_name% (%target_code%) already exists for a provider that is not configured (%provider%). Remove it from the language pairs list to reuse this combination.]]></source>
+        <target state="new"><![CDATA[A pair for %source_name% (%source_code%) -> %target_name% (%target_code%) already exists for a provider that is not configured (%provider%). Remove it from the language pairs list to reuse this combination.]]></target>
+        <note>key: auto_translate.language_pair.pair_already_exists_for_not_configured_provider</note>
+      </trans-unit>
       <trans-unit id="5444fd3616057b5b67e82ea2fd5c266564fb830d" resname="auto_translate.language_pairs.unsupported_language">
         <source>Provider %provider% doesn't support: %languages%.</source>
         <target state="new">Provider %provider% doesn't support: %languages%.</target>

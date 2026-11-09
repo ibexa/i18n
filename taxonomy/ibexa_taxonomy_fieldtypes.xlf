@@ -26,6 +26,16 @@
         <target state="new">Select %name%</target>
         <note>key: taxonomy.tag.content.modal.title</note>
       </trans-unit>
+      <trans-unit id="0bffadc94d6aff23d08b5088111c045e0301c4b7" resname="taxonomy.tag.content.selected">
+        <source>Selected %name%</source>
+        <target state="new">Selected %name%</target>
+        <note>key: taxonomy.tag.content.selected</note>
+      </trans-unit>
+      <trans-unit id="3b0cc2991863789ebb092456e434135747319394" resname="taxonomy.tag.content.selected.tags">
+        <source>Selected tags</source>
+        <target state="new">Selected tags</target>
+        <note>key: taxonomy.tag.content.selected.tags</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
