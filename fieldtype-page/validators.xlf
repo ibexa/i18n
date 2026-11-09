@@ -16,6 +16,11 @@
         <target state="new">The selected Content item isn't of the expected content type.</target>
         <note>key: ezplatform.content.is_not_expected_content_type</note>
       </trans-unit>
+      <trans-unit id="21eeb762ced1a271d923c405c0bf2a5d62f56d40" resname="ibexa.content.is_not_available">
+        <source>Content is not available.</source>
+        <target state="new">Content is not available.</target>
+        <note>key: ibexa.content.is_not_available</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
