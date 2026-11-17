@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="c4c1eef54c552362a25b3666b0dbda46349ad7ad" resname="notification_email.header.created_at">
         <source>Send at %datetime% </source>
-        <target state="translated">أُرسل في %datetime%</target>
+        <target state="translated">أُرسل في %datetime% </target>
         <note>key: notification_email.header.created_at</note>
       </trans-unit>
       <trans-unit id="9ae7ee329319310387b096b199936c8bd2ccd89a" resname="notification_email.subject">

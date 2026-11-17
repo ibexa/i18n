@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="8145d8a19ad7bb79048f2a1391153c8f45b2d14f" resname="distraction_free_mode.enable.tooltip">
         <source>Enter distraction free mode. It shows only rich text editor toolbar and focuses your attention on editing text.</source>
-        <target state="translated">ادخل وضع خالٍ من التشتيت. يظهر فقط شريط أدوات محرر النص المنسق ويركز انتباهك على تحرير النص.</target>
+        <target state="translated">ادخل وضعًا خاليًا من التشتيت. يعرض هذا الوضع شريط أدوات محرر النص المنسق فقط، ويركّز انتباهك على تحرير النص.</target>
         <note>key: distraction_free_mode.enable.tooltip</note>
       </trans-unit>
       <trans-unit id="d899cb1dbb25a42ea34f296bf7bef9821df66b72" resname="edit_translation.edit.title">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="885ec7aab950e05f729031321cddbb6d7f9c3246" resname="version.delete.success">
         <source>Removed version(s) from '%name%'.</source>
-        <target state="translated">تمت إزالة النسخة/النسخ من '%name%'.</target>
+        <target state="translated">تمت إزالة الإصدارات من '%name%'.</target>
         <note>key: version.delete.success</note>
       </trans-unit>
     </body>

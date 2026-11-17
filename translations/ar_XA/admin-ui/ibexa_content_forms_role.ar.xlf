@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button">
         <source>Select Locations</source>
-        <target state="translated">اختيار المواضع</target>
+        <target state="translated">اختر المواضع</target>
         <note>key: role.policy.limitation.location.udw_button</note>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select Location(s) to use as Limitation</source>
-        <target state="translated">اختر الموضع (المواضع) لاستخدامه كقيد</target>
+        <target state="translated">اختر المواضع لاستخدامها كقيد</target>
         <note>key: role.policy.limitation.location.udw_title</note>
       </trans-unit>
       <trans-unit id="290f48ccc1eb2889852b730ac62b2b148594c85f" resname="role.policy.limitation.location_deleted">

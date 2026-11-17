@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="a3a9c6fc7591e6a73154fe376ab3b569ec6297b8" resname="drag.drop.empty.zone.message">
         <source>Drag and drop item from library to build form</source>
-        <target state="translated">اسحب وأسقط عنصرًا من المكتبة لإنشاء نموذج</target>
+        <target state="translated">اسحب عنصرًا من المكتبة وأفلته لإنشاء نموذج</target>
         <note>key: drag.drop.empty.zone.message</note>
       </trans-unit>
       <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove">
@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="9d2ecf5e151fb4e9150d9fb90965fd9fd41962ec" resname="form.field.attribute.location">
         <source>Select file upload location</source>
-        <target state="translated">حدد موضع رفع الملف</target>
+        <target state="translated">اختر موضع رفع الملف</target>
         <note>key: form.field.attribute.location</note>
       </trans-unit>
       <trans-unit id="a0de51681a1d8819a3df2f4196a2753c8c38adc3" resname="form.field.attribute.notification_email">
         <source>Notification email(s)</source>
-        <target state="translated">بريد الإشعارات الإلكتروني</target>
+        <target state="translated">عناوين البريد الإلكتروني للإشعارات</target>
         <note>key: form.field.attribute.notification_email</note>
       </trans-unit>
       <trans-unit id="1a29708620914a30c8983914f1eb3ffe8b79d159" resname="form.field.attribute.options">

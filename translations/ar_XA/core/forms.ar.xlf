@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="e050709df5ae56b1e9168038182f4c52221ffab9" resname="role.policy.content.cleantrash">
         <source>Content / Clean trash</source>
-        <target state="translated">المحتوى / تنظيف المهملات</target>
+        <target state="translated">المحتوى / تنظيف سلة المهملات</target>
         <note>key: role.policy.content.cleantrash</note>
       </trans-unit>
       <trans-unit id="597c25abf1e2d91e50b82d2699f8b85f68c9f305" resname="role.policy.content.create">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="bdb3e6e10d770d20ffa7966acb58d3e9cf9805e2" resname="role.policy.content.edit">
         <source>Content / Edit</source>
-        <target state="translated">المحتوى / تحرير</target>
+        <target state="translated">المحتوى / تعديل</target>
         <note>key: role.policy.content.edit</note>
       </trans-unit>
       <trans-unit id="1049e14eb7fec2dc053571f607e0eb044a06e455" resname="role.policy.content.hide">
@@ -148,32 +148,32 @@
       </trans-unit>
       <trans-unit id="17f55c17c76ccfcf636ce429b867f89069609bcd" resname="role.policy.role.all_functions">
         <source>Role / All functions</source>
-        <target state="translated">دور / جميع الوظائف</target>
+        <target state="translated">الدور / جميع الوظائف</target>
         <note>key: role.policy.role.all_functions</note>
       </trans-unit>
       <trans-unit id="cf922ebcfc51ae098cb57a938984916e03c0481c" resname="role.policy.role.assign">
         <source>Role / Assign</source>
-        <target state="translated">دور / تعيين</target>
+        <target state="translated">الدور / تعيين</target>
         <note>key: role.policy.role.assign</note>
       </trans-unit>
       <trans-unit id="f12cc8bc381274c232a90deae7ce981dbc3634cb" resname="role.policy.role.create">
         <source>Role / Create</source>
-        <target state="translated">دور / إنشاء</target>
+        <target state="translated">الدور / إنشاء</target>
         <note>key: role.policy.role.create</note>
       </trans-unit>
       <trans-unit id="d17c0339a48c6e273c56673c31037427fd95ecee" resname="role.policy.role.delete">
         <source>Role / Delete</source>
-        <target state="translated">دور / حذف</target>
+        <target state="translated">الدور / حذف</target>
         <note>key: role.policy.role.delete</note>
       </trans-unit>
       <trans-unit id="1e809cc5ab4e914e5dc51fa2dc0a6b62a90bc2f1" resname="role.policy.role.read">
         <source>Role / Read</source>
-        <target state="translated">دور / عرض</target>
+        <target state="translated">الدور / عرض</target>
         <note>key: role.policy.role.read</note>
       </trans-unit>
       <trans-unit id="2f8dccfd705bd25a633826ff76f595e118a71dcf" resname="role.policy.role.update">
         <source>Role / Update</source>
-        <target state="translated">دور / تحديث</target>
+        <target state="translated">الدور / تحديث</target>
         <note>key: role.policy.role.update</note>
       </trans-unit>
       <trans-unit id="7153cdd53211bedab219659c1d1656693d3bb4ae" resname="role.policy.section">
@@ -183,22 +183,22 @@
       </trans-unit>
       <trans-unit id="f5e387481bf702e73317dcbccff5d55fc111550e" resname="role.policy.section.all_functions">
         <source>Section / All functions</source>
-        <target state="translated">قسم / جميع الوظائف</target>
+        <target state="translated">القسم / جميع الوظائف</target>
         <note>key: role.policy.section.all_functions</note>
       </trans-unit>
       <trans-unit id="2f63b236417b33905613e757497387c99e47a848" resname="role.policy.section.assign">
         <source>Section / Assign</source>
-        <target state="translated">قسم / تعيين</target>
+        <target state="translated">القسم / تعيين</target>
         <note>key: role.policy.section.assign</note>
       </trans-unit>
       <trans-unit id="9ce67233e7377c7ac36c6ccbdf1a49a582aca59d" resname="role.policy.section.edit">
         <source>Section / Edit</source>
-        <target state="translated">قسم / تحرير</target>
+        <target state="translated">القسم / تعديل</target>
         <note>key: role.policy.section.edit</note>
       </trans-unit>
       <trans-unit id="c80fb60940421ce0b94226255211ec10dc9208b4" resname="role.policy.section.view">
         <source>Section / View</source>
-        <target state="translated">قسم / عرض</target>
+        <target state="translated">القسم / عرض</target>
         <note>key: role.policy.section.view</note>
       </trans-unit>
       <trans-unit id="5f165ef2e938f6710b56e2e8ee416414e430b77c" resname="role.policy.setting">
@@ -208,22 +208,22 @@
       </trans-unit>
       <trans-unit id="8775d52b987252ee1ad0867fe4f9e23dec668b5b" resname="role.policy.setting.all_functions">
         <source>Setting / All functions</source>
-        <target state="translated">إعداد / جميع الوظائف</target>
+        <target state="translated">الإعدادات / جميع الوظائف</target>
         <note>key: role.policy.setting.all_functions</note>
       </trans-unit>
       <trans-unit id="686f427740ca0cf4df247266b8a1300d747cf3a4" resname="role.policy.setting.create">
         <source>Setting / Create</source>
-        <target state="translated">إعداد / إنشاء</target>
+        <target state="translated">الإعدادات / إنشاء</target>
         <note>key: role.policy.setting.create</note>
       </trans-unit>
       <trans-unit id="d41141e8fa3c214bc546a6925304c15ee9a28022" resname="role.policy.setting.remove">
         <source>Setting / Remove</source>
-        <target state="translated">إعداد / إزالة</target>
+        <target state="translated">الإعدادات / إزالة</target>
         <note>key: role.policy.setting.remove</note>
       </trans-unit>
       <trans-unit id="14fa9c5afba9d51072c6a66dede46535b718f77e" resname="role.policy.setting.update">
         <source>Setting / Update</source>
-        <target state="translated">إعداد / تحديث</target>
+        <target state="translated">الإعدادات / تحديث</target>
         <note>key: role.policy.setting.update</note>
       </trans-unit>
       <trans-unit id="33092ebd51699d4d3f598b8488e7bc5969038bff" resname="role.policy.setup">
@@ -233,27 +233,27 @@
       </trans-unit>
       <trans-unit id="a72fa98205c4f68fc53506f9b57e645be450ce86" resname="role.policy.setup.administrate">
         <source>Setup / Administrate</source>
-        <target state="translated">إعداد / إدارة</target>
+        <target state="translated">التهيئة / إدارة</target>
         <note>key: role.policy.setup.administrate</note>
       </trans-unit>
       <trans-unit id="df52828e26336a4a6f3186e0d6eb75d98056aeaa" resname="role.policy.setup.all_functions">
         <source>Setup / All functions</source>
-        <target state="translated">إعداد / جميع الوظائف</target>
+        <target state="translated">التهيئة / جميع الوظائف</target>
         <note>key: role.policy.setup.all_functions</note>
       </trans-unit>
       <trans-unit id="32c1032c29386bcf41793f2542b3476887249bc5" resname="role.policy.setup.install">
         <source>Setup / Install</source>
-        <target state="translated">إعداد / تثبيت</target>
+        <target state="translated">التهيئة / تثبيت</target>
         <note>key: role.policy.setup.install</note>
       </trans-unit>
       <trans-unit id="4ce0aa17f80167751257ddb6e0cc8e06ca9c1bbb" resname="role.policy.setup.setup">
         <source>Setup / Setup</source>
-        <target state="translated">إعداد / إعداد</target>
+        <target state="translated">التهيئة / التهيئة</target>
         <note>key: role.policy.setup.setup</note>
       </trans-unit>
       <trans-unit id="a77dcd2893dc76a7e94fe088b775045fde8651e4" resname="role.policy.setup.system_info">
         <source>Setup / System info</source>
-        <target state="translated">إعداد / معلومات النظام</target>
+        <target state="translated">التهيئة / معلومات النظام</target>
         <note>key: role.policy.setup.system_info</note>
       </trans-unit>
       <trans-unit id="012dce76ef569ba377ffe98ddbee8d3c3d270e15" resname="role.policy.state">
@@ -303,52 +303,52 @@
       </trans-unit>
       <trans-unit id="647dfa7992026277b6d73295b2ffaefe4cfa12d0" resname="role.policy.user.activation">
         <source>User / Activation</source>
-        <target state="translated">مستخدم / تفعيل</target>
+        <target state="translated">المستخدم / تفعيل</target>
         <note>key: role.policy.user.activation</note>
       </trans-unit>
       <trans-unit id="d44ce8c33cbc780cff9ca6f05ad2f70002550cd0" resname="role.policy.user.all_functions">
         <source>User / All functions</source>
-        <target state="translated">مستخدم / جميع الوظائف</target>
+        <target state="translated">المستخدم / جميع الوظائف</target>
         <note>key: role.policy.user.all_functions</note>
       </trans-unit>
       <trans-unit id="587199065d14880416b8061b73788e731a201c27" resname="role.policy.user.invite">
         <source>User / Invite</source>
-        <target state="translated">مستخدم / دعوة</target>
+        <target state="translated">المستخدم / دعوة</target>
         <note>key: role.policy.user.invite</note>
       </trans-unit>
       <trans-unit id="f25505dc2f59df21e3125664c4fdad951d82df3b" resname="role.policy.user.login">
         <source>User / Login</source>
-        <target state="translated">مستخدم / تسجيل الدخول</target>
+        <target state="translated">المستخدم / تسجيل الدخول</target>
         <note>key: role.policy.user.login</note>
       </trans-unit>
       <trans-unit id="d971078868184d3d233fb14032fda9ef614c2baa" resname="role.policy.user.password">
         <source>User / Password</source>
-        <target state="translated">مستخدم / كلمة المرور</target>
+        <target state="translated">المستخدم / كلمة المرور</target>
         <note>key: role.policy.user.password</note>
       </trans-unit>
       <trans-unit id="28d15501824f89951d4068af32fbc52eb1412b8d" resname="role.policy.user.preferences">
         <source>User / Preferences</source>
-        <target state="translated">مستخدم / التفضيلات</target>
+        <target state="translated">المستخدم / التفضيلات</target>
         <note>key: role.policy.user.preferences</note>
       </trans-unit>
       <trans-unit id="8f79f6008557e588c0a8b13ccdc42d6babc073c9" resname="role.policy.user.register">
         <source>User / Register</source>
-        <target state="translated">مستخدم / تسجيل</target>
+        <target state="translated">المستخدم / تسجيل</target>
         <note>key: role.policy.user.register</note>
       </trans-unit>
       <trans-unit id="106b2a3fa38c660c838efe1905c904ce689a2d75" resname="role.policy.user.selfedit">
         <source>User / Self edit</source>
-        <target state="translated">مستخدم / تعديل ذاتي</target>
+        <target state="translated">المستخدم / تعديل ذاتي</target>
         <note>key: role.policy.user.selfedit</note>
       </trans-unit>
       <trans-unit id="caaf0c6eabe978a17eefcedf501b2506383a8267" resname="role.policy.user.update">
         <source>User / Update</source>
-        <target state="translated">مستخدم / تحديث</target>
+        <target state="translated">المستخدم / تحديث</target>
         <note>key: role.policy.user.update</note>
       </trans-unit>
       <trans-unit id="b445a673ef3c893b783c58b6fd4b2469224a04db" resname="role.policy.user.view">
         <source>User / View</source>
-        <target state="translated">مستخدم / عرض</target>
+        <target state="translated">المستخدم / عرض</target>
         <note>key: role.policy.user.view</note>
       </trans-unit>
     </body>

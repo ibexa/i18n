@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="523769414bf9800549861d92789a83e23804a374" resname="shopping_list.owner.cannot_be_anonymous">
         <source>Shopping lists cannot be created by anonymous users</source>
-        <target state="translated">لا يمكن إنشاء قوائم التسوق من قبل مستخدمين مجهولين</target>
+        <target state="translated">لا يمكن للمستخدمين المجهولين إنشاء قوائم تسوق</target>
         <note>key: shopping_list.owner.cannot_be_anonymous</note>
       </trans-unit>
     </body>

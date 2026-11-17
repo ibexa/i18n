@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="eaf05253103e1511aa5b0dc8250ef213ff43fbaa" resname="block.order.column.customer_name">
         <source>Customer name</source>
-        <target state="translated">اسم الزبون</target>
+        <target state="translated">اسم العميل</target>
         <note>key: block.order.column.customer_name</note>
       </trans-unit>
       <trans-unit id="e3399f29aae3a0b569dc6f45d9fef3ad60f132fc" resname="block.order.column.id">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="cc7da8b97db2e8356eb3ff35e0fe7e2ced2fd696" resname="order.details.cart_cost_summary.item.label.subtotal_net">
         <source>Subtotal (net)</source>
-        <target state="translated">الإجمالي الفرعي (صافي)</target>
+        <target state="translated">المجموع الفرعي (الصافي)</target>
         <note>key: order.details.cart_cost_summary.item.label.subtotal_net</note>
       </trans-unit>
       <trans-unit id="8ffa40a1c78b23881ecb97b8e0de652b736dd543" resname="order.details.cart_cost_summary.item.label.taxes">
@@ -178,12 +178,12 @@
       </trans-unit>
       <trans-unit id="ae445b462846e78c9418bccd4edfddb9fe05a532" resname="order.details.discounts.headline">
         <source>Discounts</source>
-        <target state="translated">تخفيضات السعر</target>
+        <target state="translated">الخصومات</target>
         <note>key: order.details.discounts.headline</note>
       </trans-unit>
       <trans-unit id="24e0f5105fd5f9ca3f5952caaa2a0a00d817a312" resname="order.details.discounts.total_discount_value_for_entire_order">
         <source>Total discount value for the entire order</source>
-        <target state="translated">إجمالي قيمة التخفيض للطلب بالكامل</target>
+        <target state="translated">إجمالي قيمة الخصم للطلب بالكامل</target>
         <note>key: order.details.discounts.total_discount_value_for_entire_order</note>
       </trans-unit>
       <trans-unit id="f9b51be9065c1af4600e7bbbe8db308d3618246b" resname="order.details.price_details.headline">
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="89cd5f55077b90bad10b60774aea9d53929fe53c" resname="order.list.column.customer_name">
         <source>Customer name</source>
-        <target state="translated">اسم الزبون</target>
+        <target state="translated">اسم العميل</target>
         <note>key: order.list.column.customer_name</note>
       </trans-unit>
       <trans-unit id="adfe400600548675f8742d105e26461eb0d00bc0" resname="order.list.column.order_id">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="e423f0f9a21b8db369a5e5812290ffd7870f2341" resname="order.list.no_orders.action_text">
         <source>When your customers place first order, it will appear here.</source>
-        <target state="translated">عندما يضع الزبائن أول طلب، سيظهر هنا.</target>
+        <target state="translated">عندما يضع العملاء أول طلب، سيظهر هنا.</target>
         <note>key: order.list.no_orders.action_text</note>
       </trans-unit>
       <trans-unit id="df44ae65dc45fd0aa38d5d39e9bf9f410251576d" resname="order.list.no_orders.info_text">
@@ -313,12 +313,12 @@
       </trans-unit>
       <trans-unit id="c732ca5d859e4c7d8b1d8271b6709a12ce3adee6" resname="order.list.no_search_results.action_text">
         <source>Try again with new search criteria.</source>
-        <target state="translated">جرّب مرة أخرى بمعايير بحث جديدة.</target>
+        <target state="translated">حاول مرة أخرى بمعايير بحث جديدة.</target>
         <note>key: order.list.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="4c39dd26f41eec8ded6c157165400fa2a77f5e78" resname="order.list.no_search_results.info_text">
         <source>Sorry, there are no orders for your search</source>
-        <target state="translated">عذراً، لا توجد طلبات لبحثك</target>
+        <target state="translated">عذرًا، لا توجد طلبات تطابق بحثك</target>
         <note>key: order.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="8359954d0c874b1639ec1ce162c254b24a56581d" resname="order.list.title">
@@ -438,7 +438,7 @@
       </trans-unit>
       <trans-unit id="d37d1a4cc218d735c5b12552546402fce3dff1ac" resname="order.tab.summary.billing_address.details.region.label">
         <source>Region</source>
-        <target state="translated">منطقة</target>
+        <target state="translated">المنطقة</target>
         <note>key: order.tab.summary.billing_address.details.region.label</note>
       </trans-unit>
       <trans-unit id="23f7037a5b3116a896c81e857de397fcd918b3b0" resname="order.tab.summary.billing_address.details.street.label">
@@ -458,7 +458,7 @@
       </trans-unit>
       <trans-unit id="62eb8e3f239a5be676b71d88495c78c7c07475d3" resname="order.tab.summary.customer_details.details.customer_name.label">
         <source>Customer name</source>
-        <target state="translated">اسم الزبون</target>
+        <target state="translated">اسم العميل</target>
         <note>key: order.tab.summary.customer_details.details.customer_name.label</note>
       </trans-unit>
       <trans-unit id="925675c98931f43de8b61f30a171734a6e62270f" resname="order.tab.summary.customer_details.details.email.label">
@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="6608cccef047d8a788946e1c66c7ef597188b353" resname="order.tab.summary.customer_details.details.headline">
         <source>Customer details</source>
-        <target state="translated">تفاصيل الزبون</target>
+        <target state="translated">تفاصيل العميل</target>
         <note>key: order.tab.summary.customer_details.details.headline</note>
       </trans-unit>
       <trans-unit id="de8fb33348f872b179c486e4f831bb3458a8cbf4" resname="order.tab.summary.customer_details.details.phone_number.label">
@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="d767695c341df836278f110a06d0ffc7fdc7020f" resname="order.tab.summary.shipping_address.details.region.label">
         <source>Region</source>
-        <target state="translated">منطقة</target>
+        <target state="translated">المنطقة</target>
         <note>key: order.tab.summary.shipping_address.details.region.label</note>
       </trans-unit>
       <trans-unit id="9a13cbf945650ba8711a96770235058f137c6581" resname="order.tab.summary.shipping_address.details.street.label">
@@ -508,7 +508,7 @@
       </trans-unit>
       <trans-unit id="2b8dcc0a5f797f197efb2e1b31d74019b4a5931e" resname="order_items.list.table.header.base_subtotal_price_net">
         <source>Base subtotal price net</source>
-        <target state="translated">إجمالي السعر الأساسي (صافي)</target>
+        <target state="translated">المجموع الفرعي للسعر الأساسي (الصافي)</target>
         <note>key: order_items.list.table.header.base_subtotal_price_net</note>
       </trans-unit>
       <trans-unit id="fb14a01cb1a058eb7d7b51552b901fd304e65cbe" resname="order_items.list.table.header.base_unit_price_net">
@@ -518,17 +518,17 @@
       </trans-unit>
       <trans-unit id="96b6ce28c8fb2ca6ba535fe4b09c6a79f3182bfb" resname="order_items.list.table.header.discount_name">
         <source>Discount name</source>
-        <target state="translated">اسم التخفيض</target>
+        <target state="translated">اسم الخصم</target>
         <note>key: order_items.list.table.header.discount_name</note>
       </trans-unit>
       <trans-unit id="a7f93be49d2e91c4d59ae60be7843ed4a75c75dc" resname="order_items.list.table.header.discount_value">
         <source>Discount value</source>
-        <target state="translated">قيمة التخفيض</target>
+        <target state="translated">قيمة الخصم</target>
         <note>key: order_items.list.table.header.discount_value</note>
       </trans-unit>
       <trans-unit id="9d7cb171df455c7e8a3ab57a8a83f374b2982a2f" resname="order_items.list.table.header.discounted_unit_price_net">
         <source>Discounted unit price net</source>
-        <target state="translated">سعر الوحدة بعد التخفيض (صافي)</target>
+        <target state="translated">سعر الوحدة بعد الخصم (صافي)</target>
         <note>key: order_items.list.table.header.discounted_unit_price_net</note>
       </trans-unit>
       <trans-unit id="c7611a7ac6339624851041d86ee4e3d2aebf3e8d" resname="order_items.list.table.header.product_code">
@@ -548,12 +548,12 @@
       </trans-unit>
       <trans-unit id="0327c63fb7c2c5d491590c553faf0f2772e8752e" resname="order_items.list.table.header.subtotal_gross">
         <source>Subtotal gross</source>
-        <target state="translated">الإجمالي الفرعي الإجمالي</target>
+        <target state="translated">المجموع الفرعي الإجمالي</target>
         <note>key: order_items.list.table.header.subtotal_gross</note>
       </trans-unit>
       <trans-unit id="433341dd7efaf47766a83ec5cbea2f11442c90cc" resname="order_items.list.table.header.subtotal_net">
         <source>Subtotal net</source>
-        <target state="translated">الإجمالي الفرعي الصافي</target>
+        <target state="translated">المجموع الفرعي الصافي</target>
         <note>key: order_items.list.table.header.subtotal_net</note>
       </trans-unit>
       <trans-unit id="5d39f2c082ebb1057d2be296f10650e6c03c87c9" resname="order_items.list.table.header.unit_price_gross">
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="608d8a1c5b50a1247a4770ca557b5118dbacf0af" resname="search_form.search_placeholder">
         <source>Search by order identifier, customer, company</source>
-        <target state="translated">ابحث حسب معرّف الطلب أو الزبون أو الشركة</target>
+        <target state="translated">ابحث حسب معرّف الطلب أو العميل أو الشركة</target>
         <note>key: search_form.search_placeholder</note>
       </trans-unit>
     </body>

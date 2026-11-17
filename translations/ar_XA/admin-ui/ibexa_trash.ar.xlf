@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="6aa460340bed42d0d1baf9d1ea542c83a3f00821" resname="trash">
         <source>Trash</source>
-        <target state="translated">نقل إلى المهملات</target>
+        <target state="translated">سلة المهملات</target>
         <note>key: trash</note>
       </trans-unit>
       <trans-unit id="49df4e6f73344ab17f4dfd94818974848f74f53a" resname="trash.button.restore">
@@ -28,17 +28,17 @@
       </trans-unit>
       <trans-unit id="5424e0925328bb62806b43b2a65cc86fef6ad7d9" resname="trash.button.restore_new_location">
         <source>Restore in a new location</source>
-        <target state="translated">استعادة في موضع جديد</target>
+        <target state="translated">استعادة إلى موضع جديد</target>
         <note>key: trash.button.restore_new_location</note>
       </trans-unit>
       <trans-unit id="e6c422268f3d22d619c37604653c3761711e9cab" resname="trash.content_not_found">
         <source>Sorry, there are no contents for your search.</source>
-        <target state="translated">عذرًا، لا توجد محتويات لبحثك.</target>
+        <target state="translated">عذرًا، لا توجد محتويات تطابق بحثك.</target>
         <note>key: trash.content_not_found</note>
       </trans-unit>
       <trans-unit id="261490a73abcf9287393e8f8b08ed6e2a95dc9dc" resname="trash.content_not_found.action_text">
         <source>Try again with new search criteria.</source>
-        <target state="translated">جرّب مرة أخرى بمعايير بحث جديدة.</target>
+        <target state="translated">حاول مرة أخرى بمعايير بحث جديدة.</target>
         <note>key: trash.content_not_found.action_text</note>
       </trans-unit>
       <trans-unit id="a644965219fc4d129dd4a5ef1cdb6eb073003702" resname="trash.content_type">
@@ -53,27 +53,27 @@
       </trans-unit>
       <trans-unit id="a05764fe660902e89eefa65d4834f03cf3954160" resname="trash.date">
         <source>Trashed</source>
-        <target state="translated">تم الإرسال إلى السلة</target>
+        <target state="translated">تاريخ النقل إلى سلة المهملات</target>
         <note>key: trash.date</note>
       </trans-unit>
       <trans-unit id="45548aed8adb5019c3b806992e903965699c7e08" resname="trash.deleted.success">
         <source>Deleted selected item(s) from Trash.</source>
-        <target state="translated">تم حذف العنصر(العناصر) المحددة من السلة.</target>
+        <target state="translated">تم حذف العناصر المحددة من سلة المهملات.</target>
         <note>key: trash.deleted.success</note>
       </trans-unit>
       <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
         <source>Trash is empty. Content you send to Trash will show up here.</source>
-        <target state="translated">السلة فارغة. ستظهر هنا المحتويات التي ترسلها إلى السلة.</target>
+        <target state="translated">سلة المهملات فارغة. ستظهر هنا المحتويات التي ترسلها إلى سلة المهملات.</target>
         <note>key: trash.empty</note>
       </trans-unit>
       <trans-unit id="17b503b33de4f7e60958b7824dd959dd0144ae13" resname="trash.empty.success">
         <source>Trash emptied.</source>
-        <target state="translated">تم إفراغ السلة.</target>
+        <target state="translated">تم إفراغ سلة المهملات.</target>
         <note>key: trash.empty.success</note>
       </trans-unit>
       <trans-unit id="eb7cd78bb919141f66cabfea95a60e0e6b02e9f4" resname="trash.headline">
         <source>Trash</source>
-        <target state="translated">نقل إلى المهملات</target>
+        <target state="translated">سلة المهملات</target>
         <note>key: trash.headline</note>
       </trans-unit>
       <trans-unit id="5d4b7350cb3bfc77e9edd02190eb530d866c7565" resname="trash.item.ancesor_in_trash">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="c28510c675be753842996980b0e5d175cec4a8d8" resname="trash.original_location">
         <source>Location</source>
-        <target state="translated">موضع</target>
+        <target state="translated">الموضع</target>
         <note>key: trash.original_location</note>
       </trans-unit>
       <trans-unit id="a8c2da925faa48def8e407037a6115f1340070c7" resname="trash.restore_new_location.success">

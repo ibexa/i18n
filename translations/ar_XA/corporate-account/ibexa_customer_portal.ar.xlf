@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="f186551da03090fd03a722bb286b5a64c245dc6e" resname="account.forgot_user_password.mail.message">
         <source> We have received a request to reset the password for your Customer Portal account. Click “reset password” below to choose a new password:</source>
-        <target state="translated">لقد تلقينا طلبًا لإعادة تعيين كلمة المرور لحسابك في بوابة الزبائن. انقر على "إعادة تعيين كلمة المرور" أدناه لاختيار كلمة مرور جديدة:</target>
+        <target state="translated">لقد تلقينا طلبًا لإعادة تعيين كلمة المرور لحسابك في بوابة العملاء. انقر على "إعادة تعيين كلمة المرور" أدناه لاختيار كلمة مرور جديدة:</target>
         <note>key: account.forgot_user_password.mail.message</note>
       </trans-unit>
       <trans-unit id="466e2eacab9529deac69998f35a02549f953c26c" resname="account.forgot_user_password.mail.message_footer">
@@ -133,12 +133,12 @@
       </trans-unit>
       <trans-unit id="fd832f255d5843d3db954c94203eb52c5b44ccbd" resname="account.login.headline">
         <source>Welcome to Customer Portal</source>
-        <target state="translated">مرحبًا بك في بوابة الزبائن</target>
+        <target state="translated">مرحبًا بك في بوابة العملاء</target>
         <note>key: account.login.headline</note>
       </trans-unit>
       <trans-unit id="205c0027856c8922547687628e6360468177af36" resname="account.login.page_title">
         <source>Customer Portal</source>
-        <target state="translated">بوابة الزبائن</target>
+        <target state="translated">بوابة العملاء</target>
         <note>key: account.login.page_title</note>
       </trans-unit>
       <trans-unit id="69e629ff0c4fc96403b3f109d7c66e8effc16926" resname="account.register.actions.action_name">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="f888e936aaaf968655a8e696e7e6e83557480637" resname="account.register.sub_headline">
         <source>Register here to access the Customer Portal</source>
-        <target state="translated">سجّل هنا للوصول إلى بوابة الزبائن</target>
+        <target state="translated">سجّل هنا للوصول إلى بوابة العملاء</target>
         <note>key: account.register.sub_headline</note>
       </trans-unit>
       <trans-unit id="22b0278db5e720eaa98ac3c7dc4387e57ebad1ed" resname="account.register_confirmation.header">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="23609714f1576bcd2500875557dee0be12589ad0" resname="account.reset_user_password.success">
         <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to Customer Portal.]]></source>
-        <target state="translated"><![CDATA[تم تغيير كلمة المرور الخاصة بك. يمكنك <a href="%login%">تسجيل الدخول</a> إلى بوابة الزبائن.]]></target>
+        <target state="translated"><![CDATA[تم تغيير كلمة المرور الخاصة بك. يمكنك <a href="%login%">تسجيل الدخول</a> إلى بوابة العملاء.]]></target>
         <note>key: account.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="99365a37afbae39d10db919c155dcfd4f6280a29" resname="address_book.breadcrumb">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="eaf05253103e1511aa5b0dc8250ef213ff43fbaa" resname="block.order.column.customer_name">
         <source>Customer name</source>
-        <target state="translated">اسم الزبون</target>
+        <target state="translated">اسم العميل</target>
         <note>key: block.order.column.customer_name</note>
       </trans-unit>
       <trans-unit id="e3399f29aae3a0b569dc6f45d9fef3ad60f132fc" resname="block.order.column.id">
@@ -435,7 +435,7 @@
       </trans-unit>
       <trans-unit id="29fac3bfa2aacdf67dc8aa6717dd871437c12a1e" resname="registration.banner.step_2.action">
         <source>Application review</source>
-        <target state="translated">مراجعة الترشيح</target>
+        <target state="translated">مراجعة الطلب</target>
         <note>key: registration.banner.step_2.action</note>
       </trans-unit>
       <trans-unit id="734b765cfbca376418dbac7cd8b020a997aa75b8" resname="registration.banner.step_2.title">
@@ -445,7 +445,7 @@
       </trans-unit>
       <trans-unit id="b036cb65e47d53d0a8df587ac6dfa4b71d73bb55" resname="registration.banner.step_3.action">
         <source>Application approval</source>
-        <target state="translated">الموافقة على الترشيح</target>
+        <target state="translated">الموافقة على الطلب</target>
         <note>key: registration.banner.step_3.action</note>
       </trans-unit>
       <trans-unit id="60d1a4faa92fd4e6708d522f6532bbe657049718" resname="registration.banner.step_3.title">
@@ -495,7 +495,7 @@
       </trans-unit>
       <trans-unit id="a7cb31f8dc3d307861502b44c2b496c385d17fe6" resname="registration_confirmation.info.appoval_info.notified">
         <source>You will be notified when the application is approved.</source>
-        <target state="translated">سيتم إعلامك عند الموافقة على الترشيح.</target>
+        <target state="translated">سيتم إعلامك عند الموافقة على طلبك.</target>
         <note>key: registration_confirmation.info.appoval_info.notified</note>
       </trans-unit>
       <trans-unit id="28696414989edd11797cb69a337c2fc9521ed446" resname="registration_confirmation.info.appoval_info.will_be_reviewed">
@@ -540,7 +540,7 @@
       </trans-unit>
       <trans-unit id="1e2e623cc917d695a57bd1e9208b133a3449b13b" resname="website.brand">
         <source>Customer Portal</source>
-        <target state="translated">بوابة الزبائن</target>
+        <target state="translated">بوابة العملاء</target>
         <note>key: website.brand</note>
       </trans-unit>
       <trans-unit id="82d3800f1e161691a8a24cc55a9b5575977d2b42" resname="website.header.user_menu.logout">
@@ -550,7 +550,7 @@
       </trans-unit>
       <trans-unit id="c59dc9464cf7dbb571f86d9f823996586285c113" resname="website.title">
         <source>Customer Portal</source>
-        <target state="translated">بوابة الزبائن</target>
+        <target state="translated">بوابة العملاء</target>
         <note>key: website.title</note>
       </trans-unit>
     </body>

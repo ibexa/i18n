@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="0dbfb3fd5136aa1d54a82ba5e5f399c2908d26f2" resname="locations.select_subtree">
         <source>Select subtree</source>
-        <target state="translated">تحديد فرع فرعي</target>
+        <target state="translated">اختر الشجرة الفرعية</target>
         <note>key: locations.select_subtree</note>
       </trans-unit>
       <trans-unit id="8e8d15bb05038bded496a7dfcdf6374b9449bc51" resname="policy.add.policy.title">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip">
         <source>"%identifier%" Limitation</source>
-        <target state="translated">حدّ "%identifier%"</target>
+        <target state="translated">قيد "%identifier%"</target>
         <note>key: policy.limitation.identifier_tooltip</note>
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
@@ -368,7 +368,7 @@
       </trans-unit>
       <trans-unit id="5abe6179f254b9bdd5e8680eec4456118980932e" resname="validator.assign_users_or_groups">
         <source>Assign User(s) and/or Group(s) to the Role</source>
-        <target state="translated">عيّن مستخدمًا و/أو مجموعة إلى الدور</target>
+        <target state="translated">تعيين مستخدمين و/أو مجموعات إلى الدور</target>
         <note>key: validator.assign_users_or_groups</note>
       </trans-unit>
     </body>

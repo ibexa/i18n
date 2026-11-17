@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="1141888f8212e6140ea4bac1a5fba11c02e94d13" resname="dashboard.table.relation.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="translated">ليس لديك إذن '%function%' '%module%' لعنصر المحتوى ذو المعرف: %contentId%</target>
+        <target state="translated">ليس لديك إذن '%function%' '%module%' لعنصر المحتوى ذي المعرف: %contentId%</target>
         <note>key: dashboard.table.relation.unauthorized</note>
       </trans-unit>
       <trans-unit id="833bd91b4779ab4c463ae659e839438a3d6231ea" resname="edit.languages.discard">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="d3e1f764a54cdc6e1a8e0c1d197c9d439f734b31" resname="tab.author.modified">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: tab.author.modified</note>
       </trans-unit>
       <trans-unit id="49a9415aa25635c21a41acd68ca891c7320923c0" resname="tab.author.published">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
         <source>Published version</source>
-        <target state="translated">إصدار منشور</target>
+        <target state="translated">الإصدار المنشور</target>
         <note>key: tab.details.published_version</note>
       </trans-unit>
       <trans-unit id="cd8ccac573601690d7e364174cf3fb8a931c805e" resname="tab.details.section_details">
@@ -233,7 +233,7 @@
       </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
         <source>Technical details</source>
-        <target state="translated">تفاصيل تقنية</target>
+        <target state="translated">التفاصيل التقنية</target>
         <note>key: tab.details.technical_details</note>
       </trans-unit>
       <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
         <source>Do you want to delete the Location? All its sub-items will be sent to Trash.</source>
-        <target state="translated">هل تريد حذف الموضع؟ سيتم إرسال جميع العناصر الفرعية إلى سلة المهملات.</target>
+        <target state="translated">هل تريد حذف الموضع؟ سيتم نقل جميع عناصره الفرعية إلى سلة المهملات.</target>
         <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
         <source>Technical details</source>
-        <target state="translated">تفاصيل تقنية</target>
+        <target state="translated">التفاصيل التقنية</target>
         <note>key: tab.name.details</note>
       </trans-unit>
       <trans-unit id="bc992b410ec56cce18c994806d7518fd47da2caa" resname="tab.name.locations">
@@ -483,7 +483,7 @@
       </trans-unit>
       <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: tab.versions.table.modified_language</note>
       </trans-unit>
       <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">

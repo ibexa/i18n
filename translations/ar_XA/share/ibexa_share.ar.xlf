@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="63b5701e8cc37848906c20693b8b605034b67aff" resname="share.notification.invitation.content_edit.system_notification.message">
         <source>%sender% is inviting you to collaborate on %name% in %location%</source>
-        <target state="translated">%sender% يدعوك للتعاون في %name% في %location%</target>
+        <target state="translated">%sender% يدعوك للتعاون على %name% في %location%</target>
         <note>key: share.notification.invitation.content_edit.system_notification.message</note>
       </trans-unit>
       <trans-unit id="5377e735d11eb46686b539eff7c1464c0a1a8d21" resname="share.notification.invitation.content_edit.system_notification.message.without_location">
@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="d994c772083d3a670644deb4c19fac641fa7fd8c" resname="share.notification.join.content_trashed">
         <source>Content has been moved to trash or deleted. Collaboration session has ended.</source>
-        <target state="translated">تم نقل المحتوى إلى المهملات أو حذفه. انتهت جلسة التعاون.</target>
+        <target state="translated">تم نقل المحتوى إلى سلة المهملات أو حذفه. انتهت جلسة التعاون.</target>
         <note>key: share.notification.join.content_trashed</note>
       </trans-unit>
       <trans-unit id="36055473a204ff41f3be94e82ab523b65c6da73d" resname="share.notification.leave.content_published">

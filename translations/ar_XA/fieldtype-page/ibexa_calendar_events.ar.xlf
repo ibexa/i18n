@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="c9f927de803212415a68ff596c26821af8585bc3" resname="page_block_visibility.attribute.modified_language.label">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: page_block_visibility.attribute.modified_language.label</note>
       </trans-unit>
     </body>

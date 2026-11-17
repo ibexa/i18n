@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="6b827dc215e0b48c99cd9c687dcf7eb2516ea04c" resname="ibexa.user.invitation.location_id">
         <source>Type subtree root id</source>
-        <target state="translated">اكتب رقم جذر الفرع</target>
+        <target state="translated">اكتب معرّف جذر الشجرة الفرعية</target>
         <note>key: ibexa.user.invitation.location_id</note>
       </trans-unit>
       <trans-unit id="a58fe68d0cd618abf2315b3fa69de2f2f4d6ed56" resname="ibexa.user.invitation.pick_sections">
@@ -103,12 +103,12 @@
       </trans-unit>
       <trans-unit id="d44ce8c33cbc780cff9ca6f05ad2f70002550cd0" resname="role.policy.user.all_functions">
         <source>User / All functions</source>
-        <target state="translated">مستخدم / جميع الوظائف</target>
+        <target state="translated">المستخدم / جميع الوظائف</target>
         <note>key: role.policy.user.all_functions</note>
       </trans-unit>
       <trans-unit id="587199065d14880416b8061b73788e731a201c27" resname="role.policy.user.invite">
         <source>User / Invite</source>
-        <target state="translated">مستخدم / دعوة</target>
+        <target state="translated">المستخدم / دعوة</target>
         <note>key: role.policy.user.invite</note>
       </trans-unit>
     </body>

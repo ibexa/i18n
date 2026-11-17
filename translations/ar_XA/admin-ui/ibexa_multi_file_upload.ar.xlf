@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="c593b1388a800c1546c5bbbdb6eab08ef170f879" resname="multierror.label">
         <source>Failed to upload </source>
-        <target state="translated">فشل في الرفع</target>
+        <target state="translated">فشل في الرفع </target>
         <note>key: multierror.label</note>
       </trans-unit>
       <trans-unit id="b23e0c9a0c723cb5fc100bbf270a045cb6c895da" resname="upload.progress_bar.uploading">

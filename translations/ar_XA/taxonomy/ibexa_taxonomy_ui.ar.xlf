@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="73a0c85d2ba6cdf674b691a4d35f4be55186076c" resname="taxonomy.tag_removed">
         <source>Tag %name% has been removed</source>
-        <target state="translated">تم إزالة الوسم %name%</target>
+        <target state="translated">تمت إزالة الوسم %name%</target>
         <note>key: taxonomy.tag_removed</note>
       </trans-unit>
       <trans-unit id="a2191c06b9f46647dc4d3001bd320ecb26ec6dd1" resname="taxonomy.tags_moved">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="ba941905106d1f34cc9b227a3b2742ad3ebb5aaf" resname="taxonomy.tags_removed">
         <source>Tags %names% has been removed</source>
-        <target state="translated">تم إزالة الوسوم %names%</target>
+        <target state="translated">تمت إزالة الوسوم %names%</target>
         <note>key: taxonomy.tags_removed</note>
       </trans-unit>
       <trans-unit id="969a9e6e9b8b4e8f90dea4e29dd22c853dd5ae68" resname="taxonomy.tree_name">

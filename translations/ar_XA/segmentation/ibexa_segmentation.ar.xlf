@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="60df443de6933bced3dabfca8975fd8c6b914606" resname="segment_group.list.segment_group_bulk_delete.modal.message">
         <source>Do you want to delete the Segment Group(s)?</source>
-        <target state="translated">هل تريد حذف مجموعة/مجموعات الشرائح؟</target>
+        <target state="translated">هل تريد حذف مجموعات الشرائح؟</target>
         <note>key: segment_group.list.segment_group_bulk_delete.modal.message</note>
       </trans-unit>
       <trans-unit id="9231de10dd9ebb9bc47e04a139a229ca95f689a3" resname="segment_group.modal.message">

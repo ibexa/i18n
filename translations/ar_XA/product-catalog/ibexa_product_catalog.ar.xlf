@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="3958a161fc6e643954d3015893d5c4163bea8bdc" resname="attribute_definition.edit.action_name">
         <source>Editing %attribute_type% Attribute</source>
-        <target state="translated">تحرير خاصية %attribute_type%</target>
+        <target state="translated">تحرير خاصية من نوع %attribute_type%</target>
         <note>key: attribute_definition.edit.action_name</note>
       </trans-unit>
       <trans-unit id="602ac1f23f3c2306d2fbf1dec9821b97ed4f2ebb" resname="attribute_definition.edit.subtitle">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="5cf8cb97f4af2ecbec7ca4e7c868775ca8388887" resname="attribute_definition.list.column.attribute_group">
         <source>Attribute Group</source>
-        <target state="translated">مجموعة من الخصائص</target>
+        <target state="translated">مجموعة الخصائص</target>
         <note>key: attribute_definition.list.column.attribute_group</note>
       </trans-unit>
       <trans-unit id="2147df5bf8c3356ef8cfe196ebd40984b8e72f6c" resname="attribute_definition.list.column.attribute_type">
@@ -123,12 +123,12 @@
       </trans-unit>
       <trans-unit id="bfb7cfe3a160ec277b879e5510e51c257ce82dcc" resname="attribute_definition.new.title">
         <source>New %attribute_type_name% Attribute</source>
-        <target state="translated">خاصية %attribute_type_name% جديدة</target>
+        <target state="translated">خاصية جديدة من نوع %attribute_type_name%</target>
         <note>key: attribute_definition.new.title</note>
       </trans-unit>
       <trans-unit id="cfbf370cf0dde5c5b8082f2e3ee6ea9e9705eec0" resname="attribute_definition.no_attributes.action_text">
         <source>Add attributes and organize them into attribute groups.</source>
-        <target state="translated">أضف الخصائص ونظمها في مجموعات من الخصائص.</target>
+        <target state="translated">أضف الخصائص ونظمها في مجموعات.</target>
         <note>key: attribute_definition.no_attributes.action_text</note>
       </trans-unit>
       <trans-unit id="4cadd1754fa5ec14fc96ce0f73bf5c64236db77c" resname="attribute_definition.no_attributes.info_text">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="690c5b6ad0efe8f8f6191b143d580e82b16f18d4" resname="attribute_definition.no_attributes_group.link_label">
         <source>Go to attribute groups</source>
-        <target state="translated">الانتقال إلى مجموعات من الخصائص</target>
+        <target state="translated">انتقل إلى مجموعات الخصائص</target>
         <note>key: attribute_definition.no_attributes_group.link_label</note>
       </trans-unit>
       <trans-unit id="92d2971e9e6e910d647012d7a442991dfcaffcc1" resname="attribute_definition.no_attributes_in_group.action_text">
@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="fc69f9842a9aa6138f30efe6c758a15246ddc77a" resname="attribute_definition.no_search_results.info_text">
         <source>Sorry, there are no attributes for your search</source>
-        <target state="translated">عذراً، لا توجد خصائص لبحثك</target>
+        <target state="translated">عذرًا، لا توجد خصائص تطابق بحثك</target>
         <note>key: attribute_definition.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="2addd3db0aebc0606627d60ce51e66448d26b592" resname="attribute_definition.pre_create.add_attribute_definition">
@@ -253,7 +253,7 @@
       </trans-unit>
       <trans-unit id="ef198a76186df8b1d52f5062698715d6130932fe" resname="attribute_group.breadcrumb.list">
         <source>Attribute groups</source>
-        <target state="needs-translation">Attribute groups</target>
+        <target state="translated">مجموعات الخصائص</target>
         <note>key: attribute_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="d706859ada946c49c4ad12e42f83ecb88f465717" resname="attribute_group.breadcrumb.view">
@@ -263,22 +263,22 @@
       </trans-unit>
       <trans-unit id="d8d14d9801453b819beb66e64b9efc9a681e21a4" resname="attribute_group.create.success">
         <source>Attribute Group '%name%' created.</source>
-        <target state="translated">تم إنشاء مجموعة من الخصائص '%name%'.</target>
+        <target state="translated">تم إنشاء مجموعة الخصائص '%name%'.</target>
         <note>key: attribute_group.create.success</note>
       </trans-unit>
       <trans-unit id="26fe3e0dccbca7e764dcbe65ae03ba58c9497fb4" resname="attribute_group.delete.success">
         <source>{1}Attribute group '%deletedNames%' deleted.|]1,Inf[ Attribute groups '%deletedNames%' deleted.</source>
-        <target state="translated">{1}تم حذف مجموعة من الخصائص '%deletedNames%'.|]1,Inf[ تم حذف مجموعات من الخصائص '%deletedNames%'.</target>
+        <target state="translated">{1}تم حذف مجموعة الخصائص '%deletedNames%'.|]1,Inf[ تم حذف مجموعات الخصائص '%deletedNames%'.</target>
         <note>key: attribute_group.delete.success</note>
       </trans-unit>
       <trans-unit id="27b6abd5e76b68ca068f0910008d8b8940d221e5" resname="attribute_group.edit.action_name">
         <source>Editing Attribute group</source>
-        <target state="translated">تحرير مجموعة من الخصائص</target>
+        <target state="translated">تحرير مجموعة الخصائص</target>
         <note>key: attribute_group.edit.action_name</note>
       </trans-unit>
       <trans-unit id="0a80df990a32610836d692351deb745c57492653" resname="attribute_group.information.headline">
         <source>Attribute group information</source>
-        <target state="translated">معلومات مجموعة من الخصائص</target>
+        <target state="translated">معلومات مجموعة الخصائص</target>
         <note>key: attribute_group.information.headline</note>
       </trans-unit>
       <trans-unit id="6b3254aaa47032105920c16b2bbe6365f19e197b" resname="attribute_group.list.action.create">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="99eb3af4dc09dcb2883296ac4187137c858ddfe1" resname="attribute_group.list.title">
         <source>Attribute groups</source>
-        <target state="translated">مجموعات من الخصائص</target>
+        <target state="translated">مجموعات الخصائص</target>
         <note>key: attribute_group.list.title</note>
       </trans-unit>
       <trans-unit id="4d02dc63d5adb3b6713d58257b05fb2e193cfa06" resname="attribute_group.new.action_name">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="63b4b715169f155efe36ecade1b8552342f76b51" resname="attribute_group.new.title">
         <source>New Attribute group</source>
-        <target state="translated">مجموعة من الخصائص جديدة</target>
+        <target state="translated">مجموعة جديدة من الخصائص</target>
         <note>key: attribute_group.new.title</note>
       </trans-unit>
       <trans-unit id="358c7debce239a8a4f9c956204c7cda965b2142f" resname="attribute_group.no_attributes_group.action_text">
@@ -333,12 +333,12 @@
       </trans-unit>
       <trans-unit id="16bf539c61720387fa41396be436aa74c5430821" resname="attribute_group.no_search_results.info_text">
         <source>Sorry, there are no attribute groups for your search</source>
-        <target state="translated">عذراً، لا توجد مجموعات من الخصائص لبحثك</target>
+        <target state="translated">عذرًا، لا توجد مجموعات خصائص تطابق بحثك</target>
         <note>key: attribute_group.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="051bdbce431120cade38fce50d608d2d82446044" resname="attribute_group.update.success">
         <source>Attribute Group '%name%' updated.</source>
-        <target state="translated">تم تحديث مجموعة من الخصائص '%name%'.</target>
+        <target state="translated">تم تحديث مجموعة الخصائص '%name%'.</target>
         <note>key: attribute_group.update.success</note>
       </trans-unit>
       <trans-unit id="489e900a6b4a75d87e8b575dd624049a309bbafd" resname="attribute_group.view.add_attribute">
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="ee269203b159d409b131dd61d512a625c94d6eff" resname="attribute_group.view.attributes_group">
         <source>Attribute group</source>
-        <target state="translated">مجموعة من الخصائص</target>
+        <target state="translated">مجموعة الخصائص</target>
         <note>key: attribute_group.view.attributes_group</note>
       </trans-unit>
       <trans-unit id="592b7f7b39973e8d577fb8ceddf3002be195af8d" resname="attribute_group.view.delete">
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="600f1c4bd302723f4b89e3774813f4cf8a3c0157" resname="catalog.details.modified">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: catalog.details.modified</note>
       </trans-unit>
       <trans-unit id="30ac1667933e7d927f867a4bef79a42e5bdb7549" resname="catalog.details.name">
@@ -478,12 +478,12 @@
       </trans-unit>
       <trans-unit id="bd17f60dd8ff8edfaca2fd403262c9e7d57e297d" resname="catalog.edit.config_filter.clear_all">
         <source>Clear all</source>
-        <target state="translated">محو الكل</target>
+        <target state="translated">مسح الكل</target>
         <note>key: catalog.edit.config_filter.clear_all</note>
       </trans-unit>
       <trans-unit id="54876c4f5f81fc9a4de8adf2869198b041fd9f7a" resname="catalog.edit.config_filter.clear_all_count">
         <source>Clear all (%count%)</source>
-        <target state="translated">محو الكل (%count%)</target>
+        <target state="translated">مسح الكل (%count%)</target>
         <note>key: catalog.edit.config_filter.clear_all_count</note>
       </trans-unit>
       <trans-unit id="d0a1e2a6131be64a4bc14822c78902c7be5a8249" resname="catalog.edit.config_filter.empty_value">
@@ -518,7 +518,7 @@
       </trans-unit>
       <trans-unit id="adedd4b28ed9c366d5439c6c6081e37302d7ccde" resname="catalog.edit.filters.toggler.show">
         <source>Show</source>
-        <target state="translated">عرض</target>
+        <target state="translated">إظهار</target>
         <note>key: catalog.edit.filters.toggler.show</note>
       </trans-unit>
       <trans-unit id="473de4a85f33cdd5fa086c881c62199aff794e25" resname="catalog.edit.global_properties">
@@ -563,7 +563,7 @@
       </trans-unit>
       <trans-unit id="5247cfde96dc5791d083d148bd580d22155e9d7c" resname="catalog.list.column.modified">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: catalog.list.column.modified</note>
       </trans-unit>
       <trans-unit id="c4a6d230c9f32ed60d4d838d2ad2962cebdd5429" resname="catalog.list.column.name">
@@ -588,12 +588,12 @@
       </trans-unit>
       <trans-unit id="cd8d97485cfe41ba7d4790fb181f34f7bbd73bd2" resname="catalog.list.no_search_results.action_text">
         <source>Try again with new search criteria.</source>
-        <target state="translated">جرّب مرة أخرى بمعايير بحث جديدة.</target>
+        <target state="translated">حاول مرة أخرى بمعايير بحث جديدة.</target>
         <note>key: catalog.list.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="bb135c211929acf50005d4394026e826b0085668" resname="catalog.list.no_search_results.info_text">
         <source>Sorry, there are no product catalogs for your search</source>
-        <target state="translated">عذرًا، لا توجد كتالوجات منتجات لبحثك</target>
+        <target state="translated">عذرًا، لا توجد كتالوجات منتجات تطابق بحثك</target>
         <note>key: catalog.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="21c0757ecba3b9fbadc83ce9257acc18b9a390cc" resname="catalog.list.title">
@@ -643,7 +643,7 @@
       </trans-unit>
       <trans-unit id="dce3a3272d1fe7b087fec3c88a142c966f41f1c2" resname="catalog.view.catalog">
         <source>Catalog</source>
-        <target state="translated">قائِمَة/الكتالوج</target>
+        <target state="translated">الكتالوج</target>
         <note>key: catalog.view.catalog</note>
       </trans-unit>
       <trans-unit id="5df80e693564b3fd2e2a27833fe36058279ed502" resname="catalog.view.modal.transition.body">
@@ -693,7 +693,7 @@
       </trans-unit>
       <trans-unit id="5649e5477a28161b7d57c4d72fd6b67846d0350b" resname="completeness.header">
         <source>Completeness</source>
-        <target state="translated">الإكمال</target>
+        <target state="translated">الاكتمال</target>
         <note>key: completeness.header</note>
       </trans-unit>
       <trans-unit id="afc37b308da672099245dcde4c697fd62cde6110" resname="config_panel.btn.cancel_label">
@@ -708,7 +708,7 @@
       </trans-unit>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
         <source>This Field Type is not editable</source>
-        <target state="translated">هذا النوع من الحقول غير قابل للتعديل</target>
+        <target state="translated">نوع الحقل هذا غير قابل للتعديل</target>
         <note>key: content.field.non_editable</note>
       </trans-unit>
       <trans-unit id="2da3a62682c9985ab10302dcfc2451954ed3cfd8" resname="currencies.list.title">
@@ -768,22 +768,22 @@
       </trans-unit>
       <trans-unit id="dc4350a333918edfe4527d71857a144a5ee95a38" resname="customer_group.breadcrumb.list">
         <source>Customer Groups</source>
-        <target state="translated">مجموعات الزبائن</target>
+        <target state="translated">مجموعات العملاء</target>
         <note>key: customer_group.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="a16e0a414916ec9c2c3e5d5dcfb6f56604bd88a3" resname="customer_group.create.success">
         <source>Customer Group '%name%' created.</source>
-        <target state="translated">تم إنشاء مجموعة الزبائن '%name%'.</target>
+        <target state="translated">تم إنشاء مجموعة العملاء '%name%'.</target>
         <note>key: customer_group.create.success</note>
       </trans-unit>
       <trans-unit id="4088f91f92755f4d64e366096670578595d5a461" resname="customer_group.creating.title">
         <source>New Customers group</source>
-        <target state="translated">مجموعة زبائن جديدة</target>
+        <target state="translated">مجموعة عملاء جديدة</target>
         <note>key: customer_group.creating.title</note>
       </trans-unit>
       <trans-unit id="cf436582d9a2ff9ea033739e860ac4dc50aa6332" resname="customer_group.delete.success">
         <source>{1}Customer Group '%deletedNames%' deleted.|]1,Inf[ Customer Groups '%deletedNames%' deleted.</source>
-        <target state="translated">{1}تم حذف مجموعة الزبائن '%deletedNames%'.|]1,Inf[ تم حذف مجموعات الزبائن '%deletedNames%'.</target>
+        <target state="translated">{1}تم حذف مجموعة العملاء '%deletedNames%'.|]1,Inf[ تم حذف مجموعات العملاء '%deletedNames%'.</target>
         <note>key: customer_group.delete.success</note>
       </trans-unit>
       <trans-unit id="5a7ec3bf1ed386484e7d01021cbbbb9996ac98e5" resname="customer_group.details.column.name">
@@ -793,17 +793,17 @@
       </trans-unit>
       <trans-unit id="80c465841426071cd87fff0e6e3746043c76f577" resname="customer_group.details.header">
         <source>Customer group information</source>
-        <target state="translated">معلومات مجموعة الزبائن</target>
+        <target state="translated">معلومات مجموعة العملاء</target>
         <note>key: customer_group.details.header</note>
       </trans-unit>
       <trans-unit id="8d218ca013d84b2eb778a88002a745cd993898a3" resname="customer_group.edit.action_name">
         <source>Editing Customers group</source>
-        <target state="translated">تحرير مجموعة الزبائن</target>
+        <target state="translated">تحرير مجموعة العملاء</target>
         <note>key: customer_group.edit.action_name</note>
       </trans-unit>
       <trans-unit id="88b0ded0263a770e2da2d428a3ad6b50732033b7" resname="customer_group.edit.price_rate_description">
         <source>Percentage decrease (-) or increase (+) to the base price. Applies to this customer group</source>
-        <target state="translated">نسبة النقصان (-) أو الزيادة (+) على السعر الأساسي. تطبق على هذه المجموعة</target>
+        <target state="translated">نسبة الخفض (-) أو الزيادة (+) على السعر الأساسي. تُطبَّق على مجموعة العملاء هذه</target>
         <note>key: customer_group.edit.price_rate_description</note>
       </trans-unit>
       <trans-unit id="a7ea212747545f09b9863e250a93815869a32c34" resname="customer_group.list.column.description">
@@ -828,7 +828,7 @@
       </trans-unit>
       <trans-unit id="89c919ed720e0c2a0682d9df93be422de0f18a44" resname="customer_group.list.deny_delete_reason.published_content">
         <source>Cannot remove customer group. There is at least one published content item assigned to it</source>
-        <target state="translated">لا يمكن إزالة مجموعة الزبائن. هناك عنصر محتوى منشور واحد على الأقل معين لها</target>
+        <target state="translated">لا يمكن إزالة مجموعة العملاء. هناك عنصر محتوى منشور واحد على الأقل معين لها</target>
         <note>key: customer_group.list.deny_delete_reason.published_content</note>
       </trans-unit>
       <trans-unit id="4121913e7e6ce7cf2a4d3726fece6567511a0fd6" resname="customer_group.list.details.description">
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="47b9971f3154eb3bdca67e18b6e5d7b4af3902c6" resname="customer_group.list.title">
         <source>Customer Groups</source>
-        <target state="translated">مجموعات الزبائن</target>
+        <target state="translated">مجموعات العملاء</target>
         <note>key: customer_group.list.title</note>
       </trans-unit>
       <trans-unit id="78c5b3b2f9000a454faf2354813d17c48bd6b1fc" resname="customer_group.list.user.column.name">
@@ -873,12 +873,12 @@
       </trans-unit>
       <trans-unit id="02b4cad285bce9ed07db08e3938925aa8f55823b" resname="customer_group.no_customer_groups.action_text">
         <source>With customer groups you can classify your customers, set custom prices and add companies.</source>
-        <target state="translated">باستخدام مجموعات الزبائن يمكنك تصنيف زبائنك، وتحديد أسعار مخصصة، وإضافة شركات.</target>
+        <target state="translated">باستخدام مجموعات العملاء يمكنك تصنيف عملائك، وتحديد أسعار مخصصة، وإضافة شركات.</target>
         <note>key: customer_group.no_customer_groups.action_text</note>
       </trans-unit>
       <trans-unit id="6454656bdbe05f796c2890077e78f83f9a17cefd" resname="customer_group.no_customer_groups.info_text">
         <source>Add your first customer group</source>
-        <target state="translated">أضف أول مجموعة زبائن لك</target>
+        <target state="translated">أضف أول مجموعة عملاء لك</target>
         <note>key: customer_group.no_customer_groups.info_text</note>
       </trans-unit>
       <trans-unit id="1c11b46762aa543bd404c8b44f05a8bf5f94d34e" resname="customer_group.no_search_results.action_text">
@@ -888,12 +888,12 @@
       </trans-unit>
       <trans-unit id="54b8a6ed3b9b281ca3adc527cf113f5c3a1f4342" resname="customer_group.no_search_results.info_text">
         <source>Sorry, there are no customer groups for your search</source>
-        <target state="translated">عذرًا، لا توجد مجموعات زبائن لبحثك</target>
+        <target state="translated">عذرًا، لا توجد مجموعات عملاء تطابق بحثك</target>
         <note>key: customer_group.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="b1ff344d52a655babce6e149baddf66eaf986344" resname="customer_group.update.success">
         <source>Customer Group '%name%' updated.</source>
-        <target state="translated">تم تحديث مجموعة الزبائن '%name%'.</target>
+        <target state="translated">تم تحديث مجموعة العملاء '%name%'.</target>
         <note>key: customer_group.update.success</note>
       </trans-unit>
       <trans-unit id="707b515afda7ba8fd703e77108c2ba783467c64d" resname="customer_group.view.identifier">
@@ -903,12 +903,12 @@
       </trans-unit>
       <trans-unit id="dd3af6247f433e2dffa073b64a03cd6faf5d9cbc" resname="customer_group.view.title.header">
         <source>Customer Group "%customer_group%"</source>
-        <target state="translated">مجموعة الزبائن "%customer_group%"</target>
+        <target state="translated">مجموعة العملاء "%customer_group%"</target>
         <note>key: customer_group.view.title.header</note>
       </trans-unit>
       <trans-unit id="62d262c1dd4f2d6824942975502cb065cb1d7814" resname="customer_group.view.title.identifier">
         <source>Customer Group "%customer_group%"</source>
-        <target state="translated">مجموعة الزبائن "%customer_group%"</target>
+        <target state="translated">مجموعة العملاء "%customer_group%"</target>
         <note>key: customer_group.view.title.identifier</note>
       </trans-unit>
       <trans-unit id="e9ea8f509e6eb27d7bec162133c54b7481a8063b" resname="customer_group_translation_add_form.add">
@@ -983,7 +983,7 @@
       </trans-unit>
       <trans-unit id="de3731e422124a97d275d63a44a9a5f9f29744c1" resname="filter.product_category.label">
         <source>Category</source>
-        <target state="translated">فئة/ صنف</target>
+        <target state="translated">الفئة</target>
         <note>key: filter.product_category.label</note>
       </trans-unit>
       <trans-unit id="df25d38012319cb73e9f8187b4b6b99bc08c68b8" resname="filter.product_code.label">
@@ -1023,7 +1023,7 @@
       </trans-unit>
       <trans-unit id="70241b02d194cfdc379557b7d72c06d9e1af7eba" resname="ibexa_image_asset.title">
         <source>Select Image Asset</source>
-        <target state="translated">اختر أصل الصورة</target>
+        <target state="translated">اختر مورد صورة</target>
         <note>key: ibexa_image_asset.title</note>
       </trans-unit>
       <trans-unit id="fe39d4b263a82fed2b4589d6b48d97a58807936b" resname="ibexa_product_catalog.attribute.float.option.max_value">
@@ -1078,7 +1078,7 @@
       </trans-unit>
       <trans-unit id="3777fedfcccdbd11c0f029428339908b60583b7f" resname="list.tooltip.copy">
         <source>Duplicate</source>
-        <target state="translated">مكرر</target>
+        <target state="translated">تكرار</target>
         <note>key: list.tooltip.copy</note>
       </trans-unit>
       <trans-unit id="a0b81746fe4594301d02366ff9b4ce20e4fd1cd7" resname="list.tooltip.edit">
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="7c1b5a88503915be9bbda7638db198139d4930d1" resname="modal.bulk_delete.customer_group.confirm_message">
         <source>Delete the selected customer groups permanently?</source>
-        <target state="translated">هل تريد حذف مجموعات الزبائن المحددة نهائيًا؟</target>
+        <target state="translated">هل تريد حذف مجموعات العملاء المحددة نهائيًا؟</target>
         <note>key: modal.bulk_delete.customer_group.confirm_message</note>
       </trans-unit>
       <trans-unit id="cf823e5a4210ea201f73d7bc3c91141837f08337" resname="modal.bulk_delete.product_type.confirm_message">
@@ -1128,7 +1128,7 @@
       </trans-unit>
       <trans-unit id="16636392bfc4d6198c247f9b5ad62eca2adb3c69" resname="modal.copy.catalog.confirm_button.label">
         <source>Duplicate</source>
-        <target state="translated">مكرر</target>
+        <target state="translated">تكرار</target>
         <note>key: modal.copy.catalog.confirm_button.label</note>
       </trans-unit>
       <trans-unit id="7ad94149fb7543b3be113911985ceb1736d312d2" resname="modal.copy.catalog.confirm_message">
@@ -1158,7 +1158,7 @@
       </trans-unit>
       <trans-unit id="8fd2e5ecbd806a8301462c834828f07fb9ebfdec" resname="modal.delete.customer_group.confirm_message">
         <source>Delete this customer group?</source>
-        <target state="translated">هل تريد حذف مجموعة الزبائن هذه؟</target>
+        <target state="translated">هل تريد حذف مجموعة العملاء هذه؟</target>
         <note>key: modal.delete.customer_group.confirm_message</note>
       </trans-unit>
       <trans-unit id="a59e93630b9466715b7cce81f3e89a866c40f28f" resname="modal.delete.product.confirm_message">
@@ -1193,7 +1193,7 @@
       </trans-unit>
       <trans-unit id="fb5a569a04b82985314c0d9b1fc21842bf9c6c45" resname="physical_product_type.edit.action_name">
         <source>Editing Physical Product type</source>
-        <target state="translated">تحرير نوع المنتج الملموس</target>
+        <target state="translated">تحرير نوع منتج مادي</target>
         <note>key: physical_product_type.edit.action_name</note>
       </trans-unit>
       <trans-unit id="7db019697b22bcd666e14fb5d800dbef3e5454ff" resname="price.delete.success">
@@ -1328,7 +1328,7 @@
       </trans-unit>
       <trans-unit id="2b76d604954227456cf019b40b71196e8034fde3" resname="product.completeness.variants.label">
         <source>Variants</source>
-        <target state="translated">النسخ</target>
+        <target state="translated">المتغيّرات</target>
         <note>key: product.completeness.variants.label</note>
       </trans-unit>
       <trans-unit id="6091400765f0039ca29d3a304ce3b2da67284cb8" resname="product.create.success">
@@ -1403,7 +1403,7 @@
       </trans-unit>
       <trans-unit id="720ae63f9212041323bbb86921ace93d372baea9" resname="product.list.column.thumbnail">
         <source>Image</source>
-        <target state="translated">صورة</target>
+        <target state="translated">الصورة</target>
         <note>key: product.list.column.thumbnail</note>
       </trans-unit>
       <trans-unit id="3fbbf89e766241bc2ddeb242a97963c12295617b" resname="product.list.column.type">
@@ -1413,7 +1413,7 @@
       </trans-unit>
       <trans-unit id="84f1de3dd39d21912ba5cd3ed7ce10c3377503fd" resname="product.list.column.variant">
         <source>Variant</source>
-        <target state="translated">نسخة</target>
+        <target state="translated">المتغيّر</target>
         <note>key: product.list.column.variant</note>
       </trans-unit>
       <trans-unit id="11e47d4639f5a87c717cfa5f413dcd6308280072" resname="product.list.empty_table_action_text">
@@ -1523,7 +1523,7 @@
       </trans-unit>
       <trans-unit id="117b8895cac140a8c2463a840c8a279cdf27fd83" resname="product.no_search_results.info_text">
         <source>Sorry, there are no products for your search</source>
-        <target state="translated">عذرًا، لا توجد منتجات لبحثك</target>
+        <target state="translated">عذرًا، لا توجد منتجات تطابق بحثك</target>
         <note>key: product.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="efbcb8fde79e0bcff6705c68229211ae204dabb6" resname="product.no_uncategorized_products.action_text">
@@ -1608,7 +1608,7 @@
       </trans-unit>
       <trans-unit id="ce27b492ed52f5397041fb2f1154fa2a867aad93" resname="product.view.assets.actions.drag_drop.main_message">
         <source><![CDATA[Drag and drop image here or <br /><button type="button" class="ibexa-pc-product-assets-source__btn-add">Browse</button> to choose a file]]></source>
-        <target state="translated"><![CDATA[اسحب وأفلت الصورة هنا أو <br /><button type="button" class="ibexa-pc-product-assets-source__btn-add">تصفح</button> لاختيار ملف]]></target>
+        <target state="translated"><![CDATA[اسحب الصورة وأفلتها هنا أو <br /><button type="button" class="ibexa-pc-product-assets-source__btn-add">تصفح</button> لاختيار ملف]]></target>
         <note>key: product.view.assets.actions.drag_drop.main_message</note>
       </trans-unit>
       <trans-unit id="f2776b5c704f57e910345d13cae8c136b927095d" resname="product.view.assets.actions.drag_drop.max_filesize">
@@ -1628,7 +1628,7 @@
       </trans-unit>
       <trans-unit id="fe59fb5302f7c99d3f3dd17e6d554337f8c3abed" resname="product.view.assets.collection">
         <source>Assets collection for variant</source>
-        <target state="translated">مجموعة الموارد للنسخة</target>
+        <target state="translated">مجموعة الموارد للمتغيّر</target>
         <note>key: product.view.assets.collection</note>
       </trans-unit>
       <trans-unit id="2120810ce13a25468d19c1bc5ee64cac2ed0fb27" resname="product.view.assets.collection.base_assets">
@@ -1833,12 +1833,12 @@
       </trans-unit>
       <trans-unit id="16ff204ff16a11d94f2220912ff14fae6a9bba1b" resname="product.view.completeness.variants.subtask_title">
         <source>At least one variant defined</source>
-        <target state="translated">تم تعريف نسخة واحدة على الأقل</target>
+        <target state="translated">تم تعريف متغيّر واحد على الأقل</target>
         <note>key: product.view.completeness.variants.subtask_title</note>
       </trans-unit>
       <trans-unit id="6e1f0af5dd78279d36e793e586cc7039b7fca421" resname="product.view.completeness.variants.title">
         <source>Variants</source>
-        <target state="translated">النسخ</target>
+        <target state="translated">المتغيّرات</target>
         <note>key: product.view.completeness.variants.title</note>
       </trans-unit>
       <trans-unit id="c1bd3ab428598e5dbc9c1b464044687f546274e2" resname="product.view.details.field.empty">
@@ -1898,7 +1898,7 @@
       </trans-unit>
       <trans-unit id="b890a925245a7bbbb5dd94570d771e79d7a17ae8" resname="product.view.prices.custome_price.customer_group">
         <source>Customer group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: product.view.prices.custome_price.customer_group</note>
       </trans-unit>
       <trans-unit id="0f1132068ca71e6014a0c57e8b3454224a3780e6" resname="product.view.prices.custome_price.global_price_rule">
@@ -1918,7 +1918,7 @@
       </trans-unit>
       <trans-unit id="05a2fd5e57e308ab8809e327c94a22c24c3a37c1" resname="product.view.prices.no_currencies.action_label">
         <source>Go to currency list</source>
-        <target state="translated">الانتقال إلى قائمة العملات</target>
+        <target state="translated">انتقل إلى قائمة العملات</target>
         <note>key: product.view.prices.no_currencies.action_label</note>
       </trans-unit>
       <trans-unit id="0e860dd3efcc600578846eadfef2b3096cb1bcc3" resname="product.view.prices.no_currencies.descrptions">
@@ -1963,7 +1963,7 @@
       </trans-unit>
       <trans-unit id="85c6210528989f77d16d9130d3663954e61cefa1" resname="product_catalog">
         <source>Product Catalog</source>
-        <target state="translated">قائِمَة/الكتالوج المنتجات</target>
+        <target state="translated">كتالوج المنتجات</target>
         <note>key: product_catalog</note>
       </trans-unit>
       <trans-unit id="5c3c0792e595c10a27aa41801fdb3195d9883294" resname="product_catalog.currency.breadcrumb.list">
@@ -2008,7 +2008,7 @@
       </trans-unit>
       <trans-unit id="62848aa22fb4ad4f32d06a6a06d4cc5583a16f04" resname="product_price.customer_group">
         <source>Customer group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: product_price.customer_group</note>
       </trans-unit>
       <trans-unit id="281444c2df6969e2cf81516b9ba899f02272dfb8" resname="product_price.edit.action_name">
@@ -2038,12 +2038,12 @@
       </trans-unit>
       <trans-unit id="d2d4905373e3d4301ee1f694cf16508e3357784b" resname="product_price.no_customer_group.action_text">
         <source>To add custom prices, you need to have at least one customer group.</source>
-        <target state="translated">لإضافة أسعار مخصصة، يجب أن يكون لديك مجموعة زبائن واحدة على الأقل.</target>
+        <target state="translated">لإضافة أسعار مخصصة، يجب أن يكون لديك مجموعة عملاء واحدة على الأقل.</target>
         <note>key: product_price.no_customer_group.action_text</note>
       </trans-unit>
       <trans-unit id="a874a28bcbdd6c6759c056ba29f4458b34732ebf" resname="product_price.no_customer_group.action_text_no_permission">
         <source>To create custom prices, you need to have at least one customer group.</source>
-        <target state="translated">لإنشاء أسعار مخصصة، يجب أن يكون لديك مجموعة زبائن واحدة على الأقل.</target>
+        <target state="translated">لإنشاء أسعار مخصصة، يجب أن يكون لديك مجموعة عملاء واحدة على الأقل.</target>
         <note>key: product_price.no_customer_group.action_text_no_permission</note>
       </trans-unit>
       <trans-unit id="d525a2e0e42af24f2364b7356bfe0eb31ab37ff3" resname="product_price.no_customer_group.alert_no_permission">
@@ -2063,7 +2063,7 @@
       </trans-unit>
       <trans-unit id="3636669eaba5950b8916e49ee131c1f7b7e3a9fa" resname="product_price.no_customer_group.link_label">
         <source>Go to customer groups</source>
-        <target state="translated">الانتقال إلى مجموعات الزبائن</target>
+        <target state="translated">انتقل إلى مجموعات العملاء</target>
         <note>key: product_price.no_customer_group.link_label</note>
       </trans-unit>
       <trans-unit id="dbb743e907c97afda01d86a91edb2ba5795aa6a7" resname="product_price.update_base_price">
@@ -2108,7 +2108,7 @@
       </trans-unit>
       <trans-unit id="bddcb980513ae872c31cf934c92282aa7a9d9c33" resname="product_type.edit.assigned_vat_rates.region">
         <source>Region</source>
-        <target state="translated">منطقة</target>
+        <target state="translated">المنطقة</target>
         <note>key: product_type.edit.assigned_vat_rates.region</note>
       </trans-unit>
       <trans-unit id="1e4e7e301de2cfbfacf693016ab4d308940489f5" resname="product_type.edit.assigned_vat_rates.vat_rate">
@@ -2133,7 +2133,7 @@
       </trans-unit>
       <trans-unit id="74a9360e45cdc9cba49891112a800aaa3dc0a8c9" resname="product_type.edit.empty_drop_zone.title">
         <source>Drag and drop attributes from the library</source>
-        <target state="translated">اسحب وأفلت الخصائص من المكتبة</target>
+        <target state="translated">اسحب الخصائص وأفلتها من المكتبة</target>
         <note>key: product_type.edit.empty_drop_zone.title</note>
       </trans-unit>
       <trans-unit id="8b3c3e156ba2e54d195fec8750f4ec8f0b9462a0" resname="product_type.edit.error.already_exists">
@@ -2173,7 +2173,7 @@
       </trans-unit>
       <trans-unit id="bdbe04f22fa091bdf63d8d2ac067d63ff99cc41c" resname="product_type.edit.list_header.used_product_variants">
         <source>Used for product variants</source>
-        <target state="translated">يُستخدم لنسخ المنتج</target>
+        <target state="translated">يُستخدم لمتغيّرات المنتج</target>
         <note>key: product_type.edit.list_header.used_product_variants</note>
       </trans-unit>
       <trans-unit id="29b93262f85f9cd5b5161402d9543a6bf9b61d0d" resname="product_type.edit.section.attributes">
@@ -2223,7 +2223,7 @@
       </trans-unit>
       <trans-unit id="e851866ef9003ace31ae9a4c4e32fac58c184f8a" resname="product_type.no_product_types.info_text">
         <source>Add your first product type</source>
-        <target state="translated">أضف أول نوع منتج لديك</target>
+        <target state="translated">أضف أول نوع منتج لك</target>
         <note>key: product_type.no_product_types.info_text</note>
       </trans-unit>
       <trans-unit id="26401f0b64bf059c067e9816bc0f182cf8b5176f" resname="product_type.no_search_results.action_text">
@@ -2233,7 +2233,7 @@
       </trans-unit>
       <trans-unit id="864cabb6c8591a804a0971a83035a6b0e64fc2ed" resname="product_type.no_search_results.info_text">
         <source>Sorry, there are no product types for your search</source>
-        <target state="translated">عذراً، لا توجد أنواع منتجات لبحثك</target>
+        <target state="translated">عذرًا، لا توجد أنواع منتجات تطابق بحثك</target>
         <note>key: product_type.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="d08573336046138a2506cc70f33876192b6d6d2c" resname="product_type.physical">
@@ -2353,7 +2353,7 @@
       </trans-unit>
       <trans-unit id="4c450a7b76528b160e8474def36db85ea6597ee3" resname="product_type.view.details.vat_rate.region">
         <source>Region</source>
-        <target state="translated">منطقة</target>
+        <target state="translated">المنطقة</target>
         <note>key: product_type.view.details.vat_rate.region</note>
       </trans-unit>
       <trans-unit id="358324a012fe6055c89e44a97e5953843420c14f" resname="product_type.view.details.vat_rate.value">
@@ -2398,12 +2398,12 @@
       </trans-unit>
       <trans-unit id="f789cd7b9ab753b5c98a58096800fdb417942e00" resname="product_variant.create.action_name">
         <source>Creating product variant</source>
-        <target state="translated">إنشاء نسخة المنتج</target>
+        <target state="translated">إنشاء متغيّر المنتج</target>
         <note>key: product_variant.create.action_name</note>
       </trans-unit>
       <trans-unit id="719e7ce7f7481f9b9f14b9581e7911806d0ddddb" resname="product_variant.edit.action_name">
         <source>Updating product variant</source>
-        <target state="translated">تحديث نسخة المنتج</target>
+        <target state="translated">تحديث متغيّر المنتج</target>
         <note>key: product_variant.edit.action_name</note>
       </trans-unit>
       <trans-unit id="77a0107f7bf3d34a0fda1122d6386507dba358e0" resname="products.category.unassign">
@@ -2478,7 +2478,7 @@
       </trans-unit>
       <trans-unit id="6a83ea8dd39089aec90e2e1c40e48357c92d3ba4" resname="tab.name.completeness">
         <source>Completeness</source>
-        <target state="translated">الإكمال</target>
+        <target state="translated">الاكتمال</target>
         <note>key: tab.name.completeness</note>
       </trans-unit>
       <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
@@ -2503,7 +2503,7 @@
       </trans-unit>
       <trans-unit id="01caed235dd835f8399783846780e869623d0567" resname="tab.name.variants">
         <source>Variants</source>
-        <target state="translated">النسخ</target>
+        <target state="translated">المتغيّرات</target>
         <note>key: tab.name.variants</note>
       </trans-unit>
       <trans-unit id="176b79c48767f94ec083c27df131a8df16a4e7ff" resname="tab.products.filter_settings.title">
@@ -2583,27 +2583,27 @@
       </trans-unit>
       <trans-unit id="e69faa33548046dd30da3472456d913f2586a3c5" resname="tab.variants.empty.action">
         <source>Generate variants or add manually</source>
-        <target state="translated">إنشاء نسخ أو الإضافة يدويًا</target>
+        <target state="translated">إنشاء متغيّرات أو الإضافة يدويًا</target>
         <note>key: tab.variants.empty.action</note>
       </trans-unit>
       <trans-unit id="2863324cbdd8f5214a355b710207c4b6a5244a5c" resname="tab.variants.empty.generate_variants">
         <source>Generate variants</source>
-        <target state="translated">إنشاء نسخ</target>
+        <target state="translated">إنشاء متغيّرات</target>
         <note>key: tab.variants.empty.generate_variants</note>
       </trans-unit>
       <trans-unit id="02e0b874ee7b362fc41d0db0c7f568111d88e29a" resname="tab.variants.empty.info">
         <source>There are no variants yet</source>
-        <target state="translated">لا توجد نسخ بعد</target>
+        <target state="translated">لا توجد متغيّرات بعد</target>
         <note>key: tab.variants.empty.info</note>
       </trans-unit>
       <trans-unit id="f3963d936969ba1809846c3d4110d834a706152d" resname="tab.variants.empty.search.info">
         <source>Sorry, there are no variants for your search</source>
-        <target state="translated">عذرًا، لا توجد نسخ لبحثك</target>
+        <target state="translated">عذرًا، لا توجد متغيّرات تطابق بحثك</target>
         <note>key: tab.variants.empty.search.info</note>
       </trans-unit>
       <trans-unit id="0fcbd8d26cddec6c401bffee5d141a53cda0a925" resname="tab.variants.modal.attribute">
         <source>Attribute</source>
-        <target state="translated">خاصية</target>
+        <target state="translated">الخاصية</target>
         <note>key: tab.variants.modal.attribute</note>
       </trans-unit>
       <trans-unit id="1beb21456998364fd6bd3cbb012a4a1149fbec34" resname="tab.variants.modal.cancel">
@@ -2613,22 +2613,22 @@
       </trans-unit>
       <trans-unit id="7a1ef3c49ff57af03d903726fc6c7bc8980e0364" resname="tab.variants.modal.generate">
         <source>Generate variants</source>
-        <target state="translated">إنشاء نسخ</target>
+        <target state="translated">إنشاء متغيّرات</target>
         <note>key: tab.variants.modal.generate</note>
       </trans-unit>
       <trans-unit id="a32501e6c26d3f88a5636895903ae2ba2e3419c2" resname="tab.variants.modal.main_info">
         <source>Provide values for attributes to generate product variants.</source>
-        <target state="translated">يرجى إدخال القيم للخصائص لإنشاء نسخ المنتج.</target>
+        <target state="translated">يرجى إدخال قيم الخصائص لإنشاء متغيّرات المنتج.</target>
         <note>key: tab.variants.modal.main_info</note>
       </trans-unit>
       <trans-unit id="75934a56f5e9234cfc0054e51518fb67270c9c84" resname="tab.variants.modal.message">
         <source>Delete the variants permanently?</source>
-        <target state="translated">هل تريد حذف النسخ نهائيًا؟</target>
+        <target state="translated">هل تريد حذف المتغيّرات نهائيًا؟</target>
         <note>key: tab.variants.modal.message</note>
       </trans-unit>
       <trans-unit id="5b5cd0616dd47c6c595b7d0394676f367398a85d" resname="tab.variants.modal.secondary_info">
         <source>Automatically create variants based on the attributes defined above.</source>
-        <target state="translated">إنشاء النسخ تلقائيًا بناءً على الخصائص المحددة أعلاه.</target>
+        <target state="translated">إنشاء المتغيّرات تلقائيًا بناءً على الخصائص المحددة أعلاه.</target>
         <note>key: tab.variants.modal.secondary_info</note>
       </trans-unit>
       <trans-unit id="4bf92b6f4a24c4c6b4b8f04f5b3479c6ba108b9e" resname="tab.variants.modal.technical_characteristics">
@@ -2638,7 +2638,7 @@
       </trans-unit>
       <trans-unit id="0dc593c628d12f7170b1024323958c30cfc4e4bb" resname="tab.variants.modal.title">
         <source>Generate variants</source>
-        <target state="translated">إنشاء نسخ</target>
+        <target state="translated">إنشاء متغيّرات</target>
         <note>key: tab.variants.modal.title</note>
       </trans-unit>
       <trans-unit id="d9e5667321ab1d19677a53e1870817ef0c3dbf83" resname="tab.variants.name">
@@ -2663,7 +2663,7 @@
       </trans-unit>
       <trans-unit id="221e07fc7bd503652586731e8456e61d87f52b06" resname="tab.variants.variants">
         <source>Variants</source>
-        <target state="translated">النسخ</target>
+        <target state="translated">المتغيّرات</target>
         <note>key: tab.variants.variants</note>
       </trans-unit>
       <trans-unit id="84c716177ff27c2a0900b4318920b1e0cbbf9b93" resname="translation.base_language.no_language">

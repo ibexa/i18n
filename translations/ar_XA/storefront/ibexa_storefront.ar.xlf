@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="0349c3da642fcb1af52e38a34f24cb267aa722e7" resname="ibexa_storefront.menu.user.shopping_list">
         <source>Shopping lists</source>
-        <target state="translated">قوائم التسوّق</target>
+        <target state="translated">قوائم التسوق</target>
         <note>key: ibexa_storefront.menu.user.shopping_list</note>
       </trans-unit>
       <trans-unit id="7bab86b637147c245e9e4b3e7e3b0fdf59f86564" resname="ibexa_storefront.pagination.total">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="cfab621586ae6e0c87d6d0920fac758c0ca3db5c" resname="ibexa_storefront.product_card.available">
         <source>In stock</source>
-        <target state="translated">متوفّر</target>
+        <target state="translated">متوفر في المخزون</target>
         <note>key: ibexa_storefront.product_card.available</note>
       </trans-unit>
       <trans-unit id="81e0e0fa787652d5fbb54960ff638b49321b56b9" resname="ibexa_storefront.product_card.code">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="275e19a2856b2308a9707abffcdbb35f51e3913a" resname="ibexa_storefront.product_catalog.title">
         <source>Product catalog</source>
-        <target state="translated">قائِمَة المنتجات</target>
+        <target state="translated">كتالوج المنتجات</target>
         <note>key: ibexa_storefront.product_catalog.title</note>
       </trans-unit>
       <trans-unit id="2f528d4b2fd384e59bf655f270bf5bee4a9a639b" resname="ibexa_storefront.region_switcher.label">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="3b4b9668d2302bb833cab993e3c18f17c9f6bd16" resname="order.detail.details.discount.label">
         <source>Discount</source>
-        <target state="translated">تخفيض السعر</target>
+        <target state="translated">الخصم</target>
         <note>key: order.detail.details.discount.label</note>
       </trans-unit>
       <trans-unit id="b235c33b5e3a447325f1efce7c551572c0e8211a" resname="order.detail.details.payment_method.label">
@@ -283,17 +283,17 @@
       </trans-unit>
       <trans-unit id="d5aca05631598ae8057f64ab648b3e0cdb860add" resname="order.detail.items.column.discount_percentage">
         <source>Discount (%)</source>
-        <target state="translated">تخفيض السعر (%)</target>
+        <target state="translated">الخصم (%)</target>
         <note>key: order.detail.items.column.discount_percentage</note>
       </trans-unit>
       <trans-unit id="d2f18c39806fa2eae77eae96aad914938bc9c51c" resname="order.detail.items.column.discount_value">
         <source>Discount value</source>
-        <target state="translated">قيمة التخفيض</target>
+        <target state="translated">قيمة الخصم</target>
         <note>key: order.detail.items.column.discount_value</note>
       </trans-unit>
       <trans-unit id="22532dc1bf5c7ac40f559bef7505ed8c054f50e0" resname="order.detail.items.column.discounted_unit_price_net">
         <source>Discounted unit price net</source>
-        <target state="translated">سعر الوحدة بعد التخفيض (صافي)</target>
+        <target state="translated">سعر الوحدة بعد الخصم (صافي)</target>
         <note>key: order.detail.items.column.discounted_unit_price_net</note>
       </trans-unit>
       <trans-unit id="5b6795a8e002e0d1bb3fb9724adc62873eb742a7" resname="order.detail.items.column.product_name">
@@ -308,12 +308,12 @@
       </trans-unit>
       <trans-unit id="d734512aff048e93b28356a8e72ce71598645b2b" resname="order.detail.items.column.subtotal_gross">
         <source>Subtotal gross</source>
-        <target state="translated">الإجمالي الفرعي الإجمالي</target>
+        <target state="translated">المجموع الفرعي الإجمالي</target>
         <note>key: order.detail.items.column.subtotal_gross</note>
       </trans-unit>
       <trans-unit id="5ec27e02fb4d6295cddf35a8878dfc353dee794b" resname="order.detail.items.column.subtotal_net">
         <source>Subtotal net</source>
-        <target state="translated">الإجمالي الفرعي الصافي</target>
+        <target state="translated">المجموع الفرعي الصافي</target>
         <note>key: order.detail.items.column.subtotal_net</note>
       </trans-unit>
       <trans-unit id="0238ea5d1520f36fecd722486b0b9cf90f555263" resname="order.detail.items.column.tax">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="f2fd74f39058c7a3689a4dbb4df5e22a06d8b96a" resname="order.detail.price_details.subtotal_net.label">
         <source>Subtotal (net)</source>
-        <target state="translated">الإجمالي الفرعي (صافي)</target>
+        <target state="translated">المجموع الفرعي (الصافي)</target>
         <note>key: order.detail.price_details.subtotal_net.label</note>
       </trans-unit>
       <trans-unit id="f5e3a5cf34e7e76bfc676aa6292278d52d448ab0" resname="order.detail.price_details.tax.label">
@@ -428,12 +428,12 @@
       </trans-unit>
       <trans-unit id="c732ca5d859e4c7d8b1d8271b6709a12ce3adee6" resname="order.list.no_search_results.action_text">
         <source>Try again with new search criteria.</source>
-        <target state="translated">جرّب مرة أخرى بمعايير بحث جديدة.</target>
+        <target state="translated">حاول مرة أخرى بمعايير بحث جديدة.</target>
         <note>key: order.list.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="4c39dd26f41eec8ded6c157165400fa2a77f5e78" resname="order.list.no_search_results.info_text">
         <source>Sorry, there are no orders for your search</source>
-        <target state="translated">عذراً، لا توجد طلبات لبحثك</target>
+        <target state="translated">عذرًا، لا توجد طلبات تطابق بحثك</target>
         <note>key: order.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="732d66bad97d7f2742b453dcc806b6a12eeb7642" resname="order.list.reorder.btn">
@@ -473,7 +473,7 @@
       </trans-unit>
       <trans-unit id="b239dc19446839d1533d70efba9ec14acebe0248" resname="product.variant.choice.select_variant_placeholder">
         <source>Select variant...</source>
-        <target state="translated">اختر نسخة...</target>
+        <target state="translated">اختر متغيّرًا...</target>
         <note>key: product.variant.choice.select_variant_placeholder</note>
       </trans-unit>
       <trans-unit id="aecedc57ec948d6ac88962bb890429b259dc976a" resname="quick_order.file.add_btn.label">
@@ -483,7 +483,7 @@
       </trans-unit>
       <trans-unit id="102133ac7229b88f70914ae3fd184a64d1a7e38b" resname="quick_order.file.description">
         <source>Drag and drop  your own XLS, XLSX or CSV file and add products to cart.</source>
-        <target state="translated">استخدم السحب والإفلات لإضافة ملف XLS أو XLSX أو CSV خاص بك وأضف المنتجات إلى سلة التسوّق.</target>
+        <target state="translated">استخدم السحب والإفلات لإضافة ملف XLS أو XLSX أو CSV خاص بك وأضف المنتجات إلى سلة التسوق.</target>
         <note>key: quick_order.file.description</note>
       </trans-unit>
       <trans-unit id="2d899cce15da0017066d1c4a137c16fd86932d9a" resname="quick_order.file.headline">
@@ -518,7 +518,7 @@
       </trans-unit>
       <trans-unit id="4e756db28b9e80bb267115951ef5bf9fb4677ee5" resname="shopping_list.add_to_cart.some_products_unavailable">
         <source>Some products from the shopping list could not be added to the cart.</source>
-        <target state="translated">تعذّر إضافة بعض المنتجات من قائمة التسوّق إلى سلة التسوّق.</target>
+        <target state="translated">تعذّر إضافة بعض المنتجات من قائمة التسوق إلى سلة التسوق.</target>
         <note>key: shopping_list.add_to_cart.some_products_unavailable</note>
       </trans-unit>
       <trans-unit id="a0679b0e489e032a6084105e537d31ae916eb52a" resname="shopping_list.create.action.cancel.btn.label">
@@ -533,7 +533,7 @@
       </trans-unit>
       <trans-unit id="6cedcf4550be9d7181532b9c703b0b6099c31741" resname="shopping_list.create.title">
         <source>Create new shopping list</source>
-        <target state="translated">إنشاء قائمة تسوّق جديدة</target>
+        <target state="translated">إنشاء قائمة تسوق جديدة</target>
         <note>key: shopping_list.create.title</note>
       </trans-unit>
       <trans-unit id="aea621279daff259e1f4a8d7753c3491d5fd3e21" resname="shopping_list.default.badge">
@@ -548,7 +548,7 @@
       </trans-unit>
       <trans-unit id="73d83ddb67240d51c2f7e8d6c212516bc7f668f5" resname="shopping_list.edit.title">
         <source>Edit shopping list</source>
-        <target state="translated">تحرير قائمة التسوّق</target>
+        <target state="translated">تحرير قائمة التسوق</target>
         <note>key: shopping_list.edit.title</note>
       </trans-unit>
       <trans-unit id="4ed3524c17bafdc30a39376bf55e2858c0a57e13" resname="shopping_list.list.column.name">
@@ -583,17 +583,17 @@
       </trans-unit>
       <trans-unit id="80ba803ac4f77d8dce87c27dbf2eea2ae083357c" resname="shopping_list.list.no_items.info_text">
         <source>No shopping list yet</source>
-        <target state="translated">لا توجد قائمة تسوّق بعد</target>
+        <target state="translated">لا توجد قائمة تسوق بعد</target>
         <note>key: shopping_list.list.no_items.info_text</note>
       </trans-unit>
       <trans-unit id="3e3f301764c272a766dc522b22672cdc16a3a816" resname="shopping_list.list.no_search_results.action_text">
         <source>Try again with new search criteria.</source>
-        <target state="translated">جرّب مرة أخرى بمعايير بحث جديدة.</target>
+        <target state="translated">حاول مرة أخرى بمعايير بحث جديدة.</target>
         <note>key: shopping_list.list.no_search_results.action_text</note>
       </trans-unit>
       <trans-unit id="d0c149cac5149e4c612f4cbaedb5af1348feca0d" resname="shopping_list.list.no_search_results.info_text">
         <source>Sorry, there are no shopping lists for your search</source>
-        <target state="translated">عذرًا، لا توجد قوائم تسوّق لبحثك</target>
+        <target state="translated">عذرًا، لا توجد قوائم تسوق تطابق بحثك</target>
         <note>key: shopping_list.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="5e37c28b72173afceacfd2fbf2f9df5b44e4a946" resname="shopping_list.list.sorting.option.created_at_asc">
@@ -628,12 +628,12 @@
       </trans-unit>
       <trans-unit id="1fceded171a5cc1f4e8c8f98b72af67e33c509c2" resname="shopping_list.list.table.action.btn.label">
         <source>Create shopping list</source>
-        <target state="translated">إنشاء قائمة تسوّق</target>
+        <target state="translated">إنشاء قائمة تسوق</target>
         <note>key: shopping_list.list.table.action.btn.label</note>
       </trans-unit>
       <trans-unit id="6dcb09c21d983f3556b0d561cfccf03329ba5d8b" resname="shopping_list.list.title">
         <source>Shopping lists</source>
-        <target state="translated">قوائم التسوّق</target>
+        <target state="translated">قوائم التسوق</target>
         <note>key: shopping_list.list.title</note>
       </trans-unit>
       <trans-unit id="1c3651c445715d259e396e9e9d3987c510db41b9" resname="shopping_list.list.unnamed_list">
@@ -648,17 +648,17 @@
       </trans-unit>
       <trans-unit id="4cff6da3bd596c844678ec06f92a534d1224701a" resname="shopping_list.remove_shopping_list_confirmation_modal.question">
         <source>Do you want to delete the shopping list?</source>
-        <target state="translated">هل تريد حذف قائمة التسوّق؟</target>
+        <target state="translated">هل تريد حذف قائمة التسوق؟</target>
         <note>key: shopping_list.remove_shopping_list_confirmation_modal.question</note>
       </trans-unit>
       <trans-unit id="88d8dc9e2e0e602d05268788c9ff7da72111936d" resname="shopping_list.remove_shopping_list_confirmation_modal.title">
         <source>Deleting shopping list</source>
-        <target state="translated">حذف قائمة التسوّق</target>
+        <target state="translated">حذف قائمة التسوق</target>
         <note>key: shopping_list.remove_shopping_list_confirmation_modal.title</note>
       </trans-unit>
       <trans-unit id="c3c635e4df408bbd071355e8e6032032b6e8e45d" resname="shopping_list.shopping_list_limit_reached.message">
         <source>Shopping lists limit reached.</source>
-        <target state="translated">تم الوصول إلى الحد الأقصى لقوائم التسوّق.</target>
+        <target state="translated">تم الوصول إلى الحد الأقصى لقوائم التسوق.</target>
         <note>key: shopping_list.shopping_list_limit_reached.message</note>
       </trans-unit>
       <trans-unit id="0872c771e9cad88ae7fde976b4f34b38de051b0c" resname="shopping_list.update.action.cancel.btn.label">
@@ -673,17 +673,17 @@
       </trans-unit>
       <trans-unit id="38e7c5a3ea8f9784f7b08350b2f5f67978897899" resname="shopping_list.update.wishlist.no_edit_notice">
         <source>This is a default shopping list, you cannot change its name or delete it.</source>
-        <target state="translated">هذه قائمة تسوّق افتراضية، لا يمكنك تغيير اسمها أو حذفها.</target>
+        <target state="translated">هذه قائمة تسوق افتراضية، لا يمكنك تغيير اسمها أو حذفها.</target>
         <note>key: shopping_list.update.wishlist.no_edit_notice</note>
       </trans-unit>
       <trans-unit id="c849f461614011d9045fc66a4697880c7b552cc4" resname="shopping_list.view.actions.add_all_to_cart.btn">
         <source>Add all to cart</source>
-        <target state="translated">إضافة الكل إلى سلة التسوّق</target>
+        <target state="translated">إضافة الكل إلى سلة التسوق</target>
         <note>key: shopping_list.view.actions.add_all_to_cart.btn</note>
       </trans-unit>
       <trans-unit id="bd0af811be768a066abb2a3c080a5339e671bca9" resname="shopping_list.view.actions.add_selected_to_cart.btn">
         <source>Add to cart</source>
-        <target state="translated">أضف إلى سلة التسوّق</target>
+        <target state="translated">إضافة إلى سلة التسوق</target>
         <note>key: shopping_list.view.actions.add_selected_to_cart.btn</note>
       </trans-unit>
       <trans-unit id="23970741d9a55109e29cecbf8052d6c6eabdd6c1" resname="shopping_list.view.actions.delete.btn">
@@ -698,7 +698,7 @@
       </trans-unit>
       <trans-unit id="5c0b7d2ce850910fae63a26496fd8be5db965cda" resname="shopping_list.view.add_to_shopping_list_modal.title">
         <source>Add to shopping list</source>
-        <target state="translated">إضافة إلى قائمة التسوّق</target>
+        <target state="translated">إضافة إلى قائمة التسوق</target>
         <note>key: shopping_list.view.add_to_shopping_list_modal.title</note>
       </trans-unit>
       <trans-unit id="f522f8a3ff87b374097059fc9c769cf4b48d09e0" resname="shopping_list.view.info.updated.label">
@@ -708,12 +708,12 @@
       </trans-unit>
       <trans-unit id="f83dd95f3afa2a4ac2e530ce88e1c7413b7a229f" resname="shopping_list.view.products.add_to_cart.btn">
         <source>Add to cart</source>
-        <target state="translated">أضف إلى سلة التسوّق</target>
+        <target state="translated">إضافة إلى سلة التسوق</target>
         <note>key: shopping_list.view.products.add_to_cart.btn</note>
       </trans-unit>
       <trans-unit id="2e9fb7b7502ef6aa892b772c0fa9c0009e10894b" resname="shopping_list.view.products.add_to_shopping_list.btn">
         <source>Add to shopping list</source>
-        <target state="translated">إضافة إلى قائمة التسوّق</target>
+        <target state="translated">إضافة إلى قائمة التسوق</target>
         <note>key: shopping_list.view.products.add_to_shopping_list.btn</note>
       </trans-unit>
       <trans-unit id="441c71941aa92b8f70578edc630bcc57db36db49" resname="shopping_list.view.products.column.added">
@@ -748,7 +748,7 @@
       </trans-unit>
       <trans-unit id="bf48559809e81214f6d5210ca79b8a59d256a8a2" resname="shopping_list.view.products.no_items.action_text">
         <source>When you add products to your shopping list, they will appear here.</source>
-        <target state="translated">عند إضافة منتجات إلى قائمة التسوّق الخاصة بك، ستظهر هنا.</target>
+        <target state="translated">عند إضافة منتجات إلى قائمة التسوق الخاصة بك، ستظهر هنا.</target>
         <note>key: shopping_list.view.products.no_items.action_text</note>
       </trans-unit>
       <trans-unit id="3d3fbc58fba8d756fc5e8f5615ff64fa2e581ff7" resname="shopping_list.view.products.no_items.info_text">

@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="27f2f932e2b2f60b36b3331b45a3e15b421ee86f" resname="search.clear">
         <source>Clear</source>
-        <target state="translated">حذف/محو</target>
+        <target state="translated">مسح</target>
         <note>key: search.clear</note>
       </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
         <source>Last modified</source>
-        <target state="translated">تم تعديله آخر مرة</target>
+        <target state="translated">آخر تعديل</target>
         <note>key: search.last.modified</note>
       </trans-unit>
       <trans-unit id="2d007a8d9fc080db790dc5c45c12dd369d144fbe" resname="search.last_month">
@@ -138,12 +138,12 @@
       </trans-unit>
       <trans-unit id="65ed24966c829b5013a9832dd40fce3a3ee53e91" resname="search.location">
         <source>Location</source>
-        <target state="translated">موضع</target>
+        <target state="translated">الموضع</target>
         <note>key: search.location</note>
       </trans-unit>
       <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: search.modified</note>
       </trans-unit>
       <trans-unit id="6fc6d2e87716ae8feb2ff4536efa8c9db0904509" resname="search.name">

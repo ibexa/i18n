@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="4db71d15e3b1cd9031129ad441eb6e5ff97d0837" resname="ibexa_gmap_location.name">
         <source>Map location</source>
-        <target state="translated">موضع على الخريطة</target>
+        <target state="translated">موقع على الخريطة</target>
         <note>key: ibexa_gmap_location.name</note>
       </trans-unit>
       <trans-unit id="f20feb4213b18c3a89f6d67a50021005521553f9" resname="ibexa_image.name">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="922fa9ce06fa28b293050aded90773559fa39306" resname="ibexa_image_asset.name">
         <source>Image Asset</source>
-        <target state="translated">أصل الصورة</target>
+        <target state="translated">مورد صورة</target>
         <note>key: ibexa_image_asset.name</note>
       </trans-unit>
       <trans-unit id="3aeb96f710ddccb1a12809d3bb6f3e604fc14f75" resname="ibexa_integer.name">

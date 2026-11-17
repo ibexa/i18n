@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="84b81445c7c75563e8676f8636ca868dc6ae7caa" resname="activity_log.block.title">
         <source>Recent activity</source>
-        <target state="translated">النشاطات الأخيرة</target>
+        <target state="translated">النشاط الأخير</target>
         <note>key: activity_log.block.title</note>
       </trans-unit>
       <trans-unit id="0d80c8ddb974a86173619883aa07d43845627d9a" resname="activity_log.block.today_label">
@@ -83,17 +83,17 @@
       </trans-unit>
       <trans-unit id="061d0e1ad97a8fa3d517ae09c13947cdf3ed8155" resname="activity_log.data_grid.actions.reveal_label">
         <source>revealed</source>
-        <target state="translated">كشف</target>
+        <target state="translated">أظهر</target>
         <note>key: activity_log.data_grid.actions.reveal_label</note>
       </trans-unit>
       <trans-unit id="6ecae8c7f09cac02dc31c72ceb6e1acfb05a75d9" resname="activity_log.data_grid.actions.swap_label">
         <source>swapped</source>
-        <target state="translated">استبدل</target>
+        <target state="translated">بدّل</target>
         <note>key: activity_log.data_grid.actions.swap_label</note>
       </trans-unit>
       <trans-unit id="1857c05f3d5b64f33e210ad9ee18e5fc84bed7ea" resname="activity_log.data_grid.actions.trash_label">
         <source>trashed</source>
-        <target state="translated">نقل إلى المهملات</target>
+        <target state="translated">نقل إلى سلة المهملات</target>
         <note>key: activity_log.data_grid.actions.trash_label</note>
       </trans-unit>
       <trans-unit id="6cac4189565d0d861bc44ad8f70cb814098fa898" resname="activity_log.data_grid.actions.update_label">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="f76d988fe1050c31634719154618618c8d135ed3" resname="activity_log.filters.clear">
         <source>Clear</source>
-        <target state="translated">حذف/محو</target>
+        <target state="translated">مسح</target>
         <note>key: activity_log.filters.clear</note>
       </trans-unit>
       <trans-unit id="c9957ffde92aa617ff200bed72cb48291d1a4ab2" resname="activity_log.filters.title">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="93fb0c315354f7284e2ce7942a14c5aee2a8b619" resname="ibexa.activity_log.search_form.action.reveal">
         <source>Reveal</source>
-        <target state="translated">كشف</target>
+        <target state="translated">إظهار</target>
         <note>key: ibexa.activity_log.search_form.action.reveal</note>
       </trans-unit>
       <trans-unit id="1cadbfbde556f45908632d87639845793534498a" resname="ibexa.activity_log.search_form.action.swap">
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="37e33206d1941201f6c7e59ba460b3a824cc65b0" resname="ibexa.activity_log.search_form.action.trash">
         <source>Trash</source>
-        <target state="translated">نقل إلى المهملات</target>
+        <target state="translated">نقل إلى سلة المهملات</target>
         <note>key: ibexa.activity_log.search_form.action.trash</note>
       </trans-unit>
       <trans-unit id="9e08480f079a2f3ee64713e59430950683d1a761" resname="ibexa.activity_log.search_form.action.update">
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="84284a49f1a363b4d69fe6a6111a1cbee234e2d8" resname="ibexa.activity_log.search_form.object_class.location">
         <source>Location</source>
-        <target state="translated">موضع</target>
+        <target state="translated">الموضع</target>
         <note>key: ibexa.activity_log.search_form.object_class.location</note>
       </trans-unit>
       <trans-unit id="c2b04acb00821f7266ce50e1e2a7d58b5eb073e0" resname="ibexa.activity_log.search_form.object_class.product">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="368685b87a5816440634bb7936f6e5c1c5ae51c6" resname="ibexa.activity_log.search_form.object_class.product_variant">
         <source>Product variant</source>
-        <target state="translated">نسخة المنتج</target>
+        <target state="translated">متغيّر المنتج</target>
         <note>key: ibexa.activity_log.search_form.object_class.product_variant</note>
       </trans-unit>
       <trans-unit id="36d5168656037435ffe40f91873914fb1615d7c5" resname="ibexa.activity_log.search_form.object_class.site">

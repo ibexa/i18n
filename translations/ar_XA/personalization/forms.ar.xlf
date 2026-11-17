@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="47b6be1f552d856d8dbea0a9956632d310887e11" resname="role.policy.personalization.edit">
         <source>Personalization / Edit</source>
-        <target state="translated">التخصيص / تحرير</target>
+        <target state="translated">التخصيص / تعديل</target>
         <note>key: role.policy.personalization.edit</note>
       </trans-unit>
       <trans-unit id="bef74c3cccc66abd5825c05aa8f58b020270197f" resname="role.policy.personalization.view">

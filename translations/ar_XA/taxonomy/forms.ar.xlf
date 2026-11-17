@@ -13,22 +13,22 @@
       </trans-unit>
       <trans-unit id="23e2b7f5cc00d969e8cbef26811936db1f81f87f" resname="role.policy.taxonomy.all_functions">
         <source>Taxonomy / All functions</source>
-        <target state="translated">تصنيف / جميع الوظائف</target>
+        <target state="translated">التصنيف / جميع الوظائف</target>
         <note>key: role.policy.taxonomy.all_functions</note>
       </trans-unit>
       <trans-unit id="6c2f7edbbe16af3e02ebfb408e93437c3f8866c9" resname="role.policy.taxonomy.assign">
         <source>Taxonomy / Assign</source>
-        <target state="translated">تصنيف / تعيين</target>
+        <target state="translated">التصنيف / تعيين</target>
         <note>key: role.policy.taxonomy.assign</note>
       </trans-unit>
       <trans-unit id="5b13c93c0cef722a74869da8c9812912d428d013" resname="role.policy.taxonomy.manage">
         <source>Taxonomy / Manage</source>
-        <target state="translated">تصنيف / إدارة</target>
+        <target state="translated">التصنيف / إدارة</target>
         <note>key: role.policy.taxonomy.manage</note>
       </trans-unit>
       <trans-unit id="c18671d83b75ebd3906cd49041ec70414a0ba455" resname="role.policy.taxonomy.read">
         <source>Taxonomy / Read</source>
-        <target state="translated">تصنيف / قراءة</target>
+        <target state="translated">التصنيف / عرض</target>
         <note>key: role.policy.taxonomy.read</note>
       </trans-unit>
     </body>

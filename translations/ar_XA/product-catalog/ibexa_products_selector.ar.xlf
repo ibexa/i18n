@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="c166a676dadeff870efa33e761aa6ca740295a80" resname="product_variants_table.header.variants">
         <source>Variants</source>
-        <target state="translated">النسخ</target>
+        <target state="translated">المتغيّرات</target>
         <note>key: product_variants_table.header.variants</note>
       </trans-unit>
       <trans-unit id="2ba73e8f3a7c5fae56a1d093a48994556a0131f1" resname="selector_view.remove_locally_selected_products_btn.label">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="4addf550dbaaecce272e9c8e39fe7c890b9d2f66" resname="selector_view.selector_info">
         <source>Choose products for discount</source>
-        <target state="translated">اختر المنتجات للترويج/تخفيض السعر/ترقية</target>
+        <target state="translated">اختر المنتجات للخصم</target>
         <note>key: selector_view.selector_info</note>
       </trans-unit>
       <trans-unit id="30b95b06adad5d14c1e4072ab39fcbfd32c97a07" resname="universal_discovery_widget.title">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="7d89153d4d28a148b304cc0b402840d9fd5dd2ae" resname="variants_popup.title">
         <source>Variants</source>
-        <target state="translated">النسخ</target>
+        <target state="translated">المتغيّرات</target>
         <note>key: variants_popup.title</note>
       </trans-unit>
     </body>

@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="af530eab271b612e7cfd1eb2cd019c21dbe5565c" resname="ibexa_storefront.checkout.summary.discount">
         <source>Discount</source>
-        <target state="translated">تخفيض السعر</target>
+        <target state="translated">الخصم</target>
         <note>key: ibexa_storefront.checkout.summary.discount</note>
       </trans-unit>
       <trans-unit id="a7e4efa258dbf99023c761e8749710166c215c24" resname="ibexa_storefront.checkout.summary.quick_summary.label">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="2301c2da33b2d8af2cbfef5b9d01f5ca0ef313eb" resname="ibexa_storefront.checkout.summary.subtotal">
         <source>Subtotal</source>
-        <target state="translated">الإجمالي الفرعي</target>
+        <target state="translated">المجموع الفرعي</target>
         <note>key: ibexa_storefront.checkout.summary.subtotal</note>
       </trans-unit>
       <trans-unit id="b777bcbcb0e09456fd54efed31791ee00bf186e4" resname="ibexa_storefront.confirmation_cta.continue_action">

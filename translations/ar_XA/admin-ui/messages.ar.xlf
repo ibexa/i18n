@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="b84cc93e7b7f2a9eb0be3e95db4ffde11a97a520" resname="back.to.top">
         <source>Go to top</source>
-        <target state="translated">الانتقال إلى الأعلى</target>
+        <target state="translated">انتقل إلى الأعلى</target>
         <note>key: back.to.top</note>
       </trans-unit>
       <trans-unit id="4daaec218376e009b83ec7f46efed4f0db0bc776" resname="base.get_started">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
         <source>In Trash</source>
-        <target state="translated">في سلة المحذوفات</target>
+        <target state="translated">في سلة المهملات</target>
         <note>key: content.in_trash</note>
       </trans-unit>
       <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="199485ac12697819a72f2b71cd4222df19864419" resname="content_type.view.edit.empty_group_title">
         <source>Drag and drop field type</source>
-        <target state="translated">اسحب وأفلت نوع الحقل</target>
+        <target state="translated">اسحب نوع الحقل وأفلته</target>
         <note>key: content_type.view.edit.empty_group_title</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="2331731a1072a77f20ceef81614545768fc1d446" resname="object_state.modal.message">
         <source>Do you want to delete the Object state(s)?</source>
-        <target state="translated">هل تريد حذف حالة الكائن؟</target>
+        <target state="translated">هل تريد حذف حالات الكائن؟</target>
         <note>key: object_state.modal.message</note>
       </trans-unit>
       <trans-unit id="85cbd870cb6255f3d3d481ece6c23e6e2117e91e" resname="object_state.new">
@@ -483,7 +483,7 @@
       </trans-unit>
       <trans-unit id="5696f8cad271e56ef0e2661b314fa31b70a81bb3" resname="object_state_group.modal.message">
         <source>Do you want to delete the Object state group(s)?</source>
-        <target state="translated">هل تريد حذف مجموعة حالة الكائن؟</target>
+        <target state="translated">هل تريد حذف مجموعات حالات الكائن؟</target>
         <note>key: object_state_group.modal.message</note>
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
@@ -543,12 +543,12 @@
       </trans-unit>
       <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
         <source>Swap Locations</source>
-        <target state="translated">تبديل المواقع</target>
+        <target state="translated">تبديل المواضع</target>
         <note>key: tab.locations.location_content_swap</note>
       </trans-unit>
       <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another">
         <source>Swap the Content item at this Location with another</source>
-        <target state="translated">تبديل عنصر المحتوى في هذا الموقع بآخر</target>
+        <target state="translated">تبديل عنصر المحتوى في هذا الموضع بآخر</target>
         <note>key: tab.locations.swap_with_another</note>
       </trans-unit>
       <trans-unit id="a602612589c6e902caaf8acf1fd51fcd215955f1" resname="tab.versions.table.author.not_found">
@@ -638,12 +638,12 @@
       </trans-unit>
       <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
         <source>'%content%' has 1 or more asset Field(s). You have an option to send only the Content item to Trash, or to send the Content item and its assets to Trash. Please select your option:</source>
-        <target state="translated">يحتوي '%content%' على حقل أو أكثر من الموارد. يمكنك إرسال عنصر المحتوى فقط إلى سلة المحذوفات، أو إرسال عنصر المحتوى وموارده معًا إلى سلة المحذوفات. يرجى اختيار الخيار المناسب:</target>
+        <target state="translated">يحتوي '%content%' على حقل أو أكثر من الموارد. يمكنك إرسال عنصر المحتوى فقط إلى سلة المهملات، أو إرسال عنصر المحتوى وموارده معًا إلى سلة المهملات. يرجى اختيار الخيار المناسب:</target>
         <note>key: trash_asset_single.modal.message_main</note>
       </trans-unit>
       <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
         <source>Sending '%content%' and its %children_count% Content item(s) to Trash will also send the sub-items of this Location to Trash.</source>
-        <target state="translated">سيؤدي إرسال '%content%' و%children_count% من عناصر المحتوى التابعة له إلى سلة المهملات إلى إرسال العناصر الفرعية لهذا الموضع أيضًا إلى سلة المهملات.</target>
+        <target state="translated">سيؤدي إرسال '%content%' و%children_count% من عناصر المحتوى التابعة له إلى سلة المهملات إلى نقل العناصر الفرعية لهذا الموضع إليها أيضًا.</target>
         <note>key: trash_container.modal.message_main</note>
       </trans-unit>
       <trans-unit id="ef4df0dede01e561e75568aa128a8092cbbee66a" resname="trash_container.modal.message_relations">
@@ -658,7 +658,7 @@
       </trans-unit>
       <trans-unit id="0ed434897428bef25462fa8751260c74d7233091" resname="ui.component.tab.tabs_toggler.show">
         <source>Show</source>
-        <target state="translated">عرض</target>
+        <target state="translated">إظهار</target>
         <note>key: ui.component.tab.tabs_toggler.show</note>
       </trans-unit>
       <trans-unit id="316f9f0d65ecd76792e8b79bccb094ffd281e7a2" resname="url_wildcard.list.action.create">

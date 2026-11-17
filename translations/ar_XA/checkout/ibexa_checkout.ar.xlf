@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5fa0af8a1ab18baf8a64d23d1382a6403b26a8cd" resname="checkout.error.discounts_have_changed">
         <source>The applied discounts have changed since you started the checkout process. Verify your cart.</source>
-        <target state="translated">تم تغيير التخفيضات المطبقة منذ بدء عملية الانتهاء/الدفع. يرجى التحقق من سلة التسوّق.</target>
+        <target state="translated">تم تغيير الخصومات المطبقة منذ بدء عملية إتمام الشراء. يرجى التحقق من سلة التسوق.</target>
         <note>key: checkout.error.discounts_have_changed</note>
       </trans-unit>
       <trans-unit id="8ef35fe2d50e4733d8dd06d6f3d19640eac38665" resname="ibexa.checkout.address.country">
@@ -153,22 +153,22 @@
       </trans-unit>
       <trans-unit id="9e574ddf7c45801786a8f9d68309f7f13e768def" resname="ibexa_checkout.ui.invalid_cart.part_one">
         <source>At least one of the products has changed since you started the checkout process. To see changes, go back to </source>
-        <target state="translated">تم تغيير منتج واحد على الأقل منذ بدء عملية الانتهاء/الدفع. للاطلاع على التغييرات، عد إلى</target>
+        <target state="translated">تم تغيير منتج واحد على الأقل منذ بدء عملية إتمام الشراء. للاطلاع على التغييرات، عد إلى </target>
         <note>key: ibexa_checkout.ui.invalid_cart.part_one</note>
       </trans-unit>
       <trans-unit id="df40ea72c81bc31434750d54942513a1f902b5d1" resname="ibexa_checkout.ui.invalid_cart.part_two">
         <source>your cart</source>
-        <target state="translated">سلة التسوّق</target>
+        <target state="translated">سلة التسوق</target>
         <note>key: ibexa_checkout.ui.invalid_cart.part_two</note>
       </trans-unit>
       <trans-unit id="6db3fd1d00d5d96b22c912accc889d50f31f1011" resname="ibexa_checkout.ui.invalid_discount.part_one">
         <source>The applied discounts have changed since you started the checkout process. Verify the summary and if needed, go back to </source>
-        <target state="translated">تم تغيير التخفيضات المطبقة منذ بدء عملية الانتهاء/الدفع. تحقق من الملخص وإذا لزم الأمر، عد إلى</target>
+        <target state="translated">تم تغيير الخصومات المطبقة منذ بدء عملية إتمام الشراء. تحقق من الملخص وإذا لزم الأمر، عد إلى </target>
         <note>key: ibexa_checkout.ui.invalid_discount.part_one</note>
       </trans-unit>
       <trans-unit id="036e35001ed2fab42368bc8c6add08efff995d0a" resname="ibexa_checkout.ui.invalid_discount.part_two">
         <source>your cart</source>
-        <target state="translated">سلة التسوّق</target>
+        <target state="translated">سلة التسوق</target>
         <note>key: ibexa_checkout.ui.invalid_discount.part_two</note>
       </trans-unit>
       <trans-unit id="ae6b294686dd2a39861eb0715cb84d826dbe3492" resname="ibexa_checkout.ui.order_thanks">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="f8b8b5ad6d0c1349f5f7a20dd82221bd3c63e88d" resname="ibexa_checkout.ui.price_summary.subtotal">
         <source>Subtotal</source>
-        <target state="translated">الإجمالي الفرعي</target>
+        <target state="translated">المجموع الفرعي</target>
         <note>key: ibexa_checkout.ui.price_summary.subtotal</note>
       </trans-unit>
       <trans-unit id="b6eeaa7924bee9ef5398e053065a0611743a0d9d" resname="ibexa_checkout.ui.price_summary.tax">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="f5759b97f699103c7cb161816292459cb54aba8d" resname="ibexa_checkout.ui.quick_summary.default_label">
         <source>Cart</source>
-        <target state="translated">سلة التسوّق</target>
+        <target state="translated">سلة التسوق</target>
         <note>key: ibexa_checkout.ui.quick_summary.default_label</note>
       </trans-unit>
       <trans-unit id="adf8897d4056cecd7a9ed58339c60cb85db03b5c" resname="ibexa_checkout.ui.quick_summary.edit_cart">

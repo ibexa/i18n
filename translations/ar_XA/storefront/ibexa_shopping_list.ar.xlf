@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="bf5abf588bad854fc78dff96efb255fef503faea" resname="shopping_list.add_to_cart.no_entries_selected">
         <source>Please select at least one item to add to cart</source>
-        <target state="translated">يرجى اختيار عنصر واحد على الأقل لإضافته إلى سلة التسوّق</target>
+        <target state="translated">يرجى اختيار عنصر واحد على الأقل لإضافته إلى سلة التسوق</target>
         <note>key: shopping_list.add_to_cart.no_entries_selected</note>
       </trans-unit>
       <trans-unit id="06cafda04a66d82a27e7b576b231ec8b78ebde57" resname="shopping_lists_list.default.badge">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="e9bed73c4151db50f1bfd19649f94afedefec9d9" resname="shopping_lists_list.shopping_list_limit_reached.message">
         <source>Shopping lists limit reached.</source>
-        <target state="translated">تم الوصول إلى الحد الأقصى لقوائم التسوّق.</target>
+        <target state="translated">تم الوصول إلى الحد الأقصى لقوائم التسوق.</target>
         <note>key: shopping_lists_list.shopping_list_limit_reached.message</note>
       </trans-unit>
     </body>

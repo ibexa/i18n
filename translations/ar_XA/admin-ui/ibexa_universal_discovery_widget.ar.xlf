@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="d32da00d9a92ccbbe0c7e5c9ae7fb8a68491929a" resname="content_table.modified">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: content_table.modified</note>
       </trans-unit>
       <trans-unit id="0e9a03ed22a841aba266eea024921b38ccc22688" resname="content_table.name">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="561bc96ad77fbf519000d0fa5e170d01b10c3de9" resname="filters.clear">
         <source>Clear</source>
-        <target state="translated">حذف/محو</target>
+        <target state="translated">مسح</target>
         <note>key: filters.clear</note>
       </trans-unit>
       <trans-unit id="c229e2e0f497278dd01d57fbefb8839e4449a981" resname="filters.language">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="70241b02d194cfdc379557b7d72c06d9e1af7eba" resname="ibexa_image_asset.title">
         <source>Select Image Asset</source>
-        <target state="translated">اختر أصل الصورة</target>
+        <target state="translated">اختر مورد صورة</target>
         <note>key: ibexa_image_asset.title</note>
       </trans-unit>
       <trans-unit id="7b2eaa0119065cdb6f6fa51245a3aa14bc8fbf55" resname="ibexa_object_relation_list.title.multi">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="954055c80d86d18a4b101c2060e4dd63dd10971f" resname="meta_preview.last_modified">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: meta_preview.last_modified</note>
       </trans-unit>
       <trans-unit id="7035b652193ea7af439a17d02ff8eda8013318ea" resname="meta_preview.preview">
@@ -323,7 +323,7 @@
       </trans-unit>
       <trans-unit id="b358d77d29a6b9869920d03666b1ebf0c13e21d2" resname="search.search_results.clear_btn.label">
         <source>Clear results</source>
-        <target state="translated">حذف النتائج</target>
+        <target state="translated">مسح النتائج</target>
         <note>key: search.search_results.clear_btn.label</note>
       </trans-unit>
       <trans-unit id="3ae249fbdcae8da1215537a7407789511ff8fd3b" resname="search.search_results.in_language">
@@ -358,12 +358,12 @@
       </trans-unit>
       <trans-unit id="78dacf26451435b61bf654b180ceed82022a2c3c" resname="selected_items_panel.item.remove_item">
         <source>Clear selection</source>
-        <target state="translated">حذف التحديد</target>
+        <target state="translated">مسح التحديد</target>
         <note>key: selected_items_panel.item.remove_item</note>
       </trans-unit>
       <trans-unit id="f57171aaa260d58b75c085d5606779e75a97751f" resname="selected_locations.clear_selection">
         <source>Clear selection</source>
-        <target state="translated">حذف التحديد</target>
+        <target state="translated">مسح التحديد</target>
         <note>key: selected_locations.clear_selection</note>
       </trans-unit>
       <trans-unit id="7b84163c8a4215667a4a05bd8f44f25aa5ddc198" resname="selected_locations.collapse.sidebar">
@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="7dad0dfeafd90e145f0e9efff5313d2a6040ba4c" resname="swap.title">
         <source>Select Location to swap with</source>
-        <target state="translated">اختر الموضع للمبادلة</target>
+        <target state="translated">اختر الموضع المراد التبديل معه</target>
         <note>key: swap.title</note>
       </trans-unit>
       <trans-unit id="03cbaa7ecd3e035072635bdac4fda304a14129ae" resname="table.empty_table_body_row.info_text.default">

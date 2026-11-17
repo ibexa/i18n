@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="9a33910bc557829187f2773fd8c9bb64d7b9a468" resname="ibexa.discounts.wizard.count_category_selection">
         <source>Select at least {{ limit }} category|Select at least {{ limit }} categories</source>
-        <target state="translated">يجب اختيار فئة/ صنف واحدة على الأقل ({{ limit }})|يجب اختيار {{ limit }} فئة/ صنف على الأقل</target>
+        <target state="translated">{1}يجب اختيار فئة واحدة على الأقل|{2}يجب اختيار فئتين على الأقل|]2,Inf[يجب اختيار {{ limit }} من الفئات على الأقل</target>
         <note>key: ibexa.discounts.wizard.count_category_selection</note>
       </trans-unit>
       <trans-unit id="ae9a139039fa85401a0d8ffad28ea77196ab6ffa" resname="ibexa.discounts.wizard.count_customer_group_selection">
         <source>Select at least {{ limit }} customer group|Select at least {{ limit }} customer groups</source>
-        <target state="translated">يجب اختيار مجموعة زبائن واحدة على الأقل ({{ limit }})|يجب اختيار {{ limit }} مجموعة زبائن على الأقل</target>
+        <target state="translated">{1}يجب اختيار مجموعة عملاء واحدة على الأقل|{2}يجب اختيار مجموعتي عملاء على الأقل|]2,Inf[يجب اختيار {{ limit }} من مجموعات العملاء على الأقل</target>
         <note>key: ibexa.discounts.wizard.count_customer_group_selection</note>
       </trans-unit>
       <trans-unit id="ba2533dea9219757d8f6691e9997d6ee14d509bb" resname="ibexa.discounts.wizard.count_product_selection">
         <source>Select at least {{ limit }} product|Select at least {{ limit }} products</source>
-        <target state="translated">يجب اختيار منتج واحد على الأقل ({{ limit }})|يجب اختيار {{ limit }} منتجًا على الأقل</target>
+        <target state="translated">{1}يجب اختيار منتج واحد على الأقل|{2}يجب اختيار منتجين على الأقل|]2,Inf[يجب اختيار {{ limit }} من المنتجات على الأقل</target>
         <note>key: ibexa.discounts.wizard.count_product_selection</note>
       </trans-unit>
       <trans-unit id="fe6a0058d4e9f439cba1e020c14dbe2fa0f5858c" resname="ibexa.discounts.wizard.currency_selection_required">
@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="584efa4c97879950f931cc5463b714756fa04bff" resname="validation.discount.discount_identifier_already_exists">
         <source>Discount identifier already exists.</source>
-        <target state="translated">معرّف الترويج موجود بالفعل.</target>
+        <target state="translated">معرّف الخصم موجود بالفعل.</target>
         <note>key: validation.discount.discount_identifier_already_exists</note>
       </trans-unit>
       <trans-unit id="e7e880da2a40dc2a07d41084806db5fab26a6bbd" resname="validation.discount.discount_invalid_rule_type">
         <source>Invalid discount rule type "{{ rule_type }}" for discount type {{ type }}.</source>
-        <target state="translated">نوع قاعدة الترويج "{{ rule_type }}" غير صالح لنوع الترويج {{ type }}.</target>
+        <target state="translated">نوع قاعدة الخصم "{{ rule_type }}" غير صالح لنوع الخصم {{ type }}.</target>
         <note>key: validation.discount.discount_invalid_rule_type</note>
       </trans-unit>
       <trans-unit id="bf8befdfdba2f5cf1e2978d9b755e103475f206b" resname="validation.discount.translation.at_least_one">

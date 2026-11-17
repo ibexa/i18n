@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="d0348762df1838c70a95330d7bf7afbb5eb82343" resname="ibexa.user.invitations.user_exist">
         <source>User with %email% already exists</source>
-        <target state="translated">يوجد مستخدم بعنوان %email% بالفعل</target>
+        <target state="translated">يوجد مستخدم بالبريد الإلكتروني %email% بالفعل</target>
         <note>key: ibexa.user.invitations.user_exist</note>
       </trans-unit>
       <trans-unit id="82ccb764a0c57728622cce47455e8d1aeb5e088c" resname="modal.add_next">
@@ -63,22 +63,22 @@
       </trans-unit>
       <trans-unit id="0a8067f383ddf3e9c308a65b0fcd66bfb1ecd38e" resname="modal.entry_issues.alert.duplicate_emails">
         <source>Duplicated emails (%count%)</source>
-        <target state="translated">رسائل البريد الإلكتروني المكررة (%count%)</target>
+        <target state="translated">عناوين البريد الإلكتروني المكررة (%count%)</target>
         <note>key: modal.entry_issues.alert.duplicate_emails</note>
       </trans-unit>
       <trans-unit id="4734b951ff129b695f738938b60a7f211f5df2ab" resname="modal.entry_issues.alert.empty_emails">
         <source>Empty emails (%count%)</source>
-        <target state="translated">رسائل بريد إلكتروني فارغة (%count%)</target>
+        <target state="translated">عناوين بريد إلكتروني فارغة (%count%)</target>
         <note>key: modal.entry_issues.alert.empty_emails</note>
       </trans-unit>
       <trans-unit id="7b6c1913c1228485af394c170a67e65a7224b9b1" resname="modal.entry_issues.alert.go_to_next">
         <source>Go to next issue</source>
-        <target state="translated">انتقل إلى الخلل التالي</target>
+        <target state="translated">انتقل إلى المشكلة التالية</target>
         <note>key: modal.entry_issues.alert.go_to_next</note>
       </trans-unit>
       <trans-unit id="d41a67a4c6e8826e16ecb3b8e4b5849feae538bf" resname="modal.entry_issues.alert.invalid_emails">
         <source>Invalid emails (%count%)</source>
-        <target state="translated">تنسيقات بريد إلكتروني غير صالحة (%count%)</target>
+        <target state="translated">عناوين بريد إلكتروني غير صالحة (%count%)</target>
         <note>key: modal.entry_issues.alert.invalid_emails</note>
       </trans-unit>
       <trans-unit id="2dd50ad1fdafc2c6099e39dad7ad676293aba3a7" resname="modal.entry_issues.alert.message">

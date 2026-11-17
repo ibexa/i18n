@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="b23c316217ad9eccae26a5b0b51433cc177750e7" resname="ibexa.checkout.validator.discount_has_changed">
         <source>Some of the discounts has changed since the checkout was entered.</source>
-        <target state="translated">بعض التخفيضات تغيرت منذ بدء الانتهاء/الدفع.</target>
+        <target state="translated">تغيّرت بعض الخصومات منذ بدء إتمام الشراء.</target>
         <note>key: ibexa.checkout.validator.discount_has_changed</note>
       </trans-unit>
       <trans-unit id="431995ad0effd3197cca1370076a1425608ed888" resname="ibexa.checkout.validator.product_has_changed">

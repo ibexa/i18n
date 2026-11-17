@@ -23,12 +23,12 @@
       </trans-unit>
       <trans-unit id="756bc6e3581ac09355448d4923e83c019ed3b964" resname="block.schedule.no_items">
         <source>No Content item(s) are displayed in the block</source>
-        <target state="translated">لا يوجد عناصر محتوى معروضة في هذا المكوّن</target>
+        <target state="translated">لا توجد عناصر محتوى معروضة في هذه الكتلة</target>
         <note>key: block.schedule.no_items</note>
       </trans-unit>
       <trans-unit id="695268abcf13ba7cdaa94d5effd5b28448cbf32c" resname="block.schedule.no_items_scheduled">
         <source>No Content item(s) scheduled to display in the block</source>
-        <target state="translated">لا توجد عناصر محتوى مجدولة للعرض في هذا المكوّن</target>
+        <target state="translated">لا توجد عناصر محتوى مجدولة للعرض في هذه الكتلة</target>
         <note>key: block.schedule.no_items_scheduled</note>
       </trans-unit>
       <trans-unit id="09c5180f1ea143dcc29686f8b1e07a71d76be34c" resname="block.schedule.now_showing">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="39c1b98e28909afc6445800e0a0494709f3f6d91" resname="page_builder.block_configuration.reveal">
         <source>Reveal</source>
-        <target state="translated">كشف</target>
+        <target state="translated">إظهار</target>
         <note>key: page_builder.block_configuration.reveal</note>
       </trans-unit>
       <trans-unit id="f1269b6fc5483b2a1528e8b2f1938cc37ab537c2" resname="page_builder.block_configuration.style">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="736317ee24b04dca3922094f41fcec739ad7b83a" resname="tab.scheduler.schedule_visibility">
         <source>Schedule block visibility</source>
-        <target state="translated">جدولة ظهور المكوّن</target>
+        <target state="translated">جدولة ظهور الكتلة</target>
         <note>key: tab.scheduler.schedule_visibility</note>
       </trans-unit>
     </body>

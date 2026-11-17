@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="613eed228674bd8ddd167cd839a27c6eb1a82619" resname="ibexa.order_management.customer.not_existing">
         <source>The requested customer of id "{{ id }}" cannot be found.</source>
-        <target state="translated">لا يمكن العثور على الزبون المطلوب ذو المعرّف "{{ id }}".</target>
+        <target state="translated">لا يمكن العثور على العميل المطلوب ذي المعرّف "{{ id }}".</target>
         <note>key: ibexa.order_management.customer.not_existing</note>
       </trans-unit>
       <trans-unit id="d2edefcf0c1c4ce0a3731f8134bfb767fb6a622b" resname="ibexa.order_management.money_amount.equal_to_or_greater_than_zero">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="5f8e1c00b4763c6f87d308f0c8a25ec68dbd5a6c" resname="ibexa.order_management.product.not_existing">
         <source>The requested product of code "{{ code }}" cannot be found.</source>
-        <target state="translated">لا يمكن العثور على المنتج المطلوب ذو الرمز "{{ code }}".</target>
+        <target state="translated">لا يمكن العثور على المنتج المطلوب ذي الرمز "{{ code }}".</target>
         <note>key: ibexa.order_management.product.not_existing</note>
       </trans-unit>
       <trans-unit id="9abdc0bfa3e7b8e113732d3db154ffa18e4263e7" resname="ibexa.order_management.status.not_allowed_transition">

@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="4846d544dad1052a505923d0c673f66ab6b053cf" resname="application.delete.bulk.submit.label">
         <source>Delete applications</source>
-        <target state="translated">حذف/إزالة/إلغاء الترشيحات</target>
+        <target state="translated">حذف طلبات الانضمام</target>
         <note>key: application.delete.bulk.submit.label</note>
       </trans-unit>
       <trans-unit id="f8810d1bdb15c7a591bd4d79001457bb4c7d1909" resname="application.details.context_menu.edit.label">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="3043d8b4cc653e0eac51e5a941660ed6aadd0a27" resname="application.details.subtitle">
         <source>Application</source>
-        <target state="translated">التطبيق</target>
+        <target state="translated">طلب الانضمام</target>
         <note>key: application.details.subtitle</note>
       </trans-unit>
       <trans-unit id="37a1a9d2a1fc66233bffd17a7d649a8cd8c16a69" resname="application.details.tab.summary.label">
@@ -78,22 +78,22 @@
       </trans-unit>
       <trans-unit id="ad8cebf3cb7423d815ed47e5a89f490a5d2db924" resname="application.edit.success">
         <source>Application '%name%' updated.</source>
-        <target state="translated">تم تحديث التطبيق '%name%'.</target>
+        <target state="translated">تم تحديث طلب الانضمام '%name%'.</target>
         <note>key: application.edit.success</note>
       </trans-unit>
       <trans-unit id="7521acbfe8345c05196de16de88b8100f056b105" resname="application.list.breadcrumbs">
         <source>Applications</source>
-        <target state="translated">الترشيحات</target>
+        <target state="translated">طلبات الانضمام</target>
         <note>key: application.list.breadcrumbs</note>
       </trans-unit>
       <trans-unit id="39ffc65402b5584a02fdf4bfe28b644c9dd846d5" resname="application.list.breadcrumbs.applications">
         <source>Applications</source>
-        <target state="translated">الترشيحات</target>
+        <target state="translated">طلبات الانضمام</target>
         <note>key: application.list.breadcrumbs.applications</note>
       </trans-unit>
       <trans-unit id="ff77aea835cde5bee041cdfb7ef04d9e5f5317ce" resname="application.list.breadcrumbs.members">
         <source>Customers</source>
-        <target state="translated">الزبائن</target>
+        <target state="translated">العملاء</target>
         <note>key: application.list.breadcrumbs.members</note>
       </trans-unit>
       <trans-unit id="17e85bfb65ac28f05e593a6dbda8453b194635da" resname="application.list.table.action.assign.label">
@@ -113,17 +113,17 @@
       </trans-unit>
       <trans-unit id="9f9041bfa1fa1d5b9151620846e1f054d1813194" resname="application.list.table.actions.delete.modal.message">
         <source>Do you want to delete the selected application(s)?</source>
-        <target state="translated">هل تريد حذف/إزالة/إلغاء الترشيح(ات) المحددة؟</target>
+        <target state="translated">هل تريد حذف طلبات الانضمام المحددة؟</target>
         <note>key: application.list.table.actions.delete.modal.message</note>
       </trans-unit>
       <trans-unit id="ca7750dac136ec2c745895c24cf451c4a29f30ab" resname="application.list.table.empty.info">
         <source>There are no applications yet.</source>
-        <target state="translated">لا توجد ترشيحات بعد.</target>
+        <target state="translated">لا توجد طلبات انضمام بعد.</target>
         <note>key: application.list.table.empty.info</note>
       </trans-unit>
       <trans-unit id="c33d9ecbf048ae37c8b68da1a3bf886aec15ddbe" resname="application.list.table.header.contact_email">
         <source>Contact Email</source>
-        <target state="translated">بريد الاتصال الإلكتروني</target>
+        <target state="translated">البريد الإلكتروني للتواصل</target>
         <note>key: application.list.table.header.contact_email</note>
       </trans-unit>
       <trans-unit id="1bf0c36481dc6797912d729027e9b7d255963b5f" resname="application.list.table.header.name">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="3c4ed0ae5b77056c4d1782cd4ae42bce8fe72b45" resname="application.list.title">
         <source>Applications</source>
-        <target state="translated">الترشيحات</target>
+        <target state="translated">طلبات الانضمام</target>
         <note>key: application.list.title</note>
       </trans-unit>
       <trans-unit id="a43022a760d0ec5ed6ef561740779459b5d76680" resname="application.state">
@@ -168,12 +168,12 @@
       </trans-unit>
       <trans-unit id="5f8fc63664f1854b1336ea8abf664910bf6ca604" resname="application.tab.summary.assignments.details.headline">
         <source>Sales Representative and Customer group</source>
-        <target state="translated">مندوب المبيعات ومجموعة الزبائن</target>
+        <target state="translated">مندوب المبيعات ومجموعة العملاء</target>
         <note>key: application.tab.summary.assignments.details.headline</note>
       </trans-unit>
       <trans-unit id="b6901dbc2d4e12e867818031c35aa1b3bdced50c" resname="application.tab.summary.assignments.details.label.customer_group">
         <source>Customer group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: application.tab.summary.assignments.details.label.customer_group</note>
       </trans-unit>
       <trans-unit id="6777109aa3ae8db8cb81ad7330fc91eec7774320" resname="application.tab.summary.assignments.details.label.sales_rep">
@@ -228,12 +228,12 @@
       </trans-unit>
       <trans-unit id="cb6dd2fc863adb9c38731a4c9eb9c5bc94a756f9" resname="application.workflow.extra_actions.approve.customer_group">
         <source>Select Customer group</source>
-        <target state="translated">اختر مجموعة زبائن</target>
+        <target state="translated">اختر مجموعة عملاء</target>
         <note>key: application.workflow.extra_actions.approve.customer_group</note>
       </trans-unit>
       <trans-unit id="49b1112b14d8cfbb6be8c2027f1c9f15a5c5dfda" resname="application.workflow.extra_actions.approve.title">
         <source>Approving application</source>
-        <target state="translated">جاري الموافقة على الترشيح</target>
+        <target state="translated">جاري الموافقة على طلب الانضمام</target>
         <note>key: application.workflow.extra_actions.approve.title</note>
       </trans-unit>
       <trans-unit id="7b11e36fcc1489fe9dc3548b6cfc83deaaf736eb" resname="application.workflow.extra_actions.cancel_btn.label">
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="2e440a10d67c7e74fb78fa2c197ee4a2c55a61a3" resname="application.workflow.extra_actions.on_hold.title">
         <source>Holding on application</source>
-        <target state="translated">جاري تعليق الترشيح</target>
+        <target state="translated">جاري تعليق طلب الانضمام</target>
         <note>key: application.workflow.extra_actions.on_hold.title</note>
       </trans-unit>
       <trans-unit id="e32bd82784aeeb5f6f25a8d28ae00288595676fd" resname="application.workflow.extra_actions.reason">
@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="141135f7d86a61a9af89ba66f89a81e06e094a84" resname="application.workflow.extra_actions.reject.title">
         <source>Rejecting application</source>
-        <target state="translated">جاري رفض الترشيح</target>
+        <target state="translated">جاري رفض طلب الانضمام</target>
         <note>key: application.workflow.extra_actions.reject.title</note>
       </trans-unit>
       <trans-unit id="1fda2485755270b930fb0b950f9cbb643bb0182b" resname="application.workflow.extra_actions.sales_rep">
@@ -358,7 +358,7 @@
       </trans-unit>
       <trans-unit id="ee0a0ef9266893d288b7d02672edf10121aa294a" resname="company.details.tab.company_profile.basic_information.customer_group">
         <source>Customer Group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: company.details.tab.company_profile.basic_information.customer_group</note>
       </trans-unit>
       <trans-unit id="e9575ba42fd1424616ee8647024e3bfb5069749c" resname="company.details.tab.company_profile.basic_information.headline">
@@ -398,7 +398,7 @@
       </trans-unit>
       <trans-unit id="db173cad4d89dfde98ec4ab5259af2b09d49eb77" resname="company.details.tab.company_profile.contact.headline">
         <source>Contact person</source>
-        <target state="translated">شخص الاتصال</target>
+        <target state="translated">الشخص المسؤول عن التواصل</target>
         <note>key: company.details.tab.company_profile.contact.headline</note>
       </trans-unit>
       <trans-unit id="8756d5ae89840b6588a98e558f5d5ef8cd6e05d4" resname="company.details.tab.company_profile.contact.name">
@@ -443,7 +443,7 @@
       </trans-unit>
       <trans-unit id="0d007b76e0d8cac6cd395c063d1d6a9116389b81" resname="company.details.tab.summary.basic_information.location">
         <source>Location</source>
-        <target state="translated">موضع</target>
+        <target state="translated">الموقع</target>
         <note>key: company.details.tab.summary.basic_information.location</note>
       </trans-unit>
       <trans-unit id="655d2298a12267e20817f4eae10dacbff065bb21" resname="company.details.tab.summary.basic_information.sales_rep">
@@ -553,7 +553,7 @@
       </trans-unit>
       <trans-unit id="ff5d58ed54d2cc51b60ae41e8eebb4ca43d947d5" resname="company.list.breadcrumbs.members">
         <source>Customers</source>
-        <target state="translated">زبائن</target>
+        <target state="translated">العملاء</target>
         <note>key: company.list.breadcrumbs.members</note>
       </trans-unit>
       <trans-unit id="2ec8496232ce82dd8a9ffaed4918a6b10e187527" resname="company.list.create">
@@ -573,7 +573,7 @@
       </trans-unit>
       <trans-unit id="9eae5288fc852cb7581eda51f29076c976d622b5" resname="company.list.no_customer_groups.action_text">
         <source>To create a company, you need to have at least one customer group.</source>
-        <target state="translated">لإنشاء شركة، يجب أن يكون لديك مجموعة زبائن واحدة على الأقل.</target>
+        <target state="translated">لإنشاء شركة، يجب أن يكون لديك مجموعة عملاء واحدة على الأقل.</target>
         <note>key: company.list.no_customer_groups.action_text</note>
       </trans-unit>
       <trans-unit id="b0c0032bee0a75813aedecf8d1afc98cae8c19d7" resname="company.list.no_customer_groups.info_text">
@@ -583,7 +583,7 @@
       </trans-unit>
       <trans-unit id="671c1a5bc1d75acf8662c0705c019459255b7f35" resname="company.list.no_customer_groups.link_label">
         <source>Go to customer groups</source>
-        <target state="translated">الانتقال إلى مجموعات الزبائن</target>
+        <target state="translated">انتقل إلى مجموعات العملاء</target>
         <note>key: company.list.no_customer_groups.link_label</note>
       </trans-unit>
       <trans-unit id="5ebe07f802a8ac8402d2d67f2d4dc003ee3ca6f3" resname="company.list.table.action.activate.label">
@@ -608,7 +608,7 @@
       </trans-unit>
       <trans-unit id="c65a4f80a18f3e7d5d03d97135323d986e48f2e5" resname="company.list.table.header.customer_group">
         <source>Customer Group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: company.list.table.header.customer_group</note>
       </trans-unit>
       <trans-unit id="e3b910aa820b0f570c0cb79e96c867c2acafc758" resname="company.list.table.header.name">
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="27446f276c3d85f5329b0dcba1393bf62d2b587e" resname="corporate_account.company_search.customer_group.label">
         <source>Customer group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: corporate_account.company_search.customer_group.label</note>
       </trans-unit>
       <trans-unit id="78d0016b1f0a7e6c429bcfe4f3fa77d1c25bb852" resname="corporate_account.company_search.status.choice.active">
@@ -673,7 +673,7 @@
       </trans-unit>
       <trans-unit id="69f523a3045b21fa3b0e19ef811f2bf72a888c59" resname="corporate_account.individual_search.customer_group.label">
         <source>Customer group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: corporate_account.individual_search.customer_group.label</note>
       </trans-unit>
       <trans-unit id="129a602ad1c100150eeb8e0f42baf214211dcbc1" resname="corporate_account.individual_search.status.choice.active">
@@ -738,7 +738,7 @@
       </trans-unit>
       <trans-unit id="326bdebfa0b6b3a9a4ec7b93fd328df395d53551" resname="individual.list.breadcrumbs">
         <source>Clients</source>
-        <target state="translated">زبائن</target>
+        <target state="translated">العملاء</target>
         <note>key: individual.list.breadcrumbs</note>
       </trans-unit>
       <trans-unit id="c2251ea6f675f9591be47958ef7df7769b38c6c8" resname="individual.list.edit.title">
@@ -753,12 +753,12 @@
       </trans-unit>
       <trans-unit id="9d598cd7470834b5cffa64e00e0ae6a73fecf7b4" resname="individual.list.table.customer_group">
         <source>Customer Group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: individual.list.table.customer_group</note>
       </trans-unit>
       <trans-unit id="0bb54244bb9de1805c6e51e50dc48d3c21e01ba2" resname="individual.list.table.empty">
         <source>Clients list is empty</source>
-        <target state="translated">قائمة الزبائن فارغة</target>
+        <target state="translated">قائمة العملاء فارغة</target>
         <note>key: individual.list.table.empty</note>
       </trans-unit>
       <trans-unit id="51144bcba98929e2570babdb721e512026183a83" resname="individual.list.table.name">
@@ -783,7 +783,7 @@
       </trans-unit>
       <trans-unit id="76e5bc67f21662288ce539192b51282267023cb2" resname="individual.list.title">
         <source>Clients</source>
-        <target state="translated">زبائن</target>
+        <target state="translated">العملاء</target>
         <note>key: individual.list.title</note>
       </trans-unit>
       <trans-unit id="ab34a68619ee2345e9eed68aef18670c7f5a6c1c" resname="invite_members.modal.email_address">
@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="f13eb5859f13791aed242ee640ef3a762df6317b" resname="members">
         <source>Customers</source>
-        <target state="translated">زبائن</target>
+        <target state="translated">العملاء</target>
         <note>key: members</note>
       </trans-unit>
       <trans-unit id="d1de2e96fb344ce3f77e7305175de0c438525031" resname="modal.user_status_change.note.activate">
@@ -883,7 +883,7 @@
       </trans-unit>
       <trans-unit id="0d62749863987c8f20db3b04774814b8e64d91a9" resname="orders.table.empty.action">
         <source>Check currencies configuration for SiteAccess</source>
-        <target state="translated">تحقق من إعدادات العملات لوصول الموقع /SiteAccess</target>
+        <target state="translated">تحقق من إعدادات العملات الخاصة بـ SiteAccess</target>
         <note>key: orders.table.empty.action</note>
       </trans-unit>
       <trans-unit id="a7a38016d2e085290addea0d2e7a500a50da6eb1" resname="orders.table.empty.info">
@@ -898,7 +898,7 @@
       </trans-unit>
       <trans-unit id="d3091c2eff6debdad58736440276dc074e4ee7be" resname="orders.table.header.customer_name">
         <source>Customer name</source>
-        <target state="translated">اسم الزبون</target>
+        <target state="translated">اسم العميل</target>
         <note>key: orders.table.header.customer_name</note>
       </trans-unit>
       <trans-unit id="1481293a5d223b5e1325fa5a9989f424cdb681cf" resname="orders.table.header.identifier">
@@ -1068,7 +1068,7 @@
       </trans-unit>
       <trans-unit id="f8dfed4e7c22e0ffb806e4afb4f00775eac236a8" resname="table.members.action.deactivate">
         <source>De-activate</source>
-        <target state="translated">تعطيل</target>
+        <target state="translated">إلغاء التفعيل</target>
         <note>key: table.members.action.deactivate</note>
       </trans-unit>
       <trans-unit id="879f52f48fadb8069421aaf4b55ebb7fee8ecad3" resname="table.members.actions.edit.title">
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="e5292df3924681f6d3ce4ced41b74d6e08be6741" resname="table.members.status.deactivated.label">
         <source>De-activated</source>
-        <target state="translated">معطّل</target>
+        <target state="translated">غير نشط</target>
         <note>key: table.members.status.deactivated.label</note>
       </trans-unit>
       <trans-unit id="ae9f7991496a89ee081b830888787eb4ec69511c" resname="user.change_role_modal.canbel_btn.label">
@@ -1133,7 +1133,7 @@
       </trans-unit>
       <trans-unit id="ce9ba92b3ba14bab3daab407d192bcb5f13d47f9" resname="user.status_change.confirmation_modal.deactivate">
         <source>De-activate</source>
-        <target state="translated">تعطيل</target>
+        <target state="translated">إلغاء التفعيل</target>
         <note>key: user.status_change.confirmation_modal.deactivate</note>
       </trans-unit>
     </body>

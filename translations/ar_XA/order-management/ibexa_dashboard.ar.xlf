@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="2fa317f2c7e0a42c1daeabfb43ffaef02e6c087e" resname="block.recent_order.column.customer_name">
         <source>Customer name</source>
-        <target state="translated">اسم الزبون</target>
+        <target state="translated">اسم العميل</target>
         <note>key: block.recent_order.column.customer_name</note>
       </trans-unit>
       <trans-unit id="b0440186a3370687fe069fd916b433545ecca12b" resname="block.recent_order.column.id">

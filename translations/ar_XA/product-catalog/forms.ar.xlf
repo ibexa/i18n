@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="517e3666a759ee26e02fcc468446ef39b3ae9bf0" resname="role.policy.catalog">
         <source>Catalog</source>
-        <target state="translated">قائِمَة/الكتالوج</target>
+        <target state="translated">الكتالوج</target>
         <note>key: role.policy.catalog</note>
       </trans-unit>
       <trans-unit id="f0db798b7ae5b93b395d0f688ea80784faddcd6b" resname="role.policy.catalog.all_functions">
         <source>Catalog / All functions</source>
-        <target state="translated">قائِمَة/الكتالوج / جميع الوظائف</target>
+        <target state="translated">الكتالوج / جميع الوظائف</target>
         <note>key: role.policy.catalog.all_functions</note>
       </trans-unit>
       <trans-unit id="9bab6251a421ba09e54114cd858abdc9a2a59f55" resname="role.policy.catalog.create">
         <source>Catalog / Create</source>
-        <target state="translated">قائِمَة/الكتالوج / إنشاء</target>
+        <target state="translated">الكتالوج / إنشاء</target>
         <note>key: role.policy.catalog.create</note>
       </trans-unit>
       <trans-unit id="6844731afb7e5c4fc7414f157749ca064a82d798" resname="role.policy.catalog.delete">
         <source>Catalog / Delete</source>
-        <target state="translated">قائِمَة/الكتالوج / حذف</target>
+        <target state="translated">الكتالوج / حذف</target>
         <note>key: role.policy.catalog.delete</note>
       </trans-unit>
       <trans-unit id="f3f6d817abf52411d94909850040df8aebaf2c03" resname="role.policy.catalog.edit">
         <source>Catalog / Edit</source>
-        <target state="translated">قائِمَة/الكتالوج / تعديل</target>
+        <target state="translated">الكتالوج / تعديل</target>
         <note>key: role.policy.catalog.edit</note>
       </trans-unit>
       <trans-unit id="d9ced925ac206beb427c609d73e8adefb43346fb" resname="role.policy.catalog.view">
         <source>Catalog / View</source>
-        <target state="translated">قائِمَة/الكتالوج / عرض</target>
+        <target state="translated">الكتالوج / عرض</target>
         <note>key: role.policy.catalog.view</note>
       </trans-unit>
       <trans-unit id="3551d9a7a066b2a0941f244fa91f766c089fd063" resname="role.policy.commerce">
@@ -58,32 +58,32 @@
       </trans-unit>
       <trans-unit id="db177b099d9b5b0999743c67123b420af739ada4" resname="role.policy.customer_group">
         <source>Customer Group</source>
-        <target state="translated">مجموعة زبائن</target>
+        <target state="translated">مجموعة العملاء</target>
         <note>key: role.policy.customer_group</note>
       </trans-unit>
       <trans-unit id="6d2cde60346839f94de083cfc7937e437d85d726" resname="role.policy.customer_group.all_functions">
         <source>Customer Group / All functions</source>
-        <target state="translated">مجموعة زبائن / جميع الوظائف</target>
+        <target state="translated">مجموعة العملاء / جميع الوظائف</target>
         <note>key: role.policy.customer_group.all_functions</note>
       </trans-unit>
       <trans-unit id="cedd0dc3d0fc2e8b92452b2d3dd0349d945d6896" resname="role.policy.customer_group.create">
         <source>Customer Group / Create</source>
-        <target state="translated">مجموعة زبائن / إنشاء</target>
+        <target state="translated">مجموعة العملاء / إنشاء</target>
         <note>key: role.policy.customer_group.create</note>
       </trans-unit>
       <trans-unit id="aa3d667594c6ada5d00ac8577d8956bff773f5bd" resname="role.policy.customer_group.delete">
         <source>Customer Group / Delete</source>
-        <target state="translated">مجموعة زبائن / حذف</target>
+        <target state="translated">مجموعة العملاء / حذف</target>
         <note>key: role.policy.customer_group.delete</note>
       </trans-unit>
       <trans-unit id="77103c77012fbfb57e2f042714bcc8641e51c67c" resname="role.policy.customer_group.edit">
         <source>Customer Group / Edit</source>
-        <target state="translated">مجموعة زبائن / تعديل</target>
+        <target state="translated">مجموعة العملاء / تعديل</target>
         <note>key: role.policy.customer_group.edit</note>
       </trans-unit>
       <trans-unit id="24d592ca917cb069849dd655cf9c48293bb7e3c1" resname="role.policy.customer_group.view">
         <source>Customer Group / View</source>
-        <target state="translated">مجموعة زبائن / عرض</target>
+        <target state="translated">مجموعة العملاء / عرض</target>
         <note>key: role.policy.customer_group.view</note>
       </trans-unit>
       <trans-unit id="f8af6833d99ffb0184d98ec0a984fa3229693af4" resname="role.policy.product">

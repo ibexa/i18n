@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
         <source>Last modified</source>
-        <target state="translated">تم تعديله آخر مرة</target>
+        <target state="translated">آخر تعديل</target>
         <note>key: search.last.modified</note>
       </trans-unit>
       <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: search.modified</note>
       </trans-unit>
       <trans-unit id="6fc6d2e87716ae8feb2ff4536efa8c9db0904509" resname="search.name">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
         <source>Some helpful search tips:</source>
-        <target state="translated">ترتيب حسب تاريخ التعديل (الأقدم)</target>
+        <target state="translated">بعض نصائح البحث المفيدة:</target>
         <note>key: search.tips.headline</note>
       </trans-unit>
       <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
@@ -113,12 +113,12 @@
       </trans-unit>
       <trans-unit id="fa5761c7de14d55bfe7d064dbed7b0414618d0ee" resname="sort_definition.date_modified_asc.label">
         <source>Sort by modification date (Oldest)</source>
-        <target state="translated">ترتيب حسب تاريخ التعديل (الأحدث)</target>
+        <target state="translated">ترتيب حسب تاريخ التعديل (الأقدم)</target>
         <note>key: sort_definition.date_modified_asc.label</note>
       </trans-unit>
       <trans-unit id="d347942d7df28fc0e37401cc6a4466647d5522bd" resname="sort_definition.date_modified_desc.label">
         <source>Sort by modification date (Newest)</source>
-        <target state="translated">بعض نصائح البحث المفيدة:</target>
+        <target state="translated">ترتيب حسب تاريخ التعديل (الأحدث)</target>
         <note>key: sort_definition.date_modified_desc.label</note>
       </trans-unit>
       <trans-unit id="9bdd88504463f9d98eb8c8ba59275d1004ce7c77" resname="sort_definition.date_published_asc.label">

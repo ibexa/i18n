@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="7f616359fa64ad9a44aba2d7eeebfde7aac7f16f" resname="location.copy.success">
         <source>'%name%' copied to '%location%'</source>
-        <target state="translated">'%name%' تم نسخه إلى '%location%'</target>
+        <target state="translated">تم نسخ '%name%' إلى '%location%'</target>
         <note>key: location.copy.success</note>
       </trans-unit>
       <trans-unit id="656c4be212bdf722670400927051cb39593938a5" resname="location.copy_subtree.success">
@@ -38,17 +38,17 @@
       </trans-unit>
       <trans-unit id="9d5d2fb830ae5b1806bcb908c01f115c93de4eda" resname="location.move.success">
         <source>'%name%' moved to '%location%'</source>
-        <target state="translated">'%name%' تم نقله إلى '%location%'</target>
+        <target state="translated">تم نقل '%name%' إلى '%location%'</target>
         <note>key: location.move.success</note>
       </trans-unit>
       <trans-unit id="20dae8cf8c7cf8972d802224728554706e2b4699" resname="location.swap.success">
         <source>Location '%name%' swapped with Location '%location%'</source>
-        <target state="translated">تم تبديل الموضع '%name%' مع الموضع '%location%'</target>
+        <target state="translated">تم تبديل الموضع '%name%' بالموضع '%location%'</target>
         <note>key: location.swap.success</note>
       </trans-unit>
       <trans-unit id="48699e3e0320623a7ac78df3b808f6341dd7d4c3" resname="location.trash.success">
         <source>Location '%name%' moved to Trash.</source>
-        <target state="translated">تم نقل الموضع '%name%' إلى سلة المحذوفات.</target>
+        <target state="translated">تم نقل الموضع '%name%' إلى سلة المهملات.</target>
         <note>key: location.trash.success</note>
       </trans-unit>
       <trans-unit id="d42824d95700bfdb3f95a6c408be1cab227988f5" resname="location.update.success">

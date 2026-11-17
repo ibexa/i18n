@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="65394eb1daf45a8f9985b143db3532446e5999d8" resname="policy.limitation.identifier.discountowner">
         <source>Discount Owner</source>
-        <target state="translated">مالك الترويج</target>
+        <target state="translated">مالك الخصم</target>
         <note>key: policy.limitation.identifier.discountowner</note>
       </trans-unit>
     </body>

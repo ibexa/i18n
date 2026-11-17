@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
         <source>You do not have permissions for '%function%' '%module%' for content ID: %contentId%</source>
-        <target state="translated">ليس لديك الصلاحيات لـ "%function%" "%module%" لعنصر المحتوى ذو المعرّف: %contentId%</target>
+        <target state="translated">ليس لديك الصلاحيات لـ "%function%" "%module%" لعنصر المحتوى ذي المعرّف: %contentId%</target>
         <note>key: dashboard.table.draft.unauthorized</note>
       </trans-unit>
       <trans-unit id="f261167093447f7940efd1484b40e362028a728c" resname="drafts.list">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="7e9e5a5a2374b6f20dd6ffc35334073627778d62" resname="drafts.list.action.remove.confirmation.text">
         <source>Are you sure you want to permanently delete the selected draft(s)?</source>
-        <target state="translated">هل أنت متأكد أنك تريد حذف المسودة (المسودات) المحددة نهائيًا؟</target>
+        <target state="translated">هل أنت متأكد أنك تريد حذف المسودات المحددة نهائيًا؟</target>
         <note>key: drafts.list.action.remove.confirmation.text</note>
       </trans-unit>
       <trans-unit id="61be4cf21a9d454b832543ae2ecb5b2b10f94583" resname="drafts.list.action.remove.confirmation.title">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="3cdd0ca8cb41c22f9120de646cc5734f7cad7ffb" resname="drafts.list.last_saved">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: drafts.list.last_saved</note>
       </trans-unit>
       <trans-unit id="8c65a0cd673fa4c18f7e730f672579ed65debd3c" resname="drafts.list.modified_language">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: drafts.list.modified_language</note>
       </trans-unit>
       <trans-unit id="575dff6addd6d92ef7e8699d89b21cba7915ad7c" resname="drafts.list.name">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="b107e8277d2dda6c41872a6478d99abbe9b46dc0" resname="trash.modal.send_to_trash_draft_warning.message">
         <source>Sending this content item to Trash will also delete all drafts of content items that haven’t been published yet, and belong to the trashed subtree.</source>
-        <target state="translated">إرسال عنصر المحتوى هذا إلى سلة المحذوفات سيؤدي أيضًا إلى حذف جميع المسودات لعنصر المحتوى التي لم تُنشر بعد، وتنتمي إلى الفرع المحذوف.</target>
+        <target state="translated">إرسال عنصر المحتوى هذا إلى سلة المهملات سيؤدي أيضًا إلى حذف جميع مسودات عناصر المحتوى التي لم تُنشر بعد، والتي تنتمي إلى الشجرة الفرعية المحذوفة.</target>
         <note>key: trash.modal.send_to_trash_draft_warning.message</note>
       </trans-unit>
     </body>

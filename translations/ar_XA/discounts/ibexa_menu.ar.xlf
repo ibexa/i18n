@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="f71bb2e7ff268832def29be34c3249c33f577a3b" resname="menu.discounts">
         <source>Discounts</source>
-        <target state="translated">تخفيضات السعر</target>
+        <target state="translated">الخصومات</target>
         <note>key: menu.discounts</note>
       </trans-unit>
     </body>

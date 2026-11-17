@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="d47696ce7c0ed48fb2dfb515808900465750eadb" resname="ibexa.notifications.search_form.clear">
         <source>Clear</source>
-        <target state="translated">حذف/محو</target>
+        <target state="translated">مسح</target>
         <note>key: ibexa.notifications.search_form.clear</note>
       </trans-unit>
       <trans-unit id="14ea9cf512e3c70a2713feb95826fbbe0e623c7f" resname="ibexa.notifications.search_form.label.date_and_time">
@@ -133,12 +133,12 @@
       </trans-unit>
       <trans-unit id="dda5c8f76779648fe17e298aaae2ea426df3f85e" resname="notification.trashed">
         <source>Sent to Trash</source>
-        <target state="translated">تم الإرسال إلى المهملات</target>
+        <target state="translated">تم الإرسال إلى سلة المهملات</target>
         <note>key: notification.trashed</note>
       </trans-unit>
       <trans-unit id="d643e1117bad8f0bac7d8b158f54e2109ea1f482" resname="notification.trashed.info">
         <source>moved to Trash</source>
-        <target state="translated">تم النقل إلى المهملات</target>
+        <target state="translated">تم النقل إلى سلة المهملات</target>
         <note>key: notification.trashed.info</note>
       </trans-unit>
       <trans-unit id="f5bf4310647081193250ff28773cf5f4880a0fe2" resname="notification.unread">
@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="197c779af24202f663e5ade4f0b56702df3750a8" resname="notifications.list.action.remove.confirmation.text">
         <source>Are you sure you want to permanently delete the selected notification(s)?</source>
-        <target state="translated">هل أنت متأكد أنك تريد حذف الإشعار(ات) المحدد(ة) نهائيًا؟</target>
+        <target state="translated">هل أنت متأكد أنك تريد حذف الإشعارات المحددة نهائيًا؟</target>
         <note>key: notifications.list.action.remove.confirmation.text</note>
       </trans-unit>
       <trans-unit id="05b456539a9866744a3469d40b20bf4df9c4d8a8" resname="notifications.list.empty">

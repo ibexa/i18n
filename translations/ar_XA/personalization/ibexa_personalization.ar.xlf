@@ -568,7 +568,7 @@
       </trans-unit>
       <trans-unit id="41af10423a07bc1202ed5872f1811ae962a60f54" resname="models.description._todelete_top_selling">
         <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل الشراء الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل شراء مرجّح</target>
         <note>key: models.description._todelete_top_selling</note>
       </trans-unit>
       <trans-unit id="5a6aec6b3022fc799ba1272fd14aa9c6efd3a671" resname="models.description._todelete_ultimately_bought">
@@ -718,7 +718,7 @@
       </trans-unit>
       <trans-unit id="bf69d8cb8e241f26436ad5094471b0fe74f6402e" resname="models.description.also_similar_rated">
         <source>Items that were similarly rated by users.</source>
-        <target state="translated">عناصر تم تقييمها بشكل مشابه من قبل المستخدمين.</target>
+        <target state="translated">عناصر قيّمها المستخدمون بشكل مماثل.</target>
         <note>key: models.description.also_similar_rated</note>
       </trans-unit>
       <trans-unit id="c45f6e31eb68964398b5b2623405534e3a5acf2f" resname="models.description.alternative">
@@ -728,17 +728,17 @@
       </trans-unit>
       <trans-unit id="2ea83319a10c680dc990ce385856737319975abe" resname="models.description.b2b_last_clicked">
         <source>Model shows which items were recently clicked for a particular segment group of a company.</source>
-        <target state="translated">يعرض النموذج العناصر التي تم النقر عليها مؤخرًا لمجموعة شرائح معينة من شركة.</target>
+        <target state="translated">يعرض النموذج العناصر التي نُقر عليها مؤخرًا ضمن مجموعة شرائح معينة تابعة للشركة.</target>
         <note>key: models.description.b2b_last_clicked</note>
       </trans-unit>
       <trans-unit id="c574cc47d8f96920c5979e5bfc0a037033282333" resname="models.description.b2b_last_purchased">
         <source>Model shows which items were recently purchased for a particular segment group of a company.</source>
-        <target state="translated">يعرض النموذج العناصر التي تم شراؤها مؤخرًا لمجموعة شرائح معينة من شركة.</target>
+        <target state="translated">يعرض النموذج العناصر التي اشتُريت مؤخرًا ضمن مجموعة شرائح معينة تابعة للشركة.</target>
         <note>key: models.description.b2b_last_purchased</note>
       </trans-unit>
       <trans-unit id="d6c33328fc530976332ac1fdae463228ca6aaaab" resname="models.description.basket_history">
         <source>Shows the customer what they added to the basket in the past</source>
-        <target state="translated">يعرض للزبون ما أضافه إلى السلة في السابق</target>
+        <target state="translated">يعرض للعميل ما أضافه إلى السلة في السابق</target>
         <note>key: models.description.basket_history</note>
       </trans-unit>
       <trans-unit id="e01d62b3be728bf8efb96f124c036a9ca9805e7d" resname="models.description.bundle0">
@@ -798,7 +798,7 @@
       </trans-unit>
       <trans-unit id="c10da65b6497a52621ad9da6c7739515439f4847" resname="models.description.click_after_consumed">
         <source>User who clicked on this content (article, image, etc), immediately after consumed the following content</source>
-        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقال، صورة، إلخ)، استهلك مباشرة المحتوى التالي</target>
+        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقال، صورة، إلخ)، استهلك مباشرةً بعد ذلك المحتوى التالي</target>
         <note>key: models.description.click_after_consumed</note>
       </trans-unit>
       <trans-unit id="425edef060b7427ff889109c06f4d08f004dfb41" resname="models.description.click_to_purchased">
@@ -808,12 +808,12 @@
       </trans-unit>
       <trans-unit id="37c02def82fbf07fa1b7fa3dacd14fbb78edcd48" resname="models.description.consume2consume">
         <source>User who consumed this content(read article, view image, etc.), also consumed the following content</source>
-        <target state="translated">المستخدم الذي استهلك هذا المحتوى (قراءة مقال، مشاهدة صورة، إلخ)، استهلك أيضًا المحتوى التالي</target>
+        <target state="translated">المستخدم الذي استهلك هذا المحتوى (قرأ مقالًا، شاهد صورة، إلخ)، استهلك أيضًا المحتوى التالي</target>
         <note>key: models.description.consume2consume</note>
       </trans-unit>
       <trans-unit id="8d590e51a9722fc7387c6ff23c94a49657946a8f" resname="models.description.custom_model">
         <source>Items that were similarly rated by users.</source>
-        <target state="translated">عناصر تم تقييمها بشكل مشابه من قبل المستخدمين.</target>
+        <target state="translated">عناصر قيّمها المستخدمون بشكل مماثل.</target>
         <note>key: models.description.custom_model</note>
       </trans-unit>
       <trans-unit id="a0d0050516178a8998505d041b2f0002b4150db3" resname="models.description.e1">
@@ -943,52 +943,52 @@
       </trans-unit>
       <trans-unit id="f361eff8b87c20d5b8bde28b474caffa89ddfe57" resname="models.description.editorial_list_related">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.editorial_list_related</note>
       </trans-unit>
       <trans-unit id="6185b69fbab04c58ffa728a0558c0a12806fde39" resname="models.description.editorial_list_tilbudstorget">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.editorial_list_tilbudstorget</note>
       </trans-unit>
       <trans-unit id="b978c87f763cb2538b9c8f81cadfab4e9e9b478a" resname="models.description.editorial_list_toppti">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.editorial_list_toppti</note>
       </trans-unit>
       <trans-unit id="1ab10b1b003bcc277793fd99354676f88620036f" resname="models.description.editorial_list_upselling">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.editorial_list_upselling</note>
       </trans-unit>
       <trans-unit id="4e27f4f0e75069ea480c4f3b1e3daff4a8b93c7a" resname="models.description.el_articles">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.el_articles</note>
       </trans-unit>
       <trans-unit id="6d59943e1f85dbbfb3b1943478396924525be1da" resname="models.description.el_blogposts">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.el_blogposts</note>
       </trans-unit>
       <trans-unit id="3c9d9686ca7f81d85beb5883cc686867afd162f1" resname="models.description.el_personalized">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.el_personalized</note>
       </trans-unit>
       <trans-unit id="5e06f29ebc6ca0377ba6dce02036fa30c6397908" resname="models.description.el_places">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.el_places</note>
       </trans-unit>
       <trans-unit id="2a0a5202653e1f10d649960c786ac464a0343a2e" resname="models.description.el_products">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.el_products</note>
       </trans-unit>
       <trans-unit id="28c45f4d3f2a7f07b37e5394097c0d3c09124e29" resname="models.description.girlmerry">
         <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
-        <target state="translated">المستخدم الذي نقر على هذا العنصر (مقال، صورة، إلخ) نقر أيضًا على العناصر التالية</target>
+        <target state="translated">المستخدم الذي نقر على هذا العنصر (مقال، صورة، إلخ)، نقر أيضًا على العناصر التالية</target>
         <note>key: models.description.girlmerry</note>
       </trans-unit>
       <trans-unit id="130019dde92c705b448fa7ea060492c052e7d9b2" resname="models.description.history">
@@ -998,22 +998,22 @@
       </trans-unit>
       <trans-unit id="fa2764090af559af2702f4ed42813268d77c8a06" resname="models.description.history_blacklist">
         <source>history_blacklist</source>
-        <target state="translated">قائمة الحظر للسجل</target>
+        <target state="translated">history_blacklist</target>
         <note>key: models.description.history_blacklist</note>
       </trans-unit>
       <trans-unit id="45cd67d16730fd4a157f475f94d67aa1742f11a2" resname="models.description.history_buy">
         <source>history_buy</source>
-        <target state="translated">سجل الشراء</target>
+        <target state="translated">history_buy</target>
         <note>key: models.description.history_buy</note>
       </trans-unit>
       <trans-unit id="345d745865a6be7a03877df26959c2e3e3075157" resname="models.description.history_clicked">
         <source>Show the customer what he already viewed</source>
-        <target state="translated">عرض للزبون ما شاهده مسبقًا</target>
+        <target state="translated">يعرض للعميل ما شاهده مسبقًا</target>
         <note>key: models.description.history_clicked</note>
       </trans-unit>
       <trans-unit id="0e6c94bb149876e0bb1b132fd72fb819f872ea68" resname="models.description.history_clicked1">
         <source>history_clicked1</source>
-        <target state="translated">سجل النقرات 1</target>
+        <target state="translated">history_clicked1</target>
         <note>key: models.description.history_clicked1</note>
       </trans-unit>
       <trans-unit id="859ac09043a9552f4639f374f7250d50377bd0fe" resname="models.description.history_clicked_in_period">
@@ -1023,17 +1023,17 @@
       </trans-unit>
       <trans-unit id="59cfbff87f6cf541400e1ff25a8a7cd02d52bddf" resname="models.description.history_consumed">
         <source>history_consumed</source>
-        <target state="translated">سجل الاستهلاك</target>
+        <target state="translated">history_consumed</target>
         <note>key: models.description.history_consumed</note>
       </trans-unit>
       <trans-unit id="8c8f811bf9c1299cb239ce033f7a331507f6e7c2" resname="models.description.history_purchased">
         <source>history_purchased</source>
-        <target state="translated">سجل المشتريات</target>
+        <target state="translated">history_purchased</target>
         <note>key: models.description.history_purchased</note>
       </trans-unit>
       <trans-unit id="3ade620adb52a4d1ed6619769b2e45d8b6c1fa63" resname="models.description.history_purchased_in_period">
         <source>Shows the customer what they already purchased.</source>
-        <target state="translated">يعرض للزبون ما قام بشرائه مسبقًا.</target>
+        <target state="translated">يعرض للعميل ما اشتراه مسبقًا.</target>
         <note>key: models.description.history_purchased_in_period</note>
       </trans-unit>
       <trans-unit id="7e5d2847ce3ae50c54aba0a395e067b64ba76475" resname="models.description.last_clicked">
@@ -1043,7 +1043,7 @@
       </trans-unit>
       <trans-unit id="07aa2c8a6efd0a0bbc17b6ddd38ab126b0839d19" resname="models.description.last_purchased">
         <source>Shows the last (based on the timestamp), for example, 5 items purchased by all users.</source>
-        <target state="translated">يعرض آخر العناصر التي تم شراؤها (حسب الطابع الزمني)، مثل 5 عناصر اشتراها جميع المستخدمين.</target>
+        <target state="translated">يعرض آخر العناصر التي اشتراها جميع المستخدمين (حسب الطابع الزمني)، مثلاً آخر 5 عناصر.</target>
         <note>key: models.description.last_purchased</note>
       </trans-unit>
       <trans-unit id="2bca8527288e75fa76d8fee8b38680be6ec33b71" resname="models.description.ml_cp_also_clicked">
@@ -1068,7 +1068,7 @@
       </trans-unit>
       <trans-unit id="33e5615fdc8c8bba8fbb5f26e5e6958f6a1f15b1" resname="models.description.popular_click">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام عام مرجّح</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.popular_click</note>
       </trans-unit>
       <trans-unit id="0a9d00d8cd5bb8d4512f95dfa8f159d465be0283" resname="models.description.popular_predicted">
@@ -1088,17 +1088,17 @@
       </trans-unit>
       <trans-unit id="54401adac13b0a7da91f060f6fa9d05a9138145b" resname="models.description.profile_buy">
         <source>profile_buy</source>
-        <target state="translated">سجل شراء الملف الشخصي</target>
+        <target state="translated">profile_buy</target>
         <note>key: models.description.profile_buy</note>
       </trans-unit>
       <trans-unit id="595af9123b79d934162ff6c3352db7e6e169bbbd" resname="models.description.profile_click">
         <source>profile_click</source>
-        <target state="translated">سجل نقر الملف الشخصي</target>
+        <target state="translated">profile_click</target>
         <note>key: models.description.profile_click</note>
       </trans-unit>
       <trans-unit id="fa5e0b3b4e0551175487d95c80d4e258c220e4ac" resname="models.description.purchased_together">
         <source>Model Purchased together refers to a data analysis technique that identifies patterns of items frequently bought together by customers</source>
-        <target state="translated">نموذج "تم شراؤها معًا" يشير إلى تقنية تحليل بيانات تحدد أنماط العناصر التي يشتريها الزبائن معًا بشكل متكرر</target>
+        <target state="translated">نموذج "تم شراؤها معًا" يشير إلى تقنية تحليل بيانات تحدد أنماط العناصر التي يشتريها العملاء معًا بشكل متكرر</target>
         <note>key: models.description.purchased_together</note>
       </trans-unit>
       <trans-unit id="973614998a011e68809d35cb545e75cc364315ed" resname="models.description.random">
@@ -1108,7 +1108,7 @@
       </trans-unit>
       <trans-unit id="86a636e53968cf7b770bf536490c8266c23e9806" resname="models.description.random_emdsartikel">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.random_emdsartikel</note>
       </trans-unit>
       <trans-unit id="5cf19b41517664be1f5048ecd3d372e11293328b" resname="models.description.random_short">
@@ -1118,17 +1118,17 @@
       </trans-unit>
       <trans-unit id="c652eac84f81b37fd3b7de2534f3ad60b458fa31" resname="models.description.rated">
         <source>Items that were similarly rated by users.</source>
-        <target state="translated">عناصر تم تقييمها بشكل مشابه من قبل المستخدمين.</target>
+        <target state="translated">عناصر قيّمها المستخدمون بشكل مماثل.</target>
         <note>key: models.description.rated</note>
       </trans-unit>
       <trans-unit id="ce9f8405241340a2087adcfd508ca1f5b2fdf75d" resname="models.description.recently_bought">
         <source>recently_bought</source>
-        <target state="translated">تم شراؤها مؤخرًا</target>
+        <target state="translated">recently_bought</target>
         <note>key: models.description.recently_bought</note>
       </trans-unit>
       <trans-unit id="4314b5ceef119e70b10d12d93315ba4ac6dffe07" resname="models.description.recently_clicked">
         <source>recently_clicked</source>
-        <target state="translated">تم النقر عليها مؤخرًا</target>
+        <target state="translated">recently_clicked</target>
         <note>key: models.description.recently_clicked</note>
       </trans-unit>
       <trans-unit id="29dba4b8aa40b0ee44475714e1b02b49f931ed9b" resname="models.description.recurring_purchase">
@@ -1138,22 +1138,22 @@
       </trans-unit>
       <trans-unit id="aa3a7c8c2b5735554a6270658c111796263067f3" resname="models.description.s1">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.s1</note>
       </trans-unit>
       <trans-unit id="31f85200ea57ca769b8a619678030779025eb908" resname="models.description.s2">
         <source>Configure static recommendations based on an editorial list</source>
-        <target state="translated">تهيئة توصيات ثابتة استنادًا إلى قائمة تحريرية</target>
+        <target state="translated">تهيئة توصيات ثابتة بناءً على قائمة تحريرية</target>
         <note>key: models.description.s2</note>
       </trans-unit>
       <trans-unit id="18f93a1763e444c8e37a91878e33bbcff8937f1c" resname="models.description.similar_rated">
         <source>Items that were similarly rated by users.</source>
-        <target state="translated">عناصر تم تقييمها بشكل مشابه من قبل المستخدمين.</target>
+        <target state="translated">عناصر قيّمها المستخدمون بشكل مماثل.</target>
         <note>key: models.description.similar_rated</note>
       </trans-unit>
       <trans-unit id="e5432b9ecebd9cd95c0e2877b741933121e92cbd" resname="models.description.stereotypes_cf">
         <source>Enables personalized recommendation based on clusters from user behaviour or content information</source>
-        <target state="translated">يتيح توصية مخصصة استنادًا إلى مجموعات من سلوك المستخدم أو معلومات المحتوى</target>
+        <target state="translated">يتيح توصية مخصصة بناءً على مجموعات من سلوك المستخدم أو معلومات المحتوى</target>
         <note>key: models.description.stereotypes_cf</note>
       </trans-unit>
       <trans-unit id="ea601c4c5e3d15ba7739d49b7bcb069ab8b08890" resname="models.description.suggestion">
@@ -1168,42 +1168,42 @@
       </trans-unit>
       <trans-unit id="bb4917bfc82ba0f2c3af039f97bfb8aa42d42ff5" resname="models.description.top_clicked">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام عام مرجّح</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_clicked</note>
       </trans-unit>
       <trans-unit id="43d94061f569b24cd0b8f36bf4518dea9253b357" resname="models.description.top_clicked2">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام عام مرجّح</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_clicked2</note>
       </trans-unit>
       <trans-unit id="19f3211cb7b7cc61ac91b523c439acd08abdaf1f" resname="models.description.top_clicked_2">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام عام مرجّح</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_clicked_2</note>
       </trans-unit>
       <trans-unit id="9ddd9c7e8dd9e35212757339ff4fafe723062e8e" resname="models.description.top_clicked_article">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام عام مرجّح</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_clicked_article</note>
       </trans-unit>
       <trans-unit id="08387ca51171cb76724dbd846a8b27299746a542" resname="models.description.top_clicked_image">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام عام مرجّح</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_clicked_image</note>
       </trans-unit>
       <trans-unit id="05279de2368e004201c8430cc06262cd101aacfa" resname="models.description.top_clicked_long">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقالة، إلخ) بناءً على سجل الاستخدام الإجمالي الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_clicked_long</note>
       </trans-unit>
       <trans-unit id="6389b0293fb682d507f6988a8bb2d258a2c3ec51" resname="models.description.top_clicked_product">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقالة، إلخ) بناءً على سجل الاستخدام الإجمالي الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_clicked_product</note>
       </trans-unit>
       <trans-unit id="651afdb4c2f7183418b0bab87bb466aaadf1bcd5" resname="models.description.top_clicked_short">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقالة، إلخ) بناءً على سجل الاستخدام الإجمالي الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_clicked_short</note>
       </trans-unit>
       <trans-unit id="ba03c9b32233afe6d156fa4849ee84362a1655b5" resname="models.description.top_clicked_weighted">
@@ -1238,22 +1238,22 @@
       </trans-unit>
       <trans-unit id="4c454be8c03d314af6e13344160deaeebee76fef" resname="models.description.top_purchased">
         <source>Most popular content (product, article, etc.) based on a weighted overall usage history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقالة، إلخ) بناءً على سجل الاستخدام الإجمالي الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل استخدام إجمالي مرجّح</target>
         <note>key: models.description.top_purchased</note>
       </trans-unit>
       <trans-unit id="b9a2ac614b900525317d3d6df464b3f52b6a8ebc" resname="models.description.top_purchased_2">
         <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقالة، إلخ) بناءً على سجل الشراء الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل شراء مرجّح</target>
         <note>key: models.description.top_purchased_2</note>
       </trans-unit>
       <trans-unit id="70b1e205320c71374783c9f91e056de04c5cdbff" resname="models.description.top_purchased_3">
         <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقالة، إلخ) بناءً على سجل الشراء الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل شراء مرجّح</target>
         <note>key: models.description.top_purchased_3</note>
       </trans-unit>
       <trans-unit id="0a7dae8a6dc0471c7d363b30974850da3109ba93" resname="models.description.top_purchased_product">
         <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقالة، إلخ) بناءً على سجل الشراء الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل شراء مرجّح</target>
         <note>key: models.description.top_purchased_product</note>
       </trans-unit>
       <trans-unit id="d4176a8073c60099d0b77b395c371cf8ff7aaeea" resname="models.description.top_rated">
@@ -1263,37 +1263,37 @@
       </trans-unit>
       <trans-unit id="0e2179211418c0f7d9bbe7abcf76ca4fadb57c01" resname="models.description.top_selling">
         <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
-        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقالة، إلخ) بناءً على سجل الشراء الموزون</target>
+        <target state="translated">المحتوى الأكثر شيوعًا (منتج، مقال، إلخ) بناءً على سجل شراء مرجّح</target>
         <note>key: models.description.top_selling</note>
       </trans-unit>
       <trans-unit id="dca16d9d3c0c04161ddeefbe304305ef77183f9e" resname="models.description.ultimately_bought">
         <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
-        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية.</target>
+        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية</target>
         <note>key: models.description.ultimately_bought</note>
       </trans-unit>
       <trans-unit id="831979f6766fd31daa5ed42edc584a2d2fcffd86" resname="models.description.ultimately_consumed">
         <source>User who clicked on this content (article, image, etc), immediately after consumed the following content</source>
-        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالة، صورة، إلخ)، استهلك مباشرةً المحتوى التالي.</target>
+        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقال، صورة، إلخ)، استهلك مباشرةً بعد ذلك المحتوى التالي</target>
         <note>key: models.description.ultimately_consumed</note>
       </trans-unit>
       <trans-unit id="7791942869b76b2f1fff96196e14a5b0ec0fe3bd" resname="models.description.ultimately_purchased">
         <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
-        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية.</target>
+        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية</target>
         <note>key: models.description.ultimately_purchased</note>
       </trans-unit>
       <trans-unit id="1bca68df6d31e0b72176a25544a3ac944069bc00" resname="models.description.ultimately_purchased_2">
         <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
-        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية.</target>
+        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية</target>
         <note>key: models.description.ultimately_purchased_2</note>
       </trans-unit>
       <trans-unit id="438329e5f2be4c1015511ee177962f9356e29def" resname="models.description.ultimately_purchased_3">
         <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
-        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية.</target>
+        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية</target>
         <note>key: models.description.ultimately_purchased_3</note>
       </trans-unit>
       <trans-unit id="c5279772305f602be45cc8fa6b7a5bc7f9f1769e" resname="models.description.ultimately_purchased_long">
         <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
-        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية.</target>
+        <target state="translated">المستخدم الذي نقر على هذا المحتوى (مقالات، صور، إلخ)، اشترى أيضًا المنتجات التالية</target>
         <note>key: models.description.ultimately_purchased_long</note>
       </trans-unit>
       <trans-unit id="00e5b67f298f1490ea3c34ca8c27fd5e27fd4277" resname="models.description.upheaval">
@@ -1303,17 +1303,17 @@
       </trans-unit>
       <trans-unit id="ff522342dbc0469d4f28c530a82433f8a973da0a" resname="models.description.upheaval_ctb">
         <source>upheaval_ctb</source>
-        <target state="translated">اضطراب_ctb</target>
+        <target state="translated">upheaval_ctb</target>
         <note>key: models.description.upheaval_ctb</note>
       </trans-unit>
       <trans-unit id="f5d11f2aa5b5369f72f6773cbea033cf7460180c" resname="models.description.upheaval_ctbuy">
         <source>upheaval_ctbuy</source>
-        <target state="translated">اضطراب_ctbuy</target>
+        <target state="translated">upheaval_ctbuy</target>
         <note>key: models.description.upheaval_ctbuy</note>
       </trans-unit>
       <trans-unit id="7eb634c1d990f66c7f12ac890b318bb987ce5756" resname="models.description.upheaval_ctc">
         <source>upheaval_ctc</source>
-        <target state="translated">اضطراب_ctc</target>
+        <target state="translated">upheaval_ctc</target>
         <note>key: models.description.upheaval_ctc</note>
       </trans-unit>
       <trans-unit id="a605b20c36a6e0a2decd75b4940e7f210bebd842" resname="models.description.user_last_clicked">
@@ -1428,37 +1428,37 @@
       </trans-unit>
       <trans-unit id="040686214b99397f9353dc7887164bbd42ca5ed5" resname="models.name.adv_also_clicked">
         <source>Adv also clicked</source>
-        <target state="translated">إعلان تم النقر عليه أيضًا</target>
+        <target state="translated">تم النقر عليه أيضًا (متقدم)</target>
         <note>key: models.name.adv_also_clicked</note>
       </trans-unit>
       <trans-unit id="73dd0858cd3840353592e36130433b1c5deb5ba1" resname="models.name.adv_also_clicked_2">
         <source>Adv also clicked 2</source>
-        <target state="translated">إعلان تم النقر عليه أيضًا 2</target>
+        <target state="translated">تم النقر عليه أيضًا (متقدم) 2</target>
         <note>key: models.name.adv_also_clicked_2</note>
       </trans-unit>
       <trans-unit id="3727e06e3f3e90443a03b504a8201812bdadcc23" resname="models.name.adv_also_clicked_3">
         <source>Adv also clicked 3</source>
-        <target state="translated">إعلان تم النقر عليه أيضًا 3</target>
+        <target state="translated">تم النقر عليه أيضًا (متقدم) 3</target>
         <note>key: models.name.adv_also_clicked_3</note>
       </trans-unit>
       <trans-unit id="31b66345185e11e46f4446f3ff9318ab54ea39a0" resname="models.name.adv_also_purchased">
         <source>Adv also purchased</source>
-        <target state="translated">إعلان تم شراؤه أيضًا</target>
+        <target state="translated">تم شراؤه أيضًا (متقدم)</target>
         <note>key: models.name.adv_also_purchased</note>
       </trans-unit>
       <trans-unit id="29e8649453de1c45e88f77e37bf79bf90d1d48d0" resname="models.name.adv_also_purchased_2">
         <source>Adv also purchased 2</source>
-        <target state="translated">إعلان تم شراؤه أيضًا 2</target>
+        <target state="translated">تم شراؤه أيضًا (متقدم) 2</target>
         <note>key: models.name.adv_also_purchased_2</note>
       </trans-unit>
       <trans-unit id="6302abc29d005f00d791b9c61b5e6deca4c09af2" resname="models.name.adv_also_purchased_3">
         <source>Adv also purchased 3</source>
-        <target state="translated">إعلان تم شراؤه أيضًا 3</target>
+        <target state="translated">تم شراؤه أيضًا (متقدم) 3</target>
         <note>key: models.name.adv_also_purchased_3</note>
       </trans-unit>
       <trans-unit id="9c37aed72a3846c788ae540a1d7d29859c9840b9" resname="models.name.adv_ultimately_basket">
         <source>Adv ultimately basket</source>
-        <target state="translated">إعلان سلة الشراء النهائية</target>
+        <target state="translated">أُضيف إلى السلة في النهاية (متقدم)</target>
         <note>key: models.name.adv_ultimately_basket</note>
       </trans-unit>
       <trans-unit id="67705bcdbf0e5b0c1814a3bb056646369c06733a" resname="models.name.also_clicked">
@@ -1618,12 +1618,12 @@
       </trans-unit>
       <trans-unit id="3bd57f4414864648dedce17f73a223f90b4390a1" resname="models.name.cf_fbt">
         <source>Purchased together</source>
-        <target state="translated">تم شراؤهما معًا</target>
+        <target state="translated">تم شراؤها معًا</target>
         <note>key: models.name.cf_fbt</note>
       </trans-unit>
       <trans-unit id="face991d248df4408e4d534dfa6251329b27c950" resname="models.name.cf_fbt2">
         <source>Purchased together</source>
-        <target state="translated">تم شراؤهما معًا</target>
+        <target state="translated">تم شراؤها معًا</target>
         <note>key: models.name.cf_fbt2</note>
       </trans-unit>
       <trans-unit id="b14e35fb57b3a8d91ae500360df838af5c2042fa" resname="models.name.cf_purchased">
@@ -1633,12 +1633,12 @@
       </trans-unit>
       <trans-unit id="ebfb6bc4645045b1232223a56b29cf3877fcd45e" resname="models.name.cf_purchased_after_clicked">
         <source>Ultimately bought</source>
-        <target state="translated">تم الشراء في النهاية</target>
+        <target state="translated">تم شراؤه في النهاية</target>
         <note>key: models.name.cf_purchased_after_clicked</note>
       </trans-unit>
       <trans-unit id="ca0606336a0fe7071bcb37cacff4dbfb28876da7" resname="models.name.click2buy">
         <source>Ultimately bought</source>
-        <target state="translated">تم الشراء في النهاية</target>
+        <target state="translated">تم شراؤه في النهاية</target>
         <note>key: models.name.click2buy</note>
       </trans-unit>
       <trans-unit id="0e60da74f0cb3876e4c417d7bdc9ea68e9c9988b" resname="models.name.click2click">
@@ -1648,7 +1648,7 @@
       </trans-unit>
       <trans-unit id="38d791c35a83dd84afbfe8ad5f1f83255f1f5c3e" resname="models.name.click_after_consumed">
         <source>Ultimately consumed</source>
-        <target state="translated">تم الاستهلاك في النهاية</target>
+        <target state="translated">تم استهلاكه في النهاية</target>
         <note>key: models.name.click_after_consumed</note>
       </trans-unit>
       <trans-unit id="d70748afe2a303344d4c649b2019d1ac82f44726" resname="models.name.click_to_purchased">
@@ -1968,7 +1968,7 @@
       </trans-unit>
       <trans-unit id="58dc5c11fdd3f3bb21f24fcca9ddc471cf80a39d" resname="models.name.rated">
         <source>Similar rated</source>
-        <target state="translated">مشابه في التقييم</target>
+        <target state="translated">تقييم مشابه</target>
         <note>key: models.name.rated</note>
       </trans-unit>
       <trans-unit id="f2fc5d02a36fa6b8522bcc53c02d36ac03969f84" resname="models.name.recently_bought">
@@ -2208,7 +2208,7 @@
       </trans-unit>
       <trans-unit id="d29516f86669674635c5374bac848996782b044c" resname="models.segments.group.empty.title">
         <source>Drag and drop segments</source>
-        <target state="translated">السحب والإفلات للشرائح</target>
+        <target state="translated">اسحب الشرائح وأفلتها</target>
         <note>key: models.segments.group.empty.title</note>
       </trans-unit>
       <trans-unit id="ed66660fd6e63b1546ee7856b9daf1027f8d40f0" resname="models.segments.segments.relation.and">
@@ -2273,7 +2273,7 @@
       </trans-unit>
       <trans-unit id="050c6688ca4e5f2cae7d305410e973e7dfad2a50" resname="models.submodel.delete_group">
         <source>Delete group</source>
-        <target state="translated">حذف مجموعة</target>
+        <target state="translated">حذف المجموعة</target>
         <note>key: models.submodel.delete_group</note>
       </trans-unit>
       <trans-unit id="e0aa8b751c057afd0361ec03ae85fec591a4d68a" resname="models.submodel.existing_groups">
@@ -2338,7 +2338,7 @@
       </trans-unit>
       <trans-unit id="0db232997a03f52ca8de2e8531865eda929cee28" resname="scenario.commerce_settings.do_not_recommend_product_variants">
         <source>Do not recommend product variants (only base products will be recommended)</source>
-        <target state="translated">لا توصي بنسخ المنتج (سيتم التوصية فقط بالمنتوج الأساسي)</target>
+        <target state="translated">عدم التوصية بمتغيّرات المنتج (سيتم التوصية بالمنتجات الأساسية فقط)</target>
         <note>key: scenario.commerce_settings.do_not_recommend_product_variants</note>
       </trans-unit>
       <trans-unit id="e309221943467a614f28d6298bede4cf792e5542" resname="scenario.commerce_settings.item_price_should_equal_or_higher_than_the_price_of_the_context_item">
@@ -2368,7 +2368,7 @@
       </trans-unit>
       <trans-unit id="6c2feed03a94346c88ff969b3bc59a0236936f4a" resname="scenario.create.anchor_navigation.strategy">
         <source>Strategy</source>
-        <target state="translated">استراتيجية</target>
+        <target state="translated">الاستراتيجية</target>
         <note>key: scenario.create.anchor_navigation.strategy</note>
       </trans-unit>
       <trans-unit id="a3ab7ac517276adf518e461be28d61e9130040d8" resname="scenario.create.sidebar.title">
@@ -2378,7 +2378,7 @@
       </trans-unit>
       <trans-unit id="39366ae8b5b753a4fc772be6239bdcd721cb07b6" resname="scenario.create.strategy.title">
         <source>Strategy</source>
-        <target state="translated">استراتيجية</target>
+        <target state="translated">الاستراتيجية</target>
         <note>key: scenario.create.strategy.title</note>
       </trans-unit>
       <trans-unit id="d53c0c7652b41e863fb48794470f8409a902fc6e" resname="scenario.exclusions.exclude_categories">
@@ -2503,7 +2503,7 @@
       </trans-unit>
       <trans-unit id="80dd45134e009a3446f7edd47881b631b1274136" resname="scenario.strategy.ultimately_fail_safe">
         <source>Fail-safe</source>
-        <target state="translated">آمن ضد الفشل</target>
+        <target state="translated">آلية الأمان</target>
         <note>key: scenario.strategy.ultimately_fail_safe</note>
       </trans-unit>
       <trans-unit id="e898621a4b60709756ebe7975a5a138b33b3495e" resname="scenario.strategy_fall_back">
@@ -2618,7 +2618,7 @@
       </trans-unit>
       <trans-unit id="09973b1c84a811003e4feb8789f4c6c2d066c82c" resname="targeted_scenario_map.no_configuration">
         <source>No segments defined. Create Segments in the Admin panel to use this block.</source>
-        <target state="translated">لم يتم تعريف أي شرائح. أنشئ شرائح في لوحة الإدارة لاستخدام هذا المكوّن.</target>
+        <target state="translated">لم يتم تعريف أي شرائح. أنشئ شرائح في لوحة الإدارة لاستخدام هذه الكتلة.</target>
         <note>key: targeted_scenario_map.no_configuration</note>
       </trans-unit>
       <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
@@ -2638,12 +2638,12 @@
       </trans-unit>
       <trans-unit id="4211a967e3d409c7706659ececa942e83ea4475d" resname="welcome.description.leverage_personalization">
         <source>Unified digital experiences can't be supported by data silos. Enrich your customer data by integrating Ibexa Personalization capabilities with existing business systems to boost the power of your personalized customer experiences.</source>
-        <target state="translated">لا يمكن دعم التجارب الرقمية الموحدة بوجود جزر بيانات منفصلة. عزز بيانات الزبون لديك من خلال دمج قدرات إيبكسا بيرسونالايزيشن مع أنظمة الأعمال الحالية لزيادة قوة تجارب الزبائن المخصصة لديك.</target>
+        <target state="translated">لا يمكن دعم التجارب الرقمية الموحدة بوجود جزر بيانات منفصلة. عزز بيانات العملاء لديك من خلال دمج قدرات Ibexa Personalization مع أنظمة الأعمال الحالية لزيادة قوة تجارب العملاء المخصصة لديك.</target>
         <note>key: welcome.description.leverage_personalization</note>
       </trans-unit>
       <trans-unit id="d474abac7f14c0c45306be8d7fa39d1bb1149ff8" resname="welcome.description.target_and_personalize">
         <source>Listen to your users and capture their preferences and specific interests to offer personalized content. Empower your editorial and marketing teams to leverage this information to better target what content will be most relevant to each user.</source>
-        <target state="translated">استمع إلى مستخدميك وتعرّف على تفضيلاتهم واهتماماتهم الخاصة لتقديم محتوى مخصص. مكّن فرق التحرير والتسويق لديك من الاستفادة من هذه المعلومات لاستهداف المحتوى الأكثر ملاءمة لكل مستخدم.</target>
+        <target state="translated">استمع إلى مستخدميك وتعرّف على تفضيلاتهم واهتماماتهم الخاصة لتقديم محتوى مخصص. مكّن فرق التحرير والتسويق لديك من الاستفادة من هذه المعلومات لاستهداف المحتوى الأكثر ملاءمة لكل مستخدم بشكل أفضل.</target>
         <note>key: welcome.description.target_and_personalize</note>
       </trans-unit>
       <trans-unit id="09d565452082f720af42e27a5494cc88dc915077" resname="welcome.form.invalid_installation_key">
@@ -2653,7 +2653,7 @@
       </trans-unit>
       <trans-unit id="152bb836a684191c6bb76588a609237b284bf59b" resname="welcome.form.subtitle">
         <source>Fill in the form to send your request to activate Ibexa Personalization services. To activate the services, you need to have an active Ibexa Subscription.</source>
-        <target state="translated">املأ النموذج لإرسال طلبك لتفعيل خدمات إيبكسا بيرسونالايزيشن. لتفعيل الخدمات، يجب أن يكون لديك اشتراك إيبكسا نشط.</target>
+        <target state="translated">املأ النموذج لإرسال طلبك لتفعيل خدمات Ibexa Personalization. لتفعيل الخدمات، يجب أن يكون لديك اشتراك Ibexa نشط.</target>
         <note>key: welcome.form.subtitle</note>
       </trans-unit>
       <trans-unit id="d1c4b3ce2e03e5b5fbed54d72c1db4a938eca745" resname="welcome.form.title">
@@ -2688,7 +2688,7 @@
       </trans-unit>
       <trans-unit id="62e2122586e447622cf0b1bdf8acf7dc62f6600f" resname="welcome.subtitle">
         <source>Personalize every part of your Customer Experience</source>
-        <target state="translated">خصص كل جزء من تجربة الزبون</target>
+        <target state="translated">خصّص كل جزء من تجربة عملائك</target>
         <note>key: welcome.subtitle</note>
       </trans-unit>
       <trans-unit id="4535cf1ab875d58841ddf3f2fadc87f84c6c5e68" resname="welcome.terms.accept">
@@ -2723,7 +2723,7 @@
       </trans-unit>
       <trans-unit id="363496cd7f043616a71338c37d9464559580278b" resname="welcome.title">
         <source>Welcome to Ibexa Personalization</source>
-        <target state="translated">مرحبًا بك في إيبكسا بيرسونالايزيشن</target>
+        <target state="translated">مرحبًا بك في Ibexa Personalization</target>
         <note>key: welcome.title</note>
       </trans-unit>
       <trans-unit id="80a2ba9054260eef7b96f8dcde4fd14b75381f32" resname="welcome.title.leverage_personalization">

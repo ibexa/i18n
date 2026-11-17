@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="004c6e30a0aae148a9a83a6b9ed16b9d90f41de6" resname="block.duplicate">
         <source>Duplicate</source>
-        <target state="translated">مكرر</target>
+        <target state="translated">تكرار</target>
         <note>key: block.duplicate</note>
       </trans-unit>
       <trans-unit id="3401bb1dcfef98108a504e912e0b3fcf621d9411" resname="block.move.down">
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="0b2dafc4e64f7587b08008c137c6861abc8232d2" resname="settings.popup.add_block_info">
         <source>When you add a block by dragging it from Page blocks menu into the drop zone, the block settings panel opens immediately where you can configure all block properties.</source>
-        <target state="translated">عند إضافة كتلة عن طريق سحبها من قائمة كتل الصفحة إلى منطقة الإسقاط، تفتح لوحة إعدادات الكتلة مباشرة حيث يمكنك تهيئة جميع خصائص الكتلة.</target>
+        <target state="translated">عند إضافة كتلة عن طريق سحبها من قائمة كتل الصفحة إلى منطقة الإفلات، تفتح لوحة إعدادات الكتلة مباشرة حيث يمكنك تهيئة جميع خصائص الكتلة.</target>
         <note>key: settings.popup.add_block_info</note>
       </trans-unit>
       <trans-unit id="2aacee9e3b82f82bcfea2e7083d42c7d27b5d501" resname="settings.popup.change_settings">
@@ -258,12 +258,12 @@
       </trans-unit>
       <trans-unit id="c137f8e9a3f57ea45f3a310439f6340af6e91150" resname="settings.popup.default_behaviour">
         <source>This is a default behavior which applies to both Page and Dashboard builder. You can globally turn off automatic opening of the block settings panel in the user settings.</source>
-        <target state="translated">هذا هو السلوك الافتراضي الذي ينطبق على كل من الصفحة ومحرر لوحات التحكم. يمكنك إيقاف الفتح التلقائي للوحة إعدادات الكتلة من إعدادات المستخدم.</target>
+        <target state="translated">هذا هو السلوك الافتراضي الذي ينطبق على كل من منشئ الصفحات ومنشئ لوحات التحكم. يمكنك إيقاف الفتح التلقائي للوحة إعدادات الكتلة بشكل عام من إعدادات المستخدم.</target>
         <note>key: settings.popup.default_behaviour</note>
       </trans-unit>
       <trans-unit id="2b8b924ef8398e7ba16486e7646511119ec6f722" resname="settings.popup.title">
         <source>How builder works</source>
-        <target state="translated">كيف يعمل المحرر</target>
+        <target state="translated">كيف يعمل المنشئ</target>
         <note>key: settings.popup.title</note>
       </trans-unit>
       <trans-unit id="4b8c13f811dc9e5093557dff59b266355bb5197f" resname="structure.action.configuration">
@@ -278,7 +278,7 @@
       </trans-unit>
       <trans-unit id="d696a75de4e11076e1b9499e64aef2a8582dcf00" resname="structure.action.duplicate">
         <source>Duplicate</source>
-        <target state="translated">مكرر</target>
+        <target state="translated">تكرار</target>
         <note>key: structure.action.duplicate</note>
       </trans-unit>
       <trans-unit id="0ffa494ed399bd73df6cc82d6da3e3a42b2adbbd" resname="structure.action.move.down">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="9a1f012b46edc1cfc75ef000163ea898fb35a16c" resname="structure.drop.zone">
         <source>Drop zone %number%</source>
-        <target state="translated">منطقة الإسقاط %number%</target>
+        <target state="translated">منطقة الإفلات %number%</target>
         <note>key: structure.drop.zone</note>
       </trans-unit>
       <trans-unit id="720578005f4f9df5991d84e11d283389de3f5801" resname="switch_layout.label">
@@ -318,12 +318,12 @@
       </trans-unit>
       <trans-unit id="3e1605f26b2df05fc721d6a0b91e9e4011fdf9f1" resname="user.settings.automatically_open_block_settings.description">
         <source>Automatically open block settings in builders</source>
-        <target state="translated">فتح إعدادات الكتلة تلقائياً في المحررات</target>
+        <target state="translated">فتح إعدادات الكتلة تلقائيًا في منشئ الصفحات ولوحات التحكم</target>
         <note>key: user.settings.automatically_open_block_settings.description</note>
       </trans-unit>
       <trans-unit id="9fc13298e7bbddf434d17872f5b65a5af2ea7972" resname="user.settings.automatically_open_block_settings.name">
         <source>Automatically open block settings in builders</source>
-        <target state="translated">فتح إعدادات الكتلة تلقائياً في المحررات</target>
+        <target state="translated">فتح إعدادات الكتلة تلقائيًا في منشئ الصفحات ولوحات التحكم</target>
         <note>key: user.settings.automatically_open_block_settings.name</note>
       </trans-unit>
       <trans-unit id="4e32b8b746cdf9471b433d25ec36d5a4793dd8bf" resname="user.settings.automatically_open_block_settings.value.disabled">

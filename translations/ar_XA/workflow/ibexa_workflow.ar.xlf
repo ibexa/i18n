@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: workflow.view.content_list.table.modified_language</note>
       </trans-unit>
       <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">

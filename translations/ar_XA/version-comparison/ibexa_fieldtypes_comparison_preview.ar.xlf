@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="38022a4ef42d878eb38c71537fdc4c72b5fbb989" resname="ibexa_gmap_location.location_properties">
         <source>Location properties</source>
-        <target state="translated">خصائص الموضع</target>
+        <target state="translated">خصائص الموقع الجغرافي</target>
         <note>key: ibexa_gmap_location.location_properties</note>
       </trans-unit>
       <trans-unit id="ba4a253dc02df12654dabc50ef81b428ee888bcf" resname="ibexa_gmap_location.longitude">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ibexa_object_relation.version_created">
         <source>Version created</source>
-        <target state="translated">تم إنشاء النسخة</target>
+        <target state="translated">تم إنشاء الإصدار</target>
         <note>key: ibexa_object_relation.version_created</note>
       </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ibexa_object_relation_list.content_type">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="bc5660c5a80b1e77cb6bbe8fe9040ff5fb6b0bec" resname="ibexa_object_relation_list.version_created">
         <source>Version created</source>
-        <target state="translated">تم إنشاء النسخة</target>
+        <target state="translated">تم إنشاء الإصدار</target>
         <note>key: ibexa_object_relation_list.version_created</note>
       </trans-unit>
       <trans-unit id="96af58f2bb1ab9fbf0a4cf8857f5dc594c74b361" resname="ibexa_url.link">

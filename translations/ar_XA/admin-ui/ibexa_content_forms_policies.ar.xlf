@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="be2b0449251f53db814dc4fbbb27e534419add2b" resname="policy.limitation.identifier.node">
         <source>Location</source>
-        <target state="translated">موضع</target>
+        <target state="translated">الموضع</target>
         <note>key: policy.limitation.identifier.node</note>
       </trans-unit>
       <trans-unit id="9daf8e1a94a6409f9b9b102e042c2858e4307ea8" resname="policy.limitation.identifier.owner">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
         <source>SiteAccess</source>
-        <target state="translated">وصول الموقع /SiteAccess</target>
+        <target state="translated">SiteAccess</target>
         <note>key: policy.limitation.identifier.siteaccess</note>
       </trans-unit>
       <trans-unit id="30cc18895dfb23b14d3f9b8249e90baf678c8180" resname="policy.limitation.identifier.state">

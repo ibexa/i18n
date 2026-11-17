@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="89d473a6ef3d55f18c061ca38592eaced78d620f" resname="ibexa.shipping_method.identifier.pattern">
         <source>Shipping method identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">يمكن أن يحتوي معرّف طريقة الشحن فقط على أحرف من "a" إلى "z"، وأرقام، وشرطة سفلية.</target>
+        <target state="translated">يمكن أن يحتوي معرّف طريقة الشحن فقط على أحرف من "a" إلى "z"، وأرقام، وشرطات سفلية.</target>
         <note>key: ibexa.shipping_method.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="00dc13c148209f6351723c72dcfc33a1fad41671" resname="ibexa.shipping_method.identifier.unique">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="92f5c7d268b6f3f641f722e8de316a986a22022e" resname="ibexa.shipping_method.voter">
         <source>Shipping method is not valid for given cart</source>
-        <target state="translated">طريقة الشحن غير صالحة لسلة التسوّق المحددة</target>
+        <target state="translated">طريقة الشحن غير صالحة لسلة التسوق المحددة</target>
         <note>key: ibexa.shipping_method.voter</note>
       </trans-unit>
     </body>

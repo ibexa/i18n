@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success">
         <source>Section '%name%' removed.</source>
-        <target state="translated">تم إزالة القسم '%name%'.</target>
+        <target state="translated">تمت إزالة القسم '%name%'.</target>
         <note>key: section.delete.success</note>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
         <source>Technical details</source>
-        <target state="translated">تفاصيل تقنية</target>
+        <target state="translated">التفاصيل التقنية</target>
         <note>key: tab.details.technical_details</note>
       </trans-unit>
     </body>

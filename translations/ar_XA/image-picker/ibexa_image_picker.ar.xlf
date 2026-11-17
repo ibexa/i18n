@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="561bc96ad77fbf519000d0fa5e170d01b10c3de9" resname="filters.clear">
         <source>Clear</source>
-        <target state="translated">حذف/محو</target>
+        <target state="translated">مسح</target>
         <note>key: filters.clear</note>
       </trans-unit>
       <trans-unit id="09ac7f0777838ccac0648aceca785c8d896d3adf" resname="filters.created.from.label">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="9ec513700f55fd8f323738c7c76baa2b0847b6c3" resname="filters.tags.label">
         <source>Tags</source>
-        <target state="translated">وسوم</target>
+        <target state="translated">الوسوم</target>
         <note>key: filters.tags.label</note>
       </trans-unit>
       <trans-unit id="dfe3a7158e01da02bc0dfe357002def406425b8b" resname="filters.tags.no_tags.info">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="148a19ce992ac6dfb29a81f9d4b1cca9c08782dd" resname="filters.tags.title">
         <source>Tags</source>
-        <target state="translated">وسوم</target>
+        <target state="translated">الوسوم</target>
         <note>key: filters.tags.title</note>
       </trans-unit>
       <trans-unit id="36ded7336444b1ecc68187be225a041e17eeb4b2" resname="filters.thumbnail">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="ad0d3e1ff872d7fcbbc7bfe77b68b4cee774e137" resname="list_view.header.updated">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: list_view.header.updated</note>
       </trans-unit>
       <trans-unit id="553595b287436b7f41b46ab321972cd2fa9296db" resname="quick_actions.validation_msgs.create_error">
@@ -238,7 +238,7 @@
       </trans-unit>
       <trans-unit id="0ccf757794cf80d03dec7594b2d01f1b6067736b" resname="root_location.fake_name">
         <source>Location</source>
-        <target state="translated">موضع</target>
+        <target state="translated">الموضع</target>
         <note>key: root_location.fake_name</note>
       </trans-unit>
       <trans-unit id="5fc82ecbc048b1d8a97bc7561dee6e75e697a6cb" resname="snackbar.actions.delete.label">
@@ -273,7 +273,7 @@
       </trans-unit>
       <trans-unit id="ade4e2436f5c888306d607c1b61c190b6acd5258" resname="snackbar.actions.duplicate.label">
         <source>Duplicate</source>
-        <target state="translated">مكرر</target>
+        <target state="translated">تكرار</target>
         <note>key: snackbar.actions.duplicate.label</note>
       </trans-unit>
       <trans-unit id="2a49288d694aa6f10e0a618d6ecef4defac3a83c" resname="snackbar.actions.edit.error_msg">

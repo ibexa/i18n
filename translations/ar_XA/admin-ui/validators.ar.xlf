@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="73aad2fb9c8f9a2103bf60d6e9221a619f261f9c" resname="ez.content_type.identifier.pattern">
         <source>Content type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">يمكن أن يحتوي معرّف نوع المحتوى فقط على أحرف من "a" إلى "z"، وأرقام، وشرطة سفلية.</target>
+        <target state="translated">يمكن أن يحتوي معرّف نوع المحتوى فقط على أحرف من "a" إلى "z"، وأرقام، وشرطات سفلية.</target>
         <note>key: ez.content_type.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="e03cdf7df4e43a891269e0bbe734e7bab5cc61eb" resname="ez.content_type.identifier.unique">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="924826be1015d20c1f4524754c690e10935abaac" resname="ez.section.identifier.format">
         <source>Section identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">يمكن أن يحتوي معرّف القسم فقط على أحرف من "a" إلى "z"، وأرقام، وشرطة سفلية.</target>
+        <target state="translated">يمكن أن يحتوي معرّف القسم فقط على أحرف من "a" إلى "z"، وأرقام، وشرطات سفلية.</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
       <trans-unit id="1235bb9d75f7a324d6b06742720ab9c18775ddce" resname="ezplatform.copy_subtree.is_not_container">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="fc7e56b8b26344ec7393604951e1fb2199069e18" resname="ezplatform.copy_subtree.is_sub_location">
         <source>Cannot copy subtree to its own descendant Location</source>
-        <target state="translated">لا يمكن نسخ الشجرة الفرعية إلى أحد مواضعها الفرعية.</target>
+        <target state="translated">لا يمكن نسخ الشجرة الفرعية إلى أحد مواضعها الفرعية</target>
         <note>key: ezplatform.copy_subtree.is_sub_location</note>
       </trans-unit>
       <trans-unit id="631da4c4fb5b000ee7f5c0c422e830ca192341a6" resname="ezplatform.copy_subtree.limit_exceeded">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="f52d0870dd7bdbff2c2728c2b6ec708aa5cb240b" resname="validator.define_subtree_or_section_limitation">
         <source>Define a Subtree or Section limitation</source>
-        <target state="translated">حدد حدًّا للشجرة الفرعية أو القسم</target>
+        <target state="translated">حدد قيدًا للشجرة الفرعية أو القسم</target>
         <note>key: validator.define_subtree_or_section_limitation</note>
       </trans-unit>
     </body>

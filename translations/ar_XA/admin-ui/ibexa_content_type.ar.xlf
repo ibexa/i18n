@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="7caaa79d36b0520845802cfa3f7ebcc94318115b" resname="content_type.action.copy">
         <source>Duplicate</source>
-        <target state="translated">مكرر</target>
+        <target state="translated">تكرار</target>
         <note>key: content_type.action.copy</note>
       </trans-unit>
       <trans-unit id="779646634b8d89b40f5abaa2ccd6107b300bf429" resname="content_type.action.edit">
@@ -653,7 +653,7 @@
       </trans-unit>
       <trans-unit id="3e0b1b0a080cf6c22b9e8b411f3b1d07d56eaa27" resname="field_definition.ibexa_media.type_real_player">
         <source>RealPlayer</source>
-        <target state="translated">ريل بلاير</target>
+        <target state="translated">RealPlayer</target>
         <note>key: field_definition.ibexa_media.type_real_player</note>
       </trans-unit>
       <trans-unit id="daaa0a0033e0250461d0452df142656656f1259b" resname="field_definition.ibexa_media.type_silverlight">
@@ -663,7 +663,7 @@
       </trans-unit>
       <trans-unit id="06023c5951c9f689d607d434fc563f1ccf12993d" resname="field_definition.ibexa_media.type_windows_media_player">
         <source>Windows Media Player</source>
-        <target state="translated">ويندوز ميديا بلاير</target>
+        <target state="translated">Windows Media Player</target>
         <note>key: field_definition.ibexa_media.type_windows_media_player</note>
       </trans-unit>
       <trans-unit id="b0ba57e80a64fd6f379aa8d2ede76dd67add4cfb" resname="field_definition.ibexa_object_relation.change_root_udw_button">
@@ -683,7 +683,7 @@
       </trans-unit>
       <trans-unit id="8601e133e7eaf16b1ff340c3544a1d629bc10891" resname="field_definition.ibexa_object_relation.selection_root">
         <source>Starting Location</source>
-        <target state="translated">الموضع الابتدائي</target>
+        <target state="translated">موضع البدء</target>
         <note>key: field_definition.ibexa_object_relation.selection_root</note>
       </trans-unit>
       <trans-unit id="2dba89ff8a9287e9bde87bfb55c9bb24fb739b36" resname="field_definition.ibexa_object_relation.selection_root_udw_button">
@@ -838,7 +838,7 @@
       </trans-unit>
       <trans-unit id="8a9a8e791ac8c22bc30ee0de1b97ffc9b731fec2" resname="field_definition.ibexa_user.require_not_compromised_password_help">
         <source>This uses the API at %link% to securely check breach data. The password is not transmitted to the API.</source>
-        <target state="translated">يتم استخدام واجهة برمجة التطبيقات في %link% للتحقق الآمن من بيانات مخترقة. لا يتم إرسال كلمة المرور إلى واجهة البرمجة.</target>
+        <target state="translated">يستخدم هذا الخيار واجهة برمجة التطبيقات على %link% للتحقق بأمان من بيانات الاختراقات. لا تُرسَل كلمة المرور إلى واجهة برمجة التطبيقات.</target>
         <note>key: field_definition.ibexa_user.require_not_compromised_password_help</note>
       </trans-unit>
       <trans-unit id="75167768465258ae7442f04736f9a2f404b28384" resname="field_definition.ibexa_user.require_unique_email">
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="8c2261eecf1e143eaf524c34f4f89608929c5c81" resname="meta.enabled">
         <source>Enable %type% for this content type</source>
-        <target state="translated">تفعيل %type% لهذا النوع من المحتوى</target>
+        <target state="translated">تفعيل %type% لنوع المحتوى هذا</target>
         <note>key: meta.enabled</note>
       </trans-unit>
       <trans-unit id="fd1286353570c5703799ba76999323b7c7447b06" resname="no">

@@ -13,27 +13,27 @@
       </trans-unit>
       <trans-unit id="793094634ff42fe0f937246d03f9f24e6c73a152" resname="role.policy.order.all_functions">
         <source>Order / All functions</source>
-        <target state="translated">الترتيب / جميع الوظائف</target>
+        <target state="translated">الطلب / جميع الوظائف</target>
         <note>key: role.policy.order.all_functions</note>
       </trans-unit>
       <trans-unit id="da507437617b2c9165155cfe64046827319d4ea0" resname="role.policy.order.cancel">
         <source>Order / Cancel</source>
-        <target state="translated">الترتيب / إلغاء</target>
+        <target state="translated">الطلب / إلغاء</target>
         <note>key: role.policy.order.cancel</note>
       </trans-unit>
       <trans-unit id="c3e057f8a125b582c06353575f5d12f56a08049c" resname="role.policy.order.create">
         <source>Order / Create</source>
-        <target state="translated">الترتيب / إنشاء</target>
+        <target state="translated">الطلب / إنشاء</target>
         <note>key: role.policy.order.create</note>
       </trans-unit>
       <trans-unit id="c00377efe828b4f0bdb068a536b008847898f5f2" resname="role.policy.order.update">
         <source>Order / Update</source>
-        <target state="translated">الترتيب / تحديث</target>
+        <target state="translated">الطلب / تحديث</target>
         <note>key: role.policy.order.update</note>
       </trans-unit>
       <trans-unit id="63c4fe8f252e46e5d4a71657f6da148250f0fca3" resname="role.policy.order.view">
         <source>Order / View</source>
-        <target state="translated">الترتيب / عرض</target>
+        <target state="translated">الطلب / عرض</target>
         <note>key: role.policy.order.view</note>
       </trans-unit>
     </body>

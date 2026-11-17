@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="1d045c8f188b34ed4313f76225ce179327a29a03" resname="ibexa.action_configuration.view.title">
         <source>%action_configuration_name% AI action</source>
-        <target state="translated">%action_configuration_name% إجراء ذكاء اصطناعي</target>
+        <target state="translated">إجراء الذكاء الاصطناعي %action_configuration_name%</target>
         <note>key: ibexa.action_configuration.view.title</note>
       </trans-unit>
       <trans-unit id="aff1004170dd7a4bd1d8c301c9e625332ff86df0" resname="ibexa.ai.action.generate_alt_text.name">
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="3777fedfcccdbd11c0f029428339908b60583b7f" resname="list.tooltip.copy">
         <source>Duplicate</source>
-        <target state="translated">مكرر</target>
+        <target state="translated">تكرار</target>
         <note>key: list.tooltip.copy</note>
       </trans-unit>
       <trans-unit id="0a8304c7b1a9343820fd80386eb33b9524678bcd" resname="tab.action_handler_options.label">

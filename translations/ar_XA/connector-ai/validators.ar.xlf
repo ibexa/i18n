@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="8542f6fcb542a7e8a15e8736114e928c5a686baa" resname="ibexa.connector_ai.action_configuration.identifier.pattern">
         <source>AI action identifier may only contain letters from "a" to "z", numbers, dashes and underscores.</source>
-        <target state="translated">معرّف إجراء الذكاء الاصطناعي يمكن أن يحتوي فقط على أحرف من "a" إلى "z"، وأرقام، وشرطات، وشرطة سفلية.</target>
+        <target state="translated">معرّف إجراء الذكاء الاصطناعي يمكن أن يحتوي فقط على أحرف من "a" إلى "z"، وأرقام، وشرطات، وشرطات سفلية.</target>
         <note>key: ibexa.connector_ai.action_configuration.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="cea1abe7371d99f58752de7e779f96be0b022778" resname="ibexa.connector_ai.action_configuration.identifier.unique">

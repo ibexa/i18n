@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="e39696b46f462dbc9eaeafe29d7a20689ab9bb00" resname="taxonomy.tags">
         <source>Tags</source>
-        <target state="translated">وسوم</target>
+        <target state="translated">الوسوم</target>
         <note>key: taxonomy.tags</note>
       </trans-unit>
     </body>

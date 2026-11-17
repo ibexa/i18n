@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="20ac9753abf3ecf3185fec732493ca1d8ad2786a" resname="ibexa.attribute_definition.identifier.pattern">
         <source>Attribute identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">معرّف الخاصية يمكن أن يحتوي فقط على أحرف من "a" إلى "z"، وأرقام، وشرطة سفلية.</target>
+        <target state="translated">معرّف الخاصية يمكن أن يحتوي فقط على أحرف من "a" إلى "z"، وأرقام، وشرطات سفلية.</target>
         <note>key: ibexa.attribute_definition.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="1af99fa409d6e46b8db4a5d98a3f0e95cb98ee30" resname="ibexa.attribute_definition.identifier.unique">
@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="d7d6303a3a3aab28bec181e65eca4df75853c747" resname="ibexa.attribute_group.identifier.pattern">
         <source>Attribute Group identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">معرّف مجموعة من الخصائص يمكن أن يحتوي فقط على أحرف من "a" إلى "z"، وأرقام، وشرطة سفلية.</target>
+        <target state="translated">معرّف مجموعة الخصائص يمكن أن يحتوي فقط على أحرف من "a" إلى "z"، وأرقام، وشرطات سفلية.</target>
         <note>key: ibexa.attribute_group.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="30a1ea4d6db2f84559296e1531f12730e60fba9f" resname="ibexa.attribute_group.identifier.unique">
         <source>Attribute Group identifier must be unique</source>
-        <target state="translated">يجب أن يكون معرّف مجموعة من الخصائص فريدًا</target>
+        <target state="translated">يجب أن يكون معرّف مجموعة الخصائص فريدًا</target>
         <note>key: ibexa.attribute_group.identifier.unique</note>
       </trans-unit>
       <trans-unit id="d477c467cf078910e203c881e4c5b7e22bd10e97" resname="ibexa.catalog.identifier.unique">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="5ac6c8a245f28a72d878c892e77a538ffbb8c833" resname="ibexa.customer_group.identifier.pattern">
         <source>Customer Group identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target state="translated">معرّف مجموعة زبائن يمكن أن يحتوي فقط على أحرف من "a" إلى "z"، وأرقام، وشرطة سفلية.</target>
+        <target state="translated">معرّف مجموعة العملاء يمكن أن يحتوي فقط على أحرف من "a" إلى "z"، وأرقام، وشرطات سفلية.</target>
         <note>key: ibexa.customer_group.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="6c107745eadbe45c3f9c09ee8078301b9d530c01" resname="ibexa.customer_group.identifier.unique">
         <source>Customer Group identifier must be unique</source>
-        <target state="translated">يجب أن يكون معرّف مجموعة زبائن فريدًا</target>
+        <target state="translated">يجب أن يكون معرّف مجموعة العملاء فريدًا</target>
         <note>key: ibexa.customer_group.identifier.unique</note>
       </trans-unit>
       <trans-unit id="6beab87e8a16d97d66cb89b2e7a63c1593406191" resname="ibexa.language.at_least_one">
@@ -83,17 +83,17 @@
       </trans-unit>
       <trans-unit id="2733cb9e5a80cd57184147828549faa5933d9984" resname="ibexa.product.variant.attributes.unique">
         <source>Attribute combination already exists in Product Variant %product_variant_code%</source>
-        <target state="translated">تركيبة الخصائص موجودة بالفعل في نسخة المنتج %product_variant_code%</target>
+        <target state="translated">تركيبة الخصائص موجودة بالفعل في متغيّر المنتج %product_variant_code%</target>
         <note>key: ibexa.product.variant.attributes.unique</note>
       </trans-unit>
       <trans-unit id="d469e3648b5682b7868ac9d06f9f653cb7858f61" resname="ibexa.product_price.customer_group.price_exists">
         <source>Product price already exists for customer group %customer_group_identifier%, product with code %product_code%, for currency %currency_code%</source>
-        <target state="translated">سعر المنتج موجود بالفعل لمجموعة زبائن %customer_group_identifier%، ولمنتج برمز %product_code%، ولعملة %currency_code%</target>
+        <target state="translated">سعر المنتج موجود بالفعل لمجموعة العملاء %customer_group_identifier% والمنتج ذي الرمز %product_code% والعملة %currency_code%</target>
         <note>key: ibexa.product_price.customer_group.price_exists</note>
       </trans-unit>
       <trans-unit id="ac7e95455d0b340800797dd8c3a0e979b5821107" resname="ibexa.product_price.price_exists">
         <source>Product price already exists for product with code %product_code% for currency %currency_code%</source>
-        <target state="translated">سعر المنتج موجود بالفعل لمنتج برمز %product_code% ولعملة %currency_code%</target>
+        <target state="translated">سعر المنتج موجود بالفعل للمنتج ذي الرمز %product_code% والعملة %currency_code%</target>
         <note>key: ibexa.product_price.price_exists</note>
       </trans-unit>
     </body>

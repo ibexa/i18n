@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="47823da8ee4bb5955e4e0ed05baac71c716b675a" resname="actions.reveal_content">
         <source>Reveal</source>
-        <target state="translated">كشف</target>
+        <target state="translated">إظهار</target>
         <note>key: actions.reveal_content</note>
       </trans-unit>
       <trans-unit id="98f3fdd964db64fa9cf168abd74cac45094cab72" resname="bulk_action.success.link_to_location">
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="875ac9201b26a4e616a939a6798af01bb63f70f5" resname="bulk_bookmark.success.message">
         <source>Content item(s) bookmarked.</source>
-        <target state="translated">تم وضع عنصر المحتوى في العلامات المرجعية.</target>
+        <target state="translated">تمت إضافة عناصر المحتوى إلى العلامات المرجعية.</target>
         <note>key: bulk_bookmark.success.message</note>
       </trans-unit>
       <trans-unit id="8c9027784ddccd5319b5a361e99434ae592d775d" resname="bulk_copy.error.message">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
         <source>Content item(s) sent to Trash.</source>
-        <target state="translated">تم إرسال عناصر المحتوى إلى المهملات.</target>
+        <target state="translated">تم إرسال عناصر المحتوى إلى سلة المهملات.</target>
         <note>key: bulk_delete.success.message.nonusers</note>
       </trans-unit>
       <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
         <source>Content item(s) sent to Trash. User(s) deleted.</source>
-        <target state="translated">تم إرسال عناصر المحتوى إلى المهملات. تم حذف المستخدمين.</target>
+        <target state="translated">تم إرسال عناصر المحتوى إلى سلة المهملات. تم حذف المستخدمين.</target>
         <note>key: bulk_delete.success.message.users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="cbc218de6c47ee6ee7c44b47c80de997910155d6" resname="modal.delete.header.send_to_trash_draft_warning">
         <source>Sending this content item to Trash will also delete all drafts of content items that haven’t been published yet, and belong to the trashed subtree.</source>
-        <target state="translated">إرسال عنصر المحتوى هذا إلى سلة المحذوفات سيؤدي أيضًا إلى حذف جميع المسودات لعنصر المحتوى التي لم تُنشر بعد، وتنتمي إلى الفرع المحذوف.</target>
+        <target state="translated">إرسال عنصر المحتوى هذا إلى سلة المهملات سيؤدي أيضًا إلى حذف جميع مسودات عناصر المحتوى التي لم تُنشر بعد، والتي تنتمي إلى الشجرة الفرعية المحذوفة.</target>
         <note>key: modal.delete.header.send_to_trash_draft_warning</note>
       </trans-unit>
       <trans-unit id="83b27a0c6a8a29a8ef2e4324395e0f4433c221f1" resname="modal.delete.header.send_to_trash_draft_warning_header">
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="97eed8ae8abeda0a88005c5adee8bc96a241852e" resname="modal.delete.subitems.trash_message">
         <source>Sending '%name%' and its %totalSubitemsCount% Content item(s) to Trash will also send the sub-items of this Location to Trash.</source>
-        <target state="translated">سيؤدي إرسال '%name%' و%totalSubitemsCount% من عناصر المحتوى التابعة له إلى سلة المهملات إلى إرسال العناصر الفرعية لهذا الموضع إلى سلة المهملات أيضًا.</target>
+        <target state="translated">سيؤدي إرسال '%name%' و%totalSubitemsCount% من عناصر المحتوى التابعة له إلى سلة المهملات إلى نقل العناصر الفرعية لهذا الموضع إليها أيضًا.</target>
         <note>key: modal.delete.subitems.trash_message</note>
       </trans-unit>
     </body>

@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="e2dd18e3aaf052a175ef24dce8a040f858c6bff4" resname="ibexa_image_asset.create.message.error">
         <source>Error while creating Image Asset: %error%</source>
-        <target state="translated">حدث خطأ أثناء إنشاء أصل الصورة: %error%</target>
+        <target state="translated">حدث خطأ أثناء إنشاء مورد الصورة: %error%</target>
         <note>key: ibexa_image_asset.create.message.error</note>
       </trans-unit>
       <trans-unit id="87a6f9f8236a0056422596a9feeb5f78e36cef32" resname="ibexa_image_asset.create.message.success">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="3e375dfcaac24e9a60778d97849294286acdb08e" resname="ibexa_image_asset.empty_data.message.error">
         <source>The chosen asset has no image data available.</source>
-        <target state="translated">الأصل الذي اخترته لا يحتوي على بيانات صورة متاحة.</target>
+        <target state="translated">المورد الذي اخترته لا يحتوي على بيانات صورة متاحة.</target>
         <note>key: ibexa_image_asset.empty_data.message.error</note>
       </trans-unit>
       <trans-unit id="8abe7c12c95d3e11bafd55e0e9f185b4a3d1ddd6" resname="ibexa_maplocation.create.message.error">

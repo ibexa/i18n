@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="d23c2f190381df7d8a1ac3c3de0df4631c161818" resname="url.label.modified">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: url.label.modified</note>
       </trans-unit>
       <trans-unit id="323936a3e831f2a2db95bbf5f9a857b56ddc9c8a" resname="url.label.status">

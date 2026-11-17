@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="052696d7bef6d8f4db1a3989bbcfe6c2a226ef2d" resname="Version is assigned to another user (%name%) since %modified%.">
         <source>Version is assigned to another user (%name%) since %modified%.</source>
-        <target state="translated">تم تعيين النسخة لمستخدم آخر (%name%) منذ %modified%.</target>
+        <target state="translated">تم تعيين الإصدار لمستخدم آخر (%name%) منذ %modified%.</target>
         <note>key: Version is assigned to another user (%name%) since %modified%.</note>
       </trans-unit>
       <trans-unit id="677ac1799ba679f6f645ed641e4460d34d6e86a5" resname="Workflow '%workflowName%' does not exist">

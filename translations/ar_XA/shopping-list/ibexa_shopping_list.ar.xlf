@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="9d6ee18122da2909905b996167bf59da6cc2ce7d" resname="shopping_list.clear.success">
         <source>Shopping list cleared.</source>
-        <target state="translated">تم حذف/محو قائمة التسوق.</target>
+        <target state="translated">تم إفراغ قائمة التسوق.</target>
         <note>key: shopping_list.clear.success</note>
       </trans-unit>
       <trans-unit id="6cedcf4550be9d7181532b9c703b0b6099c31741" resname="shopping_list.create.title">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="e40116536687e5194f788cb792a6eb115727c576" resname="shopping_list.form.clear">
         <source>Clear</source>
-        <target state="translated">حذف/محو</target>
+        <target state="translated">مسح</target>
         <note>key: shopping_list.form.clear</note>
       </trans-unit>
       <trans-unit id="53dd686c92af4341750e7ed75893ac1f017e82f4" resname="shopping_list.form.create">

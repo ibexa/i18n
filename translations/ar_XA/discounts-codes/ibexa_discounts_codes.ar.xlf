@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="93acc01c3d9c13bef41a11bf64721ebb52676a68" resname="checkout.error.discount_code_unusable">
         <source>Discount code cannot be used anymore. Please revisit your prices or use different code.</source>
-        <target state="translated">لا يمكن استخدام الرمز الترويجي بعد الآن. يرجى مراجعة الأسعار أو استخدام رمز آخر.</target>
+        <target state="translated">لا يمكن استخدام رمز الخصم بعد الآن. يرجى مراجعة الأسعار أو استخدام رمز آخر.</target>
         <note>key: checkout.error.discount_code_unusable</note>
       </trans-unit>
       <trans-unit id="2c3218d00875c8a2111fa31416a714f82f558d32" resname="discount.create.details.conditions.discount_code.no">
@@ -58,17 +58,17 @@
       </trans-unit>
       <trans-unit id="aaf61a92e45c8c78fe66a011ab643c26074de066" resname="discount.form.global_usage_count.label">
         <source>All customers can use discount maximum</source>
-        <target state="translated">يمكن لجميع الزبائن استخدام الرمز الترويجي بحد أقصى</target>
+        <target state="translated">يمكن لجميع العملاء استخدام رمز الخصم بحد أقصى</target>
         <note>key: discount.form.global_usage_count.label</note>
       </trans-unit>
       <trans-unit id="3e197d7968e9b489d437b629a70be50843f23c99" resname="discount.form.usage_count.label">
         <source>Customer can use discount code</source>
-        <target state="translated">يمكن للزبون استخدام الرمز الترويجي</target>
+        <target state="translated">يمكن للعميل استخدام رمز الخصم</target>
         <note>key: discount.form.usage_count.label</note>
       </trans-unit>
       <trans-unit id="14f8a98674e7f5761647abcb7fa5216338c761af" resname="discount.form.wizard.discount_code_toggle">
         <source>Customer must use discount code</source>
-        <target state="translated">يجب على الزبون استخدام الرمز الترويجي</target>
+        <target state="translated">يجب على العميل استخدام رمز الخصم</target>
         <note>key: discount.form.wizard.discount_code_toggle</note>
       </trans-unit>
     </body>

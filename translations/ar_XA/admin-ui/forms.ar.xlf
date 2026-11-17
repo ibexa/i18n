@@ -98,12 +98,12 @@
       </trans-unit>
       <trans-unit id="4a2eb58572364b0fa04e67a800e0fbb09df205be" resname="form.trash_assets.label">
         <source>Asset Fields(s)</source>
-        <target state="translated">حقول المورد</target>
+        <target state="translated">حقول الموارد</target>
         <note>key: form.trash_assets.label</note>
       </trans-unit>
       <trans-unit id="6bc8ac1fbf981deec94bd4a2b8aa877d60eee651" resname="form.trash_assets_non_unique.label">
         <source>Asset Fields(s)</source>
-        <target state="translated">حقول المورد</target>
+        <target state="translated">حقول الموارد</target>
         <note>key: form.trash_assets_non_unique.label</note>
       </trans-unit>
       <trans-unit id="a1e42d4c649f7fbb614729978fea692be51d1485" resname="languages_delete_form.delete">
@@ -178,7 +178,7 @@
       </trans-unit>
       <trans-unit id="710f8e6ab682db07141d71bc6df5246988a0560f" resname="role_assignment.locations">
         <source>Select subtree</source>
-        <target state="translated">تحديد فرع فرعي</target>
+        <target state="translated">اختر الشجرة الفرعية</target>
         <note>key: role_assignment.locations</note>
       </trans-unit>
       <trans-unit id="90266f1e47b42712e761c7fea00fb8e8c949f37e" resname="role_assignment.save">
@@ -268,7 +268,7 @@
       </trans-unit>
       <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
         <source>Select Content item</source>
-        <target state="translated">تحديد عنصر المحتوى</target>
+        <target state="translated">اختر عنصر المحتوى</target>
         <note>key: swap_location_form.swap</note>
       </trans-unit>
       <trans-unit id="d183d1b00142b36a06d45e6341e4c8b01976a6b9" resname="translation.base_language.label">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="3b2ae7aa286887e2fbd2b6e77ca237f9f9109e9b" resname="version_remove_form.remove">
         <source>Remove version</source>
-        <target state="translated">إزالة النسخة</target>
+        <target state="translated">إزالة الإصدار</target>
         <note>key: version_remove_form.remove</note>
       </trans-unit>
     </body>

@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="d7e7d23a9c363db8c35427d038398f822f213f6a" resname="calendar.filters.modified_langauge">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: calendar.filters.modified_langauge</note>
       </trans-unit>
       <trans-unit id="df77d6ad5d75abff892899e8f5667e00fc63a005" resname="calendar.filters.types">

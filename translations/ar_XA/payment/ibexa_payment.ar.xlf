@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="0b5b99b221eb7b59e474ba769bf54387373d18ae" resname="ibexa.payment.list.no_search_results.info_text">
         <source>Sorry, there are no payments for your search</source>
-        <target state="translated">عذرًا، لا توجد مدفوعات لبحثك</target>
+        <target state="translated">عذرًا، لا توجد مدفوعات تطابق بحثك</target>
         <note>key: ibexa.payment.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="ce9f74bf6b9fdeef3d5968a12bff13db1c9f6e02" resname="ibexa.payment.list.search.query.placeholder">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="890d43cc5e22dbb587396e9dae6268c309b39677" resname="ibexa.payment_method.breadcrumb.view">
         <source>%name% </source>
-        <target state="translated">%name%</target>
+        <target state="translated">%name% </target>
         <note>key: ibexa.payment_method.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="bd82580db50d0605cf891c3dcd38f8ebeb47f270" resname="ibexa.payment_method.creating.title">
@@ -308,7 +308,7 @@
       </trans-unit>
       <trans-unit id="ee3a153257bdf9130d4f08dafa48552893e6df9c" resname="ibexa.payment_method.list.no_search_results.info_text">
         <source>Sorry, there are no payment methods for your search</source>
-        <target state="translated">عذرًا، لا توجد طرق دفع لبحثك</target>
+        <target state="translated">عذرًا، لا توجد طرق دفع تطابق بحثك</target>
         <note>key: ibexa.payment_method.list.no_search_results.info_text</note>
       </trans-unit>
       <trans-unit id="e6a734fbd0274ea78814b3330723ba353582fac4" resname="ibexa.payment_method.list.search.query.placeholder">

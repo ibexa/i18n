@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="e73bd7db6d4346504e0f69e5204a9f587a05bc40" resname="main__product_catalog">
         <source>Product catalog</source>
-        <target state="translated">قائِمَة المنتجات</target>
+        <target state="translated">كتالوج المنتجات</target>
         <note>key: main__product_catalog</note>
       </trans-unit>
       <trans-unit id="62b7151b8503e26cda3f8d3ed0a6809a0bf257c8" resname="main__product_catalog__attribute_groups">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="2d1562861e9979b39253bdf23670b69bd69b8202" resname="main__product_catalog__customer_groups">
         <source>Customer Groups</source>
-        <target state="translated">مجموعات الزبائن</target>
+        <target state="translated">مجموعات العملاء</target>
         <note>key: main__product_catalog__customer_groups</note>
       </trans-unit>
       <trans-unit id="6c628370bd691cddba428580bc0d68dbd3ea87cb" resname="main__product_catalog__group_settings">

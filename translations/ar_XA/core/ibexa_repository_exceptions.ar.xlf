@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="bb8de8e210fd9fae30fd529a1128c07ae8512c22" resname="$limitationValue-&gt;limitationValues for '%identifier%' Limitation can not be empty">
         <source><![CDATA[$limitationValue->limitationValues for '%identifier%' Limitation can not be empty]]></source>
-        <target state="translated"><![CDATA[$limitationValue->limitationValues للقيْد '%identifier%' لا يمكن أن يكون فارغًا]]></target>
+        <target state="translated"><![CDATA[$limitationValue->limitationValues للقيد '%identifier%' لا يمكن أن يكون فارغًا]]></target>
         <note>key: $limitationValue-&gt;limitationValues for '%identifier%' Limitation can not be empty</note>
       </trans-unit>
       <trans-unit id="bdaae3444afba4eebebe2e0f684a0e56e81afafd" resname="'%actualValue%' is incorrect value">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="50d1d8cb3212e4d0e5acc060e738f1826b33dd30" resname="Content %type% is not a valid asset target">
         <source>Content %type% is not a valid asset target</source>
-        <target state="translated">نوع المحتوى %type% ليس هدف مورد صالح</target>
+        <target state="translated">نوع المحتوى %type% ليس هدفًا صالحًا للمورد</target>
         <note>key: Content %type% is not a valid asset target</note>
       </trans-unit>
       <trans-unit id="8967aa151e1b84f60c505163d42350eb6a96e948" resname="Content fields did not validate">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="bd31261fbee17ca1e69927adfd77e877e2a86002" resname="Country with Alpha2 code '%alpha2%' is not defined in FieldType settings.">
         <source>Country with Alpha2 code '%alpha2%' is not defined in FieldType settings.</source>
-        <target state="translated">الدولة ذات رمز Alpha2 '%alpha2%' غير معرفة في إعدادات وع الحقل.</target>
+        <target state="translated">الدولة ذات رمز Alpha2 '%alpha2%' غير معرفة في إعدادات نوع الحقل.</target>
         <note>key: Country with Alpha2 code '%alpha2%' is not defined in FieldType settings.</note>
       </trans-unit>
       <trans-unit id="0916f6f9b4fbf5df579dbdf281c4dd486bb2bd8d" resname="Each keyword must be a string.">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="c6136a74d1562ea6d15321ee75b9b307fc787e79" resname="Field Type '%fieldType%' not found. It must be implemented or configured to use %nullType%">
         <source>Field Type '%fieldType%' not found. It must be implemented or configured to use %nullType%</source>
-        <target state="translated">لم يتم العثور على وع الحقل '%fieldType%'. يجب تنفيذه أو تهيئته لاستخدام %nullType%</target>
+        <target state="translated">لم يتم العثور على نوع الحقل '%fieldType%'. يجب تنفيذه أو تهيئته لاستخدام %nullType%</target>
         <note>key: Field Type '%fieldType%' not found. It must be implemented or configured to use %nullType%</note>
       </trans-unit>
       <trans-unit id="5dc8e460be7495d772cdb7bc4d4bd2913e480273" resname="Field definition '%identifier%' does not exist in given content type">
@@ -163,12 +163,12 @@
       </trans-unit>
       <trans-unit id="0a7a9d488d82cb20f7b0fdfb67cf91f5be027dd1" resname="FieldType '%fieldType%' does not accept settings">
         <source>FieldType '%fieldType%' does not accept settings</source>
-        <target state="translated">وع الحقل '%fieldType%' لا يقبل الإعدادات</target>
+        <target state="translated">نوع الحقل '%fieldType%' لا يقبل الإعدادات</target>
         <note>key: FieldType '%fieldType%' does not accept settings</note>
       </trans-unit>
       <trans-unit id="063039e538d6185d99729be1c3d7500cdb8764d2" resname="FieldType '%fieldType%' expects setting '%setting%' to be of type '%type%'">
         <source>FieldType '%fieldType%' expects setting '%setting%' to be of type '%type%'</source>
-        <target state="translated">وع الحقل '%fieldType%' يتوقع أن يكون الإعداد '%setting%' من نوع '%type%'</target>
+        <target state="translated">نوع الحقل '%fieldType%' يتوقع أن يكون الإعداد '%setting%' من نوع '%type%'</target>
         <note>key: FieldType '%fieldType%' expects setting '%setting%' to be of type '%type%'</note>
       </trans-unit>
       <trans-unit id="9fd939f460767fe70deca9a2253612faaf21541f" resname="ISBN value must be in a valid ISBN-10 format">
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="87d1caa3303a7197201d77b1bcb03ae38356097b" resname="Limitation '%limitation%' not found. It must be implemented or configured to use %blockingLimitation%">
         <source>Limitation '%limitation%' not found. It must be implemented or configured to use %blockingLimitation%</source>
-        <target state="translated">القيْد '%limitation%' غير موجود. يجب تنفيذه أو تهيئته لاستخدام %blockingLimitation%</target>
+        <target state="translated">لم يتم العثور على القيد '%limitation%'. يجب تنفيذه أو تهيئته لاستخدام %blockingLimitation%</target>
         <note>key: Limitation '%limitation%' not found. It must be implemented or configured to use %blockingLimitation%</note>
       </trans-unit>
       <trans-unit id="71fd5f8839faaadfe7c61def7e4b42d429959952" resname="Limitations did not validate">
@@ -483,7 +483,7 @@
       </trans-unit>
       <trans-unit id="1d60b8441327f4f07094c741cea646a38ec94d67" resname="limitationValues[%key%] =&gt; '%value%' must be 1 (owner)">
         <source><![CDATA[limitationValues[%key%] => '%value%' must be 1 (owner)]]></source>
-        <target state="translated"><![CDATA[limitationValues[%key%] => يجب أن تكون '%value%' تساوي 1 (المالك)]]></target>
+        <target state="translated"><![CDATA[limitationValues[%key%] => '%value%' يجب أن يساوي 1 (المالك)]]></target>
         <note>key: limitationValues[%key%] =&gt; '%value%' must be 1 (owner)</note>
       </trans-unit>
       <trans-unit id="6deaad828c2b2506ccef5940fbc0a31ee540ce77" resname="limitationValues[%key%] =&gt; '%value%' must be an integer">

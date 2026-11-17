@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="b66f736c979029c79cfdd36ce27f4e0974109369" resname="blocks._all_.no_permissions.body">
         <source>You don't have permissions to view this block</source>
-        <target state="translated">ليس لديك صلاحية لعرض هذا المكوّن</target>
+        <target state="translated">ليس لديك صلاحية لعرض هذه الكتلة</target>
         <note>key: blocks._all_.no_permissions.body</note>
       </trans-unit>
       <trans-unit id="7abfc0a8a8b47b40e48b4f78f58a587eb45766d1" resname="dashboard.top_clicked_items">

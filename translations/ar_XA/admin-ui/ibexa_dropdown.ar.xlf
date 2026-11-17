@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="8fedbb70c8494c057fb45930e46671a659bae616" resname="dropdown.clear">
         <source>Clear (%selected_items_count%)</source>
-        <target state="translated">حذف/محو (%selected_items_count%)</target>
+        <target state="translated">مسح (%selected_items_count%)</target>
         <note>key: dropdown.clear</note>
       </trans-unit>
       <trans-unit id="ada9f9b1f9f1b312d3b2de5dbdbcf89065f72608" resname="dropdown.no_results">

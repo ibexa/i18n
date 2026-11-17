@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="09997ca2dccfa62b37dfb5f14189f8336f83ee10" resname="role.policy.rte">
         <source>Real Time Editing</source>
-        <target state="translated">التعديل في الوقت الحقيقي</target>
+        <target state="translated">التعديل في الوقت الفعلي</target>
         <note>key: role.policy.rte</note>
       </trans-unit>
       <trans-unit id="da50d152a1d0a933fbafcfea81482cbb07733113" resname="role.policy.rte.all_functions">
         <source>Real Time Editing / All functions</source>
-        <target state="translated">التعديل في الوقت الحقيقي / جميع الوظائف</target>
+        <target state="translated">التعديل في الوقت الفعلي / جميع الوظائف</target>
         <note>key: role.policy.rte.all_functions</note>
       </trans-unit>
       <trans-unit id="e3e876d48cc48789274bdd528143f12e56f4e670" resname="role.policy.rte.edit">
         <source>Real Time Editing / Edit</source>
-        <target state="translated">التعديل في الوقت الحقيقي / تحرير</target>
+        <target state="translated">التعديل في الوقت الفعلي / تعديل</target>
         <note>key: role.policy.rte.edit</note>
       </trans-unit>
     </body>

@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="9822444f9678d810cd6d3076721a7b9bcd124737" resname="targeted_content_map.no_configuration">
         <source>No segments defined. Create Segments in the Admin panel to use this block.</source>
-        <target state="translated">لم يتم تعريف أي شرائح. أنشئ شرائح في لوحة الإدارة لاستخدام هذا المكوّن.</target>
+        <target state="translated">لم يتم تعريف أي شرائح. أنشئ شرائح في لوحة الإدارة لاستخدام هذه الكتلة.</target>
         <note>key: targeted_content_map.no_configuration</note>
       </trans-unit>
       <trans-unit id="f6dfd4604427f5b09f138435994b17c79b32083c" resname="visibility.action_btn.close">

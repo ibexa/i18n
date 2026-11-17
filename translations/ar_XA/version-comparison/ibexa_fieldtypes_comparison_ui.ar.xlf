@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="d4af9d73b5774c8f8b4c2aa3e35a1affc984a8ea" resname="content.comparison.tooltip.item.label.added">
         <source>Text added</source>
-        <target state="translated">تمت إضافة نص</target>
+        <target state="translated">تمت إضافة النص</target>
         <note>key: content.comparison.tooltip.item.label.added</note>
       </trans-unit>
       <trans-unit id="cd4a39da08ba3646baf31b4a96c5000dcf463334" resname="content.comparison.tooltip.item.label.changed">

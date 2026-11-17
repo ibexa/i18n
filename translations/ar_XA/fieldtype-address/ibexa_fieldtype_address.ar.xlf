@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="4fcde32cdb31aa6754efb041462b7f67f640d414" resname="ibexa.address.fields.region">
         <source>Region</source>
-        <target state="translated">منطقة</target>
+        <target state="translated">المنطقة</target>
         <note>key: ibexa.address.fields.region</note>
       </trans-unit>
       <trans-unit id="fd68c9668ea0611dc15505a4d857a9327c130eed" resname="ibexa.address.fields.street">

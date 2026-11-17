@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="e6e5487c8514d264ee88b1825cc58639c49408bc" resname="ibexa.fieldtype_page.block.schedule.name">
         <source>Content Scheduler</source>
-        <target state="translated">مخطِّط المحتوى</target>
+        <target state="translated">مجدوِل المحتوى</target>
         <note>key: ibexa.fieldtype_page.block.schedule.name</note>
       </trans-unit>
       <trans-unit id="a3c072c7771d2ea0e84a54b96348e031c6b6ed67" resname="ibexa.fieldtype_page.block.tag.attributes.content.name">

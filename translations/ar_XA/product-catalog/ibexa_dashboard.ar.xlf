@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0c92c38dec5768a67c3025dff43132a1a58f2ae9" resname="block.product_lowest_stock.column.category">
         <source>Category</source>
-        <target state="translated">فئة/ صنف</target>
+        <target state="translated">الفئة</target>
         <note>key: block.product_lowest_stock.column.category</note>
       </trans-unit>
       <trans-unit id="e7efcfdd8c522a932bdb992d86580c07a0cdb3af" resname="block.product_lowest_stock.column.code">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="80f3c62bda35579bac9374ecc27b668ded7318c9" resname="block.product_lowest_stock.column.thumbnail">
         <source>Image</source>
-        <target state="translated">صورة</target>
+        <target state="translated">الصورة</target>
         <note>key: block.product_lowest_stock.column.thumbnail</note>
       </trans-unit>
       <trans-unit id="f9b374b3775aabdd5f5a1ae1d3a37e73108b8554" resname="block.product_lowest_stock.column.type">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="c5cb4e74ef2de0cb72dcf23e20dd2be09a276afc" resname="block.product_lowest_stock.column.variant">
         <source>Variant</source>
-        <target state="translated">نسخة</target>
+        <target state="translated">المتغيّر</target>
         <note>key: block.product_lowest_stock.column.variant</note>
       </trans-unit>
       <trans-unit id="7b3c95d1b3a4b72cf13a6890514f76268bc65031" resname="block.product_lowest_stock.empty">

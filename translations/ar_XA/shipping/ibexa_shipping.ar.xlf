@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="983b7923a93c45df36b89a2367db8990d07d1dba" resname="ibexa.shipment.list.column.customer_name">
         <source>Customer name</source>
-        <target state="translated">اسم الزبون</target>
+        <target state="translated">اسم العميل</target>
         <note>key: ibexa.shipment.list.column.customer_name</note>
       </trans-unit>
       <trans-unit id="00cc40ed3744783cc9df2cf506458b8514a22efb" resname="ibexa.shipment.list.column.identifier">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="7cce2cdc1281626bd988c37704644fa56564e945" resname="ibexa.shipment.list.table.empty.info">
         <source>Sorry, there are no shipments for your search</source>
-        <target state="translated">عذرًا، لا توجد شحنات لبحثك</target>
+        <target state="translated">عذرًا، لا توجد شحنات تطابق بحثك</target>
         <note>key: ibexa.shipment.list.table.empty.info</note>
       </trans-unit>
       <trans-unit id="2035569c3a65998f6a34597dbb6247160dd48096" resname="ibexa.shipment.list.title">
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="07e62ea42576ad616a9ae38455336f367c064510" resname="ibexa.shipping.list.table.header.region">
         <source>Region</source>
-        <target state="translated">منطقة</target>
+        <target state="translated">المنطقة</target>
         <note>key: ibexa.shipping.list.table.header.region</note>
       </trans-unit>
       <trans-unit id="adf8c300a4c0f27e4d431e3f45f2d6c0be3da478" resname="ibexa.shipping_method.anchor_navigation.cost">
@@ -393,7 +393,7 @@
       </trans-unit>
       <trans-unit id="f3dd216dde237977043d92089b9a41ee5149ac54" resname="ibexa.shipping_method.view.tab.global_properties.region">
         <source>Region</source>
-        <target state="translated">منطقة</target>
+        <target state="translated">المنطقة</target>
         <note>key: ibexa.shipping_method.view.tab.global_properties.region</note>
       </trans-unit>
       <trans-unit id="3d84661ca423ff2c7496b563ae726cf678099a54" resname="ibexa.shipping_method.view.title">
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="b412f6087a0fa782311a06f4838e54f07b56ccb9" resname="shipment.tab.summary.customer_details.details.customer_name.label">
         <source>Customer name</source>
-        <target state="translated">اسم الزبون</target>
+        <target state="translated">اسم العميل</target>
         <note>key: shipment.tab.summary.customer_details.details.customer_name.label</note>
       </trans-unit>
       <trans-unit id="a4f47b8c916d08a1303772b440102cf62e8f2f7a" resname="shipment.tab.summary.customer_details.details.email.label">
@@ -498,7 +498,7 @@
       </trans-unit>
       <trans-unit id="d5991c7c8a613115510b6c06a6616a02c5ca0d1a" resname="shipment.tab.summary.shipping_address.details.region.label">
         <source>Region</source>
-        <target state="translated">منطقة</target>
+        <target state="translated">المنطقة</target>
         <note>key: shipment.tab.summary.shipping_address.details.region.label</note>
       </trans-unit>
       <trans-unit id="d05f95138a18e2ec789cdb3ce361c9c3223d0d82" resname="shipment.tab.summary.shipping_address.details.street.label">
@@ -508,7 +508,7 @@
       </trans-unit>
       <trans-unit id="c843c090608ed647e2ea1a34da043af8ec78d6be" resname="shipment.tab.view-summary.customer_details.details.headline">
         <source>Customer details</source>
-        <target state="translated">تفاصيل الزبون</target>
+        <target state="translated">تفاصيل العميل</target>
         <note>key: shipment.tab.view-summary.customer_details.details.headline</note>
       </trans-unit>
       <trans-unit id="7ff8dd9aa1c9135dd3a9929c8003f3a5eebbf545" resname="shipping_method.create.success">

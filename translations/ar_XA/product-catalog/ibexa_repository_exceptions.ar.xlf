@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="fa4e9f7beff98133f62da3110c575da4401373c5" resname="Customer group with ID :id does not exist">
         <source>Customer group with ID :id does not exist</source>
-        <target state="translated">مجموعة زبائن بالمعرّف :id غير موجودة</target>
+        <target state="translated">مجموعة عملاء بالمعرّف :id غير موجودة</target>
         <note>key: Customer group with ID :id does not exist</note>
       </trans-unit>
       <trans-unit id="1cf6b73f9ba512fbfb01b3e0d425a1a3fced01d2" resname="Missing ID for Customer Group">
         <source>Missing ID for Customer Group</source>
-        <target state="translated">معرّف مجموعة الزبائن مفقود</target>
+        <target state="translated">معرّف مجموعة العملاء مفقود</target>
         <note>key: Missing ID for Customer Group</note>
       </trans-unit>
       <trans-unit id="861d7d199b8b7918672a8e35a394fa5e2c42cf94" resname="Setting '%setting%' is unknown">

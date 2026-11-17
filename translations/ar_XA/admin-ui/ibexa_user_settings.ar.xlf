@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="16b6d2224d9bf8a8ce12e0540d3528adc39315a0" resname="settings.autosave_interval.value.description">
         <source>Seconds till next draft autosave</source>
-        <target state="translated">ثوانٍ حتى الحفظ التلقائي التالي للمسودة</target>
+        <target state="translated">عدد الثواني حتى الحفظ التلقائي التالي للمسودة</target>
         <note>key: settings.autosave_interval.value.description</note>
       </trans-unit>
       <trans-unit id="870ccdccf629e90b1100e2422684918accc5c4c1" resname="settings.autosave_interval.value.title">
@@ -100,12 +100,12 @@
                             <li>Hidden Locations and Versions tabs in Content items</li>
                         </ul>
                     </p>]]></source>
-        <target state="translated"><![CDATA[<p><strong>وضع التركيز</strong> – واجهة نظيفة وسهلة الاستخدام مع بنية محتوى مبسطة،
+        <target state="translated"><![CDATA[<p><strong>وضع التركيز</strong> – واجهة واضحة وسهلة الاستخدام مع بنية محتوى مبسطة،
               صُممت للمستخدمين الجدد وغير المتقدمين. تشمل الميزات:</p>
               <ul>
                   <li>علامة التبويب "عرض" لعرض معاينة الموقع ضمن السياق</li>
-                  <li>إخفاء علامة تبويب التفاصيل التقنية</li>
-                  <li>إخفاء علامتي التبويب المواضع والإصدارات في عناصر المحتوى</li>
+                  <li>إخفاء علامة التبويب "التفاصيل التقنية"</li>
+                  <li>إخفاء علامتي التبويب "المواضع" و"الإصدارات" في عناصر المحتوى</li>
               </ul>
 </p>]]></target>
         <note>key: user.setting.focus_mode.help</note>

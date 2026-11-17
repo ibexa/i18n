@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
         <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
-        <target state="translated">ليس لديك إذن '%function%' '%module%' لعنصر المحتوى ذو المعرف: %contentId%</target>
+        <target state="translated">ليس لديك إذن '%function%' '%module%' لعنصر المحتوى ذي المعرف: %contentId%</target>
         <note>key: dashboard.table.draft.unauthorized</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
         <source>Modified</source>
-        <target state="translated">تم تعديله</target>
+        <target state="translated">تاريخ التعديل</target>
         <note>key: dashboard.table.last_saved</note>
       </trans-unit>
       <trans-unit id="ec988391649c3e25028a629b4e38dc426f4c4615" resname="dashboard.table.media.edit">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">

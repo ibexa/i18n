@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="f959f501d6fe50e8cb2bba1d789cc29c3b3a31f2" resname="future_publication.attribute.modified_language.label">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: future_publication.attribute.modified_language.label</note>
       </trans-unit>
       <trans-unit id="b707401e387977dff9576ab9c9fcfa3a081ffbca" resname="future_publication.label">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="3ac0155a7aa68fb42895db7b88488dd6bca64259" resname="modal.discard.table.language.label">
         <source>Modified language</source>
-        <target state="translated">اللغة المعدلة</target>
+        <target state="translated">لغة التعديل</target>
         <note>key: modal.discard.table.language.label</note>
       </trans-unit>
       <trans-unit id="009172790a92714b1fad31ff1ea9f9691f3b9953" resname="modal.discard.table.name.label">

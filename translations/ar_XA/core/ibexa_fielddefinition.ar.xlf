@@ -168,7 +168,7 @@
       </trans-unit>
       <trans-unit id="edd8db0307e234e095d1788540bd026e48e173f8" resname="fielddefinition.media-player-type.real_player">
         <source>Real Player</source>
-        <target state="translated">Real Player</target>
+        <target state="translated">RealPlayer</target>
         <note>key: fielddefinition.media-player-type.real_player</note>
       </trans-unit>
       <trans-unit id="4ad14874021f1b806f9c93b41ef195b12fe5ab3f" resname="fielddefinition.media-player-type.silverlight">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="61d9fc8a2cbcb067d39496dba7e884caf51cf245" resname="fielddefinition.media-player-type.windows_media_player">
         <source>Window Media Player</source>
-        <target state="translated">Window Media Player</target>
+        <target state="translated">Windows Media Player</target>
         <note>key: fielddefinition.media-player-type.windows_media_player</note>
       </trans-unit>
       <trans-unit id="ee5c85f0dae011c10d9d2bfb1fcd86e529c55536" resname="fielddefinition.min-length.label">

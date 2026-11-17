@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="0a1edadd261d980d2b77d4e9c5a316e5d0b71a76" resname="preview.recommendation_response_description">
         <source>The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</source>
-        <target state="translated">طريقة عرض التوصيات هنا مجرد مثال. قد تختلف عن الطريقة الفعلية التي يستخدمها الزبون في الموقع.</target>
+        <target state="translated">طريقة عرض التوصيات هنا مجرد مثال. قد تختلف عن الطريقة الفعلية التي يستخدمها العميل في الموقع</target>
         <note>key: preview.recommendation_response_description</note>
       </trans-unit>
       <trans-unit id="04a82a9f3d13db85aad2887c7b39464d8e520315" resname="product_type.edit.search">

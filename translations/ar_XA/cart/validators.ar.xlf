@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="c1134e431d0a1e992f569d7bf51a5ac32d7fba4b" resname="ibexa.cart.batch_order.base_product.error">
         <source>Cannot add base product "{{ productName }}" to the cart.</source>
-        <target state="translated">لا يمكن إضافة المنتوج الأساسي "{{ productName }}" إلى سلة التسوّق.</target>
+        <target state="translated">لا يمكن إضافة المنتوج الأساسي "{{ productName }}" إلى سلة التسوق.</target>
         <note>key: ibexa.cart.batch_order.base_product.error</note>
       </trans-unit>
       <trans-unit id="7c28cf09bc3b65c78b0c9f54abdb6a2a058017f4" resname="ibexa.cart.batch_order.cannot_be_added_to_cart.error">
         <source>Cannot add "{{ productName }}" to the cart.</source>
-        <target state="translated">لا يمكن إضافة "{{ productName }}" إلى سلة التسوّق.</target>
+        <target state="translated">لا يمكن إضافة "{{ productName }}" إلى سلة التسوق.</target>
         <note>key: ibexa.cart.batch_order.cannot_be_added_to_cart.error</note>
       </trans-unit>
       <trans-unit id="2eede357c5fe83b5a23dc114f896c7cdf38b3b67" resname="ibexa.cart.product_available_for_quantity_increase.error">

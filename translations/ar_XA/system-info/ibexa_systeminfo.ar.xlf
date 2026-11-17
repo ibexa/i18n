@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="874ad8df43111be5efde68a54160acf7badff6c9" resname="composer">
         <source>Composer</source>
-        <target state="translated">المُركِّب</target>
+        <target state="translated">Composer</target>
         <note>key: composer</note>
       </trans-unit>
       <trans-unit id="d46743c0b44b0022d9e5743ffe753b2452c381a4" resname="composer.minimum_stability">
@@ -298,7 +298,7 @@
       </trans-unit>
       <trans-unit id="a2a92e9d0e41ea4a14c99ab0f702d5df3ea017c3" resname="tab.name.composer">
         <source>Composer</source>
-        <target state="translated">المُركِّب</target>
+        <target state="translated">Composer</target>
         <note>key: tab.name.composer</note>
       </trans-unit>
       <trans-unit id="951e3ad18b17f0b2aa96fcb84f6eb25f208e1127" resname="tab.name.hardware">

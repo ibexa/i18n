@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="85b94c4fb2206ed42a2e919a7253ccbd961eb24f" resname="block.quick_actions.tile.catalog">
         <source>Catalog</source>
-        <target state="translated">قائِمَة/الكتالوج</target>
+        <target state="translated">الكتالوج</target>
         <note>key: block.quick_actions.tile.catalog</note>
       </trans-unit>
       <trans-unit id="de90ef20a15d3850b87c5273ffeed8c3910a9fa4" resname="block.quick_actions.tile.company">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="099756a566ba5e73ab5da3bfd66c35400b7a1c90" resname="dashboard.change_active.success">
         <source>Active dashboard is set to '%name%' </source>
-        <target state="translated">تم تعيين لوحة التحكم النشطة إلى '%name%'</target>
+        <target state="translated">تم تعيين لوحة التحكم النشطة إلى '%name%' </target>
         <note>key: dashboard.change_active.success</note>
       </trans-unit>
       <trans-unit id="b71b9907038c72f6da5ea69b76a4cd560c538123" resname="dashboard.customize">
@@ -108,7 +108,7 @@
       </trans-unit>
       <trans-unit id="de53c8583b78a3554c64831bc9315e5b74d1cf1a" resname="dashboard.sent_to_trash.info">
         <source>The default dashboard cannot be sent to the trash</source>
-        <target state="translated">لا يمكن إرسال لوحة التحكم الافتراضية إلى المهملات</target>
+        <target state="translated">لا يمكن إرسال لوحة التحكم الافتراضية إلى سلة المهملات</target>
         <note>key: dashboard.sent_to_trash.info</note>
       </trans-unit>
       <trans-unit id="27569ea498dd6ed40297e3ed7dac9b1faaaec4d2" resname="dashboard.switch_to_custom">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="28936a58fd6a2a3c9b2b7e0da76e2d10a38f653b" resname="info_bar.dashboard.label">
         <source>Dashboard Builder</source>
-        <target state="translated">محرر لوحات التحكم</target>
+        <target state="translated">منشئ لوحات التحكم</target>
         <note>key: info_bar.dashboard.label</note>
       </trans-unit>
       <trans-unit id="63e54ad889426b11df176a8fc17a6d9bf928b9fb" resname="info_bar.dashboard.toolbox.title">

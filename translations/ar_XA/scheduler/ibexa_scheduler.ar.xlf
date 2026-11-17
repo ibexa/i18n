@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="d72a29b32751f629c33f6223c5b6477308a0ebb4" resname="content.trashed">
         <source>Content moved to Trash</source>
-        <target state="translated">تم نقل عنصر المحتوى إلى سلة المحذوفات</target>
+        <target state="translated">تم نقل عنصر المحتوى إلى سلة المهملات</target>
         <note>key: content.trashed</note>
       </trans-unit>
       <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated">

@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="6285fab36331fa98cf8ecfa7fef32ceac6259a7e" resname="add_to_cart.add_btn">
         <source>Add to cart</source>
-        <target state="translated">أضف إلى سلة التسوّق</target>
+        <target state="translated">إضافة إلى سلة التسوق</target>
         <note>key: add_to_cart.add_btn</note>
       </trans-unit>
       <trans-unit id="b65cff1cb06737742a728819507fc1a75c8ae4c9" resname="maincart.item.remove_btn.label">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="8764dc7ac913ad84f018779d2958a9945ded077c" resname="quick_order.add_to_cart">
         <source>Add to cart</source>
-        <target state="translated">أضف إلى سلة التسوّق</target>
+        <target state="translated">إضافة إلى سلة التسوق</target>
         <note>key: quick_order.add_to_cart</note>
       </trans-unit>
       <trans-unit id="0d2bd58cc0be916d6fbcc58db6d27c04bac40e2c" resname="quick_order.delete_entry">
@@ -58,12 +58,12 @@
       </trans-unit>
       <trans-unit id="dd192106c7608690ea1a6de7c87c48760724a168" resname="summary.item.shipping_cost.value">
         <source>Calculated at checkout</source>
-        <target state="translated">يتم حسابها عند الانتهاء/الدفع</target>
+        <target state="translated">يتم حسابها عند إتمام الشراء</target>
         <note>key: summary.item.shipping_cost.value</note>
       </trans-unit>
       <trans-unit id="1efe4d907513991cdbd4689f48487c221bc5eab9" resname="summary.item.subtotal.label">
         <source>Subtotal</source>
-        <target state="translated">الإجمالي الفرعي</target>
+        <target state="translated">المجموع الفرعي</target>
         <note>key: summary.item.subtotal.label</note>
       </trans-unit>
       <trans-unit id="8c121556a8642239bb0de29a2e32fa04501c0419" resname="summary.item.total.label">

@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="43f6c371ee4aaf59a10adc379607e13ac8202642" resname="ibexa_gmap_location.location_properties">
         <source>Location properties</source>
-        <target state="translated">خصائص الموضع</target>
+        <target state="translated">خصائص الموقع الجغرافي</target>
         <note>key: ibexa_gmap_location.location_properties</note>
       </trans-unit>
       <trans-unit id="04678478637e6cc730693422c71eb7e3b80e6e0b" resname="ibexa_gmap_location.longitude">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="ba862f9efb9e5a8d48f4322d85e1f481c3466a50" resname="ibexa_image_asset.not_available">
         <source>Image asset is not available (related content has been deleted or you have insufficient permissions)</source>
-        <target state="translated">أصل الصورة غير متوفر (تم حذف المحتوى المرتبط أو ليس لديك الصلاحيات الكافية)</target>
+        <target state="translated">مورد الصورة غير متوفر (تم حذف المحتوى المرتبط أو ليس لديك الصلاحيات الكافية)</target>
         <note>key: ibexa_image_asset.not_available</note>
       </trans-unit>
       <trans-unit id="2cd192c1f5c3bb8aadae507afcfd78ad92d347ee" resname="ibexa_image_asset.ratio">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="fc543345baa4b04462bd0b2318a7a92914778538" resname="ibexa_object_relation.version_created">
         <source>Version created</source>
-        <target state="translated">تم إنشاء النسخة</target>
+        <target state="translated">تم إنشاء الإصدار</target>
         <note>key: ibexa_object_relation.version_created</note>
       </trans-unit>
       <trans-unit id="c07aeb78471fdfa98686563a83bb873a9e802a9e" resname="ibexa_object_relation_list.content_type">

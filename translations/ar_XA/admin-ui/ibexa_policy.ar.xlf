@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip">
         <source>"%identifier%" Limitation</source>
-        <target state="translated">حدّ "%identifier%"</target>
+        <target state="translated">قيد "%identifier%"</target>
         <note>key: policy.limitation.identifier_tooltip</note>
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">

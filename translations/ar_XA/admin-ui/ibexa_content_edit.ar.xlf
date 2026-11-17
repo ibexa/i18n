@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
         <source>This Field Type is not editable</source>
-        <target state="translated">هذا النوع من الحقول غير قابل للتعديل</target>
+        <target state="translated">نوع الحقل هذا غير قابل للتعديل</target>
         <note>key: content.field.non_editable</note>
       </trans-unit>
       <trans-unit id="927b5658769b10a67f0aa5e9f3d8b35e746e0276" resname="content.meta.created_by">

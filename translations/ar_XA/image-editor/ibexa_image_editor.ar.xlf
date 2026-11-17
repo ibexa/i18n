@@ -148,7 +148,7 @@
       </trans-unit>
       <trans-unit id="953559e538accd59edc2e1bc4087dbdd15f4bdf4" resname="image_editor.save_as.warning">
         <source>Clicking 'Save as new' will create a copy of the modified image.</source>
-        <target state="translated">عند النقر على "حفظ كجديد" سيتم إنشاء نسخة من الصورة المعدلة.</target>
+        <target state="translated">عند النقر على "حفظ كجديد"، سيتم إنشاء نسخة من الصورة المعدلة.</target>
         <note>key: image_editor.save_as.warning</note>
       </trans-unit>
       <trans-unit id="986a7439f195ccd70f02a02d34690b0f081366b7" resname="image_editor.save_as_new">

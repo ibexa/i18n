@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="a24323da6cca7efa2df9a454bf1da3a3cd4e1279" resname="products_discovery_widget.product_table.empty_table.action_text">
         <source><![CDATA[Go to <a target='_blank' rel='noopener noreferrer' href='%product_catalog_href%'>product catalog</a> and add products.]]></source>
-        <target state="translated"><![CDATA[انتقل إلى <a target='_blank' rel='noopener noreferrer' href='%product_catalog_href%'>قائِمَة/الكتالوج</a> وأضف المنتجات.]]></target>
+        <target state="translated"><![CDATA[انتقل إلى <a target='_blank' rel='noopener noreferrer' href='%product_catalog_href%'>كتالوج المنتجات</a> وأضف المنتجات.]]></target>
         <note>key: products_discovery_widget.product_table.empty_table.action_text</note>
       </trans-unit>
       <trans-unit id="e925d3ed174bcbaa6b2bdd94eba98ba6f9da2305" resname="products_discovery_widget.product_table.empty_table.info_text">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="8987617e20bfbbd2fd3ebe42da29441592983cab" resname="products_discovery_widget.product_table.header.image">
         <source>Image</source>
-        <target state="translated">صورة</target>
+        <target state="translated">الصورة</target>
         <note>key: products_discovery_widget.product_table.header.image</note>
       </trans-unit>
       <trans-unit id="87d4e1feaaf7f8ec14f1b948544898857d3d677f" resname="products_discovery_widget.product_table.header.name">
@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="563f8e60b202934bc51213a83dd8c84b30264ddc" resname="products_discovery_widget.product_table.header.variants">
         <source>Variants</source>
-        <target state="translated">النسخ</target>
+        <target state="translated">المتغيّرات</target>
         <note>key: products_discovery_widget.product_table.header.variants</note>
       </trans-unit>
       <trans-unit id="2357ff0447d9861a17922fe54a61699f01282f1c" resname="products_discovery_widget.product_table.headline">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="c5f7bc9bc320591e79dff1bb612b84be2ceb4e6e" resname="products_discovery_widget.product_table.variants_btn.label">
         <source>%variantsNo% variants</source>
-        <target state="translated">%variantsNo% النسخ</target>
+        <target state="translated">%variantsNo% متغيّرات</target>
         <note>key: products_discovery_widget.product_table.variants_btn.label</note>
       </trans-unit>
       <trans-unit id="68fe85f8c4d58fb4a3ae64311570aaa13b98b18a" resname="products_discovery_widget.product_variant_table.back_to_products_btn.title">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="afed401762826d38701022d976efaac6cbc8d982" resname="products_discovery_widget.product_variant_table.headline">
         <source>%baseProductName% (%totalCount% variants)</source>
-        <target state="translated">%baseProductName% (%totalCount% النسخ)</target>
+        <target state="translated">%baseProductName% (%totalCount% متغيّرات)</target>
         <note>key: products_discovery_widget.product_variant_table.headline</note>
       </trans-unit>
       <trans-unit id="015264c16c058fe39cb50e07f4e695f1da96cd1f" resname="products_discovery_widget.product_variant_table.search.no_results.hint.different_search_criteria">
@@ -153,12 +153,12 @@
       </trans-unit>
       <trans-unit id="ff6f4185860852d8743671626b3fcd7e634fa8c0" resname="products_discovery_widget.products_view.filters.row.category.select_btn.label">
         <source>Select category</source>
-        <target state="translated">اختر فئة/ صنف</target>
+        <target state="translated">اختر فئة</target>
         <note>key: products_discovery_widget.products_view.filters.row.category.select_btn.label</note>
       </trans-unit>
       <trans-unit id="36a74bcd0c0469d26c6625bfb0d183e6ca965058" resname="products_discovery_widget.products_view.filters.row.category.title">
         <source>Category</source>
-        <target state="translated">فئة/ صنف</target>
+        <target state="translated">الفئة</target>
         <note>key: products_discovery_widget.products_view.filters.row.category.title</note>
       </trans-unit>
       <trans-unit id="5d3b759aceda9bc622698a2bd87d29ba2dbfa750" resname="products_discovery_widget.products_view.filters.row.product_codes.input.label">
@@ -188,12 +188,12 @@
       </trans-unit>
       <trans-unit id="d1ea82176d99763b884e25488b0bb759093d13b1" resname="products_discovery_widget.selected_items.product.variants_label.has_variants">
         <source>Variants (%selectedVariantsCount%/%totalVariantsCount%)</source>
-        <target state="translated">النسخ (%selectedVariantsCount%/%totalVariantsCount%)</target>
+        <target state="translated">المتغيّرات (%selectedVariantsCount%/%totalVariantsCount%)</target>
         <note>key: products_discovery_widget.selected_items.product.variants_label.has_variants</note>
       </trans-unit>
       <trans-unit id="3d10cec3c145efbf643a23ca72473dec70ada4fe" resname="products_discovery_widget.selected_items.product.variants_label.no_variants">
         <source>Variants: No</source>
-        <target state="translated">النسخ: لا يوجد</target>
+        <target state="translated">المتغيّرات: لا يوجد</target>
         <note>key: products_discovery_widget.selected_items.product.variants_label.no_variants</note>
       </trans-unit>
       <trans-unit id="2802819082125f97c9199eb08f8577765b2258d8" resname="products_discovery_widget.views.table.label">
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="b358d77d29a6b9869920d03666b1ebf0c13e21d2" resname="search.search_results.clear_btn.label">
         <source>Clear results</source>
-        <target state="translated">حذف النتائج</target>
+        <target state="translated">مسح النتائج</target>
         <note>key: search.search_results.clear_btn.label</note>
       </trans-unit>
     </body>
