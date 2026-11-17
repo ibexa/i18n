@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="8f298e16cc3766b185e4e45db13e4f84f03f5d89" resname="ezmedia.display_controls">
         <source>Display controls</source>
-        <target state="translated">Controles de visualización</target>
+        <target state="translated">Mostrar controles</target>
         <note>key: ezmedia.display_controls</note>
       </trans-unit>
       <trans-unit id="0a8b2fdd1d0a69bd12d066f8f7f8b517df9974bf" resname="ezmedia.file_name">

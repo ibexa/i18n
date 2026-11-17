@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="4c2cca32be18ada279b3562d2b96acc4a908083e" resname="main__dashboard">
         <source>Dashboard</source>
-        <target state="translated">Panel</target>
+        <target state="translated">Panel de control</target>
         <note>key: main__dashboard</note>
       </trans-unit>
       <trans-unit id="cfbeced5482be25b000de224837882379173d9a4" resname="main__drafts">

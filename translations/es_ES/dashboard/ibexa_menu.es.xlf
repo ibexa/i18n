@@ -23,17 +23,17 @@
       </trans-unit>
       <trans-unit id="5ea0346904ae67d52174405f7453eed55912d3dc" resname="main__admin__dashboard">
         <source>Dashboards</source>
-        <target state="translated">Paneles</target>
+        <target state="translated">Paneles de control</target>
         <note>key: main__admin__dashboard</note>
       </trans-unit>
       <trans-unit id="f4b4f39ebadf7585b4c9f64cbb322622ed7a883f" resname="main__admin__dashboard_content_type">
         <source>Dashboard type</source>
-        <target state="translated">Tipo de panel</target>
+        <target state="translated">Tipo de panel de control</target>
         <note>key: main__admin__dashboard_content_type</note>
       </trans-unit>
       <trans-unit id="3533a8aedbcc80e5ddb1fe2291f87ecd8c8ef4a1" resname="main__customizable_dashboard">
         <source>Dashboard</source>
-        <target state="translated">Panel</target>
+        <target state="translated">Panel de control</target>
         <note>key: main__customizable_dashboard</note>
       </trans-unit>
     </body>
