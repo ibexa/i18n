@@ -63,27 +63,27 @@
       </trans-unit>
       <trans-unit id="a869aead4b6dfebcdf01ec571e49a3f2960e6a2a" resname="dashboard.builder.functionality">
         <source>Access the dashboard's customization tool, that allows you to personalize it to create a more intuitive user experience.</source>
-        <target state="translated">Accede a la herramienta de personalización del panel, con el que podrás personalizarlo para crear una experiencia de usuario más intuitiva.</target>
+        <target state="translated">Accede a la herramienta de personalización del panel de control, con el que podrás personalizarlo para crear una experiencia de usuario más intuitiva.</target>
         <note>key: dashboard.builder.functionality</note>
       </trans-unit>
       <trans-unit id="099756a566ba5e73ab5da3bfd66c35400b7a1c90" resname="dashboard.change_active.success">
         <source>Active dashboard is set to '%name%' </source>
-        <target state="translated">El panel activo se ha configurado a '%name%' </target>
+        <target state="translated">El panel de control activo se ha configurado a '%name%' </target>
         <note>key: dashboard.change_active.success</note>
       </trans-unit>
       <trans-unit id="b71b9907038c72f6da5ea69b76a4cd560c538123" resname="dashboard.customize">
         <source>Customize dashboard</source>
-        <target state="translated">Personalizar panel</target>
+        <target state="translated">Personalizar panel de control</target>
         <note>key: dashboard.customize</note>
       </trans-unit>
       <trans-unit id="a1d33ccab9eaacb5d4c4035c6b5cc7970901d7cc" resname="dashboard.customize.default_name">
         <source>My dashboard</source>
-        <target state="translated">Mi panel</target>
+        <target state="translated">Mi panel de control</target>
         <note>key: dashboard.customize.default_name</note>
       </trans-unit>
       <trans-unit id="774df9f882b982d08743402349d64bbd57302914" resname="dashboard.dashboard_type">
         <source>Dashboard type</source>
-        <target state="translated">Tipo de panel</target>
+        <target state="translated">Tipo de panel de control</target>
         <note>key: dashboard.dashboard_type</note>
       </trans-unit>
       <trans-unit id="a6d9031649a97010fe6464176332886d0c21bcdf" resname="dashboard.edit">
@@ -93,22 +93,22 @@
       </trans-unit>
       <trans-unit id="0322c3aa37cbf2183c17fdc1a0f0bba26dab49d4" resname="dashboard.enhance_dashboard_experience">
         <source>Enhance your dashboard experience</source>
-        <target state="translated">Mejora tu experiencia del panel</target>
+        <target state="translated">Mejora tu experiencia del panel de control</target>
         <note>key: dashboard.enhance_dashboard_experience</note>
       </trans-unit>
       <trans-unit id="91daf327da16d3b4531baa6c91bab9cce90b7c4f" resname="dashboard.error.unable_to_load">
         <source>The dashboard could not be loaded</source>
-        <target state="translated">No se puede cargar el panel</target>
+        <target state="translated">No se puede cargar el panel de control</target>
         <note>key: dashboard.error.unable_to_load</note>
       </trans-unit>
       <trans-unit id="1130a63ac7bbd452111d6db5b5143506c2d7e120" resname="dashboard.ibexa_news.unable_to_fetch">
-        <source>Unable to fetch Ibexa News</source>
-        <target state="translated">No se puede obtener Ibexa News</target>
+        <source>Unable to fetch Ibexa news</source>
+        <target state="translated">No se puede obtener Ibexa news</target>
         <note>key: dashboard.ibexa_news.unable_to_fetch</note>
       </trans-unit>
       <trans-unit id="de53c8583b78a3554c64831bc9315e5b74d1cf1a" resname="dashboard.sent_to_trash.info">
         <source>The default dashboard cannot be sent to the trash</source>
-        <target state="translated">El panel por defecto no puede enviarse a la Papelera</target>
+        <target state="translated">El panel de control por defecto no puede enviarse a la Papelera</target>
         <note>key: dashboard.sent_to_trash.info</note>
       </trans-unit>
       <trans-unit id="27569ea498dd6ed40297e3ed7dac9b1faaaec4d2" resname="dashboard.switch_to_custom">
@@ -118,7 +118,7 @@
       </trans-unit>
       <trans-unit id="52bb6f67f57956da055325ef570ef6508392ee92" resname="dashboard.switch_to_default">
         <source>Switch to default dashboard</source>
-        <target state="translated">Cambiar al panel predeterminado</target>
+        <target state="translated">Cambiar al panel de control predeterminado</target>
         <note>key: dashboard.switch_to_default</note>
       </trans-unit>
       <trans-unit id="cf2651e3db2814e56e32a5a081301dc68a2b0958" resname="dashboard.title.afternoon">
@@ -138,22 +138,22 @@
       </trans-unit>
       <trans-unit id="28936a58fd6a2a3c9b2b7e0da76e2d10a38f653b" resname="info_bar.dashboard.label">
         <source>Dashboard Builder</source>
-        <target state="translated">Generador del paneles</target>
+        <target state="translated">Generador del paneles de control</target>
         <note>key: info_bar.dashboard.label</note>
       </trans-unit>
       <trans-unit id="63e54ad889426b11df176a8fc17a6d9bf928b9fb" resname="info_bar.dashboard.toolbox.title">
         <source>Dashboard blocks</source>
-        <target state="translated">Bloques del panel</target>
+        <target state="translated">Bloques del panel de control</target>
         <note>key: info_bar.dashboard.toolbox.title</note>
       </trans-unit>
       <trans-unit id="f9178a816fa89ee2d59cf2e88df4f8d62adb8f45" resname="user.setting.active_dashboard.description">
         <source>Active dashboard</source>
-        <target state="translated">Panel activo</target>
+        <target state="translated">Panel de control activo</target>
         <note>key: user.setting.active_dashboard.description</note>
       </trans-unit>
       <trans-unit id="be3215e814d0e04fa3889d152be4e73219e3a92d" resname="user.setting.active_dashboard.name">
         <source>Active dashboard</source>
-        <target state="translated">Panel activo</target>
+        <target state="translated">Panel de control activo</target>
         <note>key: user.setting.active_dashboard.name</note>
       </trans-unit>
     </body>

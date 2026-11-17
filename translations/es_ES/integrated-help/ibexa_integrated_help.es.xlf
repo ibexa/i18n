@@ -62,8 +62,8 @@
         <note>key: ibexa.integrated_help.settings.product_tour.description</note>
       </trans-unit>
       <trans-unit id="39640f711b4c4d04f4672d6f51cb85a1a61b7e6b" resname="ibexa.integrated_help.settings.product_tour.name">
-        <source>Product tour:</source>
-        <target state="translated">Recorrido por el producto:</target>
+        <source>Product tour</source>
+        <target state="translated">Recorrido por el producto</target>
         <note>key: ibexa.integrated_help.settings.product_tour.name</note>
       </trans-unit>
       <trans-unit id="2c62d392b946a77c5c2b9f11410def6d25cdd8ec" resname="ibexa.integrated_help.settings.product_tour.value.disabled">
@@ -92,8 +92,8 @@
         <note>key: ibexa.integrated_help.settings.product_tour_scenarios.value.completed</note>
       </trans-unit>
       <trans-unit id="4d6c93d1a504de527dc5aa247b3bb4142dedef01" resname="ibexa.integrated_help.settings.product_tour_scenarios.value.not_started">
-        <source>Not completed</source>
-        <target state="translated">No completado</target>
+        <source>Not started</source>
+        <target state="translated">No empezado</target>
         <note>key: ibexa.integrated_help.settings.product_tour_scenarios.value.not_started</note>
       </trans-unit>
       <trans-unit id="cf01d4852896ac6588a7ace080ec295eb629c040" resname="ibexa.integrated_help.tour.back_office_ui.admin_panel_step.link">
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="43cc5e624b1de9cb5669b244928c3446603a9739" resname="ibexa.integrated_help.tour.create_article.create_article_step.text1">
         <source>Click Create content on the Dashboard to quickly publish an article without review or preview.</source>
-        <target state="translated">Haz clic en Crear contenido en el Panel para publicar un artículo rápidamente sin revisión ni vista previa.</target>
+        <target state="translated">Haz clic en Crear contenido en el Panel de control para publicar un artículo rápidamente sin revisión ni vista previa.</target>
         <note>key: ibexa.integrated_help.tour.create_article.create_article_step.text1</note>
       </trans-unit>
       <trans-unit id="43a7fa91b2fdfa8e2a7b3aa1249e848376a5773e" resname="ibexa.integrated_help.tour.create_article.create_article_step.title">
@@ -393,7 +393,7 @@
       </trans-unit>
       <trans-unit id="bf6a24f082e8776c9042a76329e3686e0b659a5e" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.link">
         <source>Work with dashboard</source>
-        <target state="translated">Trabajar con el panel</target>
+        <target state="translated">Trabajar con el panel de control</target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.link</note>
       </trans-unit>
       <trans-unit id="30a8b18865041d28a0b7863ad30fac7002ae6059" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.list1">
@@ -408,32 +408,32 @@
       </trans-unit>
       <trans-unit id="192108cc923f0e60262b2e65197bb99ea66455ed" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.text1">
         <source>Depending on your permissions, you may be able to customize the dashboard to fit your needs. This way you can quickly visit the areas that are used more often and exclude those less important:</source>
-        <target state="translated">Según tus permisos, puedes personalizar el panel para adaptarlo a tus necesidades. Así puedes acceder rápidamente a las áreas que usas más y excluir las menos importantes:</target>
+        <target state="translated">Según tus permisos, puedes personalizar el panel de control para adaptarlo a tus necesidades. Así puedes acceder rápidamente a las áreas que usas más y excluir las menos importantes:</target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.text1</note>
       </trans-unit>
       <trans-unit id="bcb9d07672c22a9be3a2604379bc1ea50205b9ee" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.title">
         <source>Dashboard customization</source>
-        <target state="translated">Personalización del panel</target>
+        <target state="translated">Personalización del panel de control</target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_customization_step.title</note>
       </trans-unit>
       <trans-unit id="81b558737ceb2ac2232679d15898f9b995a57c01" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_step.link">
         <source>Dashboard</source>
-        <target state="translated">Panel</target>
+        <target state="translated">Panel de control</target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_step.link</note>
       </trans-unit>
       <trans-unit id="56e90eec6be264464b70cb53ec8fabf7ac0963ab" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_step.text1">
         <source><![CDATA[The Dashboard gives you a summary of the work needed with content, to help you make better decisions and work more efficiently. To return to the Dashboard from any other page, click the logo in the top bar, or the home icon in the main menu.<br/><br/>]]></source>
-        <target state="translated"><![CDATA[El Panel te ofrece un resumen del trabajo pendiente con el contenido, para ayudarte a tomar mejores decisiones y trabajar de forma más eficiente. Para volver al Panel desde cualquier otra página, haz clic en el logotipo en la barra superior o en el icono de inicio del menú principal.<br/><br/>]]></target>
+        <target state="translated"><![CDATA[El Panel de control te ofrece un resumen del trabajo pendiente con el contenido, para ayudarte a tomar mejores decisiones y trabajar de forma más eficiente. Para volver al Panel de control desde cualquier otra página, haz clic en el logotipo en la barra superior o en el icono de inicio del menú principal.<br/><br/>]]></target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_step.text1</note>
       </trans-unit>
       <trans-unit id="6284e9b150c79dee323d47f5fe563aa47b0085c8" resname="ibexa.integrated_help.tour.dashboard_details.dashboard_step.title">
         <source>Dashboard</source>
-        <target state="translated">Panel</target>
+        <target state="translated">Panel de control</target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.dashboard_step.title</note>
       </trans-unit>
       <trans-unit id="7ec5a10f59663607fff59c17df91add5bf70e051" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.link">
         <source>Dashboard</source>
-        <target state="translated">Panel</target>
+        <target state="translated">Panel de control</target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.quick_action_step.link</note>
       </trans-unit>
       <trans-unit id="a5cc48dcfa0722715c58687b8dd597e078843ab2" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.list1">
@@ -453,7 +453,7 @@
       </trans-unit>
       <trans-unit id="7e6f073cd79c3fcf0cb7b2ada6a89a4f26c26ce8" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.text2">
         <source>Other important areas of the Dashboard are:</source>
-        <target state="translated">Otras áreas importantes del Panel son:</target>
+        <target state="translated">Otras áreas importantes del Panel de control son:</target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.quick_action_step.text2</note>
       </trans-unit>
       <trans-unit id="ad6755e0d9f2228e6a261d479cfd86c48804230f" resname="ibexa.integrated_help.tour.dashboard_details.quick_action_step.title">
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="ef084219430a1f088b9e7ce14034e02eda555492" resname="ibexa.integrated_help.tour.dashboard_details.title">
         <source>Dashboard details</source>
-        <target state="translated">Detalles del panel</target>
+        <target state="translated">Detalles del panel de control</target>
         <note>key: ibexa.integrated_help.tour.dashboard_details.title</note>
       </trans-unit>
       <trans-unit id="34628f6ab24f4539e1759d0d2a9d402d66d99030" resname="ibexa.integrated_help.tour.welcome_tour.title">

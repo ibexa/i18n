@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="f33087e36f780a7a7762a03dad4e220245d35b2c" resname="customer_portal__dashboard">
         <source>Dashboard</source>
-        <target state="translated">Panel</target>
+        <target state="translated">Panel de control</target>
         <note>key: customer_portal__dashboard</note>
       </trans-unit>
       <trans-unit id="0c7336855c87312e5401c4a135e17c27069eb5a0" resname="customer_portal__order_management">
