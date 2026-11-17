@@ -272,7 +272,7 @@
         <note>key: ibexa.activity_log.search_form.object_class.product</note>
       </trans-unit>
       <trans-unit id="368685b87a5816440634bb7936f6e5c1c5ae51c6" resname="ibexa.activity_log.search_form.object_class.product_variant">
-        <source>Product variant</source>
+        <source>Product Variant</source>
         <target state="translated">Produktvariante</target>
         <note>key: ibexa.activity_log.search_form.object_class.product_variant</note>
       </trans-unit>

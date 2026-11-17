@@ -258,7 +258,7 @@
       </trans-unit>
       <trans-unit id="c137f8e9a3f57ea45f3a310439f6340af6e91150" resname="settings.popup.default_behaviour">
         <source>This is a default behavior which applies to both Page and Dashboard builder. You can globally turn off automatic opening of the block settings panel in the user settings.</source>
-        <target state="translated">Este es un patrón de comportamiento predeterminado que se aplica tanto al generador de páginas como al de paneles. Puedes desactivar de forma global la apertura automática del panel de configuración del bloque en la configuración de usuario.</target>
+        <target state="translated">Este es un patrón de comportamiento predeterminado que se aplica tanto al generador de páginas como al de paneles de control. Puedes desactivar de forma global la apertura automática del panel de configuración del bloque en la configuración de usuario.</target>
         <note>key: settings.popup.default_behaviour</note>
       </trans-unit>
       <trans-unit id="2b8b924ef8398e7ba16486e7646511119ec6f722" resname="settings.popup.title">
