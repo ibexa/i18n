@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="b360080de75c38752044949ac97cdfff93d17d72" resname="content.field_type.ibexa_media.display_controls">
         <source>Display controls</source>
-        <target state="translated">Controles de visualización</target>
+        <target state="translated">Mostrar controles</target>
         <note>key: content.field_type.ibexa_media.display_controls</note>
       </trans-unit>
       <trans-unit id="3c403b32242f0c2fd33f7943526c0b7aa967b235" resname="content.field_type.ibexa_media.height">

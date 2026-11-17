@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="34dc2677720cf1f4ec7652589a778a7f399940ec" resname="auto_translate.language_pairs.no_providers_empty_action">
         <source>To add language pairs, you need to configure at least one translation provider.</source>
-        <target state="translated">Para agregar pares de idiomas, necesitas configurar al menos un proveedor de traducción.</target>
+        <target state="translated">Para añadir pares de idiomas, debes configurar al menos un proveedor de traducción.</target>
         <note>key: auto_translate.language_pairs.no_providers_empty_action</note>
       </trans-unit>
       <trans-unit id="8f2380584dfa9009d83694326cbef4eec2257f38" resname="auto_translate.language_pairs.provider">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="582b09a837963ba464ba24493c8cc7c360b99708" resname="editing_details_subtitle">
         <source>under %location%</source>
-        <target state="translated">debajo de %location%</target>
+        <target state="translated">dentro de %location%</target>
         <note>key: editing_details_subtitle</note>
       </trans-unit>
       <trans-unit id="2ce46153585470df6fddead9973879770f4ceebd" resname="ibexa.ai.action.translate_text.name">

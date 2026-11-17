@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="789fc36ec350f5c9304a251fd45706f8d7b7bff1" resname="ezrichtext.custom_tags.seenthis.attributes.tracker_id.label">
         <source>Tracker ID</source>
-        <target state="translated">ID del tracker</target>
+        <target state="translated">ID de seguimiento</target>
         <note>key: ezrichtext.custom_tags.seenthis.attributes.tracker_id.label</note>
       </trans-unit>
       <trans-unit id="f687094ced75df27668dcb97496d862bd4ab37bc" resname="ezrichtext.custom_tags.seenthis.attributes.video_id.label">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="977fefbb10d8332fc080f97a47e7085c6928ee8a" resname="ezrichtext.custom_tags.seenthis.description">
         <source>Embed SeenThis video</source>
-        <target state="translated">Insertar vídeo de Seenthis</target>
+        <target state="translated">Insertar vídeo de SeenThis</target>
         <note>key: ezrichtext.custom_tags.seenthis.description</note>
       </trans-unit>
       <trans-unit id="f1f6b3253e673a4d42c1e5499cab3066e38db9db" resname="ezrichtext.custom_tags.seenthis.label">

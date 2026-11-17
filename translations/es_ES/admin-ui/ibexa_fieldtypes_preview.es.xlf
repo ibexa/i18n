@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="8199bae4bf503237d1c059e19850ecaede8e3ad8" resname="ibexa_media.display_controls">
         <source>Display controls</source>
-        <target state="translated">Controles de visualización</target>
+        <target state="translated">Mostrar controles</target>
         <note>key: ibexa_media.display_controls</note>
       </trans-unit>
       <trans-unit id="de7d7aa86064409d39b0c33ffc45e61d798b23d5" resname="ibexa_media.file_name">

@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="b02013301fb78678957519c34dec95bc2c3e8e18" resname="settings.group.dashboard.name">
         <source>Dashboard</source>
-        <target state="translated">Panel</target>
+        <target state="translated">Panel de control</target>
         <note>key: settings.group.dashboard.name</note>
       </trans-unit>
     </body>
