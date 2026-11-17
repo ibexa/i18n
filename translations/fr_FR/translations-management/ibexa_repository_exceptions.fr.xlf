@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="8241cf9659175c8a3a64b2d627239870bea90472" resname="Auto translation review status already exists for content &quot;%contentId%&quot;, version &quot;%versionNo%&quot;, source language &quot;%sourceLanguageCode%&quot; and target language &quot;%targetLanguageCode%&quot;.">
         <source>Auto translation review status already exists for content "%contentId%", version "%versionNo%", source language "%sourceLanguageCode%" and target language "%targetLanguageCode%".</source>
-        <target state="translated">Le statut de relecture automatique existe déjà pour le contenu « %contentId% », version « %versionNo% », langue source « %sourceLanguageCode% » et langue cible « %targetLanguageCode% ».</target>
+        <target state="translated">Le statut de relecture de la traduction automatique existe déjà pour le contenu « %contentId% », version « %versionNo% », langue source « %sourceLanguageCode% » et langue cible « %targetLanguageCode% ».</target>
         <note>key: Auto translation review status already exists for content "%contentId%", version "%versionNo%", source language "%sourceLanguageCode%" and target language "%targetLanguageCode%".</note>
       </trans-unit>
       <trans-unit id="2e8d5b2195daefcae2f099abf543faec747bec76" resname="Cannot change auto translation review status from &quot;%currentStatus%&quot; to &quot;%newStatus%&quot;.">
         <source>Cannot change auto translation review status from "%currentStatus%" to "%newStatus%".</source>
-        <target state="translated">Impossible de changer le statut de relecture automatique de « %currentStatus% » à « %newStatus% ».</target>
+        <target state="translated">Impossible de changer le statut de relecture de la traduction automatique de « %currentStatus% » à « %newStatus% ».</target>
         <note>key: Cannot change auto translation review status from "%currentStatus%" to "%newStatus%".</note>
       </trans-unit>
       <trans-unit id="214a132ebeb5a8ff9b090265cab4ebe0438d965c" resname="Content ID must be greater than 0.">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="15e4d89257e96d5f7073cb9f8a90c3511181f250" resname="Operation &quot;%operation%&quot; is not allowed for auto translation review status update.">
         <source>Operation "%operation%" is not allowed for auto translation review status update.</source>
-        <target state="translated">L’opération « %operation% » n’est pas autorisée pour la mise à jour du statut de relecture automatique.</target>
+        <target state="translated">L’opération « %operation% » n’est pas autorisée pour la mise à jour du statut de relecture de la traduction automatique.</target>
         <note>key: Operation "%operation%" is not allowed for auto translation review status update.</note>
       </trans-unit>
       <trans-unit id="5cc9cd0646b475a27cd83f34876080115fa0a83b" resname="Provider identifier cannot be empty.">
@@ -48,12 +48,12 @@
       </trans-unit>
       <trans-unit id="03ce2605d90be034c7a4425516dbd3775ccb3ca9" resname="Unsupported auto translation review status context &quot;%context%&quot;.">
         <source>Unsupported auto translation review status context "%context%".</source>
-        <target state="translated">Contexte de statut de relecture automatique non pris en charge : « %context% ».</target>
+        <target state="translated">Contexte de statut de relecture de traduction automatique non pris en charge : « %context% ».</target>
         <note>key: Unsupported auto translation review status context "%context%".</note>
       </trans-unit>
       <trans-unit id="dd1799ee50b86b25c6b97df465d421b863b1cac9" resname="Version number is required for content auto translation review status context.">
         <source>Version number is required for content auto translation review status context.</source>
-        <target state="translated">Le numéro de version est requis pour le contexte de statut de relecture automatique du contenu.</target>
+        <target state="translated">Le numéro de version est requis pour le contexte de statut de relecture de la traduction automatique du contenu.</target>
         <note>key: Version number is required for content auto translation review status context.</note>
       </trans-unit>
       <trans-unit id="64652f7768994e3b1854b39a2039413f5da34cfa" resname="Version number must be greater than 0.">
