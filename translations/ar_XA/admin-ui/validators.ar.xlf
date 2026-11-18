@@ -86,6 +86,11 @@
         <target state="translated">رمز اللغة {{ value }} يحتوي على أحرف غير مسموح بها. يجب أن يبدأ رمز اللغة بحرف أو رقم أو شرطة سفلية، وأن يحتوي فقط على أحرف، أرقام، شرطة سفلية، شرطات أو نقطتين.</target>
         <note>key: ibexa.language.language_code.format</note>
       </trans-unit>
+      <trans-unit id="3243217a06465230d521ed024d8d7cbab3f8701d" resname="ibexa.matrix.column.identifier.format">
+        <source>An identifier must start with an alphanumeric or underscore character and can contain hyphens and colons.</source>
+        <target state="translated">يجب أن يبدأ المعرّف بحرف أبجدي رقمي أو شرطة سفلية، ويمكن أن يحتوي على شرطات أو نقطتين.</target>
+        <note>key: ibexa.matrix.column.identifier.format</note>
+      </trans-unit>
       <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">
         <source>Provided address does not exist</source>
         <target state="translated">العنوان المقدم غير موجود</target>

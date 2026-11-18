@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en" target-language="ar-XA" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="35da28bd881f3026640cef327da2bb200dcd0d12" resname="ibexa.connector_raptor.block.common.attributes.category_id.name">
+        <source>Product category</source>
+        <target state="translated">فئة المنتج</target>
+        <note>key: ibexa.connector_raptor.block.common.attributes.category_id.name</note>
+      </trans-unit>
+      <trans-unit id="386f87e5049c19943570d14fe819116c0d768356" resname="ibexa.connector_raptor.block.common.attributes.content_id.name">
+        <source>Select content for recommendations</source>
+        <target state="translated">اختر المحتوى للتوصيات</target>
+        <note>key: ibexa.connector_raptor.block.common.attributes.content_id.name</note>
+      </trans-unit>
+      <trans-unit id="b88335f3a3e2bbb63a54fc124343a1d1b5b44908" resname="ibexa.connector_raptor.block.common.attributes.limit.name">
+        <source>Recommendations limit</source>
+        <target state="translated">حد التوصيات</target>
+        <note>key: ibexa.connector_raptor.block.common.attributes.limit.name</note>
+      </trans-unit>
+      <trans-unit id="06de5bd5e2ef9d3ad5251275e6efe66480acf212" resname="ibexa.connector_raptor.block.common.attributes.merchandising_campaign_id.name">
+        <source>FeedID</source>
+        <target state="translated">FeedID</target>
+        <note>key: ibexa.connector_raptor.block.common.attributes.merchandising_campaign_id.name</note>
+      </trans-unit>
+      <trans-unit id="1cf484fcdc92829e10410990a02f2469f36db4ce" resname="ibexa.connector_raptor.block.common.attributes.name.name">
+        <source>Name displayed on page</source>
+        <target state="translated">الاسم المعروض في الصفحة</target>
+        <note>key: ibexa.connector_raptor.block.common.attributes.name.name</note>
+      </trans-unit>
+      <trans-unit id="02fad4eb20db89520179c02fc0976a896bf07ccf" resname="ibexa.connector_raptor.block.common.attributes.product_code.name">
+        <source>Product code</source>
+        <target state="translated">رمز المنتج</target>
+        <note>key: ibexa.connector_raptor.block.common.attributes.product_code.name</note>
+      </trans-unit>
+      <trans-unit id="f4ed0ca1212b9789e11cd41b2840616a3880b196" resname="ibexa.connector_raptor.block.common.attributes.show_in_stock.help">
+        <source>When enabled, only products currently in stock are displayed. If not, all products are shown.</source>
+        <target state="translated">عند التفعيل، تظهر فقط المنتجات المتوفرة في المخزون حاليًا. إذا لم يتم التفعيل، تظهر جميع المنتجات.</target>
+        <note>key: ibexa.connector_raptor.block.common.attributes.show_in_stock.help</note>
+      </trans-unit>
+      <trans-unit id="62ac0ff9c830449106ffcc2989e0e21d37e38686" resname="ibexa.connector_raptor.block.common.attributes.show_in_stock.name">
+        <source>Show only available items</source>
+        <target state="translated">عرض العناصر المتوفرة فقط</target>
+        <note>key: ibexa.connector_raptor.block.common.attributes.show_in_stock.name</note>
+      </trans-unit>
+      <trans-unit id="0ed1f7e3f0fd51d00779ff02483f171716d2bf45" resname="ibexa.connector_raptor.block.common.name.help">
+        <source>Internal name for this block (not visible to visitors)</source>
+        <target state="translated">اسم داخلي لهذا المكوّن (غير ظاهر للزوار)</target>
+        <note>key: ibexa.connector_raptor.block.common.name.help</note>
+      </trans-unit>
+      <trans-unit id="6e2792f2cf45ecd75276accab3ed6d3b35b3e8ff" resname="ibexa.connector_raptor.block.raptor_content_based_on_product_category.name">
+        <source>Content that has been seen along with the product category</source>
+        <target state="translated">المحتوى الذي تم الاطلاع عليه مع فئة المنتج</target>
+        <note>key: ibexa.connector_raptor.block.raptor_content_based_on_product_category.name</note>
+      </trans-unit>
+      <trans-unit id="0d8a4b76ce4701cc70b2b9db13a3e7bbe26824ef" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.content_id.help">
+        <source>Choose content to show associated products for. Leave empty to use current page content.</source>
+        <target state="translated">اختر المحتوى لعرض المنتجات المرتبطة به. اتركه فارغًا لاستخدام محتوى الصفحة الحالية.</target>
+        <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.attributes.content_id.help</note>
+      </trans-unit>
+      <trans-unit id="38978ca6c4b05c688b1d2afa16563c3938edc471" resname="ibexa.connector_raptor.block.raptor_items_based_on_content.name">
+        <source>Products associated with given Content</source>
+        <target state="translated">منتجات مرتبطة بالمحتوى المحدد</target>
+        <note>key: ibexa.connector_raptor.block.raptor_items_based_on_content.name</note>
+      </trans-unit>
+      <trans-unit id="820d84f4ddd2f028247bae09aa092c5e0ac80f53" resname="ibexa.connector_raptor.block.raptor_merchandising_content.name">
+        <source>Merchandising content sorted by personal preferences and popularity</source>
+        <target state="translated">محتوى تسويقي مرتب حسب التفضيلات الشخصية والشعبية</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_content.name</note>
+      </trans-unit>
+      <trans-unit id="f61fdd20636b440102b9323416ebff35e0c95793" resname="ibexa.connector_raptor.block.raptor_merchandising_items.name">
+        <source>Items of Customized Feeds sorted by personal preferences and popularity or trendiness</source>
+        <target state="translated">عناصر من خلاصات مخصصة مرتبة حسب التفضيلات الشخصية أو الشعبية أو الرواج</target>
+        <note>key: ibexa.connector_raptor.block.raptor_merchandising_items.name</note>
+      </trans-unit>
+      <trans-unit id="a759e41fb95f865acd28f956ff40405944296802" resname="ibexa.connector_raptor.block.raptor_other_customers_also_purchased.name">
+        <source>Other customers have also purchased</source>
+        <target state="translated">عملاء آخرون اشتروا أيضًا</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_purchased.name</note>
+      </trans-unit>
+      <trans-unit id="2d9325c1b10be553c63d22cdccb2184439cde7ce" resname="ibexa.connector_raptor.block.raptor_other_customers_also_seen.name">
+        <source>Other customers have also seen</source>
+        <target state="translated">عملاء آخرون شاهدوا أيضًا</target>
+        <note>key: ibexa.connector_raptor.block.raptor_other_customers_also_seen.name</note>
+      </trans-unit>
+      <trans-unit id="43bd8749c782c354566e9df1b318a5af21d64600" resname="ibexa.connector_raptor.block.raptor_popular_content.name">
+        <source>Most popular content</source>
+        <target state="translated">المحتوى الأكثر شعبية</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_content.name</note>
+      </trans-unit>
+      <trans-unit id="df52d3abc3a6ca49025224915e12b85a2c8cd0c0" resname="ibexa.connector_raptor.block.raptor_popular_items.name">
+        <source>Most popular products</source>
+        <target state="translated">المنتجات الأكثر شعبية</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items.name</note>
+      </trans-unit>
+      <trans-unit id="6e4b93ce14a9c555b1a23b5b11d98c1805f44fb3" resname="ibexa.connector_raptor.block.raptor_popular_items_in_category.name">
+        <source>Most popular products in category</source>
+        <target state="translated">المنتجات الأكثر شعبية في الفئة</target>
+        <note>key: ibexa.connector_raptor.block.raptor_popular_items_in_category.name</note>
+      </trans-unit>
+      <trans-unit id="5a9842ca934d13d05fd563d8e5fabb3b5d16c220" resname="ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.help">
+        <source>Choose content to show similar products for. Leave empty to use current page content.</source>
+        <target state="translated">اختر المحتوى لعرض المنتجات المشابهة له. اتركه فارغًا لاستخدام محتوى الصفحة الحالية.</target>
+        <note>key: ibexa.connector_raptor.block.raptor_similar_content.attributes.content_id.help</note>
+      </trans-unit>
+      <trans-unit id="cd0ed2c6fc13e757f81d40c66ec2b2213c5c8511" resname="ibexa.connector_raptor.block.raptor_similar_content.name">
+        <source>Other customers have also seen this content</source>
+        <target state="translated">عملاء آخرون شاهدوا هذا المحتوى أيضًا</target>
+        <note>key: ibexa.connector_raptor.block.raptor_similar_content.name</note>
+      </trans-unit>
+      <trans-unit id="f0dea2c1b9df33b7e8de500f64efed7d5abea8fb" resname="ibexa.connector_raptor.block.raptor_user_content_history.name">
+        <source>User's content history sorted by recent content or top content</source>
+        <target state="translated">سجل محتوى المستخدم مرتب حسب الأحدث أو الأعلى شعبية</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_content_history.name</note>
+      </trans-unit>
+      <trans-unit id="a894d35b9a1acc7646a2dc70eff1c45a78ece344" resname="ibexa.connector_raptor.block.raptor_user_content_recommendations.name">
+        <source>Personalized content recommendations</source>
+        <target state="translated">توصيات محتوى مخصصة</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_content_recommendations.name</note>
+      </trans-unit>
+      <trans-unit id="161abe5a54fb73a38d4219acbcadebc32f9ae7bd" resname="ibexa.connector_raptor.block.raptor_user_cross_selling.name">
+        <source>The personal shopping assistant (additional sales)</source>
+        <target state="translated">مساعد التسوق الشخصي (مبيعات إضافية)</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_cross_selling.name</note>
+      </trans-unit>
+      <trans-unit id="7eb1e0a99eddeff9fe56a9d6d283d1d5a4602167" resname="ibexa.connector_raptor.block.raptor_user_item_history.name">
+        <source>User's product history</source>
+        <target state="translated">سجل منتجات المستخدم</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_history.name</note>
+      </trans-unit>
+      <trans-unit id="c4b6557d206326f609cf012eda6ee7217435ed3a" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.product_code.name">
+        <source>Product (optional)</source>
+        <target state="translated">منتج (اختياري)</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.attributes.product_code.name</note>
+      </trans-unit>
+      <trans-unit id="d0b6a1260fceab98932a323e521154c8d7575999" resname="ibexa.connector_raptor.block.raptor_user_item_recommendations.name">
+        <source>The personal shopping assistant</source>
+        <target state="translated">مساعد التسوق الشخصي</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_item_recommendations.name</note>
+      </trans-unit>
+      <trans-unit id="63606e8b4c7ffb83c20d3b902c7b93b29ce811ea" resname="ibexa.connector_raptor.block.raptor_user_look_alike.name">
+        <source>The personal shopping assistant (conversion)</source>
+        <target state="translated">مساعد التسوق الشخصي (تحويل)</target>
+        <note>key: ibexa.connector_raptor.block.raptor_user_look_alike.name</note>
+      </trans-unit>
+      <trans-unit id="8d8ef4cec49ef4bc00fd76e95cdcac4d13bd7e93" resname="ibexa.connector_raptor.block_category.commerce">
+        <source>Recommendations: Commerce</source>
+        <target state="translated">توصيات: التجارة</target>
+        <note>key: ibexa.connector_raptor.block_category.commerce</note>
+      </trans-unit>
+      <trans-unit id="8ced1d127add76da1230aad447c7e03568c2ac28" resname="ibexa.connector_raptor.block_category.content">
+        <source>Recommendations: Content</source>
+        <target state="translated">توصيات: محتوى</target>
+        <note>key: ibexa.connector_raptor.block_category.content</note>
+      </trans-unit>
+      <trans-unit id="5ace084f09d0c86f2fe605f15acbd1da99aea71f" resname="ibexa.connector_raptor.block_category.product">
+        <source>Recommendations: Product</source>
+        <target state="translated">توصيات: منتج</target>
+        <note>key: ibexa.connector_raptor.block_category.product</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

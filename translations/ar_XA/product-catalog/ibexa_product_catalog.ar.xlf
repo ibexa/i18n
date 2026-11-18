@@ -666,6 +666,11 @@
         <target state="translated">إزالة الترجمة</target>
         <note>key: catalog_translation_remove_form.remove</note>
       </trans-unit>
+      <trans-unit id="37aa27a358b5e78042c9fa766bfa1f839f5251f5" resname="category.products.assign">
+        <source>Assign</source>
+        <target state="translated">تعيين</target>
+        <note>key: category.products.assign</note>
+      </trans-unit>
       <trans-unit id="008b2188acf791818b9836a5335adb611ad1f44b" resname="category_filter.tree.name">
         <source>Category filter</source>
         <target state="translated">عامل تصفية الفئة</target>
@@ -880,6 +885,11 @@
         <source>Add your first customer group</source>
         <target state="translated">أضف أول مجموعة عملاء لك</target>
         <note>key: customer_group.no_customer_groups.info_text</note>
+      </trans-unit>
+      <trans-unit id="55070f18abb2aa992e70f55e1f208827e6f6409d" resname="customer_group.no_customer_groups.list.notice">
+        <source>You cannot delete the disabled customer groups, because they have assigned companies.</source>
+        <target state="translated">لا يمكنك حذف مجموعات العملاء المعطلة، لأنها تحتوي على شركات معينة.</target>
+        <note>key: customer_group.no_customer_groups.list.notice</note>
       </trans-unit>
       <trans-unit id="1c11b46762aa543bd404c8b44f05a8bf5f94d34e" resname="customer_group.no_search_results.action_text">
         <source>Try again with new search criteria</source>
@@ -1177,7 +1187,7 @@
         <note>key: modal.transition.catalog.change_button.label</note>
       </trans-unit>
       <trans-unit id="75751e6fb57250f631fc029a42202f080fc08d77" resname="modal.transition.catalog.confirm_message">
-        <source>Are you sure you want to make the transition?</source>
+        <source>Are you sure you want to make a transition?</source>
         <target state="translated">هل أنت متأكد أنك تريد تنفيذ الانتقال؟</target>
         <note>key: modal.transition.catalog.confirm_message</note>
       </trans-unit>
@@ -1291,10 +1301,10 @@
         <target state="translated">تعيين</target>
         <note>key: product.category.assign</note>
       </trans-unit>
-      <trans-unit id="6ba91f1e615fcc2573795142a41a3b6eed6e7019" resname="product.category.assign.udw_title">
-        <source>Select Products</source>
-        <target state="translated">اختر المنتجات</target>
-        <note>key: product.category.assign.udw_title</note>
+      <trans-unit id="6131958017c6a248bc841cd4ffea5a6f5e01aef9" resname="product.category.assign.success">
+        <source>Products assigned to category '%entryName%'.</source>
+        <target state="translated">تم تعيين المنتجات إلى الفئة '%entryName%'.</target>
+        <note>key: product.category.assign.success</note>
       </trans-unit>
       <trans-unit id="33c7f951238b995d9d6643942da182b993adae12" resname="product.completeness.assets.label">
         <source>Assets</source>
@@ -2446,6 +2456,16 @@
         <target state="translated">غير متوفر</target>
         <note>key: regions.vat.value.not_applicable</note>
       </trans-unit>
+      <trans-unit id="31f505cfc3e574968c8a120f30bedd29026cbb1c" resname="richtext.embed.product.access_denied">
+        <source>Product %productCode%: You do not have permission to view this Product</source>
+        <target state="translated">المنتج %productCode%: ليس لديك إذن لعرض هذا المنتج.</target>
+        <note>key: richtext.embed.product.access_denied</note>
+      </trans-unit>
+      <trans-unit id="c4ee462e731aad42a275d9ef99258cabc8977a3b" resname="richtext.embed.product.not_found">
+        <source>Product %productCode%: Product not found</source>
+        <target state="translated">المنتج %productCode%: المنتج غير موجود.</target>
+        <note>key: richtext.embed.product.not_found</note>
+      </trans-unit>
       <trans-unit id="99879f4a4cae0475601d238a3f7c1c6bb33fec34" resname="search_form.search">
         <source>Search...</source>
         <target state="translated">ابحث...</target>
@@ -2567,8 +2587,8 @@
         <note>key: tab.variants.action.delete</note>
       </trans-unit>
       <trans-unit id="d3d9526a9c170a39a320bc4578b128d3270f5a39" resname="tab.variants.available">
-        <source>Available</source>
-        <target state="translated">متاح</target>
+        <source>Availability</source>
+        <target state="translated">التوفر</target>
         <note>key: tab.variants.available</note>
       </trans-unit>
       <trans-unit id="dfe8678eb36be518875b312c3e778b80b3623e62" resname="tab.variants.base_price">
@@ -2645,11 +2665,6 @@
         <source>Name</source>
         <target state="translated">الاسم</target>
         <note>key: tab.variants.name</note>
-      </trans-unit>
-      <trans-unit id="9cd1bdf2505f7bfb0a04ab5772a5ed9b2a5bbd89" resname="tab.variants.not_available">
-        <source>Not Available</source>
-        <target state="translated">غير متاح</target>
-        <note>key: tab.variants.not_available</note>
       </trans-unit>
       <trans-unit id="b2ad822ade77f2d39e8b1ef1c4505910d71fe4d8" resname="tab.variants.stock">
         <source>Stock</source>
