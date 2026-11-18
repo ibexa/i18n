@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="f4d14ac90177b836b766891120680fbee82e2a51" resname="dashboard.table.authors.collaborators">
-        <source>Collaborators</source>
-        <target state="translated">Mitwirkende</target>
-        <note>key: dashboard.table.authors.collaborators</note>
-      </trans-unit>
       <trans-unit id="e9dfcdbfcd628c3640b7b2a99db6ae970b6946f6" resname="dashboard.table.authors.creator">
         <source>Creator</source>
         <target state="translated">Ersteller</target>
@@ -20,16 +15,6 @@
         <source>Share</source>
         <target state="translated">Teilen</target>
         <note>key: share.action.label</note>
-      </trans-unit>
-      <trans-unit id="cdb96b59869803b97523e2bce7014a2226a54fdf" resname="share.blocked_drafts.warning">
-        <source>Some drafts on the list might be disabled for editing due to active real-time collaboration session. Only session participants can edit them.</source>
-        <target state="translated">Einige Entwürfe in der Liste sind möglicherweise aufgrund einer Sitzung zur Echtzeitzusammenarbeit für die Bearbeitung deaktiviert. Nur Sitzungsteilnehmer können sie bearbeiten.</target>
-        <note>key: share.blocked_drafts.warning</note>
-      </trans-unit>
-      <trans-unit id="ee265ffa7dd9b16ca6c86bc0281b6cf6443fcb92" resname="share.blocked_fields.warning">
-        <source>Some fields in the form might be disabled for real-time collaboration. Only owner of this content can edit it.</source>
-        <target state="translated">Einige Felder im Formular sind möglicherweise für die Echtzeitzusammenarbeit gesperrt. Nur der Eigentümer dieses Inhalts kann ihn bearbeiten.</target>
-        <note>key: share.blocked_fields.warning</note>
       </trans-unit>
       <trans-unit id="4b819fa2924ccfb636e758a3676d399236fe43e5" resname="share.collaboration_session.created">
         <source>Collaboration session created.</source>
@@ -201,46 +186,6 @@
         <target state="translated">[Ohne Titel]</target>
         <note>key: share.notification.invitation.content.email.empty_name_placeholder</note>
       </trans-unit>
-      <trans-unit id="979cb4bc5611c1015fa0c98fb8a036c0d32829c8" resname="share.notification.invitation.content_edit.email.body.cta">
-        <source>Join collaboration</source>
-        <target state="translated">An der Zusammenarbeit teilnehmen</target>
-        <note>key: share.notification.invitation.content_edit.email.body.cta</note>
-      </trans-unit>
-      <trans-unit id="b8744259467a8cfc339b3a7229678e906344d3f5" resname="share.notification.invitation.content_edit.email.body.greetings">
-        <source>Hi %name%,</source>
-        <target state="translated">Hallo %name%,</target>
-        <note>key: share.notification.invitation.content_edit.email.body.greetings</note>
-      </trans-unit>
-      <trans-unit id="9093a59ec2f1085cd601e4a98cdf56c179408de1" resname="share.notification.invitation.content_edit.email.body.location">
-        <source>Location: %name%</source>
-        <target state="translated">Standort: %name%</target>
-        <note>key: share.notification.invitation.content_edit.email.body.location</note>
-      </trans-unit>
-      <trans-unit id="3c805a396b63b110ba7e2c02b6390ae812c8e58a" resname="share.notification.invitation.content_edit.email.body.subject">
-        <source>You are invited to collaborate on</source>
-        <target state="translated">Sie sind eingeladen für die Zusammenarbeit an</target>
-        <note>key: share.notification.invitation.content_edit.email.body.subject</note>
-      </trans-unit>
-      <trans-unit id="7f2de2fdc3c47af109f7a70c22ae0bf9b16c2083" resname="share.notification.invitation.content_edit.email.subject">
-        <source>%sender% is inviting you to collaborate on %name%</source>
-        <target state="translated">%sender% lädt Sie ein zur Zusammenarbeit an %name%</target>
-        <note>key: share.notification.invitation.content_edit.email.subject</note>
-      </trans-unit>
-      <trans-unit id="63b5701e8cc37848906c20693b8b605034b67aff" resname="share.notification.invitation.content_edit.system_notification.message">
-        <source>%sender% is inviting you to collaborate on %name% in %location%</source>
-        <target state="translated">%sender% lädt Sie ein zur Zusammenarbeit an %name% in %location%</target>
-        <note>key: share.notification.invitation.content_edit.system_notification.message</note>
-      </trans-unit>
-      <trans-unit id="5377e735d11eb46686b539eff7c1464c0a1a8d21" resname="share.notification.invitation.content_edit.system_notification.message.without_location">
-        <source>%sender% is inviting you to collaborate on %name%</source>
-        <target state="translated">%sender% lädt Sie ein zur Zusammenarbeit an %name%</target>
-        <note>key: share.notification.invitation.content_edit.system_notification.message.without_location</note>
-      </trans-unit>
-      <trans-unit id="22764e12cf2ccab27f4bf29c0b02d6f82a809a16" resname="share.notification.invitation.content_edit.system_notification.subject">
-        <source>Invitation to collaborative editing</source>
-        <target state="translated">Einladung zur gemeinsamen Bearbeitung</target>
-        <note>key: share.notification.invitation.content_edit.system_notification.subject</note>
-      </trans-unit>
       <trans-unit id="293763d1fbe784e8558f656c4d65956ae345dc65" resname="share.notification.invitation.content_view.email.body.cta">
         <source>Preview</source>
         <target state="translated">Vorschau</target>
@@ -325,26 +270,6 @@
         <source>There are no matching users. You can add users e-mail address for preview only.</source>
         <target state="translated">Es gibt keine passenden Benutzer. Sie können die E-Mail-Adressen von Benutzern nur zur Vorschau hinzufügen.</target>
         <note>key: share.suggestions.no_results</note>
-      </trans-unit>
-      <trans-unit id="3764a1002242b9b52047d269f1ef574a86beb304" resname="share.tab.author.show_more">
-        <source>Show more</source>
-        <target state="translated">Mehr anzeigen</target>
-        <note>key: share.tab.author.show_more</note>
-      </trans-unit>
-      <trans-unit id="b8575a50cf2d1a44abccfb902ee6533d34b6ff57" resname="share.tab.collaborators.show_less">
-        <source>Show less</source>
-        <target state="translated">Weniger anzeigen</target>
-        <note>key: share.tab.collaborators.show_less</note>
-      </trans-unit>
-      <trans-unit id="908c60c3a91471af02221e2f5a02899e0e136594" resname="share.tab.collaborators.show_more">
-        <source>Show more</source>
-        <target state="translated">Mehr anzeigen</target>
-        <note>key: share.tab.collaborators.show_more</note>
-      </trans-unit>
-      <trans-unit id="e3b24fcfd15236adfdeb1f944c0380b95cb29fc6" resname="tab.author.collaborators">
-        <source>Collaborators</source>
-        <target state="translated">Mitwirkende</target>
-        <note>key: tab.author.collaborators</note>
       </trans-unit>
       <trans-unit id="016c96a8dcc82b45c09cd3894974575592fbf7ae" resname="toggle_widget.header">
         <source>Anyone with the shared link can preview the item.</source>
