@@ -141,11 +141,6 @@
         <target state="translated">Ce contenu est utilisé par un ou plusieurs autres éléments de contenu. Pour éviter les erreurs, mettez à jour ou supprimez tout le contenu associé répertorié dans l’onglet Relations.</target>
         <note>key: content.hide.modal.warning_content_used_by_other_content</note>
       </trans-unit>
-      <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
-        <source>In Trash</source>
-        <target state="translated">Dans la corbeille</target>
-        <note>key: content.in_trash</note>
-      </trans-unit>
       <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
         <source>Do you want to delete the content type?</source>
         <target state="translated">Voulez-vous supprimer le type de contenu ?</target>
@@ -255,6 +250,21 @@
         <source>Sorry, this page isn't available</source>
         <target state="translated">Nous sommes désolés, cette page n’est pas disponible</target>
         <note>key: error.page.404.title</note>
+      </trans-unit>
+      <trans-unit id="09bb755e1c17c18536fc7b0dc258ca692e4a17ab" resname="error.page.405.actions">
+        <source><![CDATA[Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
+        <target state="translated"><![CDATA[Retournez au <a href="%dashboard%">tableau de bord</a> ou <a href="%search%">recherchez</a> un autre élément.]]></target>
+        <note>key: error.page.405.actions</note>
+      </trans-unit>
+      <trans-unit id="d4ab8cd5c5505500d4b650eb4b757b0a1761c32e" resname="error.page.405.sub_title">
+        <source>The requested method is not allowed for this page.</source>
+        <target state="translated">La méthode demandée n’est pas autorisée pour cette page.</target>
+        <note>key: error.page.405.sub_title</note>
+      </trans-unit>
+      <trans-unit id="95ee0da0a43116ba2d3252675d6afcd38a77d084" resname="error.page.405.title">
+        <source>This action isn't available</source>
+        <target state="translated">Cette action n’est pas disponible</target>
+        <note>key: error.page.405.title</note>
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
         <source><![CDATA[Contact you Administrator to report the problem.<br/>Go back to the <a href="%dashboard%">dashboard</a> or reload the application.]]></source>

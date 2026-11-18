@@ -201,11 +201,6 @@
         <target state="translated">Configurer les éléments</target>
         <note>key: scenarios.context_items.title</note>
       </trans-unit>
-      <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
-        <source>From date - to date</source>
-        <target state="translated">De la date - à la date</target>
-        <note>key: search.date.range</note>
-      </trans-unit>
       <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
         <source><![CDATA[I have read and agree to the <a class='ibexa-perso-welcome__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
         <target state="translated"><![CDATA[J’ai lu et j’accepte les <a class='ibexa-perso-welcome__show-modal-button' href='#'>Conditions générales.</a>]]></target>
