@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="f0176a5e197c6c207e09affb1a027db2ab48a506" resname="content.field_type.ezmedia.display_controls">
         <source>Display controls</source>
-        <target state="translated">Controles de visualización</target>
+        <target state="translated">Mostrar controles</target>
         <note>key: content.field_type.ezmedia.display_controls</note>
       </trans-unit>
       <trans-unit id="eb3b924b6a2d94344ea5e1e51636ef5b92a7a57a" resname="content.field_type.ezmedia.height">

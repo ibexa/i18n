@@ -87,8 +87,8 @@
         <note>key: product.collection.error.not_found</note>
       </trans-unit>
       <trans-unit id="1debb37be6f3300270ec8ceba80cd84def84855e" resname="product.collection.no_products">
-        <source>There are currently no added products in the list</source>
-        <target state="translated">Aucun produit n’a été ajouté à la liste pour le moment</target>
+        <source>You haven't selected any products yet</source>
+        <target state="translated">Vous n’avez pas encore sélectionné de produits</target>
         <note>key: product.collection.no_products</note>
       </trans-unit>
       <trans-unit id="76116573f30b82c8f6271feb6b8a75b3eea224a2" resname="product.collection.or">
