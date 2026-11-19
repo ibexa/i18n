@@ -16,16 +16,6 @@
         <target state="new">Share</target>
         <note>key: share.action.label</note>
       </trans-unit>
-      <trans-unit id="f66d7653777b4e66004274621e2dea4bd9af6295" resname="share.blocked_drafts.shared_warning">
-        <source>Some drafts on the list might be locked for editing because they are shared.</source>
-        <target state="new">Some drafts on the list might be locked for editing because they are shared.</target>
-        <note>key: share.blocked_drafts.shared_warning</note>
-      </trans-unit>
-      <trans-unit id="482e4561e729a3a1acabb7ab55b5233272b114c5" resname="share.blocked_fields.shared_warning">
-        <source>Some fields in the form might be disabled because this draft is shared. Only its owner can edit them.</source>
-        <target state="new">Some fields in the form might be disabled because this draft is shared. Only its owner can edit them.</target>
-        <note>key: share.blocked_fields.shared_warning</note>
-      </trans-unit>
       <trans-unit id="4b819fa2924ccfb636e758a3676d399236fe43e5" resname="share.collaboration_session.created">
         <source>Collaboration session created.</source>
         <target state="new">Collaboration session created.</target>
