@@ -16,11 +16,6 @@
         <target state="translated">Activé</target>
         <note>key: ibexa.share.limitation.public_link.options.on</note>
       </trans-unit>
-      <trans-unit id="c3925bb7e91ecf9d07bf10dc0b28721de084d821" resname="ibexa.share.limitation.scope.edit">
-        <source>Edit</source>
-        <target state="translated">Modifier</target>
-        <note>key: ibexa.share.limitation.scope.edit</note>
-      </trans-unit>
       <trans-unit id="e96a427356ffc6c29432831c1ca75dcf4c99aa45" resname="ibexa.share.limitation.scope.view">
         <source>View</source>
         <target state="translated">Vue</target>
