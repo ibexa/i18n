@@ -281,6 +281,21 @@
         <target state="translated">Lo sentimos, esta página no está disponible</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
+      <trans-unit id="09bb755e1c17c18536fc7b0dc258ca692e4a17ab" resname="error.page.405.actions">
+        <source><![CDATA[Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
+        <target state="translated"><![CDATA[Vuelve al <a href="%dashboard%">panel</a> o <a href="%search%">busca</a> otro elemento.]]></target>
+        <note>key: error.page.405.actions</note>
+      </trans-unit>
+      <trans-unit id="d4ab8cd5c5505500d4b650eb4b757b0a1761c32e" resname="error.page.405.sub_title">
+        <source>The requested method is not allowed for this page.</source>
+        <target state="translated">El método solicitado no está permitido para esta página.</target>
+        <note>key: error.page.405.sub_title</note>
+      </trans-unit>
+      <trans-unit id="95ee0da0a43116ba2d3252675d6afcd38a77d084" resname="error.page.405.title">
+        <source>This action isn't available</source>
+        <target state="translated">Esta acción no está disponible</target>
+        <note>key: error.page.405.title</note>
+      </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
         <source><![CDATA[Contact you Administrator to report the problem.<br/>Go back to the <a href="%dashboard%">dashboard</a> or reload the application.]]></source>
         <target state="translated"><![CDATA[Ponte en contacto con tu administrador para notificar el problema.<br/>Volver al <a href="%dashboard%">panel</a> o volver a cargar la aplicación.]]></target>
