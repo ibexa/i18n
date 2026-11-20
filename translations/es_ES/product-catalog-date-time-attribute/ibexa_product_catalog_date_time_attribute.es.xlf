@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="4d695e82a5bc5c85279f309a6b601722b831a9aa" resname="ibexa.product_catalog.attribute.form.accuracy.empty">
         <source>ibexa.product_catalog.attribute.form.accuracy.empty</source>
-        <target state="needs-translation">ibexa.product_catalog.attribute.form.accuracy.empty</target>
+        <target state="new"></target>
         <note>key: ibexa.product_catalog.attribute.form.accuracy.empty</note>
       </trans-unit>
       <trans-unit id="8df862d28947bc810c8ad22ee25ca2b5ca1349f4" resname="ibexa.product_catalog.attribute.form.accuracy.minute_eg_select_label">
