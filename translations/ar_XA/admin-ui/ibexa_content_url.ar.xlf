@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="71a3521d37991dc43b665d2cc94b7e1589360f48" resname="custom_url_alias_add_form.site_access.placeholder">
         <source>None</source>
-        <target state="translated"></target>
+        <target state="translated">لا يوجد</target>
         <note>key: custom_url_alias_add_form.site_access.placeholder</note>
       </trans-unit>
       <trans-unit id="5c48ac36c2a46c2dc2a89fd4c91a2a3d684eb5d8" resname="tab.urls.action.add">

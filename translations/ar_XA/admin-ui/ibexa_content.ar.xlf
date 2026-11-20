@@ -36,6 +36,11 @@
         <target state="translated">تم إخفاء عنصر المحتوى '%name%'.</target>
         <note>key: content.hide.success</note>
       </trans-unit>
+      <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
+        <source>In Trash</source>
+        <target state="translated">في سلة المهملات</target>
+        <note>key: content.in_trash</note>
+      </trans-unit>
       <trans-unit id="d773dd487e4e5467fd20fc4fc4987eba33eaf1b7" resname="content.main_language_update.success">
         <source>Main language for '%name%' updated.</source>
         <target state="translated">تم تحديث اللغة الرئيسية لـ '%name%'.</target>
@@ -90,6 +95,11 @@
         <source>Go to content</source>
         <target state="translated">انتقل إلى المحتوى</target>
         <note>key: embedded_items.action.go_to_label</note>
+      </trans-unit>
+      <trans-unit id="a48aa7f4812d8330514a95270803bbb67cb6c65a" resname="embedded_items.action.go_to_product_label">
+        <source>Go to product</source>
+        <target state="translated">انتقل إلى المنتج</target>
+        <note>key: embedded_items.action.go_to_product_label</note>
       </trans-unit>
       <trans-unit id="f6ae7078e77f584ad00c8003405ca11dc57c4d56" resname="preview_header.back">
         <source>Close</source>
